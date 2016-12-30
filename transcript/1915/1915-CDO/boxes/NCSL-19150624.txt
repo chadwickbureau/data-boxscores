@@ -1,0 +1,902 @@
+date: 1915-06-24
+number: 0
+league: North Carolina State
+away: Raleigh
+home: Charlotte
+source: Charlotte Daily Observer, June 25, 1915
+A: 800
+
+Raleigh:	ab r h po a e
+Dysert @ lf:	5 0 2 1 0 0
+Mack @ 1b:	4 0 0 8 0 0
+Citrano @ ss:	4 1 1 2 3 1
+Perkins @ c:	3 0 0 10 2 0
+Schuyler @ cf:	2 0 0 0 0 1
+McConnell @ 3b:	4 1 1 0 1 2
+McCord @ 2b:	4 0 1 2 2 0
+Tally @ rf:	4 1 1 1 0 0
+Myers @ p:	4 1 2 0 2 1
+TOTALS:		34 4 8 24 10 5
+
+Charlotte:	ab r h po a e
+Joplin @ ss:	5 1 1 4 4 0
+Leonard @ 2b:	4 2 2 2 3 1
+Munch @ 1b:	4 1 2 10 1 0
+Geary @ p:	4 1 2 0 1 0
+Boykin @ lf:	3 0 0 4 0 0
+Doak @ 3b:	4 1 0 0 3 0
+Sweeney @ cf:	4 0 2 3 0 0
+Dudley @ c:	4 1 1 3 0 0
+Ledbetter @ rf:	4 1 1 0 0 0
+TOTALS:		36 8 11 26 12 1
+
+line: Raleigh:   0 0 0 0 1 0 1 2 0 - 4 
+line: Charlotte: 1 0 0 1 1 4 1 0 x - 8
+
+B_LOB: Raleigh #8; Charlotte #6
+B_ROE: Charlotte #3
+B_2B: McConnell; Myers; Munch; Dudley
+B_3B: Leonard
+B_SB: Dysert; Sweeney
+B_SH: Perkins; Leonard
+P_BB: Myers #1; Geary #4
+P_SO: Myers #9; Geary #1
+P_WP: Myers #2
+F_DP: Munch, Joplin, Munch
+T: 1:45
+U: Blackburn; Brandon
+
+---
+
+date: 1915-06-24
+number: 0
+league: North Carolina State
+away: Asheville
+home: Durham
+source: Charlotte Daily Observer, June 25, 1915
+A: 440
+
+Asheville:	ab r h po a e
+Bradshaw @ ss:	3 0 0 4 6 1
+Corbett @ 2b:	5 1 0 5 1 0
+Hickman @ rf:	5 1 1 1 0 0
+Wasem @ lf:	5 1 1 1 0 0
+Fenton @ cf:	4 0 0 4 0 0
+McCoy @ 1b:	3 1 1 6 1 1
+Perritt @ 3b:	4 1 1 1 2 0
+Woodall @ c:	4 0 2 4 2 0
+Ferris @ p:	2 2 1 1 0 0
+TOTALS:		35 7 7 27 12 2
+
+Durham:		ab r h po a e
+Butts @ lf:	4 0 0 0 0 1
+Hiller @ 3b:	4 0 0 2 4 1
+Kelly, W. @ ss:	4 0 1 2 2 2
+Morpeth @ 1b:	4 1 0 13 1 2
+Dayton @ cf:	4 1 2 4 0 0
+Cheek @ rf:	3 1 0 1 0 1
+Duggan @ 2b:	4 0 2 2 2 0
+Boyle @ c:	4 0 1 3 2 1
+Ostermeyer @ p:	2 0 0 0 6 0
+TOTALS:		33 3 6 27 17 8
+
+line: Asheville: 0 0 1 0 4 1 0 1 0 - 7
+line: Durham:    0 2 0 0 0 0 0 0 1 - 3
+
+B_LOB: Durham #5; Asheville #6
+B_ROE: Durham #2; Asheville #5
+B_2B: McCoy; Wasem
+B_SB: Hickman; Dayton; Cheek #2; Duggan
+B_SH: Bradshaw
+B_SF: Bradshaw
+P_BB: Ostermeyer #3; Ferris #2
+P_SO: Ostermeyer #3; Ferris #4
+F_DP: Woodall 
+T: 1:45
+U: Boyle
+
+---
+
+date: 1915-06-24
+number: 0
+league: North Carolina State
+away: Winston-Salem
+home: Greensboro
+source: Charlotte Daily Observer, June 25, 1915
+A: 500
+
+Winston-Salem:	ab r h po a e
+Heck @ lf:	4 1 0 2 0 0
+Barber @ cf:	3 0 1 2 0 0
+Moorefield @ rf:	4 0 1 0 0 0
+Stuart @ ss:	4 0 0 2 4 2
+Parkins @ 3b:	3 0 0 2 0 0
+Boggess @ 1b:	3 1 1 9 1 0
+Koehler @ c:	3 1 1 6 3 0
+Howard @ 2b:	4 0 2 3 3 1
+Baumgartner @ p:	4 0 0 0 1 0
+TOTALS:		32 3 6 26 12 3
+
+Greensboro:	ab r h po a e
+Smith @ 2b:	3 0 0 3 1 0
+Yoder @ 3b:	3 0 0 0 1 2
+Nesser @ rf:	4 0 1 0 0 0
+Van Horn @ 1b:	4 0 0 7 0 0
+McBane @ cf:	4 0 1 0 0 0
+Gosnell @ lf:	4 0 1 1 0 0
+Emery @ ss:	3 0 2 3 0 1
+Rowe, [W.] @ c:	2 0 0 13 4 0
+Ray @ p:	3 0 0 0 0 1
+TOTALS:		30 0 5 27 6 4
+
+line: Winston-Salem: 0 0 0 0 0 1 1 0 1 - 3 
+line: Greensboro:    0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Winston-Salem #6; Greensboro #5
+B_ROE: Winston-Salem #4; Greensboro #3
+B_2B: Gosnell; Moorefield; Boggess
+B_3B: Howard
+B_SH: [W.] Rowe; Boggess; Barber; Koehler
+P_BB: Ray #1; Baumgartner #2
+P_SO: Ray #13; Baumgartner #6
+F_DP: Stuart, Boggess
+T: 2:10
+U: Kelly
+
+---
+
+date: 1915-06-25
+number: 0
+league: North Carolina State
+away: Raleigh
+home: Charlotte
+source: Charlotte Daily Observer, June 26, 1915
+A: 1100
+
+Raleigh:	ab r h po a e
+Dysert @ lf:	5 1 1 1 0 0 
+Mack @ 1b:	5 0 2 12 1 0
+Citrano @ ss:	4 0 2 2 3 0
+Perkins @ c:	4 0 1 5 0 0
+Schuyler @ cf:	3 0 0 2 0 0
+McConnell @ 3b:	4 0 0 1 4 1
+McCord @ 2b:	4 1 0 1 1 0
+Tally @ rf:	4 0 2 0 0 0
+Parnham @ p:	3 0 1 0 4 0
+*Myers @ ph:	1 0 0 0 0 0
+TOTALS:		37 2 9 24 13 1
+
+Charlotte:	ab r h po a e
+Joplin @ ss:	3 0 0 5 1 2
+Leonard @ 2b:	3 1 0 4 8 1
+Munch @ 1b:	3 0 1 7 0 0
+Geary @ rf-p:	3 0 0 3 1 0
+Boykin @ lf:	3 1 1 3 0 0
+Doak @ 3b:	3 0 0 1 2 0 
+Sweeney @ cf:	3 0 0 3 0 0
+Dudley @ c:	3 0 1 2 2 0
+Pratt @ p:	2 1 1 0 1 0
+Ledbetter @ rf:	1 0 0 0 0 0
+TOTALS:		27 3 4 27 15 2
+
+*: batted for Parnham in 9th
+
+line: Raleigh:   0 0 0 0 0 0 2 0 0 - 2 
+line: Charlotte: 1 1 1 0 0 0 0 0 x - 3
+
+B_LOB: Raleigh #9; Charlotte #2
+B_ROE: Charlotte #1; Raleigh #3
+B_3B: Munch; Dudley
+B_HR: Boykin
+B_SB: Leonard #2; Citrano
+B_SH: Schuyler; Joplin
+P_BB: Parnham #1
+P_SO: Parnham #5; Geary #2
+P_H:  Pratt #9
+P_IP: Pratt #7.1; Geary #1.2
+F_DP: Doak, Leonard, Munch; Parnham, Citrano, Mack
+T: 1:18
+U:  Brandon; Blackburn
+
+---
+
+date: 1915-06-25
+number: 0
+league: North Carolina State
+away: Asheville
+home: Durham
+source: Charlotte Daily Observer, June 26, 1915
+A: 480
+
+Asheville:	ab r h po a e
+Bradshaw @ ss:	2 2 0 1 4 0
+Corbett @ 2b:	4 1 3 5 3 2
+Hickman @ rf:	3 1 0 2 0 0
+Wasem @ lf:	4 0 1 1 0 0
+Fenton @ cf:	3 1 0 3 0 0
+McCoy @ 1b:	2 0 1 9 0 0
+Perritt @ 3b:	4 0 1 2 0 0
+Woodall @ c:	4 0 0 3 0 0
+Fortune @ p:	3 1 2 0 4 0
+TOTALS:		29 6 8 27 11 2
+
+Durham:		ab r h po a e
+Butts @ lf:	4 2 3 2 0 0
+Hiller @ 3b:	4 0 0 1 3 0
+Kelly, W. @ ss:	5 0 1 6 2 1
+Morpeth @ 1b:	3 0 0 10 0 0
+Dayton @ cf:	3 0 0 0 0 0
+Maddox @ rf:	4 0 1 2 0 0
+Duggan @ 2b:	3 0 1 1 4 1
+Boyle @ c:	4 1 1 4 2 0
+Atkinson @ p:	4 1 1 0 5 0
+TOTALS:		33 4 8 26 16 2
+
+line: Asheville: 1 1 1 3 0 0 0 0 0 - 6
+line: Durham:    1 0 0 0 0 1 0 2 0 - 4
+
+B_LOB: Durham #8; Asheville #8
+B_ROE: Durham #2
+B_3B: Boyle; Butts #2
+B_SB: W. Kelly; Dayton
+B_SH: Corbett; McCoy; Perritt
+B_SF: Hiller
+P_BB: Atkinson #9; Fortune #6
+P_SO: Atkinson #2; Fortune #3
+F_DP: Corbett, McCoy
+F_PB: Boyle
+T: 2:05
+U: Boyle
+
+---
+
+date: 1915-06-25
+number: 0
+league: North Carolina State
+away: Winston-Salem
+home: Greensboro
+source: Charlotte Daily Observer, June 26, 1915
+A: 500
+
+Winston-Salem:	ab r h po a e
+Heck @ lf:	3 0 1 0 0 0
+Barber @ cf:	3 2 2 0 0 0
+Moorefield @ rf:	3 0 2 3 0 0
+Stuart @ ss:	4 0 1 2 2 0
+Parkins @ 3b:	4 0 0 0 2 0
+Boggess @ 1b:	4 0 1 6 0 0
+Koehler @ c:	4 0 0 10 1 0
+Howard @ 2b:	3 1 0 3 3 0
+Meador @ p:	1 1 1 0 0 0
+Schwartje @ p:	2 0 0 0 2 0
+TOTALS:		31 4 8 24 10 0
+
+Greensboro:	ab r h po a e
+Smith @ 2b:	3 1 1 8 4 0
+Yoder @ 3b:	3 0 0 2 2 0
+Nesser @ 1b:	4 1 1 12 0 0
+McBane @ cf:	4 2 2 1 0 0
+Gosnell @ lf:	4 1 1 0 0 0
+Emery @ ss:	2 1 1 1 6 1
+Rowe, B. @ c:	3 1 1 2 3 0
+Harper @ rf:	4 0 1 0 1 0
+Mohart @ p:	3 0 0 0 4 0
+TOTALS:		30 7 8 26 20 1
+
+line: Winston-Salem: 0 0 3 0 1 0 0 0 0 - 4 
+line: Greensboro:    0 3 0 0 0 2 2 0 x - 7
+
+B_LOB: Winston-Salem #4; Greensboro #3
+B_ROE: Greensboro #1
+B_2B: McBane; Gosnell
+B_3B: Nesser
+B_SB: B. Rowe; Emery; Harper; Barber
+B_SH: Emery; Yoder; Heck; Barber
+B_HP: Emery
+P_BB: Mohart #2; Schwartje #2
+P_SO: Mohart #2; Schwartje #2; Meador #2
+P_H:  Meador #3; Schwartje #5
+P_IP: Meador #2; Schwartje #6
+P_HP: Meador
+P_WP: Schwartje
+F_DP: Yoder, Smith, Nesser; Howard, Stuart, Boggess
+F_PB: B. Rowe
+T: 2:00
+U: Kelly
+
+---
+
+date: 1915-06-26
+number: 0
+league: North Carolina State
+away: Raleigh
+home: Charlotte
+source: Charlotte Daily Observer, June 27, 1915
+A: 1150
+
+Raleigh:	ab r h po a e
+Dysert @ lf:	5 0 0 3 0 0
+Mack @ 1b:	4 0 2 12 0 0
+Citrano @ ss:	6 0 0 2 2 0
+Perkins @ c:	5 1 2 10 0 0
+Schuyler @ cf:	2 2 1 1 0 0
+McConnell @ 3b:	5 1 1 2 3 0
+Tally @ rf:	6 1 1 5 0 1
+McCord @ 2b:	5 0 2 1 5 1
+Currie @ p:	2 0 0 0 1 0
+Myers @ p:	1 0 0 0 1 0
+TOTALS:		41 5 9 36 12 2
+
+Charlotte:	ab r h po a e
+Joplin @ ss:	6 0 0 2 5 0
+Leonard @ 2b:	4 1 0 5 1 0
+Munch @ 1b:	5 1 1 13 1 0
+Wofford @ rf-lf:	4 2 0 1 0 0
+Boykin @ lf:	4 0 3 3 0 0
+Wells @ rf:	1 0 0 0 0 0
+Smith @ cf:	5 0 0 2 1 1
+Doak @ 3b:	3 0 0 2 3 0
+Dudley @ c:	4 0 0 8 1 0
+Ledbetter @ p:	1 0 0 0 1 0
+Gossage @ p:	1 0 0 0 2 0
+Geary @ p:	3 0 0 1 3 1
+TOTALS:		41 4 4 36 18 2
+
+line: Raleigh:   0 0 0 3 1 0 0 0 0 0 0 1 - 5 
+line: Charlotte: 0 0 0 0 0 0 1 3 0 0 0 0 - 4
+
+B_LOB: Raleigh #12; Charlotte #4
+B_ROE: Charlotte #2; Raleigh #1
+B_2B: McCord
+B_3B: Munch; Boykin
+B_SB: Schuyler; Mack
+B_SH: Schuyler #2; Myers
+B_SF: Dudley
+B_HP: McConnell; Doak
+P_BB: Ledbetter #5; Gossage #2; Geary #2; Currie #2
+P_SO: Ledbetter #2; Gossage #2; Geary #1; Currie #4; Myers #3
+P_H:  Ledbetter #2; Gossage #1; Geary #6; Currie #3; Myers #1
+P_IP: Ledbetter #3.1; Gossage #3.2; Geary #5; Currie #7.1; Myers #4.2
+P_HP: Ledbetter; Myers
+T: 2:15
+U:  Blackburn; Brandon
+
+---
+
+date: 1915-06-26
+number: 0
+league: North Carolina State
+away: Asheville
+home: Durham
+source: Charlotte Daily Observer, June 27, 1915
+A: 670
+
+Asheville:	ab r h po a e
+Bradshaw @ 2b:	4 0 0 3 3 1
+Corbett @ ss:	2 1 1 1 0 0
+Hewell @ ss:	1 0 0 3 1 0
+Hickman @ rf:	4 0 0 2 0 0
+Wasem @ lf:	4 0 1 2 0 1
+Fenton @ cf:	3 0 1 2 0 0
+McCoy @ 1b:	4 0 1 7 1 0
+Perritt @ 3b:	4 0 1 1 1 0
+Woodall @ c:	2 0 1 2 3 0
+Ingle @ p:	4 0 0 1 2 0
+TOTALS:		32 1 6 24 7 2
+
+Durham:		ab r h po a e
+Butts @ lf:	4 1 1 1 0 0
+Hiller @ 3b:	3 0 1 0 2 1
+Kelly, W. @ ss:	2 0 1 3 7 1
+Morpeth @ 1b:	4 1 2 14 1 0
+Dayton @ cf:	4 1 1 0 0 0
+Maddox @ rf:	4 1 1 1 0 1
+Duggan @ 2b:	4 1 2 3 2 0
+Boyle @ c:	3 1 1 6 1 0
+Frey @ p:	3 0 0 0 4 0
+TOTALS:		31 6 10 27 17 3
+
+line: Asheville: 1 0 0 0 0 0 0 0 0 - 1
+line: Durham:    0 0 0 6 0 0 0 0 x - 6
+
+B_LOB: Durham #2; Asheville #6
+B_ROE: Durham #1; Asheville #1
+B_2B: Corbett; Perritt; Hiller
+B_3B: Morpeth
+B_SB: Morpeth
+B_SH: Hiller
+P_BB: Frey #3; Ingle #3
+P_SO: Frey #5; Ingle #3
+T: 1:45
+U: Boyle
+
+---
+
+date: 1915-06-26
+number: 0
+league: North Carolina State
+away: Winston-Salem
+home: Greensboro
+source: Charlotte Daily Observer, June 27, 1915
+A: 1000
+
+Winston-Salem:	ab r h po a e
+Heck @ lf:	5 2 1 0 0 0
+Barber @ cf:	5 1 2 2 0 0
+Moorefield @ rf:	5 1 1 1 2 0
+Stuart @ ss:	5 0 2 0 2 1
+Boggess @ 1b:	4 0 1 11 0 0
+Parkins @ 3b:	4 0 0 1 2 0
+Koehler @ c:	5 0 2 6 0 0
+Howard @ 2b:	3 1 0 3 3 0
+Burge @ p:	4 1 0 0 2 0
+Baumgartner @ p:	0 0 0 0 0 0
+TOTALS:		40 6 9 24 11 1
+
+Greensboro:	ab r h po a e
+Smith @ 2b:	5 0 2 3 6 3
+Yoder @ 3b:	4 1 1 1 0 1
+Nesser @ 1b:	5 0 1 12 1 1
+McBane @ cf:	5 2 2 1 0 0
+Gosnell @ lf:	1 0 0 0 0 0
+Emery @ ss:	4 0 1 3 8 1
+Rowe, B. @ c:	3 2 2 5 1 0
+Harper @ rf:	3 2 3 2 0 0
+McWhorter @ p:	3 0 0 1 1 0
+TOTALS:		33 7 12 27 17 6
+
+line: Winston-Salem: 3 0 0 0 0 3 0 0 0 - 6 
+line: Greensboro:    0 2 0 0 1 0 2 1 1 - 7
+
+B_LOB: Winston-Salem #9; Greensboro #8
+B_ROE: Winston-Salem #5; Greensboro #1
+B_2B: Harper #2; Moorefield
+B_3B: Harper; Barber
+B_SB: Emery; B. Rowe
+B_SH: Gosnell #2; McWhorter; Boggess
+P_BB: McWhorter #2; Burge #2; Baumgartner #2
+P_SO: McWhorter #5; Burge #5
+P_H:  Burge #10; Baumgartner #2
+P_IP: Burge #7.1; Baumgartner #0.2
+T: 2:10
+U: Kelly
+
+---
+
+date: 1915-06-28
+number: 0
+league: North Carolina State
+away: Charlotte
+home: Winston-Salem
+source: Charlotte Daily Observer, June 29, 1915
+A: 400
+
+Charlotte:	ab r h po a e
+Smith @ cf:	4 1 0 2 0 1
+Leonard @ 2b:	4 1 1 2 3 0
+Munch @ 1b:	4 1 1 6 0 0
+Wofford @ rf:	4 0 2 0 0 0
+Boykin @ lf:	3 1 1 4 1 0
+Doak @ 3b:	2 1 0 1 2 0
+Joplin @ ss:	4 1 1 4 4 0
+Dudley @ c:	4 0 1 8 0 0
+Ledbetter @ p:	4 0 0 0 0 0
+TOTALS:		33 6 7 27 10 1
+
+Winston-Salem:	ab r h po a e
+Sweeney @ lf:	5 0 0 2 0 0
+Barber @ cf:	4 0 2 1 0 0
+Heck @ 3b:	3 0 0 2 1 0
+Moorefield @ rf:	4 0 1 0 0 0
+Stuart @ ss:	3 0 0 1 4 0
+Boggess @ 1b:	4 0 1 9 1 1
+Koehler @ c:	3 0 2 11 1 0
+Howard @ 2b:	3 0 0 0 2 1
+Schwartje @ p:	4 0 2 1 2 0
+TOTALS:		33 0 8 27 12 2
+
+line: Charlotte:     3 0 0 0 0 3 0 0 0 - 6
+line: Winston-Salem: 0 0 0 0 0 0 0 0 0 - 0 
+
+B_LOB: Winston-Salem #10; Charlotte #3
+B_ROE: Charlotte #1
+B_2B: Wofford; Dudley
+B_SB: Leonard; Boykin
+P_BB: Ledbetter #4; Schwartje #4
+P_SO: Ledbetter #6; Schwartje #9
+P_WP: Ledbetter
+F_DP: Leonard, Joplin, Munch; Boykin, Dudley
+F_PB: Koehler
+T: 1:55
+U: Blackburn
+
+---
+
+date: 1915-06-28
+number: 0
+league: North Carolina State
+away: Durham
+home: Greensboro
+source: Charlotte Daily Observer, June 29, 1915
+A: 575
+
+Durham:		ab r h po a e
+Butts @ lf:	4 0 1 1 0 1
+Hiller @ 3b:	4 0 1 1 1 1
+Kelly, W. @ ss:	4 0 1 3 3 1
+Morpeth @ 1b:	4 0 0 9 0 0
+Dayton @ cf:	4 0 1 1 0 0
+Kelly, J. @ rf:	4 0 2 1 0 0
+Duggan @ 2b:	3 0 0 1 5 0
+Maddox @ c:	3 0 1 6 2 1
+Forbes @ p:	2 0 0 0 2 0
+*Boyle @ ph:	1 0 0 0 0 0
++Frey @ ph:	1 0 0 0 0 0
+TOTALS:		34 0 7 23 13 4
+
+Greensboro:	ab r h po a e
+Smith @ 2b:	3 0 1 4 2 1
+Reiff @ 3b:	3 0 0 0 3 0
+Nesser @ 1b:	4 0 0 9 0 0
+McBane @ cf:	3 1 1 1 1 0
+Gosnell @ lf:	2 1 0 2 0 0
+Emery @ ss:	3 1 0 2 2 0
+Rowe, W. @ c:	3 1 2 7 0 0
+Harper @ rf:	3 0 1 1 0 0
+Mohart @ p:	3 0 0 1 0 1
+TOTALS:		27 4 5 27 8 2
+
+*: batted for Duggan in 9th
++: batted for Forbes in 9th
+
+line: Durham:     0 0 0 0 0 0 0 0 0 - 0 
+line: Greensboro: 0 0 0 0 0 0 4 0 x - 4
+
+B_LOB: Durham #9; Greensboro #5
+B_ROE: Durham #1; Greensboro #2
+B_2B: Harper
+B_3B: W. Rowe
+B_SB: Emery; Gosnell; Butts
+B_SH: Reiff
+B_HP: Gosnell
+P_BB: Mohart #2; Forbes #4
+P_SO: Mohart #6; Forbes #5
+T: 1:50
+U: Boyle
+
+---
+
+date: 1915-06-28
+number: 0
+league: North Carolina State
+away: Raleigh
+home: Asheville
+source: Charlotte Daily Observer, June 29, 1915
+A: 458
+
+Raleigh:	ab r h po a e
+Dysert @ lf:	5 1 1 1 0 0
+Mack @ 1b:	5 1 1 10 2 1
+Citrano @ ss:	4 0 1 1 3 1
+Perkins @ c:	3 1 2 5 0 1
+Schuyler @ cf:	4 1 2 1 0 0
+McConnell @ 3b:	4 0 1 0 1 0
+Tally @ rf:	3 0 1 5 0 0
+McCord @ 2b:	4 0 1 3 3 0
+Munoz @ p:	3 1 1 0 2 1
+Myers @ p:	1 0 0 0 0 0
+TOTALS:		36 5 11 26 11 4
+
+Asheville:	ab r h po a e
+Bradshaw @ 2b:	5 0 1 3 2 1
+Corbett @ ss:	4 0 0 0 0 0
+Hickman @ rf:	5 2 1 2 0 0
+Wasem @ lf:	5 1 2 0 0 0
+Fenton @ cf:	5 1 1 5 0 0
+McCoy @ 1b:	4 2 2 10 0 0
+Perritt @ 3b:	4 0 1 2 5 0
+Woodall @ c:	3 0 0 5 2 1
+Ferris @ p:	2 0 0 0 4 0
+TOTALS:		37 6 8 27 13 2
+
+line: Raleigh:   0 2 0 0 3 0 0 0 0 - 5 
+line: Asheville: 0 1 0 1 0 0 0 3 1 - 6
+
+B_LOB: Raleigh #6; Asheville #9
+B_ROE: Raleigh #1; Asheville #3
+B_2B: Perkins; Schuyler; McCoy
+B_HR: McCoy
+B_SB: Bradshaw; Hickman #2; Wasem; McCoy; Woodall
+B_SH: Perkins; Tally
+B_HP: Ferris
+P_BB: Munoz #2
+P_SO: Munoz #3; Myers #2; Ferris #5
+P_H: Munoz #6; Myers #2 
+P_IP: Munoz #7.2; Myers #1.1  
+P_HP: Myers 
+F_PB: Perkins 
+T: 1:50
+U:  Kelly
+
+---
+
+date: 1915-06-29
+number: 0
+league: North Carolina State
+away: Charlotte
+home: Winston-Salem
+source: Charlotte Daily Observer, June 30, 1915
+A: 500
+
+Charlotte:	ab r h po a e
+Smith @ cf:	5 1 2 1 0 0
+Leonard @ 2b:	5 0 2 2 7 0
+Munch @ 1b:	4 0 1 10 0 0
+Wofford @ rf:	4 0 1 0 0 0
+Boykin @ lf:	2 0 1 2 0 0
+Doak @ 3b:	3 0 1 0 0 0
+Joplin @ ss:	2 0 0 3 1 0
+Dudley @ c:	3 1 0 6 2 1
+Gossage @ p:	1 0 0 0 0 0
+Pratt @ p:	2 0 0 0 2 0
+*Geary @ ph:	1 0 0 0 0 0
+TOTALS:		32 2 8 24 12 1
+
+Winston-Salem:	ab r h po a e
+Sweeney @ lf:	4 0 0 1 1 1
+Heck @ 3b:	4 1 1 1 0 0
+Barber @ cf:	4 1 2 4 1 0
+Moorefield @ rf:	3 1 2 1 0 0
+Stuart @ ss:	4 1 3 3 7 1
+Boggess @ 1b:	4 1 2 14 0 0
+Koehler @ c:	4 0 0 2 0 0
+Howard @ 2b:	4 0 0 1 4 0
+Baumgartner @ p:	3 0 1 0 4 0
+TOTALS:		34 5 11 27 17 2
+
+*: batted for Pratt in 9th
+
+line: Charlotte:     0 0 1 0 1 0 0 0 0 - 2
+line: Winston-Salem: 0 3 1 0 0 0 1 0 x - 5 
+
+B_LOB: Winston-Salem #6; Charlotte #9
+B_ROE: Winston-Salem #1; Charlotte #2
+B_2B: Wofford; Munch; Leonard #2; Barber #2
+B_HR: Heck
+B_SB: Boykin
+B_SH: Doak
+P_BB: Pratt #1; Baumgartner #5
+P_SO: Pratt #4; Baumgartner #1; Gossage #2
+P_H:  Gossage #4; Pratt #7
+P_IP: Gossage #2; Pratt #6
+F_DP: Stuart, Howard
+T: 1:45
+U: Blackburn
+
+---
+
+date: 1915-06-29
+number: 0
+league: North Carolina State
+away: Durham
+home: Greensboro
+source: Charlotte Daily Observer, June 30, 1915
+A: 500
+
+Durham:		ab r h po a e
+Butts @ 2b:	5 0 3 2 0 0
+Angier @ cf:	4 0 0 4 0 0
+Hiller @ 3b:	5 2 2 3 3 1
+Kelly, W. @ ss:	4 1 1 2 3 0
+Morpeth @ 1b:	3 1 0 10 1 0
+Dayton @ lf:	4 1 3 2 1 0
+Kelly, J. @ rf:	3 1 0 1 0 0
+Boyle @ c:	3 1 1 3 1 0
+Ostermeyer @ p:	4 0 0 0 2 1
+TOTALS:		35 7 10 27 8 2
+
+Greensboro:	ab r h po a e
+Smith @ 2b:	5 0 1 1 5 0
+Reiff @ 3b:	4 0 0 0 1 1 
+Nesser @ 1b:	3 1 2 13 0 0
+McBane @ cf:	3 0 1 2 0 0
+Gosnell @ lf:	4 0 0 3 0 0
+Emery @ ss:	3 0 1 3 2 1
+Rowe, B. @ c:	2 0 0 4 1 0
+Harper @ rf:	3 0 0 1 0 0
+McWhorter @ p:	1 0 0 0 1 0
+*Rowe, W. @ ph:	1 0 0 0 0 0	
+TOTALS:		30 1 5 26 10 2
+
+*: batted for McWhorter in 9th
+
+line: Durham:     0 0 0 5 1 0 1 0 0 - 7 
+line: Greensboro: 0 0 0 1 0 0 0 0 0 - 1
+
+B_LOB: Durham #6; Greensboro #7
+B_ROE: Durham #2; Greensboro #1
+B_2B: Nesser #2; Dayton
+B_SB: Emery; Gosnell; Angier; Butts #2; W. Kelly; Dayton; Morpeth
+B_SH: W. Kelly
+B_SF: Emery; Morpeth
+B_HP: Boyle
+P_BB: McWhorter #2; Ostermeyer #7
+P_SO: McWhorter #3; Ostermeyer #2
+P_HP: McWhorter
+F_DP: Ostermeyer, Hiller, Morpeth
+T: 1:50
+U: Boyle
+
+---
+
+date: 1915-06-29
+number: 0
+league: North Carolina State
+away: Raleigh
+home: Asheville
+source: Charlotte Daily Observer, June 30, 1915
+A: 407
+
+Raleigh:	ab r h po a e
+Dysert @ lf:	4 0 0 0 0 0
+Mack @ 1b:	4 1 1 9 2 0
+Citrano @ ss:	3 0 0 1 2 0
+Perkins @ c:	4 1 1 5 2 0
+Schuyler @ cf:	4 1 0 4 0 1
+McConnell @ 3b:	1 1 0 0 2 1
+Tally @ rf:	3 0 3 4 0 0
+McCord @ 2b:	3 0 0 2 2 0
+Myers @ p:	4 0 0 0 1 0
+TOTALS:		30 4 5 25 11 2
+
+Asheville:	ab r h po a e
+Bradshaw @ 2b:	5 1 0 0 2 1
+Corbett @ ss:	3 1 0 1 2 1
+Hickman @ rf:	2 1 1 1 0 1
+Wasem @ lf:	4 0 1 1 0 0
+Fenton @ cf:	4 0 0 2 0 0
+McCoy @ 1b:	4 1 1 11 0 0
+Perritt @ p:	4 0 1 0 4 0
+Woodall @ c:	3 1 2 8 2 0
+Hewell @ 3b:	4 0 1 3 2 0
+TOTALS:		33 5 7 27 12 3
+
+line: Raleigh:   0 0 4 0 0 0 0 0 0 - 4
+line: Asheville: 0 0 0 0 0 0 0 3 2 - 5
+
+B_LOB: Raleigh #9; Asheville #7
+B_ROE: Raleigh #3; Asheville #2
+B_2B: Perritt
+B_3B: Tally
+B_SB: McCord
+B_SH: Mack; Citrano; Tally; McConnell
+B_HP: Perkins
+P_BB: Myers #4; Perritt #5
+P_SO: Myers #5; Perritt #8
+P_HP:  Perritt
+F_DP: Citrano, McCord, Mack
+F_PB: Perkins; Woodall
+T: 1:35
+U:  Kelly
+
+---
+
+date: 1915-06-30
+number: 0
+league: North Carolina State
+away: Charlotte
+home: Winston-Salem
+source: Charlotte Daily Observer, July 1, 1915
+A: 400
+
+Charlotte:	ab r h po a e
+Smith @ cf:	4 0 3 1 0 0
+Leonard @ 2b:	4 0 0 3 6 0
+Munch @ 1b:	4 0 0 12 1 0
+Wofford @ rf:	2 0 0 1 0 0
+Boykin @ lf:	2 0 0 2 0 0
+Doak @ 3b:	3 0 0 0 3 0
+Joplin @ ss:	3 0 0 0 2 0
+Lowe @ p:	1 0 0 1 1 0
+Gossage @ p:	2 0 0 0 0 0
+Wells @ c:	3 0 1 4 0 1
+*Geary @ ph:	1 0 0 0 0 0
+TOTALS:		29 0 4 24 13 1
+
+Winston-Salem:	ab r h po a e
+Sweeney @ lf:	4 2 3 0 0 0
+Heck @ 3b:	4 0 0 0 1 0
+Barber @ cf:	5 0 1 1 0 0
+Moorefield @ rf:	4 0 1 0 0 0
+Stuart @ ss:	2 2 0 1 3 1
+Boggess @ 1b:	3 1 0 14 2 0
+Koehler @ c:	3 2 1 6 0 0
+Howard @ 2b:	2 1 1 4 4 0
+Meador @ p:	3 0 1 1 5 0
+TOTALS:		30 8 8 27 15 1
+
+*: batted for Gossage in 9th
+
+line: Charlotte:     0 0 0 0 0 0 0 0 0 - 0
+line: Winston-Salem: 1 0 0 4 2 1 0 0 x - 8 
+
+B_LOB: Winston-Salem #7; Charlotte #8
+B_2B: Sweeney #2; Barber
+B_HR: Koehler
+B_SB: Boykin; Joplin; Moorefield; Stuart #2
+B_SH: Boykin; Heck
+B_HP: Koehler; Boykin
+P_BB: Lowe #3; Gossage #4; Meador #4
+P_SO: Lowe #1; Gossage #3; Meador #5
+P_H:  Lowe #3; Gossage #5
+P_IP: Lowe #3.1; Gossage #4.2
+P_HP: Lowe; Meador
+F_DP: Leonard, Munch; Boggess, Stuart, Boggess 
+T: 1:42
+U: Blackburn
+
+---
+
+date: 1915-06-30
+number: 0
+league: North Carolina State
+away: Durham
+home: Greensboro
+source: Charlotte Daily Observer, July 1, 1915
+A: 475
+
+Durham:		ab r h po a e
+Butts @ 2b:	4 0 1 1 1 0
+Maddox @ 2b:	1 0 0 0 2 0
+Angier @ cf:	4 0 0 3 1 0
+Hiller @ 3b:	4 1 2 2 2 1
+Kelly, W. @ ss:	3 0 2 2 3 2
+Morpeth @ 1b:	3 0 1 13 1 0
+Dayton @ lf:	4 0 0 1 1 2
+Kelly, J. @ rf:	4 0 0 0 0 0
+Boyle @ c:	3 2 1 2 2 0
+Atkinson @ p:	2 1 0 0 2 0
+*Frey @ ph:	0 0 0 0 0 0
+TOTALS:		32 4 7 24 15 5
+
+Greensboro:	ab r h po a e
+Smith @ 2b:	4 1 3 3 4 0
+Reiff @ 3b:	3 1 1 3 1 0
+Nesser @ 1b:	3 1 1 7 1 0
+McBane @ cf:	3 0 0 1 1 0
+Gosnell @ lf:	4 1 1 1 0 1
+Emery @ ss:	3 1 1 4 3 1
+Rowe, W. @ c:	2 0 0 7 0 1
+Harper @ p:	4 1 0 0 0 0
+Rowe, B. @ rf:	3 0 2 0 0 0	
+TOTALS:		29 6 9 26 10 3
+
+*: batted for Atkinson in 9th
+
+line: Durham:     0 1 0 0 2 0 0 0 1 - 4 
+line: Greensboro: 0 1 1 0 3 1 0 0 x - 6
+
+B_LOB: Durham #7; Greensboro #6
+B_ROE: Durham #1; Greensboro #3
+B_2B: B. Rowe; Smith; W. Kelly; Hiller
+B_3B: Hiller
+B_SB: McBane; Smith; Angier
+B_SH: W. Rowe #2; Reiff; Nesser; Morpeth
+B_HP: Boyle; Atkinson
+P_BB: Harper #3; Atkinson #3 
+P_SO: Harper #5; Atkinson #2
+P_HP: Harper #2
+F_DP: Reiff, Nesser 
+T: 1:45
+U: Boyle
+
+---
+
+date: 1915-06-30
+number: 0
+league: North Carolina State
+away: Raleigh
+home: Asheville
+status: postponed
+status-reason: rain
+source: Charlotte Daily Observer, July 1, 1915
