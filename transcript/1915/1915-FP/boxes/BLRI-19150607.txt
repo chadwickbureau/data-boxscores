@@ -1,0 +1,434 @@
+date: 1915-06-07
+number: 0
+league: Blue Ridge
+away: Hagerstown
+home: Frederick
+source: Frederick Post, June 8, 1915
+A: 1000
+
+Hagerstown: 	ab r h po a e
+Dean @ 3b:	3 1 1 2 3 0
+Walters @ cf:	3 1 2 0 0 0
+Sharp @ 2b:	3 0 0 2 2 0
+Laughlin @ c:	4 0 1 5 4 0
+Hooker @ rf: 	3 0 0 2 0 0
+Dolan @ 1b: 	3 0 0 8 9 1
+Fuhrey @ ss: 	3 0 0 4 3 1
+Blunt @ lf: 	3 0 0 0 1 0
+Hevener @ p: 	1 0 0 1 4 1
+*Herrell @ ph:	1 0 0 0 0 0
+TOTALS:		28 2 4 24 17 3
+
+Frederick:	ab r h po a e
+Agnew @ 2b:	4 0 0 3 4 0
+Boyne @ 1b:	3 0 1 15 5 0
+Lamar @ cf:	3 1 0 0 0 0
+Orrison @ rf:	4 1 2 2 0 0
+Barnhart @ 3b:	2 0 0 3 2 0
+Morrison @ lf:	4 0 1 0 0 0
+Strasbaugh @ ss:4 0 0 0 1 0
+Whalen @ c:	3 1 1 4 3 0
+King @ p:	2 0 1 0 4 0
+TOTALS:		29 3 6 27 14 0
+
+*: Batted for Hooker in the 9th
+
+
+line: Hagerstown:  0 0 0 0 0 2 0 0 0 - 2
+line: Frederick: 0 0 1 0 0 2 0 0 0 - 3
+
+B_ROE: Frederick #4 
+B_LOB: Frederick #7; Hagerstown #5
+B_ER: Frederick #1; Hagerstown #2
+B_SB: Walters; Agnew; Barnhart; Whalen
+B_SH: Dolan 
+B_3B: Dean
+B_2B: Walters; Whalen
+P_BB: King #4; Hevener #5
+B_HP: Dean
+P_SO: King #3; Hevener #5
+T:  2:00 
+U: McAtee
+
+---
+
+date: 1915-06-08
+number: 0
+league: Blue Ridge
+away: Hagerstown
+home: Frederick
+source: Frederick Post, June 9, 1915
+A: 800
+note: No Frederick RF in box; Orrison inferred due to other stats
+
+Hagerstown: 	ab r h po a e
+Dean @ 3b:	5 0 2 1 1 1
+Walters @ cf:	1 0 0 1 0 0
+Sharp @ 2b:	4 0 2 1 0 1
+Daley @ lf:	4 0 1 2 1 0
+Hooker @ rf: 	4 1 1 0 0 0
+Dolan @ 1b: 	2 0 1 10 0 1
+Laughlin @ 1b:	0 0 0 1 0 0
+Fuhrey @ ss: 	4 0 0 1 7 0
+Doeppe @ c: 	3 0 1 6 1 0
+Herrell @ p: 	0 0 0 0 1 0
+Pearson @ p:	4 0 0 1 2 0
+*Blunt @ ph:	1 0 1 0 0 0
+TOTALS:		31 1 9 24 13 3
+
+Frederick:	ab r h po a e
+Agnew @ 2b:	4 1 2 6 2 0
+Boyne @ 1b:	4 0 0 13 0 0
+Lamar @ cf:	4 1 0 1 0 0
+Barnhart @ 3b:	3 2 2 0 5 0
+Stevens @ lf:	4 0 1 0 0 0
+Strasburg @ ss:	4 0 2 2 1 2
+Whalen @ c:	4 0 0 4 4 0
+Peck @ p:	2 0 0 0 2 0
+Norton @ p:	1 0 0 0 3 0
+Orrison @ rf: x x x x x x
+TOTALS:		33 4 8 27 18 2
+
+*: Batted for Daley in the 9th
+
+line: Hagerstown:  0 0 0 1 0 0 0 0 0 - 1
+line: Frederick: 3 0 0 0 0 0 0 1 x - 4
+ 
+B_LOB: Frederick #7; Hagerstown #9
+B_ER: Frederick #1; Hagerstown #1
+B_SB: Walters; Dolan; Lamar; Barnhart; Orrison; Whalen
+B_SH: Boyne; Walters
+B_2B: Blunt; Agnew; Barnhart
+P_BB: Peck #2; Pearson #2
+P_H: Peck #5; Norton #4; Herrell #3; Pearson #5
+P_IP: Peck #4; Norton #5; Herrell #0.2; Pearson #7.1 
+P_R: Peck #1; Herrell #3; Pearson #1
+P_SO: Pearson #4; Peck #1; Norton #2
+F_DP: Barnhart, Agnew, Boyne; Orrison, Strasburg; Fuhrey, Dolan
+T: 2:00  
+U: McAtee
+
+---
+
+date: 1915-06-08
+number: 0
+league: Blue Ridge
+away: Hanover
+home: Chambersburg
+source: Frederick Post, June 9, 1915
+
+Hanover:		r h e
+Sherman @ p:	x x x
+Steinbach @ c:	x x x
+TOTALS:			2 6 1
+
+Chambersburg:		r h e
+Bitters @ p:	x x x
+Stroh @ c:	x x x
+TOTALS:			7 12 3
+
+
+---
+
+date: 1915-06-08
+number: 0
+league: Blue Ridge
+away: Gettysburg
+home: Martinsburg
+source: Frederick Post, June 9, 1915
+
+Gettysburg:		r h e
+Lower @ p: 	x x x
+Rudolph @ p:	x x x
+Howard @ p:	x x x
+Jarosick @ c:	x x x
+TOTALS:			8 10 0
+
+Martinsburg:		r h e
+Kelley @ p:	x x x
+Hoeffecker @ p:	x x x
+Johnson @ c:	x x x
+TOTALS:			9 16 4
+
+
+---
+
+date: 1915-06-09
+number: 0
+league: Blue Ridge
+away: Frederick
+home: Chambersburg
+source: Frederick Post, June 10, 1915
+note: 10-inning game
+
+Frederick:		r h e
+Stevens @ p:	x x x
+Whalen @ c:	x x x
+TOTALS:			6 11 2
+
+Chambersburg:		r h e
+Stricker @ p:	x x x
+Stroh @ c:	x x x
+TOTALS:			4 5 5
+
+
+---
+
+date: 1915-06-09
+number: 0
+league: Blue Ridge
+away: Gettysburg
+home: Hagerstown
+source:  Frederick Post, June 10, 1915
+
+Gettysburg:	r h e
+Hoar @ p:	x x x
+Rudolph @ p:	x x x
+Jerosick @ c:	x x x
+TOTALS:		1 3 2
+
+Hagerstown: 	r h e
+Cotter @ p: 	x x x
+Laughlin @ c:	x x x
+TOTALS:		8 13 2
+
+---
+
+date: 1915-06-09
+number: 0
+league: Blue Ridge
+away: Hanover
+home: Martinsburg
+source: Frederick Post, June 10, 1915
+
+Hanover:		r h e
+Lawrence @ p: 	x x x
+Steinbach @ c:	x x x
+TOTALS:			3 6 4
+
+Martinsburg:		r h e
+Hoeffecker @ p:	x x x
+Johnson @ c:	x x x
+TOTALS:			5 8 2
+
+---
+
+date: 1915-06-10
+number: 0
+league: Blue Ridge
+away: Frederick
+home: Chambersburg
+source: Frederick Post, June 11, 1915
+
+Frederick:		r h e
+Peck @ p:	x x x
+Whalen @ c:	x x x
+TOTALS:			2 7 3
+
+Chambersburg:		r h e
+Dorner @ p:	x x x
+Snell @ p:	x x x
+Stroh @ c:	x x x
+TOTALS:			0 1 1
+
+---
+
+date: 1915-06-10
+number: 0
+league: Blue Ridge
+away: Hanover
+home: Martinsburg
+source: Frederick Post, June 11, 1915
+
+Hanover:		r h e
+Traub @ p: 	x x x
+Steinbach @ c:	x x x
+TOTALS:			2 6 1
+
+Martinsburg:		r h e
+Seytan @ p:	x x x
+Johnson @ c:	x x x
+TOTALS:			4 9 3
+
+
+--- 
+
+date: 1915-06-10
+number: 0
+league: Blue Ridge
+away: Gettysburg
+home: Hagerstown
+source: Frederick Post, June 11, 1915
+
+
+Gettysburg:	r h e 
+Green @ p:	x x x 
+Jarosick @ c:	x x x 
+TOTALS:		0 5 1
+
+Hagerstown: 	r h e 
+Hevener @ p: 	x x x 
+Laughlin @ c:	x x x 
+TOTALS:		1 5 1
+
+---
+
+date: 1915-06-11
+number: 0
+league: Blue Ridge
+away: Chambersburg
+home: Frederick
+source: Frederick Post, June 12, 1915
+
+Chambersburg:	ab r h po a e
+Snyder @ cf:	4 1 1 3 0 0
+Dunn @ 3b:	3 0 0 4 1 0
+Stroh @ c:	5 1 0 4 0 0
+Clay @ rf:	2 1 0 1 0 0
+Francis @ 2b:	4 1 1 5 0 0
+Lockhart @ lf:	3 0 0 1 0 0
+Moseley @ ss:	4 0 1 4 1 1
+Eiler @ 3b:	3 0 0 2 0 0
+Bitters @ ph:	1 0 0 0 0 0
+Snell @ ph:	1 0 0 0 0 0
+Holbig @ p:	4 0 0 0 4 0
+TOTALS:		34 4 4 24 6 1
+
+Frederick:	ab r h po a e
+Morrison @ 2b:	4 0 0 2 3 2
+Boyne @ 1b:	4 1 1 13 0 0
+Lamar @ cf:	4 1 1 4 0 1
+Orrison @ rf:	4 3 3 0 0 0
+Barnhart @ 3b:	4 0 2 2 2 0
+Stevens @ lf:	4 0 1 1 1 0
+Strasbaugh @ ss:	4 0 2 1 0 0
+Whalen @ c:	4 0 1 11 1 0
+King @ p:	3 1 0 1 0 0
+TOTALS:		35 6 11 27 7 3
+
+line: Chambersburg: 0 0 0 4 0 0 0 0 0 - 4
+line: Frederick:    0 1 2 0 0 0 3 0 x - 6
+
+B_2B: Moseley; Orrison #2; Strasbaugh
+B_3B: Boyne
+B_HR: Orrison
+B_SH: Morrison
+B_HP: King #2
+P_BB: King #2
+P_SO: King #10; Holbig #4
+T: 2:00
+U: Glatts
+
+---
+
+date: 1915-06-11
+number: 0
+league: Blue Ridge
+away: Hanover
+home: Hagerstown
+source: Frederick Post, June 12, 1915
+
+
+Hanover:	r h e
+TOTALS:		2 x x
+
+Hagerstown: 	r h e
+TOTALS:		1 x x
+
+---
+
+date: 1915-06-11
+number: 0
+league: Blue Ridge
+away: Gettysburg
+home: Martinsburg
+source: Frederick Post, June 12, 1915
+
+Gettysburg:		r h e
+TOTALS:			1 x x
+
+Martinsburg:		r h e
+TOTALS:			8 x x
+
+---
+
+date: 1915-06-12
+number: 0
+league: Blue Ridge
+away: Chambersburg
+home: Frederick
+source: Frederick Post, June 14, 1915
+A: 1000
+
+Chambersburg:	ab r h po a e
+Snyder @ cf:	5 1 1 0 0 0
+Dunn @ 1b:	3 0 1 6 1 0
+Eiler @ 1b:	2 0 0 2 0 0
+Snell @ c:	5 0 1 8 0 0
+Clay @ rf:	5 1 1 0 0 0
+Francis @ 2b:	3 2 1 6 4 1
+Holbig @ lf:	3 1 2 1 0 0
+Moseley @ ss:	3 0 0 2 4 2
+Stroh @ 3b:	3 0 0 2 3 0
+Stricker @ p:	4 0 1 0 1 0
+TOTALS:		36 5 6 27 13 3
+
+Frederick:	ab r h po a e
+Morrison @ 2b:	4 0 2 2 0 2
+Boyne @ 1b:	3 1 0 5 2 0
+Lamar @ cf:	4 0 1 1 0 0
+Orrison @ rf:	3 0 0 1 1 0
+Barnhart @ 3b:	4 1 1 4 3 0
+Stevens @ lf:	3 0 0 1 0 0
+Peck @ lf:	1 0 0 1 0 0
+Strasbaugh @ ss:	4 0 0 3 3 1
+Whalen @ c:	3 0 1 9 1 1
+Norton @ p:	4 0 0 0 3 0
+TOTALS:		32 2 5 27 13 4
+
+line: Chambersburg: 0 1 0 2 0 0 2 0 0 - 5
+line: Frederick:    0 0 0 1 1 0 0 0 0 - 2
+
+B_ER: Chambersburg #1; Frederick #1
+B_2B: Barnhart; Dunn
+B_SH: Moseley; Eiler
+B_SB: Morrison; Boyne #2; Lamar; Strasbaugh; Whalen
+B_HP: Francis; Boyne
+P_BB: Norton #2; Stricker #4
+P_SO: Norton #7; Stricker #7
+P_WP: Norton #2; Stricker
+F_DP: Francis, Eiler
+F_PB: Snell
+T: 2:15
+U: Glatts
+
+---
+
+date: 1915-06-12
+number: 0
+league: Blue Ridge
+away: Gettysburg
+home: Martinsburg
+source: Frederick Post, June 14, 1915
+
+Gettysburg:		r h e
+TOTALS:			5 x x
+
+Martinsburg:		r h e
+TOTALS:			6 x x
+
+---
+
+date: 1915-06-12
+number: 0
+league: Blue Ridge
+away: Hanover
+home: Hagerstown
+source: Frederick Post, June 14, 1915
+
+Hanover:	r h e
+TOTALS:		5 x x 
+
+Hagerstown: 	r h e 
+TOTALS:		4 x x
+

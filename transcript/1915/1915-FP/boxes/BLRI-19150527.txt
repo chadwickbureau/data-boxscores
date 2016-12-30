@@ -1,0 +1,232 @@
+date: 1915-05-27
+number: 0
+league: Blue Ridge
+away: Martinsburg
+home: Frederick
+source: Frederick Post, May 28, 1915
+A: 3000
+
+Martinsburg:	ab r h po a e
+McCarthy @ lf:	3 x x x 1 x
+Hayes @ ss:	4 x x x x 2
+Dove @ 2b:	4 x x x 1 x
+Johnson @ 1b: 	4 1 1 11 x 1
+Shipley @ ss: 	3 1 1 1 0 0
+Morris @ rf: 	1 0 1 1 0 0
+Hagar @ ph: 	0 0 0 0 0 0
+Davis @ cf: 	4 x x x x x 
+Zachary @ c: 	4 x x x x x 
+Kelley @ p: 	x x x x x x
+Schaufele @ p:	x x x x x x
+TOTALS:		33 3 7 24 14 3
+
+Frederick:	ab r h po a e
+Morrison @ lf:	3 3 2 1 0 0
+Boyne @ 1b:	4 2 3 12 0 1
+Lamar @ cf:	4 1 3 2 0 0
+Orrison @ rf:	5 x x x x x 
+Malone @ 2b:	5 4 4 0 4 0
+Barnhart @ 3b:	5 1 1 1 0 0 
+Yingling @ ss:	3 2 0 0 1 0
+Whalen @ c:	4 0 1 x x x
+Stevens @ p:	2 0 0 1 3 0
+TOTALS:		x 14 17 27 14 1
+
+line: Martinsburg: 0 0 0 0 0 0 3 0 0 - 3
+line: Frederick:   0 2 4 2 1 1 4 0 0 - 14
+
+B_ER: Frederick #10; Martinsburg #3
+B_LOB: Frederick #7; Martinsburg #5
+B_ROE: Frederick #3; Martinsburg #1
+B_2B: Malone #2; Morrison; Barnhart; Johnson
+B_3B: Shipley
+B_HR: Malone; Morrison
+B_SH: Boyne; Yingling; Shipley; Stevens; Lamar
+B_HP: McCarthy; Morrison; Yingling
+B_SB: Malone #2; Barnhart; Yingling #2; Whalen; McCarthy
+P_BB: Kelley #1
+P_SO: Stevens #7; Kelley #3
+P_HP: Kelley; Stevens; Schaufele
+P_H: Stevens #7; Kelley #8; Schaufele #7
+P_WP: Schaufele
+P_IP: Kelley #5; Schaufele #3
+T: 2:10
+U: Glatts
+
+---
+
+date: 1915-05-27
+number: 0
+league: Blue Ridge
+away: Gettysburg
+home: Hanover
+source: Frederick Post, May 28, 1915
+
+Gettysburg:		r h e
+Stair @ p:		x x x
+Jarosick @ c:	x x x
+TOTALS:			5 8 2
+
+Hanover:		r h e
+Johnson @ p:	x x x
+Traub @ p:		x x x
+Steinbach @ c:  x x x
+TOTALS:			0 4 3
+
+---
+
+date: 1915-05-27
+number: 0
+league: Blue Ridge
+away: Hagerstown
+home: Chambersburg
+source: Frederick Post, May 28, 1915
+
+Hagerstown:	r h e
+Hevener @ p:		x x x
+Laughlin @ c:		x x x
+TOTALS:			3 9 0
+
+Chambersburg:		r h e 
+Stricker @ p:		x x x
+Stroh @ c:		x x x
+TOTALS:			1 7 2
+
+---
+
+date: 1915-05-28
+number: 0
+league: Blue Ridge
+away: Frederick
+home: Martinsburg 
+source: Frederick Post, May 29, 1915
+A: 
+
+Frederick: r
+Barnhart @ ?: x
+Whalen @ c: x
+Norton @ p: x
+TOTALS: 3
+
+Martinsburg: r
+Hager @ ?: x
+Davis @ ?: x
+Johnson @ ?: x
+Hoeffecker @ p: x
+TOTALS: 5
+
+line: Frederick:   0 1 0 1 1 0 0 0 0 - 3
+line: Martinsburg: 1 0 1 0 0 2 1 0 x - 5
+
+B_ER: Frederick #1; Martinsburg #1
+B_LOB: Frederick #3; Martinsburg #10
+B_2B: Barnhart
+B_HR: Hager
+B_HP: Davis
+P_BB: Hoeffecker #1; Norton #1
+P_SO: Hoeffecker #4; Norton #7
+P_WP: Hoeffecker
+F_DP: Johnson
+F_PB: Whalen
+T: 1:50
+U: Glatts
+
+---
+
+date: 1915-05-28
+number: 0
+league: Blue Ridge
+away: Hanover
+home: Gettysburg
+source: Frederick Post, May 29, 1915
+
+Hanover:		r h e
+Sherman @ p:	x x x
+Steinbach @ c:	x x x
+TOTALS:			5 10 2
+
+Gettysburg:		r h e
+Rudolph @ p:	x x x
+Jarosyk @ c:	x x x
+TOTALS:			1 5 1
+
+T: 1:50
+U: Hanks
+
+--- 
+
+date: 1915-05-28
+number: 0
+league: Blue Ridge
+away: Chambersburg
+home: Hagerstown 
+source: Frederick Post, May 29, 1915
+
+Chambersburg:		r h e 
+Bitters @ p:		x x x
+Stroh @ c:		x x x
+TOTALS:			2 4 2
+
+Hagerstown:	r h e
+Pearson @ p:		x x x
+Laughlin @ c:		x x x
+TOTALS:			0 3 3 
+
+---
+
+date: 1915-05-29
+number: 0
+league: Blue Ridge
+away: Frederick
+home: Martinsburg 
+source: Frederick Post, May 31, 1915
+
+Frederick: r
+Whalen @ ?: x
+King @ p: x
+TOTALS: 4
+
+Martinsburg: r
+Johnson @ ?: x
+Thorn @ ?: x
+Davis @ ?: x
+Kelly @ p: x
+TOTALS: 3
+
+line: Frederick:   0 0 2 0 0 0 2 0 0 - 4
+line: Martinsburg: 0 0 3 0 0 0 0 0 0 - 3
+
+
+B_ER: Frederick #; Martinsburg #2
+B_LOB: Frederick #10; Martinsburg #5
+B_ROE: Frederick #4
+B_2B: Kelly; Johnson; Davis; Whalen
+B_HP: Thorn
+P_BB: Kelly #5; King #1
+P_SO: Kelly #5; King #11
+F_DP: Kelly, Johnson
+U: Glatts
+
+---
+
+date: 1915-05-29
+number: 0
+league: Blue Ridge
+away: Chambersburg
+home: Hagerstown
+status: postponed
+status-reason: rain
+source: Frederick Post, June 1, 1915
+
+---
+
+date: 1915-05-29
+number: 0
+league: Blue Ridge
+away: Gettysburg
+home: Hanover
+source: Frederick Post, June 1, 1915
+
+
+line: Gettysburg: 0 1 0 1 0 0 1 0 0 0 - 3
+line: Hanover:    2 0 0 0 1 0 0 0 0 1 - 4

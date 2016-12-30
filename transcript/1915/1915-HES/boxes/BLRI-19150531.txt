@@ -1,0 +1,158 @@
+date: 1915-06-04
+number:0
+league: Blue Ridge
+away: Martinsburg
+home: Hanover 
+source: Hanover Evening Sun, June 5, 1915 
+
+Martinsburg:	ab r h po a e
+McCarthy @ lf:	3 0 0 2 0 1
+Zackery @ 2b:	4 1 1 0 0 0
+Hager @ 1b:	4 0 1 6 0 0
+Johnson @ c:	4 0 2 10 0 0
+Morris @ rf:	4 0 0 0 0 0
+Shipley @ 3b:	3 0 1 1 1 0
+Bauer @ cf:	0 0 0 1 0 0
+Hayes @ ss:	3 0 0 3 1 0
+Kelley @ p:	3 0 0 0 6 0
+TOTALS:		28 1 5 23 8 1
+
+Hanover: 	ab r h po a e
+Starr @ ss:	4 1 1 4 2 0
+Eline @ 3b:	4 0 0 0 1 0
+Coyle @ rf:	4 0 1 2 0 0
+Clunk @ cf:	4 0 1 0 0 0
+Herman @ 2b:	4 0 1 2 0 0
+Steinbach @ c:	3 1 1 7 3 0
+Hershey @ lf:	3 0 1 3 0 0
+Hostetter @ 1b:	1 1 0 9 0 0
+Sherman @ p:	2 0 0 0 6 0
+TOTALS:		29 3 6 27 12 0
+
+line: Martinsburg: 0 0 0 1 0 0 0 0 0 - 1
+line: Hanover:     0 0 0 0 0 2 1 0 x - 3
+
+B_ER: Hanover #1; Martinsburg #1
+B_LOB: Hanover #3; Martinsburg #2
+B_2B: Johnson; Herman
+B_SH: Sherman
+B_SB: Bauer; Starr; Steinbach; Hostetter
+P_BB: Kelley #1; Sherman #3
+P_SO: Kelley #8; Sherman #6
+F_DP: Starr, Hostetter
+T: 1:45
+U: McAtee
+
+---
+
+date: 1915-06-04
+number: 0
+league: Blue Ridge
+away: Frederick
+home: Hagerstown
+source: Hanover Evening Sun, June 5, 1915
+
+
+Frederick:	r h e
+TOTALS:		4 x x
+
+Hagerstown: 	r h e
+TOTALS:		0 x x
+
+---
+
+date: 1915-06-04
+number: 0
+league: Blue Ridge
+away: Gettysburg
+home: Chambersburg
+source: Hanover Evening Sun, June 5, 1915
+
+Gettysburg:		r h e
+TOTALS:			6 x x
+
+Chambersburg:		r h e
+TOTALS:			2 x x
+
+---
+
+date: 1915-06-05
+number:0
+league: Blue Ridge
+away: Martinsburg
+home: Hanover 
+source: Hanover Evening Sun, June 7, 1915 
+
+Martinsburg:	r h po a e
+McCarthy @ lf:	1 0 1 0 0
+Bower @ cf:	0 0 2 3 0
+Hager @ 1b:	1 0 8 1 0
+Johnson @ c:	0 0 9 0 1
+Morris @ rf:	0 1 2 0 1
+Shipley @ 3b:	0 0 0 3 0
+Mumford @ cf:	0 1 1 0 0
+Hayes @ ss:	0 2 0 2 0
+Hoffacker @ p:	1 2 1 2 2
+TOTALS:		3 6 14 11 4
+
+Hanover: 	r h po a e
+Starr @ 2b:	0 0 2 3 0
+Eline @ 3b:	0 1 1 0 1
+Coyle @ ss:	1 0 0 2 0
+Clunk @ cf:	1 1 3 0 0
+Steinbach @ c:	1 1 10 1 1
+Hershey @ lf:	0 0 1 0 0
+Hostetter @ 1b:	0 1 5 0 0
+Sherman @ rf:	0 0 5 0 1
+Johnson, W. @ p:	0 1 0 1 0
+Scherdel @ p:	1 1 0 0 0
+TOTALS:		4 6 27 7 3
+
+line: Martinsburg: 0 0 3 0 0 0 0 0 0 - 3
+line: Hanover:     0 0 0 3 0 0 1 0 x - 4
+
+B_ER: Hanover #1
+B_LOB: Hanover #7; Martinsburg #7 
+B_ROE: Hanover #1; Martinsburg #1
+B_2B: Hoffacker; Mumford
+B_3B: Eline; Hoffacker
+B_SH: Eline
+B_SB: McCarthy
+B_HP: W. Johnson #2
+P_BB: W. Johnson #3; Scherdel #1; Hoffacker #4
+P_SO: W. Johnson #4; Scherdel #4; Hoffacker #7
+P_WP: Hoffacker
+F_DP: Starr, Hostetter
+T: 2:00
+U: McAtee
+
+---
+
+date: 1915-06-05
+number: 0
+league: Blue Ridge
+away: Frederick
+home: Hagerstown
+source: Hanover Evening Sun, June 7, 1915
+
+
+Frederick:	r h e
+TOTALS:		1 x x
+
+Hagerstown: 	r h e
+TOTALS:		0 x x
+
+---
+
+date: 1915-06-05
+number: 0
+league: Blue Ridge
+away: Gettysburg
+home: Chambersburg
+source: Hanover Evening Sun, June 7, 1915
+
+Gettysburg:		r h e
+TOTALS:			8 x x
+
+Chambersburg:		r h e
+TOTALS:			3 x x

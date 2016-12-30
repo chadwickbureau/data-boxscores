@@ -1,0 +1,492 @@
+date: 1915-08-16
+number: 0
+league: Blue Ridge
+away: Hagerstown
+home: Frederick 
+source: Frederick Post, August 17, 1915
+
+Hagerstown: 	ab r h po a e
+Walters @ cf:	5 0 0 0 0 0
+Fuhrey @ ss: 	4 1 2 0 7 0
+Troy @ 2b:	4 0 2 5 4 0
+Dean @ 3b:	4 0 1 1 0 1
+Hooker @ lf: 	4 0 1 0 0 0
+McCleary @ rf:	4 1 0 3 0 0
+Freeney @ 1b:	3 0 1 9 0 0
+Hanks @ 1b:	0 1 0 4 0 0
+Milliman @ c:	4 1 2 2 1 2
+Barton @ p:	4 0 2 0 2 0
+TOTALS:		36 4 11 24 14 3
+
+Frederick:	ab r h po a e
+Agnew @ 2b:	3 1 0 4 2 0
+Connelly @ ss:	4 1 2 0 2 0
+Myers @ 1b:	3 0 0 8 0 1
+Orrison @ rf:	4 0 1 1 0 1
+Barnhart @ 3b:	3 0 0 1 0 0
+Lamar @ cf:	3 0 2 4 1 1
+Morrison @ lf:	3 1 0 1 1 0
+Whalen @ c:	3 1 1 6 2 0
+Stevens @ p:	2 1 1 1 3 1
+TOTALS:		28 5 7 26 11 4
+
+line: Hagerstown:   0 1 1 0 1 0 0 0 1 - 4
+line: Frederick:    0 0 4 0 1 0 0 0 x - 5
+
+B_LOB: Hagerstown #7; Frederick #2
+B_ER:  Hagerstown #1; Frederick #3
+B_2B: Freeney; Whalen; Connelly; Orrison
+B_SH: Agnew; Myers  
+B_HP: Hanks
+P_HP: Stevens
+P_BB: Barton #1
+P_SO: Stevens #5 
+F_DP: Fuhrey, Troy, Hanks; Connelly, Agnew, Myers; Orrison, Myers
+T: 1:30
+U: Cleary
+
+---
+
+date: 1915-08-16
+number: 0
+league: Blue Ridge
+away: Martinsburg
+home: Gettysburg 
+source: Frederick Post, August 17, 1915
+
+Martinsburg:		r h e
+Clark @ p:	x x x
+Johnson @ c:	x x x
+TOTALS:			7 7 2
+
+Gettysburg:		r h e
+Stair @ p: 	x x x
+Plank @ p:	x x x
+Mahaffie @ c:	x x x
+TOTALS:			4 8 2
+
+U: Derr
+
+---
+
+date: 1915-08-16
+number: 1
+league: Blue Ridge
+away: Chambersburg
+home: Hanover
+source: Frederick Post, August 17, 1915
+
+Chambersburg:		r h e
+Lawrence @ p: 	x x x
+Moore @ c:	x x x
+TOTALS:			0 4 1
+
+
+Hanover:		r h e
+Smallwood @ p:	x x x
+Stroh @ c:	x x x
+TOTALS:			7 8 3
+
+---
+
+date: 1915-08-16
+number: 2
+league: Blue Ridge
+away: Chambersburg
+home: Hanover
+source: Frederick Post, August 17, 1915
+
+Chambersburg:		r h e
+Stricker @ p: 	x x x
+Moore @ c:	x x x
+TOTALS:			0 3 1
+
+
+Hanover:		r h e
+Sherman @ p:	x x x
+Stroh @ c:	x x x
+TOTALS:			1 3 0
+
+---
+
+
+date: 1915-08-17
+number: 0
+league: Blue Ridge
+away: Hagerstown
+home: Frederick 
+source: Frederick Post, August 18, 1915
+A: 
+
+Hagerstown: 	ab r h po a e
+Walters @ cf:	4 0 0 1 0 0
+Fuhrey @ ss: 	2 0 0 3 1 3
+Troy @ 2b:	3 0 0 2 1 0
+Dean @ 3b:	3 0 0 2 6 1
+Hooker @ lf: 	4 0 1 1 0 0
+McCleary @ rf:	2 0 0 1 0 0
+Hanks @ 1b:	3 0 0 11 0 0
+Milliman @ c:	3 0 1 2 1 0
+Smith @ p:	3 0 0 1 4 0
+TOTALS:		27 0 2 24 13 4
+
+Frederick:	ab r h po a e
+Agnew @ 2b:	4 1 1 2 1 0
+Connelly @ ss:	3 0 0 2 3 1
+Myers @ 1b:	2 0 0 11 1 0
+Orrison @ rf:	3 0 1 0 0 0
+Barnhart @ 3b:	4 0 1 1 2 1
+Lamar @ cf:	4 0 2 0 0 0
+Morrison @ lf:	3 0 0 1 0 0
+Whalen @ c:	2 0 1 8 2 0
+King  @ p:	2 0 0 2 2 0
+TOTALS:		27 1 6 27 11 2
+
+line: Hagerstown:   0 0 0 0 0 0 0 0 0 - 0
+line: Frederick:    1 0 0 0 0 0 0 0 x - 1
+
+B_LOB: Hagerstown #5; Frederick #8
+B_ER:  Frederick #1
+B_SH: Connelly; Orrison; Whalen; King; Fuhrey
+B_SB: Barnhart
+P_BK: King
+P_BB: King #4; Smith #3
+P_SO: King #8; Smith #1
+F_DP: Agnew, Myers
+T:  1:30
+U: Cleary
+
+---
+
+date: 1915-08-17
+number: 0
+league: Blue Ridge
+away: Martinsburg
+home: Gettysburg 
+source: Frederick Post, August 18, 1915
+
+Martinsburg:		r h e
+Clark @ p:	x x x
+Johnson @ c:	x x x
+TOTALS:			3 7 4
+
+Gettysburg:		r h e
+Greenwell @ p: 	x x x
+Bigler @ c:	x x x
+TOTALS:			4 7 2
+
+---
+
+
+date: 1915-08-17
+number: 0
+league: Blue Ridge
+away: Chambersburg
+home: Hanover
+source: Frederick Post, August 18, 1915
+
+Chambersburg:		r h e
+Sheridan @ p: 	x x x
+Moore @ c:	x x x
+TOTALS:			0 8 3
+
+
+Hanover:		r h e
+Scherdel @ p:	x x x
+Stroh @ c:	x x x
+TOTALS:			11 20 2
+
+---
+
+
+date: 1915-08-18
+number: 1
+league: Blue Ridge
+away: Frederick
+home: Chambersburg
+source: Frederick Post, August 19, 1915
+
+Frederick:	ab r h po a e
+Agnew @ 2b:	6 0 1 1 6 1
+Connelly @ ss:	5 1 1 3 2 1
+Myers [Fre] @ 1b:	5 1 3 12 3 2
+Orrison @ rf:	5 0 2 2 0 1
+Barnhart @ 3b:	4 0 1 2 3 0
+Lamar @ cf:	5 3 3 2 0 0
+Morrison @ lf:	3 0 1 8 1 0
+Whalen @ c:	5 1 3 1 1 0
+Eldridge @ p:	2 0 0 2 2 0
+Stevens @ p:	2 0 1 0 1 1
+TOTALS:		42 6 16 33 18 6
+
+Chambersburg:	ab r h po a e
+Keefe @ ss:	6 1 2 5 7 0
+Mosely @ lf:	5 0 0 3 2 2
+Snyder @ cf:	5 1 2 3 0 0
+Dunn @ 2b:	5 1 2 3 3 1
+Boyle @ 1b:	5 1 3 13 1 0
+Myers @ 3b:	5 0 0 1 3 1
+Stricker @ rf:	4 0 0 0 1 0
+Moore @ c:	5 1 3 5 2 0
+Stewart @ p:	5 0 0 0 6 0
+TOTALS:		45 5 12 33 25 4
+
+line: Frederick:    0 1 2 1 0 0 0 0 1 0 1 - 6
+line: Chambersburg: 0 0 0 3 0 0 2 0 0 0 0 - 5
+
+B_LOB: Chambersburg #8; Frederick #5
+B_ER: Chambersburg #3; Frederick #2
+B_2B: Agnew; Lamar; Whalen #2; Snyder #2; Boyle; Myers [Fre]
+B_SB: Boyle
+P_BB: Stewart #1; Stevens #1
+P_SO: Eldridge #4; Stewart #1; Stevens #3
+F_DP: Myers [Fre], Agnew
+T: 1:45 
+U: Cleary
+
+---
+
+date: 1915-08-18
+number: 2
+league: Blue Ridge
+away: Frederick
+home: Chambersburg
+source: Frederick Post, August 19, 1915
+
+Frederick:	ab r h po a e
+Agnew @ 2b:	2 0 0 2 2 1 
+Connelly @ ss:	2 1 1 6 3 0
+Myers @ 1b:	3 0 0 8 0 0
+Orrison @ rf:	3 1 1 2 0 0
+Barnhart @ 3b:	3 1 1 0 0 0
+Lamar @ cf:	3 1 2 0 0 0
+Morrison @ lf:	3 1 2 1 0 0
+Waite @ c:	3 0 1 1 1 0
+Peck @ p:	3 0 0 1 2 0
+TOTALS:		25 5 8 21 8 1
+
+Chambersburg:	ab r h po a e
+Keefe @ ss:	3 0 0 1 3 1
+Mosely @ lf:	3 0 1 1 0 0
+Snyder @ cf:	3 0 1 1 0 0
+Dunn @ 2b:	3 0 0 4 0 0
+Boyle @ 1b:	2 0 1 7 1 1
+Myers @ 3b:	2 0 0 3 1 1
+Stewart @ rf:	2 0 0 1 1 0
+Moore @ c:	2 0 0 3 3 0
+Lawrence @ p:	2 0 0 1 3 0
+TOTALS:		22 0 3 21 12 3
+
+line: Frederick:    0 0 0 1 0 0 4 - 5
+line: Chambersburg: 0 0 0 0 0 0 0 - 0
+
+B_LOB: Chambersburg #1
+B_ER: Frederick #5
+B_HR: Connelly
+B_SB: Waite
+P_BB: Lawrence #1
+P_SO: Peck #1; Lawrence #1
+F_DP: Dunn, Boyle; Stewart, Boyle; Lawrence, Dunn, Boyle
+T: 1:15
+U: Cleary
+
+---
+
+date: 1915-08-18
+number: 0
+league: Blue Ridge
+away: Hanover
+home: Martinsburg
+source: Frederick Post, August 19, 1915
+
+Hanover:		r h e
+Kunkle @ p:	x x x
+Stroh @ c:	x x x
+TOTALS:			1 3 2
+
+Martinsburg:		r h e
+Douglass @ p: 	x x x
+Johnson @ c:	x x x
+TOTALS:			3 3 2
+
+---
+
+date: 1915-08-18
+number:0
+league: Blue Ridge
+away: Gettysburg
+home: Hagerstown 
+source: Frederick Post, August 19, 1915
+
+Gettysburg:	r h e
+Howard @ p:	x x x 
+Mahaffie @ c:	x x x 
+TOTALS:		3 12 0
+
+Hagerstown: 	r h e
+Swallow @ p:	x x x 
+Milliman @ c:	x x x 
+TOTALS:		1 5 1
+
+---
+
+date: 1915-08-19
+number:0
+league: Blue Ridge
+away: Gettysburg
+home: Hagerstown 
+source: Frederick Post, August 20, 1915
+
+Gettysburg:	r h e
+Herrell @ p:	x x x
+Menchey @ p:	x x x
+Swartz @ p:	x x x
+Mahaffie @ c:	x x x
+TOTALS:		5 7 5
+
+Hagerstown: 	r h e
+Barton @ p:	x x x
+Milliman @ c:	x x x
+Doeppe @ c:	x x x
+TOTALS:		14 13 1
+
+---
+
+
+date: 1915-08-19
+number: 0
+league: Blue Ridge
+away: Hanover
+home: Martinsburg
+source: Frederick Post, August 20, 1915
+
+Hanover:		r h e
+Smallwood @ p:	x x x
+Stroh @ c:	x x x
+TOTALS:			6 4 2
+
+Martinsburg:		r h e
+Hoffecker @ p: 	x x x
+Johnson @ c:	x x x
+TOTALS:			4 14 6
+
+---
+
+
+date: 1915-08-20
+number: 0
+league: Blue Ridge
+away: Chambersburg 
+home: Frederick
+source: Frederick Post, August 21, 1915
+
+Chambersburg:	ab r h po a e
+Keef @ ss:	5 0 0 2 2 0
+Mosely @ lf:	5 1 1 1 0 0
+Snyder @ cf:	4 0 2 2 0 0
+Dunn @ 2b:	4 0 1 4 5 0
+Boyle @ 1b:	3 0 0 11 1 0
+Myers @ rf:	4 0 0 0 0 1
+Miller @ 3b:	3 0 0 1 4 1
+Moore @ c:	3 0 1 2 0 0
+Yates @ p:	3 0 0 1 1 0
+TOTALS:		34 1 5 24 13 2
+
+Frederick:	ab r h po a e
+Agnew @ 2b:	5 0 2 5 5 0
+Connelly @ ss:	5 1 2 4 3 2
+Myers @ 1b:	5 1 1 9 1 0
+Orrison @ rf:	5 1 4 1 0 0
+Barnhart @ 3b:	5 2 1 1 3 0
+Lamar @ cf:	4 1 2 0 0 0
+Llewellyn @ lf:	4 1 1 0 0 0
+Whalen @ c:	2 1 0 5 0 0
+King @ p:	4 0 1 2 1 0
+TOTALS:		39 8 14 27 13 2
+
+line: Chambersburg: 0 0 0 0 0 0 0 0 1 - 1
+line: Frederick:    4 0 0 0 0 1 3 0 x - 8
+
+B_LOB: Chambersburg #7 ; Frederick #9
+B_ER: Chambersburg #1; Frederick #5
+B_2B: Barnhart; Lamar #2; Orrison
+B_HR: Mosely
+B_SH: Whalen
+B_SB: Snyder; Lamar; King
+P_BB: King #4; Yates #1
+P_SO: King #3; Yates #1
+T: 1:45
+U: Glatts
+
+--- 
+
+date: 1915-08-20
+number:0
+league: Blue Ridge
+away: Hanover
+home: Hagerstown 
+source: Frederick Post, August 21, 1915
+
+Hanover:	r h e
+Sherman @ p:	x x x 
+Stroh @ c:	x x x 
+TOTALS:		2 6 1
+
+Hagerstown: 	r h e
+Welcher @ p:	x x x 
+Milliman @ c:	x x x 
+TOTALS:		3 6 3
+
+---
+
+date: 1915-08-20
+number: 0
+league: Blue Ridge
+away: Gettysburg
+home: Martinsburg
+source: Frederick Post, August 21, 1915
+
+Gettysburg:		r h e
+Greenwell @ p:	x x x
+Mahaffie @ c:	x x x
+TOTALS:			2 4 5
+
+Martinsburg:		r h e
+Mumford @ p: 	x x x
+Johnson @ c:	x x x
+TOTALS:			13 14 3
+
+---
+
+date: 1915-08-21
+number: 0
+league: Blue Ridge
+away: Chambersburg 
+home: Frederick
+source: Frederick Post, August 23, 1915
+
+Chambersburg:		r h e
+TOTALS:			2 x x
+
+Frederick:		r h e
+TOTALS:			3 x x
+
+---
+
+date: 1915-08-21
+number:0
+league: Blue Ridge
+away: Hanover
+home: Hagerstown 
+source: Frederick Post, August 23, 1915
+
+Hanover:	r h e
+Scherdel @ p:	x x x
+Stroh @ c:	x x x
+TOTALS:		14 13 1
+
+Hagerstown: 	r h e
+Barton @ p:	x x x
+McCleary @ p:	x x x
+Milliman @ c:	x x x
+TOTALS:		2 9 4

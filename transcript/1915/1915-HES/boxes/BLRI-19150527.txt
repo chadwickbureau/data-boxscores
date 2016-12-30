@@ -1,0 +1,135 @@
+date: 1915-05-27
+number:0
+league: Blue Ridge
+away: Gettysburg
+home: Hanover
+source: Hanover Evening Sun, May 28, 1915 
+
+Gettysburg:	ab r h po a e
+Reeder @ 2b:	5 0 1 4 1 0
+Rudolph @ lf:	5 0 2 1 0 0
+Jarosick @ c:	4 0 0 6 0 0
+Plank @ 1b:	3 0 0 11 0 0
+Stover @ ss:	3 1 0 0 6 1
+Kelly @ cf:	4 1 3 1 0 0
+Jones @ rf:	4 0 1 4 0 0
+Oyler @ 3b:	4 2 1 0 2 1
+Stair @ p:	3 1 1 0 5 0
+TOTALS:		35 5 9 27 14 2
+
+Hanover: 	ab r h po a e
+Starr @ 2b:	2 0 0 3 4 0
+Eline @ 3b:	4 0 1 0 1 0
+Coile @ ss:	4 0 0 2 2 0
+Clunk @ cf:	4 0 1 2 0 0
+Steinbach @ c:	4 0 0 7 1 0
+Raab @ lf:	3 0 0 0 0 0
+Hostetter @ 1b:	4 0 1 12 0 2
+Hershey @ rf:	2 0 1 0 0 0
+Johnson @ p:	1 0 0 0 2 1
+Traub @ p:	2 0 0 0 3 0
+*Howe @ ph:	1 0 0 0 0 0
+TOTALS:		31 0 4 26 13 3
+
+*: Batted for Johnson in 4th
+
+line: Gettysburg: 0 3 0 2 0 0 0 0 0 - 5
+line: Hanover:    0 0 0 0 0 0 0 0 0 - 0
+
+B_2B: Oyler
+B_3B: Reeder
+P_BB: Stair #5
+P_SO: Stair #6; Johnson #2; Traub #5
+T: 2:00
+U: Hanks
+
+---
+
+date: 1915-05-27
+number: 0
+league: Blue Ridge
+away: Martinsburg
+home: Frederick
+source: Hanover Evening Sun, May 28, 1915
+
+Martinsburg:	r h e
+Kelly @ p:		x x x
+Schaufle @ p:	  	x x x
+Zachary @ c:		x x x
+TOTALS:			3 x x
+
+Frederick:		r h e 
+Stevens	@ p:		x x x
+Whalen @ c:		x x x
+TOTALS:			14 x x
+
+line: Martinsburg: 0 0 0 0 0 0 3 0 0 - 3
+line: Frederick:   0 2 4 2 1 1 4 0 0 - 14
+
+
+---
+
+date: 1915-05-27
+number: 0
+league: Blue Ridge
+away: Hagerstown
+home: Chambersburg
+source: Hanover Evening Sun, May 28, 1915
+
+Hagerstown:	r h e
+Hevener @ p:	x x x
+Laughlin @ c:	x x x
+TOTALS:			3 x x
+
+Chambersburg:		r h e 
+Strickler @ p:		x x x
+Stroh @ c:		x x x
+TOTALS:			1 x x
+
+line: Hagerstown:   0 1 0 0 1 0 0 1 0 - 3
+line: Chambersburg: 0 0 1 0 0 0 0 0 0 - 1
+
+---
+
+date: 1915-05-28
+number:0
+league: Blue Ridge
+away: Hanover
+home: Gettysburg 
+source: Hanover Evening Sun, May 29, 1915 
+A: 1000
+
+Hanover: 	ab r h po a e
+Starr @ ss:	4 1 2 4 3 1
+Eline @ 3b:	4 1 2 2 1 0
+Herman @ 2b:	5 1 2 1 3 0
+Clunk @ rf:	4 0 1 2 1 0
+Steinbach @ c:	4 0 0 7 2 0
+Raab @ cf:	4 0 0 0 0 0
+Hostetter @ 1b:	4 0 0 10 0 0
+Hershey @ rf:	3 2 1 1 0 0
+Sherman @ p:	3 0 2 0 1 0
+TOTALS:		35 5 10 27 11 1
+
+Gettysburg:	ab r h po a e
+Reeder @ 2b:	3 0 2 1 0 0
+Kane @ lf:	4 0 0 2 0 0
+Kelly @ cf:	4 0 1 1 1 0
+Plank @ 1b:	4 0 1 7 0 0
+Stover @ ss:	3 0 1 2 0 2
+Jarosick @ c:	3 0 0 8 2 0
+Jones @ rf:	3 0 0 2 0 0
+Oyler @ 3b:	3 0 0 3 3 0
+Rudolph @ p:	3 1 0 1 1 0
+TOTALS:		30 1 5 27 7 2
+
+line: Hanover:    0 0 0 0 4 0 0 0 1 - 5
+line: Gettysburg: 0 0 1 0 0 0 0 0 0 - 1
+
+B_ER: Hanover #1
+B_2B: Sherman; Clunk
+B_3B: Reeder; Hershey
+P_BB: Rudolph #2; Sherman #1
+P_SO: Rudolph #4; Sherman #7
+T: 1:50
+U: Hanks

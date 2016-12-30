@@ -1,0 +1,777 @@
+date: 1915-07-19
+number:0
+league: Blue Ridge
+away: Hanover 
+home: Frederick
+source: Hanover Evening Sun, July 20, 1915
+
+Hanover:	ab r h po a e
+Crawford @ rf:	5 2 2 2 0 0
+Starr @ 2b:	4 1 1 5 1 0
+Mackert @ lf:	5 0 1 6 0 0
+Clunk @ cf:	5 0 1 1 1 0
+Stroh @ c:	4 1 0 7 1 0
+Eline @ 3b:	5 0 2 2 0 0
+Myers @ ss:	5 0 2 0 3 0
+Hostetter @ 1b:	4 0 1 6 0 0
+Plitt @ p:	0 0 0 0 0 0
+Sherman	@ p:	3 2 1 0 3 0
+TOTALS:		40 6 11 27 9 0
+
+Frederick:	ab r h po a e
+Agnew @ 2b:	3 1 1 3 1 0
+Porter @ ss:	5 0 1 3 5 1
+Lamar @ cf:	4 0 0 1 0 0
+Orrison @ rf-p:	4 2 3 1 1 0
+Boyne @ 1b:	4 0 2 5 1 0
+Barnhart @ 3b:	4 0 1 2 0 1
+Morrison @ lf:	1 0 1 0 0 0
+Whalen @ c:	4 0 0 10 0 0
+Stevens @ p-rf:	4 0 0 1 2 1
+TOTALS:		33 3 9 26 10 3 
+
+line: Hanover:   3 2 1 0 0 0 0 0 0 - 6
+line: Frederick: 1 0 0 0 0 1 0 1 0 - 3
+
+B_LOB: Hanover #10; Frederick #9
+B_ER: Hanover #1; Frederick #2
+B_2B: Orrison; Crawford; Starr; Eline
+B_3B: Barnhart
+B_SH: Lamar
+P_BB: Plitt #1; Orrison #2; Sherman #5; Stevens #1
+P_SO: Orrison #10; Sherman #7
+F_PB: Whalen
+T: 2:15
+U: Glatts
+
+---
+
+
+date: 1915-07-19
+number:0
+league: Blue Ridge
+away: Gettysburg 
+home: Chambersburg
+source: Hanover Evening Sun, July 20, 1915
+note: game called after 6 innings due to darkness
+
+Gettysburg:	r h po a e
+Bigler @ 3b:	0 0 0 1 1
+Diehl @ 1b:	0 0 7 0 0
+Mahaffie @ cf:	0 2 0 0 0
+Bashore @ lf:	1 1 3 1 1
+Herrell @ rf:	0 0 2 0 0
+Swartz @ 2b:	0 0 0 4 0
+Oyler @ ss:	1 1 4 1 0
+Jarosick @ c:	1 1 2 1 2
+Greenwell @ p:	0 2 0 1 1
+TOTALS:		3 7 18 9 5
+
+Chambersburg:	r h po a e
+Snyder @ cf:	0 0 0 0 0
+Dunn @ 2b:	0 0 3 1 0
+Snavely @ 1b:	0 0 6 0 0
+Clay @ rf:	0 0 1 1 0
+Klein @ lf:	0 0 1 0 1
+Moseley @ ss:	0 0 2 2 0
+Masterson @ 3b:	1 0 1 1 1
+Moore @ c:	1 1 4 1 1
+Kleskie @ p:	1 0 0 3 0
+TOTALS:		3 1 18 9 3
+
+line: Gettysburg:   0 0 0 0 1 2 - 3
+line: Chambersburg: 0 0 3 0 0 0 - 3
+
+B_LOB: Gettysburg #6
+B_ER: Gettysburg #2
+B_SB: Oyler
+P_BB: Kleskie #2; Greenwell #1
+P_SO: Kleskie #3; Greenwell #2
+F_DP: Clay, Moore
+T: 1:10
+U: Cleary
+
+---
+
+date: 1915-07-19
+number: 0
+league: Blue Ridge
+away: Hagerstown
+home: Martinsburg
+status: postponed
+status-reason: rain
+source: Hanover Evening Sun, July 20, 1915
+
+---
+
+date: 1915-07-20
+number:0
+league: Blue Ridge
+away: Hanover 
+home: Frederick
+source: Hanover Evening Sun, July 21, 1915
+
+Hanover:	r h po a e
+Crawford @ rf:	1 2 0 0 0
+Starr @ 2b:	0 1 2 2 0
+Mackert @ lf:	0 1 2 0 0 
+Clunk @ cf:	0 2 6 0 0
+Eline @ 3b:	0 0 3 1 0
+Stroh @ c:	0 0 4 0 0 
+Meyers @ ss:	1 0 1 0 1
+Hostetter @ 1b: 0 2 6 0 0
+Miller @ cf-p:	0 1 0 3 0
+*Sherman @ ph:	0 0 0 0 0
+TOTALS:		2 9 24 6 1
+
+Frederick:	r h po a e
+Agnew @ 2b:	1 1 2 3 0
+Porter @ ss:	0 1 5 1 1
+Lamar @ cf:	1 0 2 0 1
+Orrison @ rf:	0 2 0 0 0
+Boyne @ 1b:	1 2 8 1 0
+Barnhart @ 3b:	0 0 2 3 1
+Morrison @ lf:	0 1 1 0 0
+Whalen @ c:	0 0 7 3 0
+Kimball @ p:	0 0 0 3 0
+TOTALS:		3 7 27 14 3
+
+*: Batted for Miller in 9th
+
+line: Hanover:   0 0 0 0 0 1 1 0 0 - 2
+line: Frederick: 0 0 0 0 1 1 0 1 x - 3
+
+B_LOB: Hanover #7; Frederick #6
+B_ER: Hanover #1; Frederick #2
+B_2B: Crawford #2; Boyne
+B_SB: Mackert #2; Clunk #2; Miller
+B_SH: Porter; Barnhart; Morrison
+P_BB: Kimball #3; Miller #1
+P_SO: Kimball #3; Miller #6
+F_DP: Barnhart, Whalen, Agnew
+T: 1:40
+U: Glatts
+
+---
+
+
+date: 1915-07-20
+number:1
+league: Blue Ridge
+away: Gettysburg 
+home: Chambersburg
+source: Hanover Evening Sun, July 21, 1915
+
+Gettysburg:	r h po a e
+Bigler @ 3b:	1 1 3 4 0
+Diehl @ 1b:	1 0 16 0 1
+Mahaffie @ cf:	2 3 0 0 0
+Bashore @ lf:	2 3 2 0 0
+Plank @ rf:	2 0 0 1 0
+Swartz @ 2b:	0 0 4 3 1
+Oyler @ ss:	0 0 1 3 2
+Jarosick @ c:	1 1 4 1 0
+Stair @ p:	0 0 0 6 0
+Howard @ p:	0 0 0 0 0
+TOTALS:		9 8 30 18 4
+
+Chambersburg:	r h po a e
+Snyder @ cf:	1 1 2 0 0
+Dunn @ 2b:	2 2 3 3 1
+Snavely @ 1b:	1 1 13 1 0
+Clay @ rf:	0 1 0 0 1
+Klein @ lf:	1 2 1 1 0
+Moseley @ ss:	1 1 2 3 3
+Masterson @ 3b:	1 1 2 3 0
+Moore @ c:	1 2 7 1 1 
+Stricker @ p:	0 0 0 2 0
+*Steinbach @ ph:	0 1 0 0 0
+TOTALS:		8 12 30 14 6
+
+*: Batted for Moore in 10th
+
+line: Gettysburg:   0 0 0 0 0 1 5 0 2 1 - 9
+line: Chambersburg: 2 0 0 1 0 0 2 0 3 0 - 8
+
+B_LOB: Gettysburg #10; Chambersburg #7
+B_ER: Gettysburg #2; Chambersburg #3
+B_3B: Bashore; Clay; Mahaffie; Steinbach
+B_SB: Plank; Swartz
+P_BB: Stricker #10; Stair #5
+P_SO: Stricker #4; Stair #2; Howard #2
+F_DP: Snavely; Swartz
+T: 2:15
+U: Cleary
+
+---
+
+date: 1915-07-20
+number:2
+league: Blue Ridge
+away: Gettysburg 
+home: Chambersburg
+source: Hanover Evening Sun, July 21, 1915
+
+Gettysburg:	r h po a e
+Bigler @ 3b:	0 2 1 3 0
+Diehl @ 1b:	0 1 5 0 1
+Mahaffie @ c:	0 0 8 1 0
+Bashore @ lf:	0 0 0 0 0
+Plank @ rf:	0 2 1 0 0
+Herrell @ cf:	0 0 2 0 0
+Swartz @ 2b:	0 1 1 1 2
+Oyler @ ss:	0 0 0 1 1
+Howard @ p:	1 0 0 4 0
+TOTALS:		1 6 18 10 4
+
+Chambersburg:	r h po a e
+Snyder @ cf:	0 1 1 0 0
+Dunn @ 2b:	0 0 5 3 1
+Snavely @ 1b:	0 1 5 1 0
+Clay @ rf:	0 0 0 0 0
+Klein @ lf:	1 1 1 0 0
+Moseley @ ss:	1 0 0 1 0
+Masterson @ 3b: 0 0 2 2 0
+Steinbach @ c:	1 1 6 0 0
+Jameson @ p:	0 0 0 2 0
+TOTALS:		3 4 21 9 1
+
+line: Gettysburg:   0 0 1 0 0 0 0 - 1
+line: Chambersburg: 0 0 0 2 0 1 x - 3
+
+B_LOB: Gettysburg #4; Chambersburg #9
+B_ER: Chambersburg #1
+B_SB: Bigler
+P_BB: Howard #3; Jameson #1
+P_SO: Howard #5; Jameson #6
+F_DP: Masterson, Dunn, Snavely; Moseley, Dunn, Snavely
+T: 1:10
+U: Cleary
+
+---
+
+date: 1915-07-20
+number: 0
+league: Blue Ridge
+away:  Hagerstown
+home: Martinsburg
+source: Hanover Evening Sun, July 21, 1915
+
+Hagerstown: 	ab r h po a e
+Walters @ cf:	3 1 1 0 0 0
+Fuhrey @ ss: 	3 0 1 3 1 1
+Troy @ 2b:	4 0 1 2 3 0
+Cook @ rf:	4 0 1 1 0 0
+Hooker @ lf: 	3 0 1 1 0 0
+Dean @ 3b:	4 0 0 2 1 0
+Freeney @ 1b:	3 0 0 8 0 0
+Milliman @ c:	4 0 1 7 4 0
+Smith @ p:	3 0 2 0 1 0
+TOTALS:		31 1 8 24 10 1
+
+Martinsburg:	ab r h po a e
+Thompson @ 2b:	4 0 1 1 3 0
+Durborow @ rf:	4 0 2 0 0 0
+Morris @ cf:	3 1 0 3 0 1
+Rawlings @ lf:	3 0 1 0 0 0
+Donnelly @ 1b:	4 2 3 15 0 0
+Johnson @ c:	3 0 1 4 3 0
+Shipley @ 3b:	3 0 0 2 3 0
+Hayes @ ss:	3 0 1 2 5 0
+Clark @ p:	3 0 0 0 1 0
+TOTALS:		30 3 9 27 15 1
+
+line: Hagerstown:   1 0 0 0 0 0 0 0 0 - 1
+line: Martinsburg:  0 1 0 1 0 0 0 1 x - 3
+
+B_LOB: Martinsburg #7; Hagerstown #6
+B_ROE: Martinsburg #1   
+B_2B:  Donnelly; Johnson
+B_SB: Cook; Durborow; Donnelly; Morris
+P_BB: Clark #2; Smith #2
+P_SO: Clark #2; Smith #5 
+F_DP:  Hayes, Donnelly
+U:  McAtee; Derr
+
+---
+
+
+date: 1915-07-22
+number:0
+league: Blue Ridge
+away: Martinsburg
+home: Hanover
+source: Hanover Evening Sun, July 23, 1915
+A: 250
+
+Martinsburg:	ab r h po a e
+Thompson @ 2b:	5 1 1 5 4 0
+Durborow @ rf:	4 0 0 0 0 0
+Morris @ 1b:	5 1 1 10 0 0
+Rawlings @ lf:	5 2 2 2 0 0
+Donnelly @ cf:	4 1 1 3 0 0
+Johnson @ c:	4 1 0 4 0 0
+Shipley @ 3b:	4 0 1 1 2 0
+Hayes @ ss:	4 0 0 2 5 1
+Hoffacker @ p:	3 0 1 0 1 1
+TOTALS:		38 6 7 27 12 2
+
+Hanover:	ab r h po a e
+Crawford @ rf:	5 1 3 0 0 1
+Starr @ 2b:	3 0 1 2 5 1
+Mackert @ lf:	5 0 0 2 0 0
+Clunk @ cf:	2 0 0 0 0 0
+Gorham @ 3b:	3 1 0 0 3 0
+Stroh @ c:	3 0 0 12 1 1
+Grotey @ ss:	4 0 2 0 0 0
+Hostetter @ 1b: 4 1 2 10 0 1
+Sherman @ p:	3 0 0 1 1 1
+Eline @ ph:	1 0 1 0 0 0
+TOTALS:		33 3 9 27 10 5
+
+line: Martinsburg: 0 1 1 0 0 4 0 0 0 - 6
+line: Hanover:     0 0 2 1 0 0 0 0 0 - 3
+
+B_LOB:Hanover #8; Martinsburg #7 
+B_ER: Hanover #2; Martinsburg #3
+B_ROE: Martinsburg #2
+B_2B: Starr; Crawford
+B_3B: Thompson
+B_SB: Mackert; Clunk; Morris
+B_SH: Johnson
+B_HP: Gorham; Clunk
+P_BB: Sherman #2; Hoffacker #2
+P_SO: Sherman #11; Hoffacker #3
+P_WP: Hoffacker
+F_DP: Hayes, Thompson, Morris
+T: 2:00
+U: Glatts
+
+---
+
+date: 1915-07-22
+number:0
+league: Blue Ridge
+away: Chambersburg
+home: Gettysburg  
+source: Hanover Evening Sun, July 23, 1915
+
+Chambersburg:	r h po a e
+Snyder @ cf:	1 1 2 0 0
+Dunn @ 2b:	0 1 1 4 0
+Snavely @ 1b:	0 1 10 0 0
+Clay @ rf:	1 1 0 0 0
+Klein @ lf:	0 0 2 0 0
+Moseley @ ss:	0 1 0 3 1
+Masterson @ 3b:	0 0 0 4 0
+Steinbach @ c:	0 1 8 1 0
+Stewart @ p:	0 0 1 1 0
+TOTALS:		2 6 24 13 1
+
+Gettysburg:	r h po a e
+Bigler @ 3b:	1 1 1 1 0
+Diehl @ 1b:	1 1 14 0 0
+Mahaffie @ c:	1 2 3 1 0
+Basehore @ cf:	1 1 4 0 0
+Herrell @ lf:	0 2 1 0 0
+McMillan @ ss:	0 0 3 5 2
+Plank @ rf:	0 1 0 0 0
+Swartz @ 2b:	1 1 0 5 1
+Greenwell @ p:	0 0 0 3 0
+TOTALS:		5 9 27 15 3
+
+line: Chambersburg: 0 0 1 1 0 0 0 0 0 - 2
+line: Gettysburg:   0 0 2 0 2 1 0 0 x - 5
+
+B_ER: Gettysburg #2; Chambersburg #1
+B_2B: Swartz; Dunn
+B_SB: Bigler; Diehl; Masterson
+P_BB: Greenwell #2; Stewart #6
+P_SO: Greenwell #3; Stewart #4
+F_PB: Steinbach #2
+U: Cleary
+
+---
+
+date: 1915-07-22
+number: 0
+league: Blue Ridge
+away: Frederick
+home: Hagerstown
+source: Hanover Evening Sun, July 23, 1915
+note: game called after five innings because of rain
+
+Frederick:	r h po a e
+Agnew @ 2b:	1 0 2 0 0
+Porter @ ss:	0 0 1 0 0
+Lamar @ cf:	0 0 1 0 0
+Orrison @ rf:	1 1 1 0 0
+Boyne @ 1b:	0 0 2 1 0
+Barnhart @ 3b:	1 1 0 1 0
+Morrison @ lf:	0 2 1 0 0
+Whalen @ c:	0 0 6 2 0
+Stevens @ p:	0 0 1 2 1
+TOTALS:		3 4 15 6 1
+
+Hagerstown: 	r h po a e
+Walters @ cf:	0 1 2 0 0
+Fuhrey @ ss: 	0 0 1 1 0
+Troy @ 2b:	0 0 0 4 1
+Cook @ rf:	0 0 1 0 0
+Hooker @ lf: 	0 1 1 0 0
+Dean @ 3b:	0 0 2 1 1
+Freeney @ 1b:	0 0 5 2 0
+Milliman @ c: 	0 1 0 2 0
+Norton @ p:	0 0 3 2 0
+TOTALS:		0 3 15 12 2
+
+line: Frederick:  1 0 0 2 0  - 3
+line: Hagerstown: 0 0 0 0 0  - 0
+ 
+B_ER: Frederick #2
+B_LOB: Hagerstown #2; Frederick #2
+B_2B: Orrison 
+B_HR: Barnhart 
+B_SB: Morrison
+B_SH: Porter; Lamar; Agnew; Dean
+P_BB: Stevens #1
+P_SO: Stevens #4
+P_WP: Norton
+T:  1:00
+U:  Derr; McAtee
+
+---
+
+
+date: 1915-07-23
+number:0
+league: Blue Ridge
+away: Chambersburg
+home: Hanover
+source: Hanover Evening Sun, July 24, 1915
+A: 200
+
+Chambersburg:	ab r h po a e
+Snyder @ cf:	4 1 2 0 0 0
+Dunn @ 2b:	4 1 0 2 2 0
+Snavely @ 1b:	4 0 1 7 1 0
+Clay @ rf:	4 0 0 2 0 0
+Klein @ lf:	4 0 0 1 0 2
+Moseley @ ss:	4 0 0 6 2 1
+Masterson @ 3b:	4 0 1 0 1 0
+Steinbach @ c:	4 1 1 4 0 0
+Jameson @ p:	3 1 1 2 7 0
+TOTALS:		35 4 6 24 13 3
+
+Hanover:	ab r h po a e
+Starr @ 2b:	3 1 1 2 4 2
+Mackert @ cf:	3 0 0 2 0 0
+Sherman @ lf:	4 1 0 3 0 0
+Crawford @ rf:	4 2 3 1 0 0
+Gorham @ 3b:	4 2 1 1 0 1
+Stroh @ c:	2 2 2 9 1 0
+Grotey @ ss:	4 0 0 1 4 0
+Hostetter @ 1b: 4 0 0 8 0 0
+Smallwood @ p:	3 0 2 0 1 1
+TOTALS:		31 8 9 27 10 4
+
+
+line: Chambersburg: 0 0 0 0 0 0 0 0 0 - 4
+line: Hanover:      0 0 0 0 0 0 0 0 0 - 8
+
+
+B_LOB:Hanover #2; Chambersburg #4
+B_ER: Hanover #4; Chambersburg #2
+B_3B: Stroh; Gorham; Jameson
+B_HR: Crawford
+B_SB: Starr
+P_BB: Jameson #4
+P_SO: Smallwood #8; Jameson #4
+F_DP: Starr, Grotey, Hostetter; Jameson, Snavely
+T: 1:35
+U: Glatts
+
+---
+
+date: 1915-07-23
+number:0
+league: Blue Ridge
+away: Martinsburg
+home: Gettysburg  
+source: Hanover Evening Sun, July 24, 1915
+
+Martinsburg:	r h po a e
+Thompson @ 2b:	0 1 3 7 1
+Durborow @ rf:	0 1 0 0 0
+Morris @ 1b:	0 1 13 0 0
+Rawlings @ lf:	1 1 0 0 0
+Donnelly @ cf:	0 0 2 0 0
+Johnson @ c:	1 1 6 1 1
+Shipley @ 3b:	0 0 1 1 0
+Hayes @ ss:	0 2 2 6 0
+Douglas @ p:	0 0 0 1 0
+TOTALS:		2 7 27 16 2
+
+Gettysburg:	r h po a e
+Bigler @ 3b:	1 1 4 1 0
+Plank @ rf:	0 0 4 0 0
+Mahaffie @ c:	0 1 7 2 0
+Weimer @ cf:	0 0 0 0 0
+Bashore @ 1b:	0 0 9 0 0
+Herrell @ lf:	0 0 0 0 0
+Swartz @ 2b:	0 1 2 4 0
+Oyler @ ss:	0 0 1 4 0
+Stair @ p:	0 0 0 1 0
+TOTALS:		1 3 27 12 0
+
+
+line: Martinsburg:  0 0 0 0 0 0 0 0 2 - 2
+line: Gettysburg:   0 0 1 0 0 0 0 0 0 - 1
+
+B_ER: Gettysburg #1; Martinsburg #1
+B_2B: Johnson; Swartz
+B_3B: Morris; Thompson; Durborow
+B_HR: Rawlings
+B_SH: Bashore
+B_SB: Bigler
+P_BB: Stair #2; Douglas #3
+P_SO: Stair #5; Douglas #6
+F_PB: Mahaffie; Johnson
+F_DP: Thompson, Hayes, Morris
+U: Derr; McAtee 
+
+---
+
+
+date: 1915-07-23
+number: 0
+league: Blue Ridge
+away: Hagerstown
+home: Frederick
+source: Hanover Evening Sun, July 24, 1915
+
+Hagerstown: 	r h po a e
+Walters @ cf:	1 2 3 0 0
+Fuhrey @ ss: 	0 1 3 2 0
+Troy @ 2b:	0 0 3 1 0
+Cook @ rf:	0 1 0 0 0
+Hooker @ lf: 	0 1 2 0 0
+Dean @ 3b:	0 0 0 3 0
+Freeney @ 1b:	0 0 10 2 0
+Milliman @ c: 	0 0 3 1 0
+Smith @ p:	0 0 0 3 0
+TOTALS:		1 5 24 12 0
+
+Frederick:	r h po a e
+Agnew @ 2b:	1 1 2 3 0
+Porter @ ss:	1 2 2 1 1 
+Lamar @ cf:	0 0 3 0 0
+Orrison @ rf:	0 2 0 0 0
+Boyne @ 1b:	0 0 10 0 0
+Barnhart @ 3b:	0 1 1 3 0
+Morrison @ lf:	0 0 2 0 0
+Whalen @ c:	0 0 7 4 0
+King @ p:	0 0 0 0 0
+TOTALS:		2 6 27 11 1
+
+line: Hagerstown: 0 0 0 0 0 0 0 0 1 - 1
+line: Frederick:  1 0 0 1 0 0 0 0 x - 2
+ 
+B_ER: Frederick #2; Hagerstown #1
+B_LOB: Frederick #3; Hagerstown #4 
+B_ROE: Hagerstown #1
+B_2B: Walters
+B_HR: Agnew 
+B_SB: Walters; Fuhrey; Cook; Porter #2
+B_SH: Troy; Lamar
+P_BB: King #1
+P_SO: King #7; Smith #3
+T: 1:50
+U: Cleary
+
+---
+
+date: 1915-07-24
+number:0
+league: Blue Ridge
+away: Chambersburg
+home: Hanover
+source: Hanover Evening Sun, July 26, 1915
+
+Chambersburg:	ab r h po a e
+Snyder @ cf:	4 0 1 2 2 0
+Dunn @ 2b:	4 0 1 3 2 0
+Snavely @ 1b:	3 0 0 8 1 1
+Clay @ rf:	4 0 1 0 0 0
+Klein @ lf:	4 1 1 2 1 0
+Moseley @ ss:	4 0 1 3 2 0
+Masterson @ 3b:	3 0 0 0 1 0
+Steinbach @ c:	3 1 0 5 1 0
+Stricker @ p:	3 0 1 0 4 0
+*Moore @ pr:	0 0 0 0 0 0
+TOTALS:		32 2 6 23 14 1
+
+Hanover:	ab r h po a e
+Pownall @ cf:	3 1 2 1 0 0
+Starr @ 2b:	2 0 0 1 1 0
+Mackert @ lf:	3 0 1 4 1 0
+Crawford @ rf:	2 0 1 1 0 0
+Eline @ 3b:	3 2 0 3 2 0
+Stroh @ c:	3 0 0 8 1 0
+Grotey @ ss:	3 0 0 2 1 1
+Hostetter @ 1b: 4 0 2 6 1 0
+Kunkle @ p:	2 0 0 1 1 1
+TOTALS:		25 3 6 21 8 2
+
+*: Ran for Clay in 9th
+
+line: Chambersburg: 0 0 1 0 0 0 1 0 0 - 2
+line: Hanover:      0 1 1 0 0 1 0 0 x - 3
+
+B_LOB:Hanover #5; Chambersburg #4
+B_SB: Pownall; Starr; Mackert; Eline; Snavely
+B_SH: Starr
+P_BB: Kunkle #1; Stricker #8
+P_SO: Kunkle #7; Stricker #5
+F_DP: Snyder, Moseley; Mackert, Stroh; Snyder, Snavely; Kunkle, Hostetter, Eline
+T: 1:55
+U: Glatts
+
+---
+
+date: 1915-07-24
+number:1
+league: Blue Ridge
+away: Martinsburg
+home: Gettysburg  
+source: Hanover Evening Sun, July 26, 1915
+
+Martinsburg:	r h po a e
+Thompson @ 2b:	0 1 2 5 0
+Durborow @ rf:	0 2 0 0 0
+Morris @ 1b:	0 1 10 1 0
+Rawlings @ lf:	0 0 1 0 0
+Donnelly @ cf:	0 1 2 0 0
+Johnson @ c:	0 0 9 1 0
+Shipley @ 3b:	2 3 1 1 0
+Hayes @ ss:	0 1 2 2 0
+Clark @ p:	1 1 0 1 0
+TOTALS:		3 10 27 11 0
+
+Gettysburg:	r h po a e
+Bigler @ 3b:	0 2 2 1 0
+Plank @ rf:	0 0 3 0 0
+Mahaffie @ lf:	0 0 2 0 0
+Bashore @ 1b:	0 2 8 2 0
+Weimer @ cf:	0 0 0 0 0
+Herrell @ cf:	0 0 0 0 0
+McMillan @ ss:	0 0 1 1 1
+Swartz @ 2b:	0 1 3 3 0
+Jarosick @ c:	0 0 5 0 0
+Howard @ p:	0 0 0 5 0
+TOTALS:		1 6 27 12 1
+
+*: Ran for Herrel in 9th
+
+line: Martinsburg:  0 0 0 0 2 0 1 0 0 - 3
+line: Gettysburg:   0 0 0 0 0 0 0 1 0 - 1
+
+B_ER: Gettysburg #1; Martinsburg #2
+B_2B: Thompson
+B_SB: Shipley
+P_BB: Howard #1; Clark #3
+P_SO: Howard #3; Clark #9
+F_DP: Thompson, Morris
+U: Derr; McAtee
+
+---
+
+
+date: 1915-07-24
+number: 2
+league: Blue Ridge
+away: Martinsburg
+home: Gettysburg  
+source: Hanover Evening Sun, July 26, 1915
+
+Martinsburg:	r h po a e
+Thompson @ 2b:	0 1 2 3 0
+Durborow @ rf:	1 1 2 0 0
+Morris @ 1b:	1 2 3 0 0
+Rawlings @ lf:	1 1 2 0 0
+Donnelly @ cf:	0 3 2 0 0
+Johnson @ c:	1 0 3 1 0
+Shipley @ 3b:	0 0 0 1 0
+Hayes @ ss:	0 1 2 2 1
+Mumford @ p:	0 0 0 0 0
+TOTALS:		4 9 21 7 1
+
+Gettysburg:	r h po a e
+Bigler @ 3b:	0 0 1 2 1
+Plank @ rf:	1 0 2 2 0
+Mahaffie @ lf:	1 2 1 0 0
+Bashore @ 1b:	0 1 6 1 0
+Weimer @ cf:	0 2 0 0 0
+Oyler @ ss:	0 0 1 3 0
+Swartz @ 2b:	0 1 2 2 0
+Jarosick @ c:	0 1 7 0 0
+Howard @ p:	0 0 1 1 0
+*Greenwell @ pr:	0 0 0 0 0
+TOTALS:		2 7 20 11 1
+
+*: Batted for Howard in 9th
+
+line: Martinsburg:  1 0 2 0 0 1 0  - 4
+line: Gettysburg:   0 0 0 0 0 1 1  - 2
+
+B_ER: Gettysburg #1; Martinsburg #2
+B_SB: Durborow
+P_BB: Howard #2; Mumford #2
+P_SO: Howard #5; Mumford #2
+U: Derr; McAtee
+
+---
+
+
+date: 1915-07-24
+number: 0
+league: Blue Ridge
+away: Hagerstown
+home: Frederick
+source: Hanover Evening Sun, July 26, 1915
+
+Hagerstown: 	r h po a e
+Walters @ cf:	1 1 3 0 0
+Fuhrey @ ss: 	2 1 3 1 0
+Troy @ 2b:	1 3 1 0 0
+Cook @ rf:	1 3 1 1 0
+Hooker @ lf: 	1 1 2 0 0
+Dean @ 3b:	1 1 3 2 0
+Freeney @ 1b:	0 0 6 0 0
+Milliman @ c: 	0 0 8 1 0
+Welcher @ p:	1 1 1 1 0
+TOTALS:		8 11 27 7 0
+
+Frederick:	r h po a e
+Agnew @ 2b:	1 2 2 4 0
+Porter @ ss:	0 0 0 2 0
+Lamar @ cf:	0 2 1 0 0
+Orrison @ rf:	1 2 1 0 0
+Boyne @ 1b:	1 2 8 3 0
+Barnhart @ 3b:	0 1 0 1 1
+Goldstein @ 3b: 1 1 0 0 0
+Morrison @ lf:	0 1 3 0 0
+Whalen @ c:	1 1 7 0 0
+Eldridge @ p:	0 3 3 1 0
+TOTALS:		5 15 26 10 1
+
+line: Hagerstown: 0 0 5 0 2 1 0 0 0 - 8
+line: Frederick:  0 0 1 0 0 1 1 0 2 - 5
+ 
+B_ER: Hagerstown #6; Frederick #3 
+B_2B: Cook; Eldridge #2; Boyne
+B_HR: Troy; Dean 
+B_SB: Agnew; Whalen
+P_BB: Eldridge #2; Welcher #7
+P_SO: Eldridge #6; Welcher #4
+U: Cleary

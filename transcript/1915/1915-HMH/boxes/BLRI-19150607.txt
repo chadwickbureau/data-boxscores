@@ -1,0 +1,600 @@
+date: 1915-06-07
+number: 0
+league: Blue Ridge
+away: Hagerstown
+home: Frederick
+source: Hagerstown Morning Herald, June 8, 1915
+A: 1000
+
+Hagerstown: 	ab r h po a e
+Dean @ 3b:	3 1 1 2 3 0
+Walters @ rf:	3 1 2 0 0 0
+Sharp @ 2b:	3 0 0 2 2 0
+Laughlin @ c:	4 0 1 5 4 0
+Hooker @ rf: 	3 0 0 2 0 0
+Dolan @ 1b: 	3 0 0 8 9 1
+Fuhrey @ ss: 	3 0 0 4 3 1
+Blunt @ lf: 	3 0 0 0 1 0
+Hevener @ p: 	1 0 0 1 4 1
+*Herrell @ ph:	1 0 0 0 0 0
+TOTALS:		28 2 4 24 17 3
+
+Frederick:	ab r h po a e
+Agnew @ 2b:	4 0 0 3 4 0
+Boyne @ 1b:	3 0 1 15 5 0
+Lamar @ cf:	3 1 0 0 0 0
+Orrison @ rf:	4 1 2 2 0 0
+Barnhart @ 3b:	2 0 0 3 2 0
+Morrison @ lf:	4 0 1 0 0 0
+Strasbaugh @ ss:4 0 0 0 1 0
+Whalen @ c:	3 1 1 4 3 0
+King @ p:	2 0 1 0 4 0
+TOTALS:		29 3 6 27 14 0
+
+*: Batted for Hooker in the 9th
+note: both Walters and Hooker listed as right fielders
+
+line: Hagerstown:  0 0 0 0 0 2 0 0 0 - 2
+line: Frederick: 0 0 1 0 0 2 0 0 0 - 3
+
+B_LOB: Frederick #7; Hagerstown #5
+B_ROE: Frederick #4 
+B_SB: Walters; Agnew; Barnhart; Whalen
+B_SH: Dolan 
+B_3B: Dean
+B_2B: Walters; Whalen
+P_BB: King #4; Hevener #5
+B_HP: Dean
+P_SO: King #3; Hevener #5
+T:  2:00 
+U: McAtee
+B_ER: Frederick #1; Hagerstown #2
+
+---
+
+date: 1915-06-07
+number: 0
+league: Blue Ridge
+away: Martinsburg
+home: Gettysburg
+source: Hagerstown Morning Herald, June 8, 1915
+A: 500
+site: Hagerstown
+note: game played at Hagerstown because Gettysburg College was playing on Gettysburg's field
+
+Martinsburg: 	ab r h po a e
+McCarty @ lf:	4 0 0 1 0 0
+Shipley @ 3b:	5 0 1 1 3 0
+Donnelly @ 1b:	5 1 1 9 1 2
+Rawling @ cf:	4 0 1 1 0 0
+Morris @ rf: 	2 0 2 3 0 0
+Johnson @ c: 	3 0 0 6 0 0
+Mumford @ p: 	3 0 0 0 4 1
+Kelley @ p: 	1 0 0 0 0 0
+Bauer @ 2b: 	2 0 1 2 0 0
+Hayes @ ss:	1 0 0 0 0 0
+TOTALS:		31 1 7 27 11 4
+
+Gettysburg:	ab r h po a e
+Reeder @ rf:	4 1 0 0 0 0
+McDevitt @ 3b:	5 0 1 0 1 0
+Kelley @ cf:	3 1 0 2 0 0 
+Jarosick @ c:	4 1 2 5 0 0
+Kane @ 1b:	3 0 1 13 1 0
+Grove @ 2b:	3 0 0 0 4 0
+Rudolph @ lf:	4 0 0 2 0 0
+Oyler @ ss:	3 1 1 4 3 0
+Stair @ p:	2 0 0 1 4 0
+Lower @ p:	1 0 0 0 0 0
+TOTALS:		32 3 5 27 12 1
+
+B_LOB: Martinsburg #11; Gettysburg #8
+B_ROE: Martinsburg #1; Gettysburg #3
+B_SB: Reeder; Kane
+B_2B: Morris; Jarosick
+P_BB: Mumford #2; Kelley #1; Stair #2; Lower #2
+P_WP: Mumford #2
+B_HP: Morris
+P_SO: Mumford #1; Kelley #3; Stair #1; Lower #3
+F_DP: Stair, Kane
+T:  3:10
+U: Hanks
+B_ER: Martinsburg #1; Gettysburg #2
+
+---
+
+date: 1915-06-07
+number: 0
+league: Blue Ridge
+away: Hanover
+home: Chambersburg
+source: Hagerstown Morning Herald, June 8, 1915
+
+Hanover:		r h e
+Miller @ p:	x x x
+Traub @ p:	x x x
+Steinbach @ c:	x x x
+TOTALS:			2 x x
+
+Chambersburg:		r h e
+Holhig @ p:	x x x
+Stroh, G. @ c:	x x x
+TOTALS:			7 x x
+
+line: Hanover:  1 0 0 0 0 0 0 1 0 - 2
+line: Chambersburg: 0 0 0 0 0 0 0 7 x - 7
+
+---
+
+date: 1915-06-08
+number: 0
+league: Blue Ridge
+away: Hagerstown
+home: Frederick
+source: Hagerstown Morning Herald, June 9, 1915
+A: 800
+
+Hagerstown: 	ab r h po a e
+Dean @ 3b:	5 0 2 1 1 1
+Walters @ cf:	1 0 0 1 0 0
+Sharp @ 2b:	4 0 2 1 0 1
+Daley @ lf:	4 0 1 2 1 0
+Hooker @ rf: 	4 1 1 0 0 0
+Dolan @ 1b: 	2 0 1 10 0 1
+Laughlin @ 1b:	0 0 0 1 0 0
+Fuhrey @ ss: 	4 0 0 1 7 0
+Doeppe @ c: 	3 0 1 6 1 0
+Herrell @ p: 	0 0 0 0 1 0
+Pearson @ p:	4 0 0 1 2 0
+*Blunt @ ph:	1 0 1 0 0 0
+TOTALS:		31 1 9 24 13 3
+
+Frederick:	ab r h po a e
+Agnew @ 2b:	4 1 2 6 2 0
+Boyne @ 1b:	4 0 0 13 0 0
+Lamar @ cf:	4 1 0 1 0 0
+Orrison @ rf:	4 0 1 1 1 0
+Barnhart @ 3b:	3 2 2 0 5 0
+Stevens @ lf:	4 0 1 0 0 0
+Strasburg @ ss:	4 0 2 2 1 2
+Whalen @ c:	4 0 0 4 4 0
+Peck @ p:	2 0 0 0 2 0
+Norton @ p:	1 0 0 0 3 0
+TOTALS:		33 4 8 27 18 2
+
+*: Batted for Hooker in the 9th
+
+line: Hagerstown:  0 0 0 1 0 0 0 0 0 - 1
+line: Frederick: 3 0 0 0 0 0 0 1 x - 4
+
+B_LOB: Frederick #7; Hagerstown #9
+P_IP: Peck #4; Norton #5; Herrell #0.2; Pearson #7.1 
+P_R: Peck #1; Herrell #3; Pearson #1
+
+B_SB: Walters; Dolan; Lamar; Barnhart; Orrison; Whalen
+B_SH: Boyne; Walters
+B_2B: Blunt; Agnew; Barnhart
+P_BB: Peck #2; Pearson #2
+P_H: Peck #5; Norton #4; Herrell #3; Pearson #5
+P_SO: Pearson #4; Peck #1; Norton #2
+F_DP: Barnhart, Agnew, Boyne; Orrison, Strasburg; Fuhrey, Dolan
+T: 2:00  
+U: McAtee
+B_ER: Frederick #1; Hagerstown #1
+
+---
+
+date: 1915-06-08
+number: 0
+league: Blue Ridge
+away: Hanover
+home: Chambersburg
+source: Hagerstown Morning Herald, June 9, 1915
+
+Hanover:		r h e
+Sherman @ p:	x x x
+Steinbach @ c:	x x x
+TOTALS:			2 x x
+
+Chambersburg:		r h e
+Bitters @ p:	x x x
+Stroh, G. @ c:	x x x
+TOTALS:			7 x x
+
+line: Hanover:  0 2 0 0 0 0 0 0 0 - 2
+line: Chambersburg: 1 0 3 0 2 1 0 0 x - 7
+
+---
+
+date: 1915-06-08
+number: 0
+league: Blue Ridge
+away: Gettysburg
+home: Martinsburg
+source: Hagerstown Morning Herald, June 9, 1915
+
+Gettysburg:		r h e
+Lower @ p: 	x x x
+Rudolph @ p:	x x x
+Howard @ p:	x x x
+Jarosick @ c:	x x x
+TOTALS:			8 x x
+
+Martinsburg:		r h e
+Kelley @ p:	x x x
+Hoffecker @ p:	x x x
+Johnson @ c:	x x x
+TOTALS:			9 x x
+
+line: Gettysburg:  0 0 3 0 1 0 0 4 0 - 8
+line: Martinsburg: 2 0 3 0 3 0 0 1  x - 9
+
+---
+
+date: 1915-06-09
+number: 0
+league: Blue Ridge
+away: Gettysburg
+home: Hagerstown
+source: Hagerstown Morning Herald, June 10, 1915
+
+Gettysburg:	ab r h po a e
+Hall @ 3b:	2 0 0 1 2 2
+Brean @ lf:	3 0 0 0 1 0
+McHaffle @ 2b:	4 1 2 2 2 0
+Jarosick @ c:	4 0 0 5 2 0
+Kane @ rf-1b:	4 0 0 2 0 0
+Plank @ 1b-p:	3 0 0 10 0 0
+Kelly @ cf:	4 0 0 3 0 0
+Oyler @ ss:	3 0 0 1 2 0
+Hoar @ rf-p:	1 0 0 0 3 0
+Rudolph @ p:	2 0 0 0 2 0
+TOTALS:		30 1 2 24 14 2
+
+Hagerstown: 	ab r h po a e
+Walters @ cf:	5 0 1 2 0 0
+Sharp @ 2b:	4 1 2 4 1 0
+Laughlin @ c:	4 1 2 6 2 0
+Hooker @ rf: 	5 1 2 1 0 0
+Dean @ ss:	5 1 2 2 5 4
+Dolan @ 1b: 	3 1 2 10 0 0
+Fuhrey @ ss: 	2 2 1 1 2 0
+Blunt @ lf:	4 1 2 1 0 0
+Cotter @ p: 	4 0 1 0 2 1
+TOTALS:		38 8 15 27 12 5
+
+line: Gettysburg:  0 0 0 1 0 0 0 0 0 - 1
+line: Hagerstown: 3 0 0 2 2 0 1 0 x - 8
+
+B_LOB: Hagerstown #7; Gettysburg #7
+B_ROE: Hagerstown #2; Gettysburg #4
+
+B_HP: Plank; Sharp; Dolan; Dean 
+B_3B: McHaffle
+B_2B: Blunt #2; Dean; Walters
+P_BB: Hoar #1; Cotter #5
+P_WP: Hoar 
+P_SO: Cotter #6; Plank #1; Hoar #2
+F_DP: Dean, Dolan; Sharp
+F_PB: Jarosick
+B_ER: Hagerstown #8
+
+---
+
+date: 1915-06-09
+number: 0
+league: Blue Ridge
+away: Hanover
+home: Martinsburg
+source: Hagerstown Morning Herald, June 10, 1915
+
+Hanover:		r h e
+Lawrence @ p: 	x x x
+Steinbach @ c:	x x x
+TOTALS:			3 x x
+
+Martinsburg:		r h e
+Hoeffecker @ p:	x x x
+Johnson @ c:	x x x
+TOTALS:			5 x x
+
+line: Hanover:  1 0 0 0 0 2 0 0 0 - 3
+line: Martinsburg: 1 0 0 0 0 2 0 2 x - 5
+
+---
+
+date: 1915-06-09
+number: 0
+league: Blue Ridge
+away: Frederick
+home: Chambersburg
+source: Hagerstown Morning Herald, June 10, 1915
+
+Frederick:		r h e
+Stevens @ p:	x x x
+Whalen @ c:	x x x
+TOTALS:			6 x x
+
+Chambersburg:		r h e
+Stricker @ p:	x x x
+Stroh @ c:	x x x
+TOTALS:			4 x x
+
+line: Frederick:  0 0 1 1 1 1 0 0 0 2 - 6
+line: Chambersburg: 1 0 3 0 0 0 0 0 0 0 - 4
+
+---
+
+date: 1915-06-10
+number: 0
+league: Blue Ridge
+away: Gettysburg
+home: Hagerstown
+source: Hagerstown Morning Herald, June 11, 1915
+A: 700
+
+Gettysburg:	ab r h po a e
+Hall @ 3b:	4 0 1 0 3 0
+Bream @ lf:	1 0 1 0 0 0
+McHaffle @ ss:	4 0 1 2 3 0
+Plank @ 1b:	4 0 0 13 1 0
+Jarosick @ c:	4 0 0 1 0 0
+Kane @ rf:	3 0 0 2 0 0
+Kelley @ cf:	4 0 1 3 0 0
+Oyler @ 2b:	4 0 1 2 3 1
+Green @ p:	3 0 0 1 3 0
+TOTALS:		31 0 5 24 13 1
+
+Hagerstown: 	ab r h po a e
+Walters @ cf:	3 0 0 4 0 0
+Sharp @ 2b:	4 0 0 1 1 1
+Laughlin @ c:	4 1 2 3 1 0
+Hooker @ rf: 	1 0 0 3 0 0
+Dean @ 3b:	3 0 0 3 1 0
+Dolan @ 1b: 	3 0 0 9 0 0
+Fuhrey @ ss: 	3 0 1 3 4 0
+Blunt @ lf:	3 0 1 1 0 0
+Heavner @ p: 	3 0 1 0 4 0
+TOTALS:		27 1 5 27 11 1
+
+line: Gettysburg:  0 0 0 0 0 0 0 0 0 - 0
+line: Hagerstown: 0 0 0 0 0 1 0 0 x - 1
+
+B_LOB: Hagerstown #7; Gettysburg #7
+B_ROE: Hagerstown #1; Gettysburg #1
+B_SB: Dean
+B_2B: Laughlin; Blunt; Hall
+P_BB: Heavner #3; Green #3
+P_SO: Green #1; Heavner #3
+T: 1:30  
+U: Hanks
+B_ER: Hagerstown #1
+
+---
+
+date: 1915-06-10
+number: 0
+league: Blue Ridge
+away: Frederick
+home: Chambersburg
+source: Hagerstown Morning Herald, June 11, 1915
+
+Frederick:		r h e
+Peck @ p:	x x x
+Whalen @ c:	x x x
+TOTALS:			2 x x
+
+Chambersburg:		r h e
+Dorner @ p:	x x x
+Stroh @ c:	x x x
+TOTALS:			0 x x
+
+line: Frederick:  0 0 1 1 0 0 0 0 0 - 2
+line: Chambersburg: 0 0 0 0 0 0 0 0 0 - 0
+
+---
+
+date: 1915-06-10
+number: 0
+league: Blue Ridge
+away: Hanover
+home: Martinsburg
+source: Hagerstown Morning Herald, June 11, 1915
+
+Hanover:		r h e
+Traub @ p: 	x x x
+Steinbach @ c:	x x x
+TOTALS:			2 x x
+
+Martinsburg:		r h e
+Setan @ p:	x x x
+Johnson @ c:	x x x
+TOTALS:			4 x x
+
+line: Hanover:  0 2 0 0 0 0 0 0 0 - 2
+line: Martinsburg: 0 0 2 2 0 0 0 0 x - 4
+
+---
+
+date: 1915-06-11
+number: 0
+league: Blue Ridge
+away: Hanover
+home: Hagerstown
+source: Hagerstown Morning Herald, June 12, 1915
+A: 700
+
+Hanover:	ab r h po a e
+Starr @ 2b:	4 0 1 2 5 0
+Eline @ 3b:	4 0 0 2 3 0
+Coyle @ rf:	3 0 0 1 0 0
+Clunk @ cf:	3 1 1 2 0 0
+Steinbach @ c:	3 0 0 7 1 0
+Hershey @ lf:	4 1 2 2 1 0
+Hostetter @ 1b:	2 0 1 10 0 0
+Grotsey @ ss:	2 0 0 1 0 0
+Scherdel @ p:	3 0 1 0 4 0
+TOTALS:		28 2 6 27 14 0
+
+Hagerstown: 	ab r h po a e
+Walters @ cf:	2 1 0 3 1 0
+Sharp @ 2b:	3 0 1 3 4 0
+Laughlin @ c:	3 0 1 5 2 0
+Hooker @ rf: 	3 0 1 1 1 0
+Dean @ 3b:	3 0 0 1 2 0
+Dolan @ 1b: 	3 0 1 9 0 0
+Fuhrey @ ss: 	4 0 0 4 2 0
+Blunt @ lf:	3 0 1 1 0 1
+Pearson @ p: 	2 0 0 0 1 0
+Cotter @ p:	1 0 0 0 1 0
+TOTALS:		27 1 5 27 14 1
+
+line: Hanover:  0 0 0 0 1 0 1 0 0 - 2
+line: Hagerstown: 1 0 0 0 0 0 0 0 0 - 1
+
+B_LOB: Hagerstown #6; Hanover #5
+B_ROE: Hanover #1
+B_SB: Hooker; Blunt; Hershey
+B_2B: Hershey; Clunk
+P_BB: Pearson #3; Cotter #1; Scherdel #5
+P_SO: Pearson #1; Cotter #3; Scherdel #5
+F_DP: Walters, Dolan, Fuhrey, Sharp
+F_PB: Steinbach
+B_HP: Hooker; Clunk
+T: 1:50
+U: Hanks
+B_ER: Hanover #1; Hagerstown #1
+
+---
+
+date: 1915-06-11
+number: 0
+league: Blue Ridge
+away: Gettysburg
+home: Martinsburg
+source: Hagerstown Morning Herald, June 12, 1915
+
+Gettysburg:		r h e
+Herrell @ p: 	x x x
+Jarosick @ c:	x x x
+TOTALS:			1 5 3
+
+Martinsburg:		r h e
+Kelley @ p:	x x x
+Johnson @ c:	x x x
+TOTALS:			8 12 1
+
+---
+
+date: 1915-06-11
+number: 0
+league: Blue Ridge
+away: Chambersburg
+home: Frederick
+source: Hagerstown Morning Herald, June 12, 1915
+
+Chambersburg:		r h e
+Holib @ p:	x x x
+Stroh @ c:	x x x
+TOTALS:			4 4 1
+
+Frederick:		r h e
+King @ p: 	x x x
+Whalen @ c:	x x x
+TOTALS:			6 11 3
+
+---
+
+date: 1915-06-12
+number: 0
+league: Blue Ridge
+away: Hanover
+home: Hagerstown
+source: Hagerstown Morning Herald, June 14, 1915
+A: 1200
+
+Hanover:	ab r h po a e
+Starr @ 2b:	5 1 1 3 4 0
+Eline @ 3b:	4 1 2 0 0 0
+Coyle @ rf:	4 1 1 2 0 0
+Clunk @ cf:	5 1 3 1 1 0
+Steinbach @ c:	5 2 2 8 0 0
+Hershey @ lf:	4 1 1 2 0 0
+Hostetter @ 1b:	5 0 3 10 0 0
+Grotey @ ss:	4 1 1 1 1 0
+Sheriman @ p:	3 0 0 0 5 0
+TOTALS:		39 8 14 27 10 0
+
+Hagerstown: 	ab r h po a e
+Walters @ cf:	4 1 1 2 0 0
+Sharp @ 2b:	4 1 3 2 3 0
+Laughlin @ c:	3 0 1 7 1 0
+Hooker @ rf: 	4 0 1 0 0 0
+Dean @ 3b:	5 0 1 2 0 0
+Dolan @ 1b: 	5 1 3 7 0 1
+Fuhrey @ ss: 	4 0 1 2 1 1
+Blunt @ lf:	4 0 2 4 0 0
+Fox @ p: 	1 0 0 0 2 0
+Heavner @ p:	3 1 0 0 1 0
+TOTALS:		37 4 13 27 8 2
+
+line: Hanover:  3 1 2 1 0 0 1 0 0 - 8
+line: Hagerstown: 2 0 0 0 0 1 1 0 0 - 4
+
+B_LOB: Hagerstown #11; Hanover #9
+B_ROE: Hanover #2
+
+B_3B: Starr; Steinbach
+B_2B: Clunk; Hostetter; Grotey; Dean
+P_BB: Fox #1; Heavner #2; Sheriman #4
+P_SO: Fox #2; Heavner #2; Sheriman #7
+B_HP: Sharp 
+T: 2:00
+U: Hanks
+
+B_ER: Hagerstown #4; Hanover #7
+
+---
+
+date: 1915-06-12
+number: 0
+league: Blue Ridge
+away: Gettysburg
+home: Martinsburg
+source: Hagerstown Morning Herald, June 14, 1915
+
+Gettysburg:		r h e
+Stair @ p: 	x x x
+Howard @ p:	x x x
+Jarosick @ c:	x x x
+TOTALS:			5 7 3
+
+Martinsburg:		r h e
+Hoffecker @ p:	x x x
+Johnson @ c:	x x x
+TOTALS:			6 11 4
+
+line: Gettysburg:  1 0 0 2 0 0 2 0 0 - 5
+line: Martinsburg: 3 0 0 1 0 0 1 0 1 - 6
+---
+
+date: 1915-06-12
+number: 0
+league: Blue Ridge
+away: Chambersburg
+home: Frederick
+source: Hagerstown Morning Herald, June 14, 1915
+
+Chambersburg:		r h e
+Stricker @ p:	x x x
+Snell @ c:	x x x
+TOTALS:			5 8 3
+
+Frederick:		r h e
+Norton @ p: 	x x x
+Whalen @ c:	x x x
+TOTALS:			2 5 4
+
+line: Chambersburg:  0 1 0 2 0 0 2 0 0 - 5
+line: Frederick: 0 0 0 1 1 0 0 0 0 - 2
+

@@ -82,8 +82,7 @@ class Game(object):
                     print "In file %s,\n   game %s" % (self.metadata['filename'], self)
                     print "  No match on name '%s' in '%s'" % (name, key)
                     continue
-                playing[key] = str(int(playing.get(key, 0)) + count)
-                
+                playing[key] = str(int(playing.get(key, 0)) + int(count))
             
     def _process_linescore(self, value):
         club, score = map(lambda x: x.strip(), value.split(":"))
@@ -123,7 +122,7 @@ class Game(object):
                 playing['game.date'] = self.date
                 playing['game.number'] = self.number
                 if key != "TOTALS":
-                    playing['seq'] = seq
+                    playing['seq'] = str(seq)
                     seq += 1
                     self.playing[playing["name.full"]] = playing
                 else:
@@ -140,7 +139,7 @@ class Game(object):
                 # Some files had manually set keys - we have deprecated these
                 pass
             
-            elif key in [ "date", "number", "league", "away", "home",
+            elif key in [ "date", "number", "league", "away", "home", "site",
                           "source", "A", "T", "status", "status-reason" ]:
                 self.metadata[key] = value
 
@@ -154,7 +153,8 @@ class Game(object):
                     self._parse_details(key, value)
 
             elif key in [ "F_DP", "F_TP" ]:
-                self._parse_dptp(key, value)
+                if value != "":
+                    self._parse_dptp(key, value)
         
             elif key == "U":
                 self.umpiring = [ { "game.key": self.metadata["key"],
@@ -225,7 +225,7 @@ def process_files(source):
 
     df = pd.DataFrame([ g.metadata for g in gamelist ])
     df.sort_values([ 'date', 'league', 'home', 'number' ], inplace=True)
-    columns = [ 'key', 'date', 'number', 'league',
+    columns = [ 'key', 'date', 'number', 'league', 'site',
                 'away', 'away.score', 'home', 'home.score', 'A', 'T',
                 'status', 'status-reason', 'filename', 'source' ]
     for inning in xrange(100):

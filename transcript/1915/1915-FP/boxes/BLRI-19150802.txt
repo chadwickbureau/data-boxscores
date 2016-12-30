@@ -1,0 +1,404 @@
+date: 1915-08-02
+number: 0
+league: Blue Ridge
+away: Frederick
+home: Gettysburg
+status: postponed
+status-reason: rain
+source: Frederick Post, August 3, 1915
+
+---
+
+
+date: 1915-08-02
+number:0
+league: Blue Ridge
+away: Hagerstown
+home: Hanover 
+source: Frederick Post, August 3, 1915
+note: game called after six innings due to rain and darkness
+
+Hagerstown: 	r h e
+Welcher @ p:	x x x
+Milliman @ c:	x x x
+TOTALS:		2 4 1
+
+Hanover:	r h e
+Smallwood @ p:	x x x
+Stroh @ c:	x x x
+TOTALS:		1 4 1
+
+---
+
+date: 1915-08-02
+number: 0
+league: Blue Ridge
+away: Chambersburg
+home: Martinsburg
+source: Frederick Post, August 3, 1915
+
+Chambersburg:		r h e
+Kleskie @ p:	x x x
+Stewart @ p:	x x x
+Moore @ c:	x x x
+TOTALS:			4 8 1
+
+Martinsburg:		r h e
+Mumford @ p: x x x
+Johnson @ c:	x x x
+TOTALS:			13 12 3
+
+---
+
+date: 1915-08-03
+number:0
+league: Blue Ridge
+away: Frederick
+home: Gettysburg 
+source: Frederick Post, August 4, 1915
+
+
+Frederick:	ab r h po a e
+Agnew @ 2b:	5 1 2 6 2 0
+Connelly @ ss:	4 1 3 1 0 1
+Myers @ 1b:	4 1 2 9 2 0
+Orrison @ rf:	4 0 2 0 0 0
+Barnhart @ 3b:	4 0 0 0 2 0
+Lamar @ cf:	4 0 0 1 0 0
+Morrison @ lf:	4 0 0 0 0 0
+Whalen @ c:	4 0 0 0 0 0
+Lewellyn @ p:	2 0 0 0 2 0
+Stevens @ p:	1 0 0 0 2 0
+TOTALS:		36 3 9 27 10 1
+
+
+Gettysburg:	ab r h po a e
+Bigler @ 3b:	3 0 1 2 2 0
+Swartz @ 2b:	1 0 0 4 2 2
+Mahaffie @ cf:	2 0 0 0 1 0
+Clay @ rf:	4 0 0 0 1 0
+Bashore @ lf:	3 0 1 3 0 1
+Reiff @ ss:	3 1 0 2 3 0
+Deal @ 1b:	2 1 0 7 0 0
+Jarosick @ c:	3 0 0 8 2 0
+Greenwell @ p:	3 0 0 1 2 0
+*Plank @ ph:	1 0 0 0 0 0
+TOTALS:		25 2 2 27 13 3
+
+*: Batted for Greenwell in 9th
+
+line: Frederick:   1 0 1 0 0 0 1 0 0 - 3
+line: Gettysburg:  0 0 0 0 2 0 0 0 0 - 2
+
+
+---
+
+
+date: 1915-08-03
+number:0
+league: Blue Ridge
+away: Hagerstown  
+home: Hanover
+source: Frederick Post, August 4, 1915
+ 
+Hagerstown: 	r h e
+Barton @ p:	x x x
+Milliman @ c:	x x x
+TOTALS:		0 2 1
+
+Hanover:	r h e
+Sherman @ p:	x x x
+Stroh @ c:	x x x
+TOTALS:		2 5 1
+
+---
+
+date: 1915-08-03
+number: 0
+league: Blue Ridge
+away: Gettysburg
+home: Chambersburg
+source: Frederick Post, August 4, 1915
+
+Gettysburg:		r h e
+Howard @ p:	x x x
+Jarosick @ c:	x x x
+TOTALS:			0 0 6
+
+Chambersburg:		r h e
+Stricker  @ p: 	x x x
+Steinbach @ c:	x x x
+TOTALS:			1 6 1
+
+U: Stradford
+
+---
+
+date: 1915-08-03
+number: 0
+league: Blue Ridge
+away: Chambersburg
+home: Martinsburg
+status: postponed
+status-reason: rain
+source: Frederick Post, August 4, 1915
+
+---
+
+date: 1915-08-04
+number: 0
+league: Blue Ridge
+away: Martinsburg
+home: Frederick
+source: Frederick Post, August 5, 1915
+
+Martinsburg:	r h e
+TOTALS:		5 8 5
+
+Frederick:	r h e
+TOTALS:		6 7 2
+
+---
+
+date: 1915-08-04
+number: 0
+league: Blue Ridge
+away: Chambersburg 
+home: Hagerstown
+source: Frederick Post, August 5, 1915
+
+Chambersburg:	r h e
+Yates @ p:	x x x
+Steinbach @ c:	x x x
+TOTALS:		1 4 1
+
+Hagerstown: 	r h e
+Smith @ p:	x x x
+Milliman @ c:	x x x
+TOTALS:		6 14 2
+
+---
+
+date: 1915-08-04
+number: 0
+league: Blue Ridge
+away: Gettysburg
+home: Hanover
+source: Frederick Post, August 5, 1915
+
+Gettysburg:		r h e
+Stair @ p:	x x x
+Jarosick @ c:	x x x
+Mahaffie @ c:	x x x
+TOTALS:			2 7 1
+
+Hanover:		r h e
+Kunkle @ p: 	x x x
+Stroh @ c:	x x x
+TOTALS:			5 9 0
+
+---
+
+date: 1915-08-05
+number: 0
+league: Blue Ridge
+away: Hagerstown
+home: Chambersburg
+status: postponed
+status-reason: rain
+source: Frederick Post, August 6, 1915
+
+---
+
+
+date: 1915-08-05
+number: 0
+league: Blue Ridge
+away: Frederick
+home: Martinsburg
+status: postponed
+status-reason: rain
+source: Frederick Post, August 6, 1915
+
+---
+
+date: 1915-08-05
+number: 0
+league: Blue Ridge
+away: Hanover
+home: Gettysburg
+status: postponed
+status-reason: rain
+source: Frederick Post, August 6, 1915
+
+---
+
+date: 1915-08-06
+number: 0
+league: Blue Ridge
+away: Frederick
+home: Martinsburg 
+source: Frederick Post, August 7, 1915
+
+Frederick:	ab r h po a e
+Agnew @ 2b:	x x x x x x
+Connelly @ ss:	x 1 1 1 4 0
+Myers @ 1b:	4 x 1 11 1 x
+Orrison @ rf:	4 x x x x x 
+Barnhart @ 3b:	4 1 1 1 x x
+Lamar @ cf:	4 x x x x x
+Morrison @ lf:	3 1 x x x x 
+Whalen @ c:	4 1 x x x x
+Eldridge @ p:	x 1 1 1 1 x
+TOTALS:		x 5 x 27 x x
+
+Martinsburg:	ab r h po a e
+Thompson @ 2b:	4 0 1 x x x
+Hayes @ ss:	4 0 x 2 4 1
+Keener @ cf:	4 0 0 x x 0
+Rawlings @ lf:	4 0 0 1 0 0
+Donnelly @ rf:	4 0 0 x 1 0
+Johnson @ c:	4 0 0 4 2 0
+Morris @ 1b:	4 0 1 12 x 1
+Long @ 3b:	3 0 1 1 x 1
+Douglass @ p:	3 0 0 0 4 2
+TOTALS:		34 0 x 27 17 5
+
+line: Frederick:   0 0 2 0 0 0 1 1 1 - 5
+line: Martinsburg: 0 0 0 0 0 0 0 0 0 - 0
+ 
+B_ER: Frederick #2
+B_LOB: Frederick #5; Martinsburg #8 
+B_ROE: Frederick #4
+B_2B: Morris
+B_3B: Johnson
+B_HR: Connelly
+B_SB: Myers; Lamar; Morrison; Hayes
+B_SH: Lamar; Eldridge 
+P_BB: Eldridge #1; Douglass #1
+P_SO: Eldridge #5; Douglass #4
+F_DP: Eldridge, Agnew, Myers
+F_PB: Johnson
+U: Glatts; Stratford
+
+---
+
+
+date: 1915-08-06
+number: 1
+league: Blue Ridge
+away: Chambersburg 
+home: Hagerstown
+source: Frederick Post, August 7, 1915
+ 
+
+Chambersburg:	r h e
+Sharirden @ p:	x x x
+Steinbach @ c:	x x x
+TOTALS:		3 6 2
+
+Hagerstown: 	r h e
+Welcher @ p:	x x x
+Milliman @ c:	x x x
+TOTALS:		5 9 1
+
+---
+
+date: 1915-08-06
+number: 2
+league: Blue Ridge
+away: Chambersburg 
+home: Hagerstown
+source: Frederick Post, August 7, 1915
+
+
+Chambersburg:	r h e
+Stewart @ p:	x x x
+Steinbach @ c:	x x x
+TOTALS:		0 4 3
+
+Hagerstown: 	r h e
+Barton @ p:	x x x
+Milliman @ c:	x x x
+TOTALS:		1 1 0
+
+---
+
+
+date: 1915-08-06
+number: 0
+league: Blue Ridge
+away: Hanover 
+home: Gettysburg
+source: Frederick Post, August 7, 1915
+
+Hanover:		r h e
+TOTALS:			2 x x
+
+Gettysburg:		r h e
+TOTALS:			1 x x
+
+---
+
+date: 1915-08-07
+number: 0
+league: Blue Ridge
+away: Frederick
+home: Martinsburg
+status: postponed
+status-reason: rain
+source: Frederick Post, August 9, 1915
+note: game stopped after three innings with game tied 1-1
+
+---
+
+date: 1915-08-07
+number: 1
+league: Blue Ridge
+away: Hagerstown
+home: Chambersburg 
+source: Frederick Post, August 9, 1915
+
+Hagerstown: 	r h e
+Smith @ p:	x x x
+Milliman @ c:	x x x
+TOTALS:		1 x x
+
+Chambersburg:	r h e
+Yates @ p:	x x x
+Steinbach @ c:	x x x
+TOTALS:		4 x x
+
+---
+
+date: 1915-08-07
+number: 2
+league: Blue Ridge
+away: Hagerstown
+home: Chambersburg 
+source: Frederick Post, August 9, 1915
+
+Hagerstown: 	r h e
+McCleary @ p: 	x x x
+Milliman @ c:	x x x
+TOTALS:		2 4 3
+
+Chambersburg:	r h e
+Stewart @ p:	x x x
+Steinbach @ c:	x x x
+TOTALS:		1 1 1
+
+---
+
+date: 1915-08-07
+number: 0
+league: Blue Ridge
+away: Hanover 
+home: Gettysburg
+source: Frederick Post, August 9, 1915
+
+Hanover:		r h e
+TOTALS:			3 x x
+
+Gettysburg:		r h e
+TOTALS:			7 x x

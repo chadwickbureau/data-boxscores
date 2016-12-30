@@ -1,0 +1,239 @@
+date: 1915-05-27
+number: 0
+league: Blue Ridge
+away: Gettysburg
+home: Hanover
+source: Gettysburg Star and Sentinel, May 28, 1915 
+A: 
+
+Gettysburg:	ab r h po a e
+Reeder @ 2b:	5 0 1 4 2 0
+Rudolph @ lf:	5 0 2 1 0 0
+Jarosick @ c:	4 0 0 6 0 0
+Plank @ 1b:	4 0 0 11 0 0
+Stover @ ss:	3 1 0 0 4 1
+Kelly @ cf:	4 1 3 4 0 0
+Jones @ rf:	4 0 0 1 0 0
+Oyler @ 3b:	4 2 2 0 2 1
+Stair @ p:	3 1 1 0 6 0
+TOTALS:		36 5 9 27 14 2
+
+Hanover: 	ab r h po a e
+Starr @ 2b:	2 0 0 3 4 0
+Eline @ 3b:	4 0 1 0 1 0
+Coyle @ ss:	4 0 0 2 1 0
+Clunk @ cf:	4 0 1 2 0 1
+Steinbach @ c:	4 0 0 8 1 0
+Raab @ lf:	3 0 0 0 0 0
+Hostetter @ 1b:	4 0 1 11 0 1
+Hershey @ rf:	2 0 1 0 0 0
+Johnson @ p:	2 0 0 0 2 0
+Traub @ p:	2 0 0 0 3 0
+*Howe @ ph:	1 0 0 0 0 0
+TOTALS:		32 0 4 26 12 1
+
+*: Batted for Johnson in 4th
+
+B_LOB: Hanover #3; Gettysburg #1
+B_2B: Oyler
+B_3B: Reeder
+B_SH: Eline; Jarosick
+B_HP: Hershey; Starr; Stover; Stair
+P_HP: Stair #2; Johnson #2 
+P_BB: Stair #5; Johnson #1
+P_SO: Stair #6; Johnson #2; Traub #5
+F_DP: 
+T: 1:30
+U: Hanks
+
+---
+
+date: 1915-05-27
+number: 0
+league: Blue Ridge
+away: Martinsburg
+home: Frederick
+source: Gettysburg Star and Sentinel, May 28, 1915
+
+Martinsburg:	r h e
+Kelly @ p:		x x x
+Schauffle @ p:	  	x x x
+Zachary @ c:		x x x
+TOTALS:			3 6 4
+
+Frederick:		r h e 
+Stevens	@ p:		x x x
+Whalen @ c:		x x x
+TOTALS:			14 15 0
+
+
+---
+
+date: 1915-05-27
+number: 0
+league: Blue Ridge
+away: Hagerstown
+home: Chambersburg
+source: Gettysburg Star and Sentinel, May 28, 1915
+
+Hagerstown:	r h e
+Revener @ p:		x x x
+Laughlin @ c:		x x x
+TOTALS:			3 9 0
+
+Chambersburg:		r h e 
+Stricker @ p:		x x x
+Stroh @ c:		x x x
+TOTALS:			1 7 2
+
+---
+
+date: 1915-05-28
+number: 0
+league: Blue Ridge
+away: Hanover
+home: Gettysburg 
+source: Gettysburg Star and Sentinel, May 29, 1915 
+A: 
+
+Hanover: 	ab r h po a e
+Starr @ ss:	4 1 2 4 4 1
+Eline @ 3b:	4 1 2 2 1 0
+Herman @ 2b:	5 1 2 1 4 0
+Clunk @ rf:	4 0 1 2 0 0
+Steinbach @ c:	4 0 0 7 1 0
+Raab @ cf:	4 0 0 0 0 0
+Hostetter @ 1b:	4 0 0 10 0 0
+Hershey @ rf:	3 2 1 1 0 0
+Sherman @ p:	3 0 2 0 1 0
+TOTALS:		35 5 10 27 11 1
+
+Gettysburg:	ab r h po a e
+Reeder @ 2b:	3 0 2 1 0 0
+Kane @ lf:	4 0 0 2 0 0
+Kelly @ cf:	4 0 1 1 1 0
+Plank @ 1b:	4 0 1 6 0 0
+Stover @ ss:	3 0 1 2 0 2
+Jarosick @ c:	3 0 0 8 2 0
+Jones @ rf:	3 0 0 2 0 0
+Oyler @ 3b:	3 0 0 4 3 0
+Rudolph @ p:	3 1 0 1 1 0
+TOTALS:		30 1 5 27 7 2
+
+line: Hanover:    0 0 0 0 4 0 0 0 1 - 5
+line: Gettysburg: 0 0 1 0 0 0 0 0 0 - 1
+
+
+B_LOB: Hanover #7; Gettysburg #3
+B_ROE: Hanover #2; Gettysburg #1
+B_2B: Sherman; Clunk; Herman
+B_3B: Reeder; Hershey
+B_SH: 
+B_HP: Starr
+P_BK: Rudolph
+P_BB: Rudolph #2; Sherman #1
+P_SO: Rudolph #4; Sherman #7
+F_DP: 
+T: 1:50
+U: Hanks
+
+---
+
+date: 1915-05-28
+number: 0
+league: Blue Ridge
+away: Chambersburg
+home: Hagerstown 
+source: Gettysburg Star and Sentinel, May 29, 1915
+
+Chambersburg:		r h e 
+Bitters @ p:		x x x
+Stroh @ c:		x x x
+TOTALS:			2 4 2
+
+Hagerstown:	r h e
+Pearson @ p:		x x x
+Laughlin @ c:		x x x
+TOTALS:			0 3 3 
+
+---
+
+date: 1915-05-28
+number: 0
+league: Blue Ridge
+away: Frederick
+home: Martinsburg 
+source: Gettysburg Star and Sentinel, May 29, 1915
+
+Frederick:		r h e 
+Norton	@ p:		x x x
+Whalen @ c:		x x x
+TOTALS:			3 4 4
+
+Martinsburg:	r h e
+Hoefacker @ p:		x x x
+Zachary @ c:		x x x
+TOTALS:			5 8 3
+
+---
+
+date: 1915-05-29
+number: 0
+league: Blue Ridge
+away: Gettysburg
+home: Hanover
+source: Gettysburg Star and Sentinel, June 1, 1915
+note: 10-inning game
+
+
+Gettysburg:		r h e 
+Howard @ p:		x x x
+Jarosick @ c:		x x x
+TOTALS:			3 8 3
+
+Hanover:	r h e
+Miller @ p:		x x x
+Steinbach @ c:		x x x
+TOTALS:			4 9 2
+
+line: Gettysburg: 0 0 0 0 1 0 1 1 0 0 - 3
+line: Hanover:    2 0 0 0 1 0 0 0 0 1 - 4
+
+
+---
+
+date: 1915-05-29
+number: 0
+league: Blue Ridge
+away: Chambersburg
+home: Hagerstown
+status: postponed
+status-reason: rain
+source: Gettysburg Star and Sentinel, June 1, 1915
+
+---
+
+date: 1915-05-29
+number: 0
+league: Blue Ridge
+away: Frederick
+home: Martinsburg
+source: Gettysburg Star and Sentinel, June 1, 1915
+
+Frederick:	r h e
+King @ p:	x x x 
+Whalen @ c:	x x x 
+TOTALS:		4 7 0
+
+Martinsburg:	r h e
+Kelly @ p:	x x x
+Zachary @ c:	x x x
+TOTALS:		3 6 5
+
+
+line: Frederick:   0 0 2 0 0 0 2 0 0 - 4
+line: Martinsburg: 0 0 3 0 0 0 0 0 0 - 3
+
+
+
+

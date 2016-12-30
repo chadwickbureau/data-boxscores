@@ -1,0 +1,700 @@
+date: 1915-07-05
+number: 1
+league: Blue Ridge
+away: Gettysburg
+home: Martinsburg
+source: Gettysburg Star and Sentinel, July 6, 1915
+A: 
+
+Gettysburg:	ab r h po a e
+Kane @ lf:	4 1 0 1 0 1
+Oyler @ ss:	5 0 0 3 4 0
+Bigler @ 3b:	3 0 1 0 0 0
+Mahaffie @ c:	4 1 1 6 2 1
+Herrell @ rf:	3 0 1 1 0 0
+Jarosick @ 1b:	4 0 0 7 0 1
+Bashore @ cf:	4 0 0 2 0 1
+Dove @ 2b:	4 0 0 3 0 0
+Howard @ p:	3 0 1 1 4 1
+TOTALS:		34 2 4 24 10 5
+
+Martinsburg:	ab r h po a e
+Durboraw @ rf:	5 1 2 1 0 0
+Shipley @ 3b:	5 2 2 1 0 2
+Donnelly @ 1b:	5 2 1 5 0 1
+Rawlings @ lf:	4 0 2 1 0 0
+Morris @ cf:	5 0 1 4 0 0
+Johnson @ c:	4 1 1 5 1 0
+Zachary @ 2b:	4 2 3 4 2 1
+Hayes @ ss:	2 1 2 5 3 1
+Douglas @ p:	3 1 1 1 2 1
+TOTALS:		37 10 15 27 8 6
+
+line: Gettysburg:   0 0 1 0 0 1 0 0 0 - 2
+line: Martinsburg:  2 1 1 0 0 4 2 0 x - 10
+
+B_LOB: Gettysburg #8; Martinsburg #7
+B_ROE: Gettysburg #5; Martinsburg #3
+B_ER: Martinsburg #6
+B_2B: Zachary #2
+B_SB: Bigler; Shipley; Donnelly; Rawlings; Morris; Hayes
+B_SH: Rawlings; Hayes
+P_BB: Douglas #3; Howard #2
+P_SO: Douglas #6; Howard #4
+T: 2:08
+U: Hanks
+
+---
+
+date: 1915-07-05
+number: 2
+league: Blue Ridge
+away: Gettysburg
+home: Martinsburg
+source: Gettysburg Star and Sentinel, July 6, 1915
+
+Gettysburg:	ab r h po a e
+Kane @ lf:	3 0 0 2 0 0
+Oyler @ ss:	4 0 0 2 4 0
+Bigler @ 3b:	4 1 0 0 1 0
+Mahaffie @ c:	3 1 1 8 0 0
+Herrell @ rf:	3 1 0 1 0 0
+Jarosick @ 1b:	4 0 2 9 1 0
+Bashore @ cf:	4 0 1 0 0 0
+Dove @ 2b:	4 0 0 2 2 0
+Stair @ p:	3 0 0 0 5 0
+*Burns @ ph:	1 0 0 0 0 0
+TOTALS:		33 3 4 24 13 0
+
+Martinsburg:	ab r h po a e
+Durboraw @ rf:	4 0 0 2 0 0
+Shipley @ 3b:	3 1 0 0 2 0
+Donnelly @ 1b:	4 2 2 12 0 0
+Rawlings @ lf:	4 1 2 2 0 0
+Morris @ cf:	3 0 0 2 0 0
+Johnson @ c:	3 1 1 0 1 0
+Zachary @ 2b:	4 0 1 2 3 1
+Hayes @ ss:	3 0 0 1 4 4 
+Hoeffecker @ p:	2 2 1 0 1 0
+TOTALS:		30 7 7 27 12 5
+
+*: Batted for Stair in 9th
+
+line: Gettysburg:   0 1 0 1 1 0 0 0 0 - 3
+line: Martinsburg:  0 1 1 0 3 0 0 2 x - 7
+
+B_LOB: Gettysburg #8; Martinsburg #4
+B_ROE: Gettysburg #5
+B_ER: Gettysburg #1; Martinsburg #7
+B_2B: Bashore
+B_HR: Hoeffecker
+B_SB: Bigler #2; Kane; Donnelly; Rawlings
+B_HP: Johnson
+P_BB: Hoeffecker #3; Stair #3
+P_SO: Hoeffecker #3; Stair #8
+F_DP: Hayes, Zachary, Donnelly
+F_PB: Mahaffie
+T: 1:50
+U: Hanks
+
+---
+
+date: 1915-07-05
+number: 1
+league: Blue Ridge
+away: Hanover
+home: Hagerstown
+source: Gettysburg Star and Sentinel, July 6, 1915
+A: 
+
+Hanover:	r h e
+Scherdel @ p:	x x x
+Stroh @ c: 	x x x
+TOTALS:		4 10 0
+
+Hagerstown: 	r h e
+Hevener @ p:	x x x
+Doeppe @ c: 	x x x
+Laughlin @ c:	x x x
+TOTALS:		3 9 5
+
+---
+
+date: 1915-07-05
+number: 2
+league: Blue Ridge
+away: Hanover
+home: Hagerstown
+source: Gettysburg Star and Sentinel, July 6, 1915
+
+Hanover:	r h e
+Lawrence @ p:	x x x
+Miller @ p:	x x x
+Stroh @ c: 	x x x
+TOTALS:		9 14 0
+
+Hagerstown: 	r h e
+Johnson @ p:	x x x
+Laughlin @ c:	x x x
+TOTALS:		4 10 2
+
+---
+
+date: 1915-07-05
+number: 1
+league: Blue Ridge
+away: Frederick
+home: Chambersburg 
+source: Gettysburg Star and Sentinel, July 6, 1915
+
+Frederick:		r h e
+TOTALS:			2 4 3
+
+Chambersburg:		r h e
+TOTALS:			4 8 1
+
+---
+
+date: 1915-07-05
+number: 2
+league: Blue Ridge
+away: Frederick
+home: Chambersburg 
+source: Gettysburg Star and Sentinel, July 6, 1915
+
+Frederick:		r h e
+TOTALS:			9 8 1
+
+Chambersburg:		r h e
+TOTALS:			3 12 6
+
+---
+
+date: 1915-07-06
+number: 0
+league: Blue Ridge
+away: Hanover
+home: Gettysburg
+source: Gettysburg Star and Sentinel, July 7, 1915
+
+Hanover:	ab r h po a e
+Crawford @ rf:	5 1 3 0 0 0
+Starr @ 2b:	4 0 2 3 3 0
+Mackert @ lf:	5 1 1 4 0 0
+Clunk @ cf:	4 0 1 1 0 0
+Eline @ 3b:	4 1 1 0 1 0
+Stroh @ c:	4 0 0 9 0 0
+Hostetter @ 1b:	4 1 1 9 0 0
+Grotey @ ss:	4 0 2 1 3 1
+Plitt @ p:	4 0 0 0 1 0
+TOTALS:		39 4 11 27 8 1
+
+
+Gettysburg:	ab r h po a e
+Bigler @ 3b:	3 0 2 1 3 0
+Kane @ lf:	4 0 0 3 0 0
+Mahaffie @ cf:	3 1 1 2 0 0
+Jarosick @ c:	4 0 0 5 0 1
+Basehore @ 1b:	4 0 1 11 1 0
+Herrell @ rf:	4 0 1 2 0 0
+Oyler @ ss:	4 0 0 1 3 1
+Dove @ 2b:	4 0 1 1 1 1
+Greenwell @ p:	4 0 0 1 2 0
+TOTALS:		34 1 6 27 10 3
+
+line: Hanover:     0 2 2 0 0 0 0 0 0 - 4
+line: Gettysburg:  0 0 0 0 0 1 0 0 0 - 1
+
+B_LOB: Gettysburg #7; Hanover #8
+B_ROE: Gettysburg #1; Hanover #1
+B_ER:  Hanover #2
+B_2B: Mackert; Eline; Dove; Basehore
+B_SB: Mahaffie; Dove
+B_SH: Starr
+P_SO: Greenwell #5; Plitt #9
+P_WP: Plitt #2
+F_DP: Starr, Hostetter
+F_PB: Stroh #2
+T: 1:45
+U: McAtee
+
+---
+
+date: 1915-07-06
+number: 0
+league: Blue Ridge
+away: Hagerstown
+home: Chambersburg
+source: Gettysburg Star and Sentinel, July 7, 1915
+
+Hagerstown: 	r h e
+TOTALS:		1 5 4
+
+Chambersburg:	r h e
+TOTALS:		8 12 7
+
+---
+
+date: 1915-07-06
+number: 0
+league: Blue Ridge
+away: Martinsburg
+home: Frederick 
+source: Gettysburg Star and Sentinel, July 7, 1915
+
+
+Martinsburg:		r h e
+Clark @ p:		x x x
+Zachary @ c:		x x x
+TOTALS:			0 3 1
+
+Frederick:		r h e
+King @ p: 		x x x
+Whalen @ c:		x x x
+TOTALS:			1 9 0
+
+---
+
+date: 1915-07-07
+number: 0
+league: Blue Ridge
+away: Hagerstown
+home: Gettysburg
+source: Gettysburg Star and Sentinel, July 8, 1915
+
+Hagerstown: 	ab r h po a e
+Walters @ cf:	2 1 0 0 0 0
+Cook @ rf:	5 0 2 1 0 0
+Troy @ 2b:	5 0 2 0 1 0
+Hooker @ lf: 	5 0 1 0 0 0
+Dean @ 3b:	4 0 0 0 4 0
+Jocks @ c:	1 0 0 1 0 0
+Doeppe @ c: 	3 1 2 10 0 0
+Freeny @ 1b:	4 1 1 12 0 0
+Fuhrey @ ss: 	3 0 2 3 4 1
+Smith @ p:	4 0 0 0 3 0
+TOTALS:		34 3 10 27 12 1
+
+Gettysburg:	ab r h po a e
+Bigler @ 3b:	4 0 0 2 1 1
+Kane @ lf:	2 0 0 2 0 0
+Bashore @ 1b:	4 0 1 6 0 0
+Mahaffie @ cf:	3 1 0 4 0 0
+Herrell @ rf:	3 0 1 1 0 0
+Jarosick @ c:	3 0 0 10 1 0
+Oyler @ ss:	4 0 0 1 2 0
+Dove @ 2b:	1 0 0 0 1 0
+Hall @ 2b:	2 0 1 1 0 0
+Howard @ p:	3 0 0 0 3 0
+*Greenwell @ ph:1 0 0 0 0 0
+TOTALS:		30 1 3 27 8 1
+
+*: Batted for Howard in the 9th
+
+line: Hagerstown:  0 0 1 0 0 0 2 0 0 - 3
+line: Gettysburg:  0 0 0 0 0 0 0 0 1 - 1
+
+B_LOB: Gettysburg #8; Hagerstown #9 
+B_ROE: Gettysburg #1; Hagerstown #1
+B_2B: Cook; Troy
+B_SH: Hooker; Fuhrey
+B_SB: Kane; Bashore; Mahaffie; Jarosick
+P_BB: Smith #5; Howard #3
+P_SO: Smith #11; Howard #8
+P_WP: Howard
+T: 1:45
+U: McAtee
+
+
+---
+
+date: 1915-07-07
+number: 1
+league: Blue Ridge
+away: Frederick
+home: Hanover
+source: Gettysburg Star and Sentinel, July 8, 1915
+
+Frederick:		r h e
+Stevens @ p: 	x x x
+Whalen @ c:	x x x
+TOTALS:			5 7 0
+
+Hanover:		r h e
+Miller @ p:	x x x
+Stroh @ c:	x x x
+TOTALS:			0 2 3
+
+---
+
+date: 1915-07-07
+number: 2
+league: Blue Ridge
+away: Frederick
+home: Hanover
+source: Gettysburg Star and Sentinel, July 8, 1915
+
+Frederick:		r h e
+Orrison @ p: 	x x x
+Whalen @ c:	x x x
+TOTALS:			2 6 1
+
+Hanover:		r h e
+Scherdel @ p:	x x x
+Stroh @ c:	x x x
+TOTALS:			0 2 1
+
+---
+
+date: 1915-07-07
+number: 0
+league: Blue Ridge
+away: Martinsburg
+home: Chambersburg
+source: Gettysburg Star and Sentinel, July 8, 1915
+
+Martinsburg:		r h e
+Mumford @ p:	x x x
+Zachary @ c:	x x x
+TOTALS:			3 5 1
+
+Chambersburg:		r h e
+Holbig @ p: 	x x x
+Moore @ c:	x x x
+TOTALS:			2 2 1
+
+
+---
+
+date: 1915-07-08
+number: 1
+league: Blue Ridge
+away: Hagerstown
+home: Gettysburg
+source: Gettysburg Star and Sentinel, July 9, 1915
+
+Hagerstown: 	ab r h po a e
+Walters @ cf:	4 1 0 2 0 0
+Troy @ 2b:	4 1 0 0 1 0
+Cook @ rf:	5 1 1 0 1 0
+Hooker @ lf: 	3 1 0 6 0 0
+Dean @ 3b:	4 2 1 1 4 1
+Pinetree @ c:	3 0 1 7 0 1
+Freeny @ 1b:	4 0 0 8 0 1
+Fuhrey @ ss: 	2 0 0 3 0 0
+Boyd @ p:	3 1 0 0 4 0
+TOTALS:		32 7 3 27 10 3
+
+Gettysburg:	ab r h po a e
+Bigler @ 3b:	4 0 0 1 0 0
+Kane @ lf:	4 0 0 2 0 0
+Mahaffie @ cf:	4 0 1 1 0 0
+Deal @ 1b:	0 2 0 9 0 0
+Bashore @ rf:	3 0 1 2 0 0
+Hall @ 2b:	4 0 0 2 2 0
+Jarosick @ c:	4 0 0 8 1 0
+Oyler @ ss:	4 0 1 2 3 0
+Stair @ p:	2 0 0 0 2 1
+*Herrell @ ph:	1 0 0 0 0 0
+TOTALS:		30 2 3 27 8 1
+
+*: Batted for Stair in 9th
+
+line: Hagerstown:  0 1 0 0 0 0 0 6 0 - 7
+line: Gettysburg:  0 0 0 1 0 1 0 0 0 - 2
+
+B_LOB: Gettysburg #7; Hagerstown #5 
+B_ROE: Gettysburg #2; Hagerstown #1
+B_2B: Cook
+B_3B: Dean
+B_SH: Stair
+B_SB: Mahaffie; Deal; Bashore
+P_BB: Stair #7; Boyd #5
+P_SO: Stair #6; Boyd #7
+P_WP: Stair
+F_PB: Pinetree
+T: 2:00
+U: McAtee
+
+
+---
+
+date: 1915-07-08
+number: 2
+league: Blue Ridge
+away: Hagerstown
+home: Gettysburg
+source: Gettysburg Star and Sentinel, July 9, 1915
+
+Hagerstown: 	ab r h po a e
+Walters @ cf:	2 1 1 2 1 0
+Troy @ 2b:	3 0 1 0 1 0
+Cook @ rf:	3 0 0 0 0 0
+Hooker @ lf: 	3 0 0 0 0 0
+Dean @ 3b:	3 0 0 1 1 0
+Pinetree @ c:	3 0 2 5 1 1
+Freeny @ 1b:	3 0 0 8 0 1
+Fuhrey @ ss: 	3 0 0 2 1 3
+Boyd @ p:	2 0 0 0 4 0
+TOTALS:		24 1 4 18 9 5
+
+Gettysburg:	ab r h po a e
+Bigler @ 3b:	3 2 1 0 1 0
+Kane @ lf:	2 0 0 2 0 0
+Mahaffie @ cf:	3 2 2 1 0 0
+Deal @ 1b:	2 0 0 7 0 0
+Bashore @ rf:	2 0 0 0 0 0
+Hall @ 2b:	3 0 0 1 1 1 
+Jarosick @ c:	3 0 0 8 2 0
+Oyler @ ss:	2 0 0 2 4 0
+Herrel @ p:	2 0 0 0 2 0
+TOTALS:		22 4 3 21 10 1
+
+line: Hagerstown:  0 0 0 0 0 1 0  - 1
+line: Gettysburg:  2 0 2 0 0 0 x - 4
+
+B_LOB: Gettysburg #3; Hagerstown #2
+B_ROE: Gettysburg #1; Hagerstown #1
+B_ER: Gettysburg #1
+B_2B: Troy
+B_SH: Kane
+B_SB: Bigler; Mahaffie
+P_BB: Herrel #1; Boyd #2
+P_SO: Herrel #7; Boyd #5
+P_WP: Herrel
+B_HP: Walters
+F_PB: Jarosick
+F_DP: Walters, Freeny
+T: 1:15
+U: McAtee
+
+---
+
+date: 1915-07-08
+number: 0
+league: Blue Ridge
+away: Martinsburg
+home: Chambersburg
+source: Gettysburg Star and Sentinel, July 9, 1915
+
+Martinsburg:		r h e
+Hoeffecker @ p:	x x x
+Zachary @ c:	x x x
+TOTALS:			1 3 2
+
+Chambersburg:		r h e
+Stricker @ p: 	x x x
+Moore @ c:	x x x
+TOTALS:			2 2 1
+
+
+---
+
+date: 1915-07-08
+number: 1
+league: Blue Ridge
+away: Frederick
+home: Hanover
+source: Gettysburg Star and Sentinel, July 9, 1915
+
+Frederick:		r h e
+TOTALS:			5 12 2
+
+Hanover:		r h e
+TOTALS:			4 7 4
+
+---
+
+date: 1915-07-09
+number:0
+league: Blue Ridge
+away: Frederick
+home: Gettysburg
+source: Gettysburg Star and Sentinel, July 10, 1915
+
+Frederick:	ab r h po a e
+Agnew @ 2b:	3 0 1 5 5 0
+Boyne @ 1b:	4 0 1 0 0 0
+Lamar @ cf:	4 1 2 4 1 0
+Orrison @ rf:	3 1 1 0 0 0
+Barnhart @ 3b:	4 0 0 0 0 1
+Morrison @ lf:	4 0 0 1 0 0
+Porter @ ss:	4 0 0 1 5 0
+Whalen @ c:	4 0 0 3 0 1
+Peck @ p:	3 0 0 0 4 2
+TOTALS:		34 2 5 23 15 4
+
+Gettysburg:	ab r h po a e
+Bigler @ 3b:	3 1 0 1 3 0
+Newton @ 2b:	4 1 1 0 3 1
+Mahaffie @ cf:	3 0 0 0 0 0
+Bashore @ 1b:	4 0 3 15 0 0
+Plank @ rf:	4 0 2 4 0 0
+Jarosick @ c:	4 0 1 6 1 0
+Herrel @ lf:	4 1 2 0 0 0
+Oyler @ ss:	4 0 2 1 5 1
+Greenwell @ p:	3 0 0 0 1 0
+*Stair @ pr:	0 1 0 0 0 0
++Howard @ pr:	0 0 0 0 0 0
+TOTALS:		33 4 11 27 13 2
+
+*: Ran for Plank in 8th
++: Ran for Plank in 1st
+
+line: Frederick:   0 0 0 1 0 1 0 0 0 - 2
+line: Gettysburg:  2 1 0 0 0 0 0 1 x - 4
+
+B_LOB: Gettysburg #5; Frederick #6
+B_ROE: Gettysburg #2; Frederick #2
+B_ER: Gettysburg #1; Frederick #2
+B_2B: Bashore #2
+B_3B: Lamar #2
+B_HR: Orrison
+B_SH: Mahaffie; Orrison
+B_SB: Bigler
+P_BB: Greenwell #1
+P_SO: Greenwell #7; Peck #1
+B_HP: Bigler
+F_DP: Porter, Agnew, Boyne
+T: 1:30
+U: McAtee
+
+---
+
+date: 1915-07-09
+number: 0
+league: Blue Ridge
+away: Chambersburg 
+home: Martinsburg 
+source: Gettysburg Star and Sentinel, July 10, 1915
+
+Chambersburg:		r h e
+Jameson @ p:	x x x
+Steinbach @ c:	x x x
+TOTALS:			0 7 1
+
+Martinsburg:		r h e
+Douglas @ p: 	x x x
+Zachary @ c:	x x x
+TOTALS:			4 9 2
+
+---
+
+date: 1915-07-09
+number: 0
+league: Blue Ridge
+away: Hagerstown
+home: Hanover
+source: Gettysburg Star and Sentinel, July 10, 1915
+
+Hagerstown: 	r h e
+Hevener @ p:	x x x
+Doeppe @ c: 	x x x
+TOTALS:		9 11 1
+
+Hanover:	r h e
+Plitt @ p:	x x x
+Stroh @ c:	x x x
+TOTALS:		5 8 3
+
+---
+
+date: 1915-07-10
+number:0
+league: Blue Ridge
+away: Frederick
+home: Gettysburg
+source: Gettysburg Star and Sentinel, July 12, 1915
+
+
+Frederick:	ab r h po a e
+Agnew @ 2b:	7 0 1 4 4 1
+Boyne @ 1b:	5 0 2 16 1 1
+Lamar @ cf:	8 0 1 4 0 0
+Orrison @ rf:	8 1 2 2 0 0
+Barnhart @ 3b:	8 0 2 1 2 0
+Morrison @ lf:	8 0 3 6 1 0
+Porter @ ss:	7 0 1 2 6 0
+Whalen @ c:	8 0 2 17 2 2
+King @ p:	7 0 0 1 5 0
+TOTALS:		66 1 14 53 21 4
+
+Gettysburg:	ab r h po a e
+Bigler @ 3b:	8 0 2 4 1 0
+Newton @ 2b:	8 0 2 4 7 1
+Mahaffie @ cf:	8 1 0 3 0 1
+Bashore @ 1b:	7 0 0 17 0 0
+Herrel @ lf:	8 0 4 1 0 0
+Oyler @ ss:	7 0 0 3 7 2
+Hall @ rf:	5 0 1 1 0 0
+Jarosick @ c:	6 1 3 21 4 0
+Howard @ p:	7 0 1 0 4 1
+TOTALS:		64 2 13 54 23 5
+
+line: Frederick:   0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 - 1
+line: Gettysburg:  0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 - 2
+
+B_LOB: Gettysburg #13; Frederick #16
+B_ROE: Gettysburg #2; Frederick #3
+B_ER: Gettysburg #1
+B_2B: Morrison
+B_3B: Barnhart; Orrison; Whalen
+B_SH: Bashore; Hall; Jarosick; Agnew
+B_SB: Herrel; Agnew
+P_BB: Howard #4; King #1
+P_SO: Howard #18; King #13
+P_WP: King
+F_DP: Oyler, Newton, Bashore
+T: 3:55
+U: McAtee
+
+---
+
+date: 1915-07-10
+number: 2
+league: Blue Ridge
+away: Frederick
+home: Gettysburg
+status: postponed
+status-reason: length of first game
+source: Gettysburg Star and Sentinel, July 12, 1915
+
+---
+
+date: 1915-07-10
+number: 0
+league: Blue Ridge
+away: Hagerstown
+home: Hanover
+source: Gettysburg Star and Sentinel, July 12, 1915
+
+Hagerstown: 	r h e
+Smith @ p:	x x x
+Pine Tree @ c: 	x x x
+TOTALS:		2 6 2
+
+Hanover:	r h e
+Sherman @ p:	x x x
+Stroh @ c:	x x x
+TOTALS:		5 7 4
+
+---
+
+date: 1915-07-10
+number: 0
+league: Blue Ridge
+away: Martinsburg 
+home: Chambersburg
+source: Gettysburg Star and Sentinel, July 12, 1915
+
+Martinsburg:		r h e
+Clark @ p: 	x x x
+Mumford @ p:	x x x
+Zackary @ c:	x x x
+TOTALS:			10 16 8
+
+Chambersburg:		r h e
+Holbig @ p:	x x x
+Stricker @ p:	x x x
+Moore @ c:	x x x
+TOTALS:			9 11 1
