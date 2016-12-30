@@ -1,0 +1,204 @@
+date: 1911-09-10
+number: 1
+league: Central
+away: Newark
+home: Dayton
+source: Sporting Life, Vol 58, Number 3, Page 17
+
+Newark:			ab r h po a e
+Gilbert @ p:	3 0 0 0 0 1
+Hale @ p:		1 0 0 0 2 0
+Murray @ 2b:	4 0 0 1 1 0
+Pendry @ 3b:	3 1 1 2 2 0
+Wickland @ cf:	4 0 0 0 0 0
+Gray @ lf:		4 0 1 0 0 0 
+Kihm @ 1b:		3 0 1 11 0 0
+G. Parker @ ss:	4 0 1 5 4 0
+J. Parker @ c:	4 0 0 4 2 0
+Goldrick @ rf:	2 0 0 1 1 0
+TOTALS:			32 1 4 24 12 1
+
+Dayton:			ab r h po a e
+Kirkpa'k @ 3b:	5 0 1 3 1 0
+Benson @ 2b:	4 2 3 3 2 0
+Dell @ rf:		5 1 2 1 0 0
+Knoll @ cf:		3 1 0 2 0 0
+Dehaven @ lf:	4 1 2 3 0 0
+Herriott @ 1b:	3 0 2 9 0 0
+Dobard @ ss:	4 1 1 1 5 0
+Rohrer @ c:		3 1 1 5 1 0
+Sommers @ p:	3 1 1 0 0 0
+Olmstead @ p:	1 0 0 0 0 0 
+TOTALS:			35 8 13 27 9 0
+
+line: Newark: 0 0 1 0 0 0 0 0 0 - 1
+line: Dayton: 0 0 0 1 7 0 0 0 x - 8
+
+B_2B: Benson; Dehaven; Pendry
+F_DP: Benson, Dobard, Cameron
+B_SB: Pendry
+P_IP: Gilbert #5; Sommers #6
+P_H: Gilbert #10; Sommers #2
+P_SO: Gilbert #3; Hale #1; Sommers #3; Olmstead #3
+P_BB: Gilbert #3; Sommers #1; Olmstead #1
+P_WP: Olmstead
+T: 1:35
+U: Egan
+
+---
+
+date: 1911-09-10
+number: 2
+league: Central
+away: Newark
+home: Dayton
+
+Newark:			ab r h po a e
+Gilbert @ 2b:	3 0 2 3 1 0
+Murray @ cf:	3 0 0 3 0 0
+Pendry @ rf:	3 0 0 0 0 0 
+Wickland @ lf:	2 0 0 0 0 0 
+Gray @ p:		2 1 1 0 3 1
+Kihm @ 1b:		2 1 1 5 0 0
+C. Parker @ c:	2 1 1 3 0 0
+Martin @ 3b:	2 1 1 1 1 1
+Goldrick @ ss:	2 0 0 0 2 0
+TOTALS:			21 4 6 15 7 2
+
+Dayton:			ab r h po a e
+Kirkpatrick @ 3b-lf:	2 1 1 0 0 1
+Benson @ cf:	3 0 1 1 0 0
+Dell @ rf:		3 0 1 1 0 0
+Cavanaugh @ 2b:	3 3 2 0 1 0
+Deha'n @ lf-3b:	3 1 2 1 1 0
+Herriott @ 1b:	3 1 2 9 1 0
+Dobard @ ss:	3 2 1 1 5 0
+Konnick @ c:	2 1 1 1 0 0
+Knoll @ c:		1 0 0 0 0 0
+Sample @ p:		3 0 2 1 1 0
+TOTALS:			26 9 13 15 9 1
+
+line: Newark: 0 4 0 0 0 - 4
+line: Dayton: 2 1 2 0 4 - 9
+
+B_2B: Sample; Gilbert
+B_3B: Konnick
+B_HR: Cavanaugh
+F_DP: Martin, Gilbert
+B_SB: Cavanaugh #2; Dobard #2; C. Parker; Gilbert
+P_SO: Sample #1; Gray #3
+P_BB: Gray
+B_SH: Benson; Kirkpatrick
+P_WP: Gray #2; Sample #1
+T: 1:00
+U: Egan
+
+---
+
+date: 1911-09-10
+number: 1
+league: Central
+away: Grand Rapids
+home: Fort Wayne
+
+Fort Wayne:		ab r h po a e
+Justice @ ss:	4 1 2 1 4 0
+Pfeffer @ cf:	4 0 0 1 1 0
+Young @ rf:		4 4 4 3 1 1
+Clancy @ 1b:	5 1 4 10 1 0
+Warrender @ lf:	3 0 2 1 0 0
+McLaf'y @ 3b:	5 0 1 2 0 0
+Vander't @ 2b:	4 0 0 3 1 1
+Onslow @ c:		4 1 2 6 1 0
+Wacker @ p:		3 0 0 0 5 0
+TOTALS:			36 7 15 27 14 2
+
+Grand Rapids:	ab r h po a e
+Kroy @ cf:		5 1 3 4 1 0
+Schmick @ 1b:	6 1 3 10 0 0
+Barkwell @ 3b:	4 1 1 3 2 0
+Geier @ 2b:		6 3 3 4 4 1
+Smith @ lf:		5 1 3 2 1 0
+Kelly @ ss:		4 1 2 0 4 0
+Holmes @ rf:	3 0 1 0 0 0
+Scanlon @ c:	5 2 3 4 0 2
+Martin @ p:		4 0 1 0 1 0
+TOTALS:			42 10 20 27 13 3
+
+line: Fort Wayne: 2 0 1 0 2 1 0 0 1 - 7
+line: Grand Rapids: 0 2 0 0 1 1 1 4 1 - 10
+
+B_2B: Justice; Onslow; Kroy; Barkwell; Geier
+B_3B: Young #2; Clancy; Warrender
+B_SH: Pfeffer; Holmes; Martin
+B_SF: Warrender; Wacker
+B_SB: Justice; Young; Clancy; Warrender; Onslow
+P_SO: Wacker #4; Martin #2
+P_BB: Wacker #4; Martin #3
+P_WP: Wacker
+B_HP: Kroy
+F_DP: Young, Onslow
+B_LOB: Fort Wayne #8; Grand Rapids #2
+T: 1:35
+U: Cleary
+
+---
+
+date: 1911-09-10
+number: 2
+league: Central
+away: Grand Rapids
+home: Fort Wayne
+
+Grand Rapids:	ab r h po a e
+Kroy @ cf:		2 0 1 0 0 0
+Schmick @ 1b:	2 0 0 2 0 0
+Barkwell @ 3b:	2 0 0 1 0 0
+Geier @ 2b:		2 0 0 5 0 1
+Smith @ lf:		2 0 0 0 0 0
+Kelly @ ss:		2 0 1 0 0 0
+Holmes @ p:		2 0 1 1 3 0
+Scanlon @ c:	1 0 0 2 0 0
+Lindsay @ rf:	1 0 0 1 0 0
+TOTALS:			16 0 3 12 3 1
+
+Fort Wayne:		ab r h po a e
+Justice @ ss-2b:	2 2 2 2 0 0
+Pfeffer @ cf:	2 0 0 1 0 0
+Young @ p:		2 0 2 0 5 0
+Valliere @ 1b:	2 0 0 8 0 0
+Warren'r @ lf:	2 0 0 1 0 0
+McL'y @ 3b-ss:	2 0 1 2 2 0
+Van't @ 2b-3b:	2 0 2 0 2 0
+Onslow @ c:		2 0 1 1 1 0
+Wacker @ rf:	1 1 1 0 0 0
+TOTALS:			17 3 9 15 10 0
+
+line: Grand Rapids: 0 0 0 0 0 - 0
+line: Fort Wayne: 1 0 2 0 x - 3
+
+B_2B: Young
+P_SO: Young #1; Holmes #2
+P_WP: Holmes
+U: O'Leary
+
+---
+
+date: 1911-09-10
+number: 0
+league: Central
+away: Zanesville
+home: Terre Haute
+status: postponed
+status-reason: rain
+
+---
+
+date: 1911-09-10
+number: 0
+league: Central
+away: Wheeling
+home: South Bend
+status: postponed
+status-reason: aviation meet
+

@@ -1,0 +1,1369 @@
+date: 1911-04-30
+number: 0
+league: Central
+away: Dayton
+home: Wheeling
+source: Sporting Life Vol 57 Number 10 page 18
+
+Wheeling:		ab r h po a e
+Lewis @ 2b:		4 1 1 3 1 0
+Jewell @ ss:	2 0 1 1 4 0
+Crane @ 1b:		2 0 0 12 0 0
+Servatius @ rf:	4 0 2 1 0 0
+Knisley @ lf:	2 0 0 1 0 0
+Montgomery @ cf:	3 0 0 3 0 0
+Graf @ 3b:		3 1 0 2 2 0
+Welsher @ c:	3 0 1 2 1 0
+Doak @ p:		3 0 0 2 6 0
+TOTALS:			26 2 5 27 14 0
+
+Dayton:			ab r h po a e
+Kirkpatrick @ 3b:	2 0 0 0 0 0
+Benson @ 2b:	3 0 1 2 2 0
+Spencer @ rf:	3 0 3 1 0 0
+Knoll @ cf:		4 0 0 0 0 0
+Dehaven @ lf:	4 1 0 3 0 0
+Cameron @ 1b:	3 0 0 5 1 0
+Dobard @ ss:	4 0 2 3 1 0
+Konnick @ c:	3 0 1 10 2 0
+Asher @ p:		3 0 1 0 2 0
+TOTALS:			29 1 8 24 8 0
+
+line: Wheeling: 0 1 0 0 0 1 0 0 x - 2
+line: Dayton: 0 1 0 0 0 0 0 0 0 - 1
+
+B_SH: Benson; Spencer; Knoll; Cameron; Crane; Welsher
+B_SB: Kirkpatrick; Spencer; Lewis; Welsher; Montgomery
+P_BB: Asher #6; Doak #6
+P_SO: Asher #10; Doak #2
+B_HP: Knisley #2; Kirkpatrick; Lewis; Spencer
+F_DP: Doak, Crane
+B_LOB: Dayton #13; Wheeling #11
+T: 2:00
+U: Jacobs
+
+---
+
+date: 1911-04-30
+number: 0
+league: Central
+away: Grand Rapids I
+home: Terre Haute
+source: Sporting Life Vol 57 Number 10 page 18
+
+Grand Rapids I: 		ab r h po a e
+Pendry @ 3b:		5 0 0 1 2 0
+Murray @ 2b:		4 2 1 1 3 0
+Core @ cf:			4 2 2 2 0 0
+Kihm @ 1b:			3 2 1 14 1 0
+Flow'ey @ lf:		5 0 2 1 0 0
+Mahoney @ rf:		4 1 1 1 0 0
+Potts @ ss:			3 0 0 0 3 1
+McDonough @ c:		4 0 0 7 1 0
+Riley @ p:			2 0 0 0 5 0
+Hale @ p:			2 0 0 0 1 0
+TOTALS:				36 7 7 27 16 1
+
+Terre Haute:		ab r h po a e
+Callahan @ cf:		5 1 1 3 0 0
+Grogan @ lf:		4 0 0 1 0 0
+Barkwell @ ss:		3 0 0 0 3 2
+Myers @ 1b:			4 2 3 11 1 1
+Bates @ rf:			3 1 1 3 1 1
+Milligan @ 2b:		3 1 0 2 3 1
+Wheeler @ 3b:		4 0 2 1 1 1
+Waring @ c:			4 0 1 6 0 0
+Summers @ p:		1 0 0 0 1 0
+Beasley @ p:		3 0 0 0 1 0
+TOTALS:				34 5 8 27 11 6
+
+line: Grand Rapids I: 5 1 0 0 0 0 1 0 0 - 7
+line: Terre Haute: 2 0 0 2 1 0 0 0 0 - 5
+
+B_3B: Bates; Callahan
+P_BB: Riley #1; Hale #2; Summers #1; Beasley #1
+P_SO: Riley #2; Hale #1; Beasley #5
+F_DP: Hale, McDonough, Kihm
+B_HP: Core; Myers; Milligan
+P_WP: Riley
+F_PB: McDonough
+T: 2:00
+U: Cleary
+
+---
+
+date: 1911-04-30
+number: 0
+league: Central
+away: Fort Wayne
+home: Zanesville
+source: Sporting Life Vol 57 Number 10 page 18
+
+Zanesville:		ab r h po a e
+Wratten @ 3b:	3 2 1 1 3 1
+Crowder @ ss:	3 0 0 4 0 0
+Hillinger @ rf:	4 0 1 1 0 0
+Farrell @ cf:	3 1 0 5 1 0 
+Groh @ 2b:		4 0 1 2 2 0
+Reilley @ lf:	3 2 1 1 0 0
+Gillen @ 1b:	2 0 1 7 2 0
+O'Brien @ c:	3 0 3 4 3 0
+Stremmel @ p:	4 0 0 2 3 1
+TOTALS:			29 5 8 27 14 2
+
+Fort Wayne:		ab r h po a e
+Blount @ cf:	4 0 0 1 0 0
+Bullock @ 2b:	2 0 0 0 2 0
+Casey @ 3b:		4 0 0 1 4 1
+Corns @ lf:		4 0 0 0 0 0
+McLaff'y @ 1b:	2 1 0 12 2 1
+Keene @ lf:		4 0 2 2 0 0
+Justice @ ss:	3 0 0 2 3 0
+Onslow @ c:		3 0 1 6 2 0 
+Smith @ p:		3 0 0 0 5 0
+TOTALS:			29 1 3 24 18 2
+
+line: Zanesville: 1 1 0 1 2 0 0 0 x - 5
+line: Fort Wayne: 0 0 0 1 0 0 0 0 0 - 1
+
+B_2B: Groh; Gillen
+B_HR: Reilley
+F_DP: Farrell, Gillen
+P_SO: Stremmel #4; Smith #2
+P_BB: Stremmel #4; Smith #2
+F_PB: Onslow
+P_HP: Smith #2
+U: Newhouse
+A: 3300
+
+---
+
+date: 1911-04-30
+number: 0
+league: Central
+away: South Bend I
+home: Evansville
+source: Sporting Life Vol 57 Number 10 page 18
+note: Called on account of darkness
+
+Evansville:		ab r h po a e
+Wilkinson @ rf:	3 1 2 0 0 0
+Snyder @ cf:	2 1 1 0 0 0
+Byrnes @ lf:	2 0 1 1 0 0
+Grefe @ 1b:		3 1 2 5 1 0
+Hadley @ 2b:	2 1 0 1 0 0
+Wuffli @ ss:	3 0 1 1 1 0
+Sager @ 3b:		3 0 1 1 3 0
+O'Brien @ c:	3 0 1 5 2 0
+Sullivan @ p:	2 1 0 0 3 0
+Sterzer @ p:	0 0 0 1 0 0
+TOTALS:		23 5 9 15 10 0
+
+South Bend I:		ab r h po a e
+Holt @ rf:		1 0 0 0 0 0
+Schmick @ 1b:	3 1 1 3 1 0
+Kelley @ ss:	1 1 0 1 2 0
+Koehler @ 2b:	2 1 1 1 1 0
+Geier @ lf:		2 0 0 0 0 0
+Kroy @ cf:		2 1 1 2 0 0
+Wetzel @ 3b:	1 1 0 1 0 0
+Holmes @ c:		2 0 1 7 1 0
+Meyers @ p:		1 0 0 0 0 0
+TOTALS:			15 5 4 15 5 0
+
+line: Evansville: 4 0 0 1 0 - 5
+line: South Bend I: 1 0 0 2 2 - 5
+
+B_SH: Byrnes
+B_2B: Snyder; O'Brien; Byrnes; Wilkinson; Kroy
+P_BB: Meyers #3; Sullivan #9
+P_SO: Meyers #3; Sullivan #2
+P_HP: Meyers #1
+F_DP: Sager, Grefe, Sager
+B_SB: Holt
+P_WP: Sullivan
+T: 1:30
+U: Glenalvin
+
+---
+
+date: 1911-05-01
+number: 0
+league: Central
+away: South Bend I
+home: Evansville
+source: Sporting Life Vol 57 Number 10 page 18
+
+Evansville:		ab r h po a e
+Wilkin'n @ rf:	4 0 1 2 0 0
+Snyder @ cf:	4 0 0 3 0 0
+Byrnes @ lf:	4 0 1 0 0 0
+Grefe @ 1b:		2 0 0 9 0 0
+Hadley @ 2b:	2 0 1 4 0 0
+Wuffli @ ss:	3 0 0 1 5 0
+Sager @ 3b:		2 0 0 0 1 1
+O'Brien @ c:	3 0 1 6 5 0
+Withers @ p:	3 0 0 1 2 1
+Smith @ 3b:		1 0 0 1 0 0
+TOTALS:			28 0 4 27 13 2
+
+South Bend I:		ab r h po a e
+Craven @ rf:	3 0 0 0 0 0
+Schmick @ 1b:	4 1 0 9 0 0
+Kelley @ ss:	3 0 1 1 1 0
+Koehler @ 2b:	5 1 1 4 3 0
+Kroy @ 2b:		2 1 2 5 0 0
+Geier @ lf:		4 0 1 2 1 0
+Wetzel @ 3b:	3 0 2 1 3 0
+Holmes @ c:		3 0 0 5 0 0
+Lindsay @ p:	4 0 1 0 2 0
+TOTALS:			31 3 8 27 10 0
+
+line: Evansville: 0 0 0 0 0 0 0 0 0 - 0
+line: South Bend I: 0 0 1 1 0 0 0 1 0 - 3
+
+B_SH: Hadley; Geier; Holmes; Kroy; Wetzel; Craven
+B_3B: Byrnes
+P_BB: Lindsay #1; Withers #2
+P_SO: Lindsay #5; Withers #4
+P_HP: Withers #3
+F_DP: Geier, Kelley, Schmick; Wetzel, Koehler, Schmick
+B_SB: Schmick; Kelley; Kroy
+T: 1:40
+U: Glenalvin
+
+---
+
+date: 1911-05-01
+number: 0
+league: Central
+away: Fort Wayne
+home: Zanesville
+note: Manager Casey ejected for disputing a decision
+
+Zanesville:		ab r h po a e
+Wratten @ 3b:	4 0 1 3 4 1
+Crowder @ ss:	4 0 0 2 1 2
+Hillinger @ rf:	5 1 1 0 0 0
+Farrell @ cf:	3 2 2 3 0 0
+Groh @ 2b:		4 2 2 2 3 0
+Reilly @ lf:	4 0 1 0 0 0
+Gillen @ 1b:	3 1 3 11 0 1
+O'Brien @ c:	3 1 0 6 4 1
+Connolly @ p:	2 0 0 0 2 0
+Jones @ p:		1 0 0 0 1 0
+TOTALS:			33 7 10 27 15 5
+
+Fort Wayne:		ab r h po a e
+Blount @ cf:	3 1 0 3 0 0
+Vandeg't @ 2b:	5 1 2 0 1 0
+Keener @ lf:	5 1 1 1 0 1
+Corns @ rf:		4 1 2 4 0 0
+McLaf'y @ 1b:	5 1 0 8 0 1
+Bullock @ 3b:	1 0 0 0 1 0
+Casey @ 3b:		4 0 1 1 0 1
+Justice @ ss:	4 1 2 2 2 0
+Bailey @ c:		0 0 0 2 0 0
+Onslow @ c:		3 0 3 3 1 0
+Hardin @ p:		4 0 1 0 3 0
+TOTALS:			38 6 12 24 8 3
+
+line: Zanesville: 0 0 0 1 0 4 2 0 x - 7
+line: Fort Wayne: 0 1 0 1 0 0 4 0 0 - 6
+
+B_SB: Farrell; Crowder; Groh; Hillinger
+B_2B: Farrell #2; Gillen; Casey
+F_DP: O'Brien, Groh
+B_SH: Wratten
+P_HP: Hardin #1
+P_SO: Connolly #5; Jones #1; Hardin #3
+P_BB: Connolly #3; Jones #1; Hardin #2
+U: Newhouse
+
+---
+
+date: 1911-05-01
+number: 0
+league: Central
+away: Wheeling
+home: Dayton
+status: postponed
+status-reason: rain
+
+---
+
+date: 1911-05-01
+number: 0
+league: Central
+away: Grand Rapids I
+home: Terre Haute
+status: postponed
+status-reason: rain
+
+---
+
+date: 1911-05-02
+number: 1
+league: Central
+away: Grand Rapids I
+home: Terre Haute
+
+Terre Haute:	ab r h po a e
+Callahan @ cf:	4 1 1 2 0 0
+Grogan @ lf:	3 0 1 3 0 0
+Barkwell @ ss:	3 1 1 1 2 1
+Meyers @ 1b:	3 0 0 13 0 0 
+Bates @ rf:		3 1 1 1 0 0
+Milligan @ 2b:	3 0 1 1 4 0
+Wheeler @ 3b:	3 0 1 2 0 1
+Waring @ c:		2 0 0 4 2 0
+Hardgrove @ p:	2 0 0 0 3 0
+Alberts @ p:	1 0 0 0 0 0
+TOTALS:			26 3 6 27 11 2
+
+Grand Rapids I:	ab r h po a e
+Pendry @ 3b:	4 1 2 0 1 0
+Murray @ 2b:	4 1 2 1 2 0
+Core @ cf:		3 0 0 8 0 0
+Kihm @ 1b:		4 0 1 6 0 0
+Flournoy @ lf:	4 0 1 1 0 0
+Penfold @ rf:	4 0 1 0 0 0
+Potts @ ss:		3 0 0 4 2 0
+Martin @ c:		3 0 0 4 3 0
+Goldrick @ p:	0 0 0 0 0 0 
+Riley @ p:		3 0 0 0 2 0
+TOTALS:			32 2 7 24 10 0
+
+line: Terre Haute: 3 0 0 0 0 0 0 0 x - 3
+line: Grand Rapids I: 0 0 0 0 0 2 0 0 0 - 2
+
+B_3B: Callahan
+B_2B: Barkwell; Penfold; Murray
+B_SB: Pendry; Kihm
+B_SH: Core; Waring
+P_H: Goldrick #5; Hardgrove #6
+P_IP: Goldrick #1; Hardgrove #5.1
+P_SO: Hardgrove #1; Riley #1
+F_DP: Meyers; Milligan, Meyers
+B_LOB: Grand Rapids I #4; Terre Haute #1
+T: 1:17
+U: Cleary
+
+---
+
+date: 1911-05-02
+number: 2
+league: Central
+away: Grand Rapids I
+home: Terre Haute
+
+Terre Haute:	ab r h po a e
+Callahan @ cf:	4 0 0 6 2 0
+Grogan @ lf:	3 0 0 2 0 0
+Barkwell @ ss:	4 1 1 3 3 1
+Meyers @ 1b:	4 1 2 5 1 2
+Bates @ rf:		4 1 2 0 0 0
+Milligan @ 2b:	4 0 1 3 2 0
+Wheeler @ 3b:	4 0 1 1 1 2
+Hargrove @ c:	3 0 0 7 2 0
+Summers @ p:	2 0 0 0 2 0
+TOTALS:			32 3 7 27 13 5
+
+Grand Rapids I:	ab r h po a e
+Pendry @ 3b:	5 0 0 2 0 0
+Murray @ 2b:	5 0 1 4 6 0
+Core @ cf:		2 1 0 5 0 0
+Kihm @ 1b:		5 1 1 9 0 0
+Flournoy @ lf:	4 1 1 5 0 1
+Penfold @ rf:	2 2 1 0 0 0
+Potts @ ss:		4 0 2 0 2 0
+McDono'h @ c:	4 0 0 2 1 0
+Goldrick @ p:	4 0 1 0 4 0
+TOTALS:			35 5 7 27 13 1
+
+line: Terre Haute: 2 0 0 1 0 0 0 0 0 - 3
+line: Grand Rapids I: 0 2 0  0 0 1 0 1 1 - 5
+
+B_3B: Barkwell
+B_2B: Potts; Penfold
+B_SB: Core #2; Potts; Meyers; Wheeler
+B_SH: Penfold
+P_SO: Summers #5; Goldrick #2
+P_BB: Summers #4; Goldrick #1
+P_HP: Summers #1; Goldrick #1
+P_WP: Summers
+B_LOB: Grand Rapids I #9; Terre Haute #3
+T: 1:50
+
+---
+
+date: 1911-05-02
+number: 0
+league: Central
+away: South Bend I
+home: Evansville
+
+Evansville:		ab r h po a e
+Wilkinson @ rf:	2 1 0 3 1 0
+Snyder @ cf:	4 0 2 4 0 0
+Byrnes @ lf:	4 0 0 2 0 0
+Grefe @ 1b:		4 1 1 7 0 0
+Hadley @ 2b:	4 0 1 1 2 0
+Wuffli @ ss:	3 0 0 3 4 0
+Sager @ 3b:		3 0 0 0 0 0
+O'Brien @ c:	3 1 2 7 2 0
+Sterzer @ p:	2 0 1 0 1 0
+Markham @ p:	0 0 0 0 0 0
+TOTALS:			29 3 7 27 10 0
+
+South Bend I:		ab r h po a e
+Craven @ rf:	3 0 1 1 0 0
+Schmick @ 1b:	4 1 1 13 0 0
+Kelley @ ss:	4 1 2 2 1 0
+Koehler @ 2b:	4 0 1 5 4 0
+Kroy @ cf:		4 0 1 0 0 0
+Geier @ lf:		2 0 1 2 0 0
+Wetzel @ 3b:	3 0 1 2 4 1
+Holmes @ c:		2 0 0 0 0 0
+Martin @ p:		3 0 0 0 5 0
+Holt @ c:		1 0 0 0 0 0
+TOTALS:			30 2 8 25 14 1
+
+note: One out when winning run scored
+
+line: Evansville: 0 0 0 0 0 1 0 1 1 - 3
+line: South Bend I: 0 0 0 0 0 0 2 0 0 - 2
+
+B_SH: Geier; Markham; Wilkinson
+P_H: Sterzer #6; Markham #2
+B_2B: Craven; Grefe; Hadley
+P_BB: Martin #1
+P_SO: Markham #2; Sterzer #4
+P_HP: Sterzer #1
+F_DP: Hadley, Wuffli, Grefe; Koehler, Kelley, Schmick
+B_SB: Craven; Snyder
+T: 1:30
+U: Glenalvin
+
+---
+
+date: 1911-05-02
+number: 0
+league: Central
+away: Fort Wayne
+home: Zanesville
+
+Zanesville:		ab r h po a e
+Wratten @ 3b:	5 0 1 1 2 0
+Crowder @ ss:	4 2 1 2 4 0
+Hillinger @ rf:	3 0 2 2 0 0
+Farrell @ cf:	1 0 0 1 0 0
+Groh @ 2b:		3 1 1 4 5 0
+Reilley @ lf:	3 0 0 2 0 0
+Gillen @ 1b:	4 1 1 11 0 0
+O'Brien @ c:	4 0 1 4 0 0
+Rogers @ p:		3 0 1 0 3 0
+TOTALS:			30 4 8 27 14 0
+
+Fort Wayne:		ab r h po a e
+Blount @ cf:	2 1 1 1 0 0
+Vandeg't @ 2b:	4 0 1 3 1 0
+Keener @ lf:	4 0 1 0 0 0
+Corns @ lf:		4 0 1 3 0 1
+McLafferty @ 1b:	4 0 2 8 1 0
+Casey @ 3b:		4 0 2 1 0 1
+Justice @ ss:	3 0 0 1 3 2
+Onslow @ c:		2 0 0 7 3 0
+Peasley @ p:	3 0 0 0 3 0
+TOTALS:			30 1 8 24 11 4
+
+line: Fort Wayne: 0 0 0 0 0 0 0 1 0 - 1
+line: Zanesville: 1 0 0 1 0 1 1 0 x - 4
+
+B_2B: O'Brien; Casey; McLafferty
+B_3B: Corns
+F_DP: Crowder, Groh, Gillen; Crowder, Wratten; Rogers, Wratten, Crowder, Gillen, Groh, Gillen; Wratten, Groh; Groh, Gillen
+P_SO: Rogers #3; Peasley #3
+P_BB: Rogers #4; Peasley #4
+P_WP: Rogers
+B_LOB: Zanesville #9; Fort Wayne #8
+B_HP: Onslow
+B_SB: Wratten
+B_SH: Hillinger; Reilley
+U: Newhouse
+T: 1:40
+
+---
+
+date: 1911-05-03
+number: 1
+league: Central
+away: South Bend I
+home: Evansville
+
+Evansville: 	ab r h po a e
+Wilkin'n @ rf:	5 0 2 1 1 0
+Snyder @ cf:	5 1 3 1 1 0
+Byrnes @ lf:	5 0 1 3 0 0
+Grefe @ 1b:		4 1 3 8 0 1
+Hadley @ 2b:	3 0 1 3 4 0
+Wuffli @ ss:	4 1 1 2 2 1
+Sager @ 3b:		3 0 0 3 4 0
+O'Brien @ c:	4 0 1 5 2 0
+Canterell @ p:	4 1 1 1 3 1
+*Smith @ ph:	0 1 0 0 0 0
+TOTALS:			37 5 13 27 17 3
+
+*: Batted for Sager in 9th inning
+
+South Bend I:		ab r h po a e
+Craven @ rf:	4 1 0 2 0 0
+Schmick @ 1b:	3 1 1 13 1 0
+Kelley @ ss:	4 1 1 3 5 0
+Koehler @ 2b:	4 0 0 1 3 0
+Kroy @ cf:		4 1 1 2 1 0
+Geier @ lf:		4 1 2 2 1 0
+Wetzel @ 3b:	4 1 2 0 1 0
+Holmes @ c:		4 0 1 3 1 0
+Lindsay @ p:	4 0 1 1 4 0
+Meyers @ p:		0 0 0 0 0 0
+TOTALS:			35 6 9 27 17 0
+
+line: Evansville: 1 0 0 0 0 0 0 1 3 - 5
+line: South Bend I: 1 0 0 0 0 0 3 2 0 - 6
+
+B_SH: Schmick
+B_2B: Wetzel; Canterell
+B_3B: Byrnes
+B_HR: Snyder; Grefe
+P_BB: Lindsay #1
+P_SO: Lindsay #2; Canterell #6
+P_HP: Canterell #1; Lindsay #1
+F_DP: Lindsay, Kelley, Schmick
+B_SB: Craven; Hadley
+T: 1:50
+
+---
+
+date: 1911-05-03
+number: 2
+league: Central
+away: South Bend I
+home: Evansville
+
+Evansville:		ab r h po a e
+Wilkin'n @ rf:	3 0 1 0 0 0
+Snyder @ cf:	1 2 1 1 0 1
+Byrnes @ lf:	1 0 0 0 0 0
+Grefe @ 1b:		3 0 1 7 1 0
+Hadley @ 2b:	2 0 0 4 3 0
+Wuffli @ ss:	3 0 0 2 2 0
+Sager @ 3b:		2 1 0 2 1 1 
+O'Brien @ c:	1 0 0 1 1 0
+Markham @ p:	3 0 2 0 5 0
+Tieman @ c:		1 0 1 4 1 0
+TOTALS:			20 3 6 21 14 2
+
+South Bend I:		ab r h po a e
+Craven @ rf:	1 1 1 1 0 0
+Schmick @ 1b:	2 0 0 10 0 0
+Kelley @ ss:	3 0 1 1 1 0
+Koehler @ 2b:	3 0 0 1 2 0
+Kroy @ cf:		2 0 0 1 0 0
+Geier @ lf:		3 1 1 0 0 0
+Wetzel @ 3b:	3 0 1 0 2 0
+Holt @ c:		3 0 0 4 1 1
+Smith @ p:		2 0 0 1 5 0
+TOTALS:			22 2 4 19 11 1
+
+note: One out when winning run scored
+note: Craven listed at cf in box
+
+line: Evansville: 0 0 0 1 0 1 1 - 3
+line: South Bend I: 1 0 0 0 0 0 1 - 2
+
+B_SH: Schmick; Snyder; Byrnes #2; Tieman
+B_2B: Wetzel
+P_BB: Smith #3; Markham #3
+P_SO: Smith #5; Markham #4
+P_HP: Markham #1
+F_DP: Grefe, Hadley
+B_SB: Craven; Geier
+T: 1:15
+U: Glenalvin
+
+---
+
+date: 1911-05-03
+number: 1
+league: Central
+away: Dayton
+home: Wheeling
+
+Wheeling:		ab r h po a e
+Lewis @ 2b:		3 1 0 1 3 0
+Jewell @ ss:	3 0 0 4 1 1
+Crane @ 1b:		4 0 1 13 1 0
+Servatius @ rf:	3 0 0 2 1 0
+Knisley @ lf:	3 0 1 1 0 0
+Montgo'y @ cf:	3 0 0 1 0 0
+King @ 3b:		3 0 0 0 1 0
+Welsher @ c:	3 0 1 5 2 0
+Hardy @ p:		3 0 0 0 7 1
+TOTALS:			28 1 3 27 16 2
+
+Dayton:			ab r h po a e
+Kirkpa'k @ 3b:	4 1 2 1 0 0
+Benson @ 2b:	2 0 1 1 1 0
+Spencer @ rf:	4 1 1 1 0 0
+Knoll @ cf:		3 1 0 1 0 0
+Dehaven @ lf:	4 1 1 0 0 0
+Cameron @ 1b:	4 0 0 11 2 0
+Dobard @ ss:	4 0 2 2 2 0
+Konnick @ c:	4 0 0 9 1 0
+Compton @ p:	4 0 0 1 8 0
+TOTALS:			33 4 7 27 14 0
+
+line: Dayton: 0 0 0 1 0 2 0 0 1 - 4
+line: Wheeling: 1 0 0 0 0 0 0 0 0 - 1
+
+B_3B: Dehaven
+B_HR: Spencer
+B_SH: Benson #2; Jewell
+P_BB: Compton #2; Hardy #1
+P_SO: Compton #8; Hardy #4
+B_LOB: Dayton #5; Wheeling #3
+T: 1:15
+U: Jacobs
+
+---
+
+date: 1911-05-03
+number: 2
+league: Central
+away: Dayton
+home: Wheeling
+status: completed-early
+note: called at end of eighth to allow teams to catch a train
+
+Wheeling:		ab r h po a e
+Lewis @ 2b:		4 0 0 4 0 0
+Jewell @ ss:	4 2 2 1 2 1
+Crane @ 1b:		3 0 0 8 1 1
+Servatius @ rf:	3 0 2 1 0 0
+Knisley @ lf:	4 0 0 5 0 0
+Montgomery @ cf:	4 1 1 1 0 0
+King @ 3b:		4 0 1 0 2 0
+Welsher @ c:	4 1 0 4 2 0
+Cook @ p:		3 0 2 0 1 1
+Beatty @ p:		0 0 0 0 1 0
+TOTALS:			33 4 8 24 9 3
+
+Dayton:			ab r h po a e
+Kirkpa'k @ 3b:	5 0 0 0 2 1
+Benson @ 2b:	4 1 2 1 1 0
+Spencer @ rf:	3 0 0 0 0 0
+Knoll @ cf:		4 0 0 2 0 0
+Dehaven @ lf:	3 1 0 5 0 0
+Cameron @ 1b:	2 0 1 12 1 0
+Dobard @ ss:	3 1 1 0 4 2
+Konnick @ c:	3 1 2 3 0 0
+Winchell @ p:	3 0 0 1 3 0
+TOTALS:			30 4 6 24 11 3
+
+line: Dayton: 0 0 0 1 0 0 3 0 - 4
+line: Wheeling: 0 1 1 0 1 1 0 0 - 4
+
+B_2B: Cook #2; Montgomery; Dobard; Konnick
+B_3B: Konnick; Benson; Jewell; Servatius
+B_SH: Dobard; Winchell; Crane
+B_SF: Spencer; Servatius
+P_BB: Cook #3
+P_SO: Winchell #3; Cook #1; Beatty #1
+P_H: Cook #5
+P_IP: Cook #7
+F_DP: Jewell, Crane, Welsher; Jewell, Welsher, Crane
+P_HP: Cook #1
+B_LOB: Dayton #6; Wheeling #7
+T: 1:30
+U: Jacobs
+
+---
+
+date: 1911-05-03
+number: 0
+league: Central
+away: Fort Wayne
+home: Zanesville
+
+Zanesville:		ab r h po a e
+Wratten @ 3b:	3 0 0 3 2 1
+Crowder @ ss:	2 0 0 3 0 0
+Hillinger @ rf:	3 0 0 2 1 0
+Farrell @ cf:	0 0 0 1 1 0
+Groh @ 2b:		1 0 1 0 0 0
+Reilley @ lf:	2 0 0 2 0 0
+Gillen @ 1b:	2 0 0 6 0 0
+O'Brien @ c:	2 1 1 1 3 0
+Beers @ p:		1 0 1 0 1 0
+Stremmel @ p:	1 0 0 0 0 0
+TOTALS:			17 1 3 18 8 1
+
+Fort Wayne:		ab r h po a e
+Blount @ cf:	3 2 1 1 0 0
+Vandegrift @ 2b:	2 0 1 4 1 0
+McLafferty @ 1b:	3 0 0 6 1 0
+Keener @ lf:	2 0 1 2 0 0
+Corns @ rf:		2 0 0 1 0 1
+Casey @ 3b:		3 0 1 1 1 0
+Justice @ ss:	2 0 0 1 3 0
+Onslow @ c:		2 0 1 2 3 0
+Alberts @ p:	2 0 0 0 1 0
+TOTALS:			21 2 5 18 10 1
+
+line: Zanesville: 0 0 1 0 0 0 - 1
+line: Fort Wayne: 0 0 1 0 1 0 - 2
+
+B_2B: O'Brien; Beers; Blount
+B_3B: Onslow
+F_DP: Alberts, McLafferty; Hillinger, Gillen
+P_SO: Alberts #1; Beers #1
+P_BB: Beers #1; Stremmel #1; Alberts #3
+P_WP: Stremmel; Alberts
+B_LOB: Zanesville #3; Fort Wayne #5
+F_PB: O'Brien #2
+B_SB: Vandegrift; Casey
+U: Newhouse
+T: 1:30
+
+---
+
+date: 1911-05-03
+number: 0
+league: Central
+away: Grand Rapids I
+home: Terre Haute
+note: Game does not appear to be included in standings through 1911-05-06
+
+
+Terre Haute:	ab r h po a e
+Callahan @ cf:	5 2 3 2 0 0
+Grogan @ lf:	2 0 1 1 0 0
+Barkwell @ ss:	2 2 1 1 3 2
+Meyers @ 1b:	4 0 1 8 0 2
+Bates @ rf:		4 1 3 1 0 0
+Milligan @ 2b:	3 0 3 1 3 0
+Wheeler @ 3b:	4 1 1 0 1 0
+Waring @ c:		3 2 2 10 1 0
+Beasley @ p:	2 0 0 0 3 0
+TOTALS:			29 8 15 24 11 4
+
+Grand Rapids I:	ab r h po a e
+Pendry @ 3b:	4 1 2 1 0 0
+Murray @ 2b:	2 2 1 6 1 0
+Core @ cf:		4 1 2 3 2 0
+Kihm @ 1b:		4 0 0 5 1 0
+Flournoy @ lf:	4 0 0 1 0 1
+Penfold @ rf:	3 1 0 2 1 0
+Potts @ ss:		3 0 1 0 1 0
+Martin @ c:		4 0 1 3 1 0
+Shelly @ p:		0 0 0 0 1 0
+Hale @ p:		4 0 0 0 1 0
+TOTALS:			32 5 7 21 9 1
+
+line: Terre Haute: 2 2 0 1 2 1 0 x - 8
+line: Grand Rapids I: 0 0 0 0 0 1 0 4 - 5
+
+B_3B: Barkwell
+B_2B: Bates
+B_SB: Grogan; Barkwell; Martin
+B_SH: Grogan; Milligan; Beasley; Murray
+P_H: Shelly #5
+P_IP: Shelly #1.1
+P_SO: Beasley #8; Hale #1
+P_BB: Shelly #2; Hale #3; Beasley #2
+P_HP: Beasley #1
+B_LOB: Terre Haute #9; Grand Rapids I #5
+T: 1:45
+U: Cleary
+
+---
+
+date: 1911-05-04
+number: 0
+league: Central
+away: Wheeling
+home: South Bend I
+A: 2500
+
+South Bend I:		ab r h po a e
+Craven @ rf:	3 1 0 0 0 0
+Schmick @ 1b:	4 0 1 13 1 1
+Kelly @ ss:		4 0 0 1 3 0
+Koehler @ 2b:	3 0 0 4 0 0
+Holt @ cf:		4 1 1 3 0 1
+Geier @ lf:		3 0 0 1 0 0
+Wetzel @ 3b:	3 1 1 0 3 1
+Holmes @ c:		2 0 0 5 1 0
+Moffitt @ p:	3 0 1 0 8 0
+TOTALS:			29 3 4 27 16 3
+
+Wheeling:		ab r h po a e
+Lewis @ 2b:		5 1 0 5 3 0
+Jewell @ ss:	3 0 0 2 2 1
+Crane @ 1b:		4 1 2 9 0 0
+Servatius @ rf:	3 1 1 2 0 0
+Knisley @ lf:	4 0 1 5 0 0
+Montgo'y @ cf:	4 0 1 1 0 0
+King @ 3b:		4 0 1 0 1 0
+Welsher @ c:	3 0 1 2 4 0
+Doak @ p:		3 1 0 0 1 0
+TOTALS:			33 4 7 27 11 1
+
+line: South Bend I: 1 0 0 0 0 0 2 0 0 - 3
+line: Wheeling: 1 0 1 0 0 0 0 0 2 - 4
+
+B_SB: Schmick
+B_SH: Koehler; Wetzel; Jewell
+B_3B: Knisley
+B_2B: Crane; Lewis; Holt
+P_BB: Moffitt #2; Doak #2
+P_SO: Moffitt #3; Doak #1
+P_HP: Doak #2; Moffitt #1
+T: 1:35
+U: Clary
+
+---
+
+date: 1911-05-04
+number: 0
+league: Central
+away: Zanesville
+home: Grand Rapids I
+A: 1900
+
+Grand Rapids I:	ab r h po a e
+Wickland @ cf:	5 2 0 6 1 0
+Pendry @ 3b: 	4 2 1 0 3 0
+Core @ lf:		4 1 2 0 0 0
+Penfold @ rf:	3 1 0 1 1 0
+Kihm @ 1b:		4 0 0 13 0 0
+Murray @ 2b:	2 2 1 3 4 0
+Potts @ ss:		3 0 1 0 4 1
+Martin @ c:		4 2 1 4 0 0
+Butler @ p:		4 1 1 0 0 0
+TOTALS:			33 11 7 27 13 1
+
+Zanesville:		ab r h po a e
+Wratten @ 3b:	4 0 2 2 3 1
+Crowder @ ss:	4 0 0 3 1 2
+Hillinger @ rf:	3 1 1 1 0 0
+Farrel @ cf:	4 0 1 0 0 0
+Groh @ 2b:		4 0 2 4 2 1
+Reilly @ lf:	3 1 0 0 0 0
+Swartl'g @ 1b:	4 0 2 8 2 0
+O'Brien @ c:	2 0 0 3 0 0
+Welch @ c:		2 0 0 3 0 0
+Jones @ p:		1 0 0 0 2 0
+Beers @ p:		2 0 0 0 2 1
+TOTALS:			33 2 8 24 12 5
+
+line: Grand Rapids I: 4 0 0 4 0 3 0 0 x - 11
+line: Zanesville: 0 1 0 0 0 1 0 0 0 - 2
+
+B_2B: Core; Hillinger
+P_H: Jones #5; Beers #2
+P_IP: Jones #3.1; Beers #4.2
+B_SB: Wickland; Murray; Martin #2; Reilly #2
+B_SH: Potts
+B_SF: Reilly
+P_BB: Butler #1; Jones #1; Beers #1
+P_SO: Butler #2; Jones #3; Beers #3
+P_HP: Jones #1
+F_DP: Wickland, Kihm; Penfold, Kihm
+P_WP: Jones
+T: 1:45
+U: Glenalvin
+
+---
+
+date: 1911-05-04
+number: 0
+league: Central
+away: Evansville
+home: Dayton
+
+Evansville:		ab r h po a e
+Wilkin'n @ rf:	4 0 0 0 1 0
+Snyder @ cf:	4 1 1 2 0 0
+Byrnes @ lf:	3 0 0 4 0 0
+Grefe @ 1b:		3 1 2 9 1 0
+Hadley @ 2b:	3 0 0 1 4 0
+Wuffli @ ss:	3 0 1 2 3 1
+Sager @ 3b:		3 0 0 2 1 0
+O'Brien @ c:	3 0 0 5 1 0
+Withers @ p:	3 0 1 0 2 0
+TOTALS:			29 2 5 25 13 1
+
+Dayton:			ab r h po a e
+Kirkpatrick @ 3b:	4 0 1 0 2 0
+Benson @ 2b:	4 0 0 2 3 0
+Spencer @ rf:	4 1 2 3 0 0
+Knoll @ cf:		2 0 0 3 0 0
+Dehaven @ lf:	4 0 1 2 0 0
+Cameron @ 1b:	4 0 1 8 1 0
+Dobard @ ss:	3 1 1 1 1 0
+Konnick @ c:	4 1 3 7 2 1
+Taylor, Jack @ p:		3 0 1 1 1 0
+TOTALS:			32 3 10 27 10 1
+
+line: Evansville: 0 0 0 0 0 0 1 0 1 - 2
+line: Dayton: 0 0 0 0 0 1 0 1 - 3
+
+B_2B: Spencer; Konnick
+B_3B: Dobard; Konnick; Cameron
+B_HR: Grefe
+B_SB: Snyder; Byrnes; Kirkpatrick; Benson; Dehaven
+P_SO: Jack Taylor #6; Withers #3
+P_BB: Jack Taylor #2
+B_SH: Knoll; Jack Taylor
+P_WP: Withers
+U: Newhouse
+T: 1:50
+
+---
+
+date: 1911-05-04
+number: 0
+league: Central
+away: Terre Haute
+home: Fort Wayne
+A: 2904
+
+Fort Wayne:		ab r h po a e
+Blount @ cf:	4 0 0 3 0 0
+Vandag't @ 2b:	4 0 1 1 4 0
+Keener @ lf:	4 0 2 3 0 0
+Corns @ rf:		4 0 0 0 0 0
+McLafferty @ 1b:	3 1 2 10 1 0
+Casey @ 3b:		3 0 0 1 0 1
+Justice @ ss:	3 1 1 4 3 1
+Onslow @ c:		2 0 0 4 1 0
+Whitaker @ p:	2 0 0 0 0 0
+Smith @ p:		1 1 1 1 3 0
+TOTALS:			30 3 7 27 12 2
+
+Terre Haute:	ab r h po a e
+Callahan @ cf:	4 0 0 2 0 0
+Grogan @ lf:	4 0 0 4 0 0
+Barkwell @ ss:	3 1 2 1 3 0
+Meyers @ 1b:	4 1 2 9 0 0
+Bates @ rf:		4 0 2 1 0 0
+Milligan @ 2b:	2 0 0 1 1 0
+Wheeler @ 3b:	4 0 0 0 2 1
+Hargrove @ c:	4 0 1 6 0 0
+Alberts @ p:	3 0 0 0 1 0
+TOTALS:			32 2 7 24 7 1
+
+line: Fort Wayne: 0 0 0 0 1 0 0 2 x - 3
+line: Terre Haute: 0 0 0 2 0 0 0 0 0 - 2
+
+B_2B: Keener; McLafferty; Justice; Hargrove
+B_SF: Milligan
+B_SH: Onslow; Milligan
+B_SB: Meyers
+P_SO: Whitaker #2; Smith #2; Alberts #5
+P_BB: Whitaker
+P_H: Whitaker #4; Smith #3
+P_IP: Whitaker #5; Smith #4
+F_DP: Wheeler, Barkwell, Meyers
+T: 1:50
+U: Jacobs
+
+---
+
+date: 1911-05-05
+number: 0
+league: Central
+away: Wheeling
+home: South Bend I
+
+South Bend I:		ab r h po a e
+Craven @ rf:	3 0 2 1 0 0
+Schmick @ 1b:	2 0 0 5 0 1
+Martin @ lf:	1 0 0 4 0 0
+Kelly @ ss:		3 1 1 1 7 1
+Koehler @ 2b:	3 1 0 2 1 0
+Holt @ cf:		4 1 1 1 0 0
+Geier @ lf:		2 0 0 5 1 0
+Wetzel @ 3b:	3 1 0 1 0 0
+Holmes @ c:		3 0 2 7 0 1
+Meyers @ p:		3 0 0 0 1 0
+*Kroy @ ph:		0 0 0 0 0 0
+TOTALS:			27 4 6 27 10 3
+
+Wheeling:		ab r h po a e
+Lewis @ 2b:		5 0 0 4 4 1
+Jewell @ ss:	3 0 1 1 2 0
+Crane @ 1b:		5 0 2 7 2 1
+Servatius @ rf:	2 0 0 0 1 0
+Knisley @ lf:	3 0 0 1 0 0
+Montgo'y @ cf:	4 0 1 2 0 0
+King @ 3b:		3 0 1 2 2 1
+Welsher @ c:	2 1 1 3 0 0
+Murray @ c:		2 0 0 1 0 0
+Beatty @ p:		4 1 1 2 2 0
+TOTALS:			33 2 7 23 13 3
+
+*: Batting for Schmick in 7th
+note: Wetzel out, hit by batted ball
+
+line: South Bend I: 0 0 1 0 0 0 0 3 x - 4
+line: Wheeling: 0 0 0 2 0 0 0 0 0 - 2
+
+B_2B: Holmes; Holt; Jewell
+P_SO: Beatty #3; Meyers #5
+P_BB: Meyers #3; Beatty #3
+P_HP: Jewell #2
+F_DP: Lewis, Jewell
+B_SB: Craven; Servatius
+T: 2:00
+U: Cleary
+
+---
+
+date: 1911-05-05
+number: 0
+league: Central
+away: Terre Haute
+home: Fort Wayne
+source: Sporting Life Vol 57 Number 10 page 19
+
+Terre Haute:	ab r h po a e
+Callahan @ cf:	4 1 2 1 0 0
+Grogan @ lf:	4 0 0 1 0 0
+Barkwell @ ss:	3 0 1 3 3 1
+Meyers @ 1b:	4 1 2 11 0 1
+Bates @ rf:		4 0 0 0 0 0
+Milligan @ 2b:	3 0 0 2 1 1
+Wheeler @ 3b:	3 0 0 2 5 0
+Waring @ c:		2 0 0 4 1 1
+Jones @ p:		1 0 0 0 3 0
+Summers @ p:	1 0 0 0 1 0
+*Hargrove @ ph:	1 0 0 0 0 0
+TOTALS:			30 2 5 24 14 4
+
+*: Batted for Jones in 6th
+
+Fort Wayne:		ab r h po a e
+Blount @ cf:	5 0 0 2 0 0
+Vandagr't @ 2b:	4 0 0 2 2 0
+Keener @ lf:	3 0 0 2 0 0
+Corns @ rf:		4 1 3 3 0 0
+McLafferty @ 1b:	4 1 1 8 2 0
+Casey @ 3b:		4 1 1 0 1 0
+Justice @ ss:	2 3 1 0 3 0
+Onslow @ c:		3 0 1 9 1 0
+Hardin @ p:		4 0 2 1 3 0
+TOTALS:			33 6 9 27 12 0
+
+line: Terre Haute: 0 0 0 2 0 0 0 0 0 - 2
+line: Fort Wayne: 0 3 0 1 0 2 0 0 x - 6
+
+B_HR: Callahan; Meyers
+B_2B: Corns
+B_SH: Justice
+B_SB: Corns; McLafferty; Justice
+P_H: Jones #5; Summers #4
+P_IP: Jones #5; Summers #3
+P_BB: Jones #2; Hardin #3; Summers #1
+P_SO: Hardin #9; Jones #3; Summers #1
+B_HP: Keener
+B_LOB: Fort Wayne #7; Terre Haute #4
+T: 2:00
+U: Jacobs
+
+---
+
+date: 1911-05-05
+number: 0
+league: Central
+away: Zanesville
+home: Grand Rapids I
+
+Grand Rapids I:	ab r h po a e
+Wickland @ cf:	4 0 0 1 0 0
+Pendry @ 3b:	3 1 1 1 2 0
+Core @ lf:		4 0 0 1 0 0
+Penfold @ rf:	4 1 0 0 0 0
+Kihm @ 1b:		4 0 0 12 1 0
+Murray @ 2b:	4 0 1 4 2 0
+Potts @ ss:		3 0 1 4 3 0
+McDono'h @ c:	2 0 1 3 2 0
+Riley @ p:		3 0 1 0 5 0
+TOTALS:			31 2 5 26 15 0
+
+Zanesville:		ab r h po a e
+Wratten @ 3b:	3 0 1 2 6 1
+Crowder @ ss:	3 0 1 2 1 0
+Hillinger @ rf:	3 0 1 1 0 0
+Farrell @ cf:	3 1 1 0 0 0
+Groh @ 2b:		3 0 1 3 4 0
+Reilly @ lf:	3 0 2 0 0 0
+Swartling @ 1b:	3 0 1 13 1 0
+O'Brien @ c:	3 0 2 4 0 1
+Rogers @ p:		4 0 0 1 4 0
+TOTALS:			28 1 10 26 16 2
+
+note: Rogers out, foul bunt third strike
+note: two out when winning run scored
+note: Wratten listed at 2b in box
+
+line: Grand Rapids I: 0 0 0 0 0 0 0 0 2 - 2
+line: Zanesville: 0 1 0 0 0 0 0 0 0 - 1
+
+B_LOB: Grand Rapids I #2; Zanesville #6
+P_SO: Riley #4; Rogers #2
+P_BB: Riley #3; Rogers #1
+P_HP: Rogers #1
+B_SH: Crowder; Hillinger; Groh; Reilly; Swartling
+B_SB: Farrell #2; O'Brien
+F_DP: Groh, Swartling; Wratten, Swartling; Riley, Kihm, Pendry
+T: 1:30
+U: Glenalvin
+
+---
+
+date: 1911-05-05
+number: 0
+league: Central
+away: Evansville
+home: Dayton
+
+Dayton:			ab r h po a e
+Kirkpatrick @ 3b:	2 3 1 0 1 0
+Benson @ 2b:	3 1 1 7 5 0
+Spencer @ rf:	5 1 2 0 0 0
+Knoll @ cf:		4 0 1 2 0 0
+Dehaven @ lf:	5 1 1 0 0 0
+Cameron @ 1b:	5 2 2 12 0 0
+Dobard @ ss:	4 1 0 1 3 2
+Konnick @ c:	4 2 1 5 0 0
+Fromholtz @ p:	2 1 0 0 2 0
+TOTALS:			34 12 9 27 11 2
+
+Evansville:		ab r h po a e
+Wilkin'n @ rf:	3 0 0 0 0 0
+Snyder @ cf:	4 0 0 3 0 0
+Byrnes @ lf:	4 1 2 1 0 0
+Grefe @ 1b:		4 0 1 12 2 0
+Hadley @ 2b:	4 0 0 3 1 0
+Wuffli @ ss:	3 1 2 3 4 1
+Grant @ 3b:		3 0 0 1 2 0
+O'Brien @ c:	2 0 0 1 0 1
+Sullivan @ p:	2 0 0 0 3 0
+TOTALS:			29 2 5 24 12 2
+
+line: Dayton: 2 3 2 0 0 1 4 0 x - 12
+line: Evansville: 0 0 0 2 0 0 0 0 - 2
+
+B_2B: Benson
+B_3B: Knoll; Spencer; Dehaven
+B_HR: Wuffli
+B_SB: Kirkpatrick; Spencer; Dobard #2; Konnick #2; Byrnes
+B_SH: Dobard
+P_SO: Fromholtz #5; Sullivan #1
+P_BB: Fromholtz #3; Sullivan #9
+B_LOB: Dayton #9; Evansville #3
+F_DP: Benson; Benson; Dobard, Benson, Cameron; Benson, Cameron; Benson, Cameron
+T: 1:40
+P_WP: Sullivan #2
+U: Newhouse
+
+---
+
+date: 1911-05-06
+number: 0
+league: Central
+away: Terre Haute
+home: Fort Wayne
+
+Fort Wayne:		ab r h po a e
+Blount @ cf:	4 0 1 2 0 0
+Vande't @ 2b:	4 0 1 2 5 1
+Keener @ lf:	3 1 1 1 0 0
+Corns @ rf:		4 2 2 2 0 0
+McLaf'y @ 1b:	3 0 0 15 0 0
+Casey @ 3b:		4 1 2 0 3 0
+Justice @ ss:	3 1 2 1 5 0
+Onslow @ c:		4 0 1 2 2 0
+Peasley @ p:	0 0 0 0 0 0
+Alberts @ p:	3 0 0 0 2 0 
+TOTALS:			32 5 10 27 17 0
+
+Terre Haute:	ab r h po a e
+Callahan @ cf:	4 1 1 3 0 0
+Grogan @ lf:	3 0 0 1 0 0
+Barkwell @ ss:	4 0 0 1 5 1
+Meyers @ 1b:	3 1 2 14 1 0
+Bates @ rf:		4 0 1 0 0 0
+Milligan @ 2b:	4 1 1 2 3 1
+Wheeler @ 3b:	4 0 1 0 2 0
+Waring @ c:		4 0 1 3 2 1
+Hardgrove @ p:	3 1 1 0 2 0
+*Hargrove @ph:	1 0 1 0 0 0 
+TOTALS:			34 4 9 34 15 3
+
+*: Batted for Hardgrove in ninth inning
+
+line: Fort Wayne: 0 0 0 2 0 0 0 3 x - 5
+line: Terre Haute: 0 0 0 1 0 0 1 1 1 - 4
+
+B_SB: Blount; Corns; Justice; Meyers
+B_SH: Justice; Barkwell
+B_2B: Keener; Justice; Bates; Milligan; Hardgrove; Wheeler
+B_HR: Waring
+F_DP: Barkwell, Milligan, Meyers
+P_H: Alberts #9
+P_IP: Alberts #8.1
+P_SO: Hardgrove #3
+P_BB: Peasley #3; Hardgrove #1
+P_HP: Alberts #2
+P_WP: Alberts
+T: 2:05
+U: Jacobs
+
+---
+
+date: 1911-05-06
+number: 0
+league: Central
+away: Zanesville
+home: Grand Rapids I
+
+Grand Rapids I:	ab r h po a e
+Wickl'd @ cf:	3 1 0 4 0 1
+Pendry @ 3b:	4 0 2 0 3 0
+Core @ lf:		4 0 0 3 0 0
+Penfold @ rf:	4 0 0 1 0 0
+Kihm @ 1b:		4 0 0 10 1 0
+Murray @ 2b:	3 0 0 5 3 1
+Potts @ ss:		2 0 0 0 3 1
+Martin @ c:		2 0 1 4 1 0
+Goldrick @ p:	3 0 0 0 3 0
+TOTALS:			29 1 3 27 14 3
+
+Zanesville:		ab r h po a e
+Wratten @ 3b:	4 1 1 4 2 1
+Crowder @ ss:	5 0 1 5 2 1
+Hillinger @ rf:	5 1 2 0 0 0
+Farrell @ cf:	4 2 3 1 0 0
+Groh @ 2b:		4 1 2 3 2 0
+Reilly @ lf:	2 0 0 1 0 0
+Swartl'g @ 1b:	4 0 0 8 0 0
+O'Brien @ c:	3 0 0 5 2 0
+Jones @ p:		4 0 1 0 3 0
+TOTALS:			35 5 10 27 11 2
+
+line: Grand Rapids I: 0 0 0 0 0 0 0 0 1 - 1
+line: Zanesville: 1 0 0 0 0 0 4 0 0 - 8
+
+B_LOB: Grand Rapids I #4; Zanesville #5
+P_SO: Jones #5
+P_BB: Jones #3; Goldrick #3
+P_HP: Jones #1; Goldrick #1
+B_SB: Pendry; Core; Kihm; Reilly
+B_SH: Martin
+T: 1:35
+U: Glenalvin
+
+---
+
+date: 1911-05-06
+number: 0
+league: Central
+away: Evansville
+home: Dayton
+
+Evansville:		ab r h po a e
+Wilkm'n @ rf:	3 0 0 1 0 0
+Snyder @ cf:	3 0 0 4 0 0
+Byrnes @ lf:	4 0 0 1 0 0
+Grefe @ 1b:		4 0 0 8 3 0
+Hadley @ 2b:	2 0 0 2 2 0
+Wuffli @ ss:	3 1 0 0 1 1 
+Smith @ 3b:		4 1 1 2 0 0
+O'Brien @ c:	3 1 1 7 2 1
+Cantwell @ p:	3 0 1 2 1 0
+TOTALS:			29 3 3 27 9 2
+
+Dayton:			ab r h po a e
+Kirkpatrick @ 3b:	3 0 0 1 1 1
+Benson @ 2b:	4 0 1 2 2 0
+Neuscha'r @ rf:	4 0 0 2 0 1
+Knoll @ cf:		4 0 1 4 0 0
+Dehaven @ lf:	4 1 2 0 0 0
+Cameron @ 1b:	3 0 0 9 0 0
+Konnick @ ss:	3 1 2 2 5 0
+Rohrer @ c:		0 0 0 0 0 0
+Sample @ c:		4 0 0 6 1 1 
+Wacker @ p:		3 0 1 1 1 0
+TOTALS:			32 2 7 27 10 3
+
+line: Evansville: 0 2 1 0 0 0 0 0 0 - 3
+line: Dayton: 0 0 0 0 0 0 2 0 0 - 2
+
+B_2B: Konnick
+B_3B: Smith; Knoll
+F_DP: Wacker, Konnick; Grefe, Smith
+B_SB: Snyder; O'Brien; Dehaven; Konnick
+P_SO: Wacker #6; Cantwell #6
+P_BB: Wacker #6; Cantwell #1
+B_SH: Cantwell; Kirkpatrick
+T: 2:05
+U: Newhouse
+
+---
+
+date: 1911-05-06
+number: 0
+league: Central
+away: Wheeling
+home: South Bend I
+
+South Bend I:		ab r h po a e
+Craven @ rf:	4 0 0 1 0 0
+Schmick @ 1b:	4 1 1 12 1 1
+Kelly @ ss:		2 0 0 5 5 0
+Koehler @ 2b:	3 0 0 2 0 0
+Holt, Alva @ cf:	3 2 2 2 0 0
+Geir @ lf:		2 0 1 0 0 0
+Wetzell @ 3b:	2 0 0 0 2 1
+Holmes @ c:		2 0 1 5 0 0
+Martin @ p:		3 0 0 0 6 0
+TOTALS:			24 3 5 27 14 2
+
+Wheeling:		ab r h po a e
+Lewis @ 2b:		4 0 1 6 0 0
+Jewell @ ss:	2 0 0 0 0 1
+Crane @ 1b:		3 0 0 4 1 0
+Servatius @ rf:	4 0 0 1 0 0
+Knisely @ lf:	4 0 1 0 0 0
+Montg'y @ cf:	3 0 0 4 0 0
+King @ 3b:		4 0 1 1 0 1
+Murray @ c:		2 0 0 8 2 1
+Krannon @ p:	3 0 0 0 2 0
+TOTALS:			29 0 3 24 5 3
+
+line: South Bend I: 0 1 0 0 0 2 0 0 x - 3
+line: Wheeling: 0 0 0 0 0 0 0 0 0 - 0
+
+B_SB: Schmick; Kelly
+B_SH: Geir; Wetzell; Kelly; Crane; Jewell
+B_2B: Lewis; King; Alva Holt #2; Geir
+P_BB: Martin #3; Krannon #2
+P_SO: Martin #3; Krannon #6
+B_HP: Schmick
+F_DP: Kelly, Schmick, Holmes
+T: 1:35
+U: Cleary

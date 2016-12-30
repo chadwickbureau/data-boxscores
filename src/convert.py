@@ -27,12 +27,17 @@ class Game(object):
         return "%s[%s]: %s at %s" % (self.date, self.number,
                                      self.away, self.home)
 
-    @staticmethod
-    def _parse_playing_value(key, value, clubname, columns):
+    def _parse_playing_value(self, key, value, clubname, columns):
         if key == "TOTALS":
             name, pos = "TOTALS", None
         else:
-            name, pos = map(lambda x: x.strip(), key.split("@"))
+            try:
+                name, pos = map(lambda x: x.strip(), key.split("@"))
+            except ValueError:
+                print "In file %s,\n   game %s" % (self.metadata['filename'], self)
+                print "  Missing name or position in '%s'" % (key)
+                name, pos = key, None
+                
         if name[0] in Game._subskeys:
             subskey = name[0]
             name = name[1:]
@@ -124,6 +129,7 @@ class Game(object):
                 if key != "TOTALS":
                     playing['seq'] = str(seq)
                     seq += 1
+                    # TODO: Warn on name clashes!
                     self.playing[playing["name.full"]] = playing
                 else:
                     self.playing[clubname] = playing
@@ -140,10 +146,12 @@ class Game(object):
                 pass
             
             elif key in [ "date", "number", "league", "away", "home", "site",
-                          "source", "A", "T", "status", "status-reason" ]:
+                          "source", "A", "T", "status", "status-reason",
+                          "home-manager", "away-manager", "forfeit-to" ]:
                 self.metadata[key] = value
 
-            elif key in [ "B_ER", "B_2B", "B_3B", "B_HR", "B_SH", "B_HP",
+            elif key in [ "B_ER", "B_2B", "B_3B", "B_HR", "B_BB", "B_SO",
+                          "B_SH", "B_HP",
                           "B_SH", "B_SF", "B_SB",
                           "B_LOB", "B_ROE",
                           "P_IP", "P_R", "P_H", "P_HP", "P_BB", "P_SO",
@@ -205,6 +213,7 @@ def process_files(source):
                 'name.last', 'name.first', 'club.name',
                 'pos', 'seq',
                 'B_AB', 'B_R', 'B_ER', 'B_H', 'B_2B', 'B_3B', 'B_HR',
+                'B_BB', 'B_SO',
                 'B_HP', 'B_SH', 'B_SF', 'B_SB', 'B_LOB', 'B_ROE',
                 'P_IP', 'P_R', 'P_H', 'P_BB', 'P_SO', 'P_HP', 'P_WP', 'P_BK',
                 'F_PO', 'F_A', 'F_E', 'F_DP', 'F_TP', 'F_PB' ]
@@ -225,9 +234,16 @@ def process_files(source):
 
     df = pd.DataFrame([ g.metadata for g in gamelist ])
     df.sort_values([ 'date', 'league', 'home', 'number' ], inplace=True)
+    df.rename(inplace=True,
+              columns={ "away-manager": "away.manager",
+                        "home-manager": "home.manager",
+                        "status-reason": "status.reason",
+                        "forfeit-to": "forfeit.to" })
     columns = [ 'key', 'date', 'number', 'league', 'site',
-                'away', 'away.score', 'home', 'home.score', 'A', 'T',
-                'status', 'status-reason', 'filename', 'source' ]
+                'away', 'away.score', 'away.manager',
+                'home', 'home.score', 'home.manager',
+                'A', 'T', 'forfeit.to',
+                'status', 'status.reason', 'filename', 'source' ]
     for inning in xrange(100):
         if ('away.score.%d' % inning) in df.columns:
             columns.append('away.score.%d' % inning)
