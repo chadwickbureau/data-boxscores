@@ -1,0 +1,462 @@
+date: 1915-06-02
+number: 0
+league: Buckeye
+away: Canton
+home: Lima 
+status: postponed
+status-reason: Canton failed to arrive at game
+source: Newark Daily Advocate, June 3, 1915
+
+---
+
+date: 1915-06-02
+number: 0
+league: Buckeye
+away: Marion
+home: Akron
+status: postponed
+status-reason: rain 
+source: Newark Daily Advocate, June 3, 1915
+
+---
+
+date: 1915-06-02
+number: 0
+league: Buckeye
+away: Newark
+home: Findlay 
+status: postponed
+status-reason: rain 
+source: Newark Daily Advocate, June 3, 1915
+
+---
+
+date: 1915-06-03
+number: 0
+league: Buckeye
+away: Canton
+home: Lima 
+status: postponed
+status-reason: rain 
+source: Newark Daily Advocate, June 4, 1915
+
+---
+
+date: 1915-06-03
+number: 0
+league: Buckeye
+away: Marion
+home: Akron
+status: postponed
+status-reason: rain 
+source: Newark Daily Advocate, June 4, 1915
+
+---
+
+date: 1915-06-03
+number: 0
+league: Buckeye
+away: Newark
+home: Findlay 
+status: postponed
+status-reason: rain 
+source: Newark Daily Advocate, June 4, 1915
+
+---
+
+date: 1915-06-04
+number: 0
+league: Buckeye
+away: Akron
+home: Newark  
+source: Newark Daily Advocate, June 5, 1915
+
+Akron:		ab r h po a e
+Plummer @ rf:	7 0 2 3 1 0
+Patton @ 3b:	6 1 2 1 1 0
+Jaekle @ cf:	6 0 0 2 0 0
+Glennon @ lf:	6 1 0 4 0 0
+Talbot @ c:	6 0 0 11 7 0
+Holler @ ss:	6 0 1 1 3 2
+Fickle @ 1b:	5 0 0 13 1 2
+Newnham @ 2b:	4 0 1 6 3 0
+Hook @ p:	5 0 0 2 3 0
+TOTALS:		51 2 6 43 19 4
+
+Newark:		ab r h po a e
+Long @ lf:	7 1 3 3 0 0
+Price @ ss:	6 0 1 1 2 3
+Wratten @ 3b:	6 0 4 3 2 0
+Humphreys @ 2b:	6 0 0 4 2 1
+Strawn @ rf:	5 0 1 1 1 0
+Pearce @ c:	5 0 1 11 3 1
+Malloy @ 1b:	5 0 0 18 2 0
+Blanchard @ c:	6 2 2 2 0 0
+Daugherty @ p:	4 0 0 2 9 0
+TOTALS:		50 3 12 45 21 5
+
+line: Akron:  0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 - 2
+line: Newark: 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 - 3
+
+
+B_LOB: Newark #11; Akron #9
+B_2B: Patton; Long; Wratten
+B_3B: Blanchard
+B_SB: Patton; Glennon #2; Holler; Long; Wratten
+B_SH: Patton; Price; Pearce
+B_SF: Daugherty
+B_HP: Fickle
+P_BB: Daugherty #3; Hook #4
+P_SO: Daugherty #10; Hook #8
+P_HP: Daugherty
+P_WP: Daugherty
+F_DP: Plummer, Fickle; Strawn, Pearce; Pearce, Humphreys
+F_PB: Pearce
+T: 
+U: Pastorius
+
+---
+
+date: 1915-06-04
+number: 0
+league: Buckeye
+away: Canton
+home: Findlay
+source: Newark Daily Advocate, June 5, 1915
+
+Canton:		r h e
+Connor @ p:	x x x
+Mornin @ c:	x x x
+TOTALS:		1 8 2
+
+Findlay:	r h e
+French @ p:	x x x
+McGivern @ c:	x x x
+TOTALS:		10 12 3
+
+
+---
+
+date: 1915-06-04
+number: 0
+league: Buckeye
+away: Marion
+home: Lima 
+status: postponed
+status-reason: Wet grounds
+source: Newark Daily Advocate, June 5, 1915
+
+---
+
+date: 1915-06-05
+number: 0
+league: Buckeye
+away: Akron
+home: Newark  
+source: Newark Daily Advocate, June 7, 1915
+
+Akron:		ab r h po a e
+Plummer @ rf:	5 2 1 2 0 0 
+Patton @ 3b:	4 0 1 0 2 1
+Jaekley @ cf:	3 0 1 1 0 0 
+Glennon @ lf:	5 2 0 1 1 1 
+Talbot @ c:	5 0 0 5 3 0
+Holler @ ss:	5 1 0 3 2 1
+Fickle @ 1b:	3 0 1 8 0 0
+Newnham @ 2b:	3 1 1 4 2 0
+Linne @ p:	3 1 0 0 5 0
+Hook @ p:	1 0 0 0 0 0
+TOTALS:		37 7 5 27 15 3
+
+Newark:		ab r h po a e
+Long @ lf:	3 0 1 2 0 0
+Price @ ss:	5 0 0 0 1 6
+Wratten @ 3b:	5 1 1 1 2 0
+Deitrich @ cf:	4 1 1 2 1 0
+Humphreys @ 2b:	4 1 1 3 4 0
+Strawn @ rf:	4 2 1 0 0 0
+Malloy @ 1b:	4 1 2 12 0 1
+Blanchard @ c:	3 0 1 6 3 1
+Dillon @ p:	4 0 0 1 7 4
+TOTALS:		36 6 8 27 18 12
+
+line: Akron:  2 0 0 3 0 0 1 0 1 - 7
+line: Newark: 0 0 0 0 0 2 0 4 0 - 6
+
+
+B_LOB: Newark #9; Akron #12
+B_2B: Wratten; Deitrich; Patton
+B_3B: Malloy
+B_SB: Holler; Newnham
+B_SH: Jaekley #2
+B_SF: Blanchard
+P_BB: Dillon #6; Linne #4; Hook #1
+P_SO: Dillon #3; Linne #4; Hook #2
+P_WP: Dillon #2
+T: 1:55
+U: Pastorius
+
+---
+
+date: 1915-06-05
+number: 0
+league: Buckeye
+away: Canton
+home: Findlay
+source: Newark Daily Advocate, June 7, 1915
+
+Canton:		r h e
+Piert @ p:	x x x
+Samuels @ p:	x x x
+Biggs @ c:	x x x
+TOTALS:		7 5 6
+
+Findlay:	r h e
+McClaskey @ p:	x x x
+Schulz @ p:	x x x
+McGovern @ c:	x x x
+TOTALS:		10 11 6
+
+---
+
+date: 1915-06-05
+number: 1
+league: Buckeye
+away: Marion
+home: Lima  
+source: Newark Daily Advocate, June 7, 1915
+
+
+Marion:		r h e
+Hart @ p:	x x x 
+Breymaier @ c:	x x x 
+TOTALS:		4 9 1
+
+Lima:		r h e
+TOTALS:		1 7 3
+
+---
+
+date: 1915-06-05
+number: 2
+league: Buckeye
+away: Marion
+home: Lima  
+source: Newark Daily Advocate, June 7, 1915
+
+
+Marion:		r h e
+Orendorf @ p:	x x x 
+Breymaier @ c:	x x x 
+TOTALS:		3 5 2
+
+Lima:		r h e
+Clark @ p:	x x x 
+Maroney @ c:	x x x 
+TOTALS:		4 10 2
+
+---
+
+date: 1915-06-06
+number: 1
+league: Buckeye
+away: Canton
+home: Newark  
+source: Newark Daily Advocate, June 7, 1915
+
+Canton:		ab r h po a e
+Byatt @ cf:	4 0 0 5 0 1
+Miller @ lf:	3 2 2 0 0 0
+McGuire @ 3b:	4 0 1 3 1 1
+Hawn @ rf:	4 0 0 1 1 0
+Morrin @ ss:	4 0 2 0 2 2
+Clark @ 2b:	3 1 1 1 0 0
+Pastorious @ 1b:	4 0 0 6 0 0
+Beeney @ c:	4 0 0 6 1 1
+Connors @ p:	4 0 1 2 2 0
+TOTALS:		34 3 7 24 7 5
+
+Newark:		ab r h po a e
+Long @ lf:	4 1 1 4 0 0
+Evans @ ss:	3 0 1 0 1 1
+Wratten @ 3b:	4 1 1 4 4 0
+Deitrich @ cf:	4 1 3 0 0 0
+Humphreys @ 2b:	5 2 2 0 0 1
+Pearce @ c:	3 2 2 8 2 0
+Maloy @ 1b:	4 0 2 11 0 0
+Blanchard @ rf:	5 0 2 0 0 0
+Daugherty @ p:	2 0 1 0 5 0
+TOTALS:		34 7 15 27 12 2
+
+line: Canton: 0 0 0 1 0 0 1 1 0 - 3
+line: Newark: 1 0 3 0 2 1 0 0 x - 7
+
+
+B_LOB: Newark #13; Canton #6
+B_2B: Deitrich #2; Humphreys; Maloy; Miller; Connors
+B_SB: Evans; Wratten; Miller
+B_SH: Long; Evans
+B_SF: Pearce #2
+B_HP: Daugherty
+P_BB: Daugherty #2; Connors #4
+P_SO: Daugherty #6; Connors #4
+P_HP: Connors
+F_DP: Morrin, Beeney, McGuire
+T: 2:00
+U: Pastorius
+
+---
+
+date: 1915-06-06
+number: 2
+league: Buckeye
+away: Canton
+home: Newark  
+source: Newark Daily Advocate, June 7, 1915
+
+Canton:		ab r h po a e
+Byatt @ cf:	3 0 1 3 0 0
+Miller @ lf:	2 0 0 0 0 0
+McGuire @ 3b:	3 0 1 0 0 0
+Hawn @ rf:	3 0 1 1 0 0
+Morrin @ ss:	3 0 0 1 2 2 
+Clark @ 2b:	1 1 0 0 4 0
+Pastorious @ 1b:	3 1 1 12 0 0
+Beeney @ c:	3 0 0 1 0 0
+Samuels @ p:	2 0 0 0 2 0
+Connor @ ph:	1 0 1 0 0 0
+TOTALS:		34 3 7 24 7 5
+
+Newark:		ab r h po a e
+Long @ lf:	3 1 1 1 0 0
+Evans @ ss:	2 0 1 1 1 1 
+Drake @ rf:	1 1 0 0 0 0
+Wratten @ 3b:	3 1 1 0 0 0
+Deitrich @ ss-cf:	2 0 1 2 1 0
+Humphreys @ 2b:	2 0 2 0 3 0
+Strawn @ cf-rf:	3 0 0 4 0 0
+Malloy @ 1b:	3 0 0 7 0 0
+Blanchard @ c:	3 1 0 6 1 0
+Goodwin @ p:	3 0 0 0 2 0
+TOTALS:		28 4 6 21 8 1
+
+line: Canton: 0 0 0 0 0 0 2 - 3
+line: Newark: 0 0 1 0 3 0 x - 4
+
+
+B_LOB: Newark #5; Canton #5
+B_2B: Long; Wratten; Humphreys; Connor
+B_SB: Drake; McGuire
+B_SH: Humphreys; Miller
+P_BB: Goodwin #3; Samuels #1
+P_SO: Goodwin #4; Samuels #1
+T: 1:40
+U: Pastorius
+
+---
+
+date: 1915-06-06
+number: 1
+league: Buckeye
+away: Findlay
+home: Akron
+source: Newark Daily Advocate, June 7, 1915
+
+Findlay:	r h e
+Richmond @ p:	x x x
+Fields @ c:	x x x
+TOTALS:		6 6 1
+
+Akron:		r h e
+McKee @ p:	x x x
+Talbot @ c:	x x x
+TOTALS:		1 6 3
+
+
+---
+
+date: 1915-06-06
+number: 2
+league: Buckeye
+away: Findlay
+home: Akron
+source: Newark Daily Advocate, June 7, 1915
+
+Findlay:	r h e
+Richmond @ p:	x x x
+Shultz @ p:	x x x
+Fields @ c:	x x x
+TOTALS:		0 4 2
+
+Akron:		r h e
+Shroner @ p:	x x x
+Talbot @ c:	x x x
+TOTALS:		7 6 1
+
+---
+
+date: 1915-06-06
+number: 0
+league: Buckeye
+away: Lima
+home: Marion
+source: Newark Daily Advocate, June 7, 1915
+
+Lima:		r h e
+Walker @ p:	x x x
+Maroney @ c:	x x x
+TOTALS:		1 1 2
+
+Marion:		r h e
+Leake @ p:	x x x
+Breymaier @ c:	x x x
+TOTALS:		7 11 1
+
+---
+
+date: 1915-06-08
+number: 0
+league: Buckeye
+away: Newark
+home: Lima
+status: postponed
+status-reason: wet grounds 
+source: Newark Daily Advocate, June 9, 1915
+
+---
+
+date: 1915-06-08
+number: 0
+league: Buckeye
+away: Akron
+home: Marion
+source: Newark Daily Advocate, June 9, 1915
+
+Akron:		r h e
+Hook @ p:	x x x
+Talbott @ c:	x x x
+TOTALS:		4 6 2
+
+Marion:		r h e
+Hoffman @ p:	x x x
+Breymaier @ c:	x x x
+TOTALS:		3 8 2
+
+---
+
+date: 1915-06-08
+number: 0
+league: Buckeye
+away: Canton
+home: Findlay
+source: Newark Daily Advocate, June 9, 1915
+
+Canton:		r h e
+Kootz @ p:	x x x
+Beeney @ c:	x x x
+TOTALS:		2 4 2
+
+Findlay:	r h e
+McCluskey @ p:	x x x
+McGivern @ c:	x x x
+TOTALS:		4 7 5

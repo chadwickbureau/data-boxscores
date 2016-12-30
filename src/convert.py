@@ -50,7 +50,8 @@ class Game(object):
         stats = filter(lambda x: x.strip() != "", value.split())
         assert len(stats) == len(columns)
         for (s, c) in zip(stats, columns):
-            playing[c] = s
+            if s not in [ "X", "x" ]:
+                playing[c] = s
         return playing
 
     def _parse_details(self, key, value):
@@ -73,6 +74,7 @@ class Game(object):
                 names, count = entry, 1
 
             # TODO: Should do sanity check that all players are on same team!
+            # Team should then be credited with a double play/triple play
             for name in map(lambda x: x.strip(), names.split(",")):
                 try:
                     playing = self.playing[name]
@@ -91,7 +93,7 @@ class Game(object):
             prefix = "home.score"
         else:
             print "In file %s,\n   game %s" % (self.metadata['filename'], self)
-            print "  No match on club name '%s' in '%s'" % (name, club)
+            print "  No match on club name '%s'" % (club)
             return
 
         byinning, total = map(lambda x: x.strip(), score.split("-"))
@@ -142,10 +144,11 @@ class Game(object):
                           "source", "A", "T", "status", "status-reason" ]:
                 self.metadata[key] = value
 
-            elif key in [ "B_2B", "B_3B", "B_HR", "B_SH", "B_HP",
+            elif key in [ "B_ER", "B_2B", "B_3B", "B_HR", "B_SH", "B_HP",
                           "B_SH", "B_SF", "B_SB",
                           "B_LOB", "B_ROE",
-                          "P_IP", "P_H", "P_HP", "P_BB", "P_SO", "P_WP", "P_BK",
+                          "P_IP", "P_R", "P_H", "P_HP", "P_BB", "P_SO",
+                          "P_WP", "P_BK",
                           "F_PB" ]:
                 if value != "":
                     self._parse_details(key, value)
@@ -200,10 +203,10 @@ def process_files(source):
     del df['substitute']
     columns = [ 'game.key', 'game.date', 'game.number',
                 'name.last', 'name.first', 'club.name',
-                'pos', 'seq', 'substitute',
-                'B_AB', 'B_R', 'B_H', 'B_2B', 'B_3B', 'B_HR',
+                'pos', 'seq',
+                'B_AB', 'B_R', 'B_ER', 'B_H', 'B_2B', 'B_3B', 'B_HR',
                 'B_HP', 'B_SH', 'B_SF', 'B_SB', 'B_LOB', 'B_ROE',
-                'P_IP', 'P_H', 'P_BB', 'P_SO', 'P_HP', 'P_WP', 'P_BK',
+                'P_IP', 'P_R', 'P_H', 'P_BB', 'P_SO', 'P_HP', 'P_WP', 'P_BK',
                 'F_PO', 'F_A', 'F_E', 'F_DP', 'F_TP', 'F_PB' ]
     for col in columns:
         if col not in df:

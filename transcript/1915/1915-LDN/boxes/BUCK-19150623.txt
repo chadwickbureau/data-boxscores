@@ -1,0 +1,570 @@
+date: 1915-06-23
+number: 0
+league: Buckeye
+away: Akron
+home: Lima
+source: Lima Daily News, June 24, 1915
+
+Akron:		ab r h po a e
+Byatt @ rf:	4 1 0 1 1 0
+Patton @ 3b:	3 1 1 1 2 1
+Jaekel @ lf:	4 0 0 4 0 0 
+Mundy @ 1b:	5 1 2 9 1 1 
+Talbott @ c:	4 1 2 1 2 0
+Glennon @ cf:	4 0 2 1 0 1
+Holler @ ss:	5 0 0 3 5 0
+Newnham @ 2b:	4 1 2 5 1 0
+Linne @ p:	3 2 0 1 2 0
+TOTALS:		36 7 9 26 14 3
+
+Lima:		ab r h po a e
+Miller @ cf:	5 0 2 3 0 0
+Murray @ 2b:	5 2 1 4 1 1
+Matthews @ rf:	3 1 1 3 0 1
+McClelland @ ss:	5 1 3 1 2 0
+Fletcher @ 3b:	4 1 1 1 0 1
+Maroney @ c:	4 1 1 10 2 0
+Walker @ 1b:	4 2 1 4 2 1
+Reynolds @ lf:	4 0 3 1 0 0
+Clark @ p:	4 0 0 0 1 2
+TOTALS:		33 8 13 27 8 6
+
+line: Akron: 1 2 0 1 0 0 1 1 1 - 7
+line: Lima:  0 0 1 0 1 3 2 0 1 - 8
+
+B_LOB: Akron #9; Lima #5 
+B_ROE: Akron #4; Lima #3
+B_2B: Talbott; Patton; Matthews; Reynolds
+B_HR: Walker
+B_SB: Patton #2
+B_SH: Linne
+B_SF: Talbott; Glennon; Matthews
+P_BB: Linne #1; Clark #4
+P_SO: Linne #1; Clark #10
+F_PB: Talbott
+T: 1:48
+U: Pastorious
+
+---
+
+date: 1915-06-23
+number: 1
+league: Buckeye
+away: Findlay
+home: Newark 
+source: Lima Daily News, June 24, 1915
+
+Findlay:	r h e
+Frech @ p:	x x x
+McGivern @ c:	x x x
+TOTALS:		5 8 2
+
+Newark:		r h e
+Hart @ p:	x x x
+Blanchard @ c:	x x x
+TOTALS:		3 4 3
+
+line: Findlay: 1 0 2 1 0 0 1 0 0 - 5
+line: Newark:  1 0 0 0 0 0 2 0 0 - 3
+
+---
+
+date: 1915-06-23
+number: 2
+league: Buckeye
+away: Findlay
+home: Newark 
+source: Lima Daily News, June 24, 1915
+
+Findlay:	r h e
+Black @ p:	x x x
+McGivern @ c:	x x x
+TOTALS:		0 5 1
+
+Newark:		r h e
+Blubaugh @ p:	x x x
+Blanchard @ c:	x x x
+TOTALS:		2 6 1
+
+line: Findlay: 0 0 0 0 0 0 0 - 0
+line: Newark:  0 0 0 0 1 1 x - 2
+
+---
+
+date: 1915-06-25
+number: 0
+league: Buckeye
+away: Newark
+home: Lima 
+source: Lima Daily News, June 26, 1915
+
+Newark:		ab r h po a e
+Long @ lf:	3 0 0 1 0 0
+Wratten @ 3b:	4 1 1 2 0 0
+Roudebush @ 2b:	2 1 0 3 2 1
+Pearce @ c:	4 0 1 6 1 0
+Judge @ ss:	4 0 0 1 5 1
+Strawn @ cf:	1 1 0 0 1 2
+Blanchard @ rf:	4 0 0 2 1 0
+Malloy @ 1b:	4 1 2 8 1 0
+Mahan @ p:	3 0 0 0 5 2
+TOTALS:		29 4 4 23 16 6
+
+Lima:		ab r h po a e
+Miller @ cf:	4 1 2 4 1 0
+Murray @ 2b:	5 2 3 6 3 0
+Matthews @ rf:	4 1 1 1 0 0
+McClelland @ 1b:	4 2 3 7 1 0
+Walker @ lf:	2 0 1 1 0 0
+Maroney @ c:	4 0 0 7 3 0
+Fletcher @ ss:	3 1 0 0 2 1
+Warden @ 3b:	4 0 0 1 2 0
+Reynolds @ p:	4 1 1 0 1 1
+TOTALS:		34 8 11 27 13 2
+
+line: Newark: 0 0 0 0 2 0 0 0 2 - 4
+line: Lima:   2 0 2 0 0 2 2 0 x - 8
+
+B_LOB: Newark #4; Lima #7
+B_ROE: Newark #1; Lima #4
+B_2B: Pearce; Miller; Matthews
+B_3B: Walker
+B_SB: Malloy
+B_SH: Walker
+B_HP: Walker; Fletcher; Strawn #2
+P_BB: Mahan #2; Reynolds #4
+P_SO: Mahan #4; Reynolds #7
+P_HP: Mahan #2; Reynolds #2
+F_DP: Miller, Murray
+T: 1:50
+U: Pastorious
+
+---
+
+date: 1915-06-25
+number: 0
+league: Buckeye
+away: Akron
+home: Findlay 
+source: Lima Daily News, June 26, 1915
+
+Akron:		r h e
+Pickett @ p:	x x x
+Talbott @ c:	x x x
+TOTALS:		5 8 3
+
+Findlay:	r h e
+McCluskey @ p:	x x x
+McGivern @ c:	x x x
+TOTALS:		4 6 2
+
+line: Akron:   0 0 0 3 0 0 2 0 0 - 5
+line: Findlay: 2 0 0 0 1 0 1 0 0 - 4
+
+---
+
+date: 1915-06-26
+number: 1
+league: Buckeye
+away: Newark
+home: Lima 
+source: Lima Daily News, June 27, 1915
+
+Newark:		ab r h po a e
+Long @ lf:	4 2 2 0 0 0
+Wratten @ 3b:	5 0 2 2 2 0
+Roudebush @ 2b:	4 1 1 3 2 0
+Pearce @ c:	4 0 0 7 0 0
+Judge @ ss:	4 0 1 0 2 0
+Strawn @ cf:	2 0 0 2 0 0
+Blanchard @ rf:	4 1 1 1 0 0
+Malloy @ 1b:	3 1 2 12 0 0
+Hart @ p:	2 1 0 0 4 0
+TOTALS:		32 6 9 27 10 0
+
+Lima:		ab r h po a e
+Miller @ cf:	4 0 1 1 0 0
+Murray @ 2b:	4 0 1 3 1 0
+Matthews @ rf:	4 0 1 1 0 0
+McClelland @ 1b:	4 0 1 9 0 0
+Maroney @ c:	4 0 1 9 1 0
+Fletcher @ ss:	3 0 1 1 4 0
+Warden @ 3b:	4 0 1 2 2 0
+Clark @ lf:	3 0 0 1 0 0
+Walker @ p:	3 0 0 0 4 0
+TOTALS:		33 0 7 27 12 0
+
+line: Newark: 2 2 0 0 0 0 0 0 2 - 6
+line: Lima:   0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Newark #6; Lima #8
+B_2B: Blanchard; Long; Wratten; McClelland
+B_3B: Long; Roudebush
+B_SB: Malloy; Wratten
+B_SH: Hart; Malloy
+B_HP: Strawn
+P_BB: Hart #2; Walker #4
+P_SO: Hart #7; Walker #7
+P_WP: Walker
+P_HP: Walker
+F_DP: Hart, Wratten, Malloy
+T: 1:43 
+U: Pastorious
+
+---
+
+date: 1915-06-26
+number: 2
+league: Buckeye
+away: Newark
+home: Lima 
+source: Lima Daily News, June 27, 1915
+
+Newark:		ab r h po a e
+Long @ lf:	3 1 2 1 0 1
+Wratten @ 3b:	4 1 2 2 3 0
+Roudebush @ 2b:	2 0 0 0 1 3
+Pearce @ c:	3 0 1 5 1 0
+Judge @ ss:	4 1 3 0 0 1
+Hart @ cf:	2 0 0 0 1 0
+Blanchard @ rf:	3 0 0 1 0 0
+Malloy @ 1b:	3 1 1 8 0 0
+Bluebaugh @ p:	2 0 0 0 3 1
+TOTALS:		26 4 9 17 7 6
+
+Lima:		ab r h po a e
+Miller @ cf:	4 1 2 1 0 0
+Murray @ 2b:	3 3 2 3 5 0
+Matthews @ rf:	4 1 0 1 0 0 
+McClelland @ 1b:	4 0 2 7 0 0
+Maroney @ c:	4 1 2 4 1 0
+Fletcher @ ss:	4 1 2 1 3 0
+Warden @ 3b:	4 2 1 1 1 0
+Walker @ lf:	4 0 0 3 1 0
+Bond @ p:	1 0 0 0 0 0
+Clark @ p:	1 2 0 0 0 0
+TOTALS:		33 11 11 21 11 0
+
+line: Newark: 0 2 1 0 0 0 1 - 4
+line: Lima:   2 0 1 4 3 1 x - 11
+
+B_LOB: Newark #7; Lima #6
+B_ROE: Lima #5
+B_2B: Wratten; McClelland; Fletcher #2; Warden; Maroney
+B_3B: Judge
+B_HR: Malloy
+B_SB: Maroney
+B_SF: Hart
+B_HP: Bluebaugh; Long; Murray
+P_SO: Bluebaugh #4; Bond #1; Clark #2
+P_IP: Bond #2; Clark #5 
+P_H: Bond #4; Clark #5
+P_WP: Clark
+P_HP: Bond; Clark; Bluebaugh
+F_DP: Fletcher, Murray, McClelland
+F_PB: Pearce
+T: 1:30
+U: Pastorious
+
+---
+
+date: 1915-06-26
+number: 0
+league: Buckeye
+away: Akron
+home: Findlay 
+source: Lima Daily News, June 27, 1915
+
+Akron:		r h e
+TOTALS:		6 x x 
+
+Findlay:	r h e
+TOTALS:		8 x x 
+
+---
+
+date: 1915-06-27
+number: 1
+league: Buckeye
+away: Findlay
+home: Lima 
+source: Lima Daily News, June 28, 1915
+
+Findlay:	ab r h po a e
+Chapman @ 1b:	4 1 0 12 0 0
+Blue @ ss:	4 0 0 0 1 0
+Werner @ lf:	4 2 2 1 0 0
+Yockey @ 2b:	4 2 1 2 6 0
+Costello @ cf:	4 1 0 3 0 0
+Egan @ rf:	4 1 0 2 1 0
+Bresnahan @ 3b:	4 0 3 4 2 3
+McGivern @ c:	4 0 0 3 0 0
+Black @ p:	3 1 1 0 6 0
+TOTALS:		35 8 7 27 16 3
+
+Lima:		ab r h po a e
+Miller @ cf:	5 0 1 2 0 0
+Murray @ 2b:	4 1 0 3 2 0
+Matthews @ rf:	4 2 2 0 0 0
+McClelland @ 1b:	4 1 2 7 0 1
+Maroney @ c:	4 0 2 10 2 0
+Fletcher @ ss:	3 0 1 1 1 1
+Warden @ 3b:	4 0 1 1 2 0
+Walker @ lf:	4 0 0 2 0 0
+Reynolds @ p:	4 0 1 1 1 0
+TOTALS:		36 4 10 27 8 2
+
+line: Findlay: 4 0 0 0 0 0 0 3 1 - 8
+line: Lima:    2 0 1 0 0 0 0 1 0 - 4
+
+B_LOB: Findlay #6; Lima #6
+B_ROE: Findlay #2; Lima #1
+B_2B: Miller; Matthews
+B_3B: Werner #2; Black; Matthews
+B_SB: Bresnahan; Yockey; Blue
+B_SH: Fletcher
+B_HP: Blue
+P_BB: Reynolds #5
+P_SO: Black #3; Reynolds #9
+P_HP: Reynolds
+F_PB: Maroney
+T: 2:05
+U: Schultz; Clark
+
+---
+
+date: 1915-06-27
+number: 2
+league: Buckeye
+away: Findlay
+home: Lima 
+source: Lima Daily News, June 28, 1915
+
+Findlay:	ab r h po a e
+Chapman @ 1b:	3 0 0 6 1 1
+Blue @ ss:	3 0 0 2 2 0
+Werner @ lf:	3 0 0 0 0 0
+Yockey @ 2b:	3 0 0 0 4 0
+Costello @ cf:	2 0 1 1 0 0
+Egan @ rf:	3 1 1 2 0 0
+Breshahan @ 3b:	3 0 1 1 1 1
+McGivern @ c:	2 0 0 6 0 0
+Schultz @ p:	0 0 0 0 0 0
+McClusky @ p:	3 0 2 0 1 0
+TOTALS:		25 1 5 18 10 2
+
+Lima:		ab r h po a e
+Miller @ cf:	4 3 2 0 0 0
+Murray @ 2b:	3 0 1 3 1 0
+Matthews @ rf:	3 1 1 3 0 0
+McClelland @ 1b:	3 0 0 4 0 0
+Maroney @ c:	3 1 1 9 0 0
+Fletcher @ ss:	3 1 2 0 3 0
+Warden @ 3b:	3 0 1 1 1 0
+Walker @ lf:	3 0 0 1 0 0
+Clark @ p:	2 0 1 0 2 0
+TOTALS:		27 6 9 21 7 0
+
+line: Findlay: 0 1 0 0 0 0 0 - 1
+line: Lima:    4 1 0 0 0 1 x - 6
+
+B_LOB: Findlay #6; Lima #7
+B_ROE: Lima #2
+B_2B: McClusky; Murray
+B_HR: Egan
+B_SB: Matthews #3; Fletcher; Miller
+B_SH: Murray
+P_BB: McClusky #3; Clark #3
+P_SO: McClusky #5; Clark #8
+P_IP: Schultz #0.2; McClusky #5.1
+P_H: Schultz #5; McClusky #4
+P_WP: McClusky; Clark #2
+T: 1:35
+U: Schnitzer; Black
+
+---
+
+date: 1915-06-27
+number: 1
+league: Buckeye
+away: Newark
+home: Akron
+source: Lima Daily News, June 28, 1915
+
+Newark:		r h e
+Mahan @ p:	x x x
+Pearce @ c:	x x x
+TOTALS:		11 11 4
+
+Akron:		r h e
+Linne @ p:	x x x
+Pickett @ p:	x x x
+Talbott @ c:	x x x
+TOTALS:		8 13 10
+
+line: Newark: 0 0 0 0 2 1 5 3 0 - 11
+line: Akron:  0 3 3 0 0 2 0 0 0 - 8
+
+U: Pastorious
+
+---
+
+date: 1915-06-27
+number: 2
+league: Buckeye
+away: Newark
+home: Akron
+source: Lima Daily News, June 28, 1915
+
+Newark:		r h e
+Bluebaugh @ p:	x x x
+Strawn @ p:	x x x
+Branchard @ p:	x x x
+Pearce @ c:	x x x
+TOTALS:		6 7 3
+
+Akron:		r h e
+Shoner @ p:	x x x
+Talbott @ c:	x x x
+TOTALS:		10 11 3
+
+line: Newark: 1 0 0 0 4 1 0 - 6
+line: Akron:  0 0 3 3 4 0 x - 10
+
+---
+
+date: 1915-06-28
+number: 0
+league: Buckeye
+away: Lima
+home: Findlay
+source: Lima Daily News, June 29, 1915
+
+Lima:		ab r h po a e
+Miller @ cf:	3 1 0 3 1 1 
+Murray @ 2b:	2 0 0 4 3 0
+Matthews @ rf:	4 0 0 0 0 0
+McClelland @ 1b:	3 1 0 8 0 0
+Maroney @ c:	3 0 0 5 1 0
+Fletcher @ ss:	3 0 1 1 1 1
+Walker @ lf:	4 0 0 3 0 0
+Warden @ 3b:	3 0 1 0 3 0
+Bond @ p:	3 0 0 0 2 0
+TOTALS:		28 2 2 24 11 2
+
+Findlay:	ab r h po a e
+Chapman @ 1b:	4 2 0 12 0 1
+Blue @ ss:	3 1 1 2 6 1
+Werner @ rf:	3 1 2 0 0 0
+Yockey @ 2b:	4 0 1 3 3 0
+Costello @ cf:	3 0 0 4 0 0
+Egan @ lf:	3 1 1 1 0 0
+Bresnahan @ 3b:	3 2 0 2 1 0
+McGivern @ c:	4 0 3 3 0 0
+Frech @ p:	3 0 0 0 3 1
+TOTALS:		30 7 8 27 13 3
+
+line: Lima:    1 0 0 1 0 0 0 0 0 - 2
+line: Findlay: 0 1 0 1 1 0 3 1 x - 7
+
+
+B_LOB: Findlay #5; Lima #5
+B_ROE: Lima #3; Findlay #1
+B_3B: McGivern #2
+B_HR: Egan
+B_SB: McClelland
+B_SH: Murray
+B_HP: Werner
+P_BB: Bond #5; Frech #3
+P_SO: Bond #4; Frech #3
+P_HP: Bond
+F_DP: Fletcher, Murray, McClelland; Blue, Yockey, Chapman
+T: 1:41
+U: Berthaume
+
+---
+
+date: 1915-06-28
+number: 0
+league: Buckeye
+away: Akron
+home: Newark 
+source: Lima Daily News, June 29, 1915
+
+Akron:		r h e
+Pickett @ p:	x x x
+Talbott @ c:	x x x
+TOTALS:		4 11 3
+
+Newark:		r h e
+Thropp @ p:	x x x
+Pearce @ c:	x x x
+TOTALS:		2 6 4
+
+line: Akron:  0 0 0 0 0 2 1 0 1 - 4
+line: Newark: 0 0 0 0 2 0 0 0 0 - 2
+
+---
+
+date: 1915-06-29
+number: 0
+league: Buckeye
+away: Lima
+home: Findlay
+source: Lima Daily News, June 30, 1915
+
+Lima:		ab r h po a e
+Miller @ cf:	5 0 2 1 0 0
+Murray @ 2b:	3 1 1 1 1 1
+Matthews @ rf:	4 0 1 1 1 0
+McClelland @ ss:	4 0 1 3 4 1
+Maroney @ c:	4 0 0 7 0 0
+Clark @ lf:	3 1 0 1 0 0
+Walker @ 1b:	4 1 2 11 0 0
+Warden @ 3b:	4 0 3 0 4 0
+Reynolds @ p:	4 0 0 1 2 1
+TOTALS:		35 3 10 26 12 3
+
+Findlay:	ab r h po a e
+Chapman @ 1b:	3 1 1 19 0 0
+Blue @ ss:	3 0 0 1 4 0
+Werner @ rf:	3 1 3 0 0 0
+Yockey @ 2b:	4 1 3 2 8 0
+Costello @ cf:	4 0 1 0 0 0
+Egan @ lf:	4 0 0 0 1 0
+Breshahan @ 3b:	4 0 0 1 1 0
+McGivern @ c:	3 1 0 4 0 0
+Schultz @ p:	3 0 0 0 4 0
+Black @ p:	1 0 1 0 0 0
+TOTALS:		34 4 9 27 18 0
+
+line: Lima:    0 0 0 0 0 1 1 0 1 - 3
+line: Findlay: 1 0 1 0 0 0 0 1 1 - 4
+
+
+B_LOB: Findlay #9; Lima #7
+B_ROE: Findlay #2
+B_2B: Walker; Yockey #3; Werner
+B_SB: Warden #2; Miller; Murray
+B_SH: Blue #2
+P_BB: Reynolds #3; Schultz #2
+P_SO: Reynolds #3; Schultz #3; Black #1
+P_IP: Schultz #8.1; Black #0.2
+P_WP: Reynolds
+F_DP: McClelland, Walker
+F_PB: McGivern
+T: 2:00
+U: Pastorious
+
+---
+
+date: 1915-06-29
+number: 0
+league: Buckeye
+away: Akron
+home: Newark
+status: postponed
+status-reason: rain
+source: Lima Daily News, June 30, 1915
+
+

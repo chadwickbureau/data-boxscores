@@ -1,0 +1,312 @@
+date: 1915-06-30
+number: 0
+league: Buckeye
+away: Lima
+home: Findlay
+source: Lima Daily News, July 1, 1915
+
+Lima:		ab r h po a e
+Miller @ cf:	4 0 1 3 1 0
+Murray @ 2b:	4 1 1 3 1 0
+Matthews @ rf:	4 0 0 1 0 0
+McClelland @ ss:	2 0 0 2 0 0
+Maroney @ c:	3 1 0 6 0 0
+Walker @ 1b:	3 0 1 10 0 0
+Warden @ 3b:	3 0 1 0 2 0
+Reynolds @ lf:	2 0 0 1 0 0
+Clark @ p:	3 0 0 0 0 0
+TOTALS:		28 2 4 26 4 0
+
+Findlay:	ab r h po a e
+Chapman @ 1b:	3 0 1 13 0 1
+Blue @ ss:	3 0 0 3 9 0
+Werner @ rf:	4 0 0 1 1 0
+Yockey @ 2b:	4 0 1 3 4 1
+Costello @ cf:	3 1 2 1 0 0
+Egan @ lf:	4 1 1 0 0 0
+Bresnahan @ 3b:	4 1 0 1 0 0 
+McGivern @ c:	4 0 3 5 0 0
+Black @ p:	3 0 1 0 2 0
+TOTALS:		32 3 9 27 16 2
+
+line: Lima:    0 0 0 2 0 0 0 0 0 - 2
+line: Findlay: 0 0 0 0 1 0 0 0 2 - 3
+
+
+B_LOB: Findlay #7; Lima #1
+B_ER: Lima #2; Findlay #3
+B_ROE: Lima #2
+B_2B: Walker; McGivern #2
+B_SB: Costello; Bresnahan
+B_HP: Blue
+P_BB: Clark #2; Black #1
+P_SO: Clark #5; Black #4
+P_HP: Clark
+F_DP: Walker, Murray; McClelland, Murray, Walker; Blue, Chapman; Yockey, Blue, Chapman
+T: 1:40
+U: Pastorious
+
+---
+
+date: 1915-06-30
+number: 0
+league: Buckeye
+away: Akron
+home: Newark 
+source: Lima Daily News, July 1, 1915
+
+Akron:		r h e
+McKee @ p:	x x x
+Talbott @ c:	x x x
+TOTALS:		1 3 2
+
+Newark:		r h e
+Hart @ p:	x x x
+Pearce @ c:	x x x
+TOTALS:		5 5 0
+
+line: Akron:  0 0 0 0 0 1 0 0 0 - 1
+line: Newark: 3 0 0 0 2 0 0 0 x - 5
+
+---
+
+date: 1915-07-01
+number: 0
+league: Buckeye
+away: Akron
+home: Lima
+source: Lima Daily News, July 2, 1915
+
+Akron:		ab r h po a e
+Byatt @ cf:	5 0 0 1 0 0
+Patton @ 3b:	4 0 3 1 5 0
+Jaekel @ 2b:	3 0 1 5 5 1
+Munday @ 1b:	4 0 0 12 0 0
+Talbott @ c:	4 0 1 4 2 0
+Glennon @ lf:	4 0 1 0 0 0
+Peak @ ss:	3 1 3 1 4 2
+McKee @ rf:	4 1 0 0 1 0 
+Pickett @ p:	2 0 0 0 0 0
+*Plummer @ ph:	1 0 0 0 0 0
+TOTALS:		34 2 9 24 17 2
+
+Lima:		ab r h po a e
+Miller @ cf:	3 2 1 3 0 0
+Murray @ 2b:	4 0 0 5 4 0
+Matthews @ rf:	4 0 2 1 0 0
+McClelland @ ss:	4 0 1 2 2 0
+Maroney @ c:	4 0 1 4 2 0
+Walker @ 1b:	4 0 1 8 1 1
+Warden @ 3b:	4 1 0 2 1 0
+Reynolds @ lf:	3 1 1 0 0 1
+Bond @ p:	2 1 1 2 2 0
+TOTALS:		32 5 8 27 12 2
+
+*: batted for Pickett in 9th
+
+line: Akron: 0 0 0 0 0 0 2 0 0 - 2
+line: Lima:  0 0 0 0 0 1 4 0 x - 5
+
+B_LOB: Akron #8; Lima #5 
+B_ROE: Akron #2; Lima #3
+B_2B: Matthews; Walker; Maroney; Bond
+B_3B: Patton
+B_SB: Peak; Talbott 
+B_SH: Jaekel; Pickett
+B_HP: Bond; Miller
+P_BB: Bond #1
+P_SO: Pickett #4; Bond #3
+P_HP: Pickett #2
+T: 1:38
+U: Pastorious
+
+---
+
+date: 1915-07-01
+number: 0
+league: Buckeye
+away: Newark
+home: Findlay
+status: postponed
+status-reason: rain
+source: Lima Daily News, July 2, 1915
+
+---
+
+key: 1915/BUCK/19150702LIM0@LDN
+date: 1915-07-02
+number: 0
+league: Buckeye
+away: Akron
+home: Lima
+
+Akron:		ab r h po a e
+Byatt @ cf:	5 1 0 3 0 0
+Patton @ 3b:	3 1 1 0 3 1
+Jaekel @ 2b:	4 3 2 1 2 1
+Mundy @ 1b:	5 2 2 12 0 0
+Talbott @ c:	5 0 2 5 1 0
+Glennon @ lf:	5 0 2 1 0 0
+Peak @ ss:	5 2 2 3 4 1
+McKee @ rf-p:	5 0 1 2 0 0 
+Linne @ p:	2 0 0 0 1 0
+Pickett @ rf:	1 0 0 0 0 0
+TOTALS:		40 9 12 27 11 3
+
+Lima:		ab r h po a e
+Miller @ cf:	4 0 0 5 0 0 
+Murray @ 2b:	5 1 1 1 2 0
+Matthews @ rf:	4 1 1 0 0 0
+McClelland @ ss:	5 0 1 3 3 2
+Maroney @ c:	5 0 2 8 2 1
+Walker @ p:	3 3 1 0 0 1
+Warden @ 3b:	5 0 2 0 1 1
+Drum @ 1b:	3 0 0 7 1 4
+Reynolds @ lf:	3 1 2 3 0 1
+TOTALS:		37 6 10 27 9 10
+
+line: Akron: 3 0 0 0 2 1 1 1 1 - 9
+line: Lima:  0 1 0 0 2 1 0 1 1 - 6
+
+B_LOB: Akron #8; Lima #10
+B_ROE: Akron #4; Lima #3
+B_2B: Mundy; Peak; Talbott; Matthews
+B_3B: Jaekel; Walker; Warden
+B_SH: Patton; Walker; Miller
+B_SF: Reynolds
+B_HP: Linne; Patton
+P_BB: Linne #3; Walker #1
+P_SO: Linne #3; Walker #7; McKee #4
+P_IP: Linne #5.1; McKee #3.2 
+P_H: Linne #6; McKee #4
+P_WP: McKee
+P_HP: Walker #2
+T: 2:10
+U: Pastorious
+
+---
+
+date: 1915-07-02
+number: 1
+league: Buckeye
+away:  Newark 
+home: Findlay
+source: Lima Daily News, July 3, 1915
+
+Newark:		r h e
+Blubaugh @ p:	x x x
+Pearce @ c:	x x x
+TOTALS:		5 3 1
+
+Findlay:	r h e
+McCluskey @ p:	x x x
+Frech @ p:	x x x
+McGivern @ c:	x x x
+TOTALS:		8 12 1
+
+
+line: Newark:   0 0 0 0 0 1 0 0 4 - 5
+line: Findlay:  0 2 0 3 0 0 3 0 x - 8
+
+---
+
+date: 1915-07-02
+number: 2
+league: Buckeye
+away: Newark
+home: Findlay
+status: postponed
+status-reason: rain
+source: Lima Daily News, July 3, 1915
+note: played four innings with Newark leading, 2-0, before called
+
+---
+
+date: 1915-07-03
+number: 0
+league: Buckeye
+away: Akron
+home: Lima
+status: postponed
+status-reason: rain
+source: Lima Daily News, July 4, 1915
+
+---
+
+date: 1915-07-03
+number: 0
+league: Buckeye
+away: Newark
+home: Findlay
+status: postponed
+status-reason: rain
+source: Lima Daily News, July 4, 1915
+
+---
+
+date: 1915-07-04
+number: 0
+league: Buckeye
+away:  Akron
+home: Lima  
+source: Lima Daily News, July 6, 1915
+note: Game called after 7 innings due to rain
+
+Akron:		r h e
+McKee @ p:	x x x
+Talbott @ c:	x x x
+TOTALS:		4 8 1
+
+Lima:		r h e
+Reynolds @ p:	x x x
+Maroney @ c:	x x x
+TOTALS:		2 8 1
+
+line: Akron: 0 0 1 0 3 0 0 - 4
+line: Lima:  0 0 2 0 0 0 0 - 2
+
+U: Willett
+
+---
+
+date: 1915-07-05
+number: 1
+league: Buckeye
+away:  Akron
+home: Lima  
+source: Lima Daily News, July 6, 1915
+
+Akron:		r h e
+Linne @ p:	x x x
+Talbott @ c:	x x x
+TOTALS:		14 16 2
+
+Lima:		r h e
+Bond @ p:	x x x
+Maroney @ c:	x x x
+TOTALS:		6 13 4
+
+line: Akron: 3 1 3 0 2 0 5 0 0 - 14
+line: Lima:  0 0 0 0 1 0 0 0 5 - 6
+
+---
+
+date: 1915-07-05
+number: 2
+league: Buckeye
+away:  Akron
+home: Lima  
+source: Lima Daily News, July 6, 1915
+
+Akron:		r h e
+Pickett @ p:	x x x
+Glennon @ c:	x x x
+TOTALS:		4 9 4
+
+Lima:		r h e
+Walker @ p:	x x x
+Maroney @ c:	x x x
+TOTALS:		8 11 3
+
+line: Akron: 0 2 1 0 0 0 1 - 4
+line: Lima:  0 3 3 1 1 0 x - 8

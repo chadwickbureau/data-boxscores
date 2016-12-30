@@ -1,0 +1,426 @@
+date: 1915-05-19
+number: 0
+league: Buckeye
+away: Findlay
+home: Lima
+source: Lima Daily News, May 20, 1915
+A: 2200
+
+Findlay:	ab r h po a e
+Donaldson @ 2b-rf-p:	4 2 2 0 0 0
+Blue @ ss:	2 0 1 1 5 1
+Werner @ lf:	3 0 0 2 0 0
+Yockey @ 2b-p:	3 0 1 3 1 0
+Chapman @ 1b:	4 0 0 7 1 1
+Costello @ cf:	3 0 0 2 0 0
+McGuire @ 3b:	3 0 0 2 0 1
+McGivern @ c:	3 0 0 7 1 0 
+Hall @ p:	2 0 0 0 5 0
+Frech @ rf:	1 0 0 0 0 0
+TOTALS:		28 2 4 24 13 3
+
+Lima:		ab r h po a e
+Matthews @ rf:	3 1 1 2 0 0
+Murray @ 2b:	3 2 1 5 4 0
+Malloy @ cf:	6 1 1 0 0 0
+Schweitzer @ lf:	4 5 3 0 1 0
+McClelland @ 1b:	5 4 2 9 1 1
+Cronin @ ss:	6 2 3 4 1 0
+Warden @ 3b:	5 2 3 0 1 0
+Maroney @ c:	6 2 3 7 3 1
+Reynolds @ p:	5 0 2 0 2 0
+Walker @ p:	1 0 0 0 0 0
+TOTALS:		44 19 19 27 13 2
+
+line: Findlay: 0 0 0 1 0 0 0 1 0 - 2
+line: Lima:    1 2 1 6 4 3 0 2 x - 19
+
+B_LOB: Lima #11; Findlay #6
+B_ROE: Findlay #1; Lima #2
+B_2B: Matthews; Schweitzer; Yockey; Maroney; Cronin
+B_SB: Murray #2; Malloy; Cronin; Warden; Donaldson; Costello; McClelland
+B_SH: McClelland; Blue; Murray
+B_HP: Blue
+P_BB: Reynolds #2; Hall #6; Donaldson #2; Walker #2
+P_SO: Reynolds #8; Hall #4; Donaldson #2; Yockey #1
+P_IP: Hall #5; Donaldson #2; Yockey #1; Reynolds #8 
+P_H: Hall #14; Donaldson #3; Yockey #2; Reynolds #4
+P_HP: Reynolds
+P_WP: Reynolds
+F_DP: Donaldson, Blue, Chapman; Murray, McClelland
+T: 2:18
+U: Taylor
+
+---
+
+date: 1915-05-19
+number:0
+league: Buckeye
+away: Akron
+home: Canton 
+source: Lima Daily News, May 20, 1915
+
+Akron:		r h e
+Hook @ p:	x x x
+Talbot @ c:	x x x
+TOTALS:		3 7 4
+
+Canton:		r h e
+Barnhart @ p:	x x x
+McLaughlin @ p:	x x x
+Kirby @ c:	x x x
+TOTALS:		4 6 3
+
+line: Akron:  1 0 0 1 0 1 0 0 0 - 3
+line: Canton: 1 0 0 1 1 0 1 0 x - 4
+
+U: Pastorius
+
+---
+
+date: 1915-05-19
+number: 0
+league: Buckeye
+away: Marion
+home: Newark
+source: Lima Daily News, May 20, 1915
+	
+Marion:			r h e
+Hart @ p:		x x x
+Breymaier @ c:		x x x 
+TOTALS:			3 5 3
+
+Newark:			r h e
+Dillon @ p:		x x x
+Daugherty @ p:		x x x 
+Strawn @ c:		x x x 
+TOTALS:			1 6 0
+
+line: Marion: 0 0 0 0 0 0 0 3 0 - 3
+line: Newark: 0 0 1 0 0 0 0 0 x - 1
+
+---
+
+date: 1915-05-20
+number: 0
+league: Buckeye
+away: Akron
+home: Canton
+status: postponed
+status-reason: rain
+source: Lima Daily News, May 21, 1915
+
+---
+
+date: 1915-05-20
+number: 0
+league: Buckeye
+away: Findlay
+home: Lima
+status: postponed
+status-reason: rain
+source: Lima Daily News, May 21, 1915
+
+---
+
+date: 1915-05-20
+number: 0
+league: Buckeye
+away: Marion
+home: Newark
+status: postponed
+status-reason: rain
+source: Lima Daily News, May 21, 1915
+
+---
+
+date: 1915-05-21
+number: 0
+league: Buckeye
+away: Findlay 
+home: Lima
+source: Lima Daily News, May 22, 1915
+A: 300
+
+Findlay:	ab r h po a e
+Donaldson @ rf:	5 2 2 3 1 0
+Blue @ ss:	5 0 0 2 1 0
+Werner @ lf:	5 1 2 2 0 0
+Yockey @ 2b:	5 0 1 3 1 1
+Chapman @ 1b:	4 1 1 5 1 0
+Costello @ cf:	5 2 2 2 1 0
+Maguire @ 3b:	4 2 0 2 3 2
+McGivern @ c:	4 0 3 4 3 0
+Frech @ p:	1 0 1 0 0 0
+Schultz @ p:	3 1 1 0 2 0
+TOTALS:		41 9 13 23 13 3
+
+Lima:		ab r h po a e
+Matthews @ rf:	4 1 1 0 1 0
+Murray @ 2b:	5 2 4 2 5 0
+Malloy @ cf:	5 1 2 2 0 0
+Schweitzer @ lf:	2 3 0 2 1 0
+McClelland @ 1b:	3 1 1 10 1 0
+Cronin @ ss:	2 3 2 1 2 1
+Warden @ 3b:	4 0 1 0 0 2
+Maroney @ c:	4 1 1 10 1 0
+Clark @ p:	0 0 0 0 1 0
+Walker @ p:	3 0 0 0 3 0
+TOTALS:		32 12 12 27 15 3
+
+line: Findlay: 0 2 2 3 2 0 0 0 0 - 9
+line: Lima:    0 2 8 1 0 0 1 0 x - 12
+
+B_LOB: Findlay #7; Lima #4
+B_ROE: Lima #3; Findlay #3
+B_2B: Cronin #2; Maroney; Schultz
+B_3B: Malloy; Werner
+B_SB: Murray; Chapman; Matthews; McClelland; Maguire; Cronin; Werner
+B_SH: McClelland
+B_SF: Cronin
+P_BB: Frech #3; Schultz #3; Walker #2
+P_SO: Clark #1; Walker #5; Frech #1; Schultz #5
+P_IP: Frech #2; Schultz #6; Clark #2; Walker #7
+P_H: Frech #6; Schultz #6; Clark #3; Walker #10
+P_WP: Schultz
+F_DP: Costello, Yockey; Donaldson, Maguire, Yockey
+T: 2:15
+U: Taylor
+
+---
+
+date: 1915-05-21
+number: 0
+league: Buckeye
+away: Newark
+home: Marion 
+source: Lima Daily News, May 22, 1915
+A: 800
+	
+Newark:			r h e
+Dougherty @ p:		x x x
+Strawn @ c:		x x x
+TOTALS:			3 10 1
+
+Marion:			r h e
+Orndolf @ p:		x x x
+Breymaier @ c:		x x x
+TOTALS:			4 9 1
+
+line: Newark: 1 0 1 0 0 0 0 1 0 - 3
+line: Marion: 0 0 0 0 0 1 1 2 x - 4
+
+---
+
+date: 1915-05-21
+number:0
+league: Buckeye
+away: Canton
+home: Akron 
+source: Lima Daily News, May 22, 1915
+
+Canton:		r h e
+McLaughlin @ p:	x x x
+Wilhelm @ p:	x x x
+Kirby @ c:	x x x
+TOTALS:		4 7 2
+
+Akron:		r h e
+Kinne @ p:	x x x
+Talbott @ c:	x x x
+TOTALS:		3 5 1
+
+line: Canton: 0 0 0 0 1 1 1 0 1 - 4
+line: Akron:  0 0 1 0 0 1 0 0 1 - 3
+
+U: Pastorius
+
+---
+
+date: 1915-05-22
+number: 0
+league: Buckeye
+away: Lima 
+home: Findlay
+source: Lima Daily News, May 23, 1915
+A: 2000
+
+Lima:		ab r h po a e
+Matthews @ rf:	4 1 1 0 0 0
+Murray @ 2b:	4 1 0 1 2 1
+Malloy @ cf:	5 1 1 3 0 0
+Schweitzer @ lf:	2 2 1 0 0 0
+McClelland @ 1b:	3 0 0 8 0 0
+Cronin @ ss:	4 1 2 0 2 0
+Warden @ 3b:	4 0 1 2 0 1
+Maroney @ c:	4 1 1 10 2 0
+Reynolds @ p:	3 0 0 0 3 0
+TOTALS:		33 7 7 24 9 2
+
+Findlay:	ab r h po a e
+Donaldson @ rf:	3 2 1 1 0 0
+Blue @ ss:	2 1 1 2 3 2
+Werner @ lf:	2 1 0 0 0 0
+Yockey @ 2b:	4 1 1 2 3 0
+Chapman @ 1b:	4 2 2 10 0 0
+Costello @ cf:	3 1 1 3 0 0
+Maguire @ 3b:	3 0 1 2 0 0
+McGivern @ c:	4 0 1 7 1 0
+Richmond @ p:	2 0 0 0 4 0
+Schultz @ p:	2 0 0 1 0 0
+TOTALS:		29 8 8 27 11 2
+
+line: Lima:    0 1 2 0 2 2 0 0 0 - 7
+line: Findlay: 5 3 0 0 0 0 0 0 x - 8
+
+B_LOB: Findlay #4; Lima #5
+B_ROE: Lima #2
+B_ER: Lima #6; Findlay #8
+B_2B: Matthews; Maroney
+B_3B: Warden; Cronin; Chapman
+B_HR: Chapman
+B_SB: Donaldson; Maguire #3; Costello; McGivern
+B_SH: McClelland; Blue; Werner
+B_HP: Blue; Maguire; Schweitzer; Warden
+P_BB: Reynolds #2; Richmond #4
+P_SO: Reynolds #8; Richmond #2; Schultz #5
+P_HP: Reynolds #2; Richmond #2
+P_WP: Schultz
+F_DP: Blue, Chapman
+T: 2:00
+U: Taylor
+
+---
+
+date: 1915-05-22
+number: 0
+league: Buckeye
+away: Newark
+home: Marion 
+source: Lima Daily News, May 23, 1915
+	
+Newark:			r h e
+TOTALS:			1 x x 
+
+Marion:			r h e
+TOTALS:			6 x x 
+
+---
+
+date: 1915-05-22
+number:0
+league: Buckeye
+away: Canton
+home: Akron 
+source: Lima Daily News, May 23, 1915
+
+Canton:			r h e
+TOTALS:			3 x x 
+
+Akron:			r h e
+TOTALS:			4 x x
+
+---
+
+date: 1915-05-23
+number: 0
+league: Buckeye
+away: Akron
+home: Lima
+source: Lima Daily News, May 24, 1915
+A: 1300
+
+Akron:		ab r h po a e
+Long [if] @ 3b-p:	4 0 1 1 3 0
+Byatt @ cf:	5 1 0 1 0 0
+Jaekel @ lf:	4 1 1 2 0 0
+Glennon @ 1b:	4 0 0 8 0 1
+Clark [Akr] @ 2b:	4 0 1 2 3 1
+Talbott @ c-rf:	4 0 0 5 1 0
+Fields @ rf-c:	4 0 1 0 0 0
+Newnham @ ss:	4 0 1 4 4 1
+McKee @ p:	2 1 1 0 0 0
+Huck @ 3b:	2 1 1 1 1 0
+TOTALS:		37 4 7 24 12 3
+
+Lima:		ab r h po a e
+Matthews @ rf:	4 3 2 3 0 0
+Murray @ 2b:	4 2 2 2 6 0
+Malloy @ cf:	6 3 4 1 0 0
+Schweitzer @ lf:	4 2 1 3 0 0
+McClelland @ 1b:	6 3 4 13 0 1
+Cronin @ ss:	5 3 3 1 2 4
+Warden @ 3b:	5 2 3 0 2 0
+Maroney @ c:	5 1 2 3 1 0
+Clark [Lim] @ p:	5 1 1 1 1 1
+Bond @ p:	1 0 1 0 0 0
+TOTALS:		45 20 23 27 12 6
+
+line: Akron: 0 0 0 0 1 0 0 2 1 - 4
+line: Lima:  0 6 0 3 1 0 7 3 x - 20
+
+B_LOB: Lima #11; Akron #7
+B_ROE: Akron #5; Lima #3
+B_2B: Maroney #2; Matthews; Malloy; McClelland
+B_3B: McKee; Cronin; Huck
+B_SB: Malloy; Cronin #2; McClelland #2; Schweitzer
+B_SH: Murray #2
+B_SF: Maroney; Long [if]
+B_HP: Matthews
+P_BB: McKee #4; Long [if] #2
+P_SO: McKee #4; Clark [Lim] #3
+P_IP: McKee #5; Long [if] #3; Clark [Lim] #8; Bond #1
+P_H: McKee #13; Long [if] #10; Clark [Lim] #6; Bond #1
+P_HP: Long [if]
+F_PB: Fields
+F_DP: Newnham, Glennon; Newnham, Clark [Akr]; Cronin, Murray, McClelland
+T: 2:17
+U: Peterman
+
+---
+
+date: 1915-05-23
+number: 0
+league: Buckeye
+away: Findlay
+home: Newark 
+source: Lima Daily News, May 24, 1915
+	
+Findlay:	r h e
+McClosky @ p:	x x x
+McGivern @ c:	x x x
+TOTALS:		7 10 2 
+
+Newark:		r h e
+Weitel @ p:	x x x
+Dillon @ p:	x x x
+Strawn @ c:	x x x
+TOTALS:		1 4 2 
+
+line: Findlay: 6 1 0 0 0 0 0 0 0 - 7
+line: Newark:  1 0 0 0 0 0 0 0 0 - 7
+
+---
+
+date: 1915-05-23
+number: 0
+league: Buckeye
+away: Marion
+home: Canton 
+source: Lima Daily News, May 24, 1915
+
+Marion:		r h e
+Leake @ p:	x x x
+Breymaier @ c:	x x x
+TOTALS:		16 15 3
+
+Canton:		r h e
+Barnhart @ p:	x x x
+McLaughlin @ p:	x x x
+Kirby @ c:	x x x
+TOTALS:		7 10 4
+
+
+line: Marion: 0 1 5 2 4 0 1 0 3 - 16
+line: Canton: 2 0 0 1 0 0 0 4 0 - 7
+

@@ -1,0 +1,530 @@
+date: 1915-05-19
+number:0
+league: Buckeye
+away: Akron
+home: Canton 
+source: Canton Evening Repository, May 20, 1915
+A: 400
+
+Akron:		ab r h po a e
+Long [if] @ 2b:	4 1 1 0 4 2
+Byatt @ cf:	5 0 0 0 0 1
+Jaekel @ lf:	5 0 2 0 1 0
+Glennon @ 1b:	4 0 1 10 1 0
+Myers @ 3b:	4 1 1 1 1 1
+Talbott @ c:	3 1 1 5 0 0
+Fields @ rf:	3 0 1 3 0 0
+Newnham @ ss:	3 0 0 2 4 0
+Hook @ p:	4 0 0 3 4 0
+TOTALS:		33 3 7 24 15 4
+
+Canton:		ab r h po a e
+Patton @ 3b:	0 3 0 2 3 0
+Prout @ 2b:	3 0 0 3 4 0
+Curtis @ cf:	3 0 0 1 0 1
+Munday @ 1b:	4 1 3 9 0 0
+Day @ lf:	3 0 0 2 1 0
+Allison @ rf:	4 0 0 1 0 2
+Johnson @ ss:	4 0 1 3 2 1
+Kirby @ c:	4 0 1 6 0 0
+Barnhart @ p:	2 0 1 0 4 0
+McLaughlin @ p:	2 0 0 0 0 0
+TOTALS:		29 4 6 27 14 4
+
+
+line: Akron:  1 0 0 1 0 1 0 0 0 - 3
+line: Canton: 1 0 0 1 1 0 1 0 x - 4
+
+B_LOB: Canton #8; Akron #11
+B_2B: Johnson; Munday
+B_3B: Kirby
+B_SB: Long [if]; Glennon; Myers
+B_SH: Fields; Patton; Day; Prout
+P_BB: Barnhart #3; McLaughlin #2; Hook #4
+P_SO: Barnhart #1; McLaughlin #4; Hook #2
+P_IP: Barnhart #6; McLaughlin #3
+P_H: Barnhart #5; McLaughlin #2
+P_WP: Barnhart #3
+F_PB: Kirby
+F_DP: Patton, Prout, Munday
+U: Pastorius
+
+---
+
+date: 1915-05-19
+number: 0
+league: Buckeye
+away: Findlay
+home: Lima
+source: Canton Evening Repository, May 20, 1915
+
+Findlay:		r h e
+TOTALS:			2 x x
+
+Lima:			r h e
+TOTALS:			10 x x 
+
+---
+
+date: 1915-05-19
+number: 0
+league: Buckeye
+away: Marion
+home: Newark
+source: Canton Evening Repository, May 20, 1915
+	
+Marion:			r h e
+TOTALS:			3 x x 
+
+Newark:			r h e
+TOTALS:			1 x x 
+
+---
+
+date: 1915-05-20
+number: 0
+league: Buckeye
+away: Akron
+home: Canton
+status: postponed
+status-reason: rain
+source: Canton Evening Repository, May 21, 1915
+
+---
+
+date: 1915-05-20
+number: 0
+league: Buckeye
+away: Findlay
+home: Lima
+status: postponed
+status-reason: rain
+source: Canton Evening Repository, May 21, 1915
+
+---
+
+date: 1915-05-20
+number: 0
+league: Buckeye
+away: Marion
+home: Newark
+status: postponed
+status-reason: rain
+source: Canton Evening Repository, May 21, 1915
+
+---
+
+date: 1915-05-21
+number:0
+league: Buckeye
+away: Canton
+home: Akron 
+source: Canton Evening Repository, May 22, 1915
+A: 1000
+
+Canton:		ab r h po a e
+Patton @ 3b:	3 1 0 3 0 0
+Prout @ 2b:	4 1 1 1 1 0
+Curtis @ cf:	4 0 2 2 0 0
+Munday @ 1b:	5 0 0 10 0 0
+Day @ lf:	2 1 1 0 0 0
+Allison @ rf:	2 0 0 2 0 0
+Johnson @ ss:	4 0 0 0 7 1
+Kirby @ c:	3 0 0 9 1 0
+Wilhelm @ p:	3 1 2 0 0 0
+McLaughlin @ p:	1 0 0 0 0 0
+TOTALS:		31 4 6 27 9 1
+
+Akron:		ab r h po a e
+Long [if] @ 2b:	5 1 1 3 3 0
+Byatt @ cf:	4 0 0 2 0 0
+Jaekel @ lf:	3 0 0 2 0 0
+Glennon @ 1b:	3 0 0 7 0 0
+Myers @ 3b:	4 0 1 1 0 1
+Talbott @ c:	4 1 2 12 2 0
+Fields @ rf:	4 0 0 0 0 0
+Newnham @ ss:	4 0 1 0 2 0
+Linne @p:	2 0 0 0 1 0
+Hook @ ph:	1 0 0 0 0 0
+TOTALS:		34 3 5 27 8 1
+
+line: Canton: 0 0 0 0 1 1 1 0 1 - 4
+line: Akron:  0 0 1 0 0 1 0 0 1 - 3
+
+B_LOB: Akron #8; Canton #9
+B_2B: Talbott; Day
+B_HR: Long [if]; Talbott
+B_SB: Byatt; Jaekel #2; Day; Wilhelm; Patton
+B_SH: Allison
+B_HP: Glennon
+P_HP: Wilhelm
+P_BB: Linne #6; Wilhelm #8
+P_SO: Linne #10; Wilhelm #7; McLaughlin #1
+P_IP: Wilhelm #7; McLaughlin #2
+P_H: Wilhelm #4; McLaughlin #1
+P_R: Wilhelm #2; McLaughlin #1
+F_PB: Kirby #2
+U: Pastorius
+
+---
+
+date: 1915-05-21
+number: 0
+league: Buckeye
+away: Findlay
+home: Lima
+source: Canton Evening Repository, May 22, 1915
+
+Lima:			r h e
+TOTALS:			12 x x 
+
+
+Findlay:		r h e
+TOTALS:			9 x x
+
+---
+
+date: 1915-05-21
+number: 0
+league: Buckeye
+away: Newark
+home: Marion 
+source: Canton Evening Repository, May 22, 1915
+	
+Newark:			r h e
+TOTALS:			3 x x 
+
+Marion:			r h e
+TOTALS:			4 x x 
+
+---
+
+date: 1915-05-22
+number:0
+league: Buckeye
+away: Canton
+home: Akron 
+source: Canton Evening Repository, May 23, 1915
+
+Canton:		ab r h po a e
+Patton @ 3b:	3 1 0 1 2 0
+Prout @ 2b:	4 0 0 2 2 1
+Curtis @ cf:	4 1 2 2 0 0
+Munday @ 1b:	4 0 1 11 0 0
+Day @ lf:	4 1 1 2 0 0
+Allison @ rf:	3 0 1 1 0 1
+Johnson @ ss:	4 0 1 0 2 0
+Kirby @ c:	4 0 1 5 2 0
+Samuels @ p:	2 0 0 0 2 0
+*Wilhelm @ ph:	1 0 0 0 0 0
+TOTALS:		32 3 7 24 10 2
+
+Akron:		ab r h po a e
+Long [if] @ 3b:	4 0 0 0 1 1
+Byatt @ cf:	3 2 1 3 0 0
+Jaekel @ lf:	3 0 0 5 0 0
+Glennon @ 1b:	4 1 2 9 0 0
+Clark @ 2b:	3 0 1 1 3 0
+Talbott @ c:	2 1 0 7 1 0
+Fields @ rf:	3 0 0 0 0 0
+Newnham @ ss:	3 0 0 1 0 1
+Hook @ p:	3 0 0 0 3 0
+TOTALS:		28 4 4 27 8 2
+
+*: Batted for Samuels in 9th
+
+line: Canton: 0 1 0 2 0 0 0 0 0 - 3
+line: Akron:  2 0 1 1 0 0 0 0 0 - 4
+
+B_LOB: 
+B_2B: Day
+B_3B: Munday
+B_HR: Glennon
+B_SB: Byatt; Glennon; Talbott #2
+B_SH: Allison; Samuels
+P_BB: Hook #1; Samuels #1
+P_SO: Hook #5; Samuels #2
+U: Pastorius
+
+---
+
+date: 1915-05-22
+number: 0
+league: Buckeye
+away: Lima 
+home: Findlay
+source: Canton Evening Repository, May 23, 1915
+
+Lima:			r h e
+TOTALS:			7 x x 
+
+
+Findlay:		r h e
+TOTALS:			8 x x
+
+---
+
+date: 1915-05-22
+number: 0
+league: Buckeye
+away: Newark
+home: Marion 
+source: Canton Evening Repository, May 23, 1915
+	
+Newark:			r h e
+TOTALS:			2 x x 
+
+Marion:			r h e
+TOTALS:			6 x x 
+
+---
+
+date: 1915-05-23
+number: 0
+league: Buckeye
+away: Marion
+home: Canton 
+source: Canton Evening Repository, May 24, 1915
+
+Marion:		ab r h po a e
+McGonigle @ 2b:	4 4 2 2 2 0
+Wetzel @ 3b:	3 1 2 2 2 0
+Thoma @ cf:	5 2 3 6 0 0
+Bonnin @ rf:	4 2 2 0 0 0
+Neer @ 1b:	5 3 3 8 1 0
+Price @ lf:	6 1 1 0 0 0
+Judge @ ss:	5 1 2 1 2 3
+Breymyer @ c:	5 1 0 7 1 0
+Leak @ p:	5 1 1 1 2 0
+TOTALS:		43 16 16 27 11 3
+
+Canton:		ab r h po a e
+Patton @ 3b:	4 0 2 1 5 1
+Prout @ 2b:	3 1 0 2 6 1
+Curtis @ cf:	3 1 1 2 0 0
+Munday @ 1b:	4 1 1 18 0 0
+Day @ lf:	5 1 2 4 0 0
+Allison @ rf:	5 1 2 0 0 0
+Johnson @ ss:	5 1 2 0 3 1
+Kirby @ c:	5 1 0 0 0 0
+Barnhart @ p:	1 0 0 0 1 0
+McLaughlin @ p:	3 0 0 0 2 0
+TOTALS:		38 7 10 27 11 3
+
+
+line: Marion: 0 1 5 2 4 0 1 0 3 - 16
+line: Canton: 2 0 0 1 0 0 0 4 0 - 7
+
+B_LOB: Canton #9; Marion #6
+B_2B: Bonnin #2; Leak; Thoma; Johnson
+B_3B: Johnson
+B_HR: Neer
+B_SB: McGonigle; Prout; Curtis; Day
+B_SH: Wetzel #2
+B_SF: Thoma
+P_BB:Barnhart #1; McLaughlin #4; Leak #6 
+P_SO: Leak #7
+P_IP: Barnhart #2.1
+P_H: Barnhart #6; McLaughlin #10
+P_WP: Barnhart #1
+F_DP: Wetzel, McGonigle; Neer, McGonigle, Neer 
+U: Pastorius
+
+---
+
+date: 1915-05-23
+number: 0
+league: Buckeye
+away: Akron
+home: Lima
+source: Canton Evening Repository, May 24, 1915
+A: 2000
+
+Akron:		r h e
+McGee @ p:	x x x
+Long [p] @ p:	x x x
+Talbott @ c:	x x x
+TOTALS:		4 8 5
+
+Lima:		r h e
+Clarke @ p:	x x x
+Bond @ p:	x x x
+Maroney @ c:	x x x
+TOTALS:		20 22 5
+
+line: Akron: 0 0 0 0 1 0 0 2 1 - 4
+line: Lima:  0 6 0 3 1 0 7 3 x - 20
+
+---
+
+date: 1915-05-23
+number: 0
+league: Buckeye
+away: Findlay
+home: Newark 
+source: Canton Evening Repository, May 24, 1915
+	
+Findlay:	r h e
+McCloskey @ p:	x x x
+McGiven @ c:	x x x
+TOTALS:		7 10 2 
+
+Newark:		r h e
+Weitel @ p:	x x x
+Dillon @ p:	x x x
+Strawn @ c:	x x x
+TOTALS:		1 4 2 
+
+line: Findlay: 6 1 0 0 0 0 0 0 0 - 7
+line: Newark:  1 0 0 0 0 0 0 0 0 - 7
+
+---
+
+date: 1915-05-24
+number: 0
+league: Buckeye
+away: Marion
+home: Canton
+status: postponed
+status-reason: rain
+source: Canton Evening Repository, May 25, 1915
+
+---
+
+date: 1915-05-24
+number: 0
+league: Buckeye
+away: Akron
+home: Lima
+source: Canton Evening Repository, May 25, 1915
+
+
+Akron:		r h e
+Baird @ p:	x x x
+Linne @ p:	x x x
+Talbot @ c:	x x x
+TOTALS:		4 6 0
+
+Lima:		r h e
+Walker @ p:	x x x
+Maroney @ c:	x x x
+TOTALS:		6 13 1
+
+line: Akron: 0 0 4 0 0 0 0 0 0 - 4
+line: Lima:  4 0 0 2 0 0 0 0 x - 6
+
+---
+
+date: 1915-05-24
+number: 0
+league: Buckeye
+away: Findlay
+home: Newark 
+source: Canton Evening Repository, May 25, 1915
+	
+Findlay:	r h e
+Frech @ p:	x x x
+McGiven @ c:	x x x
+TOTALS:		1 5 1
+
+Newark:		r h e
+Dougherty @ p:	x x x
+Blanchard @ c:	x x x
+TOTALS:		4 10 0 
+
+line: Findlay: 0 0 0 1 0 0 0 0 0 - 1
+line: Newark:  1 0 0 3 0 0 0 0 x - 4
+
+---
+
+date: 1915-05-25
+number: 0
+league: Buckeye
+away: Canton 
+home: Marion 
+source: Canton Evening Repository, May 26, 1915
+
+Canton:		ab r h po a e
+Patton @ 3b:	3 0 0 1 1 0
+Prout @ 2b:	4 0 1 3 3 0
+Curtis @ cf:	4 0 1 0 0 0
+Mundy @ 1b:	2 0 1 9 0 0
+Smith @ cf:	3 0 0 5 0 0
+Day @ lf:	4 0 1 1 0 0
+Johnson @ ss:	4 0 1 2 3 0
+Kirby @ c:	3 0 0 3 3 1
+Samuels @ p:	3 0 0 0 2 1
+TOTALS:		30 0 5 24 12 2
+
+Marion:		ab r h po a e
+McGonigel @ 2b:	2 2 1 3 4 1
+Wetzel @ 3b:	2 1 1 0 2 0
+Thoma @ cf:	4 2 3 4 0 0
+Bonnin @ rf:	4 0 1 0 0 0
+Neer @ 1b:	2 0 0 11 0 0
+Price @ lf:	4 0 0 1 0 0
+Judge @ ss:	4 0 2 1 2 0
+Breymeyer @ c:	4 0 0 7 3 0
+Hart @ p:	2 1 0 0 3 0
+TOTALS:		28 6 8 27 14 1
+
+line: Canton: 0 0 0 0 0 0 0 0 0 - 0
+line: Marion: 0 0 3 0 0 0 3 0 x - 6
+
+B_LOB: Canton #8; Marion #7
+B_2B: Thoma; McGonigel; Mundy
+B_3B: Thoma
+B_SB: Bonnin; Neer
+P_BB: Hart #4; Samuels #5
+P_SO: Hart #5; Samuels #3
+F_DP:  Prout, Mundy; Judge, McGonigel, Neer
+T: 1:30
+U: Taylor
+
+---
+
+date: 1915-05-25
+number: 0
+league: Buckeye
+away: Newark
+home: Lima
+source: Canton Evening Repository, May 26, 1915
+
+
+Newark:		r h e
+Drake @ p:	x x x
+Banchard @ c:	x x x
+TOTALS:		2 3 2
+
+Lima:		r h e
+Reynolds @ p:	x x x
+Mardney @ c:	x x x
+TOTALS:		4 4 2
+
+line: Newark: 0 0 0 0 0 2 0 0 0 - 2
+line: Lima:   2 0 0 0 0 2 0 0 x - 4
+
+---
+
+date: 1915-05-25
+number: 0
+league: Buckeye
+away: Akron
+home: Findlay
+source: Canton Evening Repository, May 26, 1915
+note: Called after five innings because of rain
+
+Akron:		r h e
+Hook @ p:	x x x
+Talbot @ c:	x x x
+TOTALS:		3 4 0
+
+Findlay:	r h e
+Schultz @ p:	x x x
+McGivern @ c:	x x x
+TOTALS:		2 5 1
+
+line: Akron:   2 0 1 0 0 - 3
+line: Findlay: 1 0 1 0 0 - 2
+
+
