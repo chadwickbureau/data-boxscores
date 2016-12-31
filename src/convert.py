@@ -4,6 +4,7 @@ import uuid
 
 import pandas as pd
 
+import fuzzy
 
 class Game(object):
     _subskeys = [ "*", "+", "^" ]
@@ -190,7 +191,7 @@ class Game(object):
         return self
 
 
-def games(fn):
+def iterate_games(fn):
     """Return an iterator over the text of each individual game
     in file `fn'. All extra whitespace is removed within and at the end of
     lines, and lines which are whitespace only are dropped, creating a
@@ -200,11 +201,7 @@ def games(fn):
                        ("\n".join(filter(lambda x: x != "",
                                          [ ' '.join(x.strip().split()) for x in open(fn).readlines() ]))).split("---\n")))
 
-def process_files(source):
-    fnlist = glob.glob("transcript/%s/boxes/*.txt" % source)
-    gamelist = [ Game.fromtext(g, fn)
-                 for fn in fnlist for g in games(fn) ]
-
+def compile_playing(source, gamelist):
     df = pd.concat([ pd.DataFrame(g.playing.values()) for g in gamelist ],
                    ignore_index=True)
     del df['name.full']
@@ -230,8 +227,11 @@ def process_files(source):
         os.makedirs("processed/%s" % source)
     except os.error:
         pass
-    df[columns].to_csv("processed/%s/playing.csv" % source, index=False)
+    df = df[columns].copy()
+    df.to_csv("processed/%s/playing.csv" % source, index=False)
+    return df
 
+def compile_games(source, gamelist):
     df = pd.DataFrame([ g.metadata for g in gamelist ])
     df.sort_values([ 'date', 'league', 'home', 'number' ], inplace=True)
     df.rename(inplace=True,
@@ -257,13 +257,72 @@ def process_files(source):
     for col in df:
         if col not in columns:
             print "WARNING: unexpected column %s in games" % col
-        
-    df[columns].to_csv("processed/%s/games.csv" % source, index=False)
-                                  
+    df = df[columns].copy()
+    df.to_csv("processed/%s/games.csv" % source, index=False)
+    return df
+
+def compile_umpiring(source, gamelist):
     df = pd.concat([ pd.DataFrame(g.umpiring) for g in gamelist ],
                    ignore_index=True)
     columns = [ 'game.key', 'game.date', 'game.number', 'name.full' ]
-    df[columns].to_csv("processed/%s/umpiring.csv" % source, index=False)
+    df = df[columns].copy()
+    df.to_csv("processed/%s/umpiring.csv" % source, index=False)
+    return df
+
+def compile_people(source, playing, games):
+    playing = pd.merge(playing, games[[ 'key', 'league' ]],
+                       left_on='game.key', right_on='key')
+    playing['league'] = playing['league'].apply(lambda x: x + " League" if "League" not in x and "Association" not in x else x)
+    playing['year'] = playing['game.date'].str.split("-").str[0]
+    playing['B_G'] = 1
+    for pos in [ 'p', 'c', '1b', '2b', '3b', 'ss', 'lf', 'cf', 'rf' ]:
+        playing['F_%s_G' % pos.upper()] = playing['pos'].apply(lambda x: (1 if pos in x.split("-") else 0) if not pd.isnull(x) else 0)
+    playing['F_OF_G'] = playing['F_LF_G'] | playing['F_CF_G'] | \
+                        playing['F_RF_G']
+    playing['P_G'] = playing['F_P_G']
+    playing['name.first'] = playing['name.first'].fillna("")
+    playing = playing[playing['name.last']!="TOTALS"]
+    grouper = playing.groupby([ 'year', 'league',
+                                'name.last', 'name.first', 'club.name' ])
+    df = grouper.sum()
+    df = pd.merge(df, grouper[[ 'game.date' ]].min().rename(columns={ 'game.date': 'S_FIRST' }),
+                  left_index=True, right_index=True)
+    df = pd.merge(df, grouper[[ 'game.date' ]].max().rename(columns={ 'game.date': 'S_LAST' }),
+                  left_index=True, right_index=True)
+    df.reset_index(inplace=True)
+
+    df['metaphone'] = df['name.last'].apply(lambda x: fuzzy.DMetaphone()(x.split("[")[0])[0].ljust(4, 'Z'))
+    df['metaseq'] = df.groupby([ 'year', 'league', 'metaphone' ]).cumcount() + 1
+    df['metacount'] = df.groupby([ 'year', 'league', 'metaphone' ])['metaseq'].transform('count')
+    df['person.ref'] = df.apply(lambda x: "%s%02d%02d" %
+                                  (x.metaphone, x.metaseq, x.metacount),
+                                  axis=1)
+    df.rename(inplace=True,
+              columns={ 'name.last':  'person.name.last',
+                        'name.first': 'person.name.given',
+                        'club.name':  'entry.name',
+                        'year':       'league.year',
+                        'league':     'league.name' })
+    df = df[[ 'league.year', 'league.name', 'person.ref',
+              'person.name.last', 'person.name.given', 'entry.name',
+              'S_FIRST', 'S_LAST', 'B_G', 'P_G',
+              'F_1B_G', 'F_2B_G', 'F_3B_G', 'F_SS_G',
+              'F_OF_G', 'F_LF_G', 'F_CF_G', 'F_RF_G',
+              'F_C_G', 'F_P_G' ]]
+    df.to_csv("processed/%s/people.csv" % source, index=False,
+              float_format='%d')
+
+    
+def process_files(source):
+    fnlist = glob.glob("transcript/%s/boxes/*.txt" % source)
+    gamelist = [ Game.fromtext(g, fn)
+                 for fn in fnlist for g in iterate_games(fn) ]
+    playing = compile_playing(source, gamelist)
+    games = compile_games(source, gamelist)
+    umpiring = compile_umpiring(source, gamelist)
+
+    compile_people(source, playing, games)
+                                  
                                   
                                       
 if __name__ == '__main__':
