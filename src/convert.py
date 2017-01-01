@@ -63,7 +63,13 @@ class Game(object):
     def _parse_details(self, key, value):
         for entry in map(lambda x: x.strip(), value.split(";")):
             if "#" in entry:
-                name, count = map(lambda x: x.strip(), entry.split("#"))
+                try:
+                    name, count = map(lambda x: x.strip(), entry.split("#"))
+                except ValueError:
+                    print "In file %s,\n   game %s" % (self.metadata['filename'], self)
+                    print "  Ill-formed details string '%s'" % entry
+                    return
+                    
             else:
                 name, count = entry, "1"
             try:
