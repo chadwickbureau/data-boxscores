@@ -77,11 +77,11 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1915,North Carolina State League,FRMR0101,Farmer,,Raleigh,1915-04-22,1915-05-25,27,0,0,0,0,0,27,0,17,10,0,0
 1915,North Carolina State League,FNTN0101,Fenton,,Asheville,1915-04-22,1915-09-08,103,0,0,0,0,0,102,0,102,0,0,0
 1915,North Carolina State League,FRPZ0101,Ferabee,,Winston-Salem,1915-05-13,1915-05-13,1,1,0,0,0,0,0,0,0,0,0,1
-1915,North Carolina State League,FRSZ0101,Ferris,,Asheville,1915-04-22,1915-09-06,41,40,0,0,0,0,0,0,0,0,0,40
+1915,North Carolina State League,FRSZ0101,Ferris,,Asheville,1915-04-22,1915-09-06,42,41,0,0,0,0,0,0,0,0,0,41
 1915,North Carolina State League,FXRZ0101,Fisher,,Winston-Salem,1915-05-04,1915-05-05,2,0,0,0,0,0,2,2,0,0,0,0
 1915,North Carolina State League,FLZZ0101,Foley,,Winston-Salem,1915-05-08,1915-05-08,1,1,0,0,0,0,0,0,0,0,0,1
 1915,North Carolina State League,FRPS0101,Forbes,,Durham,1915-04-23,1915-09-07,31,29,0,0,0,0,0,0,0,0,0,29
-1915,North Carolina State League,FRTN0101,Fortune,,Asheville,1915-04-24,1915-09-08,44,39,0,0,0,0,1,0,0,1,0,39
+1915,North Carolina State League,FRTN0101,Fortune,,Asheville,1915-04-24,1915-09-08,43,38,0,0,0,0,1,0,0,1,0,38
 1915,North Carolina State League,FRZZ0101,Frey,,Durham,1915-04-26,1915-09-08,46,41,0,0,0,0,1,1,0,0,0,41
 1915,North Carolina State League,KSNL0102,Gasnell,,Greensboro,1915-04-22,1915-05-08,13,0,0,0,0,0,13,13,0,0,0,0
 1915,North Carolina State League,KSJZ0102,Gassage,,Charlotte,1915-05-24,1915-05-24,1,1,0,0,0,0,0,0,0,0,0,1
@@ -157,7 +157,7 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1915,North Carolina State League,LXFL0101,Litchfield,,Durham,1915-04-22,1915-05-10,14,0,0,0,0,0,14,13,0,1,0,0
 1915,North Carolina State League,LKRP0102,Lockerbie,,Charlotte,1915-04-24,1915-04-24,1,0,0,0,0,0,0,0,0,0,1,0
 1915,North Carolina State League,LKRP0202,Lockerbie,,Durham,1915-08-25,1915-08-28,3,0,0,0,0,0,3,3,0,0,0,0
-1915,North Carolina State League,LZZZ0102,Lowe,,Asheville,1915-08-17,1915-08-27,3,3,0,0,0,0,0,0,0,0,0,3
+1915,North Carolina State League,LZZZ0102,Lowe,,Asheville,1915-08-17,1915-08-31,4,4,0,0,0,0,0,0,0,0,0,4
 1915,North Carolina State League,LZZZ0202,Lowe,,Charlotte,1915-05-10,1915-08-02,22,21,0,0,0,0,0,0,0,0,0,21
 1915,North Carolina State League,LLZZ0202,Lyle,,Winston-Salem,1915-06-16,1915-06-17,2,0,1,0,0,0,0,0,0,0,0,0
 1915,North Carolina State League,LNXZ0101,Lynch,,Winston-Salem,1915-05-11,1915-05-11,1,0,0,0,0,0,1,0,0,1,0,0
