@@ -126,8 +126,14 @@ class Game(object):
         columns = None
         seq = None
         for line in filter(lambda x: x.strip() != "", gametext.split("\n")):
-            key, value = map(lambda x: x.strip(), line.split(":", 1))
-
+            try:
+                key, value = map(lambda x: x.strip(), line.split(":", 1))
+            except ValueError:
+                print "In file %s,\n   game %s" % (self.metadata['filename'], self)
+                print "  Invalid key-value pair '%s'" % line
+                continue
+                
+                
             if clubname is not None:
                 playing = self._parse_playing_value(key, value, clubname, columns)
                 playing['game.key'] = self.metadata["key"]
