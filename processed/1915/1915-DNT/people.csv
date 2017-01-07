@@ -1,0 +1,347 @@
+league.year,league.name,person.ref,person.name.last,person.name.given,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G
+1915,Northern League,ATMS0101,Adams,,St. Boniface,1915-05-10,1915-08-26,29,1,28,0,0,0,0,0,0,0,0,1
+1915,Northern League,AKNZ0101,Agnew,,Virginia,1915-05-10,1915-09-03,111,0,0,1,0,0,5,2,0,3,104,0
+1915,Northern League,ALMN0101,Allman,,Duluth,1915-08-01,1915-08-01,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Northern League,ALTM0102,Altman,,Duluth,1915-07-01,1915-09-06,69,0,0,0,0,0,69,69,0,0,0,0
+1915,Northern League,ALTM0202,Altman,,Grand Forks,1915-05-18,1915-06-28,11,0,0,0,0,0,11,11,0,0,0,0
+1915,Northern League,ANTR0102,Anderson,,Duluth,1915-05-16,1915-08-24,2,1,0,0,1,0,1,0,0,1,0,1
+1915,Northern League,ANTR0202,Anderson,,Grand Forks,1915-05-18,1915-07-05,14,0,0,0,14,0,0,0,0,0,0,0
+1915,Northern League,PKNT0101,Bachant,,Winnipeg,1915-06-29,1915-08-19,15,0,0,0,0,0,0,0,0,0,12,0
+1915,Northern League,PKRT0101,Bachart,,Winnipeg,1915-08-09,1915-08-09,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Northern League,PKRZ0102,Baker,,Duluth,1915-08-07,1915-09-06,35,0,0,7,18,12,0,0,0,0,0,0
+1915,Northern League,PKRZ0202,Baker,,Winnipeg,1915-05-31,1915-08-06,35,0,0,33,0,0,0,0,0,0,0,0
+1915,Northern League,PRTF0103,Bardoff,,Grand Forks,1915-06-28,1915-06-28,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,PRTZ0102,Barret,,Fargo-Moorhead,1915-06-01,1915-06-01,1,0,0,0,0,0,1,0,1,0,0,0
+1915,Northern League,PRTZ0202,Barrett,,Fargo-Moorhead,1915-05-14,1915-09-06,44,0,0,0,0,0,44,32,8,4,0,0
+1915,Northern League,PRTF0203,Bartoff,,Grand Forks,1915-06-02,1915-07-05,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Northern League,PRTS0101,Bartos,,Grand Forks,1915-06-09,1915-06-09,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,PSZZ0102,Bassey,,Duluth,1915-06-21,1915-07-05,16,0,0,0,0,0,16,0,15,1,0,0
+1915,Northern League,PSZZ0202,Bassey,,Superior,1915-05-22,1915-06-15,21,0,0,0,0,0,21,0,21,0,0,0
+1915,Northern League,PLZZ0103,Bell,,Fargo-Moorhead,1915-05-09,1915-09-06,52,36,10,0,0,0,6,1,2,3,0,36
+1915,Northern League,PMSZ0102,Bemis,,Virginia,1915-07-20,1915-08-10,25,0,0,0,0,0,25,0,10,15,0,0
+1915,Northern League,PMSZ0202,Bemis,,Winnipeg,1915-05-31,1915-07-08,19,0,0,0,0,0,19,0,19,0,0,0
+1915,Northern League,PNTN0102,Benton,,Superior,1915-05-25,1915-07-05,11,11,0,0,0,0,0,0,0,0,0,11
+1915,Northern League,PNTN0202,Benton,,Winnipeg,1915-07-11,1915-09-01,13,13,0,0,0,0,0,0,0,0,0,13
+1915,Northern League,PRKR0102,Berger,,Superior,1915-05-11,1915-07-05,38,0,4,6,0,0,0,0,0,0,28,0
+1915,Northern League,PRKR0202,Berger,,Winnipeg,1915-07-09,1915-09-06,55,1,1,0,0,0,0,0,0,0,53,1
+1915,Northern League,PRKL0111,Bergwald,,Duluth,1915-07-20,1915-08-06,7,0,0,0,7,0,0,0,0,0,0,0
+1915,Northern League,PRKL0211,Bergwald,,Superior,1915-06-06,1915-07-05,5,0,0,0,5,0,0,0,0,0,0,0
+1915,Northern League,PRKL0311,Bergwald,Ted,Duluth,1915-07-30,1915-08-05,8,0,0,0,0,8,0,0,0,0,0,0
+1915,Northern League,PRKL0411,Bergwald,Tony,Duluth,1915-07-30,1915-08-05,9,0,0,0,9,0,0,0,0,0,0,0
+1915,Northern League,PTSZ0101,Betts,,Winnipeg,1915-07-06,1915-07-06,1,0,0,0,0,0,1,0,1,0,0,0
+1915,Northern League,PLNK0101,Blancke,,Duluth,1915-06-17,1915-07-02,5,5,0,0,0,0,0,0,0,0,0,5
+1915,Northern League,PLKZ0101,Block,,Grand Forks,1915-05-18,1915-07-05,14,0,0,0,0,0,14,0,14,0,0,0
+1915,Northern League,PLMZ0104,Blum,,St. Boniface,1915-05-27,1915-07-27,13,13,0,0,0,0,0,0,0,0,0,13
+1915,Northern League,PLMZ0204,Blum,,Winnipeg,1915-07-24,1915-09-02,11,11,0,0,0,0,0,0,0,0,0,11
+1915,Northern League,PLMZ0304,Blume,,St. Boniface,1915-06-27,1915-06-27,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,PLMZ0404,Blume,,Winnipeg,1915-07-17,1915-07-23,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Northern League,PRTM0101,Boardman,,St. Boniface,1915-05-15,1915-09-06,31,28,1,0,0,0,1,0,1,0,0,28
+1915,Northern League,PLMN0101,Bohlman,,Superior,1915-06-15,1915-06-22,6,0,0,0,0,6,0,0,0,0,0,0
+1915,Northern League,PLZZ0203,Boley,,Duluth,1915-05-11,1915-09-06,43,35,0,0,0,0,5,3,0,2,0,35
+1915,Northern League,PLZZ0303,Boly,,Duluth,1915-05-12,1915-05-12,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Northern League,PRTF0303,Boortoff,,Grand Forks,1915-07-03,1915-07-03,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,PRML0103,Brammel,,Duluth,1915-05-20,1915-05-20,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Northern League,PRML0203,Brammell,,Duluth,1915-05-10,1915-05-18,7,0,0,0,0,0,6,0,0,6,0,0
+1915,Northern League,PRML0303,Brammell,,Winnipeg,1915-05-21,1915-05-29,4,0,0,0,0,0,0,0,0,0,4,0
+1915,Northern League,PRNN0105,Brannan,,Superior,1915-05-27,1915-05-27,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,PRNN0205,Brannon,,Grand Forks,1915-05-24,1915-05-24,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,PRNN0305,Brannon,,Superior,1915-05-16,1915-05-31,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Northern League,PRMR0102,Bremer,,Grand Forks,1915-06-29,1915-06-29,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,PRMR0202,Bremmer,,Grand Forks,1915-05-26,1915-05-26,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,PRNN0405,Brennan,,Grand Forks,1915-06-20,1915-06-25,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Northern League,PRNN0505,Brennan,,Superior,1915-05-24,1915-05-24,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,PRNR0101,Brenner,,Grand Forks,1915-05-08,1915-07-05,8,8,0,0,0,0,0,0,0,0,0,8
+1915,Northern League,PRKZ0103,Brokaw,,Virginia,1915-05-26,1915-09-03,99,0,9,0,0,0,88,0,88,0,0,0
+1915,Northern League,PRKZ0203,Browak,,Virginia,1915-07-21,1915-07-21,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Northern League,PRNZ0102,Brown,,Duluth,1915-05-23,1915-06-23,29,0,0,0,29,0,0,0,0,0,0,0
+1915,Northern League,PRNZ0202,Brown,,Superior,1915-06-04,1915-06-24,2,0,0,0,0,2,0,0,0,0,0,0
+1915,Northern League,PRNT0102,Bryant,,Duluth,1915-05-13,1915-06-14,6,6,0,0,0,0,0,0,0,0,0,6
+1915,Northern League,PRNT0202,Bryant,,Virginia,1915-06-20,1915-07-05,5,5,0,0,0,0,0,0,0,0,0,5
+1915,Northern League,PJRZ0101,Bueger,,Superior,1915-05-19,1915-05-19,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Northern League,PRKL0511,Burgald,,Superior,1915-05-24,1915-05-28,2,0,0,0,2,0,0,0,0,0,0,0
+1915,Northern League,PRKL0611,Burgwald,,Duluth,1915-07-06,1915-07-29,17,0,0,0,17,0,0,0,0,0,0,0
+1915,Northern League,PRKL0711,Burgwald,,St. Boniface,1915-09-03,1915-09-03,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,PRKL0811,Burgwald,,Superior,1915-05-22,1915-07-04,33,0,0,0,33,0,0,0,0,0,0,0
+1915,Northern League,PRKL0911,Burgwald,,Winnipeg,1915-08-07,1915-08-12,6,1,0,0,5,0,0,0,0,0,0,1
+1915,Northern League,PRKL1011,Burgwald,Ted,Duluth,1915-07-28,1915-07-29,3,0,0,0,0,3,0,0,0,0,0,0
+1915,Northern League,PRKL1111,Burgwald,Tony,Duluth,1915-07-28,1915-07-29,2,0,0,0,2,0,0,0,0,0,0,0
+1915,Northern League,KTRZ0103,Cadreau,,Duluth,1915-05-10,1915-06-04,7,7,0,0,0,0,0,0,0,0,0,7
+1915,Northern League,KTRZ0203,Cadreau,,Virginia,1915-06-06,1915-06-13,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Northern League,KLNT0101,Callender,,Duluth,1915-08-24,1915-08-24,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Northern League,KRTN0101,Cardinal,,St. Boniface,1915-08-03,1915-08-03,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Northern League,KFNK0102,Cavanaugh,,Superior,1915-07-01,1915-07-05,7,0,0,0,0,7,0,0,0,0,0,0
+1915,Northern League,XKNZ0101,Chicken,,Superior,1915-05-10,1915-06-01,4,4,0,0,0,0,0,0,0,0,0,4
+1915,Northern League,KRSX0101,Christianson,,Grand Forks,1915-05-13,1915-05-13,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,KNZZ0102,Cline,,Winnipeg,1915-07-05,1915-07-05,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Northern League,KMRZ0101,Clymer,,Fargo-Moorhead,1915-06-05,1915-08-29,28,0,0,0,0,0,27,0,27,0,0,0
+1915,Northern League,KLNS0101,Collins,,Duluth,1915-05-10,1915-07-05,49,0,0,3,15,0,31,20,10,1,0,0
+1915,Northern League,KNLZ0104,Conelly,,Superior,1915-06-14,1915-06-14,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,KNLZ0204,Conley,,Superior,1915-05-16,1915-05-16,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,KNLZ0304,Connelly,,Superior,1915-05-26,1915-06-30,8,8,0,0,0,0,0,0,0,0,0,8
+1915,Northern League,KNLZ0404,Connolly,,Superior,1915-05-22,1915-07-03,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Northern League,KTRZ0303,Couture,,Virginia,1915-06-14,1915-07-13,29,0,29,0,0,0,0,0,0,0,0,0
+1915,Northern League,KKZZ0103,Croak,,Duluth,1915-05-16,1915-05-16,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Northern League,KKZZ0203,Croake,,Duluth,1915-05-10,1915-06-30,45,0,45,0,0,0,0,0,0,0,0,0
+1915,Northern League,KKZZ0303,Croake,,Virginia,1915-07-16,1915-08-02,13,0,13,0,0,0,0,0,0,0,0,0
+1915,Northern League,KNNZ0101,Cronin,,Virginia,1915-05-08,1915-09-06,69,1,0,1,0,0,46,6,2,38,20,1
+1915,Northern League,KLFR0102,Culver,,Duluth,1915-08-07,1915-09-06,9,9,0,0,0,0,0,0,0,0,0,9
+1915,Northern League,KLFR0202,Culver,,St. Boniface,1915-05-10,1915-08-05,20,20,0,0,0,0,1,1,0,0,0,20
+1915,Northern League,KRTS0102,Curtis,,Superior,1915-05-22,1915-07-05,39,0,38,0,0,0,0,0,0,0,0,0
+1915,Northern League,KRTS0202,Curtis,,Winnipeg,1915-06-02,1915-08-10,20,0,13,0,0,1,5,0,3,2,0,0
+1915,Northern League,TNKR0101,Dancer,,Fort William-Port Arthur,1915-05-27,1915-05-29,3,0,3,0,0,0,0,0,0,0,0,0
+1915,Northern League,TNKZ0102,Dancey,,Fort William-Port Arthur,1915-05-30,1915-08-30,19,0,19,0,0,0,0,0,0,0,0,0
+1915,Northern League,TNKZ0202,Dancy,,Fort William-Port Arthur,1915-05-31,1915-08-24,29,0,29,0,0,0,0,0,0,0,0,0
+1915,Northern League,TRSZ0105,De Rose,,Fort William-Port Arthur,1915-05-31,1915-08-29,13,0,0,0,0,0,12,0,0,12,2,0
+1915,Northern League,TRSZ0205,DeRose,,Fort William-Port Arthur,1915-06-06,1915-08-30,16,0,0,0,0,0,12,0,0,12,5,0
+1915,Northern League,TLPR0101,Delburn,,Fargo-Moorhead,1915-08-25,1915-09-01,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Northern League,TNSZ0101,Dennis,,Duluth,1915-08-27,1915-08-27,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Northern League,TRSZ0305,Derose,,Fort William-Port Arthur,1915-05-26,1915-08-27,32,0,0,0,0,0,18,2,1,15,16,0
+1915,Northern League,TRMN0103,Dorman,,Virginia,1915-05-11,1915-06-01,4,4,0,0,0,0,0,0,0,0,0,4
+1915,Northern League,TLZZ0103,Doyle,,Duluth,1915-06-03,1915-06-04,2,0,0,0,0,0,2,1,0,1,0,0
+1915,Northern League,TLZZ0203,Doyle,,Fargo-Moorhead,1915-05-14,1915-05-31,3,0,0,0,0,0,2,0,0,2,0,0
+1915,Northern League,TLZZ0303,Doyle,,Superior,1915-06-16,1915-07-05,19,0,0,0,0,0,19,0,0,19,0,0
+1915,Northern League,TRSZ0405,Dreis,,Fargo-Moorhead,1915-05-14,1915-08-30,34,0,0,0,34,0,0,0,0,0,0,0
+1915,Northern League,TRSZ0505,Dries,,Fargo-Moorhead,1915-07-24,1915-08-05,8,0,0,0,8,0,0,0,0,0,0,0
+1915,Northern League,TFZZ0101,Duffy,,Winnipeg,1915-05-24,1915-05-24,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,TMNT0101,Dumont,,Fargo-Moorhead,1915-05-08,1915-08-29,31,31,0,0,0,0,0,0,0,0,0,31
+1915,Northern League,TRMZ0101,Durham,,Fort William-Port Arthur,1915-05-26,1915-06-02,6,0,1,0,0,0,5,4,0,1,0,0
+1915,Northern League,ALSZ0101,Ellis,,Fargo-Moorhead,1915-05-19,1915-09-06,13,7,3,0,0,0,4,1,3,0,0,7
+1915,Northern League,F0ZZ0101,Faeth,,Virginia,1915-05-12,1915-08-31,38,30,0,0,0,0,6,0,0,6,0,30
+1915,Northern League,FTZZ0102,Fait,,Fargo-Moorhead,1915-05-10,1915-06-29,12,12,0,0,0,0,0,0,0,0,0,12
+1915,Northern League,FTZZ0202,Fait,,Winnipeg,1915-08-16,1915-08-21,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Northern League,FLHR0102,Flaherty,,Fargo-Moorhead,1915-07-18,1915-09-06,30,0,0,0,0,0,30,0,0,30,0,0
+1915,Northern League,FLHR0202,Flaherty,,Grand Forks,1915-05-18,1915-07-05,14,0,0,0,0,0,14,0,0,14,0,0
+1915,Northern League,FRTZ0102,Ford,,Duluth,1915-05-10,1915-07-05,37,0,0,1,4,4,25,3,13,10,0,0
+1915,Northern League,FRTM0102,Forteman,,Virginia,1915-06-06,1915-06-06,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Northern League,FRTZ0202,Fortier,,Fort William-Port Arthur,1915-05-26,1915-08-30,47,0,0,4,0,0,45,11,32,3,0,0
+1915,Northern League,FRTM0202,Fortman,,Virginia,1915-05-26,1915-09-03,100,1,0,83,16,0,0,0,0,0,0,1
+1915,Northern League,FSNR0104,Fosner,,Fort William-Port Arthur,1915-05-09,1915-05-09,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Northern League,FSTR0102,Foster,,Fargo-Moorhead,1915-05-27,1915-06-07,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Northern League,FSTR0202,Foster,,Winnipeg,1915-05-12,1915-05-21,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Northern League,FKSZ0101,Fox,,Grand Forks,1915-05-18,1915-07-05,14,0,0,14,0,0,0,0,0,0,0,0
+1915,Northern League,FRHR0101,Fraherty,,Fargo-Moorhead,1915-08-21,1915-08-21,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Northern League,FRMN0102,Freeman,,Fargo-Moorhead,1915-05-14,1915-05-14,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Northern League,FRMR0101,Fremer,,Fargo-Moorhead,1915-05-16,1915-06-30,12,0,0,7,0,0,5,1,0,4,0,0
+1915,Northern League,FSNR0204,Fuesner,,Fort William-Port Arthur,1915-05-18,1915-05-18,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Northern League,FSNR0304,Fusner,,Fort William-Port Arthur,1915-05-08,1915-09-06,99,0,0,0,0,0,2,1,0,1,98,0
+1915,Northern League,FSNR0404,Fussner,,Fort William-Port Arthur,1915-05-27,1915-05-27,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Northern League,KRZZ0102,Garrey,,St. Boniface,1915-05-24,1915-05-24,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,KRFZ0104,Garvey,,Grand Forks,1915-05-27,1915-05-27,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,KRFZ0204,Garvey,,St. Boniface,1915-05-11,1915-05-13,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Northern League,KRFZ0304,Garvey,,Virginia,1915-05-20,1915-05-20,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,KRFS0101,Garvies,,Winnipeg,1915-06-06,1915-06-06,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,KRFZ0404,Gervais,,Winnipeg,1915-05-29,1915-09-06,24,22,2,0,0,0,0,0,0,0,0,22
+1915,Northern League,JFNZ0101,Giffin,,Fort William-Port Arthur,1915-06-04,1915-06-04,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,JR0Z0101,Girth,,Superior,1915-05-22,1915-06-03,14,0,0,0,0,14,0,0,0,0,0,0
+1915,Northern League,KLSZ0101,Glass,,Superior,1915-05-22,1915-06-03,14,0,0,0,0,0,14,0,0,14,0,0
+1915,Northern League,KRXZ0103,Greisch,,Virginia,1915-06-13,1915-09-02,39,0,0,0,0,0,38,38,0,0,0,0
+1915,Northern League,KRXZ0203,Griesch,,Virginia,1915-05-26,1915-09-03,58,0,0,0,0,0,57,57,0,0,0,0
+1915,Northern League,KRFN0101,Griffin,,Fort William-Port Arthur,1915-05-12,1915-08-24,20,17,0,0,0,0,3,2,1,0,0,17
+1915,Northern League,KRF00102,Griffith,,Fort William-Port Arthur,1915-05-18,1915-08-30,4,3,0,0,0,0,1,1,0,0,0,3
+1915,Northern League,KRF00202,Griffith,,St. Boniface,1915-09-03,1915-09-03,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,KRXZ0303,Grisch,,Virginia,1915-07-17,1915-07-17,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Northern League,KRNT0101,Grund,,St. Boniface,1915-08-12,1915-08-12,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,KRNZ0101,Gruno,,St. Boniface,1915-08-01,1915-08-14,5,5,0,0,0,0,0,0,0,0,0,5
+1915,Northern League,KRZZ0202,Guyer,,Duluth,1915-06-26,1915-06-26,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,HLMN0101,Hallman,,Duluth,1915-07-03,1915-08-06,13,11,0,0,0,0,1,1,0,0,0,11
+1915,Northern League,HKNS0106,Hawkins,,Fort William-Port Arthur,1915-05-09,1915-06-09,8,8,0,0,0,0,0,0,0,0,0,8
+1915,Northern League,HKNS0206,Hawkins,,Superior,1915-06-15,1915-07-04,6,6,0,0,0,0,0,0,0,0,0,6
+1915,Northern League,HKNS0306,Hawkins,,Virginia,1915-07-07,1915-09-03,19,16,0,0,0,0,3,1,0,2,0,16
+1915,Northern League,HNRZ0101,Henry,,Fargo-Moorhead,1915-05-14,1915-05-16,2,0,0,0,0,2,0,0,0,0,0,0
+1915,Northern League,HRNN0101,Hernan,,Virginia,1915-08-15,1915-08-15,1,0,0,0,1,0,0,0,0,0,0,0
+1915,Northern League,HTZZ0102,Hewett,,Fort William-Port Arthur,1915-05-13,1915-05-13,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,HTZZ0202,Hewitt,,Fort William-Port Arthur,1915-05-08,1915-09-03,42,30,0,0,0,0,10,5,0,5,0,30
+1915,Northern League,HKNS0406,Higgins,,Fort William-Port Arthur,1915-05-19,1915-05-19,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,HFMN0102,Hoffman,,Duluth,1915-05-14,1915-05-31,5,4,0,0,0,0,1,0,0,1,0,4
+1915,Northern League,HFMN0202,Hoffman,,Grand Forks,1915-06-05,1915-07-05,6,5,0,0,0,0,1,1,0,0,0,5
+1915,Northern League,HKZZ0101,Hogue,,Winnipeg,1915-06-19,1915-07-07,5,5,0,0,0,0,0,0,0,0,0,5
+1915,Northern League,HLTZ0101,Holt,,Fargo-Moorhead,1915-06-03,1915-06-03,1,0,0,0,0,0,0,0,0,0,0,0
+1915,Northern League,HPRZ0101,Hooper,,Fargo-Moorhead,1915-05-31,1915-08-30,40,0,0,27,0,13,0,0,0,0,0,0
+1915,Northern League,HRTN0101,Horton,,Winnipeg,1915-05-14,1915-05-14,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,HRTZ0101,Huerta,,Winnipeg,1915-05-18,1915-05-19,2,0,0,0,0,0,0,0,0,0,2,0
+1915,Northern League,HKNS0506,Huggins,,Fort William-Port Arthur,1915-05-11,1915-09-06,21,21,0,0,0,0,0,0,0,0,0,21
+1915,Northern League,HKNS0606,Huggins,,Virginia,1915-05-31,1915-06-03,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Northern League,JKSN0101,Jackson,,Duluth,1915-05-24,1915-07-30,18,18,0,0,0,0,0,0,0,0,0,18
+1915,Northern League,JRFS0101,Jarvis,,Winnipeg,1915-06-20,1915-06-20,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,JNSN0101,Johnson,,Virginia,1915-07-22,1915-08-03,4,4,0,0,0,0,0,0,0,0,0,4
+1915,Northern League,JNSZ0101,Jones,,Duluth,1915-05-11,1915-08-13,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Northern League,JTZZ0101,Jude,,Winnipeg,1915-05-31,1915-08-10,38,0,0,0,0,0,38,0,17,22,0,0
+1915,Northern League,KFNK0202,Kavanaugh,,Superior,1915-06-26,1915-06-30,5,0,0,0,0,5,0,0,0,0,0,0
+1915,Northern League,KRNN0101,Kernan,,Virginia,1915-05-27,1915-09-06,101,1,0,16,84,0,0,0,0,0,0,1
+1915,Northern League,KRKM0103,Kirkham,,Duluth,1915-07-09,1915-09-06,65,0,0,0,0,0,64,0,64,0,0,0
+1915,Northern League,KRKM0203,Kirkham,,Fargo-Moorhead,1915-05-16,1915-05-31,2,0,0,0,0,0,2,2,0,0,0,0
+1915,Northern League,KRKM0303,Kirkham,,Superior,1915-06-04,1915-07-05,26,0,0,0,0,0,26,2,19,5,0,0
+1915,Northern League,KLNZ0105,Klein,,Winnipeg,1915-07-06,1915-07-06,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Northern League,KLNZ0205,Kline,,Duluth,1915-08-13,1915-08-27,13,0,0,0,7,4,3,0,1,2,1,0
+1915,Northern League,KLNZ0305,Kline,,Winnipeg,1915-05-31,1915-08-09,36,0,20,0,0,2,14,0,0,14,0,0
+1915,Northern League,KLNZ0405,Kline,C.,Duluth,1915-08-10,1915-08-10,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Northern League,KLNZ0505,Kline,F.,Winnipeg,1915-08-10,1915-08-10,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Northern League,KNZZ0202,Kuhn,,Duluth,1915-07-01,1915-07-08,11,0,11,0,0,0,0,0,0,0,0,0
+1915,Northern League,KRKZ0102,Kurke,,Duluth,1915-07-06,1915-07-13,7,0,0,0,0,0,1,1,0,0,6,0
+1915,Northern League,KRKZ0202,Kurke,,Superior,1915-05-08,1915-07-04,26,0,1,0,0,0,0,0,0,0,21,0
+1915,Northern League,LNZZ0103,Lane,,St. Boniface,1915-05-10,1915-08-05,31,0,0,0,3,1,28,28,0,0,0,0
+1915,Northern League,LRSN0101,Larson,,Grand Forks,1915-06-13,1915-07-05,6,5,0,0,0,0,0,0,0,0,1,5
+1915,Northern League,LLRZ0102,Lawler,,Fargo-Moorhead,1915-09-05,1915-09-06,4,0,0,0,0,4,0,0,0,0,0,0
+1915,Northern League,LLRZ0202,Lawler,,Winnipeg,1915-06-19,1915-08-10,35,0,0,0,0,35,0,0,0,0,0,0
+1915,Northern League,LHZZ0101,Leahy,,Duluth,1915-05-11,1915-05-12,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Northern League,LNZZ0203,Lean,,St. Boniface,1915-06-24,1915-06-24,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Northern League,LNHN0101,Lennehan,,Grand Forks,1915-05-18,1915-05-20,3,0,3,0,0,0,0,0,0,0,0,0
+1915,Northern League,LNZZ0303,Leon,,Superior,1915-05-11,1915-05-25,4,4,0,0,0,0,0,0,0,0,0,4
+1915,Northern League,LRNS0103,Lorenson,,Fort William-Port Arthur,1915-08-14,1915-08-14,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,LRNS0203,Lorenzen,,Fort William-Port Arthur,1915-05-22,1915-08-31,20,20,0,0,0,0,0,0,0,0,0,20
+1915,Northern League,LRNS0303,Lorenzon,,Fort William-Port Arthur,1915-08-18,1915-08-18,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,LFTL0101,Lovedahl,,Duluth,1915-07-26,1915-07-26,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Northern League,LNTM0101,Lundheim,,Virginia,1915-06-06,1915-06-06,2,0,0,0,0,2,0,0,0,0,0,0
+1915,Northern League,MKPZ0102,McCabe,,Fort William-Port Arthur,1915-07-18,1915-08-30,21,1,0,1,0,0,21,0,21,0,0,1
+1915,Northern League,MKPZ0202,McCabe,,Virginia,1915-05-26,1915-07-13,41,0,0,1,1,0,41,0,1,40,0,0
+1915,Northern League,MKLK0102,McCullach,,Virginia,1915-05-31,1915-06-03,5,0,5,0,0,0,0,0,0,0,0,0
+1915,Northern League,MKLK0202,McCulloch,,Virginia,1915-06-04,1915-06-06,3,0,3,0,0,0,0,0,0,0,0,0
+1915,Northern League,MKLF0102,McCullough,,Virginia,1915-05-26,1915-06-13,8,0,8,0,0,0,0,0,0,0,0,0
+1915,Northern League,MKLF0202,McCulough,,Virginia,1915-06-11,1915-06-11,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Northern League,MKZZ0103,McGee,,Superior,1915-05-22,1915-07-05,37,0,0,33,0,4,0,0,0,0,0,0
+1915,Northern League,MKZZ0203,McGee,,Winnipeg,1915-07-23,1915-08-10,19,0,0,5,13,0,0,0,0,0,0,0
+1915,Northern League,MKZZ0303,McGhee,,Superior,1915-06-28,1915-06-28,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Northern League,MKNZ0101,McGheen,,Superior,1915-06-07,1915-06-09,2,0,0,0,0,2,0,0,0,0,0,0
+1915,Northern League,MKRZ0103,McGraw,,Duluth,1915-05-22,1915-09-06,19,0,0,0,12,0,7,0,0,7,0,0
+1915,Northern League,MKRZ0203,McGraw,,Fort William-Port Arthur,1915-07-18,1915-07-18,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Northern League,MKRZ0303,McGraw,,Grand Forks,1915-05-19,1915-06-30,3,0,0,0,0,0,2,2,0,0,0,0
+1915,Northern League,MKNN0101,McLennan,,St. Boniface,1915-05-12,1915-05-13,2,0,0,0,0,0,2,0,0,2,0,0
+1915,Northern League,MKLZ0103,McNeeley,,Grand Forks,1915-06-11,1915-06-16,4,0,0,0,0,0,0,0,0,0,4,0
+1915,Northern League,MKLZ0203,McNeilly,,Grand Forks,1915-05-25,1915-05-25,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Northern League,MKLZ0303,McNelly,,Winnipeg,1915-05-29,1915-05-29,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,MNKZ0102,Menice,,Duluth,1915-07-18,1915-07-18,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Northern League,MNKZ0202,Meniece,,Duluth,1915-06-27,1915-06-27,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Northern League,MLRZ0108,Miller,,St. Boniface,1915-05-08,1915-08-31,38,12,0,1,0,4,21,0,21,0,1,12
+1915,Northern League,MLRZ0208,Miller,,Winnipeg,1915-07-30,1915-08-12,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Northern League,MLRZ0308,Miller,D.,Winnipeg,1915-07-24,1915-07-24,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,MLRZ0408,Miller,E.,St. Boniface,1915-07-10,1915-07-10,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,MLRZ0508,Miller,H.,St. Boniface,1915-05-10,1915-07-10,5,0,0,0,0,0,5,0,5,0,0,0
+1915,Northern League,MLRZ0608,Miller,L.,St. Boniface,1915-07-28,1915-08-05,2,1,0,0,0,0,1,0,1,0,0,1
+1915,Northern League,MXLZ0102,Mitchell,,St. Boniface,1915-07-28,1915-08-01,6,0,0,0,5,0,1,0,0,1,0,0
+1915,Northern League,MXLZ0202,Mitchell,,Winnipeg,1915-05-31,1915-07-08,20,0,0,0,20,0,0,0,0,0,0,0
+1915,Northern League,MRZZ0101,Moore,,Grand Forks,1915-05-28,1915-05-28,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,MRSZ0112,Moorse,,Duluth,1915-07-08,1915-07-10,2,0,0,1,0,1,0,0,0,0,0,0
+1915,Northern League,MRSZ0212,Moorse,,Grand Forks,1915-07-04,1915-07-04,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,MRSZ0312,Morse,,Duluth,1915-07-06,1915-09-05,31,10,0,17,0,5,0,0,0,0,0,10
+1915,Northern League,MRSZ0412,Morse,,Grand Forks,1915-05-09,1915-07-05,15,9,0,0,0,6,0,0,0,0,0,9
+1915,Northern League,MRSZ0512,Morse,P.,Duluth,1915-07-07,1915-07-31,5,1,0,4,0,0,0,0,0,0,0,1
+1915,Northern League,MRSZ0612,Morse,P.,Grand Forks,1915-06-16,1915-06-30,7,0,0,0,0,7,0,0,0,0,0,0
+1915,Northern League,MRSZ0712,Morse,Paul,Duluth,1915-07-11,1915-08-03,7,5,0,0,0,0,1,1,0,0,0,5
+1915,Northern League,MRSZ0812,Morse,Paul,Grand Forks,1915-06-21,1915-06-21,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,MRSZ0912,Morse,Pete,Duluth,1915-07-11,1915-08-03,7,0,0,3,0,5,0,0,0,0,0,0
+1915,Northern League,MRSZ1012,Morse,Pete,Grand Forks,1915-06-21,1915-06-21,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Northern League,MRSZ1112,Morse,S.,Duluth,1915-07-07,1915-07-29,2,1,0,1,0,0,0,0,0,0,0,1
+1915,Northern League,MRSZ1212,Morse,S.,Grand Forks,1915-06-16,1915-06-30,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Northern League,MLRZ0708,Mueller,,St. Boniface,1915-05-10,1915-09-06,53,1,0,0,0,0,16,0,0,16,37,1
+1915,Northern League,MLRZ0808,Muller,,St. Boniface,1915-08-30,1915-08-30,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Northern League,MRFZ0103,Murphy,,Fargo-Moorhead,1915-05-16,1915-09-06,59,0,6,0,0,0,2,0,0,2,52,0
+1915,Northern League,MRFZ0203,Murphy,,St. Boniface,1915-05-10,1915-08-05,27,0,0,0,21,5,0,0,0,0,1,0
+1915,Northern League,MRFZ0303,Murphy,J.,St. Boniface,1915-06-05,1915-06-05,1,0,0,0,1,0,0,0,0,0,0,0
+1915,Northern League,NJLZ0101,Nagel,,St. Boniface,1915-07-10,1915-07-10,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Northern League,NKLZ0102,Nagle,,St. Boniface,1915-05-10,1915-08-05,29,0,0,29,0,0,0,0,0,0,0,0
+1915,Northern League,NTMZ0101,Needham,,Virginia,1915-05-10,1915-05-28,5,5,0,0,0,0,0,0,0,0,0,5
+1915,Northern League,NLSN0103,Nelson,,Fargo-Moorhead,1915-07-07,1915-08-13,8,8,0,0,0,0,0,0,0,0,0,8
+1915,Northern League,NLSN0203,Nelson,,Superior,1915-06-23,1915-07-05,4,4,0,0,0,0,0,0,0,0,0,4
+1915,Northern League,NLSN0303,Nelson,,Winnipeg,1915-05-20,1915-05-22,2,0,0,0,0,0,0,0,0,0,2,0
+1915,Northern League,NFNK0102,Niffnecker,,Fargo-Moorhead,1915-08-22,1915-08-22,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Northern League,NFNK0202,Nifnecker,,Fargo-Moorhead,1915-07-18,1915-09-06,30,2,0,0,2,27,0,0,0,0,0,2
+1915,Northern League,NPLZ0101,Noble,,Fort William-Port Arthur,1915-05-10,1915-09-01,27,26,0,0,0,0,0,0,0,0,0,26
+1915,Northern League,NKLZ0202,Nogle,,St. Boniface,1915-06-24,1915-06-24,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Northern League,APRN0101,O'Brien,,Duluth,1915-05-10,1915-09-06,93,0,0,85,1,0,3,2,0,1,0,0
+1915,Northern League,ATNL0101,O'Donnell,,Winnipeg,1915-05-10,1915-05-15,4,0,0,0,0,0,0,0,0,0,4,0
+1915,Northern League,ANLZ0101,O'Neill,,Winnipeg,1915-05-13,1915-05-13,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Northern League,PRKZ0303,Park,,Winnipeg,1915-05-26,1915-05-26,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,PTRS0102,Patterson,,Fargo-Moorhead,1915-06-15,1915-08-30,21,13,0,7,0,0,0,0,0,0,0,13
+1915,Northern League,PTRS0202,Patterson,,Winnipeg,1915-05-13,1915-07-05,12,12,0,0,0,0,0,0,0,0,0,12
+1915,Northern League,PTNZ0101,Pedone,,Fargo-Moorhead,1915-05-31,1915-06-27,5,0,0,0,0,0,5,4,0,1,0,0
+1915,Northern League,PTRM0101,Pedrome,,Fargo-Moorhead,1915-06-24,1915-06-24,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Northern League,PNFL0101,Penfold,,Fort William-Port Arthur,1915-07-01,1915-09-03,6,6,0,0,0,0,0,0,0,0,0,6
+1915,Northern League,PFFR0102,Pfeffer,,St. Boniface,1915-05-10,1915-07-12,20,0,0,0,0,20,0,0,0,0,0,0
+1915,Northern League,PFFR0202,Pfeiffer,,St. Boniface,1915-05-12,1915-05-13,2,0,0,0,0,2,0,0,0,0,0,0
+1915,Northern League,PKRN0102,Pickering,,St. Boniface,1915-07-09,1915-07-11,3,0,0,0,0,0,3,0,0,3,0,0
+1915,Northern League,PKRN0202,Pickering,,Winnipeg,1915-05-31,1915-07-08,20,0,0,0,0,0,20,20,0,0,0,0
+1915,Northern League,PLSN0101,Polsen,,Duluth,1915-08-09,1915-08-09,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,PRTR0101,Porter,,Virginia,1915-05-25,1915-05-25,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,PSTN0101,Posten,,Duluth,1915-05-12,1915-09-02,25,24,0,0,0,0,2,0,0,2,1,24
+1915,Northern League,PSTM0101,Postum,,Duluth,1915-05-14,1915-05-14,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,PLTR0101,Poulder,,St. Boniface,1915-05-14,1915-05-14,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,KRTR0101,Quarders,,Virginia,1915-05-15,1915-06-06,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Northern League,RNLT0101,Reynolds,,Virginia,1915-08-03,1915-09-03,32,0,32,0,0,0,0,0,0,0,0,0
+1915,Northern League,RTSZ0104,Rhoades,,Fargo-Moorhead,1915-07-01,1915-08-02,7,7,0,0,0,0,0,0,0,0,0,7
+1915,Northern League,RTSZ0204,Rhoades,,St. Boniface,1915-08-18,1915-08-18,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,RTSZ0304,Rhoads,,Fargo-Moorhead,1915-07-05,1915-07-17,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Northern League,RTSZ0404,Rhodes,,Fargo-Moorhead,1915-06-17,1915-06-17,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,RSNS0101,Rusness,,Fargo-Moorhead,1915-09-05,1915-09-06,4,0,0,4,0,0,0,0,0,0,0,0
+1915,Northern League,RNZZ0101,Ryan,,Superior,1915-05-08,1915-05-19,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Northern League,XRZZ0103,Schoer,,Winnipeg,1915-08-07,1915-08-07,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,XRZZ0203,Schor,,Winnipeg,1915-07-26,1915-07-26,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,XRZZ0303,Schorr,,Winnipeg,1915-07-29,1915-09-06,11,11,0,0,0,0,0,0,0,0,0,11
+1915,Northern League,XRTR0104,Schroeder,,Duluth,1915-07-06,1915-09-06,58,0,54,0,0,0,4,0,0,4,0,0
+1915,Northern League,XRTR0204,Schroeder,,Grand Forks,1915-06-15,1915-07-05,12,1,11,0,0,0,0,0,0,0,0,1
+1915,Northern League,XRTR0304,Schroeder,,St. Boniface,1915-06-03,1915-06-04,2,0,2,0,0,0,0,0,0,0,0,0
+1915,Northern League,XNNZ0101,Shannon,,St. Boniface,1915-05-13,1915-08-26,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Northern League,XFLT0101,Sheffield,,St. Boniface,1915-07-12,1915-09-06,17,6,0,0,0,0,11,0,4,7,0,6
+1915,Northern League,XRLZ0101,Shirley,,Winnipeg,1915-05-10,1915-07-23,18,18,0,0,0,0,0,0,0,0,0,18
+1915,Northern League,XRTR0404,Shroeder,,Duluth,1915-07-17,1915-08-29,11,0,11,0,0,0,0,0,0,0,0,0
+1915,Northern League,SM0Z0102,Smith,,Fargo-Moorhead,1915-05-08,1915-09-06,78,0,1,0,2,0,5,2,2,1,71,0
+1915,Northern League,SM0Z0202,Smith,,Winnipeg,1915-06-21,1915-06-27,4,0,0,0,0,0,0,0,0,0,3,0
+1915,Northern League,SNZZ0103,Snow,,Grand Forks,1915-05-11,1915-05-29,5,5,0,0,0,0,0,0,0,0,0,5
+1915,Northern League,SNZZ0203,Snow,,Superior,1915-06-07,1915-06-30,5,5,0,0,0,0,0,0,0,0,0,5
+1915,Northern League,SNTR0102,Snyder,,Grand Forks,1915-05-29,1915-05-29,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,SNTR0202,Snyder,,Winnipeg,1915-05-11,1915-05-25,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Northern League,SRNS0101,Sorenson,,Virginia,1915-05-09,1915-09-02,30,30,0,0,0,0,0,0,0,0,0,30
+1915,Northern League,SPLM0101,Spellman,,St. Boniface,1915-05-10,1915-09-06,78,0,0,0,0,0,3,0,0,3,75,0
+1915,Northern League,STFN0103,Stephenson,,St. Boniface,1915-05-10,1915-08-14,5,2,0,0,0,0,2,0,0,2,0,2
+1915,Northern League,STFN0203,Stevenson,,St. Boniface,1915-05-12,1915-09-01,32,27,1,0,0,0,3,3,0,0,0,27
+1915,Northern League,STFN0303,Stevenson,,Virginia,1915-05-24,1915-05-24,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,SLFN0102,Sullivan,,Fort William-Port Arthur,1915-05-26,1915-08-30,45,0,0,0,4,0,40,31,4,7,0,0
+1915,Northern League,SLFN0202,Sullivan,,St. Boniface,1915-05-08,1915-05-08,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Northern League,SNTM0101,Sundheim,,Virginia,1915-05-26,1915-09-03,101,0,0,0,0,99,0,0,0,0,0,0
+1915,Northern League,SLMZ0103,Swalm,,Superior,1915-05-22,1915-07-05,40,0,0,0,0,0,40,38,0,2,0,0
+1915,Northern League,SLMZ0203,Swalm,,Winnipeg,1915-07-23,1915-08-10,17,0,0,0,0,0,17,17,0,0,0,0
+1915,Northern League,SLZZ0102,Sweeley,,Duluth,1915-05-10,1915-09-05,107,0,0,0,0,0,0,0,0,0,107,0
+1915,Northern League,SLZZ0202,Sweely,,Duluth,1915-05-11,1915-05-25,2,0,0,0,0,0,0,0,0,0,2,0
+1915,Northern League,SNZZ0303,Sweeney,,Duluth,1915-07-03,1915-07-03,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Northern League,SLMZ0303,Swolm,,Winnipeg,1915-08-09,1915-08-09,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Northern League,TMSZ0103,Thomas,,Duluth,1915-08-19,1915-08-20,2,0,2,0,0,0,0,0,0,0,0,0
+1915,Northern League,TMSZ0203,Thomas,,Winnipeg,1915-05-31,1915-07-15,10,10,0,0,0,0,0,0,0,0,0,10
+1915,Northern League,TLRS0101,Tollers,,Duluth,1915-08-08,1915-08-14,4,0,0,0,0,0,1,0,0,1,3,0
+1915,Northern League,TMSZ0303,Tomas,,Winnipeg,1915-06-11,1915-06-11,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,TRMN0203,Trueman,,Duluth,1915-05-31,1915-05-31,2,0,0,0,0,0,2,0,0,2,0,0
+1915,Northern League,TRMN0303,Truman,,Duluth,1915-05-24,1915-06-26,25,0,1,1,1,3,21,0,1,20,0,0
+1915,Northern League,TRNR0101,Turner,,Duluth,1915-05-26,1915-06-21,6,6,0,0,0,0,0,0,0,0,0,6
+1915,Northern League,ANKL0101,Unglaub,,Fargo-Moorhead,1915-05-14,1915-08-30,35,0,32,0,0,0,0,0,0,0,0,0
+1915,Northern League,ARSL0101,Ursella,,Grand Forks,1915-05-10,1915-06-09,7,7,0,0,0,0,0,0,0,0,0,7
+1915,Northern League,FRMN0202,Voorman,,St. Boniface,1915-05-20,1915-05-20,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,ALZZ0101,Wahl,,Fargo-Moorhead,1915-05-11,1915-05-11,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,ALST0101,Wahlstrom,,Fargo-Moorhead,1915-05-10,1915-05-26,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Northern League,ALKZ0101,Wallace,,Fargo-Moorhead,1915-06-24,1915-09-06,7,5,0,0,0,0,2,1,1,0,0,5
+1915,Northern League,ATKN0102,Watkins,,Duluth,1915-08-29,1915-09-05,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Northern League,ATKN0202,Watkins,,Virginia,1915-05-26,1915-05-26,1,0,0,0,1,0,0,0,0,0,0,0
+1915,Northern League,ATLZ0106,Weidel,,Fargo-Moorhead,1915-05-14,1915-05-14,1,0,0,0,0,0,1,0,1,0,0,0
+1915,Northern League,ATLZ0206,Weidel,,Fort William-Port Arthur,1915-07-18,1915-07-18,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Northern League,ATLZ0306,Weidell,,Fargo-Moorhead,1915-05-16,1915-05-16,1,0,0,0,0,0,1,0,1,0,0,0
+1915,Northern League,ATLZ0406,Weidell,,Fort William-Port Arthur,1915-05-31,1915-08-30,35,0,0,0,0,35,0,0,0,0,0,0
+1915,Northern League,ARTZ0101,Wert,,Fort William-Port Arthur,1915-05-26,1915-05-26,1,0,0,0,1,0,0,0,0,0,0,0
+1915,Northern League,ARTS0102,Wertz,,Fort William-Port Arthur,1915-05-27,1915-08-30,48,0,0,46,2,0,1,1,0,0,0,0
+1915,Northern League,ATSZ0101,Wetz,,Fort William-Port Arthur,1915-05-28,1915-05-28,1,0,0,0,1,0,0,0,0,0,0,0
+1915,Northern League,ATNK0101,Whiting,,Fargo-Moorhead,1915-06-03,1915-06-05,3,0,0,0,0,0,3,3,0,0,0,0
+1915,Northern League,ATLZ0506,Widell,,Fort William-Port Arthur,1915-05-26,1915-08-10,15,0,0,0,0,15,0,0,0,0,0,0
+1915,Northern League,ATLZ0606,Wiedell,,Fort William-Port Arthur,1915-07-11,1915-07-11,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Northern League,ALMS0105,Williams,,Duluth,1915-05-10,1915-09-06,121,14,0,2,3,1,117,24,25,69,0,14
+1915,Northern League,ALMS0205,Williams,,St. Boniface,1915-06-26,1915-06-26,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Northern League,ALMS0305,Williams,,Superior,1915-05-13,1915-06-17,6,6,0,0,0,0,0,0,0,0,0,6
+1915,Northern League,ALMS0405,Williams,,Winnipeg,1915-06-22,1915-06-22,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Northern League,ALMS0505,Williams [Dul],,Duluth,1915-05-26,1915-05-26,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Northern League,ALSN0103,Wilson,,Grand Forks,1915-05-29,1915-05-29,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Northern League,ALSN0203,Wilson,,St. Boniface,1915-05-27,1915-05-27,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Northern League,ALSN0303,Wilson,,Winnipeg,1915-05-12,1915-07-07,36,0,0,0,0,0,0,0,0,0,35,0
+1915,Northern League,ANSZ0101,Wines,,Fort William-Port Arthur,1915-05-28,1915-08-27,46,0,0,1,45,0,0,0,0,0,0,0
+1915,Northern League,ANFL0101,Winfield,,Duluth,1915-08-26,1915-08-26,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Northern League,ANKF0101,Wingfield,,Duluth,1915-08-25,1915-09-06,10,0,0,0,0,0,4,0,1,3,7,0
+1915,Northern League,ARTS0202,Wirtz,,Fort William-Port Arthur,1915-07-11,1915-07-18,2,0,0,2,0,0,0,0,0,0,0,0
+1915,Northern League,ALFZ0104,Wolf,,Duluth,1915-06-14,1915-06-14,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Northern League,ALFZ0204,Wolf,,Grand Forks,1915-06-29,1915-06-30,2,0,0,0,0,0,0,0,0,0,2,0
+1915,Northern League,ALFZ0304,Wolfe,,Duluth,1915-05-10,1915-08-22,79,0,0,1,1,77,0,0,0,0,0,0
+1915,Northern League,ALFZ0404,Wolfe,,Grand Forks,1915-05-08,1915-07-05,40,1,0,0,0,0,0,0,0,0,38,1
+1915,Northern League,RTZZ0101,Wright,,Virginia,1915-05-08,1915-09-01,42,30,0,0,0,0,6,0,0,6,0,30

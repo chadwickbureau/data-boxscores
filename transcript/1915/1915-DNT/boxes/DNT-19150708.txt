@@ -1,0 +1,776 @@
+date: 1915-07-08
+number: 0
+league: Northern
+away: Duluth
+home: Winnipeg
+source: Duluth News-Tribune, July 9, 1915
+note: game called after top of 8th to allow teams to catch train
+
+Duluth:		ab r h po a e
+Burgwald @ 3b:	4 0 1 1 2 0
+Altman @ lf:	4 0 1 1 0 1
+Moorse @ ss:	4 0 0 3 3 0
+Schroeder @ rf:	3 0 0 1 0 0
+Wolfe @ 2b:	3 0 0 2 1 1
+Williams @ cf:	3 1 1 0 0 0
+Kuhn @ 1b:	2 0 0 11 0 0
+Kurke @ c:	3 1 1 3 2 0
+Hallman @ p:	3 0 1 0 2 0
+TOTALS:		29 2 5 21 10 2
+
+Winnipeg:	ab r h po a e
+Pickering @ lf:	3 0 1 2 0 0
+Bemis @ cf:	3 2 2 3 0 0
+Baker @ 2b:	3 0 2 1 4 0 
+Mitchell @ 3b:	4 0 1 1 0 1
+Kline @ 1b:	3 0 1 8 0 0
+Jude @ rf:	3 1 0 1 0 0
+Lawler @ ss:	4 0 0 2 2 0
+Bachant @ c:	3 0 0 6 0 0
+Thomas @ p:	3 0 2 0 3 0
+TOTALS:		39 3 9 24 9 1
+
+line: Duluth:   0 0 1 0 0 0 1 0 - 2
+line: Winnipeg: 0 0 1 0 0 1 1 x - 3
+
+B_LOB: Duluth #4; Winnipeg #10
+B_2B: Baker
+B_3B: Williams
+B_SB: Bemis 
+B_SH: Baker
+B_SF: Kuhn
+P_BB: Hallman #3
+P_SO: Thomas #4; Hallman #2
+T: 1:15
+U: Carney
+
+---
+
+date: 1915-07-08
+number: 0
+league: Northern
+away: Fort William-Port Arthur
+home: Virginia
+source: Duluth News-Tribune, July 9, 1915
+
+Fort William-Port Arthur:	ab r h po a e
+Wertz @ 2b:	3 2 1 2 5 0
+Sullivan @ lf-cf:	2 1 1 5 0 0
+Fortier @ cf:	3 0 1 1 0 0
+DeRose @ rf:	4 0 2 0 0 0
+Wines @ 3b:	5 0 0 2 3 1
+Dancy @ 1b:	5 2 3 11 1 3
+Widell @ ss:	4 0 1 3 2 0
+Fusner @ c:	5 0 1 3 1 0
+Huggins @ p:	0 0 0 0 1 0
+Griffin @ p:	5 1 1 1 0 0
+Hewitt @ lf:	2 1 2 0 0 0
+TOTALS:		38 7 13 28 13 4
+
+Virginia:	ab r h po a e
+Sundheim @ ss:	5 2 4 3 5 1
+Kernan @ 3b:	3 1 0 2 3 0
+Fortman @ 2b:	4 1 1 1 1 0
+Griesch @ lf:	4 1 2 1 1 0
+McCabe @ rf:	4 0 1 1 0 0
+Cronin @ cf:	5 1 1 1 0 0
+Couture @ 1b:	3 0 0 9 2 0
+Agnew @ c:	4 1 2 11 0 0
+Faeth @ p:	3 1 1 0 2 0
+Wright @ p:	1 0 0 1 2 0
+TOTALS:		36 8 13 30 16 1
+
+line: Fort William-Port Arthur: 0 0 0 1 1 1 3 1 0 0 - 7
+line: Virginia:                 2 2 0 0 0 3 0 0 0 1 - 8
+
+B_LOB: Virginia #8; Fort William-Port Arthur #8 
+B_ER: Fort William-Port Arthur #3; Virginia #5 
+B_2B: Griesch; McCabe; Faeth; Griffin; DeRose; Fusner; Hewitt; Cronin; Agnew
+B_HR: Dancy; Hewitt
+B_SB: Sundheim; Fortman
+B_SH: Kernan; Couture; Sullivan #2; Widell
+B_SF: Kernan; Griesch
+B_HP: Agnew
+P_BB: Faeth #2; Wright #2; Griffin #2
+P_SO: Faeth #7; Huggins #1; Griffin #3
+P_HP: Griffin
+P_WP: Faeth
+F_DP: Wertz, Dancy
+T: 1:50
+U: Jacobs
+
+---
+
+date: 1915-07-08
+number: 0
+league: Northern
+away: St. Boniface
+home: Fargo-Moorhead
+source: Duluth News-Tribune, July 9, 1915
+
+St. Boniface:	r h e
+Boardman @ p:	x x x
+Spellman @ c:	x x x
+TOTALS:		1 6 3
+
+Fargo-Moorhead:	r h e
+Rhoads @ p:	x x x
+Smith @ c:	x x x
+TOTALS:		2 8 4 
+
+line: St. Boniface:   0 0 0 0 0 0 0 1 0 0 0 - 1
+line: Fargo-Moorhead: 1 0 0 0 0 0 0 0 0 0 1 - 2
+
+---
+
+date: 1915-07-09
+number: 0
+league: Northern
+away: Fort William-Port Arthur
+home: Duluth
+source: Duluth News-Tribune, July 10, 1915
+
+Fort William-Port Arthur:	ab r h po a e
+Wertz @ 2b:	5 2 1 3 2 0
+Sullivan @ lf:	5 3 1 0 0 0
+Fortier @ cf:	4 2 2 2 0 0
+DeRose @ rf:	3 2 3 4 0 0
+Wines @ 3b:	1 2 0 1 1 0
+Dancey @ 1b:	5 1 3 10 1 0
+Weidell @ ss:	3 0 1 0 2 1
+Fusner @ c:	5 0 0 7 0 1
+Hewitt @ p:	4 1 0 0 2 0
+TOTALS:		35 13 11 27 8 2
+
+Duluth:		ab r h po a e
+Burgwald @ 3b:	5 1 2 2 2 1
+Altman @ lf:	6 1 2 3 1 0
+Kirkham @ cf:	5 1 3 4 0 0
+Schroeder @ 1b:	5 1 3 7 1 1
+Williams @ rf:	4 0 1 1 0 0
+Wolfe @ ss:	4 0 0 4 3 2
+Morse @ 2b:	5 2 2 3 2 1
+Sweeley @ c:	2 3 0 3 2 1
+Boley @ p:	3 1 1 0 2 0
+Posten @ p:	0 0 0 0 0 0
+*O'Brien @ ph:	1 0 0 0 0 0
+TOTALS:		40 10 14 27 13 6
+
+*: batted for Posten in 9th
+
+line: Fort William-Port Arthur: 4 0 4 0 0 1 0 4 0 - 13
+line: Duluth:                   1 1 0 2 2 0 4 0 0 - 10
+
+B_LOB: Duluth #9; Fort William-Port Arthur #7 
+B_2B: Burgwald; DeRose
+B_HR: Schroeder; Dancey
+B_SB: Schroeder
+P_BB: Boley #6; Hewitt #5
+P_SO: Boley #3; Posten #1; Hewitt #7
+P_HP: Boley; Hewitt
+P_WP: Hewitt
+F_DP: Wolfe, Morse, Schroeder
+T: 2:25
+U: Jacobs
+
+---
+
+date: 1915-07-09
+number: 0
+league: Northern
+away: Virginia
+home: St. Boniface
+source: Duluth News-Tribune, July 10, 1915
+
+Virginia:	ab r h po a e
+Sundheim @ ss:	3 0 0 2 4 0
+Kernan @ 3b:	4 0 1 4 1 0
+Fortman @ 2b:	3 1 0 1 2 3
+Griesch @ lf:	4 0 1 1 0 0
+McCabe @ cf:	2 0 1 2 0 0
+Cronin @ rf:	3 0 1 0 0 0
+Couture @ 1b:	4 0 0 10 1 0
+Agnew @ c:	3 0 1 9 2 0
+Wright @ p:	2 0 0 1 5 0
+TOTALS:		28 1 5 30 15 3
+
+St. Boniface:	ab r h po a e
+Pfeffer @ ss:	4 0 0 4 1 0
+Adams @ 1b:	5 0 1 14 1 0
+Lane @ lf:	4 0 1 0 0 0
+Pickering @ rf:	5 0 1 0 0 0
+Murphy @ 3b:	4 0 0 3 6 0
+Miller @ cf:	4 0 2 0 0 0
+Mueller @ c:	4 0 2 7 3 0
+Blum @ p:	3 0 0 0 7 0
+*Spellman @ ph:	0 0 0 0 0 0
++Boardman @ pr:	0 0 0 0 0 0
+TOTALS:		37 0 7 30 19 0
+
+*: batted for Blum in 10th
++: ran for Spellman in 10th
+
+line: Virginia:     0 0 0 0 0 0 0 0 0 1 - 1
+line: St. Boniface: 0 0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Virginia #3; St. Boniface #10 
+B_2B: Cronin; Griesch
+B_SB: Lane; Adams; Pickering; Miller
+B_SH: Cronin #2; Wright; Lane; McCabe
+P_BB: Blum #3; Wright #1
+P_SO: Blum #4; Wright #10
+T: 1:50
+U: Carney
+
+---
+
+date: 1915-07-09
+number: 0
+league: Northern
+away: Winnipeg
+home: Fargo-Moorhead
+source: Duluth News-Tribune, July 10, 1915
+
+Winnipeg:	r h e
+Gervais @ p:	x x x
+Berger @ c:	x x x
+TOTALS:		8 12 1
+
+Fargo-Moorhead:	r h e
+Bell @ p:	x x x
+Dumont @ p:	x x x
+Smith @ c:	x x x
+TOTALS:		4 8 4 
+
+line: Winnipeg:       0 1 0 0 0 2 5 0 0 - 8
+line: Fargo-Moorhead: 3 0 0 0 0 1 0 0 0 - 4
+
+---
+
+date: 1915-07-10
+number: 0
+league: Northern
+away: Fort William-Port Arthur
+home: Duluth
+source: Duluth News-Tribune, July 11, 1915
+
+Fort William-Port Arthur:	ab r h po a e
+Wertz @ 2b:	3 1 0 3 2 0
+Hewitt @ lf:	3 0 1 1 0 0
+Fortier @ cf:	4 0 0 1 1 0
+De Rose @ rf:	4 0 1 3 0 0
+Wines @ 3b:	4 0 0 4 0 1
+Dancey @ 1b:	3 0 1 7 0 0
+Weidell @ ss:	2 1 2 2 3 0
+Fusner @ c:	3 1 1 3 4 1
+Lorenzen @ p:	3 0 0 0 2 0
+TOTALS:		29 3 6 24 12 2
+
+Duluth:		ab r h po a e
+Burgwald @ 3b:	2 1 1 1 1 0
+Altman @ lf:	4 0 1 4 0 0
+Kirkham @ cf:	4 1 2 1 0 0
+Schroeder @ 1b:	4 0 0 9 0 0
+Williams @ rf:	3 1 0 3 0 0
+Wolfe @ ss:	3 1 2 2 4 0
+Moorse @ 2b:	2 0 1 2 0 0
+Sweeley @ c:	3 0 1 5 2 0
+Posten @ p:	3 0 0 0 2 0
+TOTALS:		28 4 8 27 9 0
+
+line: Fort William-Port Arthur: 1 0 0 0 0 0 2 0 0 - 3
+line: Duluth:                   1 0 0 1 0 2 0 0 0 - 4
+
+B_LOB: Duluth #4; Fort William-Port Arthur #8 
+B_2B: Kirkham
+B_3B: Wolfe; De Rose
+B_HR: Fusner
+B_SB: Burgwald
+P_BB: Posten #1; Lorenzen #4
+P_SO: Posten #5; Lorenzen #3
+P_HP: Posten
+F_DP: Fortier, Dancey
+T: 1:25
+U: Jacobs
+
+---
+
+date: 1915-07-10
+number: 0
+league: Northern
+away: Virginia
+home: St. Boniface
+source: Duluth News-Tribune, July 11, 1915
+note: game called after 5 1/1 innings due to darkness
+
+Virginia:	ab r h po a e
+Sundheim @ ss:	3 0 0 1 1 0
+Kernan @ 3b:	3 0 2 0 0 1
+Fortman @ 2b:	3 0 1 1 2 0
+Brokaw @ cf:	3 0 2 2 0 0
+Griesch @ lf:	3 0 0 1 0 0
+McCabe @ rf:	2 0 0 1 0 1
+Couture @ 1b:	3 0 0 5 0 0
+Agnew @ c:	2 0 1 4 1 0
+Sorenson @ p:	2 0 0 0 0 0
+TOTALS:		23 0 6 15 4 2
+
+St. Boniface:	ab r h po a e
+Pfeffer @ ss:	3 0 0 3 1 0
+Adams @ 1b:	3 1 0 3 2 0
+Lane @ lf:	2 2 2 1 0 0
+Pickering @ rf:	2 1 1 0 0 0
+Miller, H. @ cf:	3 1 1 1 0 0
+Murphy @ 3b:	3 0 1 2 1 1
+Nagel @ 2b:	3 1 1 2 0 0
+Mueller @ c:	2 0 1 4 0 0
+Miller, E. @ p:	2 0 0 2 1 0
+TOTALS:		23 6 7 18 5 1
+
+line: Virginia:     0 0 0 0 0 0 - 0
+line: St. Boniface: 0 0 5 1 0 x - 6
+
+B_LOB: Virginia #5; St. Boniface #5 
+B_2B: Lane #2
+B_SB: Sundheim
+B_HP: Lane
+P_BB: Sorenson #3
+P_SO: E. Miller #4; Sorenson #4
+P_HP: Sorenson
+P_WP: Sorenson
+F_DP: Pfeffer, Adams
+F_PB: Mueller
+T: 1:05
+U: Carney
+
+---
+
+date: 1915-07-10
+number: 0
+league: Northern
+away: Winnipeg
+home: Fargo-Moorhead
+status: postponed
+status-reason: rain
+source: Duluth News-Tribune, July 11, 1915
+
+---
+
+date: 1915-07-11
+number: 0
+league: Northern
+away: Fort William-Port Arthur
+home: Duluth
+source: Duluth News-Tribune, July 12, 1915
+
+Fort William-Port Arthur:	ab r h po a e
+Wirtz @ 2b:	5 0 1 3 6 0
+Hewitt @ lf:	4 0 0 0 0 0
+Fortier @ cf:	4 0 1 0 0 0
+De Rose @ rf:	4 0 2 0 0 0
+Wines @ 3b:	3 0 1 1 1 0
+Dancey @ 1b:	4 0 2 12 2 0
+Wiedell @ ss:	2 0 1 3 2 0
+Fusner @ c:	4 0 0 5 1 1
+Noble @ p:	3 0 0 0 4 0
+*Sullivan @ ph:	1 0 0 0 0 0
+TOTALS:		34 0 8 24 16 1
+
+Duluth:		ab r h po a e
+Burgwald @ 3b:	3 1 3 1 0 0
+Altman @ lf:	4 0 0 1 0 0
+Kirkham @ cf:	4 1 1 4 0 0
+Schroeder @ 1b:	4 1 1 7 0 0
+Williams @ rf:	3 1 1 1 0 0
+Wolfe @ ss:	2 1 1 3 3 1
+Morse, Pete @ 2b:	4 0 0 1 3 0
+Kurke @ c:	3 0 1 9 1 0
+Morse, Paul @ p:	3 0 0 0 1 0
+TOTALS:		30 5 8 27 8 1
+
+*: batted for Noble in 9th
+
+line: Fort William-Port Arthur: 0 0 0 0 0 0 0 0 0 - 0
+line: Duluth:                   0 0 0 3 0 2 0 0 x - 5
+
+B_LOB: Duluth #5; Fort William-Port Arthur #13
+B_2B: Kirkham
+B_3B: Wolfe
+B_SB: Pete Morse; Fortier
+P_BB: Noble #4; Paul Morse #6
+P_SO: Noble #5; Paul Morse #9
+P_WP: Noble
+F_DP: Wolfe, Pete Morse, Schroeder; Wines, Dancey, Wirtz; Wirtz, Dancey
+T: 1:52
+U: Jacobs
+
+---
+
+date: 1915-07-11
+number: 0
+league: Northern
+away: Virginia
+home: St. Boniface
+source: Duluth News-Tribune, July 12, 1915
+
+Virginia:	ab r h po a e
+Sundheim @ ss:	4 0 0 2 2 2
+Kernan @ 3b:	4 0 0 0 1 0
+Fortman @ 2b:	4 0 1 0 2 1
+Brokaw @ cf:	4 1 0 2 0 0
+Greisch @ lf:	4 0 2 1 1 1
+McCabe @ rf:	4 0 0 2 0 1
+Couture @ 1b:	3 0 0 7 3 0
+Agnew @ c:	2 0 0 8 3 0
+Faeth @ p:	2 0 1 2 4 1
+TOTALS:		31 1 4 24 13 6
+
+St. Boniface:	ab r h po a e
+Pfeffer @ ss:	4 0 0 1 1 0
+Adams @ 1b:	4 0 0 7 0 0
+Lane @ lf:	1 0 1 2 0 0
+Pickering @ rf:	4 1 1 1 0 1
+Miller @ cf:	4 0 2 4 0 0
+Murphy @ 3b:	4 0 0 2 3 0
+Nagle @ 2b:	2 1 1 1 1 0
+Mueller @ c:	3 0 0 9 0 0
+Stevenson @ p:	4 1 1 0 2 0
+TOTALS:		33 3 6 27 7 1
+
+line: Virginia:     0 0 0 0 0 0 0 0 1 - 1
+line: St. Boniface: 0 0 0 1 1 0 1 0 x - 3
+
+B_LOB: Virginia #5; St. Boniface #9
+B_3B: Miller; Greisch
+B_SB: Adams
+B_SH: Faeth; Mueller
+P_BB: Stevenson #1; Faeth #5
+P_SO: Stevenson #9; Faeth #5
+T: 1:25
+U: Carney
+
+---
+
+date: 1915-07-11
+number: 0
+league: Northern
+away: Winnipeg
+home: Fargo-Moorhead
+source: Duluth News-Tribune, July 12, 1915
+
+Winnipeg:	r h e
+Benton @ p:	x x x
+Berger @ c:	x x x
+TOTALS:		0 5 1
+
+Fargo-Moorhead:	r h e
+Dumont @ p:	x x x
+Smith @ c:	x x x
+TOTALS:		1 4 2 
+
+line: Winnipeg:       0 0 0 0 0 0 0 0 0 - 0
+line: Fargo-Moorhead: 0 0 0 0 0 0 1 0 x - 1
+
+---
+
+date: 1915-07-12
+number: 0
+league: Northern
+away: Fort William-Port Arthur
+home: Duluth
+source: Duluth News-Tribune, July 13, 1915
+
+Fort William-Port Arthur:	ab r h po a e
+Wertz @ 2b:	5 0 1 4 0 0
+Sullivan @ lf:	4 1 1 0 0 0
+Hewitt @ lf:	0 0 0 1 0 0
+Fortier @ cf:	4 0 2 2 1 0
+DeRose @ rf:	3 0 1 0 0 0
+Wines @ 3b:	3 1 1 2 1 0
+Dancey @ 1b:	3 0 0 9 1 0
+Weidell @ ss:	3 1 2 3 2 1
+Fusner @ c:	2 0 1 5 2 0
+Huggins @ p:	4 0 0 0 3 0
+TOTALS:		31 3 9 26 10 1
+
+Duluth:		ab r h po a e
+Burgwald @ 3b:	4 0 1 2 0 1
+Altman @ lf:	4 0 0 1 0 0
+Kirkham @ cf:	3 1 2 3 0 0
+Schroeder @ 1b:	4 1 1 6 0 0
+Williams @ rf:	4 1 2 1 0 0
+Wolfe @ ss:	4 0 0 6 4 0
+Morse @ 2b:	3 1 1 2 1 0
+Sweeley @ c:	3 0 2 7 2 0
+Jackson @ p:	1 0 0 0 2 0
+Posten @ p:	0 0 0 0 1 0
+*Kurke @ ph:	1 0 0 0 0 0
+TOTALS:		31 4 9 27 10 1
+
+*: batted for Jackson in 8th
+
+line: Fort William-Port Arthur: 0 0 1 0 1 1 0 0 0 - 3
+line: Duluth:                   0 0 0 0 0 0 0 1 3 - 4
+
+B_LOB: Duluth #4; Fort William-Port Arthur #7
+B_2B: Wines; Weidell; Fortier
+B_SB: Kirkham
+P_BB: Jackson #3; Posten #1; Huggins #1
+P_SO: Jackson #6; Posten #1; Huggins #6
+P_H:  Jackson #9
+P_IP: Jackson #8; Posten #1
+P_HP: Jackson
+P_WP: Jackson
+F_DP: Wolfe, Schroeder; Wolfe, Morse, Schroeder; Wines, Dancey
+T: 1:30
+U: Fox
+
+---
+
+date: 1915-07-12
+number: 0
+league: Northern
+away: Virginia
+home: St. Boniface
+source: Duluth News-Tribune, July 13, 1915
+note: game called after 6th for Virginia to catch train
+
+Virginia:	ab r h po a e
+Sundheim @ ss:	1 0 1 3 1 0
+Kernan @ 3b:	3 0 2 2 3 0
+Fortman @ 2b:	3 2 1 2 2 0
+Brokaw @ cf:	4 0 0 0 0 0
+Greisch @ lf:	4 5 2 2 0 0
+McCabe @ rf:	2 1 0 0 0 1
+Couture @ 1b:	1 0 0 5 0 0
+Agnew @ c:	3 0 0 4 2 1
+Sorenson @ p:	3 0 0 0 1 0
+TOTALS:		24 8 6 18 9 2
+
+St. Boniface:	ab r h po a e
+Pfeffer @ ss:	3 0 0 2 3 1
+Sheffield @ rf:	2 0 1 0 0 0
+Lane @ lf:	3 2 0 2 0 0
+Miller @ cf:	2 1 2 1 0 0
+Adams @ 1b:	2 0 1 6 1 0
+Murphy @ 3b:	2 1 0 1 0 1
+Nagle @ 2b:	2 0 0 1 1 0
+Mueller @ c:	3 0 0 5 1 0
+Culver @ p:	0 0 0 0 2 0
+Blum @ p:	2 0 2 0 1 1 
+*Spellman @ ph:	1 0 1 0 0 0
+TOTALS:		22 4 7 18 9 3
+
+*: batted for Blum in 6th
+
+line: Virginia:     0 0 2 0 5 1 - 8
+line: St. Boniface: 0 0 2 1 0 1 - 4
+
+B_LOB: Virginia #8; St. Boniface #6
+B_2B: Spellman
+B_HR: Adams
+B_SB: Sundheim
+P_BB: Culver #2; Blum #2; Sorenson #2 
+P_SO: Culver #2; Blum #2; Sorenson #3
+P_H:  Culver #3; Blum #3
+P_IP: Culver #2.1; Blum #3.2
+P_WP: Culver
+F_DP: Blum, Adams, Mueller 
+F_PB: Agnew
+T: 1:30
+U: Carney
+
+---
+
+date: 1915-07-12
+number: 1
+league: Northern
+away: Winnipeg
+home: Fargo-Moorhead
+source: Duluth News-Tribune, July 13, 1915
+
+Winnipeg:	r h e
+Shirley @ p:	x x x
+Berger @ c:	x x x
+TOTALS:		9 17 2
+
+Fargo-Moorhead:	r h e
+Nelson @ p:	x x x
+Smith @ c:	x x x
+Murphy @ c:	x x x
+TOTALS:		3 7 4
+
+line: Winnipeg:       5 0 1 0 0 0 0 0 3 - 9
+line: Fargo-Moorhead: 0 0 1 0 1 1 0 0 0 - 3
+
+---
+
+date: 1915-07-12
+number: 2
+league: Northern
+away: Winnipeg
+home: Fargo-Moorhead
+source: Duluth News-Tribune, July 13, 1915
+
+Winnipeg:	r h e
+Thomas @ p:	x x x
+Bachant @ c:	x x x
+TOTALS:		3 6 1
+
+Fargo-Moorhead:	r h e
+Bell @ p:	x x x
+Murphy @ c:	x x x
+TOTALS:		7 12 2
+
+line: Winnipeg:       1 0 0 2 0 0 0 - 3
+line: Fargo-Moorhead: 2 3 0 0 2 0 x - 7
+
+---
+
+date: 1915-07-13
+number: 0
+league: Northern
+away: Virginia
+home: Duluth
+source: Duluth News-Tribune, July 14, 1915
+
+Virginia:	ab r h po a e
+Sundheim @ ss:	3 0 0 3 1 0
+Kernan @ 3b:	4 0 0 1 2 0
+Fortman @ 2b:	4 0 2 1 4 0
+Brokaw @ cf:	3 1 0 0 0 0
+Greisch @ lf:	4 0 1 0 0 0
+McCabe @ rf:	3 0 1 1 1 0
+Couture @ 1b:	4 0 0 8 1 0
+Cronin @ c:	3 0 1 10 0 0
+Hawkins @ p:	2 0 0 0 3 0
+TOTALS:		30 1 5 24 12 0
+
+Duluth:		ab r h po a e
+Burgwald @ 3b:	4 0 1 0 5 0
+Altman @ lf:	1 0 0 0 0 0
+Sweeley @ c:	3 0 1 7 0 0
+Kirkham @ cf:	4 0 1 0 0 0
+Schroeder @ 1b:	3 0 0 10 0 0
+Williams @ rf:	3 0 2 1 0 0
+Wolfe @ ss:	1 1 0 3 4 0
+Morse @ 2b:	3 0 1 3 2 0
+Kurke @ c-lf:	3 1 1 3 0 0
+Hallman @ p:	3 0 0 0 3 0
+TOTALS:		28 2 7 27 14 0
+
+line: Virginia: 0 0 0 0 0 0 0 0 1 - 1
+line: Duluth:   0 0 0 0 2 0 0 0 x - 2
+
+B_LOB: Duluth #4; Virginia #4
+B_2B: Greisch; Kirkham; Williams
+B_SB: Morse; Kurke
+P_BB: Hallman #2; Hawkins #2
+P_SO: Hallman #7; Hawkins #7
+P_HP: Hallman
+P_WP: Hawkins
+F_PB: Cronin; Sweeley
+T: 1:32
+U: Fox
+
+---
+
+date: 1915-07-13
+number: 0
+league: Northern
+away: St. Boniface
+home: Winnipeg
+source: Duluth News-Tribune, July 14, 1915
+
+St. Boniface:	r h e
+Boardman @ p:	x x x
+Mueller @ c:	x x x
+TOTALS:		2 5 1
+
+Winnipeg:	r h e
+Gervais @ p:	x x x
+Berger @ c:	x x x
+TOTALS:		1 5 0
+
+line: St. Boniface: 0 0 1 0 0 1 0 0 0 - 2
+line: Winnipeg:     0 0 0 0 1 0 0 0 0 - 1
+
+
+---
+
+date: 1915-07-13
+number: 0
+league: Northern
+away: Fort William-Port Arthur
+home: Fargo-Moorhead
+source: Duluth News-Tribune, July 14, 1915
+note: game called after 5th due to rain
+
+Fort William-Port Arthur:	r h e
+Griffin @ p:	x x x
+Fusner @ c:	x x x
+TOTALS:		2 5 0
+
+Fargo-Moorhead:	r h e
+Patterson @ p:	x x x
+Smith @ c:	x x x
+TOTALS:		1 6 1
+
+line: Fort William-Port Arthur: 0 0 0 0 2 - 2
+line: Fargo-Moorhead: 		0 0 1 0 0 - 1
+
+---
+
+date: 1915-07-14
+number: 0
+league: Northern
+away: Virginia
+home: Duluth
+status: postponed
+status-reason: rain
+source: Duluth News-Tribune, July 15, 1915
+
+---
+
+date: 1915-07-14
+number: 0
+league: Northern
+away: St. Boniface
+home: Winnipeg
+source: Duluth News-Tribune, July 15, 1915
+
+St. Boniface:	r h e
+Mueller @ p:	x x x
+Murphy @ c:	x x x
+TOTALS:		3 5 3
+
+Winnipeg:	r h e
+Benton @ p:	x x x
+Berger @ c:	x x x
+TOTALS:		0 7 0
+
+line: St. Boniface: 0 0 3 0 0 0 0 0 0 - 3
+line: Winnipeg:     0 0 0 0 0 0 0 0 0 - 0
+
+---
+
+date: 1915-07-14
+number: 0
+league: Northern
+away: Fort William-Port Arthur
+home: Fargo-Moorhead
+source: Duluth News-Tribune, July 15, 1915
+
+
+Fort William-Port Arthur:	r h e
+Lorenzen @ p:	x x x
+Fusner @ c:	x x x
+TOTALS:		6 12 0
+
+Fargo-Moorhead:	r h e
+Dumont @ p:	x x x
+Murphy @ c:	x x x
+TOTALS:		2 3 1
+
+line: Fort William-Port Arthur: 2 0 2 0 0 0 0 1 1 - 6
+line: Fargo-Moorhead: 		1 0 1 0 0 0 0 0 0 - 2

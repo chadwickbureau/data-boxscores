@@ -54,7 +54,11 @@ class Game(object):
                     "name.first": name_first, "pos": pos,
                     "club.name": clubname, "substitute": subskey }
         stats = filter(lambda x: x.strip() != "", value.split())
-        assert len(stats) == len(columns)
+        if len(stats) != len(columns):
+            print "In file %s,\n   game %s" % (self.metadata['filename'], self)
+            print "  Column mismatch in stat line '%s'" % value
+            return
+
         for (s, c) in zip(stats, columns):
             if s not in [ "X", "x" ]:
                 playing[c] = s

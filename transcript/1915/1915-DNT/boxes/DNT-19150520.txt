@@ -1,0 +1,891 @@
+date: 1915-05-20
+number: 0
+league: Northern
+away: Duluth
+home: Grand Forks
+source: Duluth News-Tribune, May 21, 1915
+A: 
+
+Duluth:		ab r h po a e
+Brammel @ rf:	4 0 3 1 1 0
+Croake @ 1b:	3 0 1 12 1 1 
+Wolfe @ ss:	4 1 1 4 3 0
+Collins @ 3b:	3 2 2 3 0 0
+Williams @ lf:	4 0 1 2 0 0
+Ford @ cf:	4 0 1 0 0 0
+O'Brien @ 2b:	3 2 0 0 3 0
+Sweeley @ c:	4 0 1 5 1 0
+Bryant @ p:	3 1 1 0 6 0
+Boley @ p:	1 0 0 0 1 0
+TOTALS:		33 6 11 27 16 1
+
+Grand Forks:	ab r h po a e
+Block @ cf:	4 2 1 3 1 0
+Fox @ 2b:	2 0 1 1 4 0
+Flaherty @ rf:	4 1 1 0 0 0
+Altman @ lf:	2 1 1 1 0 0
+Morse @ ss:	3 0 1 4 2 1
+Lennehan @ 1b:	4 0 1 7 1 0
+Anderson @ 3b:	3 0 1 2 2 0
+Wolfe @ c:	3 0 1 9 2 0
+Ursella @ p:	4 0 2 0 3 1
+TOTALS:		29 4 10 27 14 2
+
+
+line: Duluth:      0 2 0 0 0 2 2 0 0 - 6
+line: Grand Forks: 0 0 3 0 0 0 1 0 0 - 4
+
+B_LOB: Grand Forks #6; Duluth #8
+B_ER: Grand Forks #2; Duluth #3
+B_2B: Bryant; Wolfe
+B_3B: Brammel
+B_SB: Croake; Altman
+B_SH: Croake; Fox; Anderson; Wolfe
+B_HP: Croake; O'Brien; Fox #2
+P_BB: Bryant #2; Ursella #2 
+P_SO: Bryant #3; Boley #1; Ursella #8  
+P_H: Bryant #9; Boley #1
+P_IP: Bryant #6; Boley #3 
+F_DP: Anderson, Lennehan, Anderson; Croake, Wolfe; O'Brien, Wolfe, Croake
+F_PB: Wolfe #2
+T: 2:00
+U: Jacobs
+
+---
+
+date: 1915-05-20
+number: 0
+league: Northern
+away: Virginia
+home: St. Boniface
+source: Duluth News-Tribune, May 21, 1915
+note: game played at Winnipeg, Manitoba
+
+Virginia: 	r h e
+Garvey @ p:	x x x 
+Agnew @ c:	x x x 
+TOTALS:		10 13 0
+
+St. Boniface:	r h e
+Voorman @ p:	x x x
+Spellman @ c:	x x x 
+TOTALS:		2 4 5
+
+line: Virginia:     0 1 1 1 1 1 1 3 1 - 10
+line: St. Boniface: 0 0 2 0 0 0 0 0 0 - 2
+
+---
+
+date: 1915-05-20
+number: 0
+league: Northern
+away: Fort William-Port Arthur
+home: Winnipeg
+source: Duluth News-Tribune, May 21, 1915
+
+Fort William-Port Arthur: 	r h e
+Hewitt @ p:	x x x 
+Fusner @ c:	x x x 
+TOTALS:		4 6 1
+
+Winnipeg:	r h e
+Shirley @ p:	x x x
+Nelson @ c:	x x x 
+TOTALS:		3 8 3
+
+line: Fort William-Port Arthur: 0 0 3 1 0 0 0 0 0 - 4
+line: Winnipeg: 	        0 1 0 1 1 0 0 0 0 - 3
+
+---
+
+date: 1915-05-20
+number: 0
+league: Northern
+away: Superior
+home: Fargo-Moorhead
+source: Duluth News-Tribune, May 21, 1915
+note: game called after 7th due to rain
+
+Superior: 	r h e
+Leon @ p:	x x x 
+Kurke @ c:	x x x 
+TOTALS:		3 7 2
+
+Fargo-Moorhead:	r h e
+Fait @ p:	x x x 
+Smith @ c:	x x x 
+TOTALS:		8 9 1
+
+line: Superior:       0 0 1 0 0 2 0 - 3
+line: Fargo-Moorhead: 0 0 0 0 0 8 0 - 8
+
+---
+
+date: 1915-05-21
+number: 0
+league: Northern
+away: Superior
+home: Duluth
+status: postponed
+status-reason: rain
+source: Duluth News-Tribune, May 22, 1915
+
+---
+
+date: 1915-05-21
+number: 0
+league: Northern
+away: Fargo-Moorhead
+home: Winnipeg
+source: Duluth News-Tribune, May 22, 1915
+
+Fargo-Moorhead:	r h e
+Bell @ p:	x x x 
+Murphy @ c:	x x x 
+TOTALS:		6 8 1
+
+Winnipeg:	r h e
+Foster @ p:	x x x
+Brammell @ c:	x x x 
+TOTALS:		1 5 3
+
+line: Fargo-Moorhead: 0 0 0 5 0 0 0 1 0 - 6
+line: Winnipeg:       0 0 0 0 0 1 0 0 0 - 1
+
+---
+
+date: 1915-05-21
+number: 0
+league: Northern
+away: Grand Forks
+home: St. Boniface
+source: Duluth News-Tribune, May 22, 1915
+
+Grand Forks: 	r h e
+Morse @ p:	x x x 
+Wolfe @ c:	x x x 
+TOTALS:		0 3 1
+
+St. Boniface:	r h e
+Stevenson @ p:	x x x
+Spellman @ c:	x x x 
+TOTALS:		6 9 1
+
+line: Grand Forks:  0 0 0 0 0 0 0 0 0 - 0
+line: St. Boniface: 0 4 0 0 2 0 0 0 x - 6
+
+---
+
+date: 1915-05-21
+number: 0
+league: Northern
+away: Virginia
+home: Fort William-Port Arthur
+source: Duluth News-Tribune, May 22, 1915
+
+Virginia:	r h e
+Needham @ p:	x x x
+Agnew @ c:	x x x 
+TOTALS:		6 6 0
+
+Fort William-Port Arthur: 	r h e
+Hawkins @ p:	x x x 
+Fusner @ c:	x x x 
+TOTALS:		3 4 3
+
+line: Virginia: 	        3 0 0 0 0 3 0 - 6
+line: Fort William-Port Arthur: 0 0 0 0 3 0 0 - 3
+
+---
+
+date: 1915-05-22
+number: 0
+league: Northern
+away: Superior
+home: Duluth
+source: Duluth News-Tribune, May 23, 1915
+A: 1459
+
+Superior:	ab r h po a e
+Burgwald @ 3b:	5 0 0 1 2 0
+McGee @ 2b:	4 1 0 1 4 0
+Curtis @ 1b:	4 1 3 10 1 0
+Swalm @ lf:	5 0 0 6 0 0
+Glass @ rf:	5 1 3 2 0 1
+Bassey @ cf:	5 1 3 1 1 0
+Girth @ ss:	5 0 1 3 2 0
+Kurke @ c:	4 0 1 8 2 0
+Connolly @ p:	4 0 0 0 4 0
+TOTALS:		41 4 11 32 16 1
+
+Duluth:		ab r h po a e
+McGraw @ rf:	4 1 2 3 0 0
+Croake @ 1b:	5 0 0 0 2 0
+Wolfe @ ss:	4 1 1 6 2 1
+Collins @ 3b:	5 0 0 0 2 0
+Williams @ lf:	5 1 3 3 0 0
+Ford @ cf:	3 1 1 1 4 0 
+O'Brien @ 2b:	4 0 3 2 5 0
+Sweeley @ c:	4 0 0 5 3 0
+Cadreau @ p:	4 1 2 1 4 0
+TOTALS:		38 5 12 33 18 1
+
+line: Superior: 0 0 0 0 1 1 0 2 0 0 0 - 4
+line: Duluth:   2 1 0 0 0 1 0 0 0 0 1 - 5
+
+B_LOB: Superior #5; Duluth #5
+B_ER: Superior #1; Duluth #3
+B_2B: Williams; McGraw; Bassey #2; Girth
+B_3B: Williams
+B_SB: O'Brien; Williams
+B_SH: McGraw
+P_BB: Cadreau #2; Connolly #3  
+P_SO: Cadreau #4; Connolly #5 
+F_DP: O'Brien, Wolfe
+T: 2:10
+U: Carney
+
+---
+
+date: 1915-05-22
+number: 1
+league: Northern
+away: Fargo-Moorhead
+home: Winnipeg
+source: Duluth News-Tribune, May 23, 1915
+
+Fargo-Moorhead:	r h e
+TOTALS:		6 x x
+
+Winnipeg:	r h e
+TOTALS:		2 x x
+
+---
+
+date: 1915-05-22
+number: 2
+league: Northern
+away: Fargo-Moorhead
+home: Winnipeg
+source: Duluth News-Tribune, May 23, 1915
+
+Fargo-Moorhead:	r h e
+Fait @ p:	x x x 
+Smith @ c:	x x x 
+TOTALS:		8 7 0
+
+Winnipeg:	r h e
+Patterson @ p:	x x x
+Nelson @ c:	x x x 
+TOTALS:		3 8 0
+
+line: Fargo-Moorhead: 1 0 3 2 1 0 1 0 0 - 8
+line: Winnipeg:       0 1 1 0 0 0 1 0 0 - 3
+
+---
+
+date: 1915-05-22
+number: 1
+league: Northern
+away: Grand Forks
+home: St. Boniface
+source: Duluth News-Tribune, May 23, 1915
+
+Grand Forks: 	r h e
+TOTALS:		5 x x
+
+St. Boniface:	r h e
+TOTALS:		9 x x
+
+---
+
+date: 1915-05-22
+number: 2
+league: Northern
+away: Grand Forks
+home: St. Boniface
+source: Duluth News-Tribune, May 23, 1915
+
+Grand Forks: 	r h e
+Wolfe @ c:	x x x 
+TOTALS:		2 5 5 
+
+St. Boniface:	r h e
+Spellman @ c:	x x x 
+TOTALS:		10 7 2
+
+line: Grand Forks:  0 0 0 1 0 1 0 - 2
+line: St. Boniface: 0 1 0 2 3 0 4 - 10
+
+---
+
+date: 1915-05-22
+number: 1
+league: Northern
+away: Virginia
+home: Fort William-Port Arthur
+source: Duluth News-Tribune, May 23, 1915
+
+Virginia:	r h e
+TOTALS:		4 x x 
+
+Fort William-Port Arthur: 	r h e
+TOTALS:		2 x x
+
+---
+
+date: 1915-05-22
+number: 2
+league: Northern
+away: Virginia
+home: Fort William-Port Arthur
+source: Duluth News-Tribune, May 23, 1915
+note: game called after 8th inning
+
+Virginia:	r h e
+Faeth @ p:	x x x
+Agnew @ c:	x x x 
+TOTALS:		1 6 4
+
+Fort William-Port Arthur: 	r h e
+Lorenzen @ p:	x x x 
+Fusner @ c:	x x x 
+TOTALS:		6 10 3
+
+line: Virginia: 	        0 0 0 0 0 0 1 0 - 1
+line: Fort William-Port Arthur: 2 0 2 0 0 2 0 0 - 6
+
+---
+
+date: 1915-05-23
+number: 0
+league: Northern
+away: Superior
+home: Duluth
+source: Duluth News-Tribune, May 24, 1915
+A: 
+
+Superior:	ab r h po a e
+Burgwald @ 3b:	5 0 1 0 1 0
+McGee @ 2b:	4 0 1 2 2 0
+Curtis @ 1b:	3 0 1 13 0 0
+Swalm @ lf:	4 0 2 1 0 0
+Glass @ rf:	4 0 0 2 1 0
+Bassey @ cf:	4 0 1 2 0 0
+Girth @ ss:	4 0 0 0 0 1
+Kurke @ c:	2 0 2 3 0 0
+Williams @ p:	2 0 0 1 6 0
+*Berger @ ph:	1 0 0 0 0 0
+TOTALS:		33 0 8 24 10 1
+
+Duluth:		ab r h po a e
+Brown @ 3b:	4 0 2 1 0 0
+Croake @ 1b:	3 0 1 8 0 0
+Wolfe @ ss:	3 0 0 2 4 1
+Collins @ cf:	4 0 0 2 0 0
+Williams @ lf:	3 0 0 3 1 0
+Ford @ rf:	3 1 2 4 0 0
+O'Brien @ 2b:	3 1 2 3 5 0
+Sweeley @ c:	3 0 0 4 2 0
+Hoffman @ p:	3 0 1 0 3 1
+TOTALS:		29 2 8 27 15 2
+
+*: batted for Williams in 9th
+
+line: Superior: 0 0 0 0 0 0 0 0 0 - 0
+line: Duluth:   0 0 0 0 0 0 2 0 x - 2
+
+B_LOB: Superior #10; Duluth #5
+B_ER: Duluth #2
+B_2B: O'Brien; Croake; Burgwald; Kurke
+B_SB: Ford
+B_SH: Croake; Wolfe
+P_BB: Hoffman #3
+P_SO: Hoffman #2; Williams #2
+F_DP: Williams, Curtis; O'Brien, Wolfe; Williams, Sweeley, Wolfe
+T: 1:28
+U: Carney
+
+---
+
+date: 1915-05-24
+number: 1
+league: Northern
+away: Superior
+home: Duluth
+source: Duluth News-Tribune, May 25, 1915
+A: 
+
+Superior:	ab r h po a e
+Burgwald @ 3b:	4 2 1 1 4 1
+McGee @ 2b:	5 1 0 0 2 0
+Curtis @ 1b:	3 2 1 11 0 1
+Swalm @ lf:	5 0 3 0 0 0
+Glass @ rf:	3 0 1 2 0 0
+Bassey @ cf:	4 0 1 5 0 0
+Girth @ ss:	5 1 0 1 1 0
+Kurke @ c:	4 0 1 4 0 0
+Chicken @ p:	4 0 1 0 3 0
+TOTALS:		37 6 9 24 10 2
+
+Duluth:		ab r h po a e
+Brown @ 3b:	4 1 2 0 1 1
+Croake @ 1b:	5 0 1 11 0 0
+Wolfe @ ss:	3 1 1 0 2 1
+Collins @ cf:	4 1 0 3 0 0
+Williams @ lf:	4 0 3 2 0 0
+Truman @ rf:	4 1 1 3 0 0
+O'Brien @ 2b:	4 2 2 2 2 1
+Sweeley @ c:	4 2 1 5 2 0
+Jackson @ p:	3 0 0 1 2 0
+TOTALS:		35 8 11 27 9 3
+
+line: Superior: 1 0 0 1 0 0 0 1 3 - 6
+line: Duluth:   0 6 2 0 0 0 0 0 x - 8
+
+B_LOB: Superior #9; Duluth #8
+B_ER: Duluth #1; Superior #2
+B_2B: Williams; Truman; Brown; Wolfe; O'Brien; Sweeley; Chicken
+B_SB: Brown; Croake; Wolfe; Williams
+B_SH: Jackson; Croake; Glass
+P_BB: Chicken #3; Jackson #5
+P_SO: Chicken #4; Jackson #3 
+P_HP: Chicken
+P_WP: Chicken
+P_BK: Chicken
+T: 1:30
+U: Carney
+
+---
+
+date: 1915-05-24
+number: 2
+league: Northern
+away: Superior
+home: Duluth
+source: Duluth News-Tribune, May 25, 1915
+A: 
+note: game called after 6th inning due to the cold
+
+Superior:	ab r h po a e
+Burgald @ 3b:	3 0 1 2 1 0
+McGee @ 2b:	2 0 0 1 0 0
+Curtis @ 1b:	2 1 0 6 0 0
+Swalm @ lf:	3 0 1 1 0 0
+Glass @ rf:	3 1 1 1 1 0
+Bassey @ cf:	2 2 2 0 0 0
+Girth @ ss:	2 1 1 2 0 1
+Berger @ c:	3 0 3 5 2 0
+Brennan @ p:	3 0 0 0 6 1
+TOTALS:		23 5 9 18 10 2
+
+Duluth:		ab r h po a e
+Brown @ 3b:	3 1 0 1 3 0
+Croake @ 1b:	4 1 1 5 1 0
+Wolfe @ ss:	3 0 1 3 3 0
+Collins @ cf:	2 0 0 1 1 0
+Williams @ lf:	1 1 1 0 0 0
+Truman @ rf:	1 0 0 1 0 0
+O'Brien @ 2b:	3 1 0 3 3 0
+Posten @ c:	0 0 0 0 0 0
+Boley @ p:	3 1 1 0 2 0
+TOTALS:		22 5 5 18 15 0
+
+line: Superior: 0 2 0 2 1 0 - 5
+line: Duluth:   2 3 0 0 0 0 - 5
+
+B_LOB: Superior #4; Duluth #5
+B_SB: Croake #2
+B_SH: Truman; McGee
+P_BB: Posten #2; Boley #2; Brennan #5
+P_SO: Posten #2; Boley #1; Brennan #4
+P_HP: Brennan
+P_WP: Brennan
+F_DP: Boley, Sweeley, Croake; O'Brien, Wolfe, Croake
+F_PB: Berger
+T: 1:30
+U: Carney
+
+---
+
+date: 1915-05-24
+number: 1
+league: Northern
+away: Virginia
+home: Fort William-Port Arthur
+source: Duluth News-Tribune, May 25, 1915
+
+Virginia:	r h e
+Stevenson @ p:	x x x
+Cronin @ c:	x x x 
+TOTALS:		4 6 4
+
+Fort William-Port Arthur: 	r h e
+Griffin @ p:	x x x 
+Fusner @ c:	x x x 
+TOTALS:		5 8 4
+
+line: Virginia: 	        0 0 0 2 0 0 0 2 0 0 0 - 4
+line: Fort William-Port Arthur: 1 0 1 2 0 0 0 0 0 0 1 - 5
+
+---
+
+date: 1915-05-24
+number: 2
+league: Northern
+away: Virginia
+home: Fort William-Port Arthur
+source: Duluth News-Tribune, May 25, 1915
+
+Virginia:	r h e
+Needham @ p:	x x x
+Cronin @ c:	x x x 
+TOTALS:		4 6 1
+
+Fort William-Port Arthur: 	r h e
+Hewitt @ p:	x x x 
+Fusner @ c:	x x x 
+TOTALS:		5 5 0
+
+line: Virginia: 	        0 1 1 0 0 2 0 0 0 - 4
+line: Fort William-Port Arthur: 2 1 0 0 0 0 0 0 2 - 5
+
+---
+
+date: 1915-05-24
+number: 1
+league: Northern
+away: Fargo-Moorhead
+home: Winnipeg
+source: Duluth News-Tribune, May 25, 1915
+
+Fargo-Moorhead:	r h e
+Wahlstrom @ p:	x x x
+TOTALS:		7 x x
+
+Winnipeg:	r h e
+Shirley @ p:	x x x
+TOTALS:		6 x x
+
+---
+
+date: 1915-05-24
+number: 2
+league: Northern
+away: Fargo-Moorhead
+home: Winnipeg
+source: Duluth News-Tribune, May 25, 1915
+
+Fargo-Moorhead:	r h e
+Bell @ p:	x x x 
+Smith @ c:	x x x 
+TOTALS:		3 6 0
+
+Winnipeg:	r h e
+Duffy @ p:	x x x
+Brammell @ c:	x x x 
+TOTALS:		6 10 3
+
+line: Fargo-Moorhead: 0 2 0 0 0 0 0 1 0 - 3
+line: Winnipeg:       1 0 0 0 0 4 0 1 x - 6
+
+---
+
+date: 1915-05-24
+number: 1
+league: Northern
+away: Grand Forks
+home: St. Boniface
+source: Duluth News-Tribune, May 25, 1915
+
+Grand Forks: 	r h e
+Ursella @ p:	x x x
+TOTALS:		2 2 x
+
+St. Boniface:	r h e
+Garrey @ p:	x x x
+TOTALS:		0 2 x
+
+---
+
+date: 1915-05-24
+number: 2
+league: Northern
+away: Grand Forks
+home: St. Boniface
+source: Duluth News-Tribune, May 25, 1915
+
+Grand Forks: 	r h e
+Brannon @ p:	x x x
+Wolfe @ c:	x x x 
+TOTALS:		3 10 4 
+
+St. Boniface:	r h e
+Stevenson @ p:	x x x
+Spellman @ c:	x x x 
+TOTALS:		10 14 5
+
+line: Grand Forks:  0 0 0 0 0 0 0 0 3 - 3
+line: St. Boniface: 0 3 1 0 0 0 0 2 4 - 10
+
+---
+
+date: 1915-05-25
+number: 0
+league: Northern
+away: Superior
+home: Duluth
+source: Duluth News-Tribune, May 26, 1915
+A: 
+
+Superior:	ab r h po a e
+Burgwald @ 3b:	3 2 2 3 2 0 
+McGee @ 2b:	4 1 2 5 2 1
+Curtis @ 1b:	4 0 1 7 0 0
+Swalm @ lf:	4 1 0 1 0 0
+Glass @ rf:	4 2 1 0 0 0
+Bassey @ cf:	4 1 2 5 0 0
+Girth @ ss:	4 3 3 2 5 0
+Berger @ c:	4 1 3 4 4 0
+Leon @ p:	2 0 0 0 0 0
+Benton @ p:	3 1 0 0 0 0 
+TOTALS:		36 12 14 27 13 1
+
+Duluth:		ab r h po a e
+Brown @ 3b:	4 1 0 0 0 0
+Croake @ 1b:	3 1 2 13 2 0 
+Wolfe @ ss:	4 0 1 3 5 1
+Collins @ cf:	4 0 0 2 1 1
+Williams @ lf:	4 0 1 1 0 0
+Truman @ rf:	2 0 0 1 0 0
+O'Brien @ 2b:	3 1 1 4 1 1 
+Sweely @ c:	3 1 0 3 3 0
+Posten @ p:	1 0 0 0 0 0
+Cadreau @ p:	2 0 0 0 1 0
+*Ford @ ph:	1 0 0 0 0 0
+TOTALS:		31 4 5 27 13 3
+
+*: batted for Cadreau in 9th
+
+line: Superior: 0 2 1 0 6 0 3 0 0 - 12
+line: Duluth:   0 0 4 0 0 0 0 0 0 - 4
+
+B_LOB: Superior #9; Duluth #6
+B_ER: Superior #1
+B_2B: Wolfe
+B_3B: Croake; Girth
+B_HR: Girth
+B_SB: McGee #3; Burgwald; Bassey; Truman
+P_BB: Posten #5; Cadreau #4; Leon #4; Benton #3
+P_SO: Cadreau #1; Posten #1; Benton #3 
+P_WP: Cadreau #2; Posten; Leon
+F_DP: Wolfe, Croake; O'Brien, Wolfe, Croake 
+T: 2:25
+U: Carney
+
+---
+
+date: 1915-05-25
+number: 0
+league: Northern
+away: Virginia
+home: Fort William-Port Arthur
+source: Duluth News-Tribune, May 26, 1915
+
+Virginia:	r h e
+Porter @ p:	x x x
+Cronin @ c:	x x x 
+TOTALS:		5 9 4
+
+Fort William-Port Arthur: 	r h e
+Huggins @ p:	x x x 
+Fusner @ c:	x x x 
+TOTALS:		3 3 1
+
+line: Virginia: 	        0 0 0 0 0 0 0 2 3 - 5
+line: Fort William-Port Arthur: 2 0 0 0 0 0 1 0 0 - 3
+
+---
+
+date: 1915-05-25
+number: 0
+league: Northern
+away: Fargo-Moorhead
+home: Winnipeg
+source: Duluth News-Tribune, May 26, 1915
+
+Fargo-Moorhead:	r h e
+Fait @ p:	x x x 
+Smith @ c:	x x x 
+TOTALS:		7 9 0
+
+Winnipeg:	r h e
+Snyder @ p:	x x x
+Brammell @ c:	x x x 
+TOTALS:		0 6 5
+
+line: Fargo-Moorhead: 1 0 3 1 0 0 1 1 0 - 7
+line: Winnipeg:       0 0 0 0 0 0 0 0 0 - 0
+
+---
+
+date: 1915-05-25
+number: 0
+league: Northern
+away: Grand Forks
+home: St. Boniface
+source: Duluth News-Tribune, May 26, 1915
+
+Grand Forks: 	r h e
+Snow @ p:	x x x
+McNeilly @ c:	x x x 
+TOTALS:		0 1 1 
+
+St. Boniface:	r h e
+Stevenson @ p:	x x x
+Spellman @ c:	x x x 
+TOTALS:		10 12 1
+
+line: Grand Forks:  0 0 0 0 0 0 0 0 0 - 0
+line: St. Boniface: 0 0 2 0 0 1 7 0 x - 10
+
+---
+
+date: 1915-05-26
+number: 0
+league: Northern
+away: Duluth 
+home: Superior
+source: Duluth News-Tribune, May 27, 1915
+A: 1,576
+
+Duluth:		ab r h po a e
+Brown @ 3b:	5 1 3 4 2 0
+Croake @ 1b:	3 2 1 13 0 0
+Collins @ cf:	4 0 1 2 0 0
+Ford @ cf:	1 0 0 0 1 0
+Williams [Dul] @ lf:	4 2 2 2 0 0
+Truman @ rf:	5 3 3 1 0 0
+Wolfe @ ss:	3 1 1 0 4 1
+O'Brien @ 2b:	5 1 1 0 2 0
+Sweeley @ c:	5 0 2 5 0 0
+Turner @ p:	4 0 1 0 5 0
+TOTALS:		39 10 14 27 14 1
+
+Superior:	ab r h po a e
+Burgwald @ 3b:	4 0 0 2 4 0
+McGee @ 2b:	3 0 0 1 2 1
+Curtis @ 1b:	2 0 1 8 2 0
+Swalm @ lf:	3 0 0 1 0 0
+Glass @ rf:	3 1 0 0 0 0
+Bassey @ cf:	3 1 2 2 0 0
+Girth @ ss:	3 1 2 2 0 0
+Berger @ c-1b:	4 0 1 10 1 1 
+Connelly @ p:	1 0 0 0 1 0 
+Williams @ p:	2 0 0 0 3 0
+Kurke @ c:	2 0 2 2 1 0
+TOTALS:		32 2 7 27 18 2
+
+line: Duluth:   0 0 0 2 5 1 0 2 0 - 10
+line: Superior: 0 1 0 0 0 0 0 0 1 - 2
+
+B_2B: Truman; Sweeley; Turner; Girth; Berger
+B_HR: Williams [Dul]; O'Brien; Truman
+B_SH: Wolfe #2; Turner; Swalm; Bassey
+P_BB: Connelly #2; Williams #2; Turner #2
+P_SO: Connelly #2; Williams #2; Turner #4
+P_H: Connelly #10; Williams #4; Turner #7
+P_WP: Turner; Connelly
+
+---
+
+date: 1915-05-26
+number: 0
+league: Northern
+away: Fort William-Port Arthur
+home: Virginia
+source: Duluth News-Tribune, May 27, 1915
+A: 2,000
+
+Fort William-Port Arthur:		ab r h po a e
+Wert @ 3b:	4 0 0 3 2 1
+Sullivan @ cf:	4 1 1 2 9 9
+Fortier @ 2b:	4 1 1 2 2 1
+Derose @ lf:	5 1 1 0 0 0
+Hewitt @ rf:	4 0 2 0 0 0
+Durham @ 1b:	4 0 0 9 1 1
+Widell @ ss:	4 0 0 4 5 1
+Fusner @ c:	4 0 2 4 4 0
+Hawkins @ p:	4 0 1 0 2 1
+TOTALS:		35 3 8 24 16 5
+
+Virginia:	ab r h po a e
+McCabe @ rf:	4 0 0 3 1 0
+Fortman @ 2b:	4 0 1 2 2 0
+Sundheim @ ss:	4 2 1 3 3 0
+Griesch @ lf:	4 2 2 2 0 0
+Brokaw @ cf:	4 0 3 2 0 0
+McCullough @ 1b:	0 1 0 10 0 1
+Watkins @ 3b:	4 1 1 1 3 0
+Agnew @ c:	2 0 0 4 0 0
+Wright @ p:	4 0 1 0 1 0
+TOTALS:		30 6 9 27 10 1
+
+line: Fort William-Port Arthur:   0 0 0 2 0 1 0 0 0 - 3
+line: Virginia: 		  0 0 0 0 0 2 0 4 x - 6
+
+B_ER: Virginia #3; Fort William-Port Arthur #2
+B_2B: Griesch #2
+B_HR: Derose
+B_SB: Fortier; McCabe; Watkins
+B_SH: McCullough #2 
+P_BB: Wright #1; Hawkins #5
+P_SO: Wright #3; Hawkins #4
+P_WP: Wright
+F_DP: Wright, Sundheim, McCullough
+T: 1:30
+U: Kennedy
+
+---
+
+date: 1915-05-26
+number: 0
+league: Northern
+away: Grand Forks
+home: Winnipeg
+source: Duluth News-Tribune, May 27, 1915
+
+Grand Forks:	r h e
+Bremmer @ p:	x x x 
+Wolfe @ c:	x x x 
+TOTALS:		10 13 3
+
+Winnipeg:	r h e
+Park @ p:	x x x
+Wilson @ c:	x x x 
+TOTALS:		4 11 6
+
+line: Grand Forks: 0 0 4 0 0 0 2 2 2 - 10
+line: Winnipeg:    0 0 0 0 1 0 0 0 3 - 4
+
+---
+
+date: 1915-05-26
+number: 0
+league: Northern
+away: Fargo-Moorhead
+home: St. Boniface
+source: Duluth News-Tribune, May 27, 1915
+
+Fargo-Moorhead:	r h e
+Wahlstrom @ p:	x x x 
+Smith @ c:	x x x 
+TOTALS:		6 11 2
+
+St. Boniface:	r h e
+Culver @ p:	x x x
+Spellman @ c:	x x x 
+TOTALS:		4 7 x
+
+line: Fargo-Moorhead: 3 0 1 1 0 0 1 0 0 - 6
+line: St. Boniface:   3 0 0 0 0 0 0 0 1 - 4
