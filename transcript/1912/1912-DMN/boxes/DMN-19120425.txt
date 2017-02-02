@@ -1,0 +1,131 @@
+date: 1912-04-24
+number: 0
+league: South Central
+away: Cleburne
+home: Tyler
+
+Cleburne:	ab r h po a e
+Weber @ 2b:	3 0 0 2 2 0
+White @ cf:	3 0 0 3 1 0
+Justy @ lf:	3 0 1 3 0 1
+Bessie @ rf:	3 0 0 1 0 0
+Ritter @ c:	3 0 0 4 2 1
+Sorry @ ss:	3 1 1 2 3 3
+Puckett @ 1b:	2 0 0 9 0 0
+Perkins @ 3b:	3 0 0 0 0 0
+Merrill @ p:	3 0 0 0 1 0
+TOTALS:	26 1 2 24 9 4
+
+Tyler:	ab r h po a e
+Kerr @ 2b:	3 1 0 3 2 0
+Johnson @ rf:	4 1 2 1 1 0
+Fruth @ ss:	3 0 1 1 1 1
+Campbell @ 1b:	4 0 0 5 0 1
+Buster @ c:		2 0 0 7 1 0
+Hewitt @ 3b:	3 0 1 3 0 1
+Milam @ cf:		4 0 1 5 2 0
+Tesche @ lf:	3 0 1 2 0 0
+Hakeman @ p:	4 0 0 0 2 0
+TOTALS:		30 2 5 27 9 3
+
+line: Cleburne: 0 0 0 1 0 0 0 0 0 - 1
+line: Tyler: 0 0 2 0 0 0 0 0 0 - 2
+
+P_BB: Hakeman #6; Merrill #5
+P_SO: Merrill #3; Hakeman #7
+P_HP: Hakeman #1; Merrill #1
+B_2B: Justy
+B_HR: Sorry
+B_SB: Tyler #3; Cleburne #2
+B_SH: Tesche; White; Sorry
+T: 2:00
+U: Bryan
+
+---
+
+date: 1912-04-24
+number: 0
+league: South Central
+away: Paris
+home: Marshall
+
+Marshall:	ab r h po a e
+Gowan @ cf:	4 0 1 2 0 0
+Stapleton @ 3b:	3 0 0 0 3 1
+Pappe @ ss:	4 0 1 0 3 2
+Blanchett @ 1b:	3 0 0 10 0 2
+Nagle @ rf:	2 0 0 0 0 2
+Stribbel @ 2b:	4 1 1 2 2 1
+Ballingal @ lf:	3 1 2 2 0 0
+Short @ c:	4 0 0 2 1 2
+Kane @ p:	2 1 0 9 1 0
+TOTALS:		29 3 5 27 10 10
+
+Paris:		ab r h po a e
+Belton @ c:	5 0 2 2 0 0
+Solliday @ 2b:	4 1 1 2 2 1
+Sherwood @ ss:	5 2 1 1 0 0
+Lawson @ rf:	5 0 1 2 0 0
+Wood @ 3b:		5 3 2 0 0 0
+Mathews, L. @ 1b:	5 1 0 7 1 0
+Dowlin @ cf:	5 2 0 2 0 0
+Mathews, E. @ lf:	5 1 2 2 0 0
+Hawker @ p:		5 2 3 9 3 1
+TOTALS:		44 12 11 27 6 3
+
+line: Paris: 0 3 5 2 0 0 2 0 0 - 12
+line: Marshall: 0 0 0 0 1 0 0 2 0 - 3
+
+B_2B: E. Mathews
+B_3B: Sherwood; Hawker
+F_DP: Stribbel, Blanchett
+P_BB: Kane #1; Hawker #4
+P_SO: Kane #9; Hawker #8
+F_PB: Short #2
+T: 2:55
+U: Welgeht
+
+---
+
+date: 1912-04-24
+number: 0
+league: South Central
+away: Texarkana
+home: Longview
+
+Longview:	ab r h po a e
+Halliday @ cf:	5 0 0 2 1 0
+White @ ss:		5 0 0 1 2 1
+Hardy @ 1b:		5 1 2 13 0 1
+Johns @ 2b:		5 1 2 0 3 1
+Crosby @ rf:	4 1 2 2 0 0
+Merrett @ c:	3 0 1 11 2 1
+Hoffman @ lf:	3 0 1 1 0 0
+Litterell @ 3b:	4 0 0 0 0 0
+Broadus @ p:	4 0 2 0 6 0
+TOTALS:		38 3 9 30 14 4
+
+Texarkana:	ab r h po a e
+Cella @ lf:	4 0 1 5 1 0
+Allen @ rb:	4 0 0 2 0 1
+Barker @ cf:	4 1 1 2 0 1
+Hanlihan @ 1b:	4 1 1 13 0 1
+Stegall @ 3b:	5 1 1 1 2 0
+Hudson @ 2b:	5 0 1 1 5 0
+Prudhomme @ ss:	 4 0 1 3 2 0
+Jordan @ c:		5 1 1 3 1 0
+McConnell @ p:	4 0 1 0 3 1
+TOTALS:		39 4 8 30 14 3
+
+line: Longview: 0 2 1 0 0 0 0 0 0 0 - 3
+line: Texarkana: 0 0 0 0 0 1 0 2 0 1 - 4
+
+B_ER: Longview #3; Texarkana #3
+P_BB: Broadus #6; McConnell #1
+B_LOB: Longview #5; Texarkana #9
+P_WP: Broadus #2
+B_ROE: Texarkana #3; Longview #3
+B_HR: Hanlihan
+P_SO: Broadus #11; McConnell #1
+T: 1:55
+U: Robertson

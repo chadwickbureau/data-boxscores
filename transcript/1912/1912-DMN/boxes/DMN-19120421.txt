@@ -1,0 +1,204 @@
+date: 1912-04-20
+number: 0
+league: Texas
+away: Waco
+home: Dallas
+
+Dallas:		ab r h po a e
+Kellerman @ ss:		3 1 1 0 2 1
+Ens @ 2b:		3 1 1 2 2 0
+Gibson @ c:		4 0 2 7 0 0
+Forsythe @ lf:	6 0 2 3 0 0
+Wilson @ 1b:	6 0 1 21 0 0
+Tullos @ 3b:	5 0 0 1 4 0
+Shuman @ cf:	4 0 0 4 0 0
+Tierney @ rf:	5 0 0 4 0 0
+Shontz @ p:		3 1 1 0 10 0
+*Evans @ ph:	1 0 0 0 0 0
+Bader @ p:		0 0 0 0 0 0
+TOTALS:			40 3 8 42 18 1
+
+Waco:		ab r h po a e
+Beck @ ss:		4 1 0 0 3 0
+Aiken @ 3b:		6 1 2 5 4 0
+Stewart @ cf:	5 0 1 2 1 0
+Rennard @ rf:	5 1 2 2 0 0
+Wohleben @ 1b:	7 0 0 20 0 0
+Crichlow @ lf:	5 0 0 4 0 0
+^Wylie @ ph:	1 0 0 0 0 0
+Dugey @ 2b:		5 0 0 6 4 0
+Carson @ c:		5 0 0 3 4 0
+Lohman @ p:		5 0 0 0 5 1 
+Tanner @ lf:	0 0 0 0 0 0
+TOTALS:			48 3 5 42 21 1
+
+*: Batted for Shontz in 13th
+^: Batted for Crichlow in 13th
+
+line: Dallas: 1 0 0 0 2 0 0 0 0 0 0 0 0 0 - 3
+line: Waco: 1 0 0 0 0 0 0 0 2 0 0 0 0 0 - 3
+
+P_IP: Shontz #13
+P_R: Shontz #3
+P_H: Shontz #5
+B_2B: Gibson
+B_3B: Rennard
+B_SB: Beck; Kellerman
+B_SH: Gibson; Kellerman; Ens
+B_SF: Stewart
+P_SO: Shontz #3; Lohman #3
+P_BB: Shontz #3; Lohman #4
+P_HP: Lohman
+B_ROE: Waco #1
+B_LOB: Dallas #5; Waco #5
+F_DP: Beck, Dugey
+T: 2:25
+U: Wilkinson; Brady
+
+---
+
+date: 1912-04-20
+number: 0
+league: Texas
+away: Austin
+home: Fort Worth
+
+
+Fort Worth:		ab r h po a e
+Cooper @ rf:	4 0 0 0 0 0 
+Morris @ ss:	4 0 0 3 4 0
+Howard @ cf:	3 0 0 1 0 0
+Frierson @ lf:	3 1 2 1 0 0
+Thompson @ 2b:	3 0 0 2 2 1
+Snapp @ 3b:		3 0 1 2 1 0
+Manes @ 1b:		3 0 0 8 0 0
+Kitchen @ c:	2 0 0 9 2 0
+Perritt @ p:	2 0 0 1 3 0
+TOTALS:		27 1 3 27 12 1
+
+Austin:		ab r h po a e
+Brownlow @ ss:	4 0 1 0 5 1
+Cook @ cf:		4 0 2 1 0 1 
+Robinson @ lf:	4 0 1 2 0 0
+Downey @ rf:	3 0 0 0 0 0 
+Hille @ 3b:		3 0 0 0 1 1 
+McLarry @ 1b:	3 0 0 10 1 0
+Smith @ 2b:		3 0 0 4 2 0
+Hinninger @ c:	3 0 1 7 1 0
+Ashton @ p:		2 0 0 0 3 0
+*Stellbauer @ ph:	1 0 0 0 0 0
+TOTALS:		30 0 5 24 13 3
+
+*: Batted for Ashton in 9th
+
+line: Fort Worth: 0 0 0 0 1 0 0 0 x - 1
+line: Austin: 0 0 0 0 0 0 0 0 0 - 0
+
+B_2B: Frierson #2; Cook
+B_SH: Perritt
+P_SO: Perritt #7; Ashton #4
+P_BB: Ashton #1
+B_ROE: Fort Worth #3; Austin #1
+B_LOB: Fort Worth #4; Austin #3
+F_DP: Perritt, Morris, Manes
+T: 1:20
+U: Jacobs
+
+---
+
+date: 1912-04-20
+number: 0
+league: Texas
+away: Galveston
+home: Houston
+
+Houston:	ab r h po a e
+Fillman @ 2b:	3 2 0 2 3 1
+Davis @ cf:		4 0 1 3 0 0
+Landreth @ rf:	4 1 2 0 0 1
+Newnam @ 1b:	2 1 0 6 0 1
+Britton @ 3b:	2 0 2 1 1 0
+Knaupp @ ss:	2 0 0 2 1 2
+Whiteman @ lf:	3 0 1 6 0 0
+Reynolds @ c:	4 1 1 7 1 0
+Edmundson @ p:	2 1 0 0 2 0
+TOTALS:		26 6 7 27 8 4
+
+Galveston:		ab r h po a e
+Maag @ 2b:		5 0 2 1 1 0
+Clements @ 3b:	5 0 1 3 2 2 
+Thebo @ cf:		5 0 0 1 0 0
+Salm @ 1b:		4 1 2 6 1 1 
+Williams, J. @ lf:	4 1 1 3 0 0
+Madden @ ss:	4 0 1 2 2 1
+Peebles @ rf:	4 0 1 1 1 0
+Williams, H. @ c:	3 0 1 6 3 0
+Malloy @ p:		0 0 0 0 2 0
+Morton @ p:		4 0 0 1 2 0
+TOTALS:		37 2 9 24 14 4
+
+line: Houston: 1 5 0 0 0 0 0 0 x - 6
+line: Galveston: 0 0 0 1 0 0 0 1 0 - 2
+
+B_2B: Landreth
+P_IP: Malloy #2; Morton #6
+P_H: Malloy #2; Morton #4
+P_R: Malloy #6
+P_BB: Malloy #4; Edmundson #3; Morton #2
+P_SO: Edmundson #7; Morton #3
+P_HP: Malloy #4
+F_DP: Malloy, H. Williams, Salm; Fillman, Newnam; Peebles, H. Williams
+P_WP: Malloy
+B_LOB: Houston #9; Galveston #9
+P_BK: Morton
+B_SH: Fillman
+B_SB: Fillman; Whiteman #2; Clements; Salm; Madden
+T: 2:05
+U: Van Syckle
+
+---
+
+date: 1912-04-20
+number: 0
+league: Texas
+away: Beaumont
+home: San Antonio
+
+San Antonio:	ab r h po a e
+Meehan @ lf:	3 1 1 1 0 0
+Betts @ rf:		3 0 0 0 0 0
+Midkiff @ 3b:	4 0 1 0 2 0 
+Metz @ 1b:		2 0 0 12 2 0
+Wallace, R. @ ss:	4 0 0 3 3 0
+Daringer @ 2b:	4 0 0 2 4 0
+Smith @ c:		3 0 1 5 2 0
+Leady @ cf:		3 0 0 3 0 0
+Browning @ p:	2 0 0 1 3 0
+TOTALS:			28 1 3 27 16 0
+
+Beaumont:		ab r h po a e
+Mayes @ cf:		3 0 0 1 0 0
+Wheeler @ 2b:	3 0 2 3 4 1
+Cook @ 1b:		3 0 0 12 1 0
+Dail @ lf:		3 0 1 0 0 0
+Cowan @ 3b:		3 0 0 1 1 0
+Kramer @ rf:	3 0 1 2 0 0
+Edmiston @ ss:	3 0 0 1 2 0
+Dawson @ c:		3 0 0 3 0 1
+Martina @ p:	2 0 0 1 3 1
+*Wallace, J. @ ph:	1 0 0 0 0 0
+TOTALS:		27 0 4 24 11 3
+
+*: Batted for Martina in 9th
+
+line: San Antonio: 0 0 1 0 0 0 0 0 x - 1
+line: Beaumont: 0 0 0 0 0 0 0 0 0 - 0
+
+B_2B: Meehan
+B_SB: Metz #2; Betts
+P_SO: Browning #4; Martina #2
+P_BB: Martina #5
+B_LOB: San Antonio #8; Beaumont #0
+F_DP: Daringer, Metz, R. Wallace; R. Wallace, Metz
+T: 1:25
+U: Newhouse

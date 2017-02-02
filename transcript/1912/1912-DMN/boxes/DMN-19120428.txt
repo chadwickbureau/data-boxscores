@@ -1,0 +1,356 @@
+date: 1912-04-27
+number: 0
+league: Texas-Oklahoma
+away: Durant
+home: Sherman
+
+Sherman:	ab r h po a e
+Reed @ 2b:	5 1 0 1 1 1
+Dooley @ lf:	5 0 0 0 0 0
+Williamson @ cf:	4 1 1 1 0 0
+Rayborn @ 1b:	4 2 0 8 1 0
+Humphries @ ss:	4 1 1 2 2 0
+Witt @ 3b:		4 2 2 2 2 0
+Townsend @ c:	4 1 0 11 0 0
+Lamonica @ lf:	4 0 0 0 0 0
+Napier @ p:		4 0 1 2 3 0
+TOTALS:		38 8 5 27 9 1
+
+Durant:		ab r h po a e
+Epling @ 2b:	4 0 0 0 4 1
+Garrity @ ss:	4 0 0 1 2 1
+Reid @ 1b:		4 0 1 11 0 0
+McCullum @ cf:	4 0 2 1 0 0
+Kister @ rf-c:	4 0 1 9 0 0
+Tucker @ lf:	4 0 0 0 0 0
+Edmonds @ 3b:	3 1 1 0 3 0
+Mitchell @ c:	0 0 0 2 0 0
+Deordoff @ p:	2 0 0 0 0 1
+Green @ rf:		3 0 1 0 0 0
+Gearhert @ p:	1 1 0 0 1 0
+TOTALS:			33 2 6 24 10 3
+
+note: Assumed Kister moved to C - box makes more sense that way
+
+line: Sherman: 0 1 0 0 0 6 1 0 x - 8
+line: Durant: 0 0 0 0 1 0 0 1 0 - 2
+
+B_2B: Edmonds; McCullum
+P_H: Deordoff #4; Gearhert #1
+P_R: Deordoff #7; Gearhert #1
+P_IP: Deordoff #6; Gearhert #2
+P_SO: Napier #11; Deordoff #6; Gearhert #3
+P_BB: Deordoff #4; Gearhert #1
+B_LOB: Sherman #6; Durant #4
+B_ROE: Sherman #3; Durant #1
+B_SB: Williamson; Humphries; Witt #2; Townsend; Lamonica; Gearhert
+B_SH: Humphries; Lamonica
+T: 1:45
+U: Folsom
+
+---
+
+date: 1912-04-27
+number: 0
+league: Texas-Oklahoma
+away: Ardmore
+home: Wichita Falls
+
+Ardmore:	ab r h po a e
+Woodward @ 3b-lf:	5 3 3 0 1 0
+Patterson @ ss-3b:	4 1 0 0 3 0
+Gray @ 2b:	3 1 1 1 2 0
+Naylor [Ard] @ rf:	4 0 1 1 0 0
+Sullivan @ cf:	5 0 1 3 0 0
+Caldwell @ lf-p:	5 2 2 0 1 0
+Cook @ 1b:	5 2 0 14 1 10
+Belew @ c:	5 1 2 6 0 1
+Scott @ p:	0 1 0 0 1 0
+McEvoy @ ss:	3 1 1 2 3 1
+TOTALS:		39 12 11 27 12 2
+
+Wichita Falls:	ab r h po a e
+Lawrence @ 3b:	5 1 2 1 1 1
+Morris @ cf:	4 1 2 3 0 0
+Brown @ rf:		5 0 1 2 0 0
+Guthrie @ lf:	4 2 2 0 0 0
+Clark @ ss:		3 0 2 3 2 1
+Phillips @ 2b:	4 0 0 0 1 0
+Mullins, F. P. @ c:	2 0 0 3 0 0
+Naylor [WF] @ c:	2 0 0 7 2 0
+Jones @ 1b:		4 0 0 7 1 1
+Mullins, O. V. @ p:	0 0 0 1 1 1
+Baxter @ p:		3 0 0 0 2 1
+*Myers @ ph:	1 1 1 0 0 0
+TOTALS:			37 5 10 27 10 5
+
+*: Batted for O. V. Mullins in 3rd
+
+line: Ardmore: 1 0 3 5 0 0 0 1 2 - 12
+line: Wichita Falls: 0 0 4 0 0 0 0 1 0 - 5
+
+P_IP: Scott #2.1; Caldwell #6.2; O. V. Mullins #3; Baxter #6
+P_H: Scott #5; Caldwell #5; O. V. Mullins #2; Baxter #9
+B_SB: Woodward; Naylor [Ard]; Morris
+B_SH: Phillips
+B_SF: Gray #2
+B_ER: Ardmore #7; Wichita Falls #3
+B_2B: Brown; Morris; McEvoy; Woodward; Clark; Lawrence
+B_3B: Woodward; Guthrie; Belew
+B_HR: Gray; Lawrence
+P_BB: Caldwell #2; Baxter #3
+P_SO: Caldwell #6; O. V. Mullins #3; Baxter #6
+B_LOB: Ardmore #5; Wichita Falls #5
+F_DP: McEvoy, Cook
+P_WP: O. V. Mullins
+F_PB: Naylor [WF]; Belew
+B_ROE: Ardmore #3
+B_HP: Scott; Patterson
+T: 2:15
+U: Murphy
+
+---
+
+date: 1912-04-27
+number: 0
+league: Texas-Oklahoma
+away: Bonham
+home: Greenville
+
+Greenville:	ab r h po a e
+Harper @ lf:	4 0 2 2 0 0
+Pickens @ 2b:	4 0 0 4 1 0
+Wakefield @ cf:	4 0 0 0 0 0
+Flynn @ c:		4 0 0 7 3 0
+Disharoon @ ss:	3 0 0 1 4 1
+Kizziar @ 1b:	3 0 1 12 2 1
+West @ rf:		3 0 1 0 0 0
+Adkins @ 3b:	2 0 0 0 0 0
+Miller @ p:		2 1 1 1 3 1
+TOTALS:		29 1 5 27 13 3
+
+Bonham:		ab r h po a e
+Baker @ lf:	2 1 1 0 0 0
+Roach @ 1b:	3 0 0 2 1 0
+Lambert @ cf:	4 1 1 1 2 0
+Welch @ c:	2 0 0 5 4 0
+Leslie @ 2b:	4 0 0 2 2 1
+Landry @ ss:	3 0 0 1 4 1
+Yost @ 1b:		4 0 1 14 0 1
+Matthews @ rf:	3 0 0 1 1 0
+Russell @ p:	4 1 0 1 1 0
+TOTALS:		29 3 2 27 15 3
+
+line: Greenville: 0 0 0 0 0 1 0 0 0 - 1
+line: Bonham: 2 1 0 0 0 0 0 0 0 - 3
+
+F_DP: Disharoon, Pickens, Kizziar
+B_SB: Welch; Russell
+B_2B: Kizziar; Harper; Baker
+B_HR: Lambert
+P_SO: Miller #9; Russell #8
+P_BB: Miller #3
+B_HP: Landry
+B_SH: Roach; Welch; Adkins; Matthews; Miller
+T: 1:15
+U: Jegglin
+
+---
+
+date: 1912-04-27
+number: 0
+league: Texas-Oklahoma
+away: McKinney
+home: Denison
+
+McKinney:	ab r h po a e
+Kerr @ 2b:	2 1 0 0 5 0
+Thebo @ 3b:	3 0 0 1 1 1
+Pennell, A. @ rf:	4 0 1 1 0 1
+Goss @ p:	5 1 1 0 3 1
+White @ c:	3 1 1 3 0 1
+Pennell, P. @ ss:	4 0 1 3 6 0 
+Spence @ cf:	 3 0 0 0 0 0
+McMillan @ 1b:	3 0 1 16 1 2
+Erwin @ lf:		2 1 0 0 0 0
+TOTALS:		29 4 5 24 16 6
+
+Denison:	ab r h po a e
+Brooks @ ss:	4 1 1 2 0 0
+Bobo @ c:		4 1 3 8 4 2
+Covington, C. @ lf:	3 0 1 0 0 0
+Clinkener @ rf:	4 0 0 1 1 10
+Covington, B. @ cf-p:	4 1 1 2 2 0
+Moore @ 2b:		4 1 1 5 2 1
+Dupuy @ 3b:		4 2 2 0 1 1
+Covington, H. @ 1b:	4 0 0 8 0 0
+Laclaire @ p:	1 1 0 0 1 1
+Kerlin @ cf:	2 1 1 1 0 0
+TOTALS:		34 8 10 27 1 5
+
+line: McKinney: 2 1 1 0 0 0 0 0 0 - 4
+line: Denison: 0 3 1 0 0 4 0 0 0 - 8
+
+P_IP: Laclaire #2; B. Covington #7
+P_R: Laclaire #3; B. Covington #1
+B_3B: Bobo
+B_SB: P. Pennell #3; White #2; A. Pennell #2; Thebo; Kerr; C. Covington; Dupuy
+B_SH: Erwin
+P_HP: B. Covington #1
+P_BB: Laclaire #2; B. Covington #7; Goss #2
+F_DP: Thebo, McMillan; Bobo, H. Covington; Clinkener, H. Covington
+T: 1:45
+U: Mulkey, Cy
+
+---
+
+date: 1912-04-27
+number: 0
+league: South Central
+away: Marshall
+home: Texarkana
+
+Marshall:	ab r h po a e
+Gowen @ cf:		3 0 1 1 0 0
+Stapleton @ 3b:	3 1 1 0 1 2
+Pappe @ ss:		4 0 1 1 1 2
+Blanchette @ 1b:	3 0 0 7 0 0
+Nagel @ rf:		4 1 1 0 0 0 
+Starbel @ 2b:	4 0 1 4 3 0
+Ballinger @ lf:	3 0 0 3 0 0
+Short @ c:		3 0 0 8 2 0
+Rowland @ p:	3 0 0 0 0 0
+TOTALS:			30 2 5 24 7 4
+
+Texarkana:	ab r h po a e
+Cella @ lf:		2 1 1 0 1 0
+Stegall @ 3b:	2 0 1 1 3 0
+Jordan @ c:		4 1 1 9 2 0
+Houlihan @ 1b:	4 1 1 7 1 0
+Hudson @ 2b:	4 0 0 3 3 1
+Barker @ cf:	2 0 0 0 0 0
+Allen @ rf:		4 0 2 0 0 0
+Prudhomme @ ss:	3 0 1 5 0 1
+Stubbs @ p:		2 1 0 0 5 0
+McKinnon @ cf:	2 0 0 2 0 0
+TOTALS:		29 4 7 27 15 2
+
+line: Marshall: 0 0 0 1 0 0 1 0 0 - 2
+line: Texarkana: 0 0 1 0 0 2 1 0 x - 4
+
+B_2B: Gowen
+B_SB: Stegall
+B_SH: Stegall; Cella; Stubbs
+P_SO: Stubbs #9; Rowland #7
+P_BB: Stubbs #3; Rowland #1
+P_HP: Rowland; Stegall
+B_ROE: Marshall #2; Texarkana #2
+B_LOB: Marshall #4; Texarkana #6
+F_DP: Hudson, Prudhomme
+P_WP: Stubbs
+T: 1:35
+U: Robinson
+
+---
+
+date: 1912-04-27
+number: 0
+league: South Central
+away: Tyler
+home: Paris
+
+Tyler:		ab r h po a e
+Johnson @ rf:	5 0 0 2 0 0
+Poindexter @ lf:	5 1 1 1 0 1
+Campbell @ 1b:	5 1 0 9 1 0
+Buster @ c:		5 2 3 7 0 1
+Fruth @ 2b:		4 1 0 1 1 0
+*Tucker @ ph:	x x x x x x
+Hewitt @ 3b:	4 2 1 0 3 0
+Milam @ cf:		4 2 2 4 0 0
+Moody @ ss:		4 2 1 3 5 1
+Turner @ p:		1 0 1 0 0 1
+Brown @ p:		2 0 1 0 1 0
+O'Neil @ p:		2 0 1 0 1 0
+TOTALS:			41 11 11 27 12 4
+
+*: Batted for Fruth in 9th
+note: Tucker is not listed in player list, only as a PH
+
+Paris:		ab r h po a e
+Bettison @ c:	4 1 1 7 1 1
+Solliday @ 2b:	3 1 0 2 3 1
+Sherwood @ ss:	5 1 2 1 1 1
+Lawson @ rf:	4 0 1 1 0 0
+Wood @ 3b:		3 2 1 0 4 1
+Mathias, L. @ 1b:	4 1 2 9 0 1
+Mathias, E. @ lf:	4 1 0 4 0 0
+Dowlen @ cf:	5 1 1 2 0 0
+Hawker @ p:		5 1 1 1 1 0
++Gaines @ ph:	x x x x x x
+TOTALS:			39 9 9 27 10 5
+
++: Batted for Hawker in 9th
+note: Gaines is not listed in player list, only as a PH
+
+line: Tyler: 0 4 0 0 0 1 2 0 4 - 11
+line: Paris: 0 6 0 0 0 0 1 0 2 - 9
+
+B_SH: Solliday; Johnson; Moody
+B_2B: Sherwood; Brown
+P_BB: Turner #2; Brown #2; O'Neil #3; Hawker #3
+P_SO: Brown #2; O'Neil #4; Hawker #6
+F_DP: Moody, Campbell
+T: 2:07
+U: Wright
+
+---
+
+date: 1912-04-27
+number: 0
+league: South Central
+away: Longview
+home: Cleburne
+
+Cleburne:	ab r h po a e
+Weber @ 2b:	3 0 0 1 4 1
+White @ cf:	2 0 0 3 0 0
+Gardner @ lf:	4 0 0 0 0 0
+Bessie @ rf:	3 1 0 1 0 0
+Ritter @ c:		3 0 1 10 1 1
+Sorrey @ ss:	4 1 2 2 2 0
+Jutzie @ 1b:	4 0 1 7 0 1
+Perkins @ 3b:	3 0 0 3 2 0
+*Kerr @ ph:		1 0 0 0 0 0
+Malloy @ p:		3 0 0 0 0 1
+TOTALS:		30 2 4 27 9 4
+
+Longview:	ab r h po a e
+Halliday @ cf:	4 1 0 2 0 0
+Litterel @ lf:	3 1 1 0 0 0 
+Hardy @ 1b:		4 0 1 11 0 0
+Johns @ 2b:		4 0 1 2 3 1
+Merrett @ 3b:	3 1 0 0 3 0
+Hoffman @ rf:	3 1 0 1 0 0
+White, G. @ ss:	3 0 2 1 4 0
+Spear @ c:		4 0 0 10 3 0
+Broadus @ p:	1 0 0 0 0 0
+Appleton @ p:	3 0 0 0 1 1
+TOTALS:		32 4 5 27 14 2
+
+*: Batted for Malloy in 9th
+
+line: Cleburne: 0 2 0 0 0 0 0 0 0 - 2
+line: Longview: 1 0 1 0 0 1 1 0 1 - 4
+
+P_IP: Malloy #9; Broadus #1.1; Appleton #7.2
+P_BB: Malloy #4; Broadus #3; Appleton #1
+P_SO: Malloy #9; Appleton #7
+P_WP: Broadus
+B_2B: Johns; Hardy
+B_HP: Hoffman
+F_PB: Spear
+B_ROE: Cleburne #2; Longview #2
+B_LOB: Cleburne #6; Longview #6
+T: 2:05
+U: Bryan

@@ -66,12 +66,11 @@ class Game(object):
         stats = filter(lambda x: x.strip() != "", value.split())
         if len(stats) != len(columns):
             print "In file %s,\n   game %s" % (self.metadata['filename'], self)
-            print "  Column mismatch in stat line '%s'" % value
-            return
-
-        for (s, c) in zip(stats, columns):
-            if s not in [ "X", "x" ]:
-                playing[c] = s
+            print "  Incorrect number of categories in '%s: %s'" % (key, value)
+        else:
+            for (s, c) in zip(stats, columns):
+                if s not in [ "X", "x" ]:
+                    playing[c] = s
         return playing
 
     def _parse_details(self, key, value):

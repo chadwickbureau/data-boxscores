@@ -1,0 +1,514 @@
+league.year,league.name,person.ref,person.name.last,person.name.given,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G
+1912,Oklahoma State League,ANTR0101,Anderson,,Muskogee,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Oklahoma State League,ATRP0101,Atterbury,,Guthrie,1912-05-01,1912-05-01,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Oklahoma State League,PKSP0101,Bigsbe,,McAlester,1912-05-01,1912-05-01,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Oklahoma State League,PLNK0101,Billings,,Oklahoma City,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Oklahoma State League,PRNZ0101,Brown,,Tulsa,1912-04-30,1912-05-01,2,0,0,0,0,0,0,0,0,0,2,0
+1912,Oklahoma State League,PRNT0101,Burnett,,Okmulgee,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Oklahoma State League,KFRT0101,Crawford,,Oklahoma City,1912-04-30,1912-05-01,2,0,0,0,0,0,0,0,0,0,2,0
+1912,Oklahoma State League,TLZZ0101,Dooley,,Guthrie,1912-04-30,1912-05-01,2,0,0,0,0,0,0,0,0,0,2,0
+1912,Oklahoma State League,ARXM0101,Erishman,,Guthrie,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Oklahoma State League,FRNS0101,Ferns,,Tulsa,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Oklahoma State League,FKXZ0101,Fucich,,Holdenville,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Oklahoma State League,KPRL0101,Gabriel,,Tulsa,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Oklahoma State League,KLKR0101,Gallagher,,Anadarko,1912-04-30,1912-05-01,2,0,0,0,0,0,0,0,0,0,2,0
+1912,Oklahoma State League,HNTR0101,Henderson,,Tulsa,1912-04-30,1912-05-01,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Oklahoma State League,HLZZ0101,Hill,,Holdenville,1912-05-01,1912-05-01,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Oklahoma State League,JSPR0101,Jasper,,Anadarko,1912-05-01,1912-05-01,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Oklahoma State League,JFRS0101,Jeffries,,Okmulgee,1912-04-30,1912-04-30,1,0,0,0,0,0,0,0,0,0,1,0
+1912,Oklahoma State League,KSTR0101,Kester,,Tulsa,1912-05-01,1912-05-01,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Oklahoma State League,KRSZ0101,Krause,,Guthrie,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Oklahoma State League,LNKL0101,Langley,,Oklahoma City,1912-05-01,1912-05-01,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Oklahoma State League,LZZZ0101,Lowe,,Guthrie,1912-05-01,1912-05-01,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Oklahoma State League,MTKS0101,Matticks,,Okmulgee,1912-05-01,1912-05-01,1,0,0,0,0,0,0,0,0,0,1,0
+1912,Oklahoma State League,MRSZ0101,Meyers,,McAlester,1912-05-01,1912-05-01,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Oklahoma State League,MLRZ0101,Miller,,McAlester,1912-04-30,1912-05-01,2,0,0,0,0,0,0,0,0,0,2,0
+1912,Oklahoma State League,RNZZ0101,Rayn,,McAlester,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Oklahoma State League,STNZ0101,Stone,,Anadarko,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Oklahoma State League,TLRZ0101,Taylor,,Okmulgee,1912-05-01,1912-05-01,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Oklahoma State League,TNKP0101,Tincup,,Muskogee,1912-05-01,1912-05-01,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Oklahoma State League,APZZ0101,Webb,,Holdenville,1912-04-30,1912-05-01,2,0,0,0,0,0,0,0,0,0,2,0
+1912,Oklahoma State League,ALSN0101,Wilson,,Muskogee,1912-04-30,1912-05-01,2,0,0,0,0,0,0,0,0,0,2,0
+1912,Oklahoma State League,ASZZ0101,Wise,,McAlester,1912-05-01,1912-05-01,1,1,0,0,0,0,0,0,0,0,0,1
+1912,South Central League,ATMS0103,Adams,,Cleburne,1912-04-25,1912-05-01,4,0,0,0,0,0,4,1,2,1,0,0
+1912,South Central League,ATMS0203,Adams,,Greenville,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
+1912,South Central League,ATMS0303,Adams,,Paris,1912-04-23,1912-04-30,4,3,0,0,0,0,1,0,1,0,0,3
+1912,South Central League,ALNZ0101,Allen,,Texarkana,1912-04-23,1912-05-01,8,0,0,0,0,0,7,0,0,7,0,0
+1912,South Central League,APLT0101,Appleton,,Longview,1912-04-26,1912-04-30,3,3,0,0,0,0,0,0,0,0,0,3
+1912,South Central League,ATKN0101,Atkin,,Greenville,1912-04-30,1912-04-30,1,0,0,0,1,0,0,0,0,0,0,0
+1912,South Central League,PKRZ0101,Baker,,Texarkana,1912-04-25,1912-04-25,1,0,0,0,0,0,1,0,1,0,0,0
+1912,South Central League,PLNK0103,Ballingal,,Marshall,1912-04-24,1912-04-29,2,0,0,0,0,0,2,2,0,0,0,0
+1912,South Central League,PLNK0203,Ballingall,,Marshall,1912-04-23,1912-04-25,2,0,0,0,0,0,2,2,0,0,0,0
+1912,South Central League,PLNK0303,Ballinger,,Marshall,1912-04-26,1912-04-27,2,0,0,0,0,0,2,2,0,0,0,0
+1912,South Central League,PNKN0101,Banghinan,,Tyler,1912-04-26,1912-04-26,1,0,0,0,0,1,0,0,0,0,0,0
+1912,South Central League,PRKR0101,Barker,,Texarkana,1912-04-23,1912-05-01,7,0,0,0,0,0,7,0,7,0,0,0
+1912,South Central League,PRNT0101,Barnett,,Greenville,1912-04-30,1912-04-30,1,0,0,0,0,0,0,0,0,0,0,0
+1912,South Central League,PMNZ0101,Baughman,,Tyler,1912-04-25,1912-04-25,1,0,0,1,0,0,0,0,0,0,0,0
+1912,South Central League,PLTS0101,Beltison,,Paris,1912-04-23,1912-04-25,2,0,0,0,0,0,0,0,0,0,2,0
+1912,South Central League,PLTN0101,Belton,,Paris,1912-04-24,1912-04-24,1,0,0,0,0,0,0,0,0,0,1,0
+1912,South Central League,PSZZ0101,Bessie,,Cleburne,1912-04-24,1912-05-01,7,0,0,0,0,0,7,0,0,7,0,0
+1912,South Central League,PTSN0101,Bettison,,Paris,1912-04-26,1912-05-01,5,0,0,0,0,0,1,0,1,0,4,0
+1912,South Central League,PNKM0101,Binghman,,Tyler,1912-04-30,1912-04-30,1,0,0,0,0,0,1,0,1,0,0,0
+1912,South Central League,PLNX0102,Blanchett,,Marshall,1912-04-24,1912-04-24,1,0,1,0,0,0,0,0,0,0,0,0
+1912,South Central League,PLNX0202,Blanchette,,Marshall,1912-04-23,1912-05-01,7,0,7,0,0,0,0,0,0,0,0,0
+1912,South Central League,PRTS0101,Broadus,,Longview,1912-04-24,1912-04-30,3,3,0,0,0,0,0,0,0,0,0,3
+1912,South Central League,PRNZ0101,Brown,,Tyler,1912-04-27,1912-04-30,2,2,0,0,0,0,0,0,0,0,0,2
+1912,South Central League,PSTR0101,Buster,,Tyler,1912-04-23,1912-05-01,8,0,0,0,0,0,0,0,0,0,8,0
+1912,South Central League,KMPL0101,Campbell,,Tyler,1912-04-24,1912-05-01,7,0,7,0,0,0,0,0,0,0,0,0
+1912,South Central League,KLZZ0102,Cella,,Texarkana,1912-04-24,1912-05-01,6,0,0,0,0,0,6,6,0,0,0,0
+1912,South Central League,KLZZ0202,Colla,,Texarkana,1912-04-23,1912-04-25,2,0,0,0,0,0,2,2,0,0,0,0
+1912,South Central League,KLNS0101,Collins,,Paris,1912-04-26,1912-04-29,2,2,0,0,0,0,0,0,0,0,0,2
+1912,South Central League,KSPZ0101,Crosby,,Longview,1912-04-23,1912-05-01,7,0,0,0,0,0,7,0,3,4,0,0
+1912,South Central League,TXRN0101,Disharoon,,Greenville,1912-04-30,1912-04-30,1,0,0,0,0,0,0,0,0,0,0,0
+1912,South Central League,TLZZ0101,Dooley,,Sherman,1912-04-30,1912-04-30,1,0,0,0,0,0,1,1,0,0,0,0
+1912,South Central League,TNZZ0101,Dowen,,Paris,1912-04-23,1912-04-23,1,0,0,0,0,0,1,0,1,0,0,0
+1912,South Central League,TLNZ0102,Dowlen,,Paris,1912-04-27,1912-05-01,3,0,0,0,0,0,3,0,1,2,0,0
+1912,South Central League,TLNZ0202,Dowlin,,Paris,1912-04-24,1912-04-29,4,0,0,0,0,0,4,0,4,0,0,0
+1912,South Central League,FLZZ0101,Fall,,Texarkana,1912-04-23,1912-04-23,1,0,0,0,1,0,0,0,0,0,0,0
+1912,South Central League,FPRT0102,Feibert,,Tyler,1912-04-26,1912-05-01,2,2,0,0,0,0,0,0,0,0,0,2
+1912,South Central League,FPRT0202,Fiebert,,Tyler,1912-04-25,1912-04-25,1,1,0,0,0,0,0,0,0,0,0,1
+1912,South Central League,FLNZ0101,Flynn,D.,Greenville,1912-04-30,1912-04-30,1,0,0,0,0,0,1,0,0,1,0,0
+1912,South Central League,FR0Z0101,Fruth,,Tyler,1912-04-24,1912-05-01,6,0,0,4,0,2,0,0,0,0,0,0
+1912,South Central League,KNSZ0102,Gaines,,Paris,1912-04-27,1912-05-01,2,1,0,0,0,0,0,0,0,0,0,1
+1912,South Central League,KNSZ0202,Gains,,Paris,1912-04-23,1912-04-25,2,2,0,0,0,0,0,0,0,0,0,2
+1912,South Central League,KRTN0101,Gardner,,Cleburne,1912-04-26,1912-04-30,4,0,0,0,1,0,4,4,0,0,0,0
+1912,South Central League,KRNR0101,Garner,,Cleburne,1912-05-01,1912-05-01,1,0,0,0,1,0,0,0,0,0,0,0
+1912,South Central League,KNZZ0103,Gowan,,Marshall,1912-04-23,1912-05-01,6,0,0,0,0,0,6,0,6,0,0,0
+1912,South Central League,KNZZ0203,Gowen,,Marshall,1912-04-26,1912-04-27,2,0,0,0,0,0,2,0,2,0,0,0
+1912,South Central League,KTRS0101,Guiterrez,,Marshall,1912-04-25,1912-04-30,2,2,0,0,0,0,0,0,0,0,0,2
+1912,South Central League,HTSN0102,Hadson,,Texarkana,1912-04-29,1912-04-29,1,0,0,1,0,0,0,0,0,0,0,0
+1912,South Central League,HKMN0101,Hakeman,,Tyler,1912-04-24,1912-04-29,3,2,0,0,0,0,0,0,0,0,0,2
+1912,South Central League,HLZZ0101,Hall,,Texarkana,1912-04-23,1912-04-30,3,3,0,0,0,0,0,0,0,0,0,3
+1912,South Central League,HLTZ0103,Halliday,,Longview,1912-04-23,1912-04-27,5,0,0,0,0,0,5,0,5,0,0,0
+1912,South Central League,HNLH0102,Hanlihan,,Texarkana,1912-04-24,1912-04-24,1,0,1,0,0,0,0,0,0,0,0,0
+1912,South Central League,HRPN0101,Harbin,,Cleburne,1912-04-25,1912-04-30,3,2,0,0,0,0,1,1,0,0,0,2
+1912,South Central League,HRTZ0101,Hardy,,Longview,1912-04-23,1912-05-01,8,0,8,0,0,0,0,0,0,0,0,0
+1912,South Central League,HRPR0101,Harper,,Greenville,1912-04-30,1912-04-30,1,0,0,0,0,0,1,1,0,0,0,0
+1912,South Central League,HKRZ0101,Hawker,,Paris,1912-04-24,1912-04-30,3,3,0,0,0,0,0,0,0,0,0,3
+1912,South Central League,HTZZ0101,Hewitt,,Tyler,1912-04-24,1912-04-29,5,0,0,0,5,0,0,0,0,0,0,0
+1912,South Central League,HFMN0101,Hoffman,,Longview,1912-04-23,1912-05-01,8,0,0,0,0,0,8,6,1,1,0,0
+1912,South Central League,HLTZ0203,Holliday,,Longview,1912-04-30,1912-05-01,2,0,0,0,0,0,2,0,0,2,0,0
+1912,South Central League,HLTZ0303,Holliday,,Paris,1912-04-25,1912-04-29,2,0,0,2,0,0,0,0,0,0,0,0
+1912,South Central League,HNLH0202,Honlihan,,Texarkana,1912-04-26,1912-04-26,1,0,1,0,0,0,0,0,0,0,0,0
+1912,South Central League,HLHN0101,Houlihan,,Texarkana,1912-04-25,1912-05-01,5,0,5,0,0,0,0,0,0,0,0,0
+1912,South Central League,HTSN0202,Hudson,,Texarkana,1912-04-23,1912-05-01,7,0,0,7,0,0,0,0,0,0,0,0
+1912,South Central League,HMFR0101,Humphries,,Sherman,1912-04-30,1912-04-30,1,0,0,0,0,1,0,0,0,0,0,0
+1912,South Central League,JNSZ0101,Johns,,Longview,1912-04-24,1912-05-01,7,0,0,6,0,0,0,0,0,0,0,0
+1912,South Central League,JNSN0101,Johnson,,Tyler,1912-04-24,1912-05-01,7,0,1,0,0,0,7,0,0,7,0,0
+1912,South Central League,JRTN0102,Jordan,,Texarkana,1912-04-24,1912-05-01,7,0,0,0,0,0,0,0,0,0,7,0
+1912,South Central League,JRTN0202,Jordon,,Texarkana,1912-04-23,1912-04-23,1,0,0,0,0,0,0,0,0,0,1,0
+1912,South Central League,JSTZ0101,Justy,,Cleburne,1912-04-24,1912-04-25,2,0,0,0,0,0,2,2,0,0,0,0
+1912,South Central League,JTSZ0101,Jutzie,,Cleburne,1912-04-27,1912-05-01,4,0,4,0,0,0,0,0,0,0,0,0
+1912,South Central League,KNZZ0303,Kane,,Marshall,1912-04-24,1912-04-29,3,3,0,0,0,0,0,0,0,0,0,3
+1912,South Central League,KFRZ0101,Keifer,,Marshall,1912-04-30,1912-05-01,2,0,0,0,0,0,2,2,0,0,0,0
+1912,South Central League,KRZZ0102,Kerr,,Cleburne,1912-04-23,1912-05-01,5,3,0,0,0,0,0,0,0,0,0,3
+1912,South Central League,KRZZ0202,Kerr,,Tyler,1912-04-24,1912-04-24,1,0,0,1,0,0,0,0,0,0,0,0
+1912,South Central League,KTZZ0101,Kewitt,,Tyler,1912-05-01,1912-05-01,1,0,0,0,1,0,0,0,0,0,0,0
+1912,South Central League,KXNS0101,Kitchens,,Greenville,1912-04-30,1912-04-30,1,0,1,0,0,0,0,0,0,0,0,0
+1912,South Central League,KFTZ0101,Kuvit,,Tyler,1912-04-30,1912-04-30,1,0,0,0,1,0,0,0,0,0,0,0
+1912,South Central League,LMNK0101,Lamonica,,Sherman,1912-04-30,1912-04-30,1,0,0,0,0,0,1,0,0,1,0,0
+1912,South Central League,LSNZ0101,Lawson,,Paris,1912-04-23,1912-05-01,8,0,0,1,0,0,7,0,1,6,1,0
+1912,South Central League,LSZZ0101,Lewis,,Greenville,1912-04-30,1912-04-30,1,0,0,0,0,1,0,0,0,0,0,0
+1912,South Central League,LTRL0104,Litterel,,Longview,1912-04-27,1912-04-27,1,0,0,0,0,0,1,1,0,0,0,0
+1912,South Central League,LTRL0204,Litterell,,Longview,1912-04-24,1912-04-24,1,0,0,0,1,0,0,0,0,0,0,0
+1912,South Central League,LTRL0304,Littrel,,Longview,1912-04-23,1912-04-23,1,0,0,0,1,0,0,0,0,0,0,0
+1912,South Central League,LTRL0404,Littrell,,Longview,1912-04-25,1912-04-25,1,0,0,0,1,0,0,0,0,0,0,0
+1912,South Central League,LLHN0101,Loulihan,,Texarkana,1912-04-23,1912-04-23,1,0,1,0,0,0,0,0,0,0,0,0
+1912,South Central League,MLZZ0101,Malloy,,Cleburne,1912-04-27,1912-04-27,1,1,0,0,0,0,0,0,0,0,0,1
+1912,South Central League,MRNZ0101,Marine,,Marshall,1912-04-26,1912-04-26,1,1,0,0,0,0,0,0,0,0,0,1
+1912,South Central League,M0SZ0106,Mathews,E.,Paris,1912-04-24,1912-04-24,1,0,0,0,0,0,1,1,0,0,0,0
+1912,South Central League,M0SZ0206,Mathews,L.,Paris,1912-04-24,1912-04-24,1,0,1,0,0,0,0,0,0,0,0,0
+1912,South Central League,M0SZ0306,Mathias,E.,Paris,1912-04-27,1912-04-30,3,0,0,0,0,0,3,3,0,0,0,0
+1912,South Central League,M0SZ0406,Mathias,L.,Paris,1912-04-27,1912-04-30,3,0,3,0,0,0,0,0,0,0,0,0
+1912,South Central League,M0SZ0506,Mathis,E.,Paris,1912-04-23,1912-05-01,4,0,0,0,0,0,4,4,0,0,0,0
+1912,South Central League,M0SZ0606,Mathis,L.,Paris,1912-04-23,1912-05-01,4,0,4,0,0,0,0,0,0,0,0,0
+1912,South Central League,MKNL0101,McConnell,,Texarkana,1912-04-24,1912-04-24,1,1,0,0,0,0,0,0,0,0,0,1
+1912,South Central League,MKNN0102,McKinnen,,Texarkana,1912-04-29,1912-05-01,2,2,0,0,0,0,0,0,0,0,0,2
+1912,South Central League,MKNN0202,McKinnon,,Texarkana,1912-04-27,1912-04-27,1,0,0,0,0,0,1,0,1,0,0,0
+1912,South Central League,MRTZ0103,Merret,,Longview,1912-04-25,1912-04-25,1,0,0,1,0,0,0,0,0,0,0,0
+1912,South Central League,MRTZ0203,Merrett,,Longview,1912-04-23,1912-04-27,4,0,0,1,2,0,0,0,0,0,1,0
+1912,South Central League,MRLZ0101,Merrill,,Cleburne,1912-04-24,1912-05-01,2,2,0,0,0,0,0,0,0,0,0,2
+1912,South Central League,MRTZ0303,Merritt,,Longview,1912-04-30,1912-05-01,2,0,1,0,0,0,0,0,0,0,2,0
+1912,South Central League,MLMZ0101,Milam,,Tyler,1912-04-24,1912-04-27,4,0,0,0,0,0,4,0,4,0,0,0
+1912,South Central League,MLRZ0101,Miller,,Greenville,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
+1912,South Central League,MTZZ0101,Moody,,Tyler,1912-04-27,1912-05-01,4,0,0,0,0,4,0,0,0,0,0,0
+1912,South Central League,NJLZ0101,Nagel,,Marshall,1912-04-23,1912-04-30,6,0,0,0,0,0,6,0,0,6,0,0
+1912,South Central League,NKLZ0101,Nagle,,Marshall,1912-04-24,1912-05-01,2,0,0,0,0,0,2,0,0,2,0,0
+1912,South Central League,ANLZ0102,O'Neal,,Tyler,1912-04-29,1912-05-01,2,0,0,1,0,0,0,0,0,0,0,0
+1912,South Central League,ANLZ0202,O'Neil,,Tyler,1912-04-25,1912-04-27,2,2,0,0,0,0,0,0,0,0,0,2
+1912,South Central League,PPZZ0101,Pappe,,Marshall,1912-04-23,1912-05-01,8,0,0,0,0,8,0,0,0,0,0,0
+1912,South Central League,PRKN0101,Perkins,,Cleburne,1912-04-24,1912-04-30,6,0,0,0,6,0,0,0,0,0,0,0
+1912,South Central League,FLPS0101,Phillips,,Longview,1912-04-23,1912-04-30,4,4,0,0,0,0,0,0,0,0,0,4
+1912,South Central League,PKNS0101,Pickens,,Greenville,1912-04-30,1912-04-30,1,0,0,1,0,0,0,0,0,0,0,0
+1912,South Central League,PNTK0101,Poindexter,,Tyler,1912-04-25,1912-05-01,4,0,0,0,0,0,2,1,1,0,0,0
+1912,South Central League,PRTM0103,Prodhomme,,Texarkana,1912-04-25,1912-04-25,1,0,0,0,0,1,0,0,0,0,0,0
+1912,South Central League,PRTM0203,Prudhome,,Texarkana,1912-05-01,1912-05-01,1,0,0,0,0,1,0,0,0,0,0,0
+1912,South Central League,PRTM0303,Prudhomme,,Texarkana,1912-04-23,1912-04-30,6,0,0,0,0,6,0,0,0,0,0,0
+1912,South Central League,PRTZ0101,Pruitt,,Tyler,1912-04-30,1912-04-30,1,0,0,1,0,0,0,0,0,0,0,0
+1912,South Central League,PKTZ0101,Puckett,,Cleburne,1912-04-24,1912-04-26,3,0,3,0,0,0,0,0,0,0,0,0
+1912,South Central League,RPRN0101,Rayburn,,Sherman,1912-04-30,1912-04-30,1,0,1,0,0,0,0,0,0,0,0,0
+1912,South Central League,RTZZ0101,Reed,,Sherman,1912-04-30,1912-04-30,1,0,0,1,0,0,0,0,0,0,0,0
+1912,South Central League,RTRZ0101,Ritter,,Cleburne,1912-04-23,1912-05-01,8,0,0,0,0,0,0,0,0,0,8,0
+1912,South Central League,RRKZ0101,Roark,,Sherman,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
+1912,South Central League,RPNS0101,Robinson,,Greenville,1912-04-30,1912-04-30,1,0,0,0,0,0,0,0,0,0,1,0
+1912,South Central League,RLNT0101,Rowland,,Marshall,1912-04-23,1912-05-01,3,3,0,0,0,0,0,0,0,0,0,3
+1912,South Central League,XFLT0101,Sheffield,,Longview,1912-04-29,1912-05-01,3,0,0,0,3,0,0,0,0,0,0,0
+1912,South Central League,XRTZ0102,Sherwood,,Paris,1912-04-23,1912-05-01,8,0,0,0,0,8,0,0,0,0,0,0
+1912,South Central League,XRTZ0202,Short,,Marshall,1912-04-23,1912-05-01,8,0,0,0,0,0,0,0,0,0,8,0
+1912,South Central League,XLTS0101,Shultz,,Tyler,1912-04-26,1912-04-26,1,0,0,0,0,0,1,0,0,1,0,0
+1912,South Central League,SLTZ0101,Solliday,,Paris,1912-04-23,1912-05-01,6,0,0,6,0,1,0,0,0,0,0,0
+1912,South Central League,SRZZ0103,Sorrey,,Cleburne,1912-04-27,1912-05-01,3,0,0,0,0,3,0,0,0,0,0,0
+1912,South Central League,SRZZ0203,Sorry,,Cleburne,1912-04-24,1912-04-29,3,0,0,0,0,3,0,0,0,0,0,0
+1912,South Central League,SRZZ0303,Sory,,Cleburne,1912-04-26,1912-04-26,1,0,0,0,0,1,0,0,0,0,0,0
+1912,South Central League,SPRZ0101,Spear,,Longview,1912-04-23,1912-05-01,6,0,0,0,0,0,0,0,0,0,6,0
+1912,South Central League,STPL0101,Stapleton,,Marshall,1912-04-23,1912-05-01,8,0,0,0,8,0,0,0,0,0,0,0
+1912,South Central League,STRP0102,Starbel,,Marshall,1912-04-26,1912-04-27,2,0,0,2,0,0,0,0,0,0,0,0
+1912,South Central League,STKL0101,Stegall,,Texarkana,1912-04-24,1912-05-01,7,0,0,0,7,0,0,0,0,0,0,0
+1912,South Central League,STRK0101,Stergon,,Paris,1912-04-25,1912-04-25,1,1,0,0,0,0,0,0,0,0,0,1
+1912,South Central League,STRP0202,Stribbel,,Marshall,1912-04-23,1912-05-01,6,0,0,6,0,0,0,0,0,0,0,0
+1912,South Central League,STPS0101,Stubbs,,Texarkana,1912-04-23,1912-05-01,3,3,0,0,0,0,0,0,0,0,0,3
+1912,South Central League,TXZZ0101,Tesche,,Tyler,1912-04-24,1912-04-24,1,0,0,0,0,0,1,1,0,0,0,0
+1912,South Central League,TMPS0101,Thompson,,Tyler,1912-04-23,1912-05-01,3,3,0,0,0,0,0,0,0,0,0,3
+1912,South Central League,TXRZ0102,Tischer,,Tyler,1912-04-25,1912-04-25,1,0,0,0,0,0,1,1,0,0,0,0
+1912,South Central League,TXRZ0202,Tisher,,Tyler,1912-04-26,1912-05-01,4,0,0,0,0,0,4,4,0,0,0,0
+1912,South Central League,TNSN0101,Townsend,,Sherman,1912-04-30,1912-04-30,1,0,0,0,0,0,0,0,0,0,1,0
+1912,South Central League,TRML0102,Trammel,,Longview,1912-04-25,1912-05-01,3,2,1,0,0,0,0,0,0,0,0,2
+1912,South Central League,TRML0202,Trammell,,Longview,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
+1912,South Central League,TKRZ0101,Tucker,,Tyler,1912-04-27,1912-04-27,1,0,0,0,0,0,0,0,0,0,0,0
+1912,South Central League,TRNR0101,Turner,,Tyler,1912-04-27,1912-04-27,1,1,0,0,0,0,0,0,0,0,0,1
+1912,South Central League,AKFL0101,Wakefield,,Greenville,1912-04-30,1912-04-30,1,0,0,0,0,0,1,0,1,0,0,0
+1912,South Central League,APRZ0102,Webber,,Cleburne,1912-04-25,1912-04-26,2,0,0,2,0,0,0,0,0,0,0,0
+1912,South Central League,APRZ0202,Weber,,Cleburne,1912-04-24,1912-05-01,5,0,0,5,0,0,0,0,0,0,0,0
+1912,South Central League,ATZZ0106,White,,Cleburne,1912-04-24,1912-05-01,4,0,0,0,0,0,4,0,4,0,0,0
+1912,South Central League,ATZZ0206,White,,Longview,1912-04-23,1912-05-01,7,0,0,0,0,7,0,0,0,0,0,0
+1912,South Central League,ATZZ0306,White,G.,Longview,1912-04-27,1912-04-27,1,0,0,0,0,1,0,0,0,0,0,0
+1912,South Central League,ALMS0101,Williamson,,Sherman,1912-04-30,1912-04-30,1,0,0,0,0,0,1,0,1,0,0,0
+1912,South Central League,ALSN0101,Wilson,,Tyler,1912-04-29,1912-04-29,1,0,0,0,0,0,1,0,1,0,0,0
+1912,South Central League,ATZZ0406,Witt,,Sherman,1912-04-30,1912-04-30,1,0,0,0,1,0,0,0,0,0,0,0
+1912,South Central League,ATZZ0506,Wood,,Paris,1912-04-23,1912-05-01,8,0,0,0,8,0,0,0,0,0,0,0
+1912,South Central League,ATZZ0606,Wood,,Texarkana,1912-04-25,1912-04-25,1,1,0,0,0,0,0,0,0,0,0,1
+1912,South Central League,ATSZ0101,Woods,,Texarkana,1912-05-01,1912-05-01,1,0,0,0,0,0,1,0,1,0,0,0
+1912,Texas League,AKNZ0102,Aiken,,Waco,1912-04-12,1912-04-22,7,0,0,0,7,0,0,0,0,0,0,0
+1912,Texas League,AKNZ0202,Akin,,Waco,1912-04-14,1912-04-18,4,0,0,0,4,0,0,0,0,0,0,0
+1912,Texas League,ALKS0101,Alexander,,Galveston,1912-04-18,1912-04-18,1,0,0,0,0,0,0,0,0,0,1,0
+1912,Texas League,ALNZ0101,Allen,,Houston,1912-04-12,1912-04-21,5,0,0,0,0,0,0,0,0,0,5,0
+1912,Texas League,ARMR0101,Armour,,Fort Worth,1912-04-15,1912-04-21,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,AXTN0101,Ashton,,Austin,1912-04-14,1912-04-20,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,ARSZ0102,Ayers,,Austin,1912-04-12,1912-04-22,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,ARSZ0202,Ayres,,Austin,1912-04-16,1912-04-21,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,PTRZ0101,Bader,,Dallas,1912-04-12,1912-04-21,5,5,0,0,0,0,0,0,0,0,0,5
+1912,Texas League,PRTZ0102,Barrett,,Waco,1912-04-14,1912-04-22,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,PKZZ0101,Beck,,Waco,1912-04-12,1912-04-22,11,0,0,0,0,11,0,0,0,0,0,0
+1912,Texas League,PTSZ0101,Betts,,San Antonio,1912-04-12,1912-04-22,10,0,0,0,0,0,5,0,0,5,6,0
+1912,Texas League,PLNK0102,Blanke,,Dallas,1912-04-17,1912-04-17,1,0,0,0,0,0,1,0,0,1,0,0
+1912,Texas League,PLNK0202,Blinke,,Dallas,1912-04-15,1912-04-22,2,0,0,0,0,0,0,0,0,0,1,0
+1912,Texas League,PRTF0101,Bradford,,Beaumont,1912-04-19,1912-04-22,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,PRTN0104,Breiteinstin,,San Antonio,1912-04-14,1912-04-14,1,0,0,0,0,1,0,0,0,0,0,0
+1912,Texas League,PRTN0204,Breitenstein,,San Antonio,1912-04-12,1912-04-19,6,0,0,0,0,2,4,0,0,4,0,0
+1912,Texas League,PRTN0304,Britten,,Houston,1912-04-18,1912-04-18,1,0,0,0,1,0,0,0,0,0,0,0
+1912,Texas League,PRTN0404,Britton,,Houston,1912-04-12,1912-04-22,9,0,0,0,9,0,0,0,0,0,0,0
+1912,Texas League,PRNZ0101,Brown,,Dallas,1912-04-15,1912-04-22,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,PRNN0101,Browning,,San Antonio,1912-04-12,1912-04-22,5,5,0,0,0,0,0,0,0,0,0,5
+1912,Texas League,PRNL0101,Brownlow,,Austin,1912-04-12,1912-04-22,11,0,0,0,0,11,0,0,0,0,0,0
+1912,Texas League,KRSN0102,Carsen,,Waco,1912-04-17,1912-04-17,1,0,0,0,0,0,0,0,0,0,1,0
+1912,Texas League,KRSN0202,Carson,,Waco,1912-04-12,1912-04-22,9,0,0,0,0,0,0,0,0,0,9,0
+1912,Texas League,KSZZ0101,Casey,,Austin,1912-04-21,1912-04-21,1,0,0,0,0,0,0,0,0,0,0,0
+1912,Texas League,KFNT0101,Cavender,,Dallas,1912-04-12,1912-04-12,1,0,0,0,0,0,0,0,0,0,0,0
+1912,Texas League,KRKZ0101,Clark,,Austin,1912-04-13,1912-04-19,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,KMNS0101,Clemens,,Galveston,1912-04-12,1912-04-19,8,0,0,1,7,0,0,0,0,0,0,0
+1912,Texas League,KMNT0101,Clements,,Galveston,1912-04-20,1912-04-22,3,0,0,0,3,0,0,0,0,0,0,0
+1912,Texas League,KLNS0101,Collins,,San Antonio,1912-04-12,1912-04-19,6,0,0,0,0,0,6,0,6,0,0,0
+1912,Texas League,KKZZ0102,Cook,,Austin,1912-04-12,1912-04-22,10,0,0,0,0,0,10,0,10,0,0,0
+1912,Texas League,KKZZ0202,Cook,,Beaumont,1912-04-12,1912-04-22,9,0,9,0,0,0,0,0,0,0,0,0
+1912,Texas League,KPRZ0101,Cooper,,Fort Worth,1912-04-12,1912-04-22,10,0,0,0,0,0,10,7,0,3,0,0
+1912,Texas League,KRPT0102,Corbet,,Beaumont,1912-04-12,1912-04-12,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,KRPT0202,Corbett,,Beaumont,1912-04-19,1912-04-22,3,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,KNZZ0103,Cowan,,Beaumont,1912-04-12,1912-04-22,9,0,0,0,9,0,0,0,0,0,0,0
+1912,Texas League,KXLZ0101,Crichlow,,Waco,1912-04-12,1912-04-22,6,0,0,0,0,0,6,6,0,0,0,0
+1912,Texas League,TLZZ0102,Dail,,Beaumont,1912-04-12,1912-04-21,8,0,0,0,0,0,8,1,0,7,0,0
+1912,Texas League,TLZZ0202,Dall,,Beaumont,1912-04-22,1912-04-22,1,0,0,0,0,0,1,1,0,0,0,0
+1912,Texas League,TRNK0101,Daringer,,San Antonio,1912-04-12,1912-04-22,10,0,0,5,0,5,0,0,0,0,0,0
+1912,Texas League,TFSZ0101,Davis,,Houston,1912-04-12,1912-04-22,10,0,0,0,0,0,10,0,4,7,0,0
+1912,Texas League,TSNZ0101,Dawson,,Beaumont,1912-04-12,1912-04-22,9,0,0,0,0,0,0,0,0,0,9,0
+1912,Texas League,TRTR0101,Deardorff,,Fort Worth,1912-04-14,1912-04-14,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,TXNR0101,Dischner,,Fort Worth,1912-04-21,1912-04-21,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,TTZZ0101,Dodd,,Galveston,1912-04-18,1912-04-22,4,0,0,4,0,0,0,0,0,0,0,0
+1912,Texas League,TNZZ0101,Downey,,Austin,1912-04-12,1912-04-22,11,0,0,0,0,0,11,0,0,11,0,0
+1912,Texas League,TJZZ0101,Dugey,,Waco,1912-04-12,1912-04-22,11,0,0,11,0,0,0,0,0,0,0,0
+1912,Texas League,TNKN0101,Duncan,,Dallas,1912-04-22,1912-04-22,2,0,0,0,0,0,2,0,0,2,0,0
+1912,Texas League,ATMN0103,Edminston,,Beaumont,1912-04-17,1912-04-17,1,0,0,0,0,1,0,0,0,0,0,0
+1912,Texas League,ATMS0101,Edmiston,,Beaumont,1912-04-12,1912-04-22,8,0,0,0,0,8,0,0,0,0,0,0
+1912,Texas League,ATMN0203,Edmundson,,Houston,1912-04-12,1912-04-20,3,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,ANSZ0101,Ens,,Dallas,1912-04-12,1912-04-22,12,0,0,12,0,0,0,0,0,0,0,0
+1912,Texas League,AFNS0101,Evans,,Dallas,1912-04-14,1912-04-22,7,4,0,0,0,0,0,0,0,0,0,4
+1912,Texas League,FRSN0101,Fierson,,Fort Worth,1912-04-15,1912-04-15,1,0,0,0,0,0,0,0,0,0,0,0
+1912,Texas League,FLMN0102,Filliman,,Houston,1912-04-18,1912-04-18,1,0,0,1,0,0,0,0,0,0,0,0
+1912,Texas League,FLMN0202,Fillman,,Houston,1912-04-12,1912-04-22,9,0,0,8,0,0,1,0,1,0,0,0
+1912,Texas League,FRS00101,Forsythe,,Dallas,1912-04-12,1912-04-22,12,0,2,0,0,0,10,10,0,0,0,0
+1912,Texas League,FSTR0101,Foster,,Houston,1912-04-14,1912-04-22,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,FRRS0101,Frierson,,Fort Worth,1912-04-14,1912-04-22,7,0,0,0,0,0,3,3,0,0,0,0
+1912,Texas League,KPSN0101,Gibson,,Dallas,1912-04-12,1912-04-22,11,0,0,0,0,0,0,0,0,0,11,0
+1912,Texas League,KLFN0101,Gilvin,,Fort Worth,1912-04-15,1912-04-22,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,KTNZ0101,Goodwin,,San Antonio,1912-04-12,1912-04-22,7,3,0,0,0,0,3,0,0,3,0,3
+1912,Texas League,KRTN0101,Gordon,,Galveston,1912-04-14,1912-04-21,3,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,HLPZ0101,Haislip,,Waco,1912-04-22,1912-04-22,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,HRKN0101,Harkins,,Beaumont,1912-04-12,1912-04-22,3,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,HLMZ0101,Helm,,Galveston,1912-04-14,1912-04-22,3,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,HNRK0101,Henricksen,,Galveston,1912-04-15,1912-04-15,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,HNRZ0101,Henry,,Beaumont,1912-04-12,1912-04-13,2,0,0,0,0,0,2,2,0,0,0,0
+1912,Texas League,HTZZ0101,Hiett,,Fort Worth,1912-04-12,1912-04-22,5,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,HLZZ0102,Hill,,Austin,1912-04-22,1912-04-22,1,0,0,0,1,0,0,0,0,0,0,0
+1912,Texas League,HLZZ0202,Hille,,Austin,1912-04-12,1912-04-21,8,0,0,0,7,0,1,0,1,0,0,0
+1912,Texas League,HNNK0101,Hinninger,,Austin,1912-04-12,1912-04-22,9,0,0,0,0,0,0,0,0,0,9,0
+1912,Texas League,HRTZ0101,Howard,,Fort Worth,1912-04-12,1912-04-22,10,0,0,0,0,0,10,0,10,0,0,0
+1912,Texas League,JLZZ0101,Jolly,,Fort Worth,1912-04-12,1912-04-22,9,0,0,0,0,0,8,1,0,7,0,0
+1912,Texas League,JSTZ0101,Jost,,Waco,1912-04-14,1912-04-17,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,KLRM0101,Kellerman,,Dallas,1912-04-12,1912-04-22,12,0,0,0,0,12,0,0,0,0,0,0
+1912,Texas League,KNZZ0203,Kenney,,Dallas,1912-04-19,1912-04-19,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,KNZZ0303,Kinney,,Dallas,1912-04-12,1912-04-22,3,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,KXNZ0101,Kitchen,,Fort Worth,1912-04-12,1912-04-22,5,0,0,0,0,0,0,0,0,0,5,0
+1912,Texas League,KXNS0101,Kitchens,,Fort Worth,1912-04-14,1912-04-18,5,0,0,0,0,0,0,0,0,0,5,0
+1912,Texas League,NPZZ0101,Knaupp,,Houston,1912-04-12,1912-04-22,10,0,0,0,0,10,0,0,0,0,0,0
+1912,Texas League,KRMR0101,Kramer,,Beaumont,1912-04-17,1912-04-22,4,0,0,0,0,0,4,2,0,2,0,0
+1912,Texas League,LNTR0102,Landreth,,Houston,1912-04-19,1912-04-22,4,0,0,0,0,0,4,0,0,4,0,0
+1912,Texas League,LNTR0202,Landry,,Houston,1912-04-17,1912-04-17,1,0,0,0,0,0,0,0,0,0,0,0
+1912,Texas League,LRSN0102,Larsen,,Beaumont,1912-04-21,1912-04-21,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,LRSN0202,Larson,,Beaumont,1912-04-22,1912-04-22,1,0,0,0,0,0,0,0,0,0,0,0
+1912,Texas League,LTZZ0102,Leady,,San Antonio,1912-04-20,1912-04-20,1,0,0,0,0,0,1,0,1,0,0,0
+1912,Texas League,LTZZ0202,Leidy,,San Antonio,1912-04-12,1912-04-22,6,0,0,0,0,0,5,1,3,1,0,0
+1912,Texas League,LSZZ0101,Lewis,,Austin,1912-04-12,1912-04-18,3,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,LMNZ0101,Lohman,,Waco,1912-04-15,1912-04-20,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,LZZZ0101,Lowe,,Fort Worth,1912-04-14,1912-04-15,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,MKZZ0101,Maag,,Galveston,1912-04-12,1912-04-20,9,0,0,9,0,0,0,0,0,0,0,0
+1912,Texas League,MTNZ0101,Madden,,Galveston,1912-04-12,1912-04-22,11,0,0,0,0,11,0,0,0,0,0,0
+1912,Texas League,MLZZ0101,Malloy,,Galveston,1912-04-13,1912-04-21,3,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,MNFZ0101,Manef,,Fort Worth,1912-04-22,1912-04-22,1,0,1,0,0,0,0,0,0,0,0,0
+1912,Texas League,MNSZ0101,Manes,,Fort Worth,1912-04-12,1912-04-21,9,0,9,0,0,0,0,0,0,0,0,0
+1912,Texas League,MRTN0102,Martina,,Beaumont,1912-04-12,1912-04-20,4,4,0,0,0,0,0,0,0,0,0,4
+1912,Texas League,MSZZ0101,Mayes,,Beaumont,1912-04-12,1912-04-22,9,0,0,0,0,0,9,0,9,0,0,0
+1912,Texas League,MKRN0101,McGraner,,San Antonio,1912-04-19,1912-04-19,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,MKNT0101,McKnight,,Galveston,1912-04-12,1912-04-15,4,0,0,0,0,0,4,0,0,4,0,0
+1912,Texas League,MKRZ0101,McLarry,,Austin,1912-04-12,1912-04-22,11,0,11,0,0,0,0,0,0,0,0,0
+1912,Texas League,MHNZ0101,Meehan,,San Antonio,1912-04-12,1912-04-22,10,0,0,0,0,0,10,10,0,0,0,0
+1912,Texas League,MTSZ0101,Metz,,San Antonio,1912-04-13,1912-04-22,9,0,9,0,0,0,0,0,0,0,0,0
+1912,Texas League,MTKF0101,Midkiff,,San Antonio,1912-04-12,1912-04-22,10,0,0,0,10,0,0,0,0,0,0,0
+1912,Texas League,MLRZ0101,Miller,,Waco,1912-04-12,1912-04-21,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,MRZZ0101,Moore,,Galveston,1912-04-12,1912-04-19,3,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,MRSZ0101,Morris,,Fort Worth,1912-04-18,1912-04-22,4,0,0,0,0,4,0,0,0,0,0,0
+1912,Texas League,MRTN0202,Morton,,Galveston,1912-04-18,1912-04-20,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,NNKZ0101,Nance,,Fort Worth,1912-04-12,1912-04-22,4,0,0,0,0,0,1,0,0,1,0,0
+1912,Texas League,NMNZ0101,Newman,,Houston,1912-04-12,1912-04-12,1,0,1,0,0,0,0,0,0,0,0,0
+1912,Texas League,NNMZ0101,Newnam,,Houston,1912-04-13,1912-04-22,9,0,9,0,0,0,0,0,0,0,0,0
+1912,Texas League,AKLS0101,Ogles,,Waco,1912-04-13,1912-04-22,3,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,PRXZ0101,Parrish,,Austin,1912-04-15,1912-04-15,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,PTZZ0101,Pate,,Dallas,1912-04-13,1912-04-22,3,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,PSTR0101,Peaster,,Beaumont,1912-04-18,1912-04-21,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,PPLS0101,Peebles,,Galveston,1912-04-15,1912-04-22,8,0,0,0,0,0,7,0,0,7,0,0
+1912,Texas League,PRTZ0202,Perritt,,Fort Worth,1912-04-13,1912-04-20,3,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,RZZZ0101,Ray,,Houston,1912-04-13,1912-04-18,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,RLZZ0101,Reilly,,Waco,1912-04-16,1912-04-18,3,0,0,0,0,0,0,0,0,0,1,0
+1912,Texas League,RNRT0101,Rennard,,Waco,1912-04-12,1912-04-22,11,0,0,0,0,0,11,0,0,11,0,0
+1912,Texas League,RNLT0101,Reynolds,,Houston,1912-04-14,1912-04-22,5,0,0,0,0,0,0,0,0,0,5,0
+1912,Texas League,RKSZ0101,Riggs,,Houston,1912-04-12,1912-04-19,7,0,0,0,0,0,7,0,7,0,0,0
+1912,Texas League,RPRT0101,Robertson,,Fort Worth,1912-04-16,1912-04-17,2,0,0,0,0,0,0,0,0,0,2,0
+1912,Texas League,RPNS0102,Robinson,,Austin,1912-04-12,1912-04-22,8,0,0,0,0,0,8,8,0,0,0,0
+1912,Texas League,RPNS0202,Robinson,,Fort Worth,1912-04-15,1912-04-15,1,0,0,0,0,0,0,0,0,0,1,0
+1912,Texas League,RKRS0101,Rogers,,San Antonio,1912-04-14,1912-04-22,3,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,RSZZ0101,Rose,,Houston,1912-04-14,1912-04-19,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,SLMZ0101,Salm,,Galveston,1912-04-12,1912-04-22,11,0,11,0,0,0,0,0,0,0,0,0
+1912,Texas League,SLZZ0101,Sewell,,Dallas,1912-04-14,1912-04-21,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,XNTS0101,Shontz,,Dallas,1912-04-20,1912-04-20,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,XMNZ0101,Shuman,,Dallas,1912-04-12,1912-04-22,12,0,0,0,0,0,12,0,12,0,0,0
+1912,Texas League,SM0Z0105,Smith,,Austin,1912-04-12,1912-04-22,10,0,0,10,0,0,0,0,0,0,0,0
+1912,Texas League,SM0Z0205,Smith,,Fort Worth,1912-04-17,1912-04-17,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,SM0Z0305,Smith,,San Antonio,1912-04-12,1912-04-22,10,0,0,5,0,0,0,0,0,0,5,0
+1912,Texas League,SM0Z0405,Smith,G.,Austin,1912-04-14,1912-04-14,1,0,0,1,0,0,0,0,0,0,0,0
+1912,Texas League,SM0Z0505,Smith,H.,Fort Worth,1912-04-14,1912-04-14,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,SNPZ0101,Snapp,,Fort Worth,1912-04-12,1912-04-22,10,0,0,0,10,0,0,0,0,0,0,0
+1912,Texas League,STLP0102,Stellbauer,,Austin,1912-04-15,1912-04-21,6,0,0,0,2,0,2,2,0,0,0,0
+1912,Texas League,STRT0101,Stewart,,Waco,1912-04-12,1912-04-22,11,0,0,0,0,0,11,0,11,0,0,0
+1912,Texas League,STLP0202,Stillbauer,,Austin,1912-04-14,1912-04-14,1,0,0,0,1,0,0,0,0,0,0,0
+1912,Texas League,STZZ0101,Sweet,,Austin,1912-04-13,1912-04-16,3,0,0,0,0,0,0,0,0,0,3,0
+1912,Texas League,TFZZ0101,Taff,,Waco,1912-04-16,1912-04-16,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,TNRZ0101,Tanner,,Waco,1912-04-13,1912-04-20,7,0,0,0,0,0,6,6,0,0,0,0
+1912,Texas League,TLRZ0101,Taylor,,Austin,1912-04-17,1912-04-21,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,TRNZ0102,Teerney,,Dallas,1912-04-12,1912-04-12,1,0,0,0,0,0,1,0,0,1,0,0
+1912,Texas League,0PZZ0101,Thebo,,Galveston,1912-04-12,1912-04-22,11,0,0,0,0,0,11,0,11,0,0,0
+1912,Texas League,TMPS0101,Thompson,,Fort Worth,1912-04-12,1912-04-22,10,0,0,10,0,0,0,0,0,0,0,0
+1912,Texas League,TRNZ0202,Tierney,,Dallas,1912-04-13,1912-04-21,9,0,0,0,0,0,9,0,0,9,0,0
+1912,Texas League,TLSZ0101,Tullos,,Dallas,1912-04-12,1912-04-22,12,0,0,0,12,0,0,0,0,0,0,0
+1912,Texas League,ALZZ0102,Wahl,,Beaumont,1912-04-13,1912-04-13,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,ALKZ0104,Wallace,,Beaumont,1912-04-13,1912-04-19,5,0,0,0,0,0,5,5,0,0,0,0
+1912,Texas League,ALKZ0204,Wallace,B.,San Antonio,1912-04-21,1912-04-21,1,0,0,0,0,1,0,0,0,0,0,0
+1912,Texas League,ALKZ0304,Wallace,J.,Beaumont,1912-04-20,1912-04-21,2,0,0,0,0,0,1,1,0,0,0,0
+1912,Texas League,ALKZ0404,Wallace,R.,San Antonio,1912-04-20,1912-04-20,1,0,0,0,0,1,0,0,0,0,0,0
+1912,Texas League,ATSN0101,Watson,,Houston,1912-04-17,1912-04-21,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,ALRZ0101,Wheeler,,Beaumont,1912-04-12,1912-04-22,9,0,0,9,0,0,0,0,0,0,0,0
+1912,Texas League,ATMN0303,Whiteman,,Houston,1912-04-12,1912-04-22,10,0,0,0,0,0,10,10,0,0,0,0
+1912,Texas League,ALMS0103,Williams,,Galveston,1912-04-21,1912-04-21,1,0,0,0,0,0,1,1,0,0,0,0
+1912,Texas League,ALMS0203,Williams,H.,Galveston,1912-04-12,1912-04-22,10,0,0,0,0,0,0,0,0,0,10,0
+1912,Texas League,ALMS0303,Williams,J.,Galveston,1912-04-12,1912-04-22,10,0,0,0,0,0,10,10,0,0,0,0
+1912,Texas League,ALSN0101,Wilson,,Dallas,1912-04-12,1912-04-22,12,0,10,0,0,0,2,2,0,0,0,0
+1912,Texas League,ANTM0102,Windham,,Fort Worth,1912-04-21,1912-04-21,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,ANTM0202,Windom,,Fort Worth,1912-04-12,1912-04-18,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,A0RS0101,Witherspoon,,Fort Worth,1912-04-12,1912-04-22,9,1,1,0,0,7,0,0,0,0,0,1
+1912,Texas League,ALPN0101,Wohleben,,Waco,1912-04-12,1912-04-22,11,0,11,0,0,0,0,0,0,0,0,0
+1912,Texas League,ALZZ0202,Wylie,,Waco,1912-04-20,1912-04-20,1,0,0,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,ATMS0101,Adams,,Greenville,1912-04-25,1912-04-29,2,2,0,0,0,0,1,0,0,1,0,2
+1912,Texas-Oklahoma League,ATKN0103,Adkins,,Greenville,1912-04-25,1912-04-27,2,0,0,0,2,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,ANTR0101,Anderson,,Bonham,1912-04-25,1912-04-30,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas-Oklahoma League,ATKN0203,Atkin,,Greenville,1912-05-01,1912-05-01,1,0,0,0,1,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,ATKN0303,Atkins,,Greenville,1912-04-26,1912-04-29,2,0,0,0,2,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,ALTZ0102,Awald,,Denison,1912-04-29,1912-04-29,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,ALTZ0202,Awalt,,Denison,1912-04-26,1912-04-26,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,PKRZ0101,Baker,,Bonham,1912-04-25,1912-05-01,6,0,0,0,0,0,6,6,0,0,0,0
+1912,Texas-Oklahoma League,PLZZ0102,Ballew,,Ardmore,1912-04-29,1912-05-01,3,0,0,0,0,0,0,0,0,0,3,0
+1912,Texas-Oklahoma League,PRNT0102,Barnett,,Greenville,1912-04-29,1912-05-01,2,2,0,0,0,0,1,0,0,1,0,2
+1912,Texas-Oklahoma League,PKST0101,Baxter,,Wichita Falls,1912-04-27,1912-05-01,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas-Oklahoma League,PLZZ0202,Belew,,Ardmore,1912-04-25,1912-04-27,3,0,0,0,0,0,0,0,0,0,3,0
+1912,Texas-Oklahoma League,PPZZ0101,Bobo,,Denison,1912-04-25,1912-05-01,6,0,0,0,0,0,0,0,0,0,6,0
+1912,Texas-Oklahoma League,PRLZ0101,Bralley,,McKinney,1912-05-01,1912-05-01,1,0,0,0,0,0,0,0,0,0,1,0
+1912,Texas-Oklahoma League,PRKS0101,Brooks,,Denison,1912-04-25,1912-05-01,6,0,0,0,0,6,0,0,0,0,0,0
+1912,Texas-Oklahoma League,PRNZ0101,Brown,,Wichita Falls,1912-04-25,1912-04-27,3,0,0,0,0,0,3,0,0,3,0,0
+1912,Texas-Oklahoma League,PRNT0202,Burnett,,Greenville,1912-04-26,1912-04-26,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,KLTL0101,Caldwell,,Ardmore,1912-04-25,1912-05-01,5,1,0,0,0,0,5,5,0,0,0,1
+1912,Texas-Oklahoma League,KLLZ0101,Calliwell,,Ardmore,1912-04-30,1912-04-30,1,0,0,0,0,0,1,1,0,0,0,0
+1912,Texas-Oklahoma League,KRZZ0104,Carey,,Wichita Falls,1912-04-25,1912-04-30,2,0,2,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,KRPN0101,Carpenter,,McKinney,1912-04-29,1912-04-29,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,KRZZ0204,Carry,,Wichita Falls,1912-04-26,1912-04-26,1,0,1,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,KRSN0101,Carzine,,Bonham,1912-04-26,1912-04-26,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,KRKZ0101,Clark,,Wichita Falls,1912-04-25,1912-05-01,6,0,0,0,0,6,0,0,0,0,0,0
+1912,Texas-Oklahoma League,KKNK0102,Clickenger,,Denison,1912-04-25,1912-04-26,2,0,0,0,0,0,2,0,0,2,0,0
+1912,Texas-Oklahoma League,KKNK0202,Clickinger,,Denison,1912-04-29,1912-05-01,3,0,0,0,0,0,3,0,0,3,0,0
+1912,Texas-Oklahoma League,KNKN0101,Clinkener,,Denison,1912-04-27,1912-04-27,1,0,0,0,0,0,1,0,0,1,0,0
+1912,Texas-Oklahoma League,KKZZ0102,Cook,,Ardmore,1912-04-25,1912-04-27,3,0,3,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,KKZZ0202,Cooke,,Ardmore,1912-04-29,1912-05-01,2,0,2,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,KFNK0103,Covington,B.,Denison,1912-04-25,1912-05-01,6,1,0,0,0,0,6,0,6,0,0,1
+1912,Texas-Oklahoma League,KFNK0203,Covington,C.,Denison,1912-04-25,1912-05-01,6,0,0,0,0,0,6,6,0,0,0,0
+1912,Texas-Oklahoma League,KFNK0303,Covington,H.,Denison,1912-04-25,1912-05-01,6,0,6,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,KLZZ0101,Crowell,,McKinney,1912-04-26,1912-05-01,2,1,0,0,0,0,1,1,0,0,0,1
+1912,Texas-Oklahoma League,TNZZ0101,Dean,,McKinney,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,TRTR0101,Deardorff,,Durant,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,TRTF0101,Deordoff,,Durant,1912-04-27,1912-04-27,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,TXRN0102,Dishareen,,Greenville,1912-04-29,1912-04-29,1,0,0,0,0,1,0,0,0,0,0,0
+1912,Texas-Oklahoma League,TXRN0202,Disharoon,,Greenville,1912-04-25,1912-05-01,4,0,0,0,0,4,0,0,0,0,0,0
+1912,Texas-Oklahoma League,TLZZ0101,Dooley,,Sherman,1912-04-25,1912-05-01,5,0,0,0,0,0,5,5,0,0,0,0
+1912,Texas-Oklahoma League,TFZZ0101,Duffy,,McKinney,1912-05-01,1912-05-01,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,TPRZ0101,Dupree,,Denison,1912-04-29,1912-05-01,3,0,0,0,3,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,TPZZ0101,Dupuy,,Denison,1912-04-25,1912-04-27,3,0,0,0,3,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,ATMN0102,Edmonds,,Durant,1912-04-25,1912-05-01,5,0,0,0,5,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,ATMN0202,Edmunds,,Durant,1912-04-26,1912-04-26,1,0,0,0,1,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,AKPZ0101,Egby,,Greenville,1912-05-01,1912-05-01,1,0,0,0,1,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,APLN0101,Epling,,Durant,1912-04-25,1912-05-01,6,0,0,5,1,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,ARNZ0101,Erwin,,McKinney,1912-04-25,1912-04-27,3,0,0,0,0,0,2,2,0,0,0,0
+1912,Texas-Oklahoma League,FLNZ0103,Flynn,,Greenville,1912-04-25,1912-04-27,3,0,0,0,0,0,2,0,0,2,1,0
+1912,Texas-Oklahoma League,FLNZ0203,Flynn,D.,Greenville,1912-04-29,1912-05-01,2,0,0,0,0,0,0,0,0,0,1,0
+1912,Texas-Oklahoma League,FLNZ0303,Flynn,F.,Greenville,1912-04-29,1912-05-01,2,1,1,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,KRRT0103,Garhart,,Durant,1912-05-01,1912-05-01,1,0,0,0,0,0,1,0,0,1,0,0
+1912,Texas-Oklahoma League,KRTZ0102,Garriety,,Durant,1912-04-25,1912-04-25,1,0,0,0,0,1,0,0,0,0,0,0
+1912,Texas-Oklahoma League,KRTZ0202,Garrity,,Durant,1912-04-26,1912-04-29,3,0,0,0,0,3,0,0,0,0,0,0
+1912,Texas-Oklahoma League,JRRT0101,Gearhert,,Durant,1912-04-27,1912-04-27,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,KRRT0203,Gerhart,,Durant,1912-04-30,1912-04-30,1,0,0,0,0,0,1,0,0,1,0,0
+1912,Texas-Oklahoma League,KRRT0303,Gierhart,,Durant,1912-04-29,1912-04-29,1,0,0,0,0,0,1,0,0,1,0,0
+1912,Texas-Oklahoma League,KSZZ0101,Goss,,McKinney,1912-04-25,1912-04-30,5,1,2,0,0,0,2,2,0,0,0,1
+1912,Texas-Oklahoma League,KRZZ0304,Gray,,Ardmore,1912-04-25,1912-05-01,6,0,2,5,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,KRNZ0101,Green,,Durant,1912-04-25,1912-05-01,4,2,0,0,0,0,1,0,0,1,0,2
+1912,Texas-Oklahoma League,KRMS0101,Grimes,,Sherman,1912-04-26,1912-04-29,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas-Oklahoma League,K0RZ0101,Guthrie,,Wichita Falls,1912-04-25,1912-05-01,6,0,0,0,0,0,6,6,0,0,0,0
+1912,Texas-Oklahoma League,HRPR0101,Harper,,Greenville,1912-04-25,1912-05-01,4,0,0,0,0,0,4,4,0,0,0,0
+1912,Texas-Oklahoma League,HKNS0101,Hickens,,Greenville,1912-04-25,1912-04-25,1,0,0,1,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,HPKN0101,Hopkins,,Ardmore,1912-04-25,1912-04-30,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas-Oklahoma League,HMFR0102,Humphreys,,Sherman,1912-04-26,1912-04-29,2,0,0,0,0,2,0,0,0,0,0,0
+1912,Texas-Oklahoma League,HMFR0202,Humphries,,Sherman,1912-04-25,1912-05-01,3,0,0,0,0,3,0,0,0,0,0,0
+1912,Texas-Oklahoma League,JNSZ0104,Jones,,Wichita Falls,1912-04-25,1912-05-01,4,2,2,0,0,0,0,0,0,0,0,2
+1912,Texas-Oklahoma League,JNSZ0204,Jones,Will,Durant,1912-04-26,1912-04-26,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,JNSZ0304,Jones [Dur],,Durant,1912-04-29,1912-04-29,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,JNSZ0404,Jones [WF],,Wichita Falls,1912-04-29,1912-04-29,1,0,1,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,KSRZ0104,Kaiser,,Durant,1912-04-29,1912-05-01,3,0,0,0,0,0,0,0,0,0,3,0
+1912,Texas-Oklahoma League,KRLN0101,Kerlin,,Denison,1912-04-27,1912-04-27,1,0,0,0,0,0,1,0,1,0,0,0
+1912,Texas-Oklahoma League,KRZZ0404,Kerr,,McKinney,1912-04-25,1912-04-30,5,0,0,5,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,KSRZ0204,Kiser,,Durant,1912-04-26,1912-04-26,1,0,0,0,0,0,1,0,0,1,0,0
+1912,Texas-Oklahoma League,KSTR0101,Kister,,Durant,1912-04-25,1912-04-27,2,0,0,0,0,0,2,0,0,2,1,0
+1912,Texas-Oklahoma League,KXNS0101,Kitchens,,Greenville,1912-04-25,1912-04-29,3,0,0,0,0,0,0,0,0,0,3,0
+1912,Texas-Oklahoma League,KSRZ0304,Kizzar,,Greenville,1912-04-25,1912-04-26,2,0,2,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,KSRZ0404,Kizziar,,Greenville,1912-04-27,1912-05-01,2,0,2,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,LKRZ0102,Laclair,,Denison,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,LKRZ0202,Laclaire,,Denison,1912-04-27,1912-04-27,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,LMPR0101,Lambert,,Bonham,1912-04-25,1912-05-01,6,0,0,0,0,0,6,0,3,3,0,0
+1912,Texas-Oklahoma League,LMNK0101,Lamonica,,Sherman,1912-04-25,1912-05-01,5,0,0,0,0,0,5,1,0,4,0,0
+1912,Texas-Oklahoma League,LNTR0101,Landry,,Bonham,1912-04-25,1912-05-01,6,0,0,0,0,6,0,0,0,0,0,0
+1912,Texas-Oklahoma League,LRNK0101,Lawrence,,Wichita Falls,1912-04-25,1912-05-01,6,0,0,0,6,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,LSLZ0101,Leslie,,Bonham,1912-04-25,1912-05-01,6,0,0,6,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,LSZZ0101,Lewis,,Greenville,1912-04-29,1912-05-01,2,0,0,0,0,0,2,1,0,1,0,0
+1912,Texas-Oklahoma League,M0SZ0101,Matthews,,Bonham,1912-04-25,1912-05-01,5,2,0,0,0,0,3,0,0,3,0,2
+1912,Texas-Oklahoma League,MKFZ0102,McAvoy,,Ardmore,1912-04-29,1912-05-01,3,0,0,0,0,3,0,0,0,0,0,0
+1912,Texas-Oklahoma League,MKLM0101,McCullum,,Durant,1912-04-25,1912-05-01,6,0,0,0,0,0,6,0,6,0,0,0
+1912,Texas-Oklahoma League,MKNL0102,McDaniel,,Durant,1912-04-25,1912-04-25,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,MKFR0101,McEvery,,Ardmore,1912-04-25,1912-04-25,1,0,0,0,0,1,0,0,0,0,0,0
+1912,Texas-Oklahoma League,MKFZ0202,McEvoy,,Ardmore,1912-04-26,1912-04-27,2,0,0,0,0,2,0,0,0,0,0,0
+1912,Texas-Oklahoma League,MKNL0202,McKinley,,Durant,1912-04-30,1912-05-01,2,0,0,0,0,2,0,0,0,0,0,0
+1912,Texas-Oklahoma League,MKHN0101,McMahan,,McKinney,1912-04-25,1912-04-25,1,0,1,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,MKLN0103,McMillan,,McKinney,1912-04-27,1912-05-01,2,0,1,1,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,MKLN0203,McMillen,,McKinney,1912-04-30,1912-04-30,1,0,0,0,0,0,1,1,0,0,0,0
+1912,Texas-Oklahoma League,MKLN0303,McMillin,,McKinney,1912-04-29,1912-04-29,1,0,1,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,MLRZ0102,Miller,,Greenville,1912-04-27,1912-04-27,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,MLRZ0202,Miller,,McKinney,1912-04-26,1912-04-30,2,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,MXLZ0101,Mitchell,,Durant,1912-04-25,1912-05-01,6,0,3,0,0,0,0,0,0,0,3,0
+1912,Texas-Oklahoma League,MRZZ0101,Moore,,Denison,1912-04-25,1912-05-01,6,0,0,6,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,MRSZ0102,Morris,,Wichita Falls,1912-04-25,1912-05-01,6,0,0,0,0,0,6,0,3,3,0,0
+1912,Texas-Oklahoma League,MLNS0105,Mullens,F. P.,Wichita Falls,1912-05-01,1912-05-01,1,0,1,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,MLNS0205,Mullens,O. V.,Wichita Falls,1912-05-01,1912-05-01,1,0,0,0,0,0,1,0,1,0,0,0
+1912,Texas-Oklahoma League,MLNZ0101,Mullin,,Wichita Falls,1912-04-26,1912-04-26,1,0,0,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,MLNS0305,Mullins,,Wichita Falls,1912-04-25,1912-04-30,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas-Oklahoma League,MLNS0405,Mullins,F. P.,Wichita Falls,1912-04-27,1912-04-29,2,0,0,0,0,0,1,0,1,0,1,0
+1912,Texas-Oklahoma League,MLNS0505,Mullins,O. V.,Wichita Falls,1912-04-27,1912-04-29,2,1,0,0,0,0,1,0,1,0,0,1
+1912,Texas-Oklahoma League,MRSZ0202,Myers,,Wichita Falls,1912-04-25,1912-05-01,6,2,1,0,0,0,2,0,2,0,0,2
+1912,Texas-Oklahoma League,NPZZ0101,Napier,,Sherman,1912-04-26,1912-05-01,3,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas-Oklahoma League,NLRZ0104,Naylor,,Ardmore,1912-04-29,1912-05-01,3,0,0,0,0,0,3,0,0,3,0,0
+1912,Texas-Oklahoma League,NLRZ0204,Naylor,,Wichita Falls,1912-04-29,1912-05-01,3,0,0,0,0,0,0,0,0,0,3,0
+1912,Texas-Oklahoma League,NLRZ0304,Naylor [Ard],,Ardmore,1912-04-25,1912-04-27,3,0,0,0,0,0,3,0,0,3,0,0
+1912,Texas-Oklahoma League,NLRZ0404,Naylor [WF],,Wichita Falls,1912-04-25,1912-04-27,3,0,0,0,0,0,0,0,0,0,3,0
+1912,Texas-Oklahoma League,PTRS0101,Patterson,,Ardmore,1912-04-25,1912-05-01,4,0,1,0,3,1,0,0,0,0,1,0
+1912,Texas-Oklahoma League,PLRZ0101,Peeler,,McKinney,1912-04-25,1912-04-29,3,3,0,0,0,0,1,0,0,1,0,3
+1912,Texas-Oklahoma League,PNLZ0104,Pennel,A.,McKinney,1912-04-25,1912-04-25,1,1,0,0,0,0,1,0,0,1,0,1
+1912,Texas-Oklahoma League,PNLZ0204,Pennell,A.,McKinney,1912-04-26,1912-04-30,4,0,0,0,0,0,4,0,0,4,0,0
+1912,Texas-Oklahoma League,PNLZ0304,Pennell,B.,McKinney,1912-04-29,1912-05-01,3,0,0,0,0,0,3,0,3,0,0,0
+1912,Texas-Oklahoma League,PNLZ0404,Pennell,P.,McKinney,1912-04-26,1912-04-27,2,0,0,0,0,1,1,0,1,0,0,0
+1912,Texas-Oklahoma League,FLPS0101,Phillips,,Wichita Falls,1912-04-25,1912-05-01,6,0,0,6,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,PKNS0101,Pickens,,Greenville,1912-04-26,1912-05-01,4,0,0,4,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,RPRN0102,Rayborn,,Sherman,1912-04-27,1912-04-27,1,0,1,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,RPRN0202,Rayburn,,Sherman,1912-04-25,1912-05-01,4,0,4,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,RTZZ0104,Reed,,Ardmore,1912-04-25,1912-04-29,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas-Oklahoma League,RTZZ0204,Reed,,Sherman,1912-04-25,1912-05-01,4,0,0,4,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,RTZZ0304,Reid,,Durant,1912-04-25,1912-04-27,2,0,2,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,RTZZ0404,Reid,,Sherman,1912-04-26,1912-04-26,1,0,0,1,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,RKZZ0101,Roach,,Bonham,1912-04-25,1912-04-30,5,0,1,0,4,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,RRKZ0101,Roark,,Sherman,1912-04-25,1912-04-25,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,RPRT0101,Robertson,,Greenville,1912-05-01,1912-05-01,1,0,0,0,0,0,1,0,0,1,0,0
+1912,Texas-Oklahoma League,RPNS0101,Robinson,,Greenville,1912-05-01,1912-05-01,1,0,0,0,0,0,0,0,0,0,1,0
+1912,Texas-Oklahoma League,RSLZ0101,Russell,,Bonham,1912-04-27,1912-05-01,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas-Oklahoma League,SKTZ0102,Scott,,Ardmore,1912-04-27,1912-05-01,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas-Oklahoma League,SKTZ0202,Scott,,Bonham,1912-04-29,1912-05-01,3,0,0,0,0,0,0,0,0,0,3,0
+1912,Texas-Oklahoma League,SPNK0102,Spence,,McKinney,1912-04-26,1912-05-01,3,0,0,0,0,2,1,0,1,0,0,0
+1912,Texas-Oklahoma League,SPNK0202,Spencer,,McKinney,1912-04-25,1912-04-30,2,0,0,0,0,2,0,0,0,0,0,0
+1912,Texas-Oklahoma League,SPRN0101,Sporn,,Bonham,1912-05-01,1912-05-01,1,0,0,0,1,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,SPRK0101,Spruce,,McKinney,1912-04-29,1912-04-29,1,0,0,0,0,1,0,0,0,0,0,0
+1912,Texas-Oklahoma League,STRJ0101,Stergeon,,McKinney,1912-05-01,1912-05-01,1,0,1,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,SLFN0101,Sullivan,,Ardmore,1912-04-25,1912-05-01,6,0,0,0,0,0,6,0,6,0,0,0
+1912,Texas-Oklahoma League,TTZZ0101,Tate,,Denison,1912-04-25,1912-05-01,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas-Oklahoma League,0PZZ0101,Thebo,,McKinney,1912-04-25,1912-05-01,6,0,0,0,6,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,TRSZ0101,Towers,,Ardmore,1912-04-26,1912-04-26,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,TNSN0101,Townsend,,Sherman,1912-04-25,1912-05-01,5,0,0,0,0,0,0,0,0,0,5,0
+1912,Texas-Oklahoma League,TKRZ0101,Tucker,,Durant,1912-04-25,1912-05-01,6,0,0,0,0,0,6,6,0,0,0,0
+1912,Texas-Oklahoma League,AKFL0101,Wakefield,,Greenville,1912-04-25,1912-05-01,5,0,0,0,0,0,5,0,5,0,0,0
+1912,Texas-Oklahoma League,ALXZ0102,Welch,,Bonham,1912-04-26,1912-05-01,5,0,0,0,0,0,3,0,3,0,2,0
+1912,Texas-Oklahoma League,ALXZ0202,Welsh,,Bonham,1912-04-25,1912-04-25,1,0,0,0,0,0,0,0,0,0,1,0
+1912,Texas-Oklahoma League,ASTZ0102,West,,Greenville,1912-04-27,1912-04-27,1,0,0,0,0,0,1,0,0,1,0,0
+1912,Texas-Oklahoma League,ATZZ0102,White,,McKinney,1912-04-25,1912-05-01,6,0,0,0,0,0,1,0,0,1,5,0
+1912,Texas-Oklahoma League,ALMS0102,Williams,,Sherman,1912-04-26,1912-04-26,1,0,0,0,0,0,1,0,1,0,0,0
+1912,Texas-Oklahoma League,ALMS0202,Williamson,,Sherman,1912-04-25,1912-05-01,4,0,0,0,0,0,4,0,4,0,0,0
+1912,Texas-Oklahoma League,ATZZ0202,Witt,,Sherman,1912-04-25,1912-05-01,5,0,0,0,5,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,AFRT0101,Wofford,,Bonham,1912-05-01,1912-05-01,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,ATRT0102,Woodard,,Ardmore,1912-05-01,1912-05-01,1,0,0,1,1,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,ATRT0202,Woodward,,Ardmore,1912-04-25,1912-04-30,5,0,0,1,4,0,1,1,0,0,0,0
+1912,Texas-Oklahoma League,ASTZ0202,Yost,,Bonham,1912-04-25,1912-05-01,6,0,6,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,345 @@
+date: 1912-04-25
+number: 0
+league: Texas-Oklahoma
+away: Sherman
+home: Durant
+
+Sherman:	ab r h po a e
+Lamonica @ rf:	5 0 0 1 0 0
+Dooley @ lf:	5 0 1 1 0 0
+Williamson @ cf:	4 2 1 1 0 1
+Reed @ 2b:		3 1 0 2 0 0
+Humphries @ ss:	3 1 1 1 0 0
+Witt @ 3b:		3 1 2 2 0 0
+Rayburn @ 1b:	4 1 2 13 0 0
+Townsend @ c:	4 0 1 6 0 0
+Roark @ p:		4 0 0 0 4 0
+TOTALS:		35 6 8 27 4 1
+
+Durant:		ab r h po a e 
+Epling @ 2b:	3 0 0 1 2 0
+Garriety @ ss:	4 0 2 0 0 1
+Reid @ 1b:		3 0 0 13 0 0
+McCullum @ cf:	4 0 0 2 0 0
+Kister @ rf:	3 0 0 0 2 0
+Tucker @ lf:	2 0 0 0 0 0
+Edmonds @ 3b:	2 0 0 0 2 1
+Mitchell @ c:	3 0 1 9 1 0
+McDaniel @ p:	1 0 0 0 4 0
+Green @ p:		2 0 0 0 2 0
+TOTALS:		27 0 3 27 11 2
+
+line: Sherman: 0 0 0 4 0 0 0 2 0 - 6
+line: Durant: 0 0 0 0 0 0 0 0 0 - 0
+
+B_2B: Rayburn; Townsend
+B_3B: Humphries
+B_SH: Reid; Edmonds; Humphries
+B_SF: Witt
+B_SB: Epling; Tucker; Witt; Williamson
+F_PB: Mitchell #2
+B_LOB: Sherman #5; Durant #3
+P_HP: Green #1; Roark #1
+P_SO: McDaniel #2; Green #8; Roark #6
+P_H: McDaniel #5; Green #3
+P_R: McDaniel #4; Green #2
+P_IP: McDaniel #4; Green #5
+P_BB: Roark #1
+B_ROE: Sherman #2
+B_ER: Sherman #4
+U: Folsom
+
+---
+
+date: 1912-04-25
+number: 0
+league: Texas-Oklahoma
+away: Ardmore
+home: Wichita Falls
+
+Ardmore:	ab r h po a e
+Woodward @ 3b:	5 1 2 1 7 0
+McEvery @ ss:	6 2 1 2 2 0
+Gray @ 2b:		6 1 2 1 2 2
+Naylor [Ard] @ rf:	5 2 1 0 0 0
+Sullivan @ cf:	4 1 3 0 0 0
+Caldwell @ lf:	6 1 2 1 0 0
+Cook @ 1b:	4 0 0 10 1 0
+Patterson @ 1b:	1 0 0 2 0 0
+Belew @ c:		4 0 0 9 4 0
+Hopkins @ p:	1 1 1 1 1 0
+Reed @ p:		4 0 2 2 3 0
+TOTALS:		46 10 13 29 20 2
+
+Wichita Falls:	ab r h po a e
+Lawrence @ 3b:	6 3 2 2 3 1
+Morris @ cf:	4 1 1 1 0 1
+Brown @ rf:		4 1 4 0 1 0
+Guthrie @ lf:	2 0 2 4 0 0
+Clark @ ss:		5 0 1 3 2 0
+Phillips @ 2b:	4 0 0 4 1 1
+Naylor [WF] @ c:	4 0 0 12 0 0
+Carey @ 1b:		3 0 0 3 0 1
+Myers @ p:		3 0 0 1 1 0
+Mullins @ p:	0 0 0 0 0 0
+Jones @ p:		1 0 0 0 0 0
+TOTALS:		38 5 10 30 8 4
+
+P_IP: Hopkins #2.1; Reed #7.2; Myers #9.1; Mullins #0.2
+P_H: Hopkins #4; Reed #6; Myers #10; Mullins #3
+B_SB: Sullivan
+B_SH: Brown
+B_ER: Wichita Falls #3; Ardmore #4
+B_2B: Brown; Sullivan; Guthrie; Morris
+B_3B: Brown
+B_HR: Hopkins; Lawrence; Gray; Caldwell
+P_BB: Myers #3; Hopkins #1; Reed #5
+P_SO: Myers #12; Hopkins #3; Reed #5
+B_LOB: Wichita Falls #9; Ardmore #7
+F_PB: Naylor [WF]
+B_HP: Guthrie; Sullivan; Woodward
+T: 3:00
+U: Murphy
+
+---
+
+date: 1912-04-25
+number: 0
+league: Texas-Oklahoma
+away: McKinney
+home: Denison
+A: 2000
+
+Denison:	ab r h po a e
+Brooks @ ss:	4 0 2 3 3 1
+Bobo @ c:		4 0 1 5 0 1
+Covington, C. @ lf:	3 0 0 3 0 0
+Clickenger @ rf:	4 0 0 0 0 0
+Covington, B. @ cf:	3 2 1 1 1 0
+Moore @ 2b:		3 1 1 2 4 0
+Dupuy @ 3b:		3 1 2 2 4 0
+Covington, H. @ 1b:	3 0 0 11 0 1
+Tate @ p:		4 0 0 0 3 0
+TOTALS:		31 4 7 27 15 3
+
+McKinney:	ab r h po a e
+Thebo @ 3b:	4 0 1 0 1 2
+Spencer @ ss:	3 0 0 0 2 0
+Goss @ lf:		4 0 0 2 0 0
+Pennel, A. @ rf-p:	4 1 2 1 2 0
+McMahan @ 1b:	3 1 0 9 1 1 
+Kerr @ 2b:		3 0 1 0 3 0
+White @ c:		3 0 1 6 0 0
+Peeler @ p-rf:	3 0 1 2 0 0
+*Erwin @ ph:	1 0 0 0 0 0
+TOTALS:		31 2 6 24 9 3
+
+*: Batted for McMahan in 9th
+
+line: McKinney: 0 0 0 0 0 0 0 0 0 - 2
+line: Denison: 0 1 0 2 1 0 0 0 x - 4
+
+B_2B: Brooks #2; White
+B_HR: B. Covington
+B_SH: Moore; H. Covington; Tate
+B_SB: Bobo; Dupuy
+F_DP: Brooks, Moore, H. Covington
+P_BB: Tate #1; Peeler #2
+P_SO: Tate #5; Peeler #4; A. Pennel #3
+P_WP: Peeler
+P_BK: Tate; Peeler
+P_IP: Peeler #4; A. Pennel #4
+P_HP: A. Pennel #1
+B_LOB: Denison #7; McKinney #2
+T: 1:45
+U: Mulkey, Cy
+
+---
+
+date: 1912-04-25
+number: 0
+league: Texas-Oklahoma
+away: Bonham
+home: Greenville
+
+note: Light rain; 8 innings
+
+Greenville:		ab r h po a e
+Harper @ lf:	4 1 0 3 0 0
+Hickens @ 2b:	4 1 1 2 2 1
+Wakefield @ cf:	4 0 2 2 0 0
+Flynn @ rf:		3 1 1 1 0 0
+Disharoon @ ss:	4 0 0 1 1 1
+Kizzar @ 1b:	3 0 0 5 0 0
+Kitchens @ c:	2 0 0 10 1 1
+Adkins @ 3b:	2 0 0 0 0 0 
+Adams @ p:		3 0 1 0 2 0
+TOTALS:		29 3 5 24 5 3
+
+Bonham:		ab r h po a e
+Baker @ lf:		4 0 1 3 1 0
+Roach @ 3b:		4 0 1 0 3 0
+Lambert @ cf:	4 0 0 0 0 0
+Welsh @ c:		2 0 0 3 2 0
+Leslie @ 2b:	3 0 1 2 1 1
+Landry @ ss:	4 0 0 1 3 1
+Yost @ 1b:		3 0 1 13 0 0
+Matthews @ rf:	2 0 0 2 0 0
+Anderson @ p:	3 0 0 0 2 1
+TOTALS:		29 0 3 24 12 3
+
+line: Greenville: 0 0 0 0 0 1 0 2 - 3
+line: Bonham: 0 0 0 0 0 0 0 0 - 0
+
+B_ER: Greenville #0; Bonham #0
+B_SB: Kizzar; Leslie; Landry
+B_2B: Roach
+B_HR: Flynn
+P_SO: Adams #10; Anderson #4
+P_BB: Adams #5; Anderson #2
+F_PB: Kitchens
+B_SH: Flynn
+T: 2:00
+U: Jegglin
+
+---
+
+date: 1912-04-25
+number: 0
+league: South Central
+away: Cleburne
+home: Tyler
+
+Cleburne:	ab r h po a e
+Webber @ 2b:	4 0 1 4 3 1
+White @ cf:		5 0 0 0 0 0
+Justy @ lf:		1 2 0 2 0 0
+Adams @ rf:		2 1 1 0 1 0
+Bessie @ rf:	2 1 1 0 0 0 
+Ritter @ c:		5 2 2 6 1 0
+Sorry @ ss:		3 1 0 1 2 0
+Puckett @ 1b:	6 3 2 7 0 0
+Perkins @ 3b:	4 0 1 2 1 1
+Harbin @ p:		4 0 0 1 1 1
+TOTALS:		36 10 8 27 9 3
+
+Tyler:		ab r h po a e
+Baughman @ 2b:	4 0 0 0 0 1
+Johnson @ rf:	3 0 2 1 0 0
+Fruth @ ss:		4 0 0 5 1 2
+Campbell @ 1b:	4 0 0 6 0 0
+Buster @ c:		4 0 2 5 4 2
+Hewitt @ 3b:	3 0 0 2 1 0
+Milam @ cf:		3 1 0 5 0 0
+Tischer @ lf:	4 2 2 1 1 0
+Fiebert @ p:	1 0 0 0 0 1
+O'Neil @ p:		2 0 0 1 3 2
+*Poindexter @ ph:	1 0 1 0 0 0
+TOTALS:		33 3 7 26 14 8
+
+*: Batted for Hewitt in 9th
+
+line: Cleburne: 0 0 1 4 4 0 0 0 1 - 10
+line: Tyler: 0 0 1 0 1 0 0 0 0 - 3
+
+P_IP: Fiebert #3; O'Neil #6; Harbin #9
+P_HP: O'Neil #1
+P_BB: Fiebert #3; O'Neil #2; Harbin #1
+P_SO: Fiebert #3; O'Neil #2; Harbin #6
+P_WP: Harbin
+U: Bryan
+
+---
+
+date: 1912-04-25
+number: 0
+league: South Central
+away: Paris
+home: Marshall
+
+Marshall:		ab r h po a e
+Gowan @ cf:		5 0 2 1 0 1
+Stapleton @ 3b:	3 1 1 0 2 0
+Pappe @ ss:		3 0 0 3 4 0
+Blanchette @ 1b:	4 1 0 9 1 1 
+Nagel @ rf:		4 1 2 0 0 0
+Stribbel @ 2b:	2 3 2 4 5 1
+Ballingall @ lf:	4 0 0 0 0 0
+Short @ c:		4 2 3 9 2 0
+Guiterrez @ p:	4 0 1 1 7 0
+TOTALS:		33 8 11 27 21 3
+
+Paris:		ab r h po a e
+Beltison @ c:	3 1 1 11 0 0
+Holliday @ 2b:	4 0 2 3 0 0
+Sherwood @ ss:	4 1 1 1 2 0
+Lawson @ rf:	4 0 0 1 0 0
+Wood @ 3b:		4 0 0 0 1 1 
+Mathis, L. @ 1b:	4 2 3 7 1 2
+Dowlin @ cf:	3 0 0 0 0 1
+Mathis, E. @ lf:	3 0 0 0 0 0 
+Stergon @ p:	1 0 0 0 3 0
+Gains @ p:		2 0 0 1 8 0
+TOTALS:		32 4 7 24 15 5
+
+line: Paris: 0 0 2 1 0 0 0 0 1 - 4
+line: Marshall: 0 3 1 2 0 0 0 2 x - 8
+
+B_HR: Sherwood; L. Mathis; Short
+F_DP: Guiterrez, Blanchette; Pappe, Stribbel, Blanchette; Gains, L. Mathis
+P_SO: Gains #6; Guiterrez #3; Stergon #3
+P_BB: Stergon #1
+P_WP: Guiterrez #1
+P_HP: Guiterrez #2; Gains #1
+
+---
+
+date: 1912-04-25
+number: 0
+league: South Central
+away: Texarkana
+home: Longview
+
+Texarkana:		ab r h po a e
+Colla @ lf:		5 0 2 1 0 0
+Stegall @ 3b:	5 0 0 0 2 0
+Jordan @ c:		4 0 0 3 2 0
+Houlihan @ 1b:	4 0 2 10 1 1
+Hudson @ 2b:	4 0 0 5 4 1
+Baker @ cf:		4 1 2 0 1 0
+Allen @ rf:		4 3 1 2 0 1
+Prodhomme @ ss:	3 0 2 2 4 1
+Wood @ p:		3 0 1 2 1 1
+TOTALS:			36 4 10 25 15 5
+
+note: One out when willing run scored
+
+Longview:		ab r h po a e
+Halliday @ cf:	4 0 0 1 0 0
+Littrell @ 3b:	3 1 0 1 0 1
+Crosby @ rf:	3 1 0 0 0 0
+Trammel @ p:	4 0 0 2 1 0
+Hardy @ 1b:		3 1 0 6 1 0
+Merret @ 2b:	3 0 2 5 1 2 
+White @ ss:		4 1 1 2 3 1
+Hoffman @ cf:	3 0 0 1 0 0
+Spear @ c:		3 0 2 9 4 0
+*Johns @ ph:		1 1 1 0 0 0
+TOTALS:			31 5 5 27 10 4
+
+*: Batted for Hardy in 9th
+
+line: Texarkana: 0 1 0 0 1 0 1 0 1 - 4
+line: Longview: 0 0 0 0 1 0 1 0 3 - 5
+
+P_SO: Wood #3; Trammel #9
+B_2B: Prodhomme
+B_HR: Allen; Johns
+P_BB: Wood #1; Trammel #1
+B_LOB: Texarkana #7; Longview #2
+F_DP: White, Merret, Hardy
+F_PB: Spear
+B_ROE: Texarkana; Longview #3
+B_HP: Crosby
+T: 2:10
+U: Robertson, Jimmie

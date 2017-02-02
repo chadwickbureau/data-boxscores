@@ -1,0 +1,257 @@
+date: 1912-04-22
+number: 1
+league: Texas
+away: Waco
+home: Dallas
+
+Dallas:		ab r h po a e
+Forsythe @ 1b:	4 2 2 11 0 1
+Ens @ 2b:		3 0 1 3 4 0
+Gibson @ c:		4 0 1 3 3 0
+Duncan @ rf:	4 0 1 0 0 0
+Wilson @ lf:	3 0 0 3 0 1
+Kellerman @ ss:	3 0 0 1 0 0
+Tullos @ 3b:	3 0 0 1 3 0
+Shuman @ cf:	3 0 1 5 6 0
+Pate @ p:		3 2 0 0 3 0
+TOTALS:		30 4 6 27 12 2
+
+Waco:		ab r h po a e
+Beck @ ss:		3 0 0 3 5 0
+Aiken @ 3b:		3 0 1 0 3 0
+Stewart @ cf:	4 0 1 3 0 0
+Rennard @ rf:	4 0 0 1 0 0
+Wohleben @ 1b:	4 0 1 14 2 0
+Crichlow @ lf:	3 0 0 0 0 1
+Dugey @ 2b:		3 0 1 1 2 0
+Carson @ c:		3 0 0 1 0 0
+Ogles @ p:		3 0 0 1 3 1
+TOTALS:		30 0 4 24 15 2	
+
+line: Dallas: 0 0 2 0 0 0 0 2 x - 4
+line: Waco: 0 0 0 0 0 0 0 0 0 -0 
+
+B_2B: Aiken; Forsythe
+B_SB: Duncan; Beck; Crichlow
+P_SO: Pate #2; Ogles #1
+P_BB: Pate #3
+P_HP: Pate #2; Ogles #1
+B_ROE: Dallas #2; Waco #1
+B_LOB: Dallas #4; Waco #7
+T: 1:40
+U: Wilkinson; Brady
+
+---
+
+date: 1912-04-22
+number: 2
+league: Texas
+away: Waco
+home: Dallas
+
+Dallas:		ab r h po a e
+Forsythe @ 1b:	5 3 4 11 1 0
+Ens @ 2b:		4 3 3 1 6 0
+Blinke @ c:		1 1 0 6 0 0
+Duncan @ rf:	5 0 0 1 0 0 
+Wilson @ lf:	3 1 1 2 0 0
+Kellerman @ ss:	2 0 2 1 0 0
+Tullos @ 3b:	5 1 1 1 2 0
+Shuman @ cf:	5 0 0 4 0 0
+Evans @ p:		2 1 0 0 2 2
+Brown @ p:		0 0 0 0 0 0
+Kinney @ p:		2 1 1 0 1 0
+TOTALS:		34 11 12 27 12 3
+
+Waco:		ab r h po a e
+Beck @ ss:		5 1 1 2 1 1
+Aiken @ 3b:		5 1 2 0 6 0
+Stewart @ cf:	5 0 2 3 0 1
+Rennard @ rf:	4 0 1 1 0 0
+Wohleben @ 1b:	4 0 1 11 1 0
+Crichlow @ lf:	5 1 0 3 0 0
+Dugey @ 2b:		4 2 1 1 1 1
+Carson @ c:		3 1 2 3 2 0
+Barrett @ p:	1 0 0 0 2 0
+Haislip @ p:	1 0 1 0 0 0
+TOTALS:		37 6 11 24 13 3
+
+line: Dallas: 2 1 0 2 2 0 4 0 x - 11
+line: Waco: 0 0 2 0 2 2 0 0 0 - 6
+
+P_IP: Barrett #4; Evans #5.1; Brown #0.1
+P_R: Barrett #5; Evans #6; Haislip #5
+P_H: Barrett #5; Evans #9; Kinney #2
+B_2B: Beck; Forsythe #2; Stewart
+B_3B: Stewart
+B_HR: Ens #2
+B_SB: Forsythe; Ens; Blinke; Kellerman; Tullos
+B_SH: Kellerman; Barrett
+P_SO: Barrett #2; Haislip #1; Evans #4; Kinney #1
+P_BB: Evans #1; Barrett #4; Haislip #6; Kinney #2
+P_HP: Barrett #1; Evans #1; Kinney #1
+B_ROE: Dallas #3; Waco #1
+B_LOB: Dallas #12; Waco #9
+P_WP: Barrett #2
+T: 2:05
+U: Wilkinson; Brady
+
+---
+
+date: 1912-04-22
+number: 0
+league: Texas
+away: Beaumont
+home: San Antonio
+
+San Antonio:	ab r h po a e
+Meehan @ lf:	5 0 0 1 0 0
+Midkiff @ 3b:	5 1 1 1 2 0
+Goodwin @ rf:	5 2 3 1 0 0
+Metz @ 1b:		4 1 2 13 1 1
+Smith @ 2b:		4 1 1 0 5 0
+Leidy @ cf:		3 2 2 2 0 0
+Betts @ c:		3 1 2 8 0 0
+Daringer @ ss:	4 1 1 0 0 0
+Rogers @ p:		3 1 1 1 5 0
+Browning @ p:	2 0 1 0 1 0
+TOTALS:			37 10 15 27 14 1
+
+Beaumont:		ab r h po a e
+Mayes @ cf:		5 1 1 1 0 0
+Wheeler @ 2b:	4 1 1 2 0 0
+Cook @ 1b:		4 1 2 14 1 0
+Dall @ lf:		4 0 1 1 0 0
+Cowan @ 3b:		4 0 0 0 1 0
+Kramer @ rf:	3 0 0 1 0 0
+Edmiston @ ss:	4 1 2 1 3 0
+Dawson @ c:		3 0 0 3 0 0
+Harkins @ p:	1 0 0 1 1 0
+*Corbett @ ph:	1 0 0 0 0 0
+Bradford @ p:	1 0 0 0 3 0
+^Larson @ ph:	1 0 0 0 0 0
+TOTALS:			35 4 7 24 15 0
+
+*: Batted for Harkins in 5th
+^: Batted for Bradford in 9th
+
+line: San Antonio: 0 0 2 2 0 1 2 3 x - 10
+line: Beaumont: 1 0 0 0 1 0 2 0 0 - 4
+
+P_IP: Harkins #4; Bradford #4; Rogers #5.2; Browning #3.1
+P_R: Harkins #4; Bradford #6; Rogers #2; Browning #2
+P_H: Harkins #7; Bradford #8; Rogers #5; Browning #2
+B_2B: Goodwin #2; Leidy; Browning
+B_HR: Cook; Metz; Daringer; Rogers; Wheeler; Edmiston
+B_SB: Midkiff; Dawson
+B_SH: Leidy; Betts
+P_SO: Rogers #2; Harkins #1; Bradford #1; Browning #4
+P_BB: Rogers #1
+B_LOB: San Antonio #3; Beaumont #6
+T: 1:30
+U: Newhouse
+
+---
+
+date: 1912-04-22
+number: 0
+league: Texas
+away: Galveston
+home: Houston
+
+Houston:	ab r h po a e
+Fillman @ cf:	1 0 0 1 2 0
+Davis @ cf:		4 0 0 2 0 1
+Landreth @ rf:	4 0 0 1 0 0
+Newnam @ 1b:	4 1 1 8 1 0
+Britton @ 3b:	2 0 1 0 2 1
+Knaupp @ ss:	3 0 0 1 1 0
+Whiteman @ lf:	4 1 2 3 0 0
+Reynolds @ c:	3 0 0 11 1 0
+Foster @ p:		3 0 0 0 1 0
+TOTALS:			28 2 4 27 8 2
+
+Galveston:		ab r h po a e
+Madden @ ss:	4 0 0 3 6 2
+Clements @ 3b:	4 0 0 2 5 0
+Salm @ 1b:		3 0 1 14 1 0
+Williams, J. @ lf:	4 0 0 0 0 0
+Peebles @ rf:	2 0 0 0 0 0
+Thebo @ cf:		4 0 1 1 0 0
+Dodd @ 2b:		3 1 0 1 1 0
+Williams, H. @ c:	3 0 1 5 2 0
+Helm @ p:		3 0 0 0 1 1 
+TOTALS:			30 1 3 26 16 3
+
+note: Two out when winning run scored
+
+line: Houston: 0 0 0 0 0 0 0 0 2 - 2
+line: Galveston: 0 0 0 0 0 0 0 1 0 - 1
+
+B_3B: Whiteman
+P_BB: Helm #4; Foster #2
+P_SO: Foster #11; Helm #4
+F_DP: Clements, Salm, Clements
+F_PB: H. Williams
+B_SH: Britton; Knaupp; Reynolds; Salm; Peebles
+B_SB: Fillman #2; Britton; Peebles; Dodd
+B_LOB: Houston #7; Galveston #6
+T: 1:55
+U: Van Syckle
+
+---
+
+date: 1912-04-22
+number: 0
+league: Texas
+away: Austin
+home: Fort Worth
+
+Fort Worth:		ab r h po a e
+Cooper @ rf:	5 0 0 4 0 0
+Morris @ ss:	2 0 1 2 2 1
+Witherspoon @ p:	1 1 1 0 1 0
+Howard @ cf:	3 1 1 2 0 1
+Frierson @ lf:	4 0 1 0 0 0
+Thompson @ 2b:	4 0 1 4 5 2
+Snapp @ 3b:		3 0 0 1 1 0
+Manef @ 1b:		3 1 1 10 0 0
+Kitchen @ c:	3 0 2 3 1 0
+Hiett @ p:		3 0 0 0 3 0
+Gilvin @ p:		0 0 0 1 0 0
+*Jolly @ ph:	1 0 1 0 0 0 
+^Nance @ ph:	1 0 0 0 0 0
+TOTALS:			33 3 9 27 13 4
+
+Austin:		ab r h po a e
+Brownlow @ ss:	6 3 2 2 5 0
+Cook @ cf:		3 1 2 1 0 1
+Robinson @ lf:	4 0 0 1 1 0
+Downey @ rf:	4 1 1 0 0 0
+Hill @ 3b:		5 2 3 3 1 0
+McLarry @ 1b:	5 0 4 14 0 0
+Smith @ 2b:		3 1 0 4 4 0
+Hinninger @ c:	5 1 0 2 3 0
+Ayers @ p:		4 1 0 0 3 0
+TOTALS:			39 10 12 27 16 1
+
+*: Batted for Morris in 6th
+^: Batted for Gilvin in 9th
+
+line: Fort Worth: 0 0 0 0 0 1 0 2 0 - 3
+line: Austin: 1 0 0 0 0 2 1 6 0 - 10
+
+P_IP: Hiett #7.1; Gilvin #1.1
+P_R: Hiett #6; Gilvin #4
+P_H: Hiett #10; Gilvin #2
+B_2B: Hill; Howard
+B_3B: Hill; Downey; Brownlow
+B_SH: Cook
+P_SO: Ayers #2; Hiett #2; Gilvin #2
+P_BB: Hiett #3; Gilvin #2; Ayers #4
+P_HP: Hiett #1
+B_ROE: Austin #2
+B_LOB: Austin #9; Fort Worth #5
+F_DP: Smith, McLarry
+T: 1:45
+U: Jacobs

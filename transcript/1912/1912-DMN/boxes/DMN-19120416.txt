@@ -1,0 +1,172 @@
+date: 1912-04-15
+number: 0
+league: Texas
+away: Dallas
+home: Waco
+
+Waco:		ab r h po a e
+Beck @ ss:		4 0 1 1 0 1
+Akin @ 3b:		3 0 0 1 0 0
+Stewart @ cf:	4 1 2 2 0 0
+Rennard @ rf:	2 1 0 1 0 0
+Wohleben @ 1b:	2 0 1 8 0 1
+Tanner @ lf:	2 0 1 3 0 0
+Dugey @ 2b:		3 0 1 4 5 1
+Carson @ c:		3 1 1 7 0 0
+Lohman @ p:		2 0 0 0 2 0
+TOTALS:		25 3 7 27 7 3
+
+Dallas:		ab r h po a e
+Kellerman @ ss:		4 0 2 2 4 0
+Ens @ 2b:		5 1 0 4 5 0
+Tullos @ 3b:	4 0 1 1 2 0
+Forsythe @ lf:	4 0 0 2 1 0
+Shuman @ cf:	4 0 0 2 0 0
+Wilson @ 1b:	4 0 0 11 0 0
+Gibson @ c:		4 0 2 2 2 0
+Tierney @ rf:	3 0 0 0 0 0
+Brown @ p:		1 0 0 0 0 0
+Bader @ p:		2 0 1 0 4 0
+*Evans @ ph:	1 0 0 0 0 0
+^Blinke @ ph:	1 0 1 0 0 0
+TOTALS:			37 1 7 24 18 0
+
+*: Batted for Tierney in 9th
+^: Batted for Bader in 9th
+
+line: Waco: 0 0 1 2 0 0 0 0 x - 3
+line: Dallas: 0 0 0 0 0 1 0 0 0 - 1
+
+P_IP: Brown #3
+P_R: Brown #3
+P_H: Brown #6
+P_BB: Brown #3; Lohman #1; Bader #1
+P_WP: Lohman
+P_SO: Bader #1; Lohman #7
+B_2B: Stewart; Bader
+B_3B: Gibson
+B_SH: Lohman
+B_SB: Dugey
+F_DP: Forsythe, Tullos, Kellerman; Kellerman, Ens, Wilson
+B_ROE: Dallas #3
+B_LOB: Waco #3; Dallas #9
+T: 1:50
+U: Jacobs
+
+---
+
+date: 1912-04-15
+number: 0
+league: Texas
+away: Fort Worth
+home: Austin
+
+Austin:		ab r h po a e
+Brownlow @ ss:	4 0 1 0 7 0
+Cook @ cf:		4 0 1 1 0 0
+Robinson @ lf:	3 0 0 1 0 0
+Downey @ rf:	3 1 2 0 0 0
+McLarry @ 1b:	3 0 0 15 0 0
+Smith @ 2b:		3 1 2 3 1 1
+Stellbauer @ 3b:	2 2 2 2 4 0
+Sweet @ c:		3 0 1 5 2 0
+Parrish @ p:	3 0 1 0 3 0
+TOTALS:			28 4 10 27 17 1
+
+Fort Worth:		ab r h po a e
+Cooper @ lf:	4 0 0 1 1 0
+Jolly @ rf:		4 1 1 3 2 0
+Howard @ cf:	4 1 1 3 0 0
+Witherspoon @ ss:	3 0 1 4 2 0
+Thompson @ 2b:	4 0 1 2 2 0
+Snapp @ 3b:		4 0 1 0 3 0
+Manes @ 1b:		4 0 0 7 0 0
+Kitchens @ c:	2 0 1 4 4 0
+Robinson @ c:	1 0 0 0 1 0
+Lowe @ p:		1 0 0 0 0 0
+Gilvin @ p:		1 0 0 0 0 0
+Armour @ p:		0 0 0 0 0 0
+*Fierson @ ph:	1 0 1 0 0 0
+^Hiett @ pr:	0 0 0 0 0 0
+TOTALS:			33 2 7 24 15 0
+
+*: Batted for Gilvin in 8th
+^: Ran for Fierson in 8th
+
+line: Austin: 0 3 0 0 0 0 1 0 x - 4
+line: Fort Worth: 2 0 0 0 0 0 0 0 0 - 2
+
+B_2B: Downey; Witherspoon
+B_3B: Smith; Stellbauer #2
+B_SB: McLarry
+F_DP: Thompson, Witherspoon, Manes; Kitchens, Thompson; Jolly, Manes
+P_R: Lowe #3; Gilvin #1; Armour #0
+P_H: Lowe #5; Gilvin #4; Armour #1
+P_IP: Lowe #2; Gilvin #5; Armour #1
+P_SO: Parrish #4; Lowe #1
+P_BB: Gilvin #4; Parrish #1
+F_PB: Sweet
+B_LOB: Austin #4; Fort Worth #5
+T: 1:30
+U: Brady; Wilkinson
+
+---
+
+date: 1912-04-15
+number: 0
+league: Texas
+away: Houston
+home: Galveston
+
+Galveston:		ab r h po a e
+Maag @ 2b:		4 0 0 1 4 0
+Clemens @ 3b:	4 0 0 1 5 1
+Thebo @ cf:		2 1 0 0 1 0
+Salm @ 1b:		3 1 1 16 0 0
+Williams, J. @ lf:	4 1 3 2 0 0
+Madden @ ss:	4 0 2 2 2 0
+McKnight @ rf:	4 0 0 0 0 0
+Williams, H. @ c:	4 0 0 3 4 3 
+Henricksen @ p:	3 0 0 1 1 0
+*Peebles @ ph:	1 0 0 0 0 0
+TOTALS:			33 3 6 26 17 4
+
+Houston:		ab r h po a e
+Fillman @ 2b:	6 0 1 4 3 0
+Davis @ rf:		4 1 1 1 0 0
+Knaupp @ ss:	4 1 0 1 0 3
+Newnam @ 1b:	3 3 3 14 1 0
+Riggs @ cf:		5 2 2 0 1 0
+Britton @ 3b:	4 2 3 1 3 0
+Whiteman @ lf:	4 2 2 1 0 0
+Reynolds @ c:	5 0 2 4 2 0
+Edmundson @ p:	5 0 0 1 5 0
+TOTALS:		40 11 14 27 15 3
+
+*: Batted for Henricksen in 9th
+
+line: Galveston: 3 0 0 0 0 0 0 0 0 - 3
+line: Houston: 0 0 1 1 2 0 0 3 4 - 11
+
+B_SB: Davis; Knaupp; Whiteman
+B_SF: Newnam
+B_3B: Riggs
+P_BB: Henricksen #3; Edmundson #2
+B_SH: Salm
+B_2B: J. Williams; Madden; Fillman; Newnam; Reynolds
+P_SO: Henricksen #2; Edmundson #4
+P_WP: Henricksen; Edmundson
+P_HP: Henricksen #2
+B_LOB: Galveston #6; Houston #7
+T: 1:47
+U: Newhouse
+
+---
+
+date: 1912-04-15
+number: 0
+league: Texas
+away: San Antonio
+home: Beaumont
+status: postponed
+status-reason: wet grounds

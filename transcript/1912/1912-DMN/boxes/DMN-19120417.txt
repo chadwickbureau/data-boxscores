@@ -1,0 +1,127 @@
+date: 1912-04-16
+number: 0
+league: Texas
+away: Dallas
+home: Austin
+
+Austin:		ab r h po a e
+Brownlow @ ss:	 4 0 0 5 2 2
+Smith @ 2b:		3 1 1 2 2 0
+Hille @ cf:		3 0 0 1 0 0
+Sweet @ c:		2 0 1 3 3 0
+Hinninger @ c:	2 0 2 2 1 0
+Stellbauer @ 3b:	4 0 1 2 0 0
+Robinson @ lf:	4 0 0 3 0 0
+Downey @ rf:	3 0 0 0 0 1
+McLarry @ 1b:	4 0 2 9 1 0
+Ayres @ p:		4 0 0 0 5 1
+TOTALS:			33 1 7 27 14 4
+
+Dallas:		ab r h po a e
+Kellerman @ ss:		5 1 2 1 3 1
+Ens @ 2b:		5 0 3 0 4 1
+Tullos @ 3b:	5 0 1 0 0 0
+Forsythe @ lf:	3 1 0 2 0 0
+Gibson @ c:		4 0 0 12 1 1
+Wilson @ 1b:	5 1 2 11 0 0
+Shuman @ cf:	3 1 2 0 0 0
+Tierney @ rf:	4 0 1 1 0 0
+Evans @ p:		4 3 3 0 3 0
+TOTALS:			38 7 14 27 11 3
+
+line: Dallas: 1 0 0 0 1 1 1 3 0 - 7
+line: Austin: 1 0 0 0 0 0 0 0 0 - 1
+
+B_SB: Ens #2
+B_2B: Stellbauer; Wilson; Shuman; Evans; Tierney
+B_3B: Smith
+B_HR: Kellerman
+B_SH: Gibson
+B_SF: Forsythe
+F_DP: Brownlow, Smith
+P_SO: Evans #12; Ayres #4
+B_ROE: Dallas #1; Austin #1
+B_LOB: Dallas #8; Austin #8
+P_BB: Ayres #2; Evans #2
+P_HP: Evans #2
+T: 1:40
+U: Brady; Wilkinson
+
+---
+
+date: 1912-04-16
+number: 0
+league: Texas
+away: Fort Worth
+home: Waco
+
+Waco:		ab r h po a e
+Beck @ ss:		4 1 1 1 4 1
+Aiken @ 3b:		4 1 2 3 1 1
+Stewart @ cf:	4 0 0 4 0 0
+Rennard @ rf:	4 0 2 0 0 0
+Wohleben @ 1b:	4 0 3 11 1 0
+Tanner @ lf:	4 0 1 1 0 0
+Dugey @ 2b:		3 1 1 2 1 1
+Carson @ c:		2 0 0 5 1 0
+Taff @ p:		3 0 0 0 2 1
+*Reilly @ ph:	0 0 0 0 0 0
+TOTALS:		32 3 10 27 10 4
+
+Fort Worth:		ab r h po a e
+Cooper @ lf:	5 0 2 1 0 0
+Jolly @ rf:		3 1 2 1 1 0
+Howard @ cf:	5 0 1 2 0 0
+Witherspoon @ ss:	5 0 0 2 3 0
+Thompson @ 2b:	5 0 1 2 1 2
+Snapp @ 3b:		4 0 1 3 4 0
+Manes @ 1b:		2 0 1 9 1 1
+Robertson @ c:	2 0 0 5 3 0
+Kitchens @ c:	0 0 0 0 1 0
+Perritt @ p:	2 0 0 0 2 2
+Hiett @ p:		0 0 0 0 0 0
+^Frierson @ ph:	1 0 0 0 0 0
++Nance @ ph:	1 1 1 0 0 0
+TOTALS:			36 2 9 25 16 1
+
+*: Batted for Taff in 9th
+^: Batted for Robertson in 8th
++: Batted for Perritt in 9th
+note: One out in winning run scored
+
+line: Waco: 0 0 0 0 2 0 0 0 1 - 3
+line: Fort Worth: 0 0 0 0 1 0 0 0 1 - 2
+
+P_IP: Perritt #8
+P_H: Perritt #8
+P_BB: Taff #3; Perritt #3
+P_HP: Hiett #2
+P_SO: Taff #5; Perritt #5
+F_PB: Carson #1; Kitchens #1
+B_2B: Wohleben; Beck; Dugey; Snapp; Manes
+B_SH: Carson; Jolly; Manes
+B_SB: Aiken; Wohleben; Dugey #2
+B_ROE: Waco #2; Fort Worth #2
+B_LOB: Waco #10; Fort Worth #12
+T: 2:10
+U: Jacobs
+
+---
+
+date: 1912-04-16
+number: 0
+league: Texas
+away: San Antonio
+home: Galveston
+status: postponed
+status-reason: rain
+
+---
+
+date: 1912-04-16
+number: 0
+league: Texas
+away: Houston
+home: Beaumont
+status: postponed
+status-reason: wet grounds
