@@ -167,6 +167,10 @@ class Game(object):
                           "home-manager", "away-manager", "forfeit-to" ]:
                 self.metadata[key] = value
 
+            elif key == "phase":
+                # TODO: process season phase designator
+                pass
+                
             elif key in [ "B_ER", "B_2B", "B_3B", "B_HR", "B_BB", "B_SO",
                           "B_SH", "B_HP",
                           "B_SH", "B_SF", "B_SB",

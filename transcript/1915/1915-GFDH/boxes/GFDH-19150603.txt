@@ -1,0 +1,731 @@
+date: 1915-06-03
+number: 0
+league: Northern
+away: Winnipeg
+home: Grand Forks 
+source: Grand Forks Daily Herald, June 4, 1915
+
+Winnipeg:	ab r h po a e
+Bemis @ cf:	4 0 1 2 0 0
+Pickering @ lf:	4 0 1 2 0 0
+Baker @ 2b:	4 0 3 4 4 0
+Mitchell @ 3b:	4 0 0 0 0 0
+Cline @ 1b:	4 0 2 9 1 0
+Jude @ rf:	3 0 2 3 0 0
+Curtis @ ss:	3 0 0 1 1 0
+Wilson @ c:	1 0 0 6 0 0
+Thomas @ p:	3 0 0 1 3 0
+TOTALS:		30 0 9 24 9 0
+
+Grand Forks:	ab r h po a e
+Block @ cf:	3 1 1 3 1 0
+Fox @ 2b:	3 0 0 2 1 0
+Flaherty @ ss:	2 0 0 2 3 0
+Altman @ lf:	3 0 0 0 0 0
+McNeeley @ rf:	3 0 1 1 1 0
+Lennehan @ 1b:	2 0 0 11 0 0
+Anderson @ 3b:	3 0 0 2 6 0
+Wolfe @ c:	3 0 0 6 1 0
+Brenner @ p:	2 0 0 0 1 0
+TOTALS:		24 1 2 27 15 0
+
+line: Winnipeg:    0 0 0 0 0 0 0 0 0 - 0
+line: Grand Forks: 0 0 0 1 0 0 0 0 x - 1
+
+B_LOB: Winnipeg #7; Grand Forks #1
+B_ER: Grand Forks #1
+B_2B: Jude
+B_3B: Bemis; Block
+B_SH: Lennehan; Jude; Wilson
+B_SF: Flaherty
+P_BB: Brenner #2
+P_SO: Thomas #5; Brenner #4
+F_DP: Block, Wolfe; Anderson, Fox, Lennehan
+T: 1:20
+U: Landry
+
+---
+
+date: 1915-06-03
+number: 0
+league: Northern
+away: Fort William-Port Arthur
+home: Superior
+source: Grand Forks Daily Herald, June 4, 1915
+
+Fort William-Port Arthur: 	r h e
+Hewitt @ p:	x x x
+Fusner @ c:	x x x
+TOTALS:		6 7 2
+
+Superior:	r h e
+Williams @ p:	x x x
+Kurke @ c:	x x x
+TOTALS:		3 4 3
+
+line: Fort William-Port Arthur: 1 0 0 2 0 0 0 0 3 - 6
+line: Superior: 		0 1 1 1 0 0 0 0 0 - 3
+
+---
+
+date: 1915-06-03
+number: 0
+league: Northern
+away: Virginia
+home: Duluth
+source: Grand Forks Daily Herald, June 4, 1915
+
+Virginia: 	r h e
+Huggins @ p:	x x x
+Agnew @ c:	x x x
+TOTALS:		0 5 3
+
+Duluth:		r h e
+Turner @ p:	x x x
+Sweeley @ c:	x x x
+TOTALS:		5 6 1
+
+line: Virginia: 0 0 0 0 0 0 0 0 0 - 0
+line: Duluth: 	0 0 0 4 0 0 0 1 x - 5
+
+---
+
+date: 1915-06-03
+number: 0
+league: Northern
+away: St. Boniface
+home: Fargo-Moorhead
+source: Grand Forks Daily Herald, June 4, 1915
+
+St. Boniface:	r h e
+Boardman @ p:	x x x
+Spellman @ c:	x x x 
+TOTALS:		9 12 1
+
+Fargo-Moorhead:	r h e
+Dumont @ p:	x x x 
+Smith @ c:	x x x 
+TOTALS:		1 3 2
+
+line: St. Boniface:   2 0 0 2 0 2 3 0 0 - 9
+line: Fargo-Moorhead: 0 0 0 0 0 0 0 0 1 - 1
+
+
+---
+
+date: 1915-06-04
+number: 0
+league: Northern
+away: Winnipeg
+home: Grand Forks
+status: postponed
+status-reason: rain
+source: Grand Forks Daily Herald, June 5, 1915
+
+---
+
+date: 1915-06-04
+number: 0
+league: Northern
+away: St. Boniface
+home: Fargo-Moorhead
+source: Grand Forks Daily Herald, June 5, 1915
+
+St. Boniface:	r h e
+Stevenson @ p:	x x x
+Spellman @ c:	x x x 
+TOTALS:		6 11 3
+
+Fargo-Moorhead:	r h e
+Fait @ p:	x x x 
+Murphy @ c:	x x x 
+TOTALS:		7 13 4
+
+line: St. Boniface:   0 2 0 0 0 1 3 0 0 - 6
+line: Fargo-Moorhead: 0 0 0 0 0 0 3 3 1 - 7
+
+---
+
+date: 1915-06-04
+number: 0
+league: Northern
+away: Virginia
+home: Duluth
+source: Grand Forks Daily Herald, June 5, 1915
+
+Virginia: 	r h e
+Sorenson @ p:	x x x
+Agnew @ c:	x x x
+TOTALS:		9 10 1
+
+Duluth:		r h e
+Caddeau @ p:	x x x
+Sweeley @ c:	x x x
+TOTALS:		8 6 5
+
+line: Virginia: 2 3 1 0 0 0 1 1 1 - 9
+line: Duluth: 	0 1 0 1 0 0 0 1 5 - 8
+
+---
+
+date: 1915-06-04
+number: 0
+league: Northern
+away: Fort William-Port Arthur
+home: Superior
+source: Grand Forks Daily Herald, June 5, 1915
+
+Fort William-Port Arthur: 	r h e
+Hawkins @ p:	x x x
+Fusner @ c:	x x x
+TOTALS:		11 17 2
+
+Superior:	r h e
+Connelly @ p:	x x x
+Kurke @ c:	x x x
+TOTALS:		7 14 2
+
+line: Fort William-Port Arthur: 1 3 0 2 0 0 3 0 2 - 11
+line: Superior: 		1 2 0 4 0 0 0 0 0 - 7
+
+---
+
+date: 1915-06-05
+number: 0
+league: Northern
+away: Winnipeg
+home: Grand Forks 
+source: Grand Forks Daily Herald, June 6, 1915
+
+Winnipeg:	ab r h po a e
+Bemis @ cf:	4 2 1 1 0 0
+Pickering @ lf:	4 1 1 4 0 0
+Baker @ 2b:	5 0 1 1 3 0
+Mitchell @ 3b:	3 1 0 0 4 0
+Cline @ 1b:	4 0 2 9 0 0
+Jude @ rf:	4 1 2 3 0 0
+Curtis @ ss:	3 0 2 1 0 1
+Wilson @ c:	4 0 0 5 0 0
+Shirley @ p:	4 0 1 0 2 1
+TOTALS:		35 5 10 24 9 2
+
+Grand Forks:	ab r h po a e
+Block @ cf:	3 0 1 1 0 0
+Fox @ 2b:	4 0 1 2 2 0
+Flaherty @ rf:	5 1 1 1 0 0
+Altman @ lf:	4 1 1 1 1 1 
+Morse @ ss:	4 0 0 1 2 0
+Lennehan @ 1b:	3 2 1 16 1 0
+Anderson @ 3b:	4 0 1 0 1 0
+Wolfe @ c:	3 1 1 5 4 0
+Ursella @ p:	1 0 0 1 1 2
+Hoffman @ p:	3 1 1 0 6 0
+TOTALS:		34 6 8 27 18 3
+
+line: Winnipeg:    1 0 0 1 3 0 0 0 0 - 5
+line: Grand Forks: 0 0 0 0 5 1 0 0 x - 6
+
+B_LOB: Winnipeg #7; Grand Forks #9
+B_2B: Anderson; Lennehan; Hoffman
+B_SB: Curtis; Jude; Block
+B_SH: Pickering; Baker; Curtis; Ursella
+B_HP: Fox
+P_BB: Ursella #3; Hoffman #1; Shirley #2
+P_SO: Hoffman #1; Shirley #3
+P_HP: Shirley
+F_DP: Hoffman, Wolfe, Lennehan; Morse, Wolfe, Lennehan
+F_PB: Wilson
+T: 1:45
+U: Landry
+
+---
+
+date: 1915-06-05
+number: 0
+league: Northern
+away: Virginia
+home: Duluth
+status: postponed
+status-reason: rain
+source: Grand Forks Daily Herald, June 6, 1915
+
+---
+
+date: 1915-06-05
+number: 0
+league: Northern
+away: Fort William-Port Arthur
+home: Superior
+status: postponed
+status-reason: rain
+source: Grand Forks Daily Herald, June 6, 1915
+
+---
+
+date: 1915-06-05
+number: 0
+league: Northern
+away: St. Boniface
+home: Fargo-Moorhead
+source: Grand Forks Daily Herald, June 6, 1915
+
+St. Boniface:	r h e
+Blum @ p:	x x x
+Mueller @ c:	x x x 
+TOTALS:		3 10 1
+
+Fargo-Moorhead:	r h e
+Bell @ p:	x x x 
+Murphy @ c:	x x x 
+TOTALS:		1 8 1
+
+line: St. Boniface:   0 0 0 0 0 0 0 0 0 - 3
+line: Fargo-Moorhead: 0 0 0 0 0 0 0 0 0 - 1
+
+---
+
+date: 1915-06-06
+number: 0
+league: Northern
+away: Winnipeg
+home: Grand Forks 
+source: Grand Forks Daily Herald, June 8, 1915
+
+Winnipeg:	ab r h po a e
+Bemis @ cf:	5 0 1 3 0 0
+Pickering @ lf:	4 0 0 3 0 0
+Baker @ 2b:	4 0 0 2 0 0
+Mitchell @ 3b:	5 0 1 0 1 0
+Cline @ 1b:	3 0 0 12 0 0
+Jude @ rf:	3 1 1 3 0 0
+Curtis @ ss:	4 0 1 3 3 0
+Wilson @ c:	3 1 1 4 3 0
+Gervais @ p:	3 0 0 0 6 0
+TOTALS:		34 2 5 30 13 0
+
+Grand Forks:	ab r h po a e
+Morse @ ss:	4 0 1 0 2 1
+Fox @ 2b:	3 0 0 2 3 0
+Flaherty @ cf:	4 0 0 2 0 0
+Altman @ lf:	3 0 0 3 0 0
+Lennehan @ 1b:	4 0 1 15 1 1
+McNeeley @ rf:	4 0 0 0 0 0
+Anderson @ 3b:	4 1 1 3 3 1
+Wolfe @ c:	2 0 0 4 1 0
+Bartoff @ p:	3 0 1 1 7 0
+TOTALS:		34 6 8 27 18 3
+
+line: Winnipeg:    0 0 0 0 0 0 1 0 0 1 - 2
+line: Grand Forks: 0 0 1 0 0 0 0 0 0 0 - 1
+
+B_ER: Grand Forks #1; Winnipeg #1
+B_2B: Mitchell; Jude
+B_SB: Lennehan; Jude; Wilson
+P_BB: Gervais #1; Bartoff #3
+P_SO: Gervais #5
+T: 1:48
+U: Landry
+
+---
+
+date: 1915-06-06
+number: 0
+league: Northern
+away: St. Boniface
+home: Fargo-Moorhead
+source: Grand Forks Daily Herald, June 8, 1915
+
+St. Boniface:	r h e
+TOTALS:		0 x x 
+
+Fargo-Moorhead:	r h e
+TOTALS:		1 x x
+
+---
+
+date: 1915-06-06
+number: 1
+league: Northern
+away: Virginia
+home: Duluth
+source: Grand Forks Daily Herald, June 8, 1915
+
+Virginia: 	r h e
+TOTALS:		0 x x 
+
+Duluth:		r h e
+TOTALS:		1 x x 
+
+
+---
+
+date: 1915-06-06
+number: 2
+league: Northern
+away: Virginia
+home: Duluth
+source: Grand Forks Daily Herald, June 8, 1915
+
+Virginia: 	r h e
+TOTALS:		5 x x 
+
+Duluth:		r h e
+TOTALS:		4 x x 
+
+---
+
+date: 1915-06-06
+number: 0
+league: Northern
+away: Fort William-Port Arthur
+home: Superior
+source: Grand Forks Daily Herald, June 8, 1915
+
+Fort William-Port Arthur: 	r h e
+TOTALS:		9 x x 
+
+Superior:	r h e
+TOTALS:		5 x x 
+
+---
+
+date: 1915-06-07
+number: 0
+league: Northern
+away: Grand Forks 
+home: Fargo-Moorhead
+source: Grand Forks Daily Herald, June 8, 1915
+
+Grand Forks:	ab r h po a e
+Morse, P. @ ss:	4 1 1 2 3 0
+Fox @ 2b:	2 1 1 0 2 0
+Flaherty @ cf:	3 0 1 1 0 0
+Altman @ lf:	3 1 1 1 0 0
+Lennahan @ 1b:	3 1 0 17 0 0
+McNeely @ rf:	4 0 1 0 0 0
+Anderson @ 3b:	3 1 0 2 7 1
+Wolfe @ c:	3 0 0 4 1 0
+Morse @ p:	4 0 1 0 4 0
+TOTALS:		29 5 6 27 17 1
+
+Fargo-Moorhead:	ab r h po a e
+Whiting @ lf:	4 0 0 0 1 1
+Hooper @ ss:	4 0 0 2 1 0 
+Unglaub @ 1b:	2 0 0 8 0 0
+Murphy @ 1b:	2 0 0 2 1 0
+Clymer @ cf:	3 1 1 4 0 0
+Barrett @ rf:	4 0 1 0 0 0
+Dreis @ 3b:	3 0 2 3 2 1
+Fremer @ 2b:	3 0 0 1 2 0
+Smith @ c:	4 0 1 6 3 0
+Fait @ p:	3 0 0 1 3 0
+Foster @ p:	0 0 0 0 0 0
+TOTALS:		32 1 5 27 13 2
+
+line: Grand Forks:    0 0 0 0 0 3 1 1 0 - 5
+line: Fargo-Moorhead: 0 0 0 0 0 0 1 0 0 - 1
+
+B_LOB: Grand Forks #4; Fargo-Moorhead #5 
+B_2B: P. Morse; Clymer; Dreis #2; Flaherty
+B_SB: Flaherty; Altman; Lennahan
+B_SH: Flaherty; Wolfe
+B_HP: Clymer
+P_BB: Morse #2; Fait #5
+P_SO: Morse #4; Fait #2
+P_H:  Fait #6
+P_IP: Fait #7; Foster #2
+P_HP: Morse
+T: 1:50
+U: Landry
+
+---
+
+date: 1915-06-07
+number: 0
+league: Northern
+away: Winnipeg
+home: St. Boniface
+status: postponed
+status-reason: rain
+source: Grand Forks Daily Herald, June 8, 1915
+
+---
+
+date: 1915-06-07
+number: 0
+league: Northern
+away: Duluth
+home: Fort William-Port Arthur
+source: Grand Forks Daily Herald, June 8, 1915
+
+Duluth:		r h e
+Turner @ p:	x x x
+Sweeley @ c:	x x x
+TOTALS:		1 1 1
+
+Fort William-Port Arthur: 	r h e
+Hewett @ p:	x x x
+Fusner @ c:	x x x
+TOTALS:		2 7 3
+
+line: Duluth: 			0 0 0 0 0 0 1 0 0 - 1
+line: Fort William-Port Arthur: 0 0 1 1 0 0 0 0 x - 2
+
+---
+
+date: 1915-06-07
+number: 0
+league: Northern
+away: Superior
+home: Virginia
+source: Grand Forks Daily Herald, June 8, 1915
+
+Superior:	r h e
+Snow @ p:	x x x
+Kirke @ c:	x x x
+TOTALS:		5 7 2
+
+Virginia: 	r h e
+Faeth @ p:	x x x
+Agnew @ c:	x x x
+TOTALS:		4 6 5
+
+line: Superior: 2 0 0 0 0 0 1 2 0 - 5
+line: Virginia: 0 0 0 0 3 0 1 0 0 - 4
+
+---
+
+date: 1915-06-08
+number: 0
+league: Northern
+away: Duluth
+home: Fort William-Port Arthur
+status: postponed
+status-reason: cold
+source: Grand Forks Daily Herald, June 9, 1915
+
+---
+
+date: 1915-06-08
+number: 0
+league: Northern
+away: Superior
+home: Virginia
+status: postponed
+status-reason: cold
+source: Grand Forks Daily Herald, June 9, 1915
+
+---
+
+date: 1915-06-08
+number: 0
+league: Northern
+away: Grand Forks 
+home: Fargo-Moorhead
+status: postponed
+status-reason: cold
+source: Grand Forks Daily Herald, June 9, 1915
+
+---
+
+date: 1915-06-08
+number: 0
+league: Northern
+away: St. Boniface 
+home: Winnipeg
+source: Grand Forks Daily Herald, June 9, 1915
+
+St. Boniface:	r h e
+Boardman @ p:	x x x
+Spellman @ c:	x x x 
+TOTALS:		1 5 2
+
+Winnipeg:	r h e
+Patterson @ p:	x x x
+Wilson @ c:	x x x 
+TOTALS:		2 4 0
+
+line: St. Boniface: 0 0 0 0 0 0 0 1 0 - 1
+line: Winnipeg:     0 0 0 0 1 0 0 1 x - 2
+
+---
+
+date: 1915-06-09
+number: 1
+league: Northern
+away: Grand Forks 
+home: Fargo-Moorhead
+source: Grand Forks Daily Herald, June 10, 1915
+
+Grand Forks:	ab r h po a e
+Block @ cf:	5 1 2 1 0 0
+Fox @ 2b:	4 0 3 3 1 0
+Flaherty @ rf:	4 0 0 1 0 0
+Morse @ ss:	3 0 0 2 1 1
+Altman @ lf:	3 1 1 3 0 0
+Lennahan @ 1b:	4 1 1 9 1 0
+Anderson @ 3b:	4 0 2 0 4 0
+Wolfe @ c:	3 0 0 5 0 0
+Hoffman @ p:	1 0 0 0 3 0
+Brenner @ p:	3 1 1 0 1 0
+TOTALS:		34 4 10 24 11 1
+
+Fargo-Moorhead:	ab r h po a e
+Whiting @ lf:	3 0 0 3 0 0
+Hooper @ ss:	3 1 1 2 3 0
+Unglaub @ 1b:	4 1 1 10 0 0
+Clymer @ cf:	4 1 1 0 0 0
+Barrett @ rf:	3 1 1 0 0 0
+Dries @ 3b:	4 0 2 3 3 0
+Fremer @ 2b:	1 1 1 3 3 0
+Murphy @ c:	4 1 1 5 0 0
+Bell @ p:	4 0 1 1 2 0
+TOTALS:		36 6 9 27 11 0
+
+line: Grand Forks:    0 0 0 2 2 0 0 0 0 - 4
+line: Fargo-Moorhead: 0 1 5 0 0 0 0 0 x - 6
+
+B_LOB: Grand Forks #6; Fargo-Moorhead #6
+B_ER: Grand Forks #3; Fargo-Moorhead #4
+B_2B: Barrett; Lennahan; Fox
+B_3B: Altman
+B_SB: Fremer; Murphy
+B_SH: Hooper; Fremer #2; Altman; Wolfe
+P_BB: Bell #1; Hoffman #2; Brenner #1
+P_SO: Bell #4; Hoffman #2; Brenner #4
+P_H:  Hoffman #5; Brenner #4
+P_IP: Hoffman #2; Brenner #6
+P_WP: Hoffman
+F_DP: Fremer, Hooper, Unglaub
+T: 1:30
+U: Landry
+
+---
+
+date: 1915-06-09
+number: 2
+league: Northern
+away: Grand Forks 
+home: Fargo-Moorhead
+source: Grand Forks Daily Herald, June 10, 1915
+note: game called after 4 1/2 innings due to rain
+
+Grand Forks:	ab r h po a e
+Block @ cf:	3 0 1 1 0 0
+Fox @ 2b:	1 2 0 1 1 0
+Flaherty @ rf:	3 1 2 1 1 1
+Morse @ ss:	3 0 0 0 1 0
+Altman @ lf:	1 1 0 0 0 0
+Lennahan @ 1b:	3 1 1 3 0 0
+Anderson @ 3b:	3 0 0 2 1 0
+Wolfe @ c:	2 0 0 3 0 0
+Ursella @ p:	1 0 0 0 1 1 
+Bartoff @ p:	1 0 1 2 0 0
+TOTALS:		21 5 5 12 5 2
+
+Fargo-Moorhead:	ab r h po a e
+Whiting @ lf:	3 0 1 0 0 0
+Hooper @ ss:	3 1 1 0 3 1
+Unglaub @ 1b:	2 1 1 8 0 0
+Clymer @ cf:	0 0 0 0 0 0
+Smith @ rf:	1 1 1 0 0 1
+Barrett @ rf-cf:	3 1 2 0 0 0
+Driess @ 3b:	3 2 2 1 1 0
+Fremer @ 2b:	3 2 2 1 1 0
+Murphy @ c:	1 0 1 3 2 0
+Dumont @ p:	2 0 0 0 0 1
+TOTALS:		20 7 11 15 9 4
+
+line: Grand Forks:    0 0 1 2 2 - 5
+line: Fargo-Moorhead: 0 1 4 2 x - 7
+
+B_LOB: Grand Forks #5; Fargo-Moorhead #5
+B_ER: Fargo-Moorhead #3
+B_2B: Block; Flaherty
+B_3B: Barrett
+B_SB: Whiting; Hooper; Clymer; Driess; Fremer; Altman #2; Anderson
+B_SH: Unglaub; Murphy
+P_BB: Dumont #3; Ursella #2
+P_SO: Dumont #4; Ursella #2
+P_H:  Ursella #7; Bartoff #4
+P_IP: Ursella #2.2; Bartoff #1.1
+F_DP: Hooper, Fremer, Unglaub
+T: 0:50
+U: Landry
+
+---
+
+date: 1915-06-09
+number: 0
+league: Northern
+away: Winnipeg
+home: St. Boniface
+status: postponed
+status-reason: rain
+source: Grand Forks Daily Herald, June 10, 1915
+
+---
+
+date: 1915-06-09
+number: 0
+league: Northern
+away: Superior
+home: Virginia
+source: Grand Forks Daily Herald, June 10, 1915
+
+Superior:	r h e
+Williams @ p:	x x x
+Kurke @ c:	x x x
+TOTALS:		2 6 1
+
+Virginia: 	r h e
+Sorenson @ p:	x x x
+Agnew @ c:	x x x
+TOTALS:		9 10 2
+
+line: Superior: 1 0 1 0 0 0 0 0 0 - 2
+line: Virginia: 2 1 0 0 0 0 0 6 x - 9
+
+---
+
+date: 1915-06-09
+number: 1
+league: Northern
+away: Duluth
+home: Fort William-Port Arthur
+source: Grand Forks Daily Herald, June 10, 1915
+
+Duluth:		r h e
+Boley @ p:	x x x
+Sweeley @ c:	x x x
+TOTALS:		4 12 4
+
+Fort William-Port Arthur: 	r h e
+Hawkins @ p:	x x x
+Fusner @ c:	x x x
+TOTALS:		1 4 1
+
+line: Duluth: 			0 0 4 0 0 0 0 0 0 - 4
+line: Fort William-Port Arthur: 0 0 1 0 0 0 0 0 0 - 1
+
+---
+
+date: 1915-06-09
+number: 2
+league: Northern
+away: Duluth
+home: Fort William-Port Arthur
+source: Grand Forks Daily Herald, June 10, 1915
+
+Duluth:		r h e
+Jackson @ p:	x x x
+Sweeley @ c:	x x x
+TOTALS:		8 8 0
+
+Fort William-Port Arthur: 	r h e
+Lorenzen @ p:	x x x
+Fusner @ c:	x x x
+TOTALS:		4 9 4
+
+line: Duluth: 			1 7 0 0 0 0 0 0 0 - 8
+line: Fort William-Port Arthur: 0 0 0 0 2 0 0 0 2 - 4
