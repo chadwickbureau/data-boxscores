@@ -1,0 +1,674 @@
+date: 1915-09-02
+number: 1
+league: Northern
+away: Fargo-Moorhead
+home: Winnipeg
+source: Winnipeg Tribune, September 3, 1915
+
+Fargo-Moorhead:	ab r h po a e
+Barrett @ cf:	3 0 1 3 0 0
+Dreis @ 3b:	5 2 4 2 1 0
+Ellis @ lf:	4 1 2 1 1 0
+Murphy @ c:	4 2 2 10 0 0
+Flaherty @ rf:	3 0 2 3 0 0
+Rusher @ 2b:	3 0 0 3 2 1
+Nifnecker @ ss:	3 0 0 2 3 1
+Smith @ 1b:	3 1 1 3 0 1
+Bell @ p:	3 1 1 0 1 0
+TOTALS:		31 7 13 27 8 3
+
+Winnipeg:	ab r h po a e
+Burgwald, [Tony] @ 3b:	5 0 1 0 0 0
+McGee @ 2b:	5 0 0 2 2 1
+Berger @ c:	4 1 2 8 0 0
+Swalm @ lf:	4 0 1 1 0 1
+Kline @ 1b:	3 1 2 9 2 0
+Jude @ cf:	4 0 0 2 1 0
+Lawler @ ss:	3 0 2 4 2 0
+Benton, F. @ rf:	4 0 0 1 1 0
+Blum @ p:	4 0 1 0 9 0
+TOTALS:		36 2 9 27 17 2
+
+line: Fargo-Moorhead: 3 0 0 0 1 1 2 0 0 - 7
+line: Winnipeg:       0 0 0 0 1 0 0 1 0 - 2
+
+B_LOB: Fargo-Moorhead #4; Winnipeg #9
+B_2B: Lawler #2; Dreis #2; Murphy; Bell; Kline
+B_SF: Flaherty; Lawler
+P_BB: Blum #3; Bell #1
+P_SO: Blum #8; Bell #9
+F_DP: Blum, Lawler, Blum, McGee
+T: 1:50
+U: Carney
+
+---
+
+date: 1915-09-02
+number: 2
+league: Northern
+away: Fargo-Moorhead
+home: Winnipeg
+source: Winnipeg Tribune, September 3, 1915
+
+Fargo-Moorhead:	ab r h po a e
+Barrett @ cf:	4 0 0 2 0 0
+Dreis @ 3b:	4 1 1 1 2 0
+Ellis @ p:	4 0 1 1 2 0
+Murphy @ 1b:	4 0 1 11 1 0
+Flaherty @ rf:	4 0 1 1 0 0
+Rusner @ 2b:	4 0 2 1 5 0
+Nifnecker @ ss:	4 0 1 2 2 0
+Smith @ c:	4 0 1 5 2 0
+Wallace @ lf:	3 0 0 0 0 1
+TOTALS:		35 1 8 24 14 1
+
+Winnipeg:	ab r h po a e
+Burgwald, [Tony] @ 3b:	4 0 0 3 6 0
+McGee @ 2b:	4 1 1 3 2 0
+Berger @ c:	4 2 2 7 0 0
+Swalm @ lf:	4 2 2 3 0 0
+Kline @ 1b:	4 1 2 10 0 1
+Jude @ cf:	4 1 2 1 0 0
+Lawler @ ss:	4 0 2 0 3 0
+Benton, F. @ rf:	4 0 0 0 0 0
+Gervais @ p:	3 0 0 0 0 1
+TOTALS:		35 7 11 27 11 2
+
+line: Fargo-Moorhead: 0 0 0 0 0 1 0 0 0 - 1
+line: Winnipeg:       0 1 0 2 0 3 1 0 x - 7
+
+B_LOB: Fargo-Moorhead #7; Winnipeg #4
+B_2B: Berger; Flaherty; Murphy; Jude
+B_3B: Swalm
+B_SB: Berger; Smith
+P_SO: Ellis #4; Gervais #6
+F_DP: [Tony] Burgwald
+F_PB: Smith
+T: 1:25
+U: Carney
+
+---
+
+date: 1915-09-02
+number: 0
+league: Northern
+away: St. Boniface 
+home: Fort William-Port Arthur
+source: Winnipeg Tribune, September 3, 1915
+
+St. Boniface:	ab r h po a e
+Adams @ 1b:	6 0 2 0 0 0
+Spellman @ rf:	5 1 1 0 0 0
+Lane @ lf:	5 0 1 4 0 0
+Miller @ cf:	4 0 0 1 0 0
+Burgwald, [Ted] @ ss:	5 0 0 0 5 0
+Mueller @ c:	5 1 2 6 2 0
+Nagle @ 2b:	5 0 0 2 3 1
+Murphy @ 3b:	4 0 0 1 3 0
+Sheffield @ p:	5 0 1 2 7 0
+TOTALS:		44 2 5 36 20 1
+
+Fort William-Port Arthur:	ab r h po a e
+Wertzi @ 2b:	4 0 0 3 2 0
+McCabe @ cf:	5 1 2 2 0 0
+Hewitt @ lf:	6 0 0 3 0 0
+De Rose @ rf:	6 0 2 2 0 0
+Wines @ 3b:	4 0 2 2 3 0
+Dancy @ 1b:	4 0 0 13 0 0
+Weidell @ ss:	5 0 0 2 3 1
+Fusner @ c:	5 1 2 12 1 0
+Huggins @ p:	5 1 3 0 5 0
+TOTALS:		44 3 11 39 14 1
+
+line: St. Boniface: 		0 0 0 0 0 0 0 1 1 0 0 0 0 0 - 2
+line: Fort William-Port Arthur: 0 0 0 0 0 1 0 1 0 0 0 0 0 1 - 3
+
+B_LOB: St. Boniface #5; Fort William-Port Arthur #10
+B_2B: De Rose; Huggins
+B_3B: McCabe
+B_HR: Fusner; Mueller; Spellman
+B_SB: Lane; Dancy 
+B_SH: Wertzi; Dancy
+P_BB: Sheffield #3; Huggins #2
+P_SO: Sheffield #6; Huggins #12
+F_DP: Sheffield, Adams
+T: 2:40
+U: Fox
+
+---
+
+date: 1915-09-02
+number: 0
+league: Northern
+away: Virginia
+home: Duluth
+source: Winnipeg Tribune, September 3, 1915
+
+Virginia:	r h e
+Sorenson @ p:	x x x
+Agnew @ c:	x x x
+TOTALS:		8 12 1
+
+Duluth:		r h e
+Posten @ p:	x x x
+Sweeley @ c:	x x x
+TOTALS:		5 14 2
+
+line: Virginia: 1 0 2 1 2 0 1 1 0 - 8
+line: Duluth:   2 0 1 1 0 1 0 0 0 - 5
+
+---
+
+date: 1915-09-03
+number: 1
+league: Northern
+away: St. Boniface 
+home: Fort William-Port Arthur
+source: Winnipeg Tribune, September 4, 1915
+
+St. Boniface:	ab r h po a e
+Sheffield @ rf:	5 1 1 0 0 0
+Adams @ 1b:	5 2 2 10 0 0
+Lane @ ss:	4 1 1 1 3 0
+Miller @ cf:	4 1 2 3 0 0
+Mueller @ lf-c:	5 0 1 7 0 0
+Spellman @ c:	1 0 0 1 1 0
+Nagle @ 2b:	3 0 0 1 0 0
+Murphy @ 3b:	3 0 0 1 1 1
+Burgwald, [Ted] @ p:	3 1 2 1 3 0
+Stevenson @ p:	2 1 1 1 0 0
+TOTALS:		35 7 10 26 8 1
+
+Fort William-Port Arthur:	ab r h po a e
+Wertzi @ 2b:	4 2 2 1 0 2
+McCabe @ cf:	4 0 1 2 1 1
+Sullivan @ 3b:	5 0 2 0 0 0
+De Rose @ rf:	2 0 0 2 0 0
+Griffin @ lf:	3 0 0 3 1 0
+Dancy @ 1b:	3 0 0 8 0 0
+Weidell @ ss:	4 0 0 2 4 2
+Fusner @ c:	4 0 2 9 0 1
+Hewitt @ p:	3 1 1 0 3 0
+TOTALS:		32 3 8 27 9 6
+
+line: St. Boniface: 		0 0 1 3 1 0 0 2 0 - 7
+line: Fort William-Port Arthur: 1 0 2 0 0 0 0 0 0 - 3
+
+B_LOB: St. Boniface #14; Fort William-Port Arthur #9
+B_2B: Mueller; Stevenson
+B_SB: Miller; [Ted] Burgwald; Sullivan
+B_SH: Lane; Murphy; McCabe
+B_SF: Stevenson; [Ted] Burgwald; De Rose
+B_HP: Lane; Adams; Griffin
+P_BB: [Ted] Burgwald #4; Hewitt #7
+P_SO: [Ted] Burgwald #6; Hewitt #7
+P_HP: Hewitt #2
+F_DP: Griffin, Weidell
+T: 2:00
+
+---
+
+date: 1915-09-03
+number: 2
+league: Northern
+away: St. Boniface 
+home: Fort William-Port Arthur
+source: Winnipeg Tribune, September 4, 1915
+note: game called after 7th by agreemen
+
+St. Boniface:	ab r h po a e
+Sheffield @ rf:	3 0 0 1 0 0
+Adams @ 1b:	3 1 2 7 0 1
+Lane @ lf:	3 1 1 2 0 0
+Miller @ cf:	2 1 0 2 0 0
+Burgwald, [Ted] @ ss:	2 0 0 0 1 0
+Spellman @ c:	2 0 1 2 0 1
+Nagle @ 2b:	3 0 0 2 1 0
+Murphy @ 3b:	3 0 0 2 1 0
+Griffin @ p:	2 0 0 0 2 1
+TOTALS:		23 3 4 18 5 3
+
+Fort William-Port Arthur:	ab r h po a e
+Wertzi @ 2b:	2 2 1 0 2 0
+McCabe @ cf:	2 0 0 3 0 0
+Sullivan @ 3b:	3 0 0 0 1 0
+De Rose @ rf:	3 1 3 1 0 0
+Hewitt @ lf:	3 0 0 0 0 0
+Dancy @ 1b:	3 1 1 7 0 0
+Weidell @ ss:	2 0 0 3 2 0
+Fusner @ c:	3 1 1 7 1 0
+Penfold @ p:	2 0 0 0 2 0
+TOTALS:		27 5 6 21 8 0
+
+line: St. Boniface: 		0 1 0 0 0 2 0 - 3
+line: Fort William-Port Arthur: 1 3 1 0 0 0 x - 5
+
+B_LOB: St. Boniface #2; Fort William-Port Arthur #3
+B_2B: De Rose
+B_HR: Wertzi; De Rose; Lane
+B_SB: De Rose
+B_SH: [Ted] Burgwald; Weidell
+P_BB: Griffin #2; Penfold #2 
+P_SO: Griffin #2; Penfold #7
+F_DP: Wertzi, Weidell, Dancy
+T: 1:30
+U: Fox
+
+---
+
+date: 1915-09-03
+number: 0
+league: Northern
+away: Fargo-Moorhead
+home: Winnipeg
+source: Winnipeg Tribune, September 4, 1915
+
+Fargo-Moorhead:	ab r h po a e
+Barrett @ cf:	3 0 0 0 0 0
+Dries @ 3b:	4 0 1 1 2 0
+Ellis @ rf:	3 0 1 0 0 0
+Murphy @ 1b:	4 0 1 14 1 0
+Flaherty @ lf:	4 0 1 4 0 0
+Rusness @ 2b:	4 0 1 2 3 0
+Nifnecker @ ss:	3 1 1 1 5 0
+Smith @ c:	4 0 0 1 2 0
+Wallace @ p:	4 0 1 1 2 1
+TOTALS:		33 1 7 24 15 1
+
+Winnipeg:	ab r h po a e
+Burgwald, [Tony] @ 3b:	3 1 2 1 4 0
+McGee @ 2b:	3 1 1 2 3 1
+Berger @ c:	2 0 0 8 1 0
+Swalm @ lf:	2 0 0 8 1 0
+Kline @ 1b:	3 0 0 13 0 0
+Jude @ rf:	3 0 0 1 0 0
+Lawler @ ss:	3 0 0 0 2 1
+Gervais @ cf:	3 0 1 0 0 0
+Schorr @ p:	3 0 1 0 4 0
+TOTALS:		25 2 5 27 14 2
+
+line: Fargo-Moorhead: 0 0 0 0 1 0 0 0 0 - 1
+line: Winnipeg:       2 0 0 0 0 0 0 0 x - 2
+
+B_LOB: Fargo-Moorhead #8; Winnipeg #11
+B_2B: [Tony] Burgwald; McGee; Murphy; Rusness
+B_3B: Flaherty
+B_SH: Berger; Swalm; Ellis; Nifnecker
+P_BB: Schorr #1
+P_SO: Schorr #7
+P_WP: Wallace; Schorr
+T: 1:20
+U: Carney
+
+---
+
+date: 1915-09-03
+number: 0
+league: Northern
+away: Virginia
+home: Duluth
+source: Winnipeg Tribune, September 4, 1915
+
+Virginia:	r h e
+Hawkins @ p:	x x x
+Fortman @ p:	x x x
+Agnew @ c:	x x x
+TOTALS:		4 9 5
+
+Duluth:		r h e
+Culver @ p:	x x x
+Sweeley @ c:	x x x
+TOTALS:		15 16 4
+
+line: Virginia: 1 0 1 0 0 1 0 1 0 - 4
+line: Duluth:   3 3 0 3 3 0 0 3 x - 15
+
+---
+
+date: 1915-09-04
+number: 1
+league: Northern
+away: St. Boniface
+home: Winnipeg
+source: Winnipeg Tribune, September 6, 1915
+
+St. Boniface:	ab r h po a e
+Sheffield @ rf:	4 0 1 4 0 0
+Adams @ 1b:	6 1 3 13 0 1
+Lane @ lf:	5 0 0 2 0 0
+Miller @ cf:	6 1 3 4 0 0
+Burgwald, [Ted] @ ss:	5 2 3 1 0 1
+Mueller @ c:	6 0 3 6 0 0
+Nagle @ 2b:	5 1 2 3 1 0
+Murphy @ 3b:	6 2 1 1 4 0
+Boardman @ p:	5 0 1 1 3 0
+TOTALS:		48 7 17 32 8 3
+
+Winnipeg:	ab r h po a e
+Burgwald, T. [Tony] @ ss:	5 2 3 2 2 2 
+McGee @ 2b:	5 1 0 3 1 0
+Berger @ c:	5 1 1 8 0 0
+Swalm @ lf:	6 2 2 3 0 0
+Kline @ 1b:	6 1 3 13 2 0
+Jude @ rf:	4 0 0 0 3 0
+Dries @ 3b:	4 0 0 0 3 0
+Gervais @ cf:	4 1 1 3 0 0
+Benton @ p:	5 0 1 1 5 0
+TOTALS:		44 8 11 33 13 2
+
+line: St. Boniface: 3 1 0 0 0 0 0 2 0 0 0 1 - 7
+line: Winnipeg:     0 0 0 0 0 6 0 0 0 0 0 2 - 8
+
+B_LOB: St. Boniface #14; Winnipeg #10
+B_2B: Sheffield; Berger; T. [Tony] Burgwald; Kline
+B_SB: T. [Tony] Burgwald; Adams #2; Swalm
+B_SH: Boardman; Sheffield; [Ted] Burgwald
+B_SF: Jude
+P_BB: Benton #3; Boardman #5
+P_SO: Benton #5; Boardman #6
+F_DP: Benton, T. [Tony] Burgwald
+T: 2:20
+U: Carney
+
+---
+
+date: 1915-09-04
+number: 2
+league: Northern
+away: St. Boniface
+home: Winnipeg
+source: Winnipeg Tribune, September 6, 1915
+
+St. Boniface:	ab r h po a e
+Sheffield @ rf:	5 2 1 2 0 0
+Adams @ 1b:	4 2 1 13 0 0
+Lane @ lf:	3 1 1 1 0 0
+Mueller @ lf:	1 0 0 2 0 0
+Miller @ cf:	4 1 1 0 0 0
+Burgwald, [Ted] @ ss:	4 1 2 1 1 0
+Spellman @ c:	5 1 2 5 1 0
+Nagle @ 2b:	4 0 1 2 9 0
+Murphy @ 3b:	5 1 2 1 4 0
+Stevenson @ p:	5 0 2 0 2 0
+TOTALS:		40 9 13 27 17 0
+
+Winnipeg:	ab r h po a e
+Burgwald, T. [Tony] @ ss:	3 0 3 2 2 1
+McGee @ 2b:	4 0 1 3 6 0
+Berger @ c:	3 0 0 1 0 0
+Swalm @ lf:	4 0 0 1 0 0
+Kline @ 1b:	4 0 2 11 2 2
+Jude @ rf:	3 0 1 1 0 0
+Dries @ 3b:	4 0 1 3 0 0
+Piper @ cf:	3 0 0 5 0 0
+Blum @ p:	3 0 0 0 3 1
+TOTALS:		31 0 8 27 13 4
+
+line: St. Boniface: 2 0 4 2 1 0 0 0 0 - 9
+line: Winnipeg:     0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: St. Boniface #10; Winnipeg #7
+B_2B: Murphy
+B_HR: Spellman
+B_SB: Lane; [Ted] Burgwald #2; Spellman
+B_SH: Berger; Sheffield; Adams; Lane
+P_BB: Stevenson #3; Blum #2
+P_SO: Stevenson #3; Blum #1
+P_HP: Blum
+F_DP: Murphy, Nagle, Adams #2
+T: 1:30
+U: Carney
+
+---
+
+date: 1915-09-04
+number: 0
+league: Northern
+away: Fargo-Moorhead
+home: Duluth
+source: Winnipeg Tribune, September 6, 1915
+
+Fargo-Moorhead:	r h e
+TOTALS:		9 x x
+
+Duluth:		r h e
+TOTALS:		5 x x
+
+---
+
+date: 1915-09-04
+number: 1
+league: Northern
+away: Virginia
+home: Fort William-Port Arthur
+source: Winnipeg Tribune, September 6, 1915
+
+Virginia:	r h e
+TOTALS:		3 x x
+
+Fort William-Port Arthur:	r h e
+TOTALS:		4 x x
+
+---
+
+date: 1915-09-04
+number: 2
+league: Northern
+away: Virginia
+home: Fort William-Port Arthur
+source: Winnipeg Tribune, September 6, 1915
+
+Virginia:	r h e
+TOTALS:		12 x x
+
+Fort William-Port Arthur:	r h e
+TOTALS:		4 x x 
+
+---
+
+date: 1915-09-05
+number: 1
+league: Northern
+away: Fargo-Moorhead
+home: Duluth
+source: Winnipeg Tribune, September 6, 1915
+
+Fargo-Moorhead:	r h e
+TOTALS:		7 x x 
+
+Duluth:		r h e
+TOTALS:		3 x x 
+
+---
+
+date: 1915-09-05
+number: 2
+league: Northern
+away: Fargo-Moorhead
+home: Duluth
+source: Winnipeg Tribune, September 6, 1915
+
+Fargo-Moorhead:	r h e
+TOTALS:		7 x x 
+
+Duluth:		r h e
+TOTALS:		13 x x 
+
+---
+
+date: 1915-09-06
+number: 1
+league: Northern
+away: St. Boniface
+home: Winnipeg
+source: Winnipeg Tribune, September 7, 1915
+
+St. Boniface:	ab r h po a e
+Adams @ 1b:	3 0 0 12 0 0
+Mueller @ rf:	5 1 3 2 0 0
+Lane @ lf:	4 1 4 0 0 0
+Miller @ cf:	4 1 2 2 0 1
+Burgwald, [Ted] @ ss:	5 1 1 1 1 0
+Spellman @ c:	5 0 2 0 1 0
+Nagle @ 2b:	5 1 2 3 5 1
+Murphy @ 3b:	4 0 0 1 3 0
+Sheffield @ p:	5 3 3 0 3 0
+TOTALS:		40 8 17 27 13 2
+
+Winnipeg:	ab r h po a e
+Burgwald, [Tony] @ ss:	3 0 0 1 0 0
+McGee @ 2b:	4 0 1 6 2 0
+Berger @ c:	4 0 0 5 3 1
+Swalm @ lf:	4 0 2 3 0 0
+Kline @ 1b:	2 0 1 8 1 0
+Jude @ rf:	3 0 0 1 1 0
+Dreis @ 3b:	4 0 2 0 3 3
+Piper @ cf:	3 0 0 3 0 0
+Schorr @ p:	3 0 0 0 1 0
+TOTALS:		30 0 6 27 11 4
+
+line: St. Boniface: 0 0 0 0 1 1 2 2 2 - 8
+line: Winnipeg:     0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: St. Boniface #9; Winnipeg #10
+B_2B: Dreis; Spellman
+B_HR: [Ted] Burgwald
+B_SB: Lane #3; Sheffield; McGee; Swalm
+B_SH: Kline; Schorr; Adams #2; Murphy
+B_HP: [Tony] Burgwald
+P_BB: Schorr #2; Sheffield #3
+P_SO: Schorr #3
+P_HP: Sheffield
+F_DP: [Ted] Burgwald, Nagle, Adams
+T: 1:45
+U: Carney; Stevenson; Blum
+
+---
+
+date: 1915-09-06
+number: 2
+league: Northern
+away: St. Boniface
+home: Winnipeg
+source: Winnipeg Tribune, September 7, 1915
+
+St. Boniface:	ab r h po a e
+Sheffield @ rf:	5 0 1 1 0 0
+Adams @ 1b:	5 0 1 10 0 0
+Lane @ lf:	3 0 0 1 0 1
+Miller @ cf:	4 0 1 2 1 0
+Burgwald, Ted @ ss:	3 0 1 2 3 0
+Mueller @ c:	4 1 3 7 2 1
+Nagle @ 2b:	4 1 1 0 4 1
+Murphy @ 3b:	3 0 0 1 2 0
+Boardman @ p:	3 0 2 0 3 0
+*Spellman @ ph:	1 0 0 0 0 0
+TOTALS:		35 2 10 24 15 3
+
+Winnipeg:	ab r h po a e
+Burgwald, [Tony] @ ss:	5 0 1 4 3 0
+McGee @ 2b:	3 1 1 1 2 0
+Berger @ c:	4 2 3 8 1 0
+Swalm @ lf:	3 2 1 1 0 0
+Kline @ 1b:	4 0 2 7 1 0
+Jude @ rf:	3 0 0 2 0 0
+Dreis @ 3b:	4 0 1 1 2 0
+Piper @ cf:	4 0 1 3 0 0
+Gervais @ p:	3 1 2 0 2 0
+TOTALS:		33 6 12 27 11 0
+
+*: batted for Boardman in 9th
+
+line: St. Boniface: 0 0 0 0 0 0 0 0 2 - 2
+line: Winnipeg:     0 0 1 0 2 1 0 2 x - 6
+
+B_LOB: St. Boniface #9; Winnipeg #7
+B_2B: Nagle; Sheffield
+B_SB: Piper
+B_SH: Swalm
+B_SF: Jude; Murphy
+P_BB: Gervais #1; Boardman #2
+P_SO: Gervais #5; Boardman #7
+P_HP: Gervais
+T: 1:40
+U: Carney
+
+---
+
+date: 1915-09-06
+number: 1
+league: Northern
+away: Virginia
+home: Fort William-Port Arthur
+source: Winnipeg Tribune, September 7, 1915
+
+Virginia:	r h e
+TOTALS:		2 5 4
+
+Fort William-Port Arthur:	r h e
+TOTALS:		9 11 2
+
+line: Virginia: 		1 1 0 0 0 0 0 0 0 - 2
+line: Fort William-Port Arthur: 3 4 0 0 1 0 0 1 x - 9
+
+---
+
+date: 1915-09-06
+number: 2
+league: Northern
+away: Virginia
+home: Fort William-Port Arthur
+source: Winnipeg Tribune, September 7, 1915
+
+Virginia:	r h e
+TOTALS:		10 15 1
+
+Fort William-Port Arthur:	r h e
+TOTALS:		2 8 2
+
+line: Virginia: 		5 0 0 0 0 3 2 0 0 - 10
+line: Fort William-Port Arthur: 0 0 0 0 1 0 0 0 0 - 1
+
+---
+
+date: 1915-09-06
+number: 1
+league: Northern
+away: Fargo-Moorhead
+home: Duluth
+source: Winnipeg Tribune, September 7, 1915
+
+Fargo-Moorhead:  r h e
+Wallace @ p:	x x x
+Smith @ c:	x x x
+TOTALS:		4 13 0
+
+Duluth:		r h e
+Boley @ p:	x x x
+Wingfield @ c:	x x x
+TOTALS:		5 11 0
+
+line: Fargo-Moorhead: 0 1 0 2 0 0 0 0 1 - 4
+line: Duluth:         0 1 2 1 0 0 0 1 x - 5
+
+---
+
+date: 1915-09-06
+number: 2
+league: Northern
+away: Fargo-Moorhead
+home: Duluth
+source: Winnipeg Tribune, September 7, 1915
+
+Fargo-Moorhead:	r h e
+Nifnecker @ p:	x x x
+Smith @ c:	x x x
+TOTALS:		7 15 3
+
+Duluth:		r h e
+Culver @ p:	x x x
+Wingfield @ c:	x x x
+TOTALS:		8 11 4
+
+line: Fargo-Moorhead: 0 1 1 2 0 0 0 0 2 0 1 - 7
+line: Duluth:         0 3 0 1 0 0 0 1 1 0 2 - 8

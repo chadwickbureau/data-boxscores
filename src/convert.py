@@ -8,12 +8,15 @@ import fuzzy
 
 class Game(object):
     _subskeys = [ "*", "+", "^" ]
+    # "DI" is used sporadically in Winnipeg paper in 1915 - assuming it is RBI
     _categorymap = { "ab":   "B_AB",
                      "r":    "B_R",
                      "h":    "B_H",
                      "po":   "F_PO",
                      "a":    "F_A",
-                     "e":    "F_E" }
+                     "e":    "F_E",
+                     "di":   "B_RBI",
+                     "rbi":  "B_RBI" }
     
     @property
     def date(self):  return self.metadata.get("date")
@@ -229,7 +232,7 @@ def compile_playing(source, gamelist):
     columns = [ 'game.key', 'game.date', 'game.number',
                 'name.last', 'name.first', 'club.name',
                 'pos', 'seq',
-                'B_AB', 'B_R', 'B_ER', 'B_H', 'B_2B', 'B_3B', 'B_HR',
+                'B_AB', 'B_R', 'B_ER', 'B_H', 'B_2B', 'B_3B', 'B_HR', 'B_RBI',
                 'B_BB', 'B_SO',
                 'B_HP', 'B_SH', 'B_SF', 'B_SB', 'B_LOB', 'B_ROE',
                 'P_IP', 'P_R', 'P_H', 'P_BB', 'P_SO', 'P_HP', 'P_WP', 'P_BK',
