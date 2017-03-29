@@ -104,7 +104,7 @@ Murphy @ c:	x x x
 TOTALS:		5 8 3
 
 Grand Forks:	r h e
-Morse @ p:	x x x
+Morse [Paul] @ p:	x x x
 McNeeley @ c:	x x x 
 TOTALS:		3 8 2
 
@@ -599,7 +599,7 @@ Block @ cf:	5 0 2 2 0 0
 Fox @ 2b:	5 0 1 4 2 0
 Schroeder @ 1b:	5 0 2 11 1 0
 Flaherty @ rf:	4 1 0 2 0 0
-Morse @ p-ss:	3 0 1 1 3 0
+Morse [Pete] @ p-ss:	3 0 1 1 3 0
 Altman @ lf:	2 0 0 0 0 0
 Anderson @ 3b:	3 0 1 1 2 0
 McNeeley @ c:	4 0 2 3 1 0
@@ -622,7 +622,7 @@ line: Grand Forks: 0 1 0 0 1 0 0 0 0 - 2
 line: Superior:    0 0 1 1 1 0 0 0 0 - 3
 
 B_LOB: Grand Forks #10; Superior #7
-B_2B: Curtis; Swalm; Morse; McNeeley
+B_2B: Curtis; Swalm; [Pete] Morse; McNeeley
 B_SB: Burgwald; Bassey
 B_SH: Bohlman; Altman
 P_BB: Hawkins #3
@@ -728,11 +728,11 @@ Block @ cf:	5 0 3 4 0 0
 Fox @ 2b:	5 0 1 2 2 0
 Schroeder @ 1b:	5 1 1 11 0 1
 Flaherty @ rf:	5 1 1 0 0 0
-Morse, P. @ ss:	2 0 2 2 2 1
+Morse, P. [Pete] @ ss:	2 0 2 2 2 1
 Altman @ lf:	4 0 0 1 0 0
 Anderson @ 3b:	3 0 0 1 2 0
 McNeeley @ c:	4 0 1 3 3 0
-Morse, S. @ p:	4 0 0 0 1 1
+Morse, S. [Paul] @ p:	4 0 0 0 1 1
 TOTALS:		36 2 9 24 10 2
 
 Superior:	ab r h po a e
