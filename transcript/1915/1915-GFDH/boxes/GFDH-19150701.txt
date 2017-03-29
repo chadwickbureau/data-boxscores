@@ -10,7 +10,7 @@ Block @ cf:	4 1 0 2 0 1
 Fox @ 2b:	3 0 0 1 2 1
 Flaherty @ rf:	4 0 1 1 0 0
 Schroeder @ 1b:	4 0 1 7 0 1
-Morse, P. @ ss:	4 1 0 1 1 1 
+Morse, P. [Pete] @ ss:	4 1 0 1 1 1 
 McGraw @ lf:	4 0 1 1 0 0
 Anderson @ 3b:	4 1 1 1 1 0
 Wolfe @ c:	4 0 1 10 1 0
@@ -35,7 +35,7 @@ line: St. Boniface: 0 0 0 0 0 0 3 3 x - 6
 B_LOB: St. Boniface #10; Grand Forks #5
 B_2B: Adams
 B_3B: Larson; Miller
-B_SB: Block; Fox; Schroeder #2; P. Morse; Lane
+B_SB: Block; Fox; Schroeder #2; P. [Pete] Morse; Lane
 B_SF: Fox; Mueller
 B_HP: Miller 
 P_BB: Blum #2; Larson #5
@@ -59,7 +59,7 @@ Block @ cf:	5 1 0 5 0 0
 Fox @ 2b:	3 1 2 1 2 1
 Flaherty @ rf:	4 1 3 1 0 0
 Schroeder @ 1b-p:	4 0 2 9 1 1
-Morse @ ss:	3 0 0 1 4 1
+Morse, [Pete] @ ss:	3 0 0 1 4 1
 McGraw @ lf:	3 0 0 0 0 2
 Brenner @ lf:	1 0 0 0 0 0
 Addison @ 3b:	4 0 0 3 2 0
@@ -86,7 +86,7 @@ B_LOB: St. Boniface #7; Grand Forks #7
 B_2B: H. Miller; Spellman #2
 B_3B: Flaherty; Lane
 B_SB: Pfeffer; Lane; Spellman; Mueller; Murphy
-B_SF: Morse
+B_SF: [Pete] Morse
 B_HP: E. Miller
 P_BB: E. Miller #1; Hoffman #2
 P_SO: E. Miller #6
@@ -331,7 +331,7 @@ Block @ cf:	4 0 0 2 0 0
 Fox @ 2b:	4 0 0 1 3 0
 Flaherty @ rf:	4 0 0 1 0 0
 Schroeder @ 1b:	4 0 1 11 0 0
-Morse @ ss:	4 0 0 2 5 1
+Morse, [Pete] @ ss:	4 0 0 2 5 1
 Hoffman @ lf:	3 0 1 6 0 0
 Anderson @ 3b:	3 0 0 0 0 0
 Wilson @ c:	3 0 1 2 1 0
@@ -361,7 +361,7 @@ B_HP: Mueller
 P_BB: Bartoff #1
 P_SO: Stevenson #5; Bartoff #1
 P_HP: Bartoff
-F_DP: Morse, Fox, Schroeder; Fox, Schroeder 
+F_DP: [Pete] Morse, Fox, Schroeder; Fox, Schroeder 
 T: 1:15
 U: Landry
 
@@ -379,7 +379,7 @@ Block @ cf:	4 0 0 2 0 0
 Fox @ 2b:	4 0 0 0 0 0
 Flaherty @ rf:	4 0 0 4 0 0
 Schroeder @ 1b:	4 0 0 11 0 0
-Morse @ ss:	4 1 2 1 3 0
+Morse, [Pete] @ ss:	4 1 2 1 3 0
 Hoffman @ lf:	3 1 1 0 0 0
 Anderson @ 3b:	3 0 2 2 0 0
 Wolfe @ c:	4 0 0 5 0 0
@@ -546,7 +546,7 @@ Block @ cf:	4 0 1 3 0 0
 Fox @ 2b:	4 0 0 5 3 0
 Flaherty @ rf:	4 1 2 0 0 0
 Schroeder @ 1b:	4 2 3 14 0 0
-Morse @ ss:	4 0 4 2 2 0
+Morse, [Pete] @ ss:	4 0 4 2 2 0
 Hoffman @ lf:	1 0 0 1 0 0
 Anderson @ 3b:	3 0 0 1 5 1
 Wolfe @ c:	3 1 1 1 0 0
@@ -562,7 +562,7 @@ B_LOB: Grand Forks #7; Winnipeg #7
 B_ROE: Grand Forks #1; Winnipeg #1 
 B_ER: Grand Forks #2; Winnipeg #1 
 B_2B: Block
-B_SB: Bemis; Fox; Morse; Hoffman
+B_SB: Bemis; Fox; [Pete] Morse; Hoffman
 B_SH: Baker; Wilson; Patterson; Hoffman 
 B_SF: Anderson
 P_BB: Patterson #1; Larson #3
@@ -598,7 +598,7 @@ Block @ cf:	5 0 3 2 0 0
 Fox @ 2b:	3 0 0 0 0 0
 Flaherty @ rf:	4 0 1 2 2 0
 Schroeder @ 1b-p:	4 0 0 5 0 0
-Morse @ ss:	4 0 2 1 0 0
+Morse, [Pete] @ ss:	4 0 2 1 0 0
 Hoffman @ lf:	4 0 0 3 0 0
 Anderson @ 3b:	4 0 0 2 1 1
 Wolfe @ c:	4 0 1 7 2 0
@@ -611,7 +611,7 @@ TOTALS:		36 0 1 24 9 1
 line: Winnipeg:    0 5 0 0 4 0 0 0 0 - 9
 line: Grand Forks: 0 0 0 0 0 0 0 0 0 - 0
 
-B_2B: Baker; Thomas; Morse
+B_2B: Baker; Thomas; [Pete] Morse
 B_3B: Wolfe
 P_BB: Brenner #3 
 P_SO: Bartoff #2; Schroeder #1; Brenner #5; Thomas #5
@@ -772,7 +772,7 @@ home: Winnipeg
 source: Grand Forks Daily Herald, July 8, 1915
 
 Duluth:		r h e
-Morse @ p:	x x x
+Morse, [Paul] @ p:	x x x
 Kurke @ c:	x x x
 TOTALS:		2 9 1
 

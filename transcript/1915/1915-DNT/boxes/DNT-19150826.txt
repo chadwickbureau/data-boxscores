@@ -232,7 +232,7 @@ Williams @ rf:	3 0 1 0 0 0
 McGraw @ 3b:	2 0 0 0 0 0
 O'Brien @ 2b:	3 0 0 1 2 0
 Sweeley @ c:	1 0 0 4 1 0
-Morse @ p:	2 0 0 0 1 0
+Morse, [Paul] @ p:	2 0 0 0 1 0
 TOTALS:		24 3 4 21 9 0
 
 line: Fort William-Port Arthur: 0 0 1 0 0 0 0 - 1
@@ -242,10 +242,10 @@ B_LOB: Duluth #7; Fort William-Port Arthur #5
 B_2B: Kirkham
 B_HR: Shroeder
 B_SB: Williams #2; Sweeley; Fortier
-P_BB: Morse #3; Lorenzen #3
-P_SO: Morse #3; Lorenzen #4
+P_BB: [Paul] Morse #3; Lorenzen #3
+P_SO: [Paul] Morse #3; Lorenzen #4
 P_HP: Lorenzen #2
-P_WP: Morse
+P_WP: [Paul] Morse
 T: 1:30
 U: Landry
 
@@ -703,7 +703,7 @@ Williams @ rf:	3 0 0 0 1 0
 McGraw @ 3b:	3 0 0 3 3 4
 O'Brien @ 2b:	2 0 0 2 2 1
 Sweeley @ c:	3 0 0 7 0 1
-Morse @ p:	3 0 0 0 3 0
+Morse, [Paul] @ p:	3 0 0 0 3 0
 TOTALS:		29 0 3 27 15 6
 
 line: Virginia: 0 0 2 0 0 0 0 0 2 - 4
@@ -712,9 +712,9 @@ line: Duluth:   0 0 0 0 0 0 0 0 0 - 0
 B_2B: Altman #2; Reynolds
 B_SB: Reynolds
 B_HP: Fortman
-P_BB: Morse #2; Wright #1
-P_SO: Morse #3; Wright #4
-P_HP: Morse
+P_BB: [Paul] Morse #2; Wright #1
+P_SO: [Paul] Morse #3; Wright #4
+P_HP: [Paul] Morse
 F_DP: McGraw, Schroeder; Baker, Schroeder; Fortman, Reynolds, Fortman
 F_PB: Agnew
 T: 1:45

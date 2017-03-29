@@ -235,7 +235,7 @@ home: Fort William-Port Arthur
 source: Duluth News-Tribune, June 26, 1915
 
 Grand Forks:	r h e
-Morse @ p:	x x x
+Morse, [Paul] @ p:	x x x
 Wolfe @ c:	x x x
 TOTALS:		5 7 1
 
@@ -455,7 +455,7 @@ home: Fort William-Port Arthur
 source: Duluth News-Tribune, June 27, 1915
 
 Grand Forks:	r h e
-Morse @ p:	x x x
+Morse, [Paul] @ p:	x x x
 Wolfe @ c:	x x x
 TOTALS:		4 8 4
 
@@ -703,7 +703,7 @@ Block @ cf:	4 0 0 3 0 0
 Fox @ 2b:	3 0 2 0 2 0
 Schroeder @ 1b:	3 0 0 2 0 0
 Flaherty @ rf:	5 1 1 12 1 0
-Morse, P. @ ss:	4 2 2 2 2 0
+Morse, P. [Pete] @ ss:	4 2 2 2 2 0
 Altman @ lf:	3 0 1 1 0 0
 Anderson @ 3b:	3 0 1 0 4 0
 Wolfe @ c:	2 0 1 7 0 0
@@ -728,7 +728,7 @@ line: Virginia:    0 0 0 0 0 0 0 0 0 - 0
 B_LOB: Virginia #7; Grand Forks #11 
 B_ER: Grand Forks #2
 B_2B: Anderson; Griesch #2
-B_HR: P. Morse
+B_HR: P. [Pete] Morse
 B_SB: Fortman; Fox #3
 B_SH: Fox; Flaherty; Anderson; Wolfe; Sundheim; Couture 
 P_BB: Bryant #7
@@ -868,7 +868,7 @@ Block @ cf:	4 1 1 3 0 0
 Fox @ 2b:	4 1 2 5 3 0
 Flaherty @ rf:	5 2 3 0 0 0
 Schroeder @ 1b:	4 1 1 9 0 0
-Morse @ ss:	3 1 0 0 3 1
+Morse, [Pete] @ ss:	3 1 0 0 3 1
 McGraw @ lf:	5 0 0 2 0 0
 Anderson @ 3b:	4 0 0 0 5 1
 Wolf @ c:	4 0 2 5 0 0
@@ -1039,11 +1039,11 @@ Block @ cf:	5 2 2 2 0 0
 Fox @ 2b:	4 3 0 3 2 0
 Flaherty @ rf:	3 1 2 1 0 0
 Schroeder @ 1b:	4 0 2 12 0 0
-Morse, P. @ ss:	4 0 3 1 5 0
+Morse, P. [Pete] @ ss:	4 0 3 1 5 0
 McGraw @ lf:	5 0 1 2 0 0
 Anderson @ 3b:	3 2 2 4 5 0
 Wolf @ c:	5 1 2 2 0 0
-Morse, S. @ p:	3 1 0 0 0 0
+Morse, S. [Paul] @ p:	3 1 0 0 0 0
 TOTALS:		36 10 14 27 12 0
 
 Virginia:	ab r h po a e
@@ -1066,9 +1066,9 @@ B_LOB: Virginia #12; Grand Forks #7
 B_ER: Virginia #3; Grand Forks #4 
 B_2B: Brokaw; Sundheim; Fortman
 B_HR: Kernan; Anderson; Flaherty
-P_BB: S. Morse #7; Faeth #6 
-P_SO: S. Morse #2; Faeth #4 
-F_DP: Faeth, Agnew, Couture; P. Morse, Fox, Schroeder
+P_BB: S. [Paul] Morse #7; Faeth #6 
+P_SO: S. [Paul] Morse #2; Faeth #4 
+F_DP: Faeth, Agnew, Couture; P. [Pete] Morse, Fox, Schroeder
 F_PB: Wolf 
 T: 1:45
 U: Carney

@@ -23,7 +23,7 @@ Altman @ lf:	4 1 2 1 0 0
 Kirkham @ cf:	4 1 1 2 0 0
 Schroeder @ 1b: 4 0 1 12 0 0
 Williams @ rf:	3 0 1 0 0 0
-Morse @ 2b:	4 0 1 2 7 0
+Morse, [Pete] @ 2b:	4 0 1 2 7 0
 Bergwald, Ted @ ss:	2 0 0 2 1 2
 Sweeley @ c:	3 0 0 8 1 0
 Posten @ p:	3 0 0 0 4 0
@@ -39,7 +39,7 @@ P_BB: Posten #3; Culver #1
 P_SO: Posten #7; Culver #6
 P_HP: Posten
 P_WP: Posten
-F_DP: Posten, Morse, Schroeder; Nagle, Adams
+F_DP: Posten, [Pete] Morse, Schroeder; Nagle, Adams
 T: 1:40
 U: Fox
 
@@ -70,7 +70,7 @@ Altman @ lf:	4 2 2 3 0 0
 Kirkham @ cf:	3 2 1 3 0 0
 Schroeder @ 1b: 4 1 3 6 0 0
 Williams @ rf:	3 0 1 0 0 0
-Morse @ 2b:	4 0 1 1 1 0
+Morse, [Pete] @ 2b:	4 0 1 1 1 0
 Bergwald, Ted @ ss:	3 0 0 1 4 1
 *Hallman @ ph:	1 0 0 0 0 0
 Sweeley @ c:	4 0 0 5 1 0
@@ -79,14 +79,14 @@ Boley @ p:	2 0 0 0 0 0
 +O'Brien @ ph:	0 0 0 0 0 0
 TOTALS:		33 7 10 21 7 3
 
-*: batted for Bergwald in 7th
+*: batted for Ted Bergwald in 7th
 +: batted for Boley in 7th
 
 line: St. Boniface: 2 0 1 5 2 0 0 - 10
 line: Duluth:       1 0 0 1 3 2 0 - 7
 
 B_LOB: Duluth #8; St. Boniface #6
-B_2B: Kirkham; Miller; Morse; L. Miller; Sheffield
+B_2B: Kirkham; Miller; [Pete] Morse; L. Miller; Sheffield
 B_HR: Lane
 B_SB: Lane
 P_BB: Posten #3; Miller #3
@@ -210,7 +210,7 @@ Kirkham @ cf:	5 1 1 2 0 0
 Schroeder @ 1b: 5 1 2 10 0 1
 Williams @ rf:	5 1 3 1 0 0
 Wolfe @ ss:	3 2 2 4 3 1
-Morse @ 2b-ss:	3 1 1 5 4 1
+Morse, [Pete] @ 2b-ss:	3 1 1 5 4 1
 Sweeley @ c:	3 1 2 4 1 1
 Hallman @ p:	0 0 0 0 0 0
 Boley @ p:	4 0 1 0 3 0
@@ -221,14 +221,14 @@ line: Winnipeg: 7 0 0 0 0 0 0 1 2 - 10
 line: Duluth:   0 1 0 1 0 3 2 0 0 - 7
 
 B_LOB: Duluth #7; Winnipeg #9
-B_2B: Schroeder; Williams; Morse; Jude; Curtis
+B_2B: Schroeder; Williams; [Pete] Morse; Jude; Curtis
 B_3B: Schroeder; Blum
 B_HR: Sweeley; Baker
 P_BB: Hallman #1; Boley #2; Gervais #1; Blum #1
 P_SO: Boley #2; Gervais #8; Blum #1
 P_H:  Hallman #3; Boley #13; Gervais #13; Blum #1
 P_IP: Hallman #.1; Boley #8.2; Gervais #6.1; Blum #2.2
-F_DP: Morse, Wolfe, Schroeder
+F_DP: [Pete] Morse, Wolfe, Schroeder
 T: 1:50
 U: Fox
 
@@ -421,9 +421,9 @@ Kirkham @ cf:	4 1 1 4 1 0
 Shroeder @ 1b: 3 0 1 10 0 0
 Williams @ rf:	5 0 2 0 0 0
 Wolfe @ ss:	3 0 1 0 1 0
-Morse @ 2b:	3 0 0 1 1 2
+Morse, [Pete] @ 2b:	3 0 0 1 1 2
 Sweeley @ c:	4 0 1 10 2 0
-Morse @ p:	0 0 0 0 1 0
+Morse, [Paul] @ p:	0 0 0 0 1 0
 Boley @ p:	0 0 0 0 0 0
 Culver @ p:	3 0 0 0 2 0
 *O'Brien @ ph:	1 0 1 0 0 0
@@ -438,11 +438,11 @@ B_LOB: Duluth #11; Winnipeg #9
 B_2B: Williams
 B_HR: Altman; McGee
 B_SB: Jude; Curtis
-P_BB: Morse #2; Culver #2; Schoer #1
+P_BB: [Paul] Morse #2; Culver #2; Schoer #1
 P_SO: Culver #10; Schoer #4
 P_H:  Boley #1; Culver #6
-P_IP: Morse #.1
-P_HP: Schoer #2; Morse; Culver
+P_IP: [Paul] Morse #.1
+P_HP: Schoer #2; [Paul] Morse; Culver
 F_DP: Kirkham, Shroeder; Lawler, McGee, Kline
 T: 2:00
 U: Fox
@@ -476,7 +476,7 @@ Kirkham @ cf:	4 2 3 2 1 0
 Schroeder @ 1b: 4 0 2 5 0 1
 Williams @ rf:	4 1 2 5 0 0
 Wolfe @ ss:	3 1 1 0 1 1 
-Morse @ 2b:	4 0 2 1 3 1
+Morse, [Pete] @ 2b:	4 0 2 1 3 1
 Tollers @ c:	4 0 0 9 0 0
 Posten @ p:	4 0 0 0 1 0
 TOTALS:		33 7 13 27 6 3
@@ -526,7 +526,7 @@ Kirkham @ cf:	5 0 1 3 0 0
 Schroeder @ 1b: 2 0 1 10 0 0
 Williams @ rf:	4 0 2 2 0 0
 Wolfe @ ss:	5 1 1 2 3 0
-Morse @ 2b:	4 1 1 2 3 0
+Morse, [Pete] @ 2b:	4 1 1 2 3 0
 Tollers @ c:	4 1 3 5 0 0
 Morse @ p:	4 1 2 0 2 0
 TOTALS:		36 6 15 27 10 0
@@ -537,14 +537,14 @@ line: Winnipeg: 0 0 0 0 0 3 1 0 0 - 4
 line: Duluth:   0 3 0 1 0 1 0 1 x - 6
 
 B_LOB: Duluth #12; Winnipeg #7
-B_2B: Baker; Morse; Tollers; Swalm
+B_2B: Baker; [Pete] Morse; Tollers; Swalm
 B_HR: Blum
-B_SB: Wolfe #2; Morse; Jude; McGee; Bachant
+B_SB: Wolfe #2; [Pete] Morse; Jude; McGee; Bachant
 P_BB: Morse #4; Blum #3
 P_SO: Morse #4; Blum #1
 P_HP: Morse #1; Blum #1
 P_WP: Blum
-F_DP: Blum, McGee, Kline; Morse, Wolfe
+F_DP: Blum, McGee, Kline; [Pete] Morse, Wolfe
 F_PB: Bachant
 T: 2:00
 U: Fox
@@ -626,7 +626,7 @@ Kirkham @ cf:	4 0 0 2 0 0
 Schroeder @ 1b: 3 0 0 10 1 0
 Williams @ rf-p:	4 0 2 2 0 1
 Wolfe @ ss:	2 0 1 3 1 3
-Morse @ 2b:	3 1 0 0 4 0
+Morse, [Pete] @ 2b:	3 1 0 0 4 0
 Sweeley @ c:	3 0 1 5 1 0
 Tollers @ rf:	2 0 0 1 1 0
 Boley @ p:	2 0 1 1 3 0

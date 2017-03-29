@@ -24,7 +24,7 @@ Block @ cf:	5 2 2 0 0 0
 Fox @ 2b:	2 0 0 1 3 0 
 Flaherty @ rf:	4 1 2 2 2 0
 Altman @ lf:	2 1 0 1 0 0
-Morse @ ss:	4 1 1 4 4 1
+Morse, [Pete] @ ss:	4 1 1 4 4 1
 Lennahan @ 1b:	2 1 1 10 1 0
 Anderson @ 3b:	2 1 1 0 2 0
 Wolfe @ c:	2 0 0 8 0 0
@@ -39,7 +39,7 @@ line: Grand Forks: 0 0 0 2 1 0 4 0 x - 7
 
 B_LOB: Virginia #15; Grand Forks #8
 B_2B: Fortnen; McCulloch; Agnew; Flaherty
-B_SB: Fortnen; Sundheim; McCulloch; Watkins; Morse; Lennahan
+B_SB: Fortnen; Sundheim; McCulloch; Watkins; [Pete] Morse; Lennahan
 B_SH: Fox #2
 B_HP: Brokaw; Flaherty; Altman #2; Anderson #2
 P_BB: Christianson #7; Sorenson #4
@@ -141,11 +141,11 @@ Block @ cf:	5 1 2 2 0 0
 Fox @ 2b:	3 2 0 1 3 0
 Flaherty @ rf:	5 0 2 1 0 0
 Altman @ lf:	5 1 2 1 0 0
-Morse, Steve @ ss:	3 1 0 0 2 0
+Morse, Steve [Pete] @ ss:	3 1 0 0 2 0
 Lennehan @ 1b:	5 1 1 11 0 0
 Anderson @ 3b:	4 3 1 1 0 0
 Wolfe @ c:	4 0 3 10 0 0
-Morse, Pete @ p:	3 1 1 0 5 0
+Morse, Pete [Paul] @ p:	3 1 1 0 5 0
 TOTALS:		37 10 12 27 10 0
 
 line: Superior:    0 0 0 0 1 0 0 4 0 - 5
@@ -154,11 +154,11 @@ line: Grand Forks: 0 4 1 0 4 0 0 1 x - 10
 B_LOB: Superior #10; Grand Forks #7
 B_2B: Kurke #2; McGee
 B_3B: Flaherty; Anderson
-B_SB: Altman #3; Fox #3; Block; Wolfe; Steve Morse; McGee; Bassey
-B_SF: Pete Morse
+B_SB: Altman #3; Fox #3; Block; Wolfe; Steve [Pete] Morse; McGee; Bassey
+B_SF: Pete [Paul] Morse
 B_HP: Altman
-P_BB: Leon #3; Pete Morse #8
-P_SO: Leon #2; Pete Morse #9
+P_BB: Leon #3; Pete [Paul] Morse #8
+P_SO: Leon #2; Pete [Paul] Morse #9
 P_HP: Leon
 F_PB: Wolfe
 
@@ -324,7 +324,7 @@ Block @ cf:	6 0 2 1 0 0
 Fox @ 2b:	4 1 0 1 3 1
 Flaherty @ rf:	6 0 0 1 0 0
 Altman @ lf:	5 1 2 1 0 0
-Morse, P. @ ss:	4 0 2 1 2 0
+Morse, P. [Pete] @ ss:	4 0 2 1 2 0
 Lennehan @ 1b:	5 0 0 15 1 0
 Anderson @ 3b:	5 0 0 0 4 1
 Wolfe @ c:	4 0 1 18 2 0
@@ -339,7 +339,7 @@ line: Grand Forks: 0 0 1 1 0 0 0 0 0 0 0 0 1 - 3
 B_LOB: Superior #12; Grand Forks #8
 B_2B: Ursella; Bassey
 B_3B: Altman
-B_SB: Burgvold; Curtis; Kurke; Bassey #2; Brannon; Block #2; Fox; P. Morse
+B_SB: Burgvold; Curtis; Kurke; Bassey #2; Brannon; Block #2; Fox; P. [Pete] Morse
 B_SH: Swalm; Girth; Ursella #2
 P_BB: Ursella #10; Conley #3; Brannon #3
 P_SO: Ursella #15; Conley #1
@@ -431,7 +431,7 @@ Block @ cf:	4 2 3 1 0 0
 Fox @ 2b:	3 1 1 2 2 1
 Flaherty @ rf:	4 1 1 3 0 0
 Altman @ lf:	4 1 2 4 0 0
-Morse @ ss:	4 1 1 0 3 1
+Morse, [Pete] @ ss:	4 1 1 0 3 1
 Lennehan @ 1b:	4 1 1 12 1 0
 Anderson @ 3b:	3 0 0 1 4 1
 Wolfe @ c:	4 0 1 3 1 0
@@ -444,7 +444,7 @@ line: Grand Forks: 0 0 0 2 0 0 1 4 x - 7
 B_LOB: Grand Forks #4; Duluth #6
 B_ER: Grand Forks #6
 B_2B: Block; Wolfe
-B_SB: Wolfe; Collins #2; Williams; Block; Morse
+B_SB: Wolfe; Collins #2; Williams; Block; [Pete] Morse
 B_SH: Fox
 P_BB: Boley #1; Snow #5
 P_SO: Boley #2; Snow #1
@@ -543,7 +543,7 @@ Block @ cf:	4 0 2 2 0 1
 Fox @ 2b:	1 1 0 0 1 0
 Flaherty @ rf:	3 0 1 2 0 0
 Altman @ lf:	3 1 0 3 0 0
-Morse @ ss:	4 1 2 4 1 0
+Morse, [Pete] @ ss:	4 1 2 4 1 0
 Lennehan @ 1b:	3 0 0 11 0 0
 *McGraw @ ph:	1 0 0 0 0 0
 Anderson @ 3b:	3 0 0 1 4 0
@@ -557,7 +557,7 @@ line: Duluth:      0 0 0 2 0 0 0 0 0 - 2
 line: Grand Forks: 0 0 0 0 0 1 0 0 2 - 3
 
 B_LOB: Grand Forks #4; Duluth #4
-B_3B: Morse
+B_3B: [Pete] Morse
 B_SB: Williams #2; Fox; Altman
 B_SH: Brenner
 B_HP: Wolfe

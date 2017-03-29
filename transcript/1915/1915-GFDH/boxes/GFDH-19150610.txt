@@ -62,7 +62,7 @@ Fait @ p:	3 1 1 0 4 1
 TOTALS:		31 5 8 27 11 3
 
 Grand Forks:	ab r h po a e
-Morse @ ss:	5 1 1 2 0 0
+Morse, [Pete] @ ss:	5 1 1 2 0 0
 Fox @ 2b:	4 0 0 0 2 0
 Flaherty @ rf:	2 0 1 3 0 0
 Altman @ lf:	4 0 0 2 0 0
@@ -71,7 +71,7 @@ Lennehan @ 1b:	4 0 1 11 0 2
 Hoffman @ cf:	4 1 1 4 2 0
 Anderson @ 3b:	4 0 1 1 0 0
 McNeeley @ c:	4 0 2 4 0 0
-Morse, S. @ p:	3 0 1 0 7 0
+Morse, S. [Paul] @ p:	3 0 1 0 7 0
 TOTALS:		34 3 8 27 11 2
 
 *: ran for Lennehan in 9th
@@ -83,10 +83,10 @@ B_LOB: Grand Forks #7; Fargo-Moorhead #4
 B_ER: Grand Forks #3; Fargo-Moorhead #3
 B_2B: Barry
 B_SB: Barry; Fremer; Unglaub; Flaherty
-B_SH: Dries; S. Morse; Fait; Murphy
+B_SH: Dries; S. [Paul] Morse; Fait; Murphy
 B_SF: Hooper
-P_BB: Fait #2; S. Morse #1
-P_WP: S. Morse
+P_BB: Fait #2; S. [Paul] Morse #1
+P_WP: S. [Paul] Morse
 
 ---
 
@@ -268,7 +268,7 @@ Bell @ p:	3 0 1 0 0 0
 TOTALS:		28 0 5 24 8 0
 
 Grand Forks:	ab r h po a e
-Morse @ ss:	3 0 0 2 7 0
+Morse, [Pete] @ ss:	3 0 0 2 7 0
 Fox @ 2b:	4 0 1 5 3 0
 Schroeder @ 1b:	2 0 1 12 0 0
 Flaherty @ rf:	3 1 1 2 0 0
@@ -291,7 +291,7 @@ B_SH: Flaherty
 B_SF: McNeeley
 P_BB: Larson #1; Bell #5
 P_SO: Larson #2; Bell #5
-F_DP: Morse, Fox, Schroeder #2; Patterson, Unglaub
+F_DP: [Pete] Morse, Fox, Schroeder #2; Patterson, Unglaub
 
 ---
 
@@ -402,7 +402,7 @@ Block @ cf:	5 0 2 2 0 0
 Fox @ 2b:	5 0 1 4 1 0
 Schroeder @ 1b:	5 0 2 10 1 0
 Flaherty @ rf:	4 1 1 2 0 0
-Morse @ ss:	3 0 0 1 3 0
+Morse, [Pete] @ ss:	3 0 0 1 3 0
 Altman @ lf:	3 0 0 0 0 0
 Anderson @ 3b:	3 0 1 1 2 0
 McNeeley @ c:	4 0 2 3 1 0
@@ -517,7 +517,7 @@ Morse, Peter @ ss:	2 0 2 2 2 1
 Altman @ lf:	4 0 0 1 0 0
 Anderson @ 3b:	3 0 0 1 2 0
 McNeely @ c:	4 0 1 3 3 0
-Morse @ p:	4 0 0 0 1 1
+Morse, [Paul] @ p:	4 0 0 0 1 1
 TOTALS:		36 2 9 24 10 2
 
 Superior:	ab r h po a e
@@ -541,11 +541,11 @@ B_HR: Kirkham
 B_SB: Fox; McNeely
 B_SH: Curtis 
 B_HP: Bergwald 
-P_BB: Snow #3; Morse #2
-P_SO: Snow #5; Morse #3
+P_BB: Snow #3; [Paul] Morse #2
+P_SO: Snow #5; [Paul] Morse #3
 P_HP: Snow
-P_WP: Morse #2
-F_DP: Morse, Morse, Schroeder
+P_WP: [Paul] Morse #2
+F_DP: [Paul] Morse, Peter Morse, Schroeder
 F_PB: McNeely 
 T: 2:10
 U: Landry
