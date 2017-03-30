@@ -257,7 +257,7 @@ McGraw @ 3b:	4 0 0 2 5 0
 O'Brien @ 2b:	1 0 0 1 0 1
 Wingfield @ rf:	3 0 1 0 0 0
 Sweeley @ c:	4 0 1 4 0 1
-Morse @ p:	4 0 0 1 0 0
+Morse [Paul] @ p:	4 0 0 1 0 0
 TOTALS:		35 3 9 27 10 3
 
 line: Fargo-Moorhead: 0 0 5 0 1 0 1 0 0 - 7
@@ -267,10 +267,10 @@ B_LOB: Duluth #7; Fargo-Moorhead #6
 B_2B: Lawler #2; Altman; Nifnecker
 B_3B: Flaherty
 B_HR: Kirkham
-P_BB: Morse #3
-P_SO: Morse #2; Bell #2
-P_WP: Morse 
-F_DP: Ellis, Smith, Nifnecker; McGraw, Schroeder, Morse  
+P_BB: [Paul] Morse #3
+P_SO: [Paul] Morse #2; Bell #2
+P_WP: [Paul] Morse 
+F_DP: Ellis, Smith, Nifnecker; McGraw, Schroeder, [Paul] Morse  
 T: 1:45
 U: Snyder
 
