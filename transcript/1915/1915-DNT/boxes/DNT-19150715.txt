@@ -173,7 +173,7 @@ Williams @ rf:	4 1 1 0 1 0
 Wolfe @ ss:	3 3 2 2 3 0
 O'Brien @ 2b:	3 0 1 0 2 0
 Sweeley @ c:	3 0 1 9 0 0
-Morse @ p:	4 0 1 0 3 0
+Morse [Paul] @ p:	4 0 1 0 3 0
 TOTALS:		34 10 14 27 10 0
 
 line: Virginia: 2 0 0 0 1 0 1 2 0 - 6
@@ -182,8 +182,8 @@ line: Duluth:   5 0 0 0 1 1 2 1 x - 10
 B_LOB: Duluth #6; Virginia #7
 B_2B: Boley #2; Croake
 B_HR: Wolfe; Kernan
-P_BB: Morse #3; Faeth #2
-P_SO: Morse #7; Faeth #4
+P_BB: [Paul] Morse #3; Faeth #2
+P_SO: [Paul] Morse #7; Faeth #4
 P_H:  Hawkins #5; Faeth #9
 P_IP: Hawkins #.1; Faeth #7.2
 P_WP: Faeth
@@ -362,7 +362,7 @@ Kirkham @ cf:	3 0 0 0 0 0
 Shroeder @ 1b:	2 2 1 8 0 0
 Williams @ rf:	2 1 1 3 1 0
 Wolfe @ ss:	3 0 1 0 2 1
-Morse @ 2b:	2 0 0 4 1 0 
+Morse [Pete] @ 2b:	2 0 0 4 1 0 
 Sweeley @ c:	2 0 0 6 2 0
 Hallman @ p:	1 0 0 0 2 0
 TOTALS:		20 4 3 21 12 1
@@ -444,7 +444,7 @@ Kirkham @ cf:	4 0 0 3 0 0
 Schroeder @ 1b:	4 0 2 8 2 0
 Williams @ rf:	3 1 0 2 0 0
 Wolfe @ ss:	3 0 2 3 4 1
-Morse, P. @ 2b:	3 0 0 1 3 0
+Morse, P. [Pete] @ 2b:	3 0 0 1 3 0
 Sweeley @ c:	4 0 0 8 3 0
 Boley @ p:	3 0 0 2 1 0
 TOTALS:		33 2 5 30 17 1
