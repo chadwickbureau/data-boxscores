@@ -141,7 +141,7 @@ Williams @ rf:	4 0 0 2 0 0
 Wolfe @ ss:	3 0 1 1 3 2
 Kline @ 3b:	4 1 1 1 3 2
 Sweeley @ c:	3 0 2 2 4 0
-Morse @ p:	2 0 0 0 4 0
+Morse [Paul] @ p:	2 0 0 0 4 0
 *O'Brien @ ph:	1 0 0 0 0 0
 TOTALS:		35 1 10 27 18 8
 
@@ -152,8 +152,8 @@ line: Duluth:   0 0 0 0 0 0 0 0 1 - 1
 
 B_LOB: Duluth #11; Virginia #5
 B_2B: Baker; Sweeley; Fortman
-P_BB: Morse #1; Hawkins #4
-P_SO: Morse #3; Hawkins #5 
+P_BB: [Paul] Morse #1; Hawkins #4
+P_SO: [Paul] Morse #3; Hawkins #5 
 P_HP: Morse
 F_DP: Sundheim, Kernan, Reynolds; Kline, Baker, Schroeder; Kernan, Reynolds
 T: 1:33
@@ -690,7 +690,7 @@ Williams @ rf:	3 2 2 0 0 0
 Kline @ ss:	4 0 0 3 1 1 
 O'Brien @ 2b:	5 1 2 1 4 1
 Sweeley @ c:	5 1 1 5 2 0
-Morse @ p:	4 1 2 1 4 0
+Morse [Paul] @ p:	4 1 2 1 4 0
 TOTALS:		38 8 13 27 15 3
 
 Fargo-Moorhead:	ab r h po a e
@@ -712,13 +712,13 @@ line: Fargo-Moorhead: 0 0 1 2 0 0 0 0 1 - 4
 
 B_LOB: Duluth #9; Fargo-Moorhead #11
 B_2B: Williams #2; Dreis
-B_3B: Morse
+B_3B: [Paul] Morse
 B_SB: Williams; Flaherty; Murphy
 B_SH: Kline; Dreis
 B_SF: Nifnecker
 B_HP: Williams
-P_BB: Morse #4; Bell #2; Delburn #2
-P_SO: Morse #4
+P_BB: [Paul] Morse #4; Bell #2; Delburn #2
+P_SO: [Paul] Morse #4
 P_H:  Bell #9; Delburn #4
 P_IP: Bell #6; Delburn #3
 P_HP: Bell
