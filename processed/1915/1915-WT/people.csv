@@ -229,16 +229,18 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1915,Northern League,MLRZ1214,Miller [ss],,St. Boniface,1915-08-05,1915-08-05,1,0,0,0,0,1,0,0,0,0,0,0
 1915,Northern League,MXLZ0102,Mitchell,,St. Boniface,1915-07-24,1915-08-01,11,0,0,0,5,5,1,0,0,1,0,0
 1915,Northern League,MXLZ0202,Mitchell,,Winnipeg,1915-05-13,1915-07-15,61,0,0,0,46,14,0,0,0,0,0,0
-1915,Northern League,MRSZ0110,Morse,,Duluth,1915-07-06,1915-08-20,13,2,0,10,0,1,0,0,0,0,0,2
-1915,Northern League,MRSZ0210,Morse,,Grand Forks,1915-05-14,1915-07-05,32,6,0,0,0,25,0,0,0,0,0,6
-1915,Northern League,MRSZ0310,Morse,P.,Duluth,1915-07-07,1915-07-31,4,0,0,4,0,0,0,0,0,0,0,0
-1915,Northern League,MRSZ0410,Morse,P. [Pete],Duluth,1915-08-03,1915-08-03,1,0,0,1,0,0,0,0,0,0,0,0
-1915,Northern League,MRSZ0510,Morse,Paul,Duluth,1915-08-01,1915-08-03,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Northern League,MRSZ0610,Morse,Pete,Duluth,1915-07-30,1915-07-30,1,0,0,0,0,1,0,0,0,0,0,0
-1915,Northern League,MRSZ0710,Morse,S.,Duluth,1915-07-07,1915-07-29,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Northern League,MRSZ0810,Morse,S.,Grand Forks,1915-05-21,1915-05-21,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Northern League,MRSZ0910,Morse [2b],,Duluth,1915-08-06,1915-08-06,1,0,0,1,0,1,0,0,0,0,0,0
-1915,Northern League,MRSZ1010,Morse [p],,Duluth,1915-08-06,1915-09-01,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Northern League,MRSZ0112,Morse,P. [Pete],Duluth,1915-07-07,1915-08-03,5,0,0,5,0,0,0,0,0,0,0,0
+1915,Northern League,MRSZ0212,Morse,Paul,Duluth,1915-08-01,1915-08-03,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Northern League,MRSZ0312,Morse,Pete,Duluth,1915-07-30,1915-07-30,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Northern League,MRSZ0412,Morse,S. [Paul],Duluth,1915-07-07,1915-07-29,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Northern League,MRSZ0512,Morse,S. [Paul],Grand Forks,1915-05-21,1915-05-21,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Northern League,MRSZ0612,Morse,[Paul],Duluth,1915-08-12,1915-08-20,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Northern League,MRSZ0712,Morse,[Paul],Grand Forks,1915-05-14,1915-06-25,6,6,0,0,0,0,0,0,0,0,0,6
+1915,Northern League,MRSZ0812,Morse,[Pete],Duluth,1915-07-06,1915-08-09,11,0,0,10,0,1,0,0,0,0,0,0
+1915,Northern League,MRSZ0912,Morse,[Pete],Grand Forks,1915-05-21,1915-07-05,28,0,0,0,0,27,0,0,0,0,0,0
+1915,Northern League,MRSZ1012,Morse [2b],,Duluth,1915-08-06,1915-08-06,1,0,0,1,0,1,0,0,0,0,0,0
+1915,Northern League,MRSZ1112,Morse [Paul],,Duluth,1915-08-28,1915-09-01,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Northern League,MRSZ1212,Morse [p],,Duluth,1915-08-06,1915-08-06,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Northern League,MLRZ1314,Mueller,,St. Boniface,1915-05-08,1915-09-06,80,0,0,0,0,0,38,3,0,35,42,0
 1915,Northern League,MLRZ1414,Muller,,St. Boniface,1915-05-31,1915-05-31,1,0,0,0,0,0,1,0,0,1,0,0
 1915,Northern League,MRFZ0106,Murphy,,Fargo-Moorhead,1915-05-20,1915-09-03,36,0,6,0,0,0,3,0,0,3,27,0
