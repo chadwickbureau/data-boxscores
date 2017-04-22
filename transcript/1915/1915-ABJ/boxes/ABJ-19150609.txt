@@ -1,0 +1,426 @@
+date: 1915-06-09
+number: 0
+league: Buckeye
+away: Akron 
+home: Marion
+source: Akron Beacon Journal, June 10, 1915
+
+Akron:		ab r h po a e
+Plummer @ rf:	6 1 2 2 0 0 
+Patton @ 3b:	5 1 1 1 5 0
+Jaekel @ cf:	5 1 0 1 0 0
+Mundy @ 1b:	3 1 2 8 0 0
+Talbott @ c:	4 1 2 8 3 0 
+Glennon @ lf:	3 0 0 1 1 0
+Hook @ lf:	1 1 1 0 0 0
+Holler @ ss:	5 1 1 3 1 1
+Newnham @ 2b:	5 0 3 5 2 0
+McKee @ p:	5 1 1 1 4 0
+TOTALS:		42 8 18 30 16 1
+
+Marion:		ab r h po a e
+McGonigle @ 2b:	4 0 1 2 3 0
+Wetzel @ 3b:	4 1 1 0 0 0
+Thoma @ cf:	3 0 0 0 0 0
+Bonin @ rf:	3 0 1 2 0 0
+Neer @ 1b:	3 0 2 11 1 0
+Leake @ lf:	3 0 0 3 0 0
+Judge @ ss:	4 0 0 0 3 2
+Breymeier @ c:	2 0 0 12 1 0
+Hart @ p:	3 0 0 0 5 0
+TOTALS:		29 1 5 30 13 2
+
+line: Akron:   0 0 0 0 0 1 0 0 7 - 8
+line: Marion:  0 0 0 0 0 0 0 1 0 - 1
+
+B_LOB: Akron #8; Marion #4
+B_2B: Mundy #2; Holler; Wetzel; Bonin
+B_SB: Plummer; Talbott #2; McKee; Neer
+B_SH: Thoma; Neer
+B_HP: Leake
+P_BB: McKee #3; Hart #4
+P_SO: McKee #7; Hart #11
+P_HP: McKee
+F_DP: Judge, Neer, Breymeier; Patton, Newnham; Talbott, Mundy
+T: 1:55
+U: Taylor
+
+---
+
+date: 1915-06-09
+number: 0
+league: Buckeye
+away: Canton
+home: Findlay 
+source: Akron Beacon Journal, June 10, 1915
+
+Canton:		r h e
+Samuel @ p:	x x x 
+Connor @ p:	x x x
+Beeney @ c:	x x x 
+TOTALS:		9 11 7
+
+Findlay:	r h e
+French @ p:	x x x 
+McGivern @ c:	x x x 
+TOTALS:		14 12 7
+
+line: Canton:  1 0 0 0 0 0 3 3 2 - 9
+line: Findlay: 4 4 4 0 0 0 1 1 x - 14
+
+---
+
+date: 1915-06-09
+number: 0
+league: Buckeye
+away: Newark
+home: Lima 
+source: Akron Beacon Journal, June 10, 1915
+
+Newark:		r h e
+Drake @ p:	x x x 
+Wratten @ p:	x x x
+Pearce @ c:	x x x 
+TOTALS:		6 7 7 
+
+Lima:	r h e
+Bond @ p:	x x x 
+Marooney @ c:	x x x 
+TOTALS:		21 23 3
+
+line: Newark: 3 0 0 1 0 0 0 1 1 - 6
+line: Lima:   4 0 4 4 7 0 0 2 x - 21
+
+---
+
+date: 1915-06-10
+number: 0
+league: Buckeye
+away: Akron
+home: Newark 
+source: Akron Beacon Journal, June 11, 1915
+
+Akron:		ab r h po a e
+Plummer @ rf:	4 1 2 0 0 1
+Patton @ 3b:	5 0 0 3 2 0
+Jaekel @ cf:	5 2 2 2 0 0
+Mundy @ 1b:	5 2 3 11 0 0
+Talbott @ c:	4 1 2 8 1 0
+Price @ lf:	2 1 1 0 0 0
+Holler @ ss:	4 0 1 1 2 1
+Newnham @ 2b:	5 1 1 1 4 0
+Linne @ p:	5 0 1 1 4 1
+TOTALS:		39 8 13 27 13 3
+
+Newark:		ab r h po a e
+Long @ lf:	5 1 2 1 1 0
+Hanna @ ss:	2 0 1 0 1 2
+Strawn @ cf:	3 0 0 1 0 0
+Wratten @ 3b:	5 1 3 3 3 1
+Deitrich @ cf-ss:	5 0 0 2 1 0
+Humphreys @ 2b:	5 0 0 3 2 0
+Pearce @ c:	4 0 1 4 0 0
+Malloy @ 1b:	2 1 1 11 1 1 
+Blanchard @ rf:	4 1 2 1 0 0
+Benner @ p:	1 1 0 1 2 1
+*Goodwin @ ph:	1 0 0 0 0 0
+Drake @ p:	0 0 0 0 1 0
+TOTALS:		37 5 10 27 12 5
+
+*: Batted for Benner in 8th
+
+line: Akron:  0 3 0 0 1 0 2 2 0 - 8
+line: Newark: 0 0 3 0 1 0 0 1 0 - 5
+
+B_LOB: Newark #9; Akron #10
+B_2B: Jaekel
+B_HR: Talbott
+B_SB: Wratten #2; Humphreys
+B_SH: Benner; Talbott; Holler
+P_BB: Benner #3; Drake #1; Linne #3 
+P_SO: Benner #3; Drake #1; Linne #7
+P_IP: Benner #8; Drake #1
+P_H: Benner #13 
+F_DP: Benner, Malloy
+T: 2:00
+U: Taylor
+
+---
+
+date: 1915-06-10
+number: 0
+league: Buckeye
+away: Canton
+home: Lima  
+source: Akron Beacon Journal, June 11, 1915
+
+Canton:		r h e
+Samuels @ p:	x x x 
+Koontz @ p:	x x x 
+Beeney @ c:	x x x 
+TOTALS:		1 2 4
+
+Lima:		r h e
+Walker @ p:	x x x 
+Marooney @ c:	x x x 
+TOTALS:		10 14 6
+
+line: Canton:  0 0 1 0 0 0 0 0 0 - 1
+line: Lima:    3 2 2 1 0 0 2 0 x - 10
+
+---
+
+date: 1915-06-10
+number: 0
+league: Buckeye
+away: Findlay
+home: Marion
+source: Akron Beacon Journal, June 11, 1915
+
+Findlay:	r h e
+Schultz @ p:	x x x
+Fields @ c:	x x x
+TOTALS:		8 9 4
+
+Marion:		r h e
+Orndolf @ p:	x x x
+Breymier @ c:	x x x
+TOTALS:		4 7 4
+
+line: Findlay: 0 0 0 0 0 0 2 6 0 - 8
+line: Marion:  0 0 2 1 0 1 0 0 0 - 4
+
+---
+
+date: 1915-06-11
+number: 0
+league: Buckeye
+away: Canton
+home: Lima  
+source: Akron Beacon Journal, June 12, 1915
+
+Canton:		r h e
+Connors @ p:	x x x 
+Beeney @ c:	x x x 
+TOTALS:		4 12 3
+
+Lima:		r h e
+Bond @ p:	x x x 
+Reynolds @ p:	x x x 
+Maroney @ c:	x x x 
+TOTALS:		2 7 1
+
+line: Canton:  2 0 0 0 0 0 0 0 2 - 4
+line: Lima:    0 0 0 1 0 0 0 1 0 - 2
+
+---
+
+date: 1915-06-12
+number: 0
+league: Buckeye
+away: Akron
+home: Newark 
+source: Akron Beacon Journal, June 14, 1915
+
+Akron:		ab r h po a e
+Plummer @ rf:	3 2 2 0 0 0
+Patton @ 3b:	3 0 1 1 1 0
+Jaekel @ cf:	5 1 1 3 0 0
+Mundy @ 1b:	4 1 2 10 1 0
+Talbot @ c:	5 0 3 6 1 0
+Glennon @ ss:	5 0 0 1 3 1
+Holler @ lf:	5 0 0 0 0 0
+Newnham @ 2b:	4 0 2 3 0 0
+Hook @ p:	3 1 0 0 7 0
+TOTALS:		37 5 11 24 13 1
+
+Newark:		ab r h po a e
+Long @ lf:	4 1 1 1 0 0
+Wratten @ 3b:	3 1 0 0 10 0
+Humphreys @ 2b:	5 1 3 3 1 0
+Deitrick @ ss:	5 1 1 1 0 0
+Pearce @ c:	4 1 1 3 0 0
+Strawn @ cf:	3 2 1 2 0 0
+Blanchard @ rf:	4 1 1 3 0 0
+Malloy @ 1b:	4 1 4 13 1 0
+Geiger @ p:	1 0 0 1 1 0
+Drake @ p:	2 1 2 0 3 0
+TOTALS:		35 10 14 27 16 0
+
+line: Akron:  0 0 0 0 2 0 2 0 1 - 5
+line: Newark: 0 2 0 0 1 0 7 0 x - 10
+
+B_LOB: Newark #6; Akron #11
+B_2B: Plummer; Mundy; Talbot #2; Newnham
+B_SB: Pearce; Strawn; Malloy #2
+B_SH: Long; Wratten; Patton
+B_SF: Geiger
+P_BB: Geiger #4; Drake #1; Hook #2
+P_SO: Geiger #2; Drake #1; Hook #4
+P_IP: Geiger #4.2; Drake #4.1 
+P_H: Geiger #5; Drake #6
+T: 1:55
+U: Taylor
+
+---
+
+date: 1915-06-13
+number: 0
+league: Buckeye
+away: Akron
+home: Newark 
+source: Akron Beacon Journal, June 14, 1915
+note: rained stopped game after 7 innings
+
+Akron:		ab r h po a e
+Plummer @ rf:	3 0 1 0 0 0
+Patton @ 3b:	3 1 1 1 2 1 
+Jaekel @ lf:	4 1 0 1 0 0
+Munday @ 1b:	4 0 3 9 0 0
+Hook @ ss:	4 1 0 0 0 1
+Glennon @ c:	2 2 1 8 0 0
+Linne @ cf:	2 1 1 0 0 0
+Holler @ 2b:	2 0 1 2 4 1
+McKee @ p:	4 1 3 0 2 0
+TOTALS:		28 7 11 21 8 3
+
+Newark:		ab r h po a e
+Long @ lf:	3 1 1 1 0 0
+Wratten @ 3b:	4 0 1 3 1 0
+Humphreys @ 2b:	3 1 1 4 1 1
+Deitrick @ ss:	3 1 1 1 4 2
+Pearce @ c:	3 0 0 5 3 0
+Strawn @ cf:	3 0 1 0 0 0
+Blanchard @ rf:	4 0 0 0 0 0
+Malloy @ 1b:	3 0 0 7 0 0
+Carpenter @ p:	3 0 0 0 4 1
+TOTALS:		29 3 5 21 13 4
+
+line: Akron:  2 0 0 1 0 2 2 - 7
+line: Newark: 0 0 1 0 0 0 2 - 3
+
+B_LOB: Newark #10; Akron #9
+B_2B: Strawn; Munday
+B_SB: Glennon
+B_SH: Holler #2
+B_HP: Long; Humphreys; Pearce; Glennon
+P_BB: Carpenter #6; McKee #2
+P_SO: Carpenter #5; McKee #7
+P_HP: McKee #3; Carpenter #1
+P_WP: Carpenter
+F_PB: Pearce
+T: 2:00
+U: Taylor
+
+---
+
+date: 1915-06-13
+number: 0
+league: Buckeye
+away: Findlay 
+home: Lima
+status: postponed
+status-reason: rain 
+source: Akron Beacon Journal, June 14, 1915
+
+---
+
+date: 1915-06-14
+number: 0
+league: Buckeye
+away: Newark
+home: Akron 
+source: Akron Beacon Journal, June 15, 1915
+
+Newark:		ab r h po a e
+Long @ lf:	5 1 4 1 0 0
+Wratton @ 3b:	2 1 0 3 3 0
+Humphries @ 2b:	5 1 2 0 0 0
+Deitrich @ ss:	3 0 0 2 2 1
+Pierce @ c:	4 1 2 6 0 0
+Strawn @ cf:	4 0 1 0 0 0
+Blanchard @ rf:	4 1 1 2 0 0
+Malloy @ 1b:	4 0 0 11 1 0
+Drake @ p:	4 1 1 1 2 0
+TOTALS:		35 6 11 26 8 1
+
+Akron:		ab r h po a e
+Plummer @ rf:	5 1 2 2 0 0
+Patton @ 3b:	4 2 3 3 4 1 
+Jaekel @ cf:	3 1 0 1 0 1
+Mundy @ 1b:	5 1 1 9 0 0
+Talbott @ c:	5 0 2 6 4 0
+McKee @ lf:	4 0 0 2 0 0
+Glennon @ lf:	4 1 1 1 1 1
+Holler @ 2b:	3 1 1 3 1 0
+Linne @ p:	4 0 1 0 2 0
+TOTALS:		37 7 11 27 12 3
+
+line: Newark: 0 0 0 6 0 0 0 0 0 - 6
+line: Akron:  3 0 0 0 0 0 2 0 2 - 7
+
+B_2B: Glennon; Patton
+B_3B: Talbott
+B_SB: Glennon; Mundy
+B_SH: Wratton #2; Deitrich; Jaekel
+B_HP: Patton
+P_BB: Drake #2; Linne #2
+P_SO: Drake #6; Linne #3
+P_HP: Drake
+T: 1:40
+U: Pastorius
+
+---
+
+date: 1915-06-14
+number: 0
+league: Buckeye
+away: Lima
+home: Findlay 
+source: Akron Beacon Journal, June 15, 1915
+
+Lima:		r h e
+Reynolds @ p:	x x x
+Maroney @ c:	x x x
+TOTALS:		7 11 3
+
+Findlay:	r h e
+McCluskey @ p:	x x x
+McGivern @ c:	x x x
+TOTALS:		2 5 2
+
+line: Lima:    0 0 0 4 1 0 2 0 0 - 7
+line: Findlay: 0 0 0 0 0 2 0 0 0 - 2
+
+---
+
+date: 1915-06-15
+number: 0
+league: Buckeye
+away: Newark
+home: Akron 
+status: postponed
+status-reason: rain
+source: Akron Beacon Journal, June 16, 1915
+
+---
+
+date: 1915-06-15
+number: 0
+league: Buckeye
+away: Lima
+home: Findlay 
+source: Akron Beacon Journal, June 16, 1915
+
+Lima:		r h e
+Bond @ p:	x x x
+Maroney @ c:	x x x
+TOTALS:		2 7 5
+
+Findlay:	r h e
+French @ p:	x x x
+McGivern @ c:	x x x
+TOTALS:		11 12 2
+
+line: Lima:    0 0 0 1 1 0 0 0 0 - 2
+line: Findlay: 0 6 0 0 1 1 0 3 x - 11
