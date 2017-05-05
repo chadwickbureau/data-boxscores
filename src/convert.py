@@ -224,12 +224,19 @@ def iterate_games(fn):
                        ("\n".join(filter(lambda x: x != "",
                                          [ ' '.join(x.strip().split()) for x in open(fn).readlines() ]))).split("---\n")))
 
-def compile_playing(source, gamelist):
+def compile_playing(source, games, gamelist):
     df = pd.concat([ pd.DataFrame(g.playing.values()) for g in gamelist ],
                    ignore_index=True)
+    df = pd.merge(df, games[[ 'key', 'league' ]],
+                  left_on='game.key', right_on='key')
     del df['name.full']
     del df['substitute']
-    columns = [ 'game.key', 'game.date', 'game.number',
+    df['league.name'] = df['league'].apply(lambda x: x + " League" if "League" not in x and "Association" not in x else x)
+    df['league.year'] = df['game.date'].str.split("-").str[0]
+    del df['key']
+    del df['league']
+    columns = [ 'game.key', 'league.year', 'league.name',
+                'game.date', 'game.number',
                 'name.last', 'name.first', 'club.name',
                 'pos', 'seq',
                 'B_AB', 'B_R', 'B_ER', 'B_H', 'B_2B', 'B_3B', 'B_HR', 'B_RBI',
@@ -340,8 +347,8 @@ def process_files(source):
     fnlist = glob.glob("transcript/%s/boxes/*.txt" % source)
     gamelist = [ Game.fromtext(g, fn)
                  for fn in fnlist for g in iterate_games(fn) ]
-    playing = compile_playing(source, gamelist)
     games = compile_games(source, gamelist)
+    playing = compile_playing(source, games, gamelist)
     umpiring = compile_umpiring(source, gamelist)
 
     compile_people(source, playing, games)
