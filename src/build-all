@@ -1,0 +1,11 @@
+#!/bin/sh
+
+for year in `ls transcript`
+do
+    for source in `ls transcript/${year}`
+    do
+	python src/convert.py ${year}/${source}
+    done
+done
+
+

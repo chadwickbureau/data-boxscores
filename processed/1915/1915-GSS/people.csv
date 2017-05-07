@@ -197,8 +197,8 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1915,Blue Ridge League,SNFL0101,Snavely,,Chambersburg,1915-07-19,1915-08-03,6,0,5,0,0,0,1,1,0,0,0,0
 1915,Blue Ridge League,SNLZ0101,Snell,,Chambersburg,1915-06-17,1915-06-21,3,1,0,0,0,0,0,0,0,0,2,1
 1915,Blue Ridge League,SNTR0101,Snyder,,Chambersburg,1915-06-01,1915-08-14,18,0,0,0,0,0,18,2,13,3,0,0
-1915,Blue Ridge League,STRZ0107,Stair,,Gettysburg,1915-05-27,1915-08-16,23,22,0,0,0,0,1,0,1,0,0,22
-1915,Blue Ridge League,STRZ0207,Starr,,Hanover,1915-05-27,1915-08-07,14,0,0,10,3,1,0,0,0,0,0,0
+1915,Blue Ridge League,STRZ0108,Stair,,Gettysburg,1915-05-27,1915-08-16,23,22,0,0,0,0,1,0,1,0,0,22
+1915,Blue Ridge League,STRZ0208,Starr,,Hanover,1915-05-27,1915-08-07,14,0,0,10,3,1,0,0,0,0,0,0
 1915,Blue Ridge League,STNP0102,Steinbach,,Chambersburg,1915-07-09,1915-08-11,18,0,1,0,0,0,0,0,0,0,16,0
 1915,Blue Ridge League,STNP0202,Steinbach,,Hanover,1915-05-27,1915-06-25,20,0,0,0,0,0,0,0,0,0,20,0
 1915,Blue Ridge League,STFN0101,Stevens,,Frederick,1915-05-27,1915-08-26,23,21,0,0,0,0,2,2,0,0,0,21
@@ -207,11 +207,12 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1915,Blue Ridge League,STFR0202,Stover,,Hanover,1915-06-21,1915-06-22,2,0,1,0,0,1,0,0,0,0,0,0
 1915,Blue Ridge League,STRS0101,Strasbaugh,,Chambersburg,1915-06-25,1915-06-29,5,0,0,0,5,0,0,0,0,0,0,0
 1915,Blue Ridge League,STRK0101,Stricker,,Chambersburg,1915-05-27,1915-08-23,26,25,0,0,0,0,1,0,0,1,0,25
-1915,Blue Ridge League,STRZ0307,Stroh,,Chambersburg,1915-05-27,1915-08-09,9,0,0,0,0,0,0,0,0,0,9,0
-1915,Blue Ridge League,STRZ0407,Stroh,,Hanover,1915-06-26,1915-08-25,52,0,0,0,0,0,0,0,0,0,51,0
-1915,Blue Ridge League,STRZ0507,Stroh,G.,Chambersburg,1915-06-04,1915-06-05,2,0,1,0,0,1,0,0,0,0,1,0
-1915,Blue Ridge League,STRZ0607,Stroh,W.,Chambersburg,1915-06-04,1915-06-04,1,0,0,0,0,0,0,0,0,0,0,0
-1915,Blue Ridge League,STRZ0707,Stroh,[W.],Chambersburg,1915-06-05,1915-06-05,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Blue Ridge League,STRZ0308,Stroh,,Chambersburg,1915-05-27,1915-06-16,8,0,0,0,0,0,0,0,0,0,8,0
+1915,Blue Ridge League,STRZ0408,Stroh,,Hanover,1915-06-26,1915-08-25,53,0,0,0,0,0,0,0,0,0,52,0
+1915,Blue Ridge League,STRZ0508,Stroh,G.,Chambersburg,1915-06-04,1915-06-05,2,0,1,0,0,1,0,0,0,0,1,0
+1915,Blue Ridge League,STRZ0608,Stroh,W.,Chambersburg,1915-06-04,1915-06-04,1,0,0,0,0,0,0,0,0,0,0,0
+1915,Blue Ridge League,STRZ0708,Stroh,[W.],Chambersburg,1915-06-05,1915-06-05,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Blue Ridge League,STRZ0808,Stroh [Steinbach],,Chambersburg,1915-08-09,1915-08-09,1,0,0,0,0,0,0,0,0,0,1,0
 1915,Blue Ridge League,STNZ0404,Sutton,,Gettysburg,1915-07-01,1915-07-02,2,0,0,0,0,0,2,1,0,2,0,0
 1915,Blue Ridge League,SLZZ0101,Swallow,,Hagerstown,1915-08-10,1915-08-18,3,3,0,0,0,0,0,0,0,0,0,3
 1915,Blue Ridge League,SRTS0101,Swartz,,Gettysburg,1915-07-19,1915-08-26,33,1,0,33,0,0,0,0,0,0,0,1
