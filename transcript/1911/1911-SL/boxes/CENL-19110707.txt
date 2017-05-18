@@ -100,9 +100,9 @@ date: 1911-07-07
 number: 0
 league: Central
 away: Terre Haute
-home: South Bend
+home: South Bend I
 
-South Bend:		ab r h po a e
+South Bend I:		ab r h po a e
 Kroy @ cf:		4 0 0 3 0 0
 Kelly @ ss:		4 1 1 1 3 1
 Koehler @ 2b:	3 1 3 5 2 0
@@ -126,7 +126,7 @@ McDonough @ c:	3 0 2 2 1 1
 Alberts @ p:	2 0 0 1 0 0
 TOTALS:			29 0 4 24 12 2
 
-line: South Bend: 1 0 2 0 0 0 0 0 x - 3
+line: South Bend I: 1 0 2 0 0 0 0 0 x - 3
 line: Terre Haute: 0 0 0 0 0 0 0 0 0 - 0
 
 B_2B: Kohl
@@ -250,9 +250,9 @@ date: 1911-07-08
 number: 0
 league: Central
 away: Evansville
-home: South Bend
+home: South Bend I
 
-South Bend:		ab r h po a e
+South Bend I:		ab r h po a e
 Kroy @ cf:		4 0 1 1 0 0
 Kelly @ ss:		4 0 0 1 3 1
 Koehler @ 2b:	3 0 0 4 3 0
@@ -276,7 +276,7 @@ O'Brien @ c:	4 1 1 3 0 1
 Withers @ p:	3 2 1 1 2 0
 TOTALS:			33 7 6 27 13 3
 
-line: South Bend: 0 0 0 2 0 0 0 0 0 - 2
+line: South Bend I: 0 0 0 2 0 0 0 0 0 - 2
 line: Evansville: 0 0 5 0 0 0 2 0 0 - 7
 
 B_SB: Koehler
@@ -313,7 +313,7 @@ Terre Haute:	ab r h po a e
 Mahoney @ ss:	4 0 0 2 1 0
 Kohl @ 3b:		4 0 0 0 2 0
 Somerlot @ 1b:	3 0 0 9 0 0
-B. Bates @ rf:	3 0 1 2 0 0
+Bates, B. @ rf:	3 0 1 2 0 0
 Barkwell @ 2b:	3 1 2 2 1 0
 Hartford @ lf:	3 0 1 2 0 0
 Grogan @ cf:	3 0 1 1 0 0
@@ -551,9 +551,9 @@ date: 1911-07-09
 number: 0
 league: Central
 away: Evansville
-home: South Bend
+home: South Bend I
 
-South Bend:		ab r h po a e
+South Bend I:		ab r h po a e
 Kroy @ cf:		4 0 0 1 0 0
 Kelly @ ss:		4 1 1 1 4 0
 Koehler @ 2b:	4 2 2 4 4 0
@@ -579,7 +579,7 @@ Markham @ p:	2 0 0 0 1 0
 Sterzer @ p:	2 0 0 0 0 0
 TOTALS:			37 3 11 24 15 6
 
-line: South Bend: 0 2 4 0 0 0 0 1 x - 7
+line: South Bend I: 0 2 4 0 0 0 0 1 x - 7
 line: Evansville: 0 1 0 0 2 0 0 0 0 - 3
 
 B_SB: Kelly
@@ -695,9 +695,9 @@ date: 1911-07-10
 number: 0
 league: Central
 away: Evansville
-home: South Bend
+home: South Bend I
 
-South Bend:		ab r h po a e
+South Bend I:		ab r h po a e
 Kroy @ cf:		4 0 0 2 1 1 
 Kelly @ ss:		4 0 2 2 5 0
 Koehler @ 2b:	3 0 0 3 3 0
@@ -724,7 +724,7 @@ O'Brien @ c:	4 0 0 6 0 0
 Cantwell @ p:	3 0 0 0 3 0
 TOTALS:			29 3 7 27 13 1
 
-line: South Bend: 0 0 0 0 0 0 0 0 0 - 0
+line: South Bend I: 0 0 0 0 0 0 0 0 0 - 0
 line: Evansville: 0 0 0 2 1 0 0 0 0 - 3
 
 B_2B: Byrnes
@@ -788,9 +788,9 @@ date: 1911-07-11
 number: 0
 league: Central
 away: Fort Wayne
-home: South Bend
+home: South Bend I
 
-South Bend:		ab r h po a e
+South Bend I:		ab r h po a e
 Kroy @ cf:		3 1 0 0 0 0 
 Kelly @ ss:		1 0 0 4 5 1
 Koehler @ 2b:	3 0 0 5 1 0
@@ -817,7 +817,7 @@ TOTALS:			34 0 6 24 15 3
 
 *: Batted for Alberts in 9th
 
-line: South Bend: 1 0 0 0 1 0 0 0 x - 2
+line: South Bend I: 1 0 0 0 1 0 0 0 x - 2
 line: Fort Wayne: 0 0 0 0 0 0 0 0 0 - 0
 
 B_SH: Kelly
@@ -1029,9 +1029,9 @@ date: 1911-07-12
 number: 0
 league: Central
 away: Fort Wayne
-home: South Bend
+home: South Bend I
 
-South Bend:		ab r h po a e
+South Bend I:		ab r h po a e
 Kroy @ cf:		5 0 0 2 0 0
 Kelly @ ss:		2 0 1 1 0 0
 Koeh'r @ ss-2b:	5 0 1 1 4 0
@@ -1057,7 +1057,7 @@ Onslow @ c:		5 0 1 10 2 0
 Hardin @ p:		5 1 1 0 3 0
 TOTALS:			39 4 9 33 9 2
 
-line: South Bend: 0 1 0 0 0 0 0 1 0 0 0 - 2
+line: South Bend I: 0 1 0 0 0 0 0 1 0 0 0 - 2
 line: Fort Wayne: 0 0 0 1 0 0 0 1 0 0 2 - 4
 
 P_H: Martin #6; Lindsay #3
@@ -1179,9 +1179,9 @@ date: 1911-07-13
 number: 0
 league: Central
 away: Fort Wayne
-home: South Bend
+home: South Bend I
 
-South Bend:		ab r h po a e
+South Bend I:		ab r h po a e
 Kroy @ cf:		3 1 1 2 0 0
 Schmick @ 1b:	2 1 1 8 0 1
 Koehler @ 2b:	2 1 0 3 6 0
@@ -1208,7 +1208,7 @@ TOTALS:			33 4 7 24 12 2
 
 *: Batted for Pfeffer in 9th
 
-line: South Bend: 1 3 0 0 0 0 0 4 x - 8
+line: South Bend I: 1 3 0 0 0 0 0 4 x - 8
 line: Fort Wayne: 0 0 0 0 0 0 3 0 1 - 4
 
 B_2B: Schmick; Core; Geier; Vandergrift
@@ -1370,9 +1370,9 @@ date: 1911-07-14
 number: 0
 league: Central
 away: Dayton
-home: Grand Rapids
+home: Grand Rapids II
 
-Grand Rapids:	ab r h po a e
+Grand Rapids II:	ab r h po a e
 Kroy @ cf:		1 3 1 4 0 0
 Schmick @ 1b:	6 1 4 13 0 0
 Koehler @ 2b:	2 1 1 7 4 0
@@ -1399,7 +1399,7 @@ TOTALS:			38 6 9 31 14 1
 
 note: One out when winning run was scored
 
-line: Grand Rapids: 2 0 3 1 0 0 0 0 0 0 1 - 7
+line: Grand Rapids II: 2 0 3 1 0 0 0 0 0 0 1 - 7
 line: Dayton: 1 0 1 2 0 0 0 2 0 0 0 - 6
 
 P_H: Winchell #6
@@ -1412,7 +1412,7 @@ F_DP: Wetzel, Koehler, Schmick; Benson, Dobard, Cameron; Asher, Dobard, Cameron
 B_SB: Dobard #2
 B_SH: Koehler; Holmes; Kirkpatrick
 B_SF: Wheeler; Spencer
-B_LOB: Grand Rapids #9; Dayton #3
+B_LOB: Grand Rapids II #9; Dayton #3
 P_HP: Myers #1; Asher #1
 F_PB: Holmes
 T: 2:25

@@ -151,10 +151,10 @@ U: Cleary
 date: 1911-07-29
 number: 0
 league: Central
-away: Grand Rapids
+away: Grand Rapids II
 home: Dayton
 
-Grand Rapids:	ab r h po a e
+Grand Rapids II:	ab r h po a e
 Kroy @ cf:		2 1 0 0 0 0
 Schmick @ 1b:	4 0 1 10 0 0
 Koehler @ 2b:	3 1 0 3 2 0
@@ -178,7 +178,7 @@ Rohrer @ c:		1 0 0 4 1 0
 Winchell @ p:	3 0 0 0 3 1
 TOTALS:			29 3 6 27 13 3
 
-line: Grand Rapids: 2 0 0 0 0 0 0 0 0 - 2
+line: Grand Rapids II: 2 0 0 0 0 0 0 0 0 - 2
 line: Dayton: 0 0 3 0 0 0 0 0 x - 3
 
 B_2B: Spencer
@@ -251,10 +251,10 @@ U: Groeschow
 date: 1911-07-30
 number: 1
 league: Central
-away: Grand Rapids
+away: Grand Rapids II
 home: Dayton
 
-Grand Rapids:	ab r h po a e
+Grand Rapids II:	ab r h po a e
 Kroy @ cf:		4 0 1 1 0 0
 Schmick @ 1b:	3 0 0 8 2 1
 Koehler @ 2b:	4 1 1 5 1 2
@@ -278,7 +278,7 @@ Rohrer @ c:		3 0 0 6 0 0
 Sommers @ p:	3 0 0 1 5 1
 TOTALS:			27 4 7 27 15 1
 
-line: Grand Rapids: 0 0 0 0 0 0 3 0 0 - 3
+line: Grand Rapids II: 0 0 0 0 0 0 3 0 0 - 3
 line: Dayton: 1 1 0 1 0 0 1 0 x - 4
 
 B_2B: Wheeler #2
@@ -296,10 +296,10 @@ T: 1:47
 date: 1911-07-30
 number: 2
 league: Central
-away: Grand Rapids
+away: Grand Rapids II
 home: Dayton
 
-Grand Rapids:	ab r h po a e
+Grand Rapids II:	ab r h po a e
 Kroy @ cf:		3 0 1 2 0 1
 Schmick @ 1b:	2 0 0 9 1 0
 Koehler @ 2b:	3 0 1 2 4 0
@@ -323,7 +323,7 @@ Rohrer @ c:		2 1 2 5 0 0
 Compton @ p:	1 1 0 0 2 0
 TOTALS:			20 5 5 21 8 0
 
-line: Grand Rapids: 0 0 0 0 0 0 - 0
+line: Grand Rapids II: 0 0 0 0 0 0 - 0
 line: Dayton: 0 0 5 0 0 0 x - 5
 
 B_3B: Dobard; Koehler
@@ -633,7 +633,7 @@ U: Cleary
 date: 1911-07-31
 number: 0
 league: Central
-away: Grand Rapids
+away: Grand Rapids II
 home: Dayton
 
 Dayton:			ab r h po a e
@@ -651,7 +651,7 @@ Otey @ p:		4 1 1 1 1 0
 Olmstead @ p:	1 0 0 0 0 0
 TOTALS:			43 13 16 27 14 2
 
-Grand Rapids:	ab r h po a e
+Grand Rapids II:	ab r h po a e
 Kroy @ cf:		2 1 0 3 0 0
 Schmick @ 1b:	5 0 0 14 1 0
 Koehler @ 2b:	4 0 1 1 2 1
@@ -664,7 +664,7 @@ Essick @ p:		3 0 0 1 3 0
 TOTALS:			29 1 3 24 16 4
 
 line: Dayton: 0 1 5 2 2 2 1 0 x - 13
-line: Grand Rapids: 0 0 0 0 0 1 0 0 0 - 1
+line: Grand Rapids II: 0 0 0 0 0 1 0 0 0 - 1
 
 B_2B: Spencer
 B_3B: Dehaven; Cameron
@@ -734,7 +734,7 @@ date: 1911-08-01
 number: 0
 league: Central
 away: Zanesville
-home: Grand Rapids
+home: Grand Rapids II
 status: postponed
 status-reason: rain
 
@@ -744,9 +744,9 @@ date: 1911-08-02
 number: 0
 league: Central
 away: Zanesville
-home: Grand Rapids
+home: Grand Rapids II
 
-Grand Rapids:	ab r h po a e
+Grand Rapids II:	ab r h po a e
 Kroy @ cf:		7 2 2 4 1 0
 Schmick @ 1b:	8 0 1 16 0 0 
 Koehler @ 2b:	7 0 0 8 4 0
@@ -777,7 +777,7 @@ TOTALS:			55 1 12 53 23 1
 *: Batted for Blake in 8th
 note: Two out when winning run scored
 
-line: Grand Rapids: 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 - 2
+line: Grand Rapids II: 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 - 2
 line: Zanesville: 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 - 1
 
 B_3B: Kelly
@@ -789,7 +789,7 @@ B_SB: Geier; Crowder; Hillinger; Welch; Raidy
 B_SH: Hillinger; Farrell; Ragsdale; Raidy; Stremmel
 B_SF: Wratten
 P_HP: Stremmel #1; Smith #1
-B_LOB: Grand Rapids #11; Zanesville #12
+B_LOB: Grand Rapids II #11; Zanesville #12
 T: 3:30
 U: Egan
 
@@ -908,9 +908,9 @@ date: 1911-08-03
 number: 1
 league: Central
 away: Zanesville
-home: Grand Rapids
+home: Grand Rapids II
 
-Grand Rapids:	ab r h po a e
+Grand Rapids II:	ab r h po a e
 Kroy @ cf:		2 2 2 0 0 0
 Schmick @ 1b:	2 0 0 8 0 1
 Koe'r @ 2b-lf:	4 0 1 2 2 0
@@ -936,7 +936,7 @@ Jones @ p:		4 0 1 0 2 0
 Dugger @ cf:	0 0 0 0 0 0
 TOTALS:			34 1 8 24 15 2
 
-line: Grand Rapids: 1 0 0 0 1 2 0 0 x - 4
+line: Grand Rapids II: 1 0 0 0 1 2 0 0 x - 4
 line: Zanesville: 1 0 0 0 0 0 0 0 0 - 1
 
 P_SO: Lindsey #6; Jones #3
@@ -945,7 +945,7 @@ F_DP: Wheeler, Kelly
 B_SB: Kelly #2; Scanlon
 B_SH: Schmick; Wheeler
 P_HP: Lindsey #1; Schmick #1
-B_LOB: Grand Rapids #9; Zanesville #6
+B_LOB: Grand Rapids II #9; Zanesville #6
 T: 1:45
 U: Egan
 
@@ -955,9 +955,9 @@ date: 1911-08-03
 number: 2
 league: Central
 away: Zanesville
-home: Grand Rapids
+home: Grand Rapids II
 
-Grand Rapids:	ab r h po a e
+Grand Rapids II:	ab r h po a e
 Kroy @ cf:		5 0 3 2 1 0
 Schmick @ 1b:	4 2 2 9 1 0
 Koehler @ 2b:	5 1 1 4 3 0
@@ -982,7 +982,7 @@ Schultz @ p:	2 0 0 0 0 0
 Rodgers @ p:	1 0 0 0 1 0
 TOTALS:			35 7 10 27 17 2
 
-line: Grand Rapids: 0 1 2 0 0 1 0 0 1 - 5
+line: Grand Rapids II: 0 1 2 0 0 1 0 0 1 - 5
 line: Zanesville: 1 4 0 1 0 0 0 0 1 - 7
 
 P_H: Schultz #10
@@ -995,7 +995,7 @@ F_DP: Swartling, Crowder
 B_SB: Koehler; Blake #2
 B_SH: Scanlon; Swartling #2
 F_PB: Ragsdale
-B_LOB: Grand Rapids #8; Zanesville #4
+B_LOB: Grand Rapids II #8; Zanesville #4
 T: 1:55
 U: Egan
 
@@ -1062,8 +1062,8 @@ Pendry @ 3b:	3 1 0 2 4 0
 Wickland @ cf:	4 1 2 2 0 0
 Gray @ rf:		4 0 1 2 0 0
 Kihm @ 1b:		3 1 1 8 0 0
-C. Parker @ ss:	2 1 0 1 1 0
-J. Parker @ c:	3 0 0 5 3 0
+Parker, C. @ ss:	2 1 0 1 1 0
+Parker, J. @ c:	3 0 0 5 3 0
 Goldrick @ p:	3 0 0 0 1 0
 TOTALS:			28 4 5 27 12 0
 
@@ -1114,7 +1114,7 @@ Pendry @ 3b:	3 0 1 0 1 0
 Wickland @ cf:	2 1 1 1 0 0
 Gray @ rf:		2 1 0 2 0 0
 Kihm @ 1b:		2 0 0 3 2 0
-C. Parker @ ss:	2 1 1 2 1 0
+Parker, C. @ ss:	2 1 1 2 1 0
 Queisser @ c:	3 1 2 5 1 1
 Werder @ p:		0 0 0 0 0 0
 Gilbert @ p:	2 1 2 1 2 0
@@ -1365,9 +1365,9 @@ date: 1911-08-04
 number: 0
 league: Central
 away: Wheeling
-home: Grand Rapids
+home: Grand Rapids II
 
-Grand Rapids:	ab r h po a e
+Grand Rapids II:	ab r h po a e
 Kroy @ cf:		6 0 2 3 0 0
 Schmick @ 1b:	6 0 0 14 2 0
 Koehler @ 2b:	6 0 1 4 1 0
@@ -1391,7 +1391,7 @@ Welsher @ c:	5 1 2 8 2 0
 Doak @ p:		3 0 0 0 2 1 
 TOTALS:			43 2 8 36 12 3
 
-line: Grand Rapids: 0 0 0 1 0 0 0 0 0 0 0 0 - 1
+line: Grand Rapids II: 0 0 0 1 0 0 0 0 0 0 0 0 - 1
 line: Wheeling: 0 0 0 0 0 0 1 0 0 0 0 1 - 2
 
 B_2B: Servatius; Welsher
@@ -1401,6 +1401,6 @@ F_DP: Servatius, Jewell
 B_SB: Kroy; Core; Kelly
 B_SH: Doak; Geier; Wheeler
 B_HP: Warrender
-B_LOB: Grand Rapids #10; Wheeling #11
+B_LOB: Grand Rapids II #10; Wheeling #11
 T: 2:30
 U: Egan

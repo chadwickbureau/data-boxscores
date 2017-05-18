@@ -56,9 +56,9 @@ date: 1911-07-15
 number: 0
 league: Central
 away: Dayton
-home: Grand Rapids
+home: Grand Rapids II
 
-Grand Rapids:	ab r h po a e
+Grand Rapids II:	ab r h po a e
 Kroy @ cf:		4 0 0 6 1 0
 Schmick @ 1b:	4 0 3 3 0 0 
 *Meyers @ pr:	0 1 0 0 0 0
@@ -85,7 +85,7 @@ Rohrer @ c:		4 0 2 4 0 0
 Summers @ p:	3 0 1 1 3 0
 TOTALS:			33 1 8 24 13 0
 
-line: Grand Rapids: 0 0 0 0 0 3 0 0 x - 3
+line: Grand Rapids II: 0 0 0 0 0 3 0 0 x - 3
 line: Dayton: 0 1 0 0 0 0 0 0 0 - 1
 
 P_SO: Smith #4; Summers #2
@@ -297,9 +297,9 @@ date: 1911-07-16
 number: 0
 league: Central
 away: Dayton
-home: Grand Rapids
+home: Grand Rapids II
 
-Grand Rapids:	ab r h po a e
+Grand Rapids II:	ab r h po a e
 Kroy @ cf:		4 0 1 1 0 0
 Schmick @ 1b:	4 0 3 12 1 1
 Koehler @ 2b:	3 0 1 2 5 1
@@ -320,10 +320,10 @@ Cameron @ 1b:	4 2 0 9 2 0
 Dobard @ ss:	4 0 1 3 2 0
 Wacker @ cf:	4 0 2 2 0 0
 Rhorer @ c:		2 1 1 3 0 0
-Jack Compton @ p:	4 0 1 3 2 1
+Compton, Jack @ p:	4 0 1 3 2 1
 TOTALS:			32 3 8 27 12 1
 
-line: Grand Rapids: 0 0 0 0 0 0 2 0 0 - 2
+line: Grand Rapids II: 0 0 0 0 0 0 2 0 0 - 2
 line: Dayton: 0 0 0 0 0 0 1 0 2 - 3
 
 B_3B: Holmes
@@ -333,7 +333,7 @@ P_BB: Jack Compton #2
 F_DP: Wetzel, Schmick
 B_SH: Koehler; Benson; Dehaven; Rhorer
 P_HP: Essick #1; Jack Compton #1
-B_LOB: Grand Rapids #11; Dayton #5
+B_LOB: Grand Rapids II #11; Dayton #5
 T: 1:35
 U: Cleary
 
@@ -462,7 +462,7 @@ Keener @ lf:	3 0 1 0 0 0
 Casey @ 3b:		3 0 0 0 1 0
 Vandagrift @ 2b:	4 0 1 1 2 0
 Onslow @ c:		4 0 1 10 1 0
-Fred Pfeffer @ p:	4 1 1 0 2 0
+Pfeffer, Fred @ p:	4 1 1 0 2 0
 TOTALS:			32 3 9 27 10 0
 
 line: Dayton: 0 0 0 0 0 0 2 0 0 - 2
@@ -487,9 +487,9 @@ date: 1911-07-17
 number: 0
 league: Central
 away: Newark
-home: Grand Rapids
+home: Grand Rapids II
 
-Grand Rapids:	ab r h po a e
+Grand Rapids II:	ab r h po a e
 Kroy @ cf:		1 3 0 0 0 0
 Schmick @ 1b:	5 0 1 12 2 0
 *Essick @ pr:	0 1 0 0 0 0
@@ -524,7 +524,7 @@ TOTALS:			35 11 16 27 16 0
 +: Batted for Lindsay
 ^: Batted for Werder
 
-line: Grand Rapids: 1 1 0 5 0 3 0 0 0 - 10
+line: Grand Rapids II: 1 1 0 5 0 3 0 0 0 - 10
 line: Newark: 0 0 0 3 3 5 0 0 0 - 11
 
 P_H: Lindsay #9; Martin #5; Meyers #2; Werder #3; Gilbert #6; Hale #3
@@ -538,7 +538,7 @@ B_SB: Kroy; Core; Pendry
 B_SH: Schmick; Holmes; Pendry; J. Parker #2
 P_HP: Lindsay #2; Gilbert #1
 P_WP: Werder; Hale
-B_LOB: Grand Rapids #10; Newark #7
+B_LOB: Grand Rapids II #10; Newark #7
 T: 2:20
 U: Cleary
 
@@ -747,7 +747,7 @@ Dehaven @ lf:	4 2 3 3 0 0
 Cameron @ 1b:	4 0 0 10 0 0
 Dobard @ ss:	4 2 2 1 3 1
 Konnick @ c:	4 2 3 7 0 0
-Bill Otey @ p:	3 0 0 0 3 0
+Otey, Bill @ p:	3 0 0 0 3 0
 TOTALS:			32 9 15 27 9 1
 
 Fort Wayne:		ab r h po a e
@@ -785,9 +785,9 @@ date: 1911-07-18
 number: 0
 league: Central
 away: Newark
-home: Grand Rapids
+home: Grand Rapids II
 
-Grand Rapids:	ab r h po a e
+Grand Rapids II:	ab r h po a e
 Kroy @ cf:		4 2 0 2 0 0
 Schmick @ 1b:	5 0 1 13 2 0
 Koehler @ 2b:	2 2 1 4 4 0
@@ -812,7 +812,7 @@ Werder @ p:		2 0 1 0 1 0
 Gilbert @ p:	1 0 0 0 0 0
 TOTALS:			35 3 9 24 7 2
 
-line: Grand Rapids: 1 0 1 0 0 6 0 0 x - 8
+line: Grand Rapids II: 1 0 1 0 0 6 0 0 x - 8
 line: Newark: 1 1 0 0 0 1 0 0 0 - 3
 
 P_H: Werder #7
@@ -825,7 +825,7 @@ F_DP: Smith, Holmes, Schmick; Kihm, Ragan, Kihm
 B_SB: Koehler #2; Smith; Wickland #2
 B_SH: Smith; Kihm; Werder
 B_SF: Geier; Queisser
-B_LOB: Grand Rapids #9; Newark #11
+B_LOB: Grand Rapids II #9; Newark #11
 T: 1:55
 U: Cleary
 
@@ -931,9 +931,9 @@ date: 1911-07-19
 number: 0
 league: Central
 away: Newark
-home: Grand Rapids
+home: Grand Rapids II
 
-Grand Rapids:	ab r h po a e
+Grand Rapids II:	ab r h po a e
 Kroy @ cf:		4 0 1 3 1 1
 Schmick @ 1b:	4 1 1 8 1 0
 Koehler @ 2b:	3 0 2 2 2 0
@@ -957,7 +957,7 @@ Martin @ c:		4 0 2 0 3 0
 Goldrick @ p:	3 0 0 0 1 0
 TOTALS:			32 2 6 24 17 1
 
-line: Grand Rapids: 0 2 0 0 0 0 1 1 x - 4
+line: Grand Rapids II: 0 2 0 0 0 0 1 1 x - 4
 line: Newark: 0 0 0 0 0 1 0 0 1 - 2
 
 B_3B: Koehler
@@ -966,7 +966,7 @@ P_BB: Essick #1; Goldrick #2
 B_SB: Schmick; Wetzel; Martin
 B_SH: Pendry #2
 B_SF: Core; Essick
-B_LOB: Grand Rapids #4; Newark #6
+B_LOB: Grand Rapids II #4; Newark #6
 T: 1:35
 U: Cleary
 
@@ -1068,7 +1068,7 @@ U: Groeschow
 date: 1911-07-20
 number: 0
 league: Central
-away: Grand Rapids
+away: Grand Rapids II
 home: Wheeling
 
 Wheeling:		ab r h po a e
@@ -1084,7 +1084,7 @@ Beatty @ p:		4 0 2 1 0 0
 *Collins @ ph:	1 0 0 0 0 0
 TOTALS:			35 4 9 27 8 4
 
-Grand Rapids:	ab r h po a e 
+Grand Rapids II:	ab r h po a e 
 Kroy @ cf:		5 2 1 3 0 0
 Schmick @ 1b:	5 1 2 7 1 0
 Koehler @ 2b:	3 1 1 2 1 1
@@ -1099,7 +1099,7 @@ TOTALS:			33 6 9 27 11 4
 
 *: Batted for Sager in 9th
 
-line: Grand Rapids: 2 0 1 0 2 0 1 0 0 - 6
+line: Grand Rapids II: 2 0 1 0 2 0 1 0 0 - 6
 line: Wheeling: 0 0 0 1 1 1 0 1 0 - 4
 
 B_2B: Meyers; Wheeler; Servatius
@@ -1114,7 +1114,7 @@ P_WP: Meyers
 P_BB: Meyers #5; Beatty #4
 P_SO: Meyers #4; Beatty #3
 F_DP: Wheeler, Schmick; Welsher, Murray
-B_LOB: Grand Rapids #5; Wheeling #10
+B_LOB: Grand Rapids II #5; Wheeling #10
 T: 2:00
 U: Newhouse
 
@@ -1222,7 +1222,7 @@ U: Groeschow
 date: 1911-07-21
 number: 0
 league: Central
-away: Grand Rapids
+away: Grand Rapids II
 home: Wheeling
 
 Wheeling:		ab r h po a e 
@@ -1240,7 +1240,7 @@ TOTALS:			32 5 7 27 13 8
 
 *: Ran for Montgomery in 4th
 
-Grand Rapids:	ab r h po a e
+Grand Rapids II:	ab r h po a e
 Kroy @ cf:		5 1 2 3 0 0
 Schmick @ 1b:	5 0 1 14 0 0
 Koehler @ 2b:	3 0 0 4 3 0
@@ -1252,7 +1252,7 @@ Holmes @ c:		3 1 0 2 2 2
 Lindsay @ p:	3 2 0 0 0 0
 TOTALS:			37 8 7 27 14 2
 
-line: Grand Rapids: 0 0 0 0 2 5 1 0 0 - 8
+line: Grand Rapids II: 0 0 0 0 2 5 1 0 0 - 8
 line: Wheeling: 0 0 2 1 2 0 0 0 0 - 5
 
 B_2B: Welsher; Wetzel; Kroy
@@ -1264,7 +1264,7 @@ P_BB: Lindsay #4; Graham #2
 P_SO: Graham #3
 P_HP: Graham #1
 F_DP: Wheeler, Schmick
-B_LOB: Grand Rapids #9; Wheeling #6
+B_LOB: Grand Rapids II #9; Wheeling #6
 T: 1:45
 U: Newhouse
 

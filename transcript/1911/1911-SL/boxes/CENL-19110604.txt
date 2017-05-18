@@ -137,10 +137,10 @@ U: Jacobs
 date: 1911-06-04
 number: 0
 league: Central
-away: Grand Rapids
-home: South Bend
+away: Grand Rapids I
+home: South Bend I
 
-South Bend: 	ab r h po a e
+South Bend I: 	ab r h po a e
 Kroy @ cf:		4 1 2 1 0 0
 Schmick @ 1b:	4 0 1 8 1 0
 Koehler @ 2b:	2 0 1 5 1 0
@@ -149,10 +149,10 @@ Kelly @ ss:		3 0 1 2 2 2
 Wetzel @ 3b:	4 0 1 0 1 0
 Hall @ rf:		2 2 0 3 0 0
 Holmes @ c:		1 2 1 2 2 0
-John Henry Myers @ p:	2 0 1 1 7 0
+Myers, John Henry @ p:	2 0 1 1 7 0
 TOTALS:			26 5 10 27 14 4
 
-Grand Rapids:	ab r h po a e
+Grand Rapids I:	ab r h po a e
 Ragan @ ss:		3 0 0 2 1 0
 Murray @ 2b:	3 0 0 2 4 0
 Core @ lf:		4 0 2 4 1 0
@@ -160,12 +160,12 @@ Wickland @ cf:	3 0 0 1 0 0
 Pendry @ 3b:	4 0 0 2 4 0
 Gray @ rf:		3 0 0 0 0 0
 Kihm @ 1b:		4 1 2 10 1 0
-J. Parker @ c:	3 0 1 3 2 1
+Parker, J. @ c:	3 0 1 3 2 1
 Bemis @ p:		3 0 0 0 3 0
 TOTALS:			30 1 5 24 16 1
 
-line: Grand Rapids: 0 0 0 0 0 0 1 0 0 - 1
-line: South Bend: 0 0 1 0 2 0 2 0 x - 5
+line: Grand Rapids I: 0 0 0 0 0 0 1 0 0 - 1
+line: South Bend I: 0 0 1 0 2 0 2 0 x - 5
 
 B_SH: Murray; Kelly; John Henry Myers; Koehler
 B_SB: Holmes #2; Kroy
@@ -231,7 +231,7 @@ U: Cleary
 date: 1911-06-05
 number: 0
 league: Central
-away: Grand Rapids
+away: Grand Rapids I
 home: Fort Wayne
 
 Fort Wayne:		ab r h po a e
@@ -247,7 +247,7 @@ Whittaker @ p:	3 0 0 0 3 0
 *Corns @ ph:	0 0 0 0 0 0
 TOTALS:			30 1 6 27 20 1
 
-Grand Rapids:	ab r h po a e
+Grand Rapids I:	ab r h po a e
 Ragan @ 3b:		4 0 2 1 3 1
 Murray @ 2b:	3 0 0 2 3 0
 Core @ lf:		3 1 1 1 0 0
@@ -262,7 +262,7 @@ TOTALS:			31 2 10 27 12 2
 *: Batted for Whittaker in 9th
 
 line: Fort Wayne: 0 0 0 1 0 0 0 0 0 - 0
-line: Grand Rapids: 0 0 0 0 1 0 0 1 0 - 2
+line: Grand Rapids I: 0 0 0 0 1 0 0 1 0 - 2
 
 B_SB: Blount
 B_SH: Keener; Murray; Young; McDonough
@@ -271,7 +271,7 @@ P_SO: Goldrick #5
 P_BB: Whittaker #2; Goldrick #5
 P_HP: Goldrick #1
 F_DP: Justice, Vandergrift, Clancy; Goldrick, McDonough, Kihm
-B_LOB: Fort Wayne #7; Grand Rapids #7
+B_LOB: Fort Wayne #7; Grand Rapids I #7
 T: 1:30
 U: Groeschow
 
@@ -281,9 +281,9 @@ date: 1911-06-05
 number: 0
 league: Central
 away: Dayton
-home: South Bend
+home: South Bend I
 
-South Bend:		ab r h po a e
+South Bend I:		ab r h po a e
 Kroy @ cf:		4 0 0 1 1 0
 Schmick @ 1b:	4 0 0 10 0 1
 Koehler @ 2b:	4 0 0 3 3 1
@@ -307,7 +307,7 @@ Konnick @ c:	4 2 4 4 0 0
 Summers @ p:	5 0 0 0 2 0
 TOTALS:			42 7 13 27 13 0
 
-line: South Bend: 0 2 0 0 0 0 0 0 0 - 2
+line: South Bend I: 0 2 0 0 0 0 0 0 0 - 2
 line: Dayton: 0 0 0 1 3 0 0 2 1 - 7
 
 B_SB: Knoll
@@ -383,7 +383,7 @@ date: 1911-06-06
 number: 0
 league: Central
 away: Dayton
-home: South Bend
+home: South Bend I
 
 Dayton:			ab r h po a e
 Kirkpatrick @ 3b:	3 1 1 3 3 1
@@ -397,7 +397,7 @@ Konnick @ c:	3 0 0 7 1 0
 Winchell @ p:	4 1 1 0 1 0
 TOTALS:			31 3 8 27 9 3
 
-South Bend:		ab r h po a e
+South Bend I:		ab r h po a e
 Kroy @ cf:		3 0 0 0 0 0
 Schmick @ 1b:	4 0 1 15 2 1
 Koehler @ 2b:	2 0 0 5 4 1
@@ -413,7 +413,7 @@ TOTALS:			28 2 4 27 21 5
 *: Ran for Martin in 9th
 
 line: Dayton: 0 0 0 0 0 1 1 1 0 - 3
-line: South Bend: 0 1 0 0 0 1 0 0 0 - 2
+line: South Bend I: 0 1 0 0 0 1 0 0 0 - 2
 
 B_2B: Winchell; Benson
 P_SO: Martin #2; Winchell #4
@@ -428,10 +428,10 @@ U: Jacobs
 date: 1911-06-06
 number: 0
 league: Central
-away: Grand Rapids
+away: Grand Rapids I
 home: Fort Wayne
 
-Grand Rapids:	ab r h po a e
+Grand Rapids I:	ab r h po a e
 Ragan @ ss:		4 0 1 0 2 1
 Murray @ 2b:	3 0 0 2 5 0
 Core @ lf-cf:	4 0 1 0 0 0
@@ -457,7 +457,7 @@ Onslow @ c:		2 0 0 3 3 0
 Valliere @ p:	4 0 1 0 3 1
 TOTALS:			32 2 7 30 12 1
 
-line: Grand Rapids: 0 0 0 1 0 0 0 0 0 0 - 1
+line: Grand Rapids I: 0 0 0 1 0 0 0 0 0 0 - 1
 line: Fort Wayne: 0 0 0 0 0 0 0 1 0 1 - 2
 
 B_2B: Casey
@@ -595,13 +595,13 @@ Farrell @ cf:	3 2 2 0 0 0
 Blake @ 2b:		3 1 1 4 5 0
 Raidy @ lf:		5 1 1 1 1 0
 Swartling @ 1b:	3 1 1 17 0 0
-M. O'Brien @ c:	4 1 1 4 2 0
+O'Brien, M. @ c:	4 1 1 4 2 0
 Jones @ p:		4 0 1 1 4 0
 TOTALS:			31 12 10 27 24 2
 
 Evansville:		ab r h po a e
 Wuffli @ 3b:	3 0 0 1 1 1
-T. O'Brien @ c:	4 0 0 6 3 1
+O'Brien, T. @ c:	4 0 0 6 3 1
 Snyder @ cf:	4 0 2 1 0 0
 Byrnes @ lf:	4 0 2 0 1 1
 Grefe @ 1b:		4 1 1 8 2 0
@@ -634,10 +634,10 @@ T: 1:55
 date: 1911-06-07
 number: 0
 league: Central
-away: Grand Rapids
+away: Grand Rapids I
 home: Fort Wayne
 
-Grand Rapids:	ab r h po a e
+Grand Rapids I:	ab r h po a e
 Ragan @ ss:		6 1 1 6 3 0
 Murray @ 2b:	6 1 4 5 4 1
 Core @ rf:		7 1 3 1 0 0
@@ -645,7 +645,7 @@ Wickland @ cf:	4 2 1 8 1 0
 Pendry @ 3b:	7 0 1 1 7 0
 Gray @ lf:		6 0 2 6 0 0
 Kihm @ 1b:		3 0 1 13 0 0
-J. Parker @ c:	7 1 2 1 4 0
+Parker, J. @ c:	7 1 2 1 4 0
 Hale @ p:		5 1 1 1 2 1
 TOTALS:			51 7 16 42 21 2
 
@@ -665,7 +665,7 @@ TOTALS:			41 2 10 42 24 2
 
 *: Batted for Werder in 14th
 
-line: Grand Rapids: 0 0 0 0 0 0 1 1 0 0 0 0 0 5 - 7
+line: Grand Rapids I: 0 0 0 0 0 0 1 1 0 0 0 0 0 5 - 7
 line: Fort Wayne: 0 1 1 0 0 0 0 0 0 0 0 0 0 0 - 2
 
 B_2B: Blount
@@ -686,7 +686,7 @@ date: 1911-06-07
 number: 0
 league: Central
 away: Dayton
-home: South Bend
+home: South Bend I
 
 Dayton:			ab r h po a e
 Kirkpa'k @ 3b:	4 0 0 1 0 0
@@ -700,7 +700,7 @@ Konnick @ c:	3 0 0 3 1 0
 Wacker @ p:		2 0 0 1 3 0
 TOTALS:			30 1 5 24 12 2
 
-South Bend:		ab r h po a e
+South Bend I:		ab r h po a e
 Kroy @ cf:		4 0 0 1 0 0
 Schmick @ 1b:	3 0 0 16 1 0
 Koehler @ 2b:	3 1 1 3 3 0
@@ -713,7 +713,7 @@ Essick @ p:		3 0 0 0 3 0
 TOTALS:			27 2 3 27 16 1
 
 line: Dayton: 0 0 0 0 0 0 1 0 0 - 1
-line: South Bend: 0 0 0 1 1 0 0 0 x - 2
+line: South Bend I: 0 0 0 1 1 0 0 0 x - 2
 
 B_2B: Koehler
 P_SO: Wacker #3; Essick #6
@@ -833,9 +833,9 @@ date: 1911-06-08
 number: 0
 league: Central
 away: Dayton
-home: South Bend
+home: South Bend I
 
-South Bend:		ab r h po a e
+South Bend I:		ab r h po a e
 Kroy @ cf:		3 0 2 4 0 0
 Schmick @ 1b:	4 0 0 8 0 0
 Koehler @ 2b:	4 0 0 5 2 0
@@ -859,7 +859,7 @@ Konnick @ c:	2 0 0 7 1 0
 Compton @ p:	3 0 0 1 3 1
 TOTALS:			30 2 7 27 15 1
 
-line: South Bend: 0 0 0 0 0 0 0 0 0 - 0
+line: South Bend I: 0 0 0 0 0 0 0 0 0 - 0
 line: Dayton: 0 1 1 0 0 0 0 0 0 - 2
 
 B_SH: Dehaven; Konnick
@@ -875,10 +875,10 @@ U: Jacobs
 date: 1911-06-08
 number: 0
 league: Central
-away: Grand Rapids
+away: Grand Rapids I
 home: Fort Wayne
 
-Grand Rapids:	ab r h po a e
+Grand Rapids I:	ab r h po a e
 Ragan @ ss:		4 0 1 2 5 0
 Murray @ 2b:	4 0 0 5 2 0
 Core @ rf:		5 0 2 0 0 0 
@@ -902,7 +902,7 @@ Onslow @ c:		4 1 2 4 1 0
 Corns @ p:		4 0 0 0 3 0
 TOTALS:			32 7 12 27 10 2
 
-line: Grand Rapids: 0 0 0 0 0 0 0 0 0 - 0
+line: Grand Rapids I: 0 0 0 0 0 0 0 0 0 - 0
 line: Fort Wayne: 0 0 0 1 0 0 5 1 x - 7
 
 B_HR: Young
@@ -943,7 +943,7 @@ Grefe @ 1b:		3 1 2 12 1 0
 Donovan @ rf:	3 0 1 1 0 0
 Hadley @ ss:	2 1 0 1 4 0
 Tieman @ c:		3 1 0 4 1 1 
-Jack Taylor @ p:	4 1 1 0 3 0
+Taylor, Jack @ p:	4 1 1 0 3 0
 TOTALS:			33 6 10 27 14 1
 
 line: Zanesville: 1 0 0 0 0 1 1 0 0 - 3
@@ -1016,9 +1016,9 @@ date: 1911-06-09
 number: 0
 league: Central
 away: Fort Wayne
-home: South Bend
+home: South Bend I
 
-South Bend:		ab r h po a e
+South Bend I:		ab r h po a e
 Kroy @ cf:		4 0 0 3 0 1
 Schmick @ 1b:	4 0 0 14 0 0
 Koehler @ 2b:	3 1 1 0 5 0
@@ -1042,7 +1042,7 @@ Onslow @ c:		3 0 0 7 1 0
 Harden @ p:		3 0 1 0 0 0
 TOTALS:			32 0 5 24 5 2
 
-line: South Bend: 0 0 0 0 0 3 0 0 x - 3
+line: South Bend I: 0 0 0 0 0 3 0 0 x - 3
 line: Fort Wayne: 0 0 0 0 0 0 0 0 0 - 0
 
 B_SB: Koehler; Wetzel
@@ -1104,7 +1104,7 @@ date: 1911-06-09
 number: 0
 league: Central
 away: Dayton
-home: Grand Rapids
+home: Grand Rapids I
 status: postponed
 note: Postponed due to rain
 
@@ -1113,7 +1113,7 @@ note: Postponed due to rain
 date: 1911-06-10
 number: 0
 league: Central
-away: Grand Rapids
+away: Grand Rapids I
 home: Dayton
 
 Dayton:			ab r h po a e
@@ -1128,7 +1128,7 @@ Sample @ c:		3 1 0 5 2 0
 Asher @ p:		3 0 0 0 4 0
 TOTALS:			28 5 7 27 10 1
 
-Grand Rapids:	ab r h po a e
+Grand Rapids I:	ab r h po a e
 Ragan @ ss:		3 0 0 2 6 0
 Murray @ 2b:	3 0 0 3 2 0
 Core @ lf:		4 0 1 1 0 0
@@ -1136,7 +1136,7 @@ Wickland @ cf:	4 1 1 2 0 0
 Pendry @ 3b:	4 0 1 1 1 0
 Gray @ rf:		3 1 1 3 0 0
 Kilrain @ 1b:	3 0 1 11 0 0 
-J. Parker @ c:	4 0 0 1 1 1 
+Parker, J. @ c:	4 0 0 1 1 1 
 Riley @ p:		2 1 1 0 3 0
 *McDonough @ ph:	1 0 0 0 0 0
 TOTALS:			31 3 6 24 13 1
@@ -1144,7 +1144,7 @@ TOTALS:			31 3 6 24 13 1
 note: McDonough appearance not explained in box
 
 line: Dayton: 0 1 0 2 2 0 0 0 x - 5
-line: Grand Rapids: 1 0 1 0 0 0 0 1 0 - 3
+line: Grand Rapids I: 1 0 1 0 0 0 0 1 0 - 3
 
 B_2B: Core
 B_3B: Dehaven; Gray
@@ -1265,9 +1265,9 @@ date: 1911-06-10
 number: 0
 league: Central
 away: Fort Wayne
-home: South Bend
+home: South Bend I
 
-South Bend:		ab r h po a e
+South Bend I:		ab r h po a e
 Kroy @ cf:		3 1 1 1 0 0
 Schmick @ 1b:	3 1 1 13 0 0
 Koehler @ 2b:	2 1 0 1 3 0
@@ -1292,7 +1292,7 @@ Valliere @ p:	2 0 0 0 1 0
 Corns @ p:		1 1 1 0 0 0 
 TOTALS:			30 3 4 24 9 1
 
-line: South Bend: 0 0 0 1 1 0 0 4 x - 6
+line: South Bend I: 0 0 0 1 1 0 0 4 x - 6
 line: Fort Wayne: 0 0 0 0 1 0 1 0 1 - 3
 
 B_SB: Koehler; Geier; Young

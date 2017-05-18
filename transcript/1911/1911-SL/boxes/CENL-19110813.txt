@@ -1,11 +1,11 @@
 date: 1911-08-13
 number: 0
 league: Central
-away: South Bend
-home: Grand Rapids
+away: South Bend II
+home: Grand Rapids II
 source: Sporting Life, Volume 57, Number 25, Page 19
 
-Grand Rapids:	ab r h po a e
+Grand Rapids II:	ab r h po a e
 Kroy @ cf:		4 0 2 3 0 0
 Schmick @ 1b:	3 0 0 9 0 0
 Barkwell @ rf:	4 0 2 0 0 0
@@ -14,13 +14,13 @@ Koehler @ 2b:	4 0 1 3 2 1
 Kelly @ ss:		3 1 1 4 6 0
 Wheeler @ 3b:	4 0 2 3 1 1
 Holmes @ c:		3 0 0 5 3 0
-*Phil Geier @ ph:	1 0 1 0 0 0 
+*Geier, Phil @ ph:	1 0 1 0 0 0 
 Martin @ p:		3 0 0 0 1 0
 TOTALS:			33 1 9 29 13 2
 
 *: Batted for Holmes in 10th
 
-South Bend:		ab r h po a e
+South Bend II:		ab r h po a e
 Hadley @ ss:	5 0 0 2 4 0
 Snyder @ lf:	5 0 2 2 0 0
 Byrnes @ cf:	5 0 4 4 0 0
@@ -35,14 +35,14 @@ TOTALS:			33 0 9 28 12 0
 note: Snyder out, hit by batted ball
 note: One out when winning run scored
 
-line: Grand Rapids: 0 0 0 0 0 0 0 0 0 1 - 1
-line: South Bend: 0 0 0 0 0 0 0 0 0 0 - 0
+line: Grand Rapids II: 0 0 0 0 0 0 0 0 0 1 - 1
+line: South Bend II: 0 0 0 0 0 0 0 0 0 0 - 0
 
 B_2B: Kroy; Byrnes
 P_SO: Martin #3; Cantwell #3
 P_BB: Martin #1
 B_SH: Schmick; Kelly; Grant
-B_LOB: Grand Rapids #4; South Bend #9
+B_LOB: Grand Rapids II #4; South Bend II #9
 T: 1:45
 U: Groeschow
 
@@ -207,8 +207,8 @@ Pendry @ 3b:	2 1 0 2 1 0
 Wickland @ cf:	1 1 0 4 0 0
 Gray @ rf:		3 2 2 1 0 0
 Kihm @ 1b:		2 1 1 4 0 0
-C. Parker @ ss:	2 1 0 1 0 2
-J. Parker @ c:	3 0 0 4 0 0
+Parker, C. @ ss:	2 1 0 1 0 2
+Parker, J. @ c:	3 0 0 4 0 0
 Gilbert @ p:	3 0 0 0 2 0
 TOTALS:			21 9 6 21 3 4
 
@@ -289,7 +289,7 @@ U: Newhouse
 date: 1911-08-14
 number: 0
 league: Central
-away: Grand Rapids
+away: Grand Rapids II
 home: Newark
 
 Newark:			ab r h po a e
@@ -299,12 +299,12 @@ Pendry @ 3b:	4 0 0 2 0 0
 Wickland @ cf:	4 1 1 2 0 0
 Gray @ rf:		3 2 2 1 0 0
 Kihm @ 1b:		4 0 1 6 0 0
-C. Parker @ ss:	4 1 2 2 2 0
+Parker, C. @ ss:	4 1 2 2 2 0
 Martin @ c:		2 0 1 10 0 0
 Hale @ p:		3 0 0 0 1 0
 TOTALS:			30 6 9 27 7 0
 
-Grand Rapids:	ab r h po a e
+Grand Rapids II:	ab r h po a e
 Kroy @ cf:		4 0 2 2 0 0
 Schmick @ 1b:	5 0 0 5 0 0
 Barkwell @ rf:	4 1 2 2 0 0
@@ -317,9 +317,9 @@ Myers @ p:		4 0 1 0 2 0
 TOTALS:			35 5 11 24 8 1
 
 line: Newark: 2 1 0 1 1 0 0 1 x - 6
-line: Grand Rapids: 0 0 1 1 0 2 0 0 1-  5
+line: Grand Rapids II: 0 0 1 1 0 2 0 0 1-  5
 
-B_ER: Newark #4; Grand Rapids #2
+B_ER: Newark #4; Grand Rapids II #2
 B_2B: Gray; Barkwell #2; Holmes
 B_3B: Craven
 B_HR: Wickland; Gray
@@ -339,9 +339,9 @@ date: 1911-08-14
 number: 0
 league: Central
 away: Terre Haute
-home: South Bend
+home: South Bend II
 
-South Bend:		ab r h po a e
+South Bend II:		ab r h po a e
 Hadley @ ss:	3 0 1 2 2 1
 Snyder @ lf:	3 0 0 2 0 0
 Byrnes @ cf:	4 0 0 1 0 0
@@ -349,7 +349,7 @@ Grefe @ 1b:		4 0 1 9 0 0
 Donovan @ rf:	4 1 1 3 1 0
 Wuffli @ 3b:	3 0 1 1 2 0
 Grant @ 2b:		1 2 0 2 3 0
-G. O'Brien @ c:	3 0 0 7 4 0
+O'Brien, G. @ c:	3 0 0 7 4 0
 Withers @ p:	1 0 0 0 2 0
 TOTALS:			26 3 4 27 14 1
 
@@ -361,11 +361,11 @@ Nee @ ss:		3 0 0 4 2 0
 Bates @ rf:		4 0 2 1 1 1
 Wetzel @ 3b:	3 0 0 1 0 0
 Quiesser @ 2b:	2 0 1 1 1 2
-M. O'Brien @ c:	2 0 0 6 1 0
+O'Brien, M. @ c:	2 0 0 6 1 0
 Pattison @ p:	3 0 0 1 1 1
 TOTALS:			29 0 5 24 7 4
 
-line: South Bend: 0 0 0 2 0 0 1 0 x - 3
+line: South Bend II: 0 0 0 2 0 0 1 0 x - 3
 line: Terre Haute: 0 0 0 0 0 0 0 0 0 - 0
 
 B_SH: Grant #2; Wuffli; Withers; Wetzel
@@ -473,9 +473,9 @@ date: 1911-08-15
 number: 0
 league: Central
 away: Terre Haute
-home: South Bend
+home: South Bend II
 
-South Bend:		ab r h po a e
+South Bend II:		ab r h po a e
 Hadley @ ss:	4 1 1 0 0 1
 Snyder @ lf:	5 0 1 2 0 0
 Byrnes @ cf:	4 0 2 5 0 0
@@ -497,11 +497,11 @@ Nee @ ss:		3 1 0 3 4 1
 Bates @ cf:		4 0 0 1 0 0
 Wetzel @ 3b:	4 1 1 3 2 0
 Queisser @ 2b:	4 2 2 3 2 1
-M. O'Brien @ c:	4 0 1 3 0 0
+O'Brien, M. @ c:	4 0 1 3 0 0
 Smith @ p:		4 0 0 0 2 0
 TOTALS:			34 7 7 27 11 2
 
-line: South Bend: 0 0 0 0 0 0 1 0 0 - 1
+line: South Bend II: 0 0 0 0 0 0 1 0 0 - 1
 line: Terre Haute: 0 1 5 0 0 0 1 0 0 - 7
 
 P_H: Whittaker #5; Sterzer #2
@@ -520,7 +520,7 @@ U: Egan
 date: 1911-08-15
 number: 0
 league: Central
-away: Grand Rapids
+away: Grand Rapids II
 home: Newark
 note: Played in very muddy conditions
 
@@ -531,12 +531,12 @@ Pendry @ 3b:	4 0 0 1 9 0
 Wickland @ cf:	3 0 2 2 0 0
 Gray @ rf:		3 0 0 1 0 0
 Kihm @ 1b:		4 2 3 12 0 0
-C. Parker @ ss:	3 1 2 1 3 0
-J. Parker @ c:		3 0 0 7 1 0
+Parker, C. @ ss:	3 1 2 1 3 0
+Parker, J. @ c:		3 0 0 7 1 0
 Goldrick @ p:	3 0 2 0 0 1
 TOTALS:			30 4 12 27 15 1
 
-Grand Rapids:	ab r h po a e
+Grand Rapids II:	ab r h po a e
 Kroy @ cf:		3 1 0 1 0 0
 Schmick @ 1b:	4 1 2 5 1 0
 Barkwell @ rf:	2 1 0 1 0 0
@@ -549,9 +549,9 @@ Lindsey @ p:	4 0 2 1 2 0
 TOTALS:			34 3 9 24 14 0
 
 line: Newark: 0 0 1 0 0 2 0 1 x - 4
-line: Grand Rapids: 1 0 2 0 0 0 0 0 0 - 3
+line: Grand Rapids II: 1 0 2 0 0 0 0 0 0 - 3
 
-B_ER: Newark #3; Grand Rapids #1
+B_ER: Newark #3; Grand Rapids II #1
 B_2B: Goldrick; Kihm; Schmick
 B_3B: Wickland; Kihm
 B_SB: Pendry
@@ -729,10 +729,10 @@ date: 1911-08-16
 number: 0
 league: Central
 away: Terre Haute
-home: South Bend
+home: South Bend II
 note: Called by agreement at end of 6th
 
-South Bend:		ab r h po a e
+South Bend II:		ab r h po a e
 Hadley @ ss:	3 1 2 3 2 0
 Snyder @ lf:	2 0 0 0 0 0 
 Byrnes @ cf:	3 1 1 2 0 0
@@ -756,11 +756,11 @@ Grogan @ lf:	2 0 0 1 0 0
 Wetzel @ 3b:	3 1 1 3 1 0
 Queisser @ 2b:	3 1 1 1 2 0
 Bates @ rf:		3 0 2 0 0 0
-M. O'Brien @ c:	2 1 2 3 1 0
+O'Brien, M. @ c:	2 1 2 3 1 0
 Alberts @ p:	2 1 1 0 0 0 
 TOTALS:			26 6 11 18 8 1
 
-line: South Bend: 2 0 0 0 1 0 - 3
+line: South Bend II: 2 0 0 0 1 0 - 3
 line: Terre Haute: 0 0 2 4 0 0 - 6
 
 B_2B: Hadley; Donovan
@@ -779,7 +779,7 @@ U: Egan
 date: 1911-08-16
 number: 0
 league: Central
-away: Grand Rapids
+away: Grand Rapids II
 home: Newark
 
 Newark:			ab r h po a e
@@ -789,7 +789,7 @@ Pendry @ 3b:	5 1 3 2 3 0
 Wickland @ cf:	3 0 0 2 0 0
 Gray @ rf:		4 0 1 0 1 0
 Kihm @ 1b:		3 1 3 9 0 1
-C. Parker @ ss:	4 1 3 0 2 1
+Parker, C. @ ss:	4 1 3 0 2 1
 Martin @ c:		4 0 0 4 2 0
 Riley @ p:		3 0 0 0 5 0
 *Gilbert @ ph:	1 1 1 0 0 0 
@@ -797,7 +797,7 @@ TOTALS:			36 5 14 27 18 3
 
 *: Batted for Riley in 9th
 
-Grand Rapids:	ab r h po a e
+Grand Rapids II:	ab r h po a e
 Kroy @ cf:		4 2 2 1 0 0
 Schmick @ 1b:	3 1 2 8 0 0
 Barkwell @ rf:	3 0 0 0 0 0
@@ -810,9 +810,9 @@ Essick @ p:		4 1 1 0 2 0
 TOTALS:			36 7 14 27 14 0
 
 line: Newark: 0 0 0 1 0 1 0 0 3 - 5
-line: Grand Rapids: 1 0 0 0 2 0 0 1 3 - 7
+line: Grand Rapids II: 1 0 0 0 2 0 0 1 3 - 7
 
-B_ER: Newark #3; Grand Rapids #3
+B_ER: Newark #3; Grand Rapids II #3
 B_2B: Kroy #2; Wheeler; Koehler; Schmick
 B_HR: Gilbert
 B_SB: Pendry
@@ -831,11 +831,11 @@ U: Cleary
 date: 1911-08-17
 number: 0
 league: Central
-away: Grand Rapids
+away: Grand Rapids II
 home: Terre Haute
 note: Called on account of darkness
 
-Grand Rapids:	ab r h po a e
+Grand Rapids II:	ab r h po a e
 Kroy @ cf:		5 0 2 2 0 0
 Schmick @ 1b:	4 1 1 10 0 0
 Bark'l @ rf-3b:	4 2 2 1 2 0
@@ -861,7 +861,7 @@ Loomis @ p:		1 0 0 0 2 0
 Sullivan @ p:	2 0 1 0 1 0
 TOTALS:			29 0 5 24 11 4
 
-line: Grand Rapids: 3 0 1 1 1 0 0 0 - 6
+line: Grand Rapids II: 3 0 1 1 1 0 0 0 - 6
 line: Terre Haute: 0 0 0 0 0 0 0 0 - 0
 
 B_3B: Kelly
@@ -872,8 +872,8 @@ F_DP: Kelly, Koehler, Schmick
 P_BB: Loomis #1; Sullivan #1
 P_SO: Martin #2; Loomis #3; Sullivan #1
 B_HP: Core
-B_LOB: Grand Rapids #9; Terre Haute #4
-B_ROE: Grand Rapids #3; Terre Haute #1
+B_LOB: Grand Rapids II #9; Terre Haute #4
+B_ROE: Grand Rapids II #3; Terre Haute #1
 T: 1:40
 U: Newhouse
 
@@ -980,9 +980,9 @@ date: 1911-08-17
 number: 0
 league: Central
 away: Newark
-home: South Bend
+home: South Bend II
 
-South Bend:		ab r h po a e
+South Bend II:		ab r h po a e
 Hadley @ 2b:	5 2 2 3 4 0
 Snyder @ lf:	3 0 1 4 0 0
 Byrnes @ cf:	3 2 1 3 0 0
@@ -990,7 +990,7 @@ Taylor @ 3b:	4 0 0 8 4 0
 Donovan @ rf:	4 0 2 2 0 0
 Wuffli @ ss:	4 0 1 1 4 2
 Grefe @ 1b:		4 0 0 1 0 0
-G. O'Brien @ c:	4 1 2 2 1 1
+O'Brien, G. @ c:	4 1 2 2 1 1
 Withers @ p:	4 0 0 3 2 0
 TOTALS:			35 5 9 27 15 3
 
@@ -1001,12 +1001,12 @@ Pendry @ 3b:	3 1 0 2 2 0
 Wickland @ cf:	4 1 1 1 0 0
 Gray @ rf:		4 0 0 0 0 0
 Kihm @ 1b:		3 0 1 11 0 1
-C. Parker @ ss:	3 0 0 1 4 2
+Parker, C. @ ss:	3 0 0 1 4 2
 Martin @ p:		3 0 1 4 1 0
 Gilbert @ p:	3 0 1 0 2 0
 TOTALS:			31 2 24 24 12 4
 
-line: South Bend: 1 0 0 0 2 2 0 x - 5
+line: South Bend II: 1 0 0 0 2 2 0 x - 5
 line: Newark: 0 0 0 1 0 0 0 1 - 2
 
 B_SB: Pendry; Byrnes; Hadley #2; Snyder #2
@@ -1123,9 +1123,9 @@ date: 1911-08-18
 number: 0
 league: Central
 away: Newark
-home: South Bend
+home: South Bend II
 
-South Bend:		ab r h po a e
+South Bend II:		ab r h po a e
 Hadley @ 2b:	1 0 1 3 7 0
 Snyder @ lf:	4 0 1 1 0 0
 Byrnes @ cf:	5 0 0 2 0 0
@@ -1144,12 +1144,12 @@ Pendry @ 3b:	4 0 0 3 3 0
 Wickland @ cf:	4 0 1 1 0 0
 Gray @ rf:		4 1 2 1 0 0
 Kihm @ 1b:		3 0 1 13 3 0
-C. Parker @ ss:	4 0 0 3 4 0
-J. Parker @ c:	4 0 0 2 0 0
+Parker, C. @ ss:	4 0 0 3 4 0
+Parker, J. @ c:	4 0 0 2 0 0
 Bemis @ p:		4 0 1 0 5 1
 TOTALS:			34 4 10 27 17 1
 
-line: South Bend: 0 3 0 0 0 0 0 0 0 - 3
+line: South Bend II: 0 3 0 0 0 0 0 0 0 - 3
 line: Newark: 0 0 0 0 2 1 1 0 0 - 4
 
 B_SH: Kihm; Wuffli; Taylor
@@ -1169,7 +1169,7 @@ U: Egan
 date: 1911-08-18
 number: 0
 league: Central
-away: Grand Rapids
+away: Grand Rapids II
 home: Terre Haute
 
 Terre Haute:	ab r h po a e
@@ -1184,7 +1184,7 @@ O'Brien @ c:	3 0 0 2 2 0
 Pattison @ p:	3 0 2 0 1 0
 TOTALS:         30 0 6 27 14 2
 
-Grand Rapids:	ab r h po a e
+Grand Rapids II:	ab r h po a e
 Kroy @ cf:		3 0 0 5 1 0
 Schmick @ 1b:	4 0 1 8 0 1
 Barkwell @ rf:	3 0 0 0 0 0
@@ -1199,7 +1199,7 @@ TOTALS:			30 2 6 26 13 1
 note: Hartford out, hit by batted ball
 
 line: Terre Haute: 0 0 0 0 0 0 0 0 0 - 0
-line: Grand Rapids: 0 0 0 0 0 0 1 0 1 - 2
+line: Grand Rapids II: 0 0 0 0 0 0 1 0 1 - 2
 
 B_2B: Grogan
 B_SB: Somerlot #2; Core
@@ -1266,7 +1266,7 @@ T: 1:50
 date: 1911-08-19
 number: 0
 league: Central
-away: Grand Rapids
+away: Grand Rapids II
 home: Terre Haute
 
 Terre Haute:	ab r h po a e
@@ -1285,7 +1285,7 @@ TOTALS:			31 3 7 27 17 2
 
 *: Batted for Billiard in 9th
 
-Grand Rapids:	ab r h po a e
+Grand Rapids II:	ab r h po a e
 Kroy @ cf:		4 0 1 2 0 0
 Schmick @ 1b:	4 1 1 12 0 0
 Barkwell @ rf:	3 0 1 1 0 0
@@ -1300,7 +1300,7 @@ TOTALS:			34 2 7 26 14 0
 note: Two out when winning run scored
 
 line: Terre Haute: 1 0 1 0 0 0 0 0 1 - 3
-line: Grand Rapids: 0 0 0 1 0 1 0 0 0 - 2
+line: Grand Rapids II: 0 0 0 1 0 1 0 0 0 - 2
 
 B_3B: Grogan
 B_2B: O'Brien; Koehler
@@ -1309,8 +1309,8 @@ P_SO: Billiard #2; Myers #2
 B_SH: Koehler
 P_HP: Somerlot #2; Schmick
 P_WP: Billiard; Myers
-B_LOB: Terre Haute #9; Grand Rapids #9
-B_ROE: Grand Rapids #2
+B_LOB: Terre Haute #9; Grand Rapids II #9
+B_ROE: Grand Rapids II #2
 T: 1:55
 U: Newhouse
 
@@ -1374,9 +1374,9 @@ date: 1911-08-19
 number: 0
 league: Central
 away: Newark
-home: South Bend
+home: South Bend II
 
-South Bend:		ab r h po a e
+South Bend II:		ab r h po a e
 Hadley @ ss:	5 1 2 3 5 0
 Snyder @ lf:	3 2 1 2 0 0
 Byrnes @ cf:	5 2 3 1 0 0
@@ -1384,7 +1384,7 @@ Grefe @ 1b:		3 0 1 10 1 0
 Donovan @ rf:	4 1 2 1 0 0
 Wuffli @ ss:	4 0 1 1 4 0
 Taylor @ 3b:	3 2 2 0 1 0
-G. O'Brien @ c:	2 0 1 5 0 0
+O'Brien, G. @ c:	2 0 1 5 0 0
 Markham @ p:	4 0 1 0 1 1
 Tieman @ c:		2 1 2 4 0 1
 TOTALS:			35 9 16 27 12 2
@@ -1395,16 +1395,16 @@ Pendry @ ss:	4 0 1 3 3 0
 Wickland @ cf:	3 1 2 2 0 1
 Gray @ rf:		3 1 2 0 0 0
 Kihm @ 1b:		3 1 1 8 0 0
-C. Parker @ 2b:	4 0 0 3 3 0
+Parker, C. @ 2b:	4 0 0 3 3 0
 Gilbert @ lf:	4 0 1 1 0 1
 Martin @ c:		4 1 1 6 1 1
 Hale @ p:		2 0 0 0 1 0
-*J. Parker @ ph:	1 0 0 0 0 0 
+*Parker, J. @ ph:	1 0 0 0 0 0 
 TOTALS:			33 6 10 24 10 3
 
 *: Batted for Hale in 9th
 
-line: South Bend: 2 3 0 1 1 0 2 0 x - 9
+line: South Bend II: 2 3 0 1 1 0 2 0 x - 9
 line: Newark: 1 0 0 0 0 2 1 1 1 - 6
 
 B_SB: Craven; Wickland; Snyder; Byrnes; G. O'Brien
