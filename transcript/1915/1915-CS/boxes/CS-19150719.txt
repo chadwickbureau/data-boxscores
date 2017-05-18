@@ -1,0 +1,390 @@
+date: 1915-07-19
+number: 0
+league: South Atlantic
+away: Columbia
+home: Charleston
+source: Columbia State, July 20, 1915
+
+Columbia:	ab r h po a e
+Nally @ lf:	3 0 1 3 0 0
+Lake @ 2b:	3 1 2 5 3 2
+Bernsen @ 3b:	4 0 2 0 1 0
+Layden @ cf:	3 0 0 1 0 0
+Miller @ 1b:	4 0 1 5 1 0
+Harbison @ ss:	4 0 0 3 3 0
+Correll @ rf:	4 0 1 4 0 0
+Connolly @ c:	3 0 0 3 1 0
+Gardin @ p:	3 0 0 0 3 0
+TOTALS:		31 1 7 24 12 2
+
+Charleston:	ab r h po a e
+Cain @ ss:	3 0 2 1 1 0
+Hartsell @ 2b:	2 1 1 2 4 0
+Bitting @ 3b:	3 0 0 1 1 0
+Bankston @ lf:	4 0 0 3 0 0
+Marshall @ c:	3 1 1 4 3 1
+Sabrie @ 1b:	3 0 1 11 1 0
+Cates @ cf:	4 0 0 2 0 1
+Cheney @ p:	3 0 0 1 3 0
+Eldridge @ rf:	3 0 0 2 0 0
+TOTALS:		28 2 5 27 13 2
+
+line: Columbia:   0 0 0 0 0 1 0 0 0 - 1
+line: Charleston: 1 0 0 1 0 0 0 0 x - 2
+
+B_LOB: Charleston #8; Columbia #6
+B_2B: Nally; Hartsell
+B_3B: Correll
+B_SB: Bernsen
+B_SH: Hartsell; Sabrie
+B_HP: Bitting  
+P_BB: Gardin #3; Cheney #3 
+P_SO: Gardin #3; Cheney #3 
+P_HP: Gardin
+P_WP: Cheney
+T: 1:26
+U: Vitter
+
+---
+
+date: 1915-07-19
+number: 0
+league: South Atlantic
+away: Jacksonville
+home: Macon
+source: Columbia State, July 20, 1915
+
+Jacksonville:	ab r h po a e
+Cueto @ c:	5 1 1 6 1 0
+Manes @ 1b:	5 2 3 8 0 0
+Laval @ cf:	5 1 3 3 0 0
+Carroll @ 2b:	5 1 1 3 2 1
+Bowen @ 3b:	2 1 1 1 0 0
+Burmeister @ lf:	5 1 1 0 0 1
+Powers @ ss:	4 0 2 2 2 0
+Martin @ rf:	3 1 1 1 0 0
+Wood @ p:	5 0 0 0 2 0
+*Pearson @ ph:	1 0 0 0 0 0
+TOTALS:		39 8 13 24 7 2
+
+Macon:		ab r h po a e
+Nield @ ss:	3 1 2 1 7 0
+Mathews @ cf:	5 1 3 2 0 0
+Munn @ 1b:	4 2 2 13 0 1
+Chancey @ lf:	4 1 2 2 0 1
+Basham @ c:	4 1 1 4 0 1
+Moore @ p-3b:	4 0 0 0 2 0
+Weir @ 3b-rf:	4 1 1 2 3 1
+May @ rf:	1 1 1 0 0 0
+Lokey @ 2b:	4 1 1 3 2 0
+Martin @ p:	3 0 1 0 1 0
+TOTALS:		36 9 14 27 15 4
+
+*: batted for Martin in 9th
+
+line: Jacksonville: 3 0 3 0 0 0 0 2 0 - 8
+line: Macon:        0 3 2 0 0 3 0 1 x - 9
+
+B_LOB: Jacksonville #5; Macon #7
+B_2B: Laval; Carroll; Burmeister; Basham; Chancey
+B_3B: Lokey
+B_HR: Chancey
+B_SB: Carroll; Laval #2; May; Lokey; Mathews #2
+B_HP: Chancey
+P_BB: Wood #2; Moore #1; Martin #2
+P_SO: Moore #1; Martin #3; Wood #3
+P_H: Moore #7; Martin #6
+P_IP: Moore #3; Martin #6
+P_HP: Wood
+F_DP: Powers, Carroll, Manes; Weir, Nield
+F_PB: Basham
+T: 1:55
+U: Ryan
+
+---
+
+date: 1915-07-19
+number: 0
+league: South Atlantic
+away: Albany
+home: Columbus
+source: Columbia State, July 20, 1915
+
+Albany:		ab r h po a e
+Zimmerman @ 2b:	4 1 1 2 2 1
+Manush @ 3b:	4 1 3 1 0 0
+Erwin @ c:	4 0 2 5 1 1
+Hitchcock @ lf:	4 0 2 1 0 0
+Prough @ 1b:	4 0 1 10 0 1
+Waldron @ ss:	3 0 0 0 1 1 
+Kimball @ cf:	4 0 1 2 0 0
+Woodruff @ rf:	4 1 1 2 0 0
+Moore @ p:	4 1 0 1 5 0
+TOTALS:		35 4 11 24 9 4
+
+Columbus:	ab r h po a e
+Herndon @ 3b:	5 0 1 3 2 0
+Potts @ 2b:	5 1 1 5 2 0
+McDuff @ ss:	5 2 2 1 2 1
+Bowden @ rf:	2 2 1 1 0 0
+Folmar @ cf:	2 2 2 4 1 0
+Thompson @ c:	3 1 0 6 2 0
+Krebs @ lf:	2 2 1 3 0 1
+Fox @ 1b:	3 0 2 4 0 0
+Redding @ p:	4 0 0 0 2 1
+TOTALS:		31 10 10 27 11 3
+
+line: Albany:   0 0 0 0 0 1 3 0 0 - 4
+line: Columbus: 0 0 1 2 2 1 4 0 x - 10
+
+B_LOB: Columbus #5; Albany #6
+B_2B: Bowden; McDuff; Folmar; Manush #2
+B_SB: Woodruff; Herndon; Potts; McDuff
+B_SH: Fox; Folmar
+B_HP: Bowden; Folmar
+P_BB: Redding #2; Moore #4
+P_SO: Redding #2; Moore #2
+P_HP: Moore #2
+P_WP: Redding; Moore
+P_BK: Moore
+F_DP: Moore, Manush; Herndon, Potts, Fox; Folmar, Thompson
+T: 1:40
+U: Lauzon
+
+---
+
+date: 1915-07-19
+number: 0
+league: South Atlantic
+away: Savannah
+home: Augusta
+source: Columbia State, July 20, 1915
+
+Savannah:	ab r h po a e
+Winston @ lf:	5 1 0 0 0 1
+Handiboe @ cf:	3 0 1 5 0 0
+Gust @ c:	4 1 2 5 1 0
+Gooch @ rf:	4 0 1 2 0 0
+Crowell @ ss:	4 0 2 3 2 0
+Finnegan @ 2b:	4 0 2 1 0 0
+Springman @ 3b:	4 0 0 3 2 0
+Short @ 1b:	4 0 2 5 0 0
+Smallwood @ p:	4 0 1 0 0 0
+TOTALS:		36 2 11 24 5 1
+
+Augusta:	ab r h po a e
+Baumgardner @ ss:	4 1 2 1 4 0
+Emery @ 2b:	4 1 1 4 3 1
+Champlain @ 3b:	3 1 2 0 2 0
+Roth @ rf:	2 1 0 2 0 0
+Ezell @ cf:	3 0 0 2 0 0
+Eubank @ c:	4 0 2 7 0 0
+Davenport @ 1b:	3 0 1 8 0 0
+South @ lf:	4 0 0 2 0 0
+McManus @ p:	3 0 1 1 2 1
+TOTALS:		30 4 9 27 11 2
+
+line: Savannah: 1 0 0 0 0 0 0 1 0 - 2
+line: Augusta:  2 0 0 0 0 0 0 2 x - 4
+
+B_LOB: Augusta #7; Savannah #8
+B_2B: Smallwood; Short; Crowell; Davenport
+B_SB: Baumgardner; Roth
+B_SH: Handiboe; Champlain; Davenport
+B_SF: Ezell #2
+P_BB: Smallwood #2
+P_SO: Smallwood #5; McManus #4 
+F_DP: Baumgardner, Emery, Davenport; Champlain, Emery, Davenport   
+T: 1:45
+U: Hoey
+
+---
+
+date: 1915-07-20
+number: 0
+league: South Atlantic
+away: Columbia
+home: Charleston
+source: Columbia State, July 21, 1915
+
+Columbia:	ab r h po a e
+Nally @ lf:	5 0 2 0 0 0
+Lake @ 2b:	4 0 1 2 6 0
+Bernsen @ cf-rf:	4 0 0 1 1 1
+Layden @ p:	4 0 0 0 3 0
+Harbison @ ss:	4 1 2 1 5 0
+Correll @ rf-c:	4 0 1 2 0 0
+Connolly @ 3b:	4 0 2 1 1 0
+Gardin @ 1b:	4 1 1 15 1 1
+Spaid @ cf:	4 0 0 2 0 0
+TOTALS:		37 2 9 24 17 2
+
+Charleston:	ab r h po a e
+Cain @ ss-cf:	4 0 0 2 1 0
+Hartsell @ 2b-ss:	3 2 1 1 6 1
+Bitting @ 3b-c:	4 1 2 1 0 0
+Bankston @ lf:	4 0 2 3 0 0
+Marshall @ cf-3b:	4 0 2 4 3 1
+Sabrie @ 1b-rf:	4 0 0 11 0 1
+Cates @ cf-2b:	2 0 0 0 0 1
+Cheney @ rf-1b:	3 0 0 4 0 0
+Eldridge @ p:	3 0 0 1 1 0
+TOTALS:		31 3 7 27 11 4
+
+line: Columbia:   0 0 0 0 0 0 0 0 2 - 2
+line: Charleston: 1 0 0 0 0 1 0 1 x - 3
+
+B_LOB: Charleston #6; Columbia #9
+B_2B: Connolly; Harbison; Gardin; Bitting
+B_3B: Hartsell
+B_SH: Lake
+P_BB: Layden #2
+P_SO: Layden #2; Eldridge #3 
+F_DP: Lake, Gardin, Connolly
+F_PB: Bitting 
+T: 1:25
+U: Vitter
+
+---
+
+date: 1915-07-20
+number: 0
+league: South Atlantic
+away: Albany
+home: Columbus
+source: Columbia State, July 21, 1915
+
+Albany:		ab r h po a e
+Zimmerman @ 2b-p-3b:	4 0 1 1 2 0
+Manush @ 3b-p:	3 0 0 0 2 0
+Erwin @ c-ss:	4 0 1 2 4 0
+Hitchcock @ p-cf:	4 0 0 1 4 0
+Prough @ 1b:	4 1 2 13 0 0
+Waldron @ ss-2b:	4 1 1 1 3 0 
+Kimball @ cf-c:	4 0 1 4 1 0
+Broughton @ rf:	4 0 1 1 0 0
+Moore @ rf:	0 0 0 0 0 0
+Shirley @ lf:	3 0 0 1 0 0
+TOTALS:		34 2 7 24 16 1
+
+Columbus:	ab r h po a e
+Herndon @ 3b:	5 2 3 2 4 0
+Potts @ 2b:	4 0 0 0 3 0
+McDuff @ ss:	3 0 0 0 3 0
+Bowden @ rf:	4 0 2 0 0 0
+Folmar @ cf:	4 0 1 5 0 0
+Thompson @ c:	3 2 1 3 1 0
+Krebs @ lf:	3 1 1 4 0 0
+Fox @ 1b-p:	3 0 1 11 0 0
+Voss @ p-1b:	3 2 3 2 2 0
+TOTALS:		32 7 12 27 13 0
+
+line: Albany:   0 0 0 0 0 0 1 0 1 - 2
+line: Columbus: 1 2 0 2 0 0 2 0 x - 7
+
+B_LOB: Columbus #5; Albany #6
+B_3B: Herndon; Thompson
+B_SB: Manush; Waldron #2; Bowden #2; Folmar; Thompson
+P_BB: Voss #1; Hitchcock #1
+P_SO: Voss #3
+P_WP: Hitchcock
+T: 1:25
+U: Lauzon
+
+---
+
+date: 1915-07-20
+number: 0
+league: South Atlantic
+away: Jacksonville
+home: Macon
+source: Columbia State, July 21, 1915
+
+Jacksonville:	ab r h po a e
+Cueto @ c:	5 1 2 2 1 1
+Manes @ 1b:	4 0 0 5 0 0
+Laval @ p:	4 0 3 0 1 0
+Carroll @ 2b:	4 0 1 7 1 1
+Bowen @ 3b:	3 0 2 1 0 0
+Burmeister @ lf:	4 1 2 1 0 0
+Wood @ cf:	4 1 2 2 0 0
+Powers @ ss:	4 1 1 5 9 0
+Cline @ rf:	4 0 0 1 0 0
+TOTALS:		36 4 13 24 12 2
+
+Macon:		ab r h po a e
+Nield @ ss:	5 1 3 3 6 0
+Mathews @ cf:	3 1 2 2 0 0
+Munn @ 1b:	4 1 1 9 0 0
+Basham @ c:	4 0 0 5 2 1
+Moore @ 3b:	4 0 1 2 2 1
+Weir @ lf:	4 0 3 0 1 0
+Lokey @ 2b:	4 2 0 4 4 0
+Martin @ rf:	3 0 0 2 0 0
+Foster @ p:	4 1 2 0 1 0
+TOTALS:		35 6 12 27 16 2
+
+line: Jacksonville: 0 3 0 0 1 0 0 0 0 - 4
+line: Macon:        0 0 2 1 2 0 0 1 x - 6
+
+B_LOB: Jacksonville #6; Macon #5
+B_2B: Mathews; Munn; Nield
+B_HR: Cueto
+B_SB: Laval; Weir; Moore; Lokey; Martin
+B_HP: Mathews
+P_BB: Laval #1; Foster #1
+P_SO: Laval #2; Foster #3 
+P_HP: Laval
+F_DP: Carroll, Powers, Manes 
+T: 1:15
+U: Ryan
+
+---
+
+date: 1915-07-20
+number: 0
+league: South Atlantic
+away: Savannah
+home: Augusta
+source: Columbia State, July 21, 1915
+
+Savannah:	ab r h po a e
+Winston @ lf:	5 3 2 1 0 0 
+Handiboe @ cf:	5 1 1 5 0 0
+Gust @ c:	4 1 3 3 4 0
+Gooch @ rf:	5 0 1 2 0 0
+Crowell @ ss:	5 0 2 8 5 1
+Finnegan @ 2b:	4 0 0 3 4 0
+Springman @ 3b:	5 0 1 2 2 1
+Short @ 1b:	4 0 0 12 1 2
+Camnitz @ p:	5 0 0 0 2 0
+TOTALS:		42 5 10 36 18 4
+
+Augusta:	ab r h po a e
+Baumgardner @ ss:	5 0 2 2 4 2
+Emery @ 2b:	5 0 2 3 3 0
+Champlain @ 3b:	5 0 0 3 1 1
+Roth @ p:	5 2 3 1 4 0
+Ezell @ cf:	5 0 2 3 0 0
+Eubanks @ c:	5 0 0 11 3 0
+Davenport @ 1b:	5 0 2 10 0 0
+South @ lf:	4 0 1 3 0 0
+Nelson @ rf:	5 0 0 0 0 0
+TOTALS:		45 2 12 36 15 3
+
+line: Savannah: 1 0 1 0 0 0 0 0 0 0 0 3 - 5
+line: Augusta:  0 0 0 1 0 0 0 1 0 0 0 0 - 2
+
+B_LOB: Augusta #8; Savannah #9
+B_2B: Springman; Roth #2; Davenport
+B_3B: Gust; Roth
+B_SB: Baumgardner; Emery; Davenport
+B_SH: Eubanks; South; Handiboe; Gooch
+B_HP: Emery
+P_BB: Roth #7; Camnitz #3 
+P_SO: Roth #9; Camnitz #3 
+P_HP: Camnitz
+P_WP: Camnitz 
+F_PB: Gust #2
+T: 2:20
+U: Hoey

@@ -1,0 +1,1327 @@
+date: 1915-05-10
+number: 1
+league: South Atlantic
+away: Columbia
+home: Jacksonville
+source: Columbia State, May 11, 1915
+
+Columbia:	ab r h po a e
+Nally @ lf:	3 0 1 0 0 0
+Lake @ cf:	4 1 2 6 0 0
+Harbison @ ss:	3 0 1 1 1 0
+Bernsen @ 1b:	3 0 0 11 0 0
+Layden @ rf:	4 0 1 0 1 0
+Finnegan @ 3b:	2 0 1 1 2 1
+Connolly @ c:	3 0 0 4 1 0
+Johnson @ 2b:	3 0 0 1 1 0
+Mitchell @ p:	4 0 1 0 3 0
+*Green @ ph:	1 0 0 0 0 0
+TOTALS:		30 1 7 24 9 1
+
+Jacksonville:	ab r h po a e
+Carroll @ cf:	3 0 1 2 0 0
+Crowder @ ss:	3 0 0 3 2 0
+Bowen @ 3b:	3 0 1 0 1 0
+Cueto @ lf:	2 2 0 1 0 0
+Manes @ 1b:	3 0 0 13 1 0
+Gaston @ 2b:	3 1 0 2 4 0
+Wood @ rf:	4 0 0 1 0 0
+Pierre @ c:	2 0 1 2 4 0
+Spaid @ p:	2 0 1 3 3 1
+TOTALS:		25 3 4 27 15 1
+
+line: Columbia:     0 0 0 0 0 1 0 0 0 - 1
+line: Jacksonville: 0 2 0 0 0 0 0 1 x - 3
+
+B_2B: Spaid; Mitchell; Pierre
+B_SB: Finnegan; Cueto #2
+B_SH: Bowen; Manes; Pierre; Spaid; Harbison; Bernsen; Connolly
+B_HP: Finnegan; Pierre
+P_BB: Mitchell #5; Spaid #2
+P_SO: Mitchell #2; Spaid #2
+P_HP: Mitchell; Spaid
+T: 1:40
+U: Lewis
+
+---
+
+date: 1915-05-10
+number: 2
+league: South Atlantic
+away: Columbia
+home: Jacksonville
+source: Columbia State, May 11, 1915
+note: game was 7 innings by agreement
+
+Columbia:	ab r h po a e
+Nally @ lf:	3 0 2 1 0 0
+Lake @ cf:	3 0 1 0 0 0
+Harbison @ ss:	2 0 0 2 1 0
+Bernsen @ 1b:	3 0 0 10 0 0
+Layden @ rf:	2 0 1 2 0 0
+Finnegan @ 3b:	3 0 0 0 0 1
+Connolly @ c:	3 0 0 2 4 0
+Johnson @ 2b:	3 0 0 1 0 0
+Gardin @ p:	2 1 1 0 2 0
+TOTALS:		24 1 5 18 7 1
+
+Jacksonville:	ab r h po a e
+Carroll @ cf:	3 1 1 2 0 0
+Crowder @ ss:	3 0 1 1 0 0
+Bowen @ 3b:	3 0 0 0 2 0
+Cueto @ lf:	3 2 2 3 0 0
+Manes @ 1b:	1 0 0 4 2 0
+Gaston @ 2b:	1 0 0 1 1 0
+Wood @ rf:	2 0 0 2 0 0
+Pierre @ c:	2 0 1 8 0 0
+Burmeister @ p:	2 0 0 0 3 0
+TOTALS:		20 3 5 21 8 0
+
+line: Columbia:     0 0 0 0 1 0 0 - 1
+line: Jacksonville: 2 0 0 1 0 0 x - 3
+
+B_2B: Carroll; Nally
+B_3B: Nally
+B_SB: Cueto
+B_SH: Manes; Gaston
+P_BB: Burmeister #2
+P_SO: Gardin #2; Burmeister #5
+T: 0:55
+U: Lewis
+
+---
+
+date: 1915-05-10
+number: 0
+league: South Atlantic
+away: Savannah
+home: Albany
+source: Columbia State, May 11, 1915
+note: game called after 7 1/2 innings due to darkness
+
+Savannah:	ab r h po a e
+Handiboe @ cf:	4 0 2 3 0 1
+Lipe @ 3b:	2 0 0 1 0 0
+Crowell @ ss:	3 0 1 0 4 0
+Gust @ 1b:	4 0 1 10 1 0
+Winston @ lf:	3 0 1 2 0 0
+Shinault @ rf:	3 0 0 1 0 0
+Zimmerman @ 2b:	3 0 0 2 4 0
+Short @ c:	3 1 1 2 0 0
+Springman @ p:	3 0 0 0 3 2
+TOTALS:		28 1 6 21 12 3
+
+Albany:		ab r h po a e
+Burgess @ rf:	4 2 2 0 0 0 
+Manush @ 3b:	3 2 1 0 2 0 
+McDowell @ cf:	3 0 2 2 0 0
+Waldron @ 2b:	4 0 1 3 0 0
+Hanna @ lf:	2 0 0 1 1 0
+Erwin @ ss:	3 1 2 1 4 0
+Prough @ 1b:	3 1 1 7 1 0
+Wells @ c:	2 0 0 10 1 0
+Winchell @ p:	3 0 0 0 2 0
+TOTALS:		27 6 9 24 11 0
+
+line: Savannah: 0 0 0 0 1 0 0 0 - 1
+line: Albany:   0 2 2 0 1 0 1 x - 6
+
+B_LOB: Savannah #5; Albany #4
+B_HR: Prough
+B_SB: Handiboe #2; Lipe
+B_SH: Manush
+B_SF: McDowell
+P_BB: Springman #2; Winchell #3
+P_SO: Springman #1; Winchell #8 
+P_WP: Springman
+F_DP: Crowell, Gust, Short; Zimmerman, Gust  
+U: Moran
+
+---
+
+date: 1915-05-10
+number: 0
+league: South Atlantic
+away: Augusta
+home: Macon
+source: Columbia State, May 11, 1915
+
+Augusta:	ab r h po a e
+Champlain @ 3b:	4 0 0 2 1 0
+Ogren @ 2b:	3 0 2 2 1 0
+Davenport @ 1b:	4 0 0 6 0 0 
+Smith @ lf:	4 0 0 1 0 0
+Ezell @ cf:	4 0 0 2 0 0 
+Roth @ rf:	3 1 2 3 0 0
+Eubanks @ c:	4 1 0 7 2 0
+Kelly @ ss:	3 0 2 4 0 0
+McManus @ p:	2 1 1 0 3 1
+TOTALS:		31 3 7 27 7 1
+
+Macon:		ab r h po a e
+Matthews @ cf:	4 0 1 3 0 0
+Mack @ 2b:	4 1 2 3 5 2
+Nield @ ss:	4 0 1 3 3 0
+Chancey @ lf:	4 0 1 3 1 0 
+Stinson @ rf:	3 0 1 1 0 0
+Moore @ 3b:	4 0 0 1 2 1
+Munn @ 1b:	3 0 1 9 2 1
+Meehan @ c:	4 0 1 5 3 0
+Martin @ p:	4 0 0 0 3 0
+TOTALS:		34 1 8 27 19 4
+
+line: Augusta: 0 2 0 0 1 0 0 0 0 - 3
+line: Macon:   0 0 0 1 0 0 0 0 0 - 1
+
+B_LOB: Augusta #4; Macon #9
+B_2B: Roth; Ogren
+B_HR: Mack
+B_SH: McManus
+B_HP: Ogren
+P_BB: Martin #1; McManus #2
+P_SO: Martin #3; McManus #6
+P_HP: Martin
+F_DP: Chancey, Meehan
+F_PB: Meehan
+T: 1:31
+U: Vitter
+
+---
+
+date: 1915-05-10
+number: 0
+league: South Atlantic
+away: Charleston
+home: Columbus
+source: Columbia State, May 11, 1915
+
+Charleston:	ab r h po a e
+Tyson @ rf:	5 1 0 0 0 2
+McDermitt @ 2b:	4 0 0 0 1 0
+Mackert @ ss:	5 0 0 5 1 1 
+Bankston @ lf:	5 1 3 2 0 0
+Sabrie @ 1b:	4 2 2 14 1 0
+Marshall @ cf:	4 1 3 1 0 0
+Bitting @ 3b:	4 1 1 0 3 0
+Basham @ c:	3 1 2 5 3 0
+Fillingem @ p:	2 0 0 0 3 0
+TOTALS:		36 7 11 27 12 3
+
+Columbus:	ab r h po a e
+Herndon @ 3b:	5 0 2 1 1 1
+Fox @ 1b:	4 2 2 9 2 1
+McDuff @ ss:	5 0 2 6 6 0
+Folmar @ cf:	2 1 1 3 0 0
+Hart @ rf:	3 0 0 1 1 0
+Thompson @ lf:	3 1 2 1 0 0
+Potts @ 2b:	3 1 1 1 3 1
+Krebs @ c:	3 0 0 4 1 0
+Hawkins @ p:	2 0 0 1 3 1
+Watson @ p:	1 0 0 0 0 0
+*Voss @ ph:	1 0 0 0 0 0
+TOTALS:		32 5 10 27 10 4
+
+*: batted for Watson in 9th
+
+line: Charleston: 0 0 3 1 0 1 2 0 0 - 7
+line: Columbus:   1 0 1 2 0 1 0 0 0 - 5
+
+B_LOB: Charleston #6; Columbus #6
+B_2B: Bitting; Fox; Marshall
+B_3B: Basham
+B_SB: Tyson; Bankston; Marshall; Fillingem; McDuff
+P_BB: Fillingem #4; Hawkins #1; Watson #2
+P_SO: Watson #1; Hawkins #2; Fillingem #6
+P_H: Hawkins #6; Watson #5
+P_IP: Hawkins #6; Watson #3  
+F_DP: McDuff, Fox; Sabrie, McDermitt  
+T: 1:55
+U: Lauzon
+
+---
+
+date: 1915-05-11
+number: 0
+league: South Atlantic
+away: Columbia
+home: Jacksonville
+source: Columbia State, May 12, 1915
+
+Columbia:	ab r h po a e
+Nally @ lf:	2 1 1 4 0 0
+Lake @ 2b:	4 1 0 1 3 0
+Harbison @ ss:	4 1 2 0 1 0
+Bernsen @ 1b:	4 1 2 12 1 1 
+Layden @ cf:	3 0 0 0 0 0
+Green @ rf:	4 0 1 3 0 0
+Finnegan @ 3b:	4 0 1 1 1 0
+Connolly @ c:	4 0 0 3 2 0
+Smith @ p:	5 0 1 1 4 1
+TOTALS:		34 4 8 25 12 2
+
+Jacksonville:	ab r h po a e
+Carroll @ cf:	5 0 0 0 0 0
+Crowder @ ss:	5 0 1 2 2 0
+Bowen @ 3b:	4 1 3 2 3 0
+Cueto @ lf:	3 0 0 1 0 0
+Manes @ 1b:	5 1 1 11 2 0
+Gaston @ 2b:	4 0 1 2 3 0
+Pierre @ c:	3 2 2 8 2 1
+Burmeister @ rf:	3 0 1 0 0 0
+Wood @ p:	4 1 1 1 6 0
+TOTALS:		36 5 10 27 18 1
+
+line: Columbia:     0 0 4 0 0 0 0 0 0 - 4
+line: Jacksonville: 0 0 1 0 0 1 0 1 2 - 5
+
+B_2B: Bowen; Wood; Pierre
+B_3B: Green
+B_SH: Cueto
+B_HP: Pierre
+P_BB: Wood #4; Smith #4
+P_SO: Wood #6; Smith #2
+P_HP: Smith
+P_WP: Smith
+F_DP: Wood, Crowder, Manes
+F_PB: Pierre
+T: 2:07
+U: Lewis
+
+---
+
+date: 1915-05-11
+number: 0
+league: South Atlantic
+away: Savannah
+home: Albany
+source: Columbia State, May 12, 1915
+
+Savannah:	ab r h po a e
+Handiboe @ cf:	4 0 0 1 0 0
+Lipe @ 3b:	2 0 0 0 0 0
+Crowell @ ss:	4 0 0 1 1 0
+Gust @ 1b:	4 0 2 9 0 0
+Winston @ lf:	2 0 0 0 0 0
+Shinault @ rf:	4 0 0 3 0 0
+Zimmerman @ 2b:	3 0 1 1 4 0
+Short @ c:	3 0 0 7 1 0
+Camnitz @ p:	2 0 0 2 3 0
+TOTALS:		28 0 2 24 9 0
+
+Albany:		ab r h po a e
+Burgess @ rf:	4 0 1 2 1 0 
+Manush @ 3b:	4 0 1 2 4 0
+McDowell @ cf:	3 1 1 3 0 0
+Waldron @ 2b:	4 0 2 0 1 0
+Hanna @ lf:	3 0 0 1 0 0
+Erwin @ ss:	3 0 0 1 2 1
+Prough @ 1b:	3 0 0 14 0 0
+Wells @ c:	2 0 0 4 1 2
+Lawrence @ p:	3 0 1 0 5 0
+TOTALS:		29 1 6 27 14 3
+
+line: Savannah: 0 0 0 0 0 0 0 0 0 - 0
+line: Albany:   1 0 0 0 0 0 0 0 x - 1
+
+B_LOB: Savannah #6; Albany #7
+B_2B: Waldron
+B_SB: Gust
+B_SH: Camnitz; Hanna; Winston
+B_HP: Lipe
+P_BB: Camnitz #2; Lawrence #2
+P_SO: Camnitz #4; Lawrence #2
+P_HP: Lawrence
+F_PB: Short #3
+U: Moran
+
+---
+
+date: 1915-05-11
+number: 0
+league: South Atlantic
+away: Augusta
+home: Macon
+status: postponed
+status-reason: rain
+source: Columbia State, May 12, 1915
+
+---
+
+date: 1915-05-11
+number: 0
+league: South Atlantic
+away: Charleston
+home: Columbus
+source: Columbia State, May 12, 1915
+
+Charleston:	ab r h po a e
+Cates @ rf:	5 0 0 3 0 0
+Mackert @ ss:	4 0 0 2 1 0
+Bankston @ lf:	5 0 1 1 0 0
+Marshall @ cf:	5 1 2 2 0 0
+Sabrie @ 1b:	4 1 2 8 1 0
+Bitting @ 3b:	4 0 2 2 5 0
+Basham @ c:	3 0 2 5 1 0
+McDermitt @ 2b:	2 1 0 0 1 0
+Shirley @ p:	4 0 0 1 2 0
+*Eldridge @ pr:	0 0 0 0 0 0
+TOTALS:		36 3 9 24 11 0
+
+Columbus:	ab r h po a e
+Herndon @ 3b:	4 0 0 3 1 0
+Fox @ 1b:	4 1 2 12 1 0
+McDuff @ ss:	4 0 1 1 5 0
+Folmar @ cf:	3 0 0 1 0 0
+Hawkins @ rf:	4 1 3 0 1 0
+Thompson @ lf:	3 1 1 1 0 0
+Potts @ 2b:	2 0 0 0 3 1
+Krebs @ c:	3 1 1 8 1 0
+Hart @ p:	2 0 0 1 3 0
+TOTALS:		29 4 8 27 15 1
+
+*: ran for Mackert in 9th
+
+line: Charleston: 0 0 0 1 0 1 0 0 1 - 3
+line: Columbus:   0 0 0 1 2 1 0 0 x - 4
+
+B_LOB: Charleston #10; Columbus #7
+B_2B: Hawkins #2
+B_SB: Thompson #2; Potts #2; Hart; Basham
+B_SH: Krebs
+B_HP: Basham; Potts; Folmar; Mackert
+P_BB: Hart #2; Shirley #3 
+P_SO: Hart #5; Shirley #3 
+P_HP: Hart #2; Shirley #2 
+F_DP: Bitting, Mackert, Sabrie
+F_PB: Krebs
+T: 1:55
+U: Lauzon
+
+---
+
+date: 1915-05-12
+number: 1
+league: South Atlantic
+away: Columbia
+home: Macon
+source: Columbia State, May 13, 1915
+
+Columbia:	ab r h po a e
+Nally @ lf:	4 0 1 1 1 0 
+Lake @ 2b:	3 0 0 2 1 0
+Layden @ cf:	4 0 0 1 0 0
+Bernsen @ 1b:	4 0 0 8 1 0
+Connolly @ c:	3 0 1 10 1 0
+Finnegan @ 3b:	4 0 0 3 1 3
+Green @ p:	3 1 1 0 2 1
+Nipper @ ss:	3 1 0 0 1 1 
+Mitchell @ rf:	4 0 0 2 0 0
+TOTALS:		32 2 3 27 8 5
+
+Macon:		ab r h po a e
+Matthews @ cf:	5 0 2 2 0 0
+Mack @ 2b:	5 0 1 2 1 2
+Nield @ ss:	3 0 0 0 2 0
+Chancey @ lf:	4 0 2 2 0 0 
+Stinson @ rf:	3 0 0 1 0 0
+Moore @ 3b:	4 0 2 0 4 0
+Munn @ 1b:	4 0 1 12 1 0
+Meehan @ c:	4 1 0 7 0 0
+Williams @ p:	3 0 0 1 5 0
+*May @ ph:	0 0 0 0 0 0
+TOTALS:		35 1 8 27 13 2
+
+*: batted for Williams in 9th
+
+line: Columbia: 0 0 0 0 2 0 0 0 0 - 2
+line: Macon:    0 0 0 0 0 0 0 0 1 - 1
+
+B_LOB: Columbia #5; Macon #3
+B_2B: Matthews; Munn; Mack
+B_SB: Green; Lake
+B_SH: Stinson
+P_BB: Green #4; Williams #4
+P_SO: Green #10; Williams #4
+T: 2:03
+U: Vitter
+
+---
+
+date: 1915-05-12
+number: 2
+league: South Atlantic
+away: Columbia
+home: Macon
+source: Columbia State, May 13, 1915
+
+Columbia:	ab r h po a e
+Nally @ lf:	3 0 0 1 0 0
+Lake @ 2b:	3 0 1 0 2 3
+Layden @ cf:	2 0 1 4 0 0
+Bernsen @ 1b:	3 1 1 4 0 0
+Connolly @ c:	3 1 1 4 0 0
+Finnegan @ 3b:	1 0 1 3 0 0
+Gardin @ p:	2 0 1 0 3 0
+Nipper @ ss:	2 0 0 2 0 0 
+Mitchell @ rf:	3 0 0 0 0 0
+TOTALS:		22 2 6 18 5 3
+
+Macon:		ab r h po a e
+Matthews @ cf:	3 0 0 1 0 0
+Mack @ 2b:	3 0 0 2 1 0
+Nield @ ss:	3 0 1 0 0 0
+Chancey @ lf:	2 0 0 0 0 0
+Stinson @ rf:	3 0 1 2 0 0
+Moore @ 3b:	2 1 0 0 0 0
+Munn @ 1b:	1 1 0 5 0 0
+Meehan @ c:	2 0 0 8 0 0
+May @ p:	2 0 0 0 3 0
+TOTALS:		21 2 2 18 4 0
+
+line: Columbia: 0 0 0 2 0 0 - 2
+line: Macon:    0 0 0 0 2 0 - 2
+
+B_LOB: Columbia #5; Macon #4
+B_SB: Lake; Layden; Meehan
+B_SH: Gardin; Finnegan; Munn
+B_HP: Layden
+P_BB: Gardin #1; May #3
+P_SO: Gardin #8; May #4
+P_HP: May
+T: 1:25
+U: Vitter
+
+---
+
+date: 1915-05-12
+number: 1
+league: South Atlantic
+away: Augusta
+home: Columbus
+source: Columbia State, May 13, 1915
+
+Augusta:	ab r h po a e
+Champlain @ 3b:	3 0 1 0 5 0
+Ogren @ 2b:	4 0 0 1 3 1
+Davenport @ 1b:	4 0 1 14 0 1
+Smith @ lf:	4 0 1 1 0 0
+Ezell @ cf:	4 0 0 3 0 0 
+Roth @ rf:	2 0 1 3 0 0
+Eubanks @ c:	3 0 0 2 3 0
+Kelly @ ss:	3 0 0 2 1 0
+Harper @ p:	2 0 0 0 5 0
+TOTALS:		29 0 4 26 17 2
+
+Columbus:	ab r h po a e
+Herndon @ 3b:	4 0 2 2 3 0
+Fox @ 1b:	4 0 0 8 1 0
+McDuff @ ss:	4 0 1 2 2 0
+Folmar @ cf:	3 0 0 2 0 0
+Hawkins @ rf:	4 0 0 2 0 0
+Thompson @ lf:	4 1 2 2 0 0
+Potts @ 2b:	3 0 2 0 1 0
+Krebs @ c:	1 0 0 8 2 0
+Voss @ p:	3 0 0 1 1 0
+TOTALS:		30 1 7 27 11 0
+
+line: Augusta:  0 0 0 0 0 0 0 0 0 - 0
+line: Columbus: 0 0 0 0 0 0 0 0 1 - 1
+
+B_LOB: Augusta #4; Columbus #7
+B_2B: Herndon
+B_SB: Champlain; Davenport; Potts; Krebs
+B_SH: Krebs
+B_HP: Krebs
+P_BB: Voss #3; Harper #3 
+P_SO: Voss #7; Harper #2
+P_HP:  Harper
+T: 1:53
+U: Lauzon
+
+---
+
+date: 1915-05-12
+number: 2
+league: South Atlantic
+away: Augusta
+home: Columbus
+source: Columbia State, May 13, 1915
+
+Augusta:	ab r h po a e
+Champlain @ 3b:	4 0 1 3 2 1
+Ogren @ 2b:	3 0 0 4 0 1
+Davenport @ 1b:	3 0 1 4 0 0
+Smith @ lf-p:	3 0 1 0 1 0
+Ezell @ cf:	2 0 0 1 0 0
+Roth @ p-lf:	2 0 0 0 1 0
+Eubanks @ rf:	3 0 1 1 0 0
+Kelly @ ss:	3 0 1 1 2 0
+Dudley @ c:	3 0 1 4 1 0
+TOTALS:		26 0 6 18 7 2
+
+Columbus:	ab r h po a e
+Herndon @ 3b:	4 2 2 3 2 0
+Fox @ 1b:	2 2 0 7 1 0
+McDuff @ ss:	4 1 3 1 1 0
+Folmar @ cf:	4 1 3 2 0 0
+Hawkins @ rf:	4 0 1 1 0 0
+Thompson @ lf:	3 0 1 2 0 0
+Potts @ 2b:	3 0 1 1 2 0
+Krebs @ c:	3 0 0 4 1 0
+Voss @ p:	2 1 1 0 2 0
+Watson @ p:	1 0 1 0 0 0
+TOTALS:		30 7 13 21 9 0
+
+line: Augusta:  0 0 0 0 0 0 0 - 0
+line: Columbus: 2 0 0 5 0 0 x - 7
+
+B_LOB: Augusta #5; Columbus #8
+B_2B: Potts; Davenport
+B_3B: Folmar
+B_SB: Hawkins; Champlain
+B_HP: Fox #2; Ezell
+P_BB: Roth #1
+P_SO: Voss #3; Watson #2; Roth #3 
+P_H: Voss #3; Watson #3; Roth #9; Smith #4  
+P_IP: Voss #4; Watson #3; Roth #4; Smith #2    
+F_PB: Krebs
+T: 1:25
+U: Lauzon
+
+---
+
+date: 1915-05-12
+number: 0
+league: South Atlantic
+away: Savannah
+home: Jacksonville
+status: postponed
+status-reason: rain
+source: Columbia State, May 13, 1915
+
+---
+
+date: 1915-05-12
+number: 1
+league: South Atlantic
+away: Charleston
+home: Albany
+source: Columbia State, May 13, 1915
+
+Charleston:	ab r h po a e
+McDermott @ ss:	4 0 0 3 3 0
+Bitting @ 3b:	4 1 2 0 3 1
+Bankston @ lf:	2 1 0 2 0 1
+Marshall @ cf:	4 0 1 2 0 0
+Sabrie @ 1b:	4 0 0 10 1 0
+Basham @ c:	4 0 1 3 1 0
+Brooks @ 2b:	4 0 2 2 2 0
+Shirley @ rf:	3 0 0 3 0 0
+Eldridge @ p:	4 0 0 2 3 0
+TOTALS:		33 2 6 27 13 2
+
+Albany:		ab r h po a e
+Burgess @ rf:	3 0 0 3 1 0
+Manush @ 3b:	4 0 2 1 2 1
+McDowell @ cf:	3 0 0 2 0 0
+Waldron @ 2b:	3 0 0 2 5 0
+Hanna @ lf:	3 0 0 0 0 0
+Erwin @ ss:	3 0 1 1 2 0
+Prough @ 1b:	3 0 0 13 0 0
+Wells @ c:	3 0 0 5 2 0
+Alton @ p:	3 0 0 0 1 1 
+*Geary @ ph:	1 0 0 0 0 0
++Lawrence @ ph:	1 0 0 0 0 0 
+TOTALS:		30 0 3 27 13 2
+
+*: batted for Burgess in 9th
++: batted for McDowell in 9th
+
+line: Charleston: 1 0 0 0 0 0 0 1 0 - 2
+line: Albany:     0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Charleston #7; Albany #3
+B_2B: Marshall
+B_HR: Bitting
+B_SB: Marshall
+B_SH: Shirley
+B_HP: Bankston
+P_BB: Alton #1
+P_SO: Eldridge #1; Alton #4
+P_HP: Alton
+F_DP: McDermott, Brooks, Sabrie; Burgess, Prough 
+T: 1:25
+U: Moran
+
+---
+
+date: 1915-05-12
+number: 2
+league: South Atlantic
+away: Charleston
+home: Albany
+source: Columbia State, May 13, 1915
+
+Charleston:	ab r h po a e
+McDermott @ ss:	4 1 0 2 4 0
+Bitting @ 3b:	4 0 0 0 3 0
+Bankston @ lf:	4 1 1 1 0 0
+Marshall @ cf:	3 1 1 2 0 0
+Sabrie @ 1b:	4 0 1 12 0 0
+Basham @ c:	2 0 1 4 0 0
+Brooks @ 2b:	4 0 1 2 3 0
+Shirley @ rf:	3 0 0 1 0 0
+Eldridge @ p:	4 0 1 0 3 0
+TOTALS:		32 3 6 24 13 0
+
+Albany:		ab r h po a e
+Burgess @ rf:	3 1 0 1 0 0
+Manush @ 3b:	1 0 0 2 2 0
+McDowell @ cf:	4 1 1 5 0 0
+Waldron @ 2b:	2 1 0 3 3 0
+Hanna @ lf:	4 0 2 0 0 0
+Erwin @ ss:	3 0 1 0 2 0
+Prough @ 1b:	4 0 0 1 0 0
+Wells @ c:	3 1 2 6 2 0
+Geary @ p:	3 0 2 0 2 1
+TOTALS:		27 4 8 27 11 1
+
+line: Charleston: 3 0 0 0 0 0 0 0 0 - 3
+line: Albany:     0 0 1 0 0 2 0 1 x - 4
+
+B_LOB: Charleston #6; Albany #6
+B_2B: Marshall; Geary
+B_SB: Sabrie; Basham; Burgess; Waldron
+B_SH: Shirley; Marshall; Manush
+P_BB: Eldridge #4; Geary #3
+P_SO: Eldridge #4; Geary #4
+P_WP: Geary
+F_DP: McDermott, Sabrie; Eldridge, Brooks, Sabrie
+U: Moran
+
+---
+
+date: 1915-05-13
+number: 1
+league: South Atlantic
+away: Columbia
+home: Macon
+source: Columbia State, May 14, 1915
+
+Columbia:	ab r h po a e
+Nally @ lf:	3 0 0 3 0 0
+Lake @ 2b:	3 0 2 0 2 0
+Layden @ cf:	3 0 0 1 0 1
+Bernsen @ 1b:	3 1 2 6 0 0
+Connolly @ c:	3 0 1 4 1 0
+Green @ rf:	2 0 0 2 0 0
+Finnegan @ 3b:	3 0 0 0 0 0
+Nipper @ ss:	2 0 0 2 1 0 
+Mitchell @ p:	2 0 0 0 3 0
+TOTALS:		24 1 5 18 7 1 
+
+Macon:		ab r h po a e
+Nield @ ss:	3 0 2 0 7 0
+Matthews @ cf:	3 0 1 1 0 0
+Mack @ 2b:	3 0 0 2 1 0
+Chancey @ lf:	3 1 1 1 1 0
+Stinson @ rf:	2 0 0 2 0 0
+Munn @ 1b:	2 0 0 8 0 0
+Moore @ 3b:	2 1 1 2 0 0
+Meehan @ c:	1 0 0 5 2 0
+Martin @ p:	2 0 0 0 1 0
+TOTALS:		21 2 5 21 10 0
+
+line: Columbia: 0 0 0 0 0 0 1 - 1
+line: Macon:    0 1 0 0 1 0 x - 2
+
+B_LOB: Columbia #3; Macon #3
+B_2B: Nield; Bernsen
+B_HR: Chancey
+B_SB: Lake
+B_SH: Meehan
+B_SF: Munn; Green
+P_BB: Mitchell #1
+P_SO: Martin #4; Mitchell #4
+T: 1:05
+U: Vitter
+
+---
+
+date: 1915-05-13
+number: 2
+league: South Atlantic
+away: Columbia
+home: Macon
+source: Columbia State, May 14, 1915
+
+Columbia:	ab r h po a e
+Nally @ lf:	4 1 1 0 1 0
+Lake @ 2b:	3 1 1 0 1 1 
+Layden @ cf:	4 1 3 0 0 0
+Bernsen @ 1b-p:	4 0 0 7 2 0
+Connolly @ c:	3 0 1 5 1 1 
+Green @ rf:	2 0 0 0 1 0
+Finnegan @ 3b:	3 0 1 2 0 0
+Nipper @ ss:	3 0 2 3 1 2
+Mitchell @ p:	1 0 0 0 1 0
+Smith @ p:	1 0 0 0 0 0
+Lowry @ 1b:	1 0 0 1 0 1
+TOTALS:		29 3 9 18 8 5
+
+Macon:		ab r h po a e
+Nield @ ss:	4 0 1 0 1 0
+Matthews @ cf:	4 4 1 1 0 0
+Mack @ 2b:	3 2 3 0 0 0
+Chancey @ lf:	4 2 2 4 0 0
+Stinson @ rf:	3 1 1 1 0 0
+Munn @ 1b:	4 2 3 11 0 0
+Moore @ 3b:	3 1 1 2 1 0 
+Meehan @ c:	4 2 2 2 1 1 
+Martin @ p:	4 1 2 0 2 0
+TOTALS:		33 15 16 21 5 1
+
+line: Columbia: 2 0 0 0 0 0 1 - 3
+line: Macon:    2 0 5 1 6 1 x - 15
+
+B_LOB: Columbia #7; Macon #4
+B_2B: Stinson; Nipper; Mack #2; Martin; Munn #2; Chancey; Meehan 
+B_HR: Nally
+B_SB: Chancey; Matthews #2; Meehan
+B_SH: Mack
+B_HP: Nield; Moore; Lake
+P_BB: Mitchell #1; Bernsen #1
+P_SO: Mitchell #1
+P_H:  Mitchell #4; Smith #9; Bernsen #2
+P_IP: Mitchell #2.1; Smith #1.1; Bernsen #2.1
+P_HP: Mitchell; Smith; Martin
+P_WP: Mitchell
+F_DP: Bernsen, Nipper
+T: 1:30
+U: Vitter
+
+---
+
+date: 1915-05-13
+number: 1
+league: South Atlantic
+away: Savannah
+home: Jacksonville
+source: Columbia State, May 14, 1915
+
+Savannah:	ab r h po a e
+Handiboe @ cf:	3 1 0 2 0 1
+Lipe @ 3b:	3 0 0 1 1 0
+Crowell @ ss:	4 0 1 1 1 0
+Gust @ 1b:	4 0 1 8 1 0
+Winston @ lf:	4 0 0 3 0 0
+Shinault @ rf:	3 0 1 2 0 0
+Zimmerman @ 2b:	4 0 0 5 3 0
+Short @ c:	2 0 0 2 1 0
+Causey @ p:	3 0 0 0 6 0
+TOTALS:		30 1 3 24 13 1
+
+Jacksonville:	ab r h po a e
+Carroll @ cf:	4 1 2 3 0 0
+Crowder @ ss:	3 0 1 2 2 0
+Bowen @ 3b:	3 0 0 0 2 0
+Cueto @ lf:	2 1 0 5 0 0
+Manes @ 1b:	3 0 1 12 1 0
+Gaston @ 2b:	4 0 1 1 1 1 
+Pierre @ c:	3 1 0 4 1 0
+Brewer @ rf:	3 0 1 0 0 0
+Pratt @ p:	3 1 1 0 7 1
+TOTALS:		28 4 7 27 14 2
+
+line: Savannah:     1 0 0 0 0 0 0 0 0 - 1
+line: Jacksonville: 0 2 1 0 1 0 0 0 x - 4
+
+B_SB: Shinault
+B_SH: Lipe; Crowder; Bowen; Manes
+P_BB: Pratt #3; Causey #3
+P_SO: Pratt #2; Causey #2
+F_PB: Pierre
+T: 1:34
+U: Lewis
+
+---
+
+date: 1915-05-13
+number: 2
+league: South Atlantic
+away: Savannah
+home: Jacksonville
+source: Columbia State, May 14, 1915
+note: game called after 8th due to darkness
+
+Savannah:	ab r h po a e
+Handiboe @ cf:	4 0 0 2 0 0
+Lipe @ 3b:	2 0 0 0 3 0
+Crowell @ ss:	3 0 1 2 1 0
+Gust @ 1b:	4 1 2 10 2 0
+Winston @ lf:	4 0 0 3 0 1
+Shinault @ rf:	2 0 0 0 0 0
+Springman @ rf:	2 0 0 0 0 0 
+Zimmerman @ 2b:	3 0 1 3 1 0
+Short @ c:	3 0 0 4 1 0
+Smallwood @ p:	3 0 0 0 3 1
+TOTALS:		30 1 4 24 11 2
+
+Jacksonville:	ab r h po a e
+Carroll @ cf:	3 0 1 2 0 0
+Crowder @ ss:	3 0 0 2 3 0
+Bowen @ 3b:	3 0 1 0 1 1
+Cueto @ lf:	3 1 1 1 0 0
+Manes @ 1b:	1 0 0 10 0 0
+Gaston @ 2b:	2 0 0 1 1 0
+Pierre @ c:	3 0 0 8 1 0
+Brewer @ rf:	2 0 0 0 0 0
+Pearson @ p:	3 0 0 0 2 0
+TOTALS:		23 1 3 24 8 1
+
+line: Savannah:     0 0 0 0 0 0 1 0 - 1
+line: Jacksonville: 0 1 0 0 0 0 0 0 - 1
+
+B_2B: Cueto
+B_3B: Winston
+B_SH: Manes; Gaston
+P_BB: Pearson #2
+P_SO: Pearson #6; Smallwood #2
+F_DP: Crowell, Zimmerman, Gust; Crowell, Gust  
+T: 1:20
+U: Lewis
+
+---
+
+date: 1915-05-13
+number: 0
+league: South Atlantic
+away: Augusta
+home: Columbus
+source: Columbia State, May 14, 1915
+
+Augusta:	ab r h po a e
+Smith @ lf:	3 0 1 2 0 0
+Ogren @ 2b:	3 0 1 3 3 1
+Champlain @ 3b:	4 0 0 0 1 0
+Ezell @ cf:	2 0 1 1 0 0
+Roth @ rf:	4 0 0 1 1 0
+Davenport @ 1b:	3 0 2 9 1 0
+Eubanks @ c:	3 0 0 5 1 0
+Kelly @ ss:	3 0 0 3 3 0
+South @ p:	3 0 0 0 4 0
+TOTALS:		29 0 5 24 14 1
+
+Columbus:	ab r h po a e
+Herndon @ 3b:	2 0 0 2 2 0
+Fox @ 1b:	4 1 0 10 0 0
+McDuff @ ss:	3 0 1 0 0 0
+Hawkins @ cf:	1 0 0 1 0 0
+Folmar @ cf:	3 0 1 0 0 0
+Hart @ rf:	4 1 2 3 0 0
+Thompson @ lf:	4 0 1 1 0 0
+Potts @ 2b:	3 0 0 3 3 0
+Krebs @ c:	2 0 1 7 4 1
+Redding @ p:	3 1 0 0 3 0
+TOTALS:		29 3 6 27 12 1
+
+line: Augusta:  0 0 0 0 0 0 0 0 0 - 0
+line: Columbus: 0 0 0 1 0 1 1 0 x - 3
+
+B_LOB: Augusta #7; Columbus #6
+B_SB: McDuff; Hart; Ezell; Thompson
+B_SH: McDuff; Ogren
+B_HP: Krebs
+P_BB: Redding #4; South #2 
+P_SO: Redding #9; South #3 
+P_HP: South
+F_DP: Herndon, Potts, Fox 
+T: 1:35
+U: Lauzon
+
+---
+
+date: 1915-05-14
+number: 0
+league: South Atlantic
+away: Macon
+home: Columbia 
+source: Columbia State, May 15, 1915
+
+Macon:		ab r h po a e
+Nield @ ss:	4 0 0 2 6 0
+Mathews @ cf:	4 0 0 3 0 0
+Mack @ 2b:	3 1 1 3 2 0
+Chancey @ lf:	4 0 1 2 0 0
+Stinson @ rf:	4 1 1 1 1 0
+Moore @ 3b:	4 1 2 0 0 0
+Munn @ 1b:	4 0 1 8 1 0
+Meehan @ c:	3 0 0 5 0 0
+Foster @ p:	3 0 1 0 4 0
+TOTALS:		33 3 7 24 14 0
+
+Columbia:	ab r h po a e
+Nally @ lf:	2 2 1 2 0 0
+Lake @ 2b:	3 1 2 2 3 0
+Layden @ cf:	4 2 3 1 0 0
+Bernsen @ 1b:	4 1 2 13 1 0
+Correll @ rf:	4 0 2 1 0 0
+Connolly @ c:	3 0 0 6 0 0
+Finnegan @ 3b:	4 0 1 1 5 0
+Stuart @ ss:	3 0 0 1 2 0
+Gardin @ p:	4 0 1 0 0 0
+TOTALS:		31 6 12 27 11 0 
+
+line: Macon:    1 0 0 0 0 0 2 0 0 - 3
+line: Columbia: 3 0 0 0 1 0 2 0 x - 6
+
+B_LOB: Columbia #6; Macon #5
+B_2B: Correll; Moore
+B_SB: Lake; Layden; Mathews; Mack; Chancey
+B_SH: Lake; Stuart
+B_SF: Connolly; Meehan
+B_HP: Nally
+P_BB: Gardin #1
+P_SO: Gardin #6; Foster #3
+P_HP: Foster
+F_DP: Nield, Mack
+T: 1:15
+U: Vitter
+
+---
+
+date: 1915-05-14
+number: 0
+league: South Atlantic
+away: Albany
+home: Savannah
+source: Columbia State, May 15, 1915
+
+Albany:		ab r h po a e
+Burgess @ rf:	4 0 0 3 0 0
+Manush @ 3b:	4 1 1 1 3 0
+McDowell @ cf:	4 2 2 1 0 0
+Waldron @ 2b:	3 0 1 4 1 0
+Hanna @ lf:	4 0 1 4 0 0
+Erwin @ ss:	4 0 2 0 5 0
+Prough @ 1b:	2 0 0 12 0 0
+Wells @ c:	4 1 2 2 1 0
+Winchell @ p:	2 0 0 0 4 0
+TOTALS:		31 4 9 27 14 1
+
+Savannah:	ab r h po a e
+Winston @ lf:	3 1 0 0 0 0 
+Lipe @ 3b:	5 0 2 0 3 0
+Handiboe @ cf:	4 1 0 1 0 0
+Gust @ 1b:	3 0 0 16 0 0
+Crowell @ ss:	3 0 1 2 5 1
+Norcott @ rf:	4 0 2 2 0 0 
+Zimmerman @ 2b:	4 0 1 1 2 0
+Short @ c:	3 0 1 5 2 1
+Springman @ p:	3 1 0 0 5 0
+TOTALS:		32 3 7 27 17 2
+
+line: Albany:   0 0 3 0 0 1 0 0 0 - 4
+line: Savannah: 0 0 0 0 0 0 0 3 0 - 3
+
+B_SB: McDowell #2
+B_SH: Winchell #2; Waldron; Short
+B_HP: Winston
+P_BB: Winchell #4; Springman #2
+P_SO: Winchell #2; Springman #5
+P_HP: Winchell
+F_DP: Crowell, Zimmerman, Gust
+T: 1:55
+U: Lewis
+
+---
+
+date: 1915-05-14
+number: 0
+league: South Atlantic
+away: Columbus
+home: Augusta 
+source: Columbia State, May 15, 1915
+
+Columbus:	ab r h po a e
+Herndon @ 3b:	4 1 1 3 2 0
+Fox @ 1b:	4 0 3 8 0 0
+McDuff @ ss:	3 0 0 4 3 0
+Hawkins @ cf:	4 1 1 3 1 0
+Hart @ rf:	4 0 1 1 1 0
+Thompson @ lf:	3 1 2 0 0 0
+Potts @ 2b:	4 0 1 2 2 1
+Krebs @ c:	4 0 0 2 1 1
+Robertson @ p:	3 0 1 1 2 0
+*Voss @ ph:	1 0 1 0 0 0 
+TOTALS:		34 3 11 24 12 2
+
+Augusta:	ab r h po a e
+Smith @ lf:	5 0 2 1 0 0
+Ogren @ 2b:	4 0 2 1 2 1
+Champlain @ 3b:	4 1 2 1 0 0
+Ezell @ cf:	4 0 0 2 0 0
+Roth @ rf:	4 1 2 2 0 0
+Davenport @ 1b:	4 2 2 12 1 0
+Eubanks @ c:	3 0 2 3 3 0
+Kelly @ ss:	3 0 2 5 7 0
+McManus @ p:	4 0 1 0 4 0
+TOTALS:		35 4 15 27 17 1
+
+*: batted for Robertson in 9th
+
+line: Columbus: 0 0 0 1 1 0 0 0 1 - 3
+line: Augusta:  0 0 0 0 0 3 0 1 x - 4
+
+B_LOB: Augusta #8; Columbus #5
+B_2B: Fox; Hawkins; Davenport; Eubanks; Champlain; Smith; Kelly
+B_SB: Thompson; Potts; Champlain; Davenport
+B_SH: McDuff; Eubanks
+P_BB: McManus #1; Robertson #1 
+P_SO: McManus #1
+F_DP: McDuff, Potts; Kelly, Davenport, Eubanks
+T: 1:28
+U: Lauzon
+
+---
+
+date: 1915-05-14
+number: 0
+league: South Atlantic
+away: Jacksonville
+home: Charleston
+source: Columbia State, May 15, 1915
+
+Jacksonville:	ab r h po a e
+Carroll @ cf:	4 0 1 0 1 0
+Crowder @ ss:	4 0 1 2 5 1
+Bowen @ 3b:	4 0 2 1 3 0
+Cueto @ lf:	3 0 0 1 1 0
+Manes @ 1b:	4 0 1 8 1 0
+Gaston @ 2b:	3 0 1 3 2 0
+Pierre @ c:	3 0 0 7 2 0
+Brewer @ rf:	3 0 2 2 0 0
+Spaid @ p:	3 0 0 0 0 1
+TOTALS:		31 0 8 24 15 2
+
+Charleston:	ab r h po a e
+McDermott @ ss:	3 0 1 2 3 0
+Bitting @ 3b:	4 1 1 1 0 0
+Bankston @ lf:	2 2 2 2 1 0
+Marshall @ c:	3 0 0 6 1 0
+Sabrie @ 1b:	2 1 1 7 1 0
+Basham @ rf:	2 1 1 2 0 0
+Brooks @ 2b:	3 1 1 6 4 0
+Cates @ cf:	3 1 1 1 0 0
+Fillingem @ p:	3 0 0 0 0 0
+TOTALS:		25 7 8 27 10 0
+
+line: Jacksonville: 0 0 0 0 0 0 0 0 0 - 0
+line: Charleston:   1 0 0 2 0 4 0 0 x - 7
+
+B_2B: Crowder; Brooks; Sabrie
+B_3B: Cates
+B_SH: Marshall
+B_SF: Bankston
+B_HP: Basham
+P_BB: Spaid #6; Fillingem #1
+P_SO: Spaid #3; Fillingem #6
+P_HP: Spaid
+F_DP: Crowder, Gaston, Manes #2
+F_PB: Pierre
+T: 1:35
+U: Moran
+
+---
+
+date: 1915-05-15
+number: 0
+league: South Atlantic
+away: Macon
+home: Columbia 
+source: Columbia State, May 16, 1915
+
+Macon:		ab r h po a e
+Nield @ ss:	4 2 0 1 1 2
+Mathews @ cf:	5 1 2 2 0 0
+Mack @ 2b:	5 0 0 1 4 0
+Chancey @ lf:	5 1 1 2 0 0
+Stinson @ rf:	3 0 1 2 0 0
+Munn @ 1b:	2 1 0 5 3 0
+Moore @ 3b:	3 0 0 0 1 0
+Meehan @ c:	3 0 0 11 0 0
+May @ p:	3 1 2 3 0 0
+Williams @ p:	0 0 0 0 0 0
+TOTALS:		33 6 6 27 8 2
+
+Columbia:	ab r h po a e
+Nally @ lf:	5 1 1 2 0 0
+Lake @ 2b:	4 2 2 3 4 0
+Layden @ cf:	4 1 2 3 0 0
+Bernsen @ 1b:	5 0 1 11 0 0
+Correll @ rf:	4 0 1 1 0 1
+Connolly @ c:	4 0 1 5 2 0
+Finnegan @ 3b:	4 0 0 2 1 0
+Stuart @ ss:	4 0 1 0 3 3 
+Lowry @ p:	4 0 0 0 5 1
+TOTALS:		38 4 9 27 15 5
+
+line: Macon:    2 0 0 1 0 0 0 0 3 - 6
+line: Columbia: 0 0 0 0 0 1 1 0 2 - 4
+
+B_LOB: Columbia #8; Macon #6
+B_2B: Layden; Lake
+B_3B: Chancey; Correll
+B_SB: Layden #2; Lake #2; Bernsen; Connolly; Nield; Stinson; Mathews; May
+B_SH: Munn; May 
+B_HP: Layden; Meehan
+P_BB: Lowry #4; May #1
+P_SO: Lowry #3; May #8; Williams #1
+P_H:  May #7; Williams #2
+P_IP: May #8; Williams #1
+P_HP: May; Lowry
+T: 1:48
+U: Vitter
+
+---
+
+date: 1915-05-15
+number: 0
+league: South Atlantic
+away: Albany
+home: Savannah
+source: Columbia State, May 16, 1915
+
+Albany:		ab r h po a e
+Burgess @ rf:	4 1 1 0 0 0
+Manush @ 3b:	4 0 1 2 3 0
+McDowell @ cf:	3 0 0 2 0 0
+Waldron @ 2b:	4 0 0 3 3 0
+Hanna @ lf:	4 0 2 2 0 0
+Erwin @ ss:	4 0 1 1 5 1
+Prough @ 1b:	3 0 1 13 0 0
+Wells @ c:	2 1 0 4 2 0
+Lawrence @ p:	1 0 0 0 1 0
+Alton @ p:	1 0 0 0 1 0
+TOTALS:		30 2 6 27 15 1
+
+Savannah:	ab r h po a e
+Winston @ lf:	4 0 1 2 0 1 
+Lipe @ 3b:	3 0 1 1 3 0
+Handiboe @ cf:	3 0 1 2 0 0
+Gust @ 1b:	3 1 1 16 0 0
+Crowell @ ss:	3 0 1 1 5 0
+Norcott @ rf:	3 0 2 3 0 0
+Zimmerman @ 2b:	3 0 0 1 6 0
+Short @ c:	3 0 0 1 0 1
+Camnitz @ p:	3 0 0 0 1 0
+TOTALS:		28 1 7 27 15 2
+
+line: Albany:   0 0 0 0 2 0 0 0 0 - 2
+line: Savannah: 0 0 0 0 1 0 0 0 0 - 1
+
+B_SH: Lipe; Handiboe
+P_BB: Camnitz #2; Alton #1
+P_SO: Camnitz #1; Lawrence #1; Alton #3
+P_H: Lawrence #4; Alton #3
+P_IP: Lawrence #5; Alton #4
+F_DP: Lipe, Zimmerman, Gust; Waldron, Erwin, Prough; Manush, Prough 
+T: 1:20
+U: Lauzon
+
+---
+
+date: 1915-05-15
+number: 0
+league: South Atlantic
+away: Columbus
+home: Augusta 
+source: Columbia State, May 16, 1915
+
+Columbus:	ab r h po a e
+Herndon @ 3b:	5 2 4 2 3 0
+Fox @ 1b:	4 0 0 13 0 1
+McDuff @ ss:	4 1 1 2 1 0
+Hawkins @ cf-p:	5 2 3 2 2 0
+Hart @ rf:	4 0 1 1 0 0
+Thompson @ lf:	4 0 1 2 1 0
+Potts @ 2b:	4 0 2 2 6 0
+Krebs @ c:	4 0 0 2 3 0 
+Watson @ p:	0 0 0 0 0 0
+Voss @ cf:	4 0 0 4 0 0 
+Redding @ p:	0 0 0 0 0 0
+TOTALS:		38 5 12 30 16 1
+
+Augusta:	ab r h po a e
+Smith @ lf:	5 3 4 1 0 0
+Ogren @ 2b:	4 0 2 2 5 1
+Champlain @ 3b:	5 1 3 1 3 2
+Ezell @ cf:	4 0 1 4 0 0
+Roth @ rf:	3 0 1 4 1 0
+Davenport @ 1b:	3 0 0 12 0 0
+Eubanks @ c:	4 0 0 2 4 0
+Kelley @ ss:	4 0 1 3 1 0
+Harper @ p:	4 0 0 1 2 0
+TOTALS:		36 4 12 30 16 3
+
+line: Columbus: 2 0 0 0 0 0 0 0 2 1 - 5
+line: Augusta:  2 0 0 0 1 0 1 0 0 0 - 4
+
+B_LOB: Augusta #4; Columbus #5
+B_2B: Hawkins
+B_HP: Roth
+P_SO: Hawkins #2; Harper #1
+P_H: Watson #4; Hawkins #8
+P_IP: Watson #.1; Redding #.2; Hawkins #9
+F_DP: Hawkins, Fox; Thompson, McDuff; Roth, Davenport 
+T: 1:52
+U: Lewis
+
+---
+
+date: 1915-05-15
+number: 0
+league: South Atlantic
+away: Jacksonville
+home: Charleston
+source: Columbia State, May 16, 1915
+
+Jacksonville:	ab r h po a e
+Carroll @ cf:	5 0 3 4 0 0
+Crowder @ ss:	5 0 3 2 1 0
+Bowen @ 3b:	5 0 0 1 0 0
+Cueto @ lf:	4 0 1 4 0 0
+Manes @ 1b:	4 1 0 6 1 0
+Gaston @ 2b:	3 0 1 4 3 0
+Pierre @ c:	2 2 2 6 0 0
+Brewer @ rf:	4 0 0 0 0 0
+Burmeister @ p:	3 1 2 0 2 0
+TOTALS:		35 4 12 27 7 0
+
+Charleston:	ab r h po a e
+McDermott @ ss:	4 0 0 0 3 0
+Bitting @ 3b:	4 0 1 1 3 0
+Bankston @ lf:	4 0 0 1 0 0
+Marshall @ c:	3 0 0 4 2 0
+Sabrie @ 1b:	3 0 0 14 0 0
+Basham @ rf:	3 0 0 2 0 0
+Brooks @ 2b:	2 0 0 3 3 0
+Cates @ cf:	2 0 0 1 0 0
+Shirley @ p:	2 0 0 1 3 0
+TOTALS:		27 0 1 27 14 0
+
+line: Jacksonville: 0 2 0 2 0 0 0 0 0 - 4
+line: Charleston:   0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Jacksonville #10; Charleston #4
+B_2B: Carroll; Pierre; Burmeister
+B_SB: Crowder; Gaston 
+B_SH: Gaston; Pierre; Shirley
+B_HP: Cueto
+P_BB: Burmeister #3; Shirley #3
+P_SO: Burmeister #5; Shirley #3
+P_HP: Shirley
+P_BK: Shirley
+F_DP: Shirley, Brooks; Bitting, Marshall, Sabrie
+T: 1:30
+U: Moran
