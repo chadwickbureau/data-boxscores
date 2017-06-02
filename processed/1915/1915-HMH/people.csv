@@ -157,7 +157,8 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1915,Blue Ridge League,MLRZ0203,Miller,,Hagerstown,1915-07-29,1915-07-29,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Blue Ridge League,MLRZ0303,Miller,,Hanover,1915-05-29,1915-07-20,10,10,0,0,0,0,0,0,0,0,0,10
 1915,Blue Ridge League,MLMN0101,Milliman,,Hagerstown,1915-07-20,1915-08-25,28,1,1,0,0,0,0,0,0,0,27,1
-1915,Blue Ridge League,MRZZ0101,Moore,,Chambersburg,1915-05-27,1915-08-26,33,0,0,0,0,0,1,1,0,0,31,0
+1915,Blue Ridge League,MRZZ0102,Moore,,Chambersburg,1915-06-25,1915-08-26,32,0,0,0,0,0,0,0,0,0,31,0
+1915,Blue Ridge League,MRZZ0202,Moore [lf],,Chambersburg,1915-05-27,1915-05-27,1,0,0,0,0,0,1,1,0,0,0,0
 1915,Blue Ridge League,MRSZ0103,Morris,,Martinsburg,1915-05-28,1915-08-26,15,1,2,2,0,0,8,1,3,4,0,1
 1915,Blue Ridge League,MRSN0102,Morrison,,Frederick,1915-05-28,1915-08-17,16,0,0,1,0,0,15,15,0,0,0,0
 1915,Blue Ridge League,MRSN0202,Morrison [Orrison],,Frederick,1915-05-29,1915-05-29,1,0,0,0,0,0,1,0,0,1,0,0
