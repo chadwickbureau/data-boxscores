@@ -1,0 +1,529 @@
+date: 1915-05-26
+number:0
+league: Buckeye
+away: Canton 
+home: Marion 
+status: postponed
+status-reason: rain
+source: Marion Daily Star, May 27, 1915
+
+---
+
+
+date: 1915-05-26
+number: 0
+league: Buckeye
+away: Newark
+home: Lima
+status: postponed
+status-reason: rain
+source: Marion Daily Star, May 27, 1915
+
+---
+
+
+date: 1915-05-26
+number: 0
+league: Buckeye
+away: Akron
+home: Findlay
+source: Marion Daily Star, May 27, 1915
+
+Akron:		r h e
+McKee @ p:	x x x
+Talbott @ c:	x x x
+TOTALS:		5 4 0
+
+Findlay:	r h e
+Richmond @ p:	x x x
+McGivern @ c:	x x x
+TOTALS:		1 4 7
+
+---
+
+date: 1915-05-27
+number: 0
+league: Buckeye
+away: Findlay
+home: Marion 
+source: Marion Daily Star, May 28, 1915
+
+Findlay:	ab r h po a e
+Donaldson @ rf:	5 0 0 1 0 0 
+Blue @ ss:	5 1 0 1 2 1
+Werner @ lf:	5 2 3 1 0 0
+Yockey @ 2b:	4 2 2 1 1 0
+Chapman @ 1b:	5 2 3 6 0 0
+Costello @ cf:	4 1 1 5 0 0
+McGuire @ 3b:	3 2 0 1 1 1 
+Fields @ c:	5 0 1 9 1 0
+McClusky @ p:	5 1 2 2 2 1
+TOTALS:		41 11 12 27 7 3
+
+Marion:		ab r h po a e
+McGonigle @ 2b:	2 1 0 3 1 1
+Wetzel @ 3b:	3 0 0 0 2 0
+Thoma @ cf:	4 0 1 3 0 0
+Bonin @ rf:	4 0 2 0 0 0
+Neer @ 1b:	4 0 1 9 1 3
+Leake @ lf:	3 0 1 1 0 0
+Judge @ ss:	2 0 1 1 2 1
+Breymaier @ c:	4 0 0 10 2 0
+Orndolf @ p:	4 0 0 0 3 0
+TOTALS:		30 1 6 27 11 5
+
+line: Findlay: 0 0 0 3 3 3 0 0 2 - 11
+line: Marion:  1 0 0 0 0 0 0 0 0 - 1
+
+B_LOB: Findlay #7; Marion #13
+B_2B: Yockey; Fields
+B_SB: Yockey; Chapman #3; Costello; McGuire; Fields; McGonigle
+B_SH: Costello; Wetzel
+B_HP: Wetzel
+P_BB: McClusky #9; Orndolf #3
+P_SO: McClusky #8; Orndolf #10
+P_HP: McClusky
+F_DP: McGuire, Chapman
+T: 2:18
+U: Taylor
+
+---
+
+date: 1915-05-27
+number:0
+league: Buckeye
+away: Lima 
+home: Canton  
+source: Marion Daily Star, May 28, 1915
+
+Lima:		r h e
+Clarke @ p:	x x x
+Marooney @ c:	x x x
+TOTALS:		7 13 0
+
+Canton:		r h e
+McLaughlin @ p:	x x x 
+Kirby @ c:	x x x 
+TOTALS:		0 5 2
+
+---
+
+date: 1915-05-27
+number: 0
+league: Buckeye
+away: Newark
+home: Akron
+source: Marion Daily Star, May 28, 1915
+
+Newark:		r h e
+Dillon @ p:	x x x
+Blanchard @ c:	x x x
+TOTALS:		5 9 4
+
+Akron:		r h e
+Linne @ p:	x x x
+Hook @ p:	x x x 
+Talbot @ c:	x x x
+TOTALS:		7 7 3
+
+line: Newark: 0 2 0 0 0 0 3 0 0 - 5
+line: Akron:  1 0 0 1 1 1 0 3 x - 7
+
+---
+
+date: 1915-05-28
+number: 0
+league: Buckeye
+away: Findlay
+home: Marion 
+status: postponed
+status-reason: rain
+source: Marion Daily Star, May 29, 1915
+
+---
+
+date: 1915-05-28
+number: 0
+league: Buckeye
+away: Newark
+home: Akron
+source: Marion Daily Star, May 29, 1915
+
+Newark:		r h e
+Dougherty @ p:	x x x
+Blanchard @ c:	x x x
+TOTALS:		7 14 1
+
+Akron:		r h e
+Connor @ p:	x x x
+McKee @ p:	x x x 
+Talbot @ c:	x x x
+TOTALS:		6 12 2
+
+line: Newark: 4 2 0 0 0 0 0 1 0 - 7
+line: Akron:  2 0 1 0 0 0 1 0 2 - 6
+
+---
+
+date: 1915-05-28
+number: 0
+league: Buckeye
+away: Lima 
+home: Canton  
+source: Marion Daily Star, May 29, 1915
+
+Lima:		r h e
+Warren @ p:	x x x
+Reynolds @ p:	x x x
+Maroney @ c:	x x x
+TOTALS:		4 12 1
+
+Canton:		ab r h 
+Spahr @ p:	x x x 
+Kirby @ c:	x x x
+TOTALS:		3 6 2
+
+line: Lima:   0 1 0 1 0 1 0 0 1 - 4
+line: Canton: 0 0 0 2 0 0 0 1 0 - 3
+
+---
+
+date: 1915-05-29
+number:0
+league: Buckeye
+away: Newark 
+home: Canton  
+status: postponed
+status-reason: wet grounds
+source: Marion Daily Star, May 31, 1915
+
+---
+
+date: 1915-05-29
+number:0
+league: Buckeye
+away: Lima
+home: Akron  
+status: postponed
+status-reason: rain
+source: Marion Daily Star, May 31, 1915
+
+---
+
+date: 1915-05-29
+number:0
+league: Buckeye
+away: Marion
+home: Findlay 
+status: postponed
+status-reason: rain
+source: Marion Daily Star, May 31, 1915
+
+---
+
+date: 1915-05-30
+number: 0
+league: Buckeye
+away: Lima
+home: Akron
+source: Marion Daily Star, June 1, 1915
+
+Lima:		r h e
+Clark @ p:	x x x
+Maroney @ c:	x x x
+TOTALS:		6 11 0
+
+Akron:		r h e
+Hook @ p:	x x x
+Linne @ p:	x x x 
+Talbot @ c:	x x x
+TOTALS:		0 4 2
+
+line: Lima:  1 2 2 0 1 0 0 0 0 - 6
+line: Akron: 0 0 0 0 0 0 0 0 0 - 0
+
+---
+
+date: 1915-05-30
+number:0
+league: Buckeye
+away: Newark 
+home: Canton  
+status: postponed
+status-reason: wet grounds
+source: Marion Daily Star, May 31, 1915
+
+---
+
+date: 1915-05-30
+number: 0
+league: Buckeye
+away: Findlay
+home: Marion 
+source: Marion Daily Star, May 31, 1915
+note: game called after 7th to allow Findlay to catch train
+
+Findlay:	ab r h po a e
+Donaldson @ rf:	3 0 0 0 0 0
+Blue @ ss:	4 1 1 2 1 0
+Werner @ lf:	4 1 2 0 0 0
+Yockey @ 2b:	3 0 2 2 2 2
+Chapman @ 1b:	3 1 1 5 0 0
+Costello @ cf:	3 0 1 2 0 0
+McGuire @ 3b:	2 0 0 2 1 0 
+Field @ c:	3 0 2 8 2 1
+Frech @ p:	3 0 0 0 3 0
+TOTALS:		28 3 9 21 9 3
+
+Marion:		ab r h po a e
+McGonigle @ 2b:	4 0 1 2 2 0
+Wetzel @ 3b:	4 0 2 0 0 0
+Thoma @ cf:	4 0 0 1 1 0
+Bonin @ rf:	4 1 3 3 0 0
+Neer @ 1b:	2 1 0 7 0 0
+Leake @ lf:	4 3 1 2 0 0
+Judge @ ss:	2 0 1 1 3 0
+Breymaier @ c:	4 0 1 5 3 0
+Hart @ p:	1 0 0 0 2 0
+Orndolf @ p:	2 1 1 0 1 0
+*Price @ ph:	0 0 0 0 0 0
+TOTALS:		31 6 10 21 12 0
+
+*: batted for Hart in 5th
+
+line: Findlay: 0 0 0 1 2 0 0 - 3
+line: Marion:  0 2 0 0 0 2 2 - 6
+
+B_LOB: Findlay #6; Marion #10
+B_2B: Yockey; Judge
+B_SB: Leake
+B_SH: Neer
+B_HP: McGuire
+P_BB: Frech #5; Hart #1
+P_SO: Frech #7; Hart #1 ; Orndolf #4
+P_H: Hart #9
+P_IP: Hart #5; Orndolf #2
+P_HP: Orndolf
+F_DP: Thoma, Breymaier 
+T: 1:45
+U: Taylor
+
+---
+
+date: 1915-05-31
+number: 1
+league: Buckeye
+away: Lima
+home: Findlay
+source: Marion Daily Star, June 1, 1915
+
+Lima:		r h e
+Bond @ p:	x x x
+Maroney @ c:	x x x
+TOTALS:		1 4 6
+
+Findlay:	r h e
+Schultz @ p:	x x x
+Fields @ c:	x x x
+TOTALS:		4 6 5
+
+line: Lima:    0 1 0 0 0 0 0 0 0 - 1
+line: Findlay: 2 1 0 0 1 0 0 0 x - 4
+
+---
+
+date: 1915-05-31
+number: 2
+league: Buckeye
+away: Findlay
+home: Lima  
+source: Marion Daily Star, June 1, 1915
+
+Findlay:	r h e
+McCloskey @ p:	x x x
+Schultz @ p:	x x x
+Fields @ c:	x x x
+TOTALS:		3 6 5
+
+Lima:		r h e
+Reynolds @ p:	x x x
+Maroney @ c:	x x x
+TOTALS:		8 9 0
+
+line: Findlay: 2 0 0 1 0 0 0 0 0 - 3
+line: Lima:    2 0 0 0 4 2 0 0 0 - 8
+
+---
+
+date: 1915-05-31
+number: 1
+league: Buckeye
+away: Akron
+home: Canton   
+source: Marion Daily Star, June 1, 1915
+	
+Akron:			r h e
+Connors @ p:		x x x
+Talbott @ c:		x x x
+TOTALS:			0 3 3
+
+Canton:			r h e
+Barnhart @ p:		x x x 
+Kirby @ c:		x x x
+TOTALS:			3 4 0 
+
+line: Akron:  0 0 0 0 0 0 0 - 0
+line: Canton: 0 0 0 1 2 0 x - 3
+
+---
+
+date: 1915-05-31
+number: 2
+league: Buckeye
+away: Canton 
+home:  Akron  
+source: Marion Daily Star, June 1, 1915
+	
+Canton:			r h e
+Sparr @ p:		x x x
+Kirby @ c:		x x x
+TOTALS:			4 9 0
+
+Akron:			r h e
+McKee @ p: 		x x x
+Talbott @ c:		x x x
+TOTALS:			1 8 4 
+
+line: Canton: 3 0 0 0 0 1 0 0 0 - 4
+line: Akron:  0 0 0 0 0 1 0 0 0 - 1
+
+U: Pastorius
+
+---
+
+date: 1915-05-31
+number: 1
+league: Buckeye
+away: Newark 
+home: Marion
+source: Marion Daily Star, June 1, 1915
+
+Newark:		ab r h po a e
+Long @ lf:	4 1 0 0 0 0
+Price, E. @ ss:	3 0 1 0 2 1
+Wratten @ 3b:	4 2 1 3 3 0
+Humphries @ 2b:	4 0 0 2 2 0
+Strawn @ rf:	4 0 1 2 0 0
+Lamb @ cf:	4 0 0 3 0 0
+Molloy @ 1b:	4 0 1 9 0 1
+Blanchard @ c:	3 0 0 5 0 1
+Baird @ p:	0 0 0 0 0 0
+Drake @ p:	3 0 0 0 3 0
+TOTALS:		33 3 4 24 10 3
+
+Marion:		ab r h po a e
+McGonigle @ 2b:	5 1 2 3 2 1
+Wetzel @ 3b:	3 2 1 1 3 0
+Thoma @ cf:	4 2 1 2 0 0
+Bonin @ rf:	5 2 4 0 0 0
+Neer @ 1b:	5 1 1 7 0 1
+Price [Mar] @ lf:	4 0 3 1 0 0
+Judge @ ss:	4 0 0 2 2 2
+Breymaier @ c:	3 1 1 11 1 0
+Leake @ p:	4 0 1 0 4 0
+TOTALS:		37 9 14 27 12 4
+
+line: Newark: 1 0 0 0 0 1 0 1 0 - 3
+line: Marion: 3 1 0 0 0 4 1 0 x - 9
+
+B_LOB: Newark #4; Marion #10
+B_2B: Bonin #3; Neer; Breymaier
+B_3B: Strawn
+B_HR: Wratten
+B_SB: Bonin; Judge
+B_SH: E. Price; Judge
+B_HP: Wetzel
+P_BB: Baird #2; Drake #2
+P_SO: Drake #4; Leake #10
+P_IP: Baird #.1; Drake #7.2
+P_H: Baird #2; Drake #12
+P_HP: Drake
+F_DP: Judge, McGonigle, Neer; Wratten, Molloy
+F_PB: Blanchard
+T: 1:59
+U: Peterman
+
+---
+
+
+date: 1915-05-31
+number: 2
+league: Buckeye
+away: Newark 
+home: Marion
+source: Marion Daily Star, June 1, 1915
+
+Newark:		ab r h po a e
+Long @ lf:	3 0 1 2 0 0
+Price, E.  @ ss:	4 1 1 1 1 0
+Wratten @ 3b:	4 0 0 2 1 0
+Humphries @ 2b:	2 0 1 0 2 0
+Strawn @ rf:	2 0 0 1 0 0
+Lamb @ 1b:	2 0 0 5 0 0
+Molloy @ cf:	0 0 0 0 1 0
+Baird @ cf:	1 0 0 0 0 0
+Pearce @ c:	3 1 1 6 0 0
+Dillon @ p:	3 0 0 1 2 1
+TOTALS:		24 2 4 18 7 1
+
+Marion:		ab r h po a e
+McGonigle @ 2b:	3 1 1 2 1 0
+Wetzel @ 3b:	3 0 2 1 3 0
+Thoma @ cf:	4 0 0 0 0 0
+Bonin @ rf:	3 1 3 1 0 0
+Neer @ 1b:	2 1 1 9 0 0
+Price @ lf:	3 0 0 1 0 0
+Judge @ ss:	2 2 1 1 3 2
+Breymaier @ c:	3 2 2 5 2 0
+Hoffman @ p:	2 0 0 1 2 0
+TOTALS:		25 7 10 21 11 2
+
+line: Newark: 0 0 0 0 0 1 1 - 2
+line: Marion: 1 0 0 4 0 2 x - 7
+
+B_LOB: Newark #7; Marion #5
+B_2B: E. Price; McGonigle; Bonin; Breymaier; Judge
+B_HR: Pearce; Neer
+B_SB: Strawn; McGonigle; Wetzel; Bonin #2
+B_SH: Molloy; Wetzel; Hoffman
+B_HP: Humphries
+P_BB: Dillon #3; Hoffman #4
+P_SO: Dillon #5; Hoffman #4
+P_HP: Hoffman
+F_PB: Breymaier 
+T: 1:40
+U: Peterman; Blanchard; Leake
+
+---
+
+date: 1915-06-01
+number: 0
+league: Buckeye
+away: Lima
+home: Findlay  
+source: Marion Daily Star, June 2, 1915
+
+Lima:		r h e
+Clark @ p:	x x x
+Maroney @ c:	x x x
+TOTALS:		6 10 3
+
+Findlay:	r h e
+Richmond @ p:	x x x
+Schudz @ p:	x x x
+Frech @ p:	x x x
+McGivern @ c:	x x x
+TOTALS:		7 14 2
+
+line: Lima:    0 0 0 0 0 4 0 2 0 0 - 6
+line: Findlay: 0 2 2 0 0 0 0 0 2 1 - 7
