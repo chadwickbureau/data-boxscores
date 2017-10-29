@@ -7,7 +7,7 @@ import pandas as pd
 import fuzzy
 
 class Game(object):
-    _subskeys = [ "*", "+", "^" ]
+    _subskeys = [ "*", "+", "^", "&" ]
     # "DI" is used sporadically in Winnipeg paper in 1915 - assuming it is RBI
     _categorymap = { "ab":   "B_AB",
                      "r":    "B_R",
