@@ -1,0 +1,672 @@
+league.year,league.name,person.ref,person.name.last,person.name.given,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G
+1908,Arkansas State League,ALNZ0101,Allen,,Poplar Bluff,1908-04-21,1908-05-19,5,5,0,0,0,0,0,0,0,0,0,5
+1908,Arkansas State League,ALSN0101,Allison,,Poplar Bluff,1908-04-25,1908-04-25,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,ARTR0101,Arriter,,Newport,1908-06-01,1908-06-01,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Arkansas State League,PKNZ0101,Bacon,,Argenta,1908-06-06,1908-06-06,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Arkansas State League,PMPZ0101,Bamb,,Helena,1908-04-25,1908-04-25,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Arkansas State League,PRNS0101,Bernstein,,Helena,1908-05-22,1908-06-07,4,4,0,0,0,0,0,0,0,0,0,4
+1908,Arkansas State League,PRZZ0101,Berry,,Pine Bluff,1908-05-15,1908-05-22,7,0,0,0,0,0,0,0,0,0,7,0
+1908,Arkansas State League,PLKT0101,Blackwood,,Newport,1908-04-24,1908-06-01,9,9,0,0,0,0,0,0,0,0,0,9
+1908,Arkansas State League,PLKL0101,Blakeley,,Hot Springs,1908-06-06,1908-06-06,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,PRTZ0103,Brady,,Pine Bluff,1908-05-25,1908-05-25,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Arkansas State League,PRML0101,Bromley,,Argenta,1908-05-30,1908-06-02,3,0,0,0,0,0,0,0,0,0,3,0
+1908,Arkansas State League,PRNZ0102,Brown,,Argenta,1908-06-04,1908-06-04,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Arkansas State League,PRNZ0202,Brown,,Poplar Bluff,1908-05-15,1908-05-20,5,0,0,0,0,0,0,0,0,0,5,0
+1908,Arkansas State League,PRMT0103,Brummett,,Argenta,1908-05-26,1908-05-26,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,PRMT0203,Brummit,,Argenta,1908-06-02,1908-06-02,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,PRMT0303,Brummitt,,Hot Springs,1908-04-30,1908-05-16,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Arkansas State League,PMZZ0101,Bumb,,Helena,1908-04-23,1908-04-26,2,0,0,0,0,0,0,0,0,0,2,0
+1908,Arkansas State League,KKZZ0102,Cook,,Poplar Bluff,1908-04-22,1908-05-05,3,3,0,0,0,0,0,0,0,0,0,3
+1908,Arkansas State League,KLTR0101,Coulter,,Argenta,1908-04-30,1908-04-30,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,KNZZ0101,Cowan,,Hot Springs,1908-05-01,1908-05-13,3,0,0,0,0,0,0,0,0,0,3,0
+1908,Arkansas State League,KKZZ0202,Craig,,Poplar Bluff,1908-04-30,1908-04-30,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Arkansas State League,TFRZ0101,Deaver,,Pine Bluff,1908-04-20,1908-06-04,15,15,0,0,0,0,0,0,0,0,0,15
+1908,Arkansas State League,TFRS0101,Deavers,,Pine Bluff,1908-04-23,1908-04-23,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,TTLZ0101,Dudley,,Argenta,1908-04-22,1908-04-27,4,0,0,0,0,0,0,0,0,0,4,0
+1908,Arkansas State League,FZZZ0101,Fay,,Hot Springs,1908-05-03,1908-06-07,7,7,0,0,0,0,0,0,0,0,0,7
+1908,Arkansas State League,KRHZ0102,Grohe,,Helena,1908-05-08,1908-05-08,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,KRHZ0202,Groho,,Helena,1908-05-04,1908-05-04,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,KRSZ0103,Grohs,,Argenta,1908-05-28,1908-06-02,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Arkansas State League,KRSZ0203,Grohs,,Helena,1908-04-22,1908-05-20,6,6,0,0,0,0,0,0,0,0,0,6
+1908,Arkansas State League,KRSZ0303,Gross,,Helena,1908-05-23,1908-05-23,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,HRLZ0101,Harlow,,Helena,1908-05-14,1908-06-05,6,0,0,0,0,0,0,0,0,0,6,0
+1908,Arkansas State League,HRLT0101,Harold,,Poplar Bluff,1908-04-28,1908-04-28,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,HRNK0101,Harrington,,Poplar Bluff,1908-04-21,1908-04-28,3,3,0,0,0,0,0,0,0,0,0,3
+1908,Arkansas State League,HRTZ0101,Harrod,,Poplar Bluff,1908-05-02,1908-05-02,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,HXZZ0101,Haschie,,Argenta,1908-05-15,1908-05-15,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,HSTZ0101,Hastey,,Helena,1908-04-20,1908-04-24,3,0,0,0,0,0,0,0,0,0,3,0
+1908,Arkansas State League,HSZZ0101,Hayes,,Argenta,1908-05-30,1908-05-30,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Arkansas State League,HJLF0102,Heigelford,,Newport,1908-04-27,1908-04-27,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,HJLF0202,Heigelfort,,Newport,1908-05-05,1908-05-27,5,5,0,0,0,0,0,0,0,0,0,5
+1908,Arkansas State League,HKLF0103,Heiglefoot,,Newport,1908-05-09,1908-05-09,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,HKLF0203,Heigleford,,Newport,1908-06-02,1908-06-02,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,HKLF0303,Heiglefort,,Newport,1908-04-22,1908-05-30,4,4,0,0,0,0,0,0,0,0,0,4
+1908,Arkansas State League,HXLZ0102,Hoeschel,,Argenta,1908-05-22,1908-05-22,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,HXLZ0202,Hoeschelle,,Argenta,1908-05-26,1908-05-26,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,HFMN0101,Hoffman,,Helena,1908-04-24,1908-04-24,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,HPRZ0101,Hopper,,Poplar Bluff,1908-04-20,1908-05-19,13,2,0,0,0,0,0,0,0,0,11,2
+1908,Arkansas State League,JLZZ0102,Jehl,,Hot Springs,1908-05-20,1908-05-20,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Arkansas State League,JNSN0101,Johnson,,Helena,1908-05-26,1908-05-26,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,JLZZ0202,Jolly,,Helena,1908-05-12,1908-06-07,12,0,0,0,0,0,0,0,0,0,12,0
+1908,Arkansas State League,JNSZ0102,Jones,,Hot Springs,1908-05-09,1908-05-09,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,JNSZ0202,Jones,Arthur,Hot Springs,1908-04-25,1908-04-25,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,K0LZ0102,Keathley,,Hot Springs,1908-04-28,1908-05-03,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Arkansas State League,KLNK0101,Keeling,,Hot Springs,1908-04-24,1908-04-24,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,K0LZ0202,Keithley,,Hot Springs,1908-05-08,1908-05-27,3,3,0,0,0,0,0,0,0,0,0,3
+1908,Arkansas State League,KRZZ0102,Ker,,Helena,1908-04-27,1908-05-22,5,5,0,0,0,0,0,0,0,0,0,5
+1908,Arkansas State League,KRZZ0202,Kerr,,Helena,1908-04-24,1908-05-05,3,3,0,0,0,0,0,0,0,0,0,3
+1908,Arkansas State League,KMPL0102,Kimball,,Newport,1908-04-20,1908-06-03,10,10,0,0,0,0,0,0,0,0,0,10
+1908,Arkansas State League,KMPL0202,Kimble,,Newport,1908-04-25,1908-05-16,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Arkansas State League,KRTS0101,Kratsberg,,Helena,1908-04-23,1908-04-23,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,LHRS0101,Leuherson,,Poplar Bluff,1908-05-02,1908-05-25,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Arkansas State League,LRSN0106,Leuhrson,,Poplar Bluff,1908-05-27,1908-05-27,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,LSZZ0101,Lewis,,Pine Bluff,1908-05-30,1908-05-30,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,LXRS0101,Lucherson,,Poplar Bluff,1908-04-20,1908-04-20,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,LRSN0206,Luehrson,,Poplar Bluff,1908-04-24,1908-04-24,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,LRSN0306,Luhresen,,Poplar Bluff,1908-05-21,1908-05-21,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,LRSN0406,Luhrsen,,Argenta,1908-06-06,1908-06-06,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,LRSN0506,Luhrsen,,Poplar Bluff,1908-04-27,1908-05-18,4,4,0,0,0,0,0,0,0,0,0,4
+1908,Arkansas State League,LRSN0606,Luhrson,,Poplar Bluff,1908-05-12,1908-05-15,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Arkansas State League,MRTN0101,Martin,,Pine Bluff,1908-04-22,1908-04-25,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Arkansas State League,MSNZ0101,Mason,,Helena,1908-05-30,1908-06-07,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Arkansas State League,MKTM0101,McAdams,,Argenta,1908-04-20,1908-06-06,13,13,0,0,0,0,0,0,0,0,0,13
+1908,Arkansas State League,MKNL0101,McDonald,,Poplar Bluff,1908-05-03,1908-05-03,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Arkansas State League,MKLZ0101,McDowell,,Poplar Bluff,1908-05-08,1908-05-31,13,0,0,0,0,0,0,0,0,0,13,0
+1908,Arkansas State League,MLRZ0101,Miller,,Argenta,1908-04-20,1908-06-03,28,0,0,0,0,0,0,0,0,0,28,0
+1908,Arkansas State League,MRZZ0102,Moore,,Poplar Bluff,1908-05-05,1908-05-05,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,MRZZ0202,Morrow,,Pine Bluff,1908-05-31,1908-05-31,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Arkansas State League,MLTN0101,Moulden,,Pine Bluff,1908-06-02,1908-06-04,2,0,0,0,0,0,0,0,0,0,2,0
+1908,Arkansas State League,MLTR0101,Moulter,,Pine Bluff,1908-05-30,1908-05-30,2,0,0,0,0,0,0,0,0,0,2,0
+1908,Arkansas State League,MLNZ0101,Mullin,,Pine Bluff,1908-06-01,1908-06-01,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,MLNS0101,Mullins,,Pine Bluff,1908-06-06,1908-06-06,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,AKNZ0101,Oquinn,,Poplar Bluff,1908-04-21,1908-04-21,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,ARZZ0101,Orr,,Argenta,1908-06-06,1908-06-06,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Arkansas State League,PRTZ0203,Parrott,,Argenta,1908-06-01,1908-06-02,2,0,0,0,0,0,0,0,0,0,2,0
+1908,Arkansas State League,PRTZ0303,Parrott,,Hot Springs,1908-04-20,1908-05-31,31,0,0,0,0,0,0,0,0,0,31,0
+1908,Arkansas State League,PTMN0101,Pittman,,Pine Bluff,1908-05-27,1908-05-27,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,PKTZ0101,Puckett,,Pine Bluff,1908-04-20,1908-05-14,19,0,0,0,0,0,0,0,0,0,19,0
+1908,Arkansas State League,RNZZ0101,Rainey,,Hot Springs,1908-06-05,1908-06-07,3,0,0,0,0,0,0,0,0,0,3,0
+1908,Arkansas State League,RKZZ0101,Reece,,Argenta,1908-05-16,1908-05-19,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Arkansas State League,RSZZ0101,Reese,,Argenta,1908-04-22,1908-06-03,6,6,0,0,0,0,0,0,0,0,0,6
+1908,Arkansas State League,RKSZ0101,Riggs,,Hot Springs,1908-05-02,1908-06-02,7,0,0,0,0,0,0,0,0,0,7,0
+1908,Arkansas State League,RNKS0101,Ringgs,,Hot Springs,1908-04-28,1908-04-28,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Arkansas State League,RTRZ0101,Ritter,,Newport,1908-04-20,1908-06-03,35,1,0,0,0,0,0,0,0,0,34,1
+1908,Arkansas State League,RJRS0101,Rodgers,,Helena,1908-05-02,1908-05-21,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Arkansas State League,RKRS0101,Rogers,,Helena,1908-04-20,1908-06-05,10,10,0,0,0,0,0,0,0,0,0,10
+1908,Arkansas State League,SLMZ0101,Salm,,Argenta,1908-04-25,1908-05-08,3,3,0,0,0,0,0,0,0,0,0,3
+1908,Arkansas State League,XMTZ0101,Schmidt,,Helena,1908-04-27,1908-05-10,6,1,0,0,0,0,0,0,0,0,5,1
+1908,Arkansas State League,XZZZ0102,Shaw,,Newport,1908-05-03,1908-05-30,6,6,0,0,0,0,0,0,0,0,0,6
+1908,Arkansas State League,XZZZ0202,Shay,,Newport,1908-04-21,1908-04-21,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,XLTN0102,Sheldon,,Helena,1908-04-30,1908-04-30,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Arkansas State League,XLTN0202,Shelton,,Helena,1908-04-28,1908-05-11,5,0,0,0,0,0,0,0,0,0,5,0
+1908,Arkansas State League,SM0Z0101,Smith,,Argenta,1908-04-23,1908-05-23,7,7,0,0,0,0,0,0,0,0,0,7
+1908,Arkansas State League,SLFN0101,Sullivan,,Poplar Bluff,1908-04-22,1908-05-01,2,1,0,0,0,0,0,0,0,0,1,1
+1908,Arkansas State League,TLRZ0102,Taylor,,Pine Bluff,1908-05-25,1908-05-27,3,0,0,0,0,0,0,0,0,0,3,0
+1908,Arkansas State League,TLRZ0202,Taylor,R.,Pine Bluff,1908-05-22,1908-06-06,4,0,0,0,0,0,0,0,0,0,4,0
+1908,Arkansas State League,FKNZ0103,Vaughan,,Hot Springs,1908-04-20,1908-05-31,7,7,0,0,0,0,0,0,0,0,0,7
+1908,Arkansas State League,FKNZ0203,Vaughan,James,Hot Springs,1908-05-05,1908-05-05,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,FKNZ0303,Vaughn,,Hot Springs,1908-05-11,1908-05-18,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Arkansas State League,ALKZ0101,Wallace,,Hot Springs,1908-06-01,1908-06-01,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,ARTZ0102,Ward,,Argenta,1908-05-08,1908-05-08,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Arkansas State League,ARTZ0202,Ward,G.,Pine Bluff,1908-06-06,1908-06-06,2,0,0,0,0,0,0,0,0,0,2,0
+1908,Arkansas State League,APRZ0101,Weber,,Helena,1908-05-31,1908-06-06,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Arkansas State League,ALXZ0102,Welch,,Pine Bluff,1908-04-24,1908-06-06,12,12,0,0,0,0,0,0,0,0,0,12
+1908,Arkansas State League,ALXZ0202,Welsh,,Pine Bluff,1908-05-05,1908-05-05,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,ALRZ0101,Wheeler,,Pine Bluff,1908-05-12,1908-05-12,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,ATZZ0102,White,,Poplar Bluff,1908-05-10,1908-05-30,6,6,0,0,0,0,0,0,0,0,0,6
+1908,Arkansas State League,ATZZ0202,Wood,,Pine Bluff,1908-04-22,1908-05-18,6,6,0,0,0,0,0,0,0,0,0,6
+1908,Arkansas State League,RPZZ0102,Wrap,,Hot Springs,1908-05-02,1908-05-02,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Arkansas State League,RPZZ0202,Wrap,,Poplar Bluff,1908-05-19,1908-05-30,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Arkansas State League,RZZZ0102,Wray,,Hot Springs,1908-04-23,1908-04-26,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Arkansas State League,RZZZ0202,Wray,,Poplar Bluff,1908-05-05,1908-05-31,4,4,0,0,0,0,0,0,0,0,0,4
+1908,Arkansas State League,RTZZ0102,Wright,,Hot Springs,1908-04-22,1908-06-05,14,14,0,0,0,0,0,0,0,0,0,14
+1908,Arkansas State League,RTZZ0202,Wright,,Poplar Bluff,1908-05-13,1908-05-13,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Cotton States League,ATNK0104,Ad'ngton,,Monroe,1908-05-31,1908-05-31,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Cotton States League,ATKT0101,Add'gton,,Monroe,1908-04-05,1908-05-29,18,0,0,0,18,0,0,0,0,0,0,0
+1908,Cotton States League,ATNN0101,Addin'n,,Monroe,1908-05-05,1908-05-05,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Cotton States League,ATNK0204,Adding'n,,Monroe,1908-04-09,1908-04-28,2,0,0,0,2,0,0,0,0,0,0,0
+1908,Cotton States League,ATNK0304,Addingt'n,,Monroe,1908-04-22,1908-05-11,2,0,0,0,2,0,0,0,0,0,0,0
+1908,Cotton States League,ATNK0404,Addington,,Monroe,1908-04-02,1908-06-06,30,0,0,0,29,1,0,0,0,0,0,0
+1908,Cotton States League,ALSN0101,Allison,,Columbus,1908-05-28,1908-06-06,3,3,0,0,0,0,0,0,0,0,0,3
+1908,Cotton States League,ANTR0103,Ander'n,,Columbus,1908-06-02,1908-06-02,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Cotton States League,ANTR0203,Anders'n,,Columbus,1908-04-22,1908-04-28,2,0,0,0,0,0,2,0,0,2,0,0
+1908,Cotton States League,ANTR0303,Anderson,,Columbus,1908-04-04,1908-06-07,43,0,0,0,0,0,43,0,0,43,0,0
+1908,Cotton States League,PKPN0103,B'k'b'n,R.,Jackson,1908-05-27,1908-05-27,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Cotton States League,PKPN0203,B'kb'n,G.,Vicksburg,1908-05-27,1908-05-27,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Cotton States League,PKPN0303,B'kb'n,R.,Jackson,1908-04-07,1908-04-07,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Cotton States League,PKPR0102,B'kburn,,Jackson,1908-04-08,1908-04-08,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Cotton States League,PKPR0202,B'kburn,,Vicksburg,1908-06-05,1908-06-05,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Cotton States League,PRPR0101,Barber,,Jackson,1908-04-02,1908-06-06,24,19,0,0,0,0,5,0,0,5,0,19
+1908,Cotton States League,PTSZ0101,Bates,,Meridian,1908-04-02,1908-04-25,20,0,0,0,0,0,20,0,0,20,0,0
+1908,Cotton States League,PRZZ0101,Bauer,,Monroe,1908-04-02,1908-06-03,29,17,1,0,0,0,11,2,2,7,0,17
+1908,Cotton States League,PPZZ0101,Bebeau,,Vicksburg,1908-04-02,1908-04-13,5,0,0,0,5,0,0,0,0,0,0,0
+1908,Cotton States League,PLRT0102,Billard,,Meridian,1908-04-13,1908-04-13,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Cotton States League,PLRT0202,Billiard,,Meridian,1908-04-02,1908-06-03,24,18,0,0,0,0,5,3,0,3,0,18
+1908,Cotton States League,PLXT0101,Bl'ch'tt,,Monroe,1908-04-13,1908-04-13,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Cotton States League,PLKP0109,Bl'ckbn,,Jackson,1908-05-19,1908-05-19,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Cotton States League,PLKP0209,Bl'kburn,,Jackson,1908-04-17,1908-05-30,11,0,0,0,11,0,0,0,0,0,0,0
+1908,Cotton States League,PLKP0309,Bl'kburn,,Vicksburg,1908-05-01,1908-06-07,3,0,3,0,0,0,0,0,0,0,0,0
+1908,Cotton States League,PLNK0101,Bl'nchtt,,Monroe,1908-05-19,1908-05-21,2,0,2,0,0,0,0,0,0,0,0,0
+1908,Cotton States League,PLKR0102,Blacg'rn,,Jackson,1908-04-09,1908-04-09,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Cotton States League,PLKN0108,Black'n,,Vicksburg,1908-06-03,1908-06-03,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Cotton States League,PLKR0202,Black'rn,,Jackson,1908-06-03,1908-06-03,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Cotton States League,PLKP0409,Blackb'n,,Jackson,1908-04-22,1908-06-03,7,0,0,0,7,0,0,0,0,0,0,0
+1908,Cotton States League,PLKP0509,Blackburn,,Jackson,1908-04-02,1908-06-06,23,0,0,1,22,0,0,0,0,0,0,0
+1908,Cotton States League,PLKP0609,Blackburn,,Vicksburg,1908-04-05,1908-05-31,10,8,2,0,0,0,0,0,0,0,0,8
+1908,Cotton States League,PLKP0709,Blackburn,G.,Vicksburg,1908-04-07,1908-05-26,3,2,1,0,0,0,0,0,0,0,0,2
+1908,Cotton States League,PLKP0809,Blackburn,R.,Jackson,1908-05-26,1908-05-26,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Cotton States League,PLKP0909,Blackburn,[G],Vicksburg,1908-04-06,1908-04-06,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Cotton States League,PLKN0208,Blackeney,,Jackson,1908-06-02,1908-06-02,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Cotton States League,PLKN0308,Blackeny,,Jackson,1908-04-25,1908-04-25,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Cotton States League,PLKN0408,Blackney,,Jackson,1908-04-29,1908-06-03,2,1,0,0,1,0,0,0,0,0,0,1
+1908,Cotton States League,PLKL0101,Blakely,,Jackson,1908-04-10,1908-06-05,5,5,0,0,0,0,0,0,0,0,0,5
+1908,Cotton States League,PLKN0508,Blakeneny,,Jackson,1908-05-22,1908-05-22,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Cotton States League,PLKN0608,Blakeney,,Jackson,1908-04-28,1908-05-26,5,2,0,0,1,1,1,0,0,1,0,2
+1908,Cotton States League,PLKN0708,Blakeny,,Jackson,1908-04-27,1908-05-30,7,3,0,0,1,0,3,0,0,3,0,3
+1908,Cotton States League,PLKN0808,Blakney,,Jackson,1908-05-06,1908-06-01,2,1,0,0,0,0,1,0,1,0,0,1
+1908,Cotton States League,PLNX0107,Blanch'e,,Monroe,1908-05-28,1908-05-28,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Cotton States League,PLNX0207,Blanch't,,Monroe,1908-05-08,1908-05-08,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Cotton States League,PLNX0307,Blanch'te,,Monroe,1908-04-05,1908-06-03,15,0,15,0,0,0,0,0,0,0,0,0
+1908,Cotton States League,PLNX0407,Blanch'tte,,Monroe,1908-05-11,1908-05-11,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Cotton States League,PLNX0507,Blanchet,,Monroe,1908-05-02,1908-05-02,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Cotton States League,PLNX0607,Blanchett,,Monroe,1908-04-02,1908-04-02,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Cotton States League,PLNX0707,Blanchette,,Monroe,1908-04-04,1908-06-02,29,0,29,0,0,0,0,0,0,0,1,0
+1908,Cotton States League,PTRZ0101,Bodar,,Monroe,1908-05-30,1908-05-30,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Cotton States League,PNTZ0102,Bond,,Jackson,1908-04-02,1908-04-07,4,0,0,0,0,0,4,0,0,4,0,0
+1908,Cotton States League,PTZZ0101,Boyd,,Gulfport,1908-05-08,1908-06-06,27,0,0,0,0,0,27,0,26,1,0,0
+1908,Cotton States League,PRSL0103,Brazell,,Monroe,1908-04-17,1908-04-17,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Cotton States League,PRSL0203,Brazelle,,Monroe,1908-04-13,1908-06-06,19,13,0,0,0,0,8,2,1,5,0,13
+1908,Cotton States League,PRSL0303,Breazelle,,Monroe,1908-05-28,1908-05-28,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Cotton States League,PNTZ0202,Bundy,,Meridian,1908-04-02,1908-04-04,2,0,0,0,0,0,2,0,2,0,0,0
+1908,Cotton States League,PRKT0101,Burkett,,Gulfport,1908-05-23,1908-06-05,5,5,0,0,0,0,0,0,0,0,0,5
+1908,Cotton States League,KRLN0101,Carlin,,Gulfport,1908-04-09,1908-05-01,16,0,0,16,0,0,0,0,0,0,0,0
+1908,Cotton States League,KRNS0101,Carnes,,Meridian,1908-04-06,1908-06-06,53,0,52,0,0,0,0,0,0,0,0,0
+1908,Cotton States League,KRFZ0104,Cerevaux,,Meridian,1908-04-04,1908-04-04,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Cotton States League,KRFK0102,Cerv'ux,,Meridian,1908-05-26,1908-05-26,1,0,0,0,0,0,1,0,0,1,1,0
+1908,Cotton States League,KRFK0202,Cerve'x,,Meridian,1908-06-02,1908-06-02,1,0,0,0,0,0,1,0,0,1,1,0
+1908,Cotton States League,KRFZ0204,Cerveaux,,Meridian,1908-04-02,1908-06-03,19,0,0,0,0,0,12,1,0,11,8,0
+1908,Cotton States League,KRFR0101,Cerveraux,,Meridian,1908-04-07,1908-04-07,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Cotton States League,KFRZ0102,Ceveraux,,Meridian,1908-04-06,1908-04-06,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Cotton States League,KRFZ0304,Ciervaux,,Meridian,1908-04-10,1908-04-10,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Cotton States League,KRFZ0404,Cirevaux,,Meridian,1908-05-23,1908-05-23,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Cotton States League,KFRZ0202,Civreaux,,Meridian,1908-05-21,1908-05-21,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Cotton States League,KRZZ0101,Claire,,Jackson,1908-04-02,1908-06-06,51,0,0,2,0,48,1,0,0,1,0,0
+1908,Cotton States League,KNZZ0102,Cline,,Jackson,1908-04-17,1908-04-17,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Cotton States League,KRPT0101,Corbett,,Monroe,1908-04-13,1908-04-18,5,0,0,0,0,4,2,0,0,2,0,0
+1908,Cotton States League,TPRT0109,D'b'rd,C.,Monroe,1908-06-06,1908-06-06,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Cotton States League,TPRT0209,D'b'rd,G.,Meridian,1908-06-06,1908-06-06,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Cotton States League,TMRZ0107,D'm'ree,A.,Columbus,1908-05-21,1908-05-21,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Cotton States League,TMRZ0207,D'meyer,,Columbus,1908-05-03,1908-05-22,4,0,0,0,0,4,0,0,0,0,0,0
+1908,Cotton States League,TRMR0103,D'rmeyer,,Columbus,1908-04-23,1908-04-23,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Cotton States League,TKST0104,Dacosta,,Jackson,1908-04-02,1908-04-11,5,0,0,0,0,0,0,0,0,0,5,0
+1908,Cotton States League,TKST0204,Dacosta,,Meridian,1908-04-22,1908-05-02,5,0,0,0,0,0,0,0,0,0,5,0
+1908,Cotton States League,TLZZ0103,Daley,,Columbus,1908-04-23,1908-06-07,12,0,0,8,0,1,3,3,0,0,0,0
+1908,Cotton States League,TLZZ0203,Daly,,Columbus,1908-04-17,1908-06-06,26,0,0,18,0,0,8,8,0,0,0,0
+1908,Cotton States League,TLZZ0303,Daly,,Gulfport,1908-04-02,1908-04-08,6,0,0,6,0,0,0,0,0,0,0,0
+1908,Cotton States League,TMRZ0307,Damaree,,Columbus,1908-05-23,1908-05-23,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Cotton States League,TRSZ0103,Darsey,,Columbus,1908-04-02,1908-04-02,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Cotton States League,TKST0304,Decosta,,Jackson,1908-04-09,1908-04-09,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Cotton States League,TKST0404,Decosta,,Meridian,1908-04-15,1908-04-30,11,0,0,0,0,0,0,0,0,0,11,0
+1908,Cotton States League,TMRZ0407,Demaree,,Columbus,1908-04-03,1908-06-05,15,15,0,0,0,0,0,0,0,0,0,15
+1908,Cotton States League,TMRZ0507,Demaree,A.,Columbus,1908-05-26,1908-05-26,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Cotton States League,TMRZ0607,Demaree,E.,Columbus,1908-05-19,1908-05-25,3,3,0,0,0,0,0,0,0,0,0,3
+1908,Cotton States League,TMRZ0707,Demoree,,Columbus,1908-04-02,1908-04-02,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Cotton States League,TSTR0103,Diestert,,Meridian,1908-04-13,1908-04-13,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Cotton States League,TPRT0309,Dobard,,Meridian,1908-04-02,1908-06-03,47,0,0,0,6,40,2,2,0,0,0,0
+1908,Cotton States League,TPRT0409,Dobard,,Monroe,1908-04-02,1908-06-03,43,0,0,12,0,31,0,0,0,0,0,0
+1908,Cotton States League,TPRT0509,Dobard,C.,Monroe,1908-04-13,1908-06-05,5,0,0,1,0,4,0,0,0,0,0,0
+1908,Cotton States League,TPRT0609,Dobard,G.,Meridian,1908-06-05,1908-06-05,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Cotton States League,TPRT0709,Dobard,L.,Meridian,1908-04-30,1908-05-13,4,0,0,0,1,3,0,0,0,0,0,0
+1908,Cotton States League,TPRT0809,Dobard,R.,Meridian,1908-04-13,1908-04-13,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Cotton States League,TPRT0909,Dobart,,Meridian,1908-04-07,1908-04-08,2,0,0,0,0,2,0,0,0,0,0,0
+1908,Cotton States League,TSTR0203,Doester,,Meridian,1908-04-06,1908-04-14,3,0,0,0,0,0,0,0,0,0,3,0
+1908,Cotton States League,TNTK0101,Donteg,,Columbus,1908-04-21,1908-04-21,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Cotton States League,TRSZ0203,Dorsey,,Columbus,1908-04-03,1908-04-14,10,0,0,0,0,0,10,10,0,0,0,0
+1908,Cotton States League,TRSZ0303,Dorsey,,Vicksburg,1908-04-22,1908-06-07,38,0,0,0,0,38,0,0,0,0,0,0
+1908,Cotton States League,TSTR0303,Doster,,Meridian,1908-04-08,1908-04-12,2,0,0,0,0,0,0,0,0,0,2,0
+1908,Cotton States League,TNZZ0103,Downey,,Columbus,1908-05-27,1908-05-27,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Cotton States League,TNNK0101,Downing,,Columbus,1908-04-02,1908-06-07,42,0,3,0,0,0,0,0,0,0,39,0
+1908,Cotton States League,TRMR0203,Durme'er,,Columbus,1908-04-28,1908-04-28,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Cotton States League,TRMR0303,Durmeyer,,Columbus,1908-04-02,1908-06-06,44,0,0,20,2,22,0,0,0,0,0,0
+1908,Cotton States League,ALNR0104,Eliner,,Meridian,1908-04-28,1908-04-28,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Cotton States League,ALNR0204,Elinor,,Meridian,1908-04-18,1908-05-25,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Cotton States League,ALNR0304,Elliner,,Meridian,1908-05-01,1908-05-01,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Cotton States League,ALNR0404,Ellinor,,Meridian,1908-04-10,1908-06-05,15,12,0,0,0,0,3,0,0,3,0,12
+1908,Cotton States League,ARFN0101,Ervin,,Jackson,1908-04-08,1908-04-08,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Cotton States League,AFNS0101,Evans,,Gulfport,1908-05-14,1908-06-06,19,0,0,19,0,0,0,0,0,0,0,0
+1908,Cotton States League,FXRZ0101,Fisher,,Monroe,1908-04-02,1908-06-06,43,0,0,0,0,0,34,31,1,2,9,0
+1908,Cotton States League,FRMN0101,Freeman,,Meridian,1908-06-03,1908-06-06,3,0,0,0,0,0,2,0,0,2,1,0
+1908,Cotton States League,FRKZ0101,Frickie,,Monroe,1908-04-04,1908-06-06,17,15,0,0,0,0,2,0,0,2,0,15
+1908,Cotton States League,FLRZ0101,Fuller,,Meridian,1908-05-08,1908-06-06,27,0,1,0,0,0,5,0,0,5,24,0
+1908,Cotton States League,KSRZ0102,Gaiser,,Meridian,1908-04-02,1908-04-02,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Cotton States League,KSRZ0202,Geiser,,Meridian,1908-04-03,1908-06-06,56,1,0,0,0,0,56,3,52,1,0,1
+1908,Cotton States League,KTNK0104,Getinger,,Gulfport,1908-04-11,1908-04-11,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Cotton States League,KTKR0101,Gett'ger,,Gulfport,1908-05-25,1908-05-25,2,0,0,0,0,0,2,0,0,2,0,0
+1908,Cotton States League,KTNK0204,Getting'r,,Gulfport,1908-04-22,1908-06-02,2,0,0,0,0,0,2,1,0,1,0,0
+1908,Cotton States League,KTNK0304,Gettinger,,Gulfport,1908-04-02,1908-06-06,43,0,0,0,0,0,43,22,1,20,0,0
+1908,Cotton States League,KLKS0102,Gilkes,,Gulfport,1908-04-04,1908-05-25,2,0,2,0,0,0,0,0,0,0,0,0
+1908,Cotton States League,KLKS0202,Gilks,,Gulfport,1908-04-02,1908-06-06,36,0,35,0,0,0,1,1,0,0,0,0
+1908,Cotton States League,KTNK0404,Gottinger,,Gulfport,1908-04-04,1908-04-14,2,0,0,0,0,0,2,2,0,0,0,0
+1908,Cotton States League,KRFS0104,Graffius,,Gulfport,1908-04-02,1908-06-06,45,0,0,0,0,0,0,0,0,0,45,0
+1908,Cotton States League,KRFS0204,Graffius,,Meridian,1908-05-07,1908-05-07,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Cotton States League,KRFS0304,Greffius,,Gulfport,1908-05-15,1908-05-15,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Cotton States League,KRFS0404,Griffius,,Gulfport,1908-04-03,1908-04-03,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Cotton States League,KNZZ0202,Gunn,,Gulfport,1908-04-02,1908-04-14,11,0,0,0,0,0,11,0,0,11,0,0
+1908,Cotton States League,HLZZ0101,Hall,,Monroe,1908-06-05,1908-06-06,2,0,2,0,0,0,0,0,0,0,0,0
+1908,Cotton States League,HNKZ0102,Hanke,,Meridian,1908-04-07,1908-04-07,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Cotton States League,HNKZ0202,Hankey,,Meridian,1908-04-02,1908-06-03,44,0,0,0,43,0,0,0,0,0,0,0
+1908,Cotton States League,HRTZ0101,Hart,,Vicksburg,1908-04-04,1908-04-20,6,5,0,0,0,0,0,0,0,0,0,5
+1908,Cotton States League,HRLT0101,Herold,,Vicksburg,1908-04-02,1908-06-07,54,1,0,0,42,11,0,0,0,0,0,1
+1908,Cotton States League,HSTR0101,Hester,,Vicksburg,1908-04-12,1908-04-12,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Cotton States League,HSZZ0101,Hise,,Meridian,1908-04-07,1908-04-08,2,1,0,0,0,0,1,1,0,0,0,1
+1908,Cotton States League,HLNT0102,Holland,,Gulfport,1908-04-02,1908-06-06,51,0,9,0,0,0,43,18,23,2,0,0
+1908,Cotton States League,HLNT0202,Hollond,,Gulfport,1908-04-28,1908-04-28,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Cotton States League,HPRZ0101,Huber,,Columbus,1908-04-02,1908-05-01,24,0,0,0,0,24,0,0,0,0,0,0
+1908,Cotton States League,HNTR0101,Hunter,,Monroe,1908-04-02,1908-05-01,22,0,0,1,0,1,20,17,0,3,0,0
+1908,Cotton States League,HTNZ0101,Hutina,,Meridian,1908-04-16,1908-04-16,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Cotton States League,JRKR0101,Jerger,,Vicksburg,1908-05-31,1908-06-03,3,0,0,3,0,0,0,0,0,0,0,0
+1908,Cotton States League,JLZZ0101,Jolly,,Vicksburg,1908-04-02,1908-04-11,8,0,0,0,0,0,8,0,0,8,0,0
+1908,Cotton States League,JRTN0101,Jordan,,Meridian,1908-06-02,1908-06-02,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Cotton States League,JRTS0102,Jurtsen,,Vicksburg,1908-06-05,1908-06-05,2,0,0,1,1,0,0,0,0,0,0,0
+1908,Cotton States League,JRTS0202,Jurtzen,,Vicksburg,1908-06-06,1908-06-06,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Cotton States League,KRNZ0102,Kearney,,Meridian,1908-05-07,1908-05-08,2,0,0,0,2,0,0,0,0,0,0,0
+1908,Cotton States League,KRNZ0202,Kearney,,Vicksburg,1908-05-04,1908-05-04,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Cotton States League,KLKZ0101,Kellogg,,Jackson,1908-04-04,1908-04-13,8,0,0,0,0,0,6,3,0,3,2,0
+1908,Cotton States League,KXNS0102,Kichens,,Monroe,1908-04-02,1908-04-04,2,0,0,0,0,0,2,0,2,0,0,0
+1908,Cotton States League,KXNZ0101,Kitchen,,Monroe,1908-04-05,1908-05-30,4,0,0,0,0,0,2,0,2,0,2,0
+1908,Cotton States League,KXNS0202,Kitchens,,Monroe,1908-04-07,1908-06-06,49,1,0,0,0,0,5,0,5,0,44,1
+1908,Cotton States League,KLTR0101,Klawitter,,Vicksburg,1908-04-02,1908-06-07,27,15,7,1,0,0,5,1,0,4,0,15
+1908,Cotton States League,KLNZ0103,Klein,,Jackson,1908-04-28,1908-05-27,11,0,0,0,0,2,10,0,0,10,0,0
+1908,Cotton States League,KLNZ0203,Klien,,Jackson,1908-06-01,1908-06-01,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Cotton States League,KLNZ0303,Kline,,Jackson,1908-04-13,1908-06-06,31,0,0,0,0,2,24,0,3,21,6,0
+1908,Cotton States League,KSTR0101,Koster,,Vicksburg,1908-04-04,1908-04-12,3,3,0,0,0,0,0,0,0,0,0,3
+1908,Cotton States League,KRPS0107,Krebs,,Gulfport,1908-04-14,1908-06-04,27,0,8,5,2,0,5,1,0,4,7,0
+1908,Cotton States League,KRPS0207,Krebs,,Vicksburg,1908-04-02,1908-06-07,48,0,1,0,0,0,0,0,0,0,48,0
+1908,Cotton States League,KRPS0307,Krebs,E.,Vicksburg,1908-04-18,1908-05-23,5,0,0,0,0,0,0,0,0,0,5,0
+1908,Cotton States League,KRPS0407,Krebs,R.,Gulfport,1908-05-01,1908-05-23,4,0,0,2,1,0,1,0,0,1,0,0
+1908,Cotton States League,KRPS0507,Krebs [3b],,Gulfport,1908-05-22,1908-05-22,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Cotton States League,KRPS0607,Krebs[2b],,Gulfport,1908-05-10,1908-05-10,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Cotton States League,KRPS0707,Krebs[c],,Vicksburg,1908-05-21,1908-05-21,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Cotton States League,KRKS0101,Kreks,,Gulfport,1908-06-05,1908-06-05,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Cotton States League,KTNZ0101,Kutina,,Meridian,1908-04-02,1908-05-13,35,0,4,0,1,9,23,16,1,6,2,0
+1908,Cotton States League,LKRF0104,Lagrave,,Monroe,1908-04-27,1908-04-27,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Cotton States League,LNKZ0103,Lang,,Vicksburg,1908-05-02,1908-05-02,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Cotton States League,LTNZ0102,Lauden,,Meridian,1908-04-17,1908-04-17,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Cotton States League,LKRF0204,Legrave,,Monroe,1908-04-28,1908-04-28,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Cotton States League,LKRF0304,Legreave,,Monroe,1908-04-24,1908-04-24,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Cotton States League,LKRF0404,Legrove,,Monroe,1908-04-23,1908-04-23,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Cotton States League,LFRT0101,Leverette,,Monroe,1908-04-07,1908-04-11,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Cotton States League,LNKZ0203,Ling,,Columbus,1908-05-25,1908-06-07,12,0,12,0,0,0,0,0,0,0,0,0
+1908,Cotton States League,LFLZ0101,Lively,,Gulfport,1908-04-04,1908-06-06,35,16,0,0,0,0,15,3,1,11,0,16
+1908,Cotton States League,LFFL0101,Lofiflin,,Meridian,1908-05-02,1908-05-02,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Cotton States League,LFLN0101,Loflin,,Meridian,1908-05-02,1908-05-02,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Cotton States League,LNKZ0303,Long,,Vicksburg,1908-04-19,1908-06-07,40,0,0,0,0,0,40,1,38,1,0,0
+1908,Cotton States League,LTNZ0202,Loudon,,Meridian,1908-04-13,1908-04-13,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Cotton States League,MKMR0101,M'gomery,,Jackson,1908-04-07,1908-05-27,12,0,0,0,0,0,12,1,10,1,0,0
+1908,Cotton States League,MTKM0103,M'tg'm'ry,,Jackson,1908-04-13,1908-04-13,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Cotton States League,MTKM0203,M'tg'mory,,Jackson,1908-04-23,1908-04-23,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Cotton States League,MTKM0303,M'tgmry,,Jackson,1908-05-19,1908-05-20,2,0,0,0,0,0,2,0,2,0,0,0
+1908,Cotton States League,MNTR0104,Maender,,Monroe,1908-05-25,1908-06-02,3,0,0,0,0,0,3,0,3,0,0,0
+1908,Cotton States League,MNZZ0102,Man'h,F.,Columbus,1908-04-28,1908-04-28,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Cotton States League,MNZZ0202,Man'h,G.,Vicksburg,1908-04-28,1908-04-28,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Cotton States League,MNTR0204,Mander,,Monroe,1908-05-26,1908-05-26,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Cotton States League,MNXZ0105,Manush,,Columbus,1908-04-02,1908-06-02,41,0,0,0,41,0,0,0,0,0,0,0
+1908,Cotton States League,MNXZ0205,Manush,,Vicksburg,1908-04-02,1908-06-03,43,0,0,0,0,0,43,29,13,1,0,0
+1908,Cotton States League,MNXZ0305,Manush,F.,Columbus,1908-04-20,1908-06-07,9,0,0,0,9,0,0,0,0,0,0,0
+1908,Cotton States League,MNXZ0405,Manush,G.,Vicksburg,1908-04-21,1908-06-07,8,0,0,0,0,0,8,8,0,0,0,0
+1908,Cotton States League,MNXZ0505,Manush,I.,Vicksburg,1908-04-20,1908-04-20,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Cotton States League,MRXL0101,Marshall,,Columbus,1908-04-02,1908-06-07,50,0,27,0,0,0,25,22,1,2,0,0
+1908,Cotton States League,MZZZ0101,May,,Columbus,1908-04-02,1908-06-06,26,17,0,0,0,0,10,6,1,4,0,17
+1908,Cotton States League,MKNS0101,McManus,,Gulfport,1908-04-07,1908-05-10,5,4,0,0,0,0,1,0,0,1,0,4
+1908,Cotton States League,MNTR0304,Meander,,Monroe,1908-05-16,1908-05-31,6,0,0,0,0,0,6,1,5,0,0,0
+1908,Cotton States League,MNTR0404,Mender,,Monroe,1908-05-11,1908-06-06,13,0,0,0,0,0,13,0,13,0,0,0
+1908,Cotton States League,MLRZ0101,Miller,,Jackson,1908-04-25,1908-06-03,11,11,0,0,0,0,0,0,0,0,0,11
+1908,Cotton States League,MXLZ0101,Mitchell,,Columbus,1908-04-02,1908-06-07,51,1,0,0,0,0,51,0,50,1,0,1
+1908,Cotton States League,MNTK0102,Montg'ry,,Jackson,1908-06-02,1908-06-03,3,0,0,0,0,0,3,0,3,0,0,0
+1908,Cotton States League,MNTK0202,Montgomery,,Jackson,1908-04-02,1908-06-06,30,0,0,0,0,0,30,0,28,2,0,0
+1908,Cotton States League,MLTN0102,Moulton,,Meridian,1908-05-04,1908-06-06,30,0,0,30,0,0,0,0,0,0,0,0
+1908,Cotton States League,MLTN0202,Moulton,,Vicksburg,1908-04-16,1908-04-21,6,0,0,0,0,6,0,0,0,0,0,0
+1908,Cotton States League,MRXZ0102,Murch,,Gulfport,1908-04-02,1908-06-06,51,0,0,2,48,0,0,0,0,0,1,0
+1908,Cotton States League,MRXZ0202,Murch,,Vicksburg,1908-04-06,1908-04-06,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Cotton States League,NR0N0102,North'n,,Monroe,1908-04-19,1908-04-19,1,1,0,0,0,0,1,0,1,0,0,1
+1908,Cotton States League,NR0N0202,Northen,,Monroe,1908-04-15,1908-05-01,2,0,0,0,0,0,2,0,2,0,0,0
+1908,Cotton States League,NR0R0101,Northern,,Monroe,1908-04-02,1908-06-03,48,0,0,0,0,0,48,0,18,30,0,0
+1908,Cotton States League,ATZZ0101,Ott,,Jackson,1908-04-16,1908-06-06,39,0,0,0,0,0,1,0,0,1,39,0
+1908,Cotton States League,PRKR0101,Parker,,Vicksburg,1908-04-16,1908-04-18,3,0,0,0,0,0,3,3,0,0,0,0
+1908,Cotton States League,PSTR0101,Peaster,,Meridian,1908-05-26,1908-06-06,5,5,0,0,0,0,0,0,0,0,0,5
+1908,Cotton States League,PKNZ0101,Picken,,Jackson,1908-04-16,1908-04-16,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Cotton States League,PKNS0101,Pickens,,Jackson,1908-04-02,1908-06-06,51,0,0,50,1,0,0,0,0,0,0,0
+1908,Cotton States League,PLNT0101,Pylant,,Columbus,1908-04-02,1908-06-07,14,14,0,0,0,0,0,0,0,0,0,14
+1908,Cotton States League,RTMN0102,R'dmond,,Vicksburg,1908-05-21,1908-05-21,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Cotton States League,RMNT0101,Raymond,,Vicksburg,1908-04-23,1908-04-23,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Cotton States League,RRNZ0101,Rearney,,Meridian,1908-05-13,1908-05-13,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Cotton States League,RTMN0202,Redmond,,Vicksburg,1908-04-02,1908-05-22,38,0,0,38,0,0,0,0,0,0,0,0
+1908,Cotton States League,RFZZ0101,Reif,,Monroe,1908-04-02,1908-05-21,35,0,0,23,0,10,3,0,0,3,0,0
+1908,Cotton States League,RLZZ0102,Reilley,,Gulfport,1908-04-23,1908-04-23,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Cotton States League,RLZZ0202,Reilly,,Gulfport,1908-04-02,1908-06-06,51,0,0,0,0,51,0,0,0,0,0,0
+1908,Cotton States League,RTZZ0101,Reit,,Meridian,1908-04-07,1908-04-07,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Cotton States League,RTSZ0103,Reitz,,Meridian,1908-04-02,1908-05-01,22,0,0,22,0,0,0,0,0,0,0,0
+1908,Cotton States League,RLFZ0101,Relf,,Monroe,1908-05-22,1908-06-06,14,0,0,13,0,1,0,0,0,0,0,0
+1908,Cotton States League,RTSZ0203,Rietz,,Meridian,1908-04-12,1908-04-12,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Cotton States League,RPZZ0102,Robb,,Meridian,1908-04-27,1908-06-06,35,0,0,0,0,0,35,31,0,4,1,0
+1908,Cotton States League,RPZZ0202,Robb,,Vicksburg,1908-04-25,1908-06-06,13,11,0,0,0,0,2,0,0,2,0,11
+1908,Cotton States League,RPRT0101,Roberts,,Gulfport,1908-04-03,1908-05-20,13,12,0,0,0,0,0,0,0,0,0,12
+1908,Cotton States League,RTSZ0303,Rutes,,Meridian,1908-04-03,1908-04-03,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Cotton States League,RNZZ0101,Ryan,,Monroe,1908-05-28,1908-06-02,3,0,0,1,0,0,1,1,0,0,0,0
+1908,Cotton States League,SLRT0102,Saillard,,Jackson,1908-04-02,1908-06-06,51,0,51,0,0,0,0,0,0,0,0,0
+1908,Cotton States League,SLRT0202,Sallaird,,Jackson,1908-04-18,1908-04-18,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Cotton States League,SMPR0101,Sambrey,,Jackson,1908-04-06,1908-04-06,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Cotton States League,SMPL0101,Sample,,Vicksburg,1908-04-02,1908-06-07,54,13,43,0,0,0,0,0,0,0,2,13
+1908,Cotton States League,XMTZ0101,Schmit,,Meridian,1908-04-02,1908-04-07,3,1,1,0,0,0,1,0,1,0,0,1
+1908,Cotton States League,XLTS0102,Schultz,,Gulfport,1908-04-02,1908-04-27,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Cotton States League,XLSZ0102,Schulz,,Gulfport,1908-04-18,1908-06-06,16,14,0,0,0,0,2,2,0,0,0,14
+1908,Cotton States League,XLTS0202,Shultz,,Gulfport,1908-04-14,1908-04-14,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Cotton States League,XLSZ0202,Shulz,,Gulfport,1908-04-06,1908-04-09,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Cotton States League,SNTR0101,Snyder,,Meridian,1908-05-11,1908-05-11,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Cotton States League,STRT0101,Stewart,,Columbus,1908-06-07,1908-06-07,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Cotton States League,STSR0102,Switser,,Monroe,1908-04-05,1908-04-05,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Cotton States League,STSR0202,Switzer,,Monroe,1908-04-08,1908-04-11,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Cotton States League,TLRZ0108,Taylor,,Jackson,1908-04-02,1908-06-06,40,0,0,0,0,0,40,36,0,4,0,0
+1908,Cotton States League,TLRZ0208,Taylor,,Vicksburg,1908-04-02,1908-06-07,46,4,0,0,0,0,43,6,0,37,0,4
+1908,Cotton States League,TLRZ0308,Taylor,E.,Jackson,1908-04-06,1908-05-27,7,0,0,0,0,0,7,7,0,0,0,0
+1908,Cotton States League,TLRZ0408,Taylor,L.,Vicksburg,1908-04-06,1908-04-08,3,0,0,0,0,0,3,3,0,0,0,0
+1908,Cotton States League,TLRZ0508,Taylor,R.,Jackson,1908-05-20,1908-05-20,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Cotton States League,TLRZ0608,Taylor,R.,Vicksburg,1908-05-19,1908-05-19,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Cotton States League,TLRZ0708,Taylor,T.,Jackson,1908-05-19,1908-05-19,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Cotton States League,TLRZ0808,Taylor,T.,Vicksburg,1908-05-20,1908-05-27,4,0,0,0,0,0,4,0,0,4,0,0
+1908,Cotton States League,TNZZ0203,Tenney,,Gulfport,1908-04-24,1908-05-10,2,1,0,0,0,0,1,1,0,0,0,1
+1908,Cotton States League,TNZZ0303,Tenny,,Gulfport,1908-05-04,1908-05-04,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Cotton States League,TFTZ0101,Toft,,Columbus,1908-04-02,1908-05-13,23,0,11,0,0,0,0,0,0,0,12,0
+1908,Cotton States League,TKRZ0101,Tucker,,Jackson,1908-04-03,1908-04-13,4,3,0,1,0,0,0,0,0,0,0,3
+1908,Cotton States League,FLR00102,Valrath,,Monroe,1908-04-28,1908-04-28,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Cotton States League,FSZZ0101,Veasey,,Jackson,1908-04-04,1908-06-05,16,15,0,0,0,0,1,0,0,1,0,15
+1908,Cotton States League,FPR00101,Vobrath,,Monroe,1908-04-27,1908-04-27,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Cotton States League,FJLZ0101,Vogel,,Vicksburg,1908-05-23,1908-05-30,7,0,0,7,0,0,0,0,0,0,0,0
+1908,Cotton States League,FLR00202,Volrath,,Monroe,1908-04-29,1908-04-29,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Cotton States League,ALXZ0104,Walsh,,Meridian,1908-06-05,1908-06-06,2,0,0,0,2,0,0,0,0,0,0,0
+1908,Cotton States League,ASXK0102,Wasacheck,,Vicksburg,1908-04-05,1908-04-05,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Cotton States League,ASXK0202,Wasachek,,Vicksburg,1908-04-04,1908-04-13,4,0,0,0,4,0,0,0,0,0,0,0
+1908,Cotton States League,ASKZ0102,Wasack,,Vicksburg,1908-04-06,1908-04-06,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Cotton States League,ASKZ0202,Wausack,,Vicksburg,1908-04-08,1908-04-08,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Cotton States League,ALXZ0204,Welch,,Jackson,1908-04-06,1908-04-06,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Cotton States League,ALXZ0304,Welch,,Meridian,1908-04-25,1908-04-25,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Cotton States League,ALXZ0404,Welsh,,Jackson,1908-04-02,1908-04-02,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Cotton States League,ALNT0101,Weyland,,Monroe,1908-04-28,1908-04-28,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Cotton States League,ALNZ0102,Whalen,,Monroe,1908-04-04,1908-06-05,13,12,0,0,0,0,1,0,0,1,0,12
+1908,Cotton States League,ALRZ0101,Wheeler,,Columbus,1908-04-06,1908-04-11,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Cotton States League,ALNZ0202,Whelan,,Monroe,1908-04-09,1908-05-09,3,3,0,0,0,0,0,0,0,0,0,3
+1908,Cotton States League,ANTZ0101,Yount,,Meridian,1908-04-02,1908-06-06,28,20,0,0,0,0,6,2,1,3,0,20
+1908,Southern Association,APLS0101,Ables,,Birmingham,1908-04-23,1908-05-02,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Southern Association,PRLT0103,B'rwaeld,,Memphis,1908-06-05,1908-06-05,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Southern Association,PPZZ0102,Babb,,Memphis,1908-04-17,1908-06-07,44,0,0,0,41,3,0,0,0,0,0,0
+1908,Southern Association,PRLT0203,Baerwald,,Memphis,1908-05-31,1908-06-07,6,0,0,0,0,0,6,0,0,6,0,0
+1908,Southern Association,PRTL0101,Bartley,,New Orleans,1908-04-20,1908-06-05,12,10,0,0,0,0,0,0,0,0,0,10
+1908,Southern Association,PKST0101,Baxter,,Montgomery,1908-04-16,1908-06-07,35,0,35,0,0,0,0,0,0,0,0,0
+1908,Southern Association,PZZZ0101,Bay,,Nashville,1908-05-14,1908-06-06,18,0,0,0,0,0,18,18,0,0,0,0
+1908,Southern Association,PRLT0303,Bearwald,,Memphis,1908-05-30,1908-05-30,2,0,0,0,2,0,0,0,0,0,0,0
+1908,Southern Association,PKRZ0103,Becker,,Atlanta,1908-04-16,1908-06-02,37,0,0,0,0,0,37,0,1,36,0,0
+1908,Southern Association,PKRZ0203,Becker,,Mobile,1908-04-19,1908-06-06,4,4,0,0,0,0,0,0,0,0,0,4
+1908,Southern Association,PKRZ0303,Beeker,,Mobile,1908-04-22,1908-06-02,8,8,0,0,0,0,0,0,0,0,0,8
+1908,Southern Association,PNSN0101,Benson,,Mobile,1908-04-15,1908-06-07,43,0,0,0,43,0,0,0,0,0,0,0
+1908,Southern Association,PRKM0101,Bergman,,Montgomery,1908-05-23,1908-06-05,4,4,0,0,0,0,0,0,0,0,0,4
+1908,Southern Association,PLSZ0101,Bliss,,Montgomery,1908-05-07,1908-06-07,13,5,7,0,0,0,0,0,0,0,0,5
+1908,Southern Association,PRTN0101,Breitenstein,,New Orleans,1908-05-01,1908-05-30,6,5,0,0,0,0,1,0,0,1,0,5
+1908,Southern Association,PXNN0101,Buchanan,,Little Rock,1908-04-19,1908-06-04,11,11,0,0,0,0,0,0,0,0,0,11
+1908,Southern Association,PRKT0101,Burkett,,New Orleans,1908-04-18,1908-05-18,7,7,0,0,0,0,0,0,0,0,0,7
+1908,Southern Association,PTLR0101,Butler,,Nashville,1908-04-16,1908-06-06,38,0,0,37,1,0,0,0,0,0,0,0
+1908,Southern Association,KRZZ0101,Carey,,Memphis,1908-04-17,1908-06-07,43,0,43,0,0,0,0,0,0,0,0,0
+1908,Southern Association,KSTL0103,Castleton,,Atlanta,1908-04-17,1908-06-03,9,9,0,0,0,0,0,0,0,0,0,9
+1908,Southern Association,KSTR0101,Castro,,Atlanta,1908-04-16,1908-06-06,32,0,0,0,0,27,4,0,1,3,0,0
+1908,Southern Association,XPLZ0101,Chappelle,,Memphis,1908-04-18,1908-06-07,12,12,0,0,0,0,0,0,0,0,0,12
+1908,Southern Association,KRKZ0103,Clark,,Birmingham,1908-04-17,1908-05-30,7,7,0,0,0,0,0,0,0,0,0,7
+1908,Southern Association,KRKZ0203,Clark,,New Orleans,1908-06-04,1908-06-04,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Southern Association,KRKZ0303,Clarke,,Birmingham,1908-04-29,1908-05-11,3,3,0,0,0,0,0,0,0,0,0,3
+1908,Southern Association,KLNS0104,Collins,,Little Rock,1908-04-20,1908-06-06,32,0,0,0,0,0,32,28,0,4,0,0
+1908,Southern Association,KLNS0204,Collins,,Memphis,1908-04-20,1908-06-02,26,0,0,0,1,0,24,1,2,21,0,0
+1908,Southern Association,KLNS0304,Collins,J.,Little Rock,1908-04-17,1908-05-25,14,0,0,0,0,0,14,10,0,4,0,0
+1908,Southern Association,KLNS0404,Collins,O.,Memphis,1908-04-17,1908-05-12,9,0,0,0,0,0,9,0,0,9,0,0
+1908,Southern Association,KNLZ0102,Connelly,,Little Rock,1908-04-25,1908-05-30,3,3,0,0,0,0,0,0,0,0,0,3
+1908,Southern Association,KNRS0102,Conners,,Little Rock,1908-04-30,1908-06-04,4,0,4,0,0,0,0,0,0,0,0,0
+1908,Southern Association,KNLZ0202,Connolly,,Little Rock,1908-04-20,1908-05-23,5,5,0,0,0,0,0,0,0,0,0,5
+1908,Southern Association,KNRS0202,Connors,,Little Rock,1908-04-17,1908-06-06,36,0,36,0,0,0,0,0,0,0,0,0
+1908,Southern Association,KFNZ0102,Coveney,,Atlanta,1908-04-27,1908-04-29,2,0,0,0,0,0,0,0,0,0,2,0
+1908,Southern Association,KFNZ0202,Coveny,,Atlanta,1908-04-24,1908-04-24,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Southern Association,KKSZ0102,Cox,,Memphis,1908-04-22,1908-04-23,2,0,0,0,0,0,2,2,0,0,0,0
+1908,Southern Association,KNST0101,Cranston,,Memphis,1908-04-17,1908-06-07,41,0,0,31,0,10,0,0,0,0,0,0
+1908,Southern Association,KSTL0203,Cristal,,Montgomery,1908-06-01,1908-06-06,3,3,0,0,0,0,0,0,0,0,0,3
+1908,Southern Association,KSTL0303,Cristall,,Montgomery,1908-04-17,1908-06-04,9,9,0,0,0,0,0,0,0,0,0,9
+1908,Southern Association,KSZZ0102,Cross,,New Orleans,1908-04-15,1908-05-03,15,0,0,0,15,0,0,0,0,0,0,0
+1908,Southern Association,KMNK0101,Cummings,,Atlanta,1908-05-02,1908-05-11,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Southern Association,TLNT0102,Dal'hnty,,New Orleans,1908-05-22,1908-05-22,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Southern Association,TLTZ0104,Dalah'ty,,New Orleans,1908-04-21,1908-04-21,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Southern Association,TLZZ0102,Daley,,Mobile,1908-04-16,1908-06-07,36,0,0,0,0,0,36,36,0,0,0,0
+1908,Southern Association,TLZZ0202,Daly,,Mobile,1908-04-15,1908-05-25,7,0,0,0,0,0,7,7,0,0,0,0
+1908,Southern Association,TPRT0101,Daubert,,Nashville,1908-04-16,1908-06-06,40,0,40,0,0,0,0,0,0,0,0,0
+1908,Southern Association,TKRZ0101,Decker,,Nashville,1908-04-16,1908-04-21,4,0,0,0,0,0,4,0,4,0,0,0
+1908,Southern Association,TLTZ0204,Del'ha'ty,,New Orleans,1908-04-28,1908-04-28,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Southern Association,TLNT0202,Delah'nty,,New Orleans,1908-05-31,1908-05-31,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Southern Association,TLTZ0304,Delah'ty,,New Orleans,1908-05-12,1908-06-01,2,0,0,0,0,0,2,0,0,2,0,0
+1908,Southern Association,TLHN0102,Delahanty,,New Orleans,1908-04-15,1908-06-07,37,0,0,0,0,0,37,0,0,37,0,0
+1908,Southern Association,TLNN0101,Delanhanty,,New Orleans,1908-06-05,1908-06-05,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Southern Association,TLTZ0404,Deleh'ty,,New Orleans,1908-05-04,1908-05-04,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Southern Association,TLHN0202,Delehanty,,New Orleans,1908-05-07,1908-05-07,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Southern Association,TLNZ0101,Delhan'y,,New Orleans,1908-05-05,1908-05-05,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Southern Association,TMNT0102,Demont,,Birmingham,1908-04-16,1908-06-06,41,0,0,0,0,41,0,0,0,0,0,0
+1908,Southern Association,TMNT0202,Demontreville,,Birmingham,1908-05-17,1908-05-17,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Southern Association,TNHZ0102,Donahue,,Memphis,1908-04-17,1908-06-03,34,0,0,1,0,0,33,3,30,0,0,0
+1908,Southern Association,TNHZ0202,Donohue,,Memphis,1908-04-23,1908-05-04,2,0,0,0,0,0,2,0,2,0,0,0
+1908,Southern Association,TKLS0102,Douglas,,Birmingham,1908-04-28,1908-06-06,26,0,26,0,0,0,0,0,0,0,0,0
+1908,Southern Association,TKLS0202,Douglass,,Birmingham,1908-04-27,1908-05-23,8,0,7,0,0,0,1,0,0,1,0,0
+1908,Southern Association,TNZZ0101,Downey,,Birmingham,1908-04-16,1908-06-06,41,0,1,9,31,0,0,0,0,0,0,0
+1908,Southern Association,TNNK0101,Downing,,Birmingham,1908-04-27,1908-04-27,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Southern Association,TKNZ0105,Dug'n,E.,Nashville,1908-04-28,1908-04-28,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Southern Association,TKNZ0205,Dugan,J.,Nashville,1908-04-28,1908-05-29,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Southern Association,TKNZ0305,Duggan,,Nashville,1908-04-17,1908-06-05,7,7,0,0,0,0,0,0,0,0,0,7
+1908,Southern Association,TKNZ0405,Duggan,E.,Nashville,1908-04-27,1908-04-29,2,0,0,0,0,0,1,0,1,0,0,0
+1908,Southern Association,TKNZ0505,Duggan,J.,Nashville,1908-05-04,1908-06-04,4,4,0,0,0,0,0,0,0,0,0,4
+1908,Southern Association,TNTN0101,Dundon,,New Orleans,1908-04-15,1908-06-07,46,0,0,45,0,0,0,0,0,0,0,0
+1908,Southern Association,TNNZ0101,Dunon,,New Orleans,1908-05-04,1908-05-04,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Southern Association,TRTN0101,Durdon,,New Orleans,1908-04-16,1908-04-16,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Southern Association,TZZZ0101,Dye,,Atlanta,1908-05-15,1908-05-15,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Southern Association,TRZZ0102,Dyer,,Atlanta,1908-04-16,1908-06-06,39,0,0,0,39,0,0,0,0,0,0,0
+1908,Southern Association,ASTZ0101,East,,Little Rock,1908-04-17,1908-06-06,35,0,0,35,0,0,0,0,0,0,0,0
+1908,Southern Association,ASTM0101,Eastman,,Little Rock,1908-05-30,1908-06-03,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Southern Association,ALRZ0102,Eyler,,Little Rock,1908-04-17,1908-06-05,10,10,0,0,0,0,0,0,0,0,0,10
+1908,Southern Association,FXRZ0101,Fisher,,Mobile,1908-04-16,1908-06-05,14,10,0,0,0,0,1,1,0,0,0,10
+1908,Southern Association,FLHR0102,Fleeharty,,Birmingham,1908-05-21,1908-05-21,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Southern Association,FLHR0202,Fleharty,,Birmingham,1908-04-22,1908-05-16,4,4,0,0,0,0,0,0,0,0,0,4
+1908,Southern Association,FRTZ0101,Ford,,Atlanta,1908-04-16,1908-06-06,10,10,0,0,0,0,0,0,0,0,0,10
+1908,Southern Association,FKSZ0102,Fox,,Atlanta,1908-04-16,1908-06-06,39,0,39,0,0,0,0,0,0,0,0,0
+1908,Southern Association,FKSZ0202,Fox,,Memphis,1908-04-17,1908-05-16,20,0,0,0,0,0,20,19,1,0,0,0
+1908,Southern Association,FRTS0101,Fritz,,New Orleans,1908-04-16,1908-06-06,11,11,0,0,0,0,0,0,0,0,0,11
+1908,Southern Association,KRTZ0101,Garrity,,Memphis,1908-04-22,1908-06-06,9,9,0,0,0,0,0,0,0,0,0,9
+1908,Southern Association,KRFN0101,Garvin,,Mobile,1908-04-15,1908-06-03,28,0,0,0,0,0,0,0,0,0,27,0
+1908,Southern Association,KSKL0101,Gaskill,,Mobile,1908-04-15,1908-05-20,6,6,0,0,0,0,0,0,0,0,0,6
+1908,Southern Association,KRMK0104,Germ'gr,,Montgomery,1908-04-21,1908-04-21,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Southern Association,KKSZ0202,Gox,,Atlanta,1908-05-12,1908-05-12,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Southern Association,KRMN0105,Gr'mingr,,Montgomery,1908-05-22,1908-05-22,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Southern Association,KRMK0204,Grem'ger,,Montgomery,1908-05-23,1908-06-07,9,0,0,0,9,0,0,0,0,0,0,0
+1908,Southern Association,KRMK0304,Grem'gr,,Montgomery,1908-05-19,1908-05-19,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Southern Association,KRMN0205,Gremenger,,Montgomery,1908-04-20,1908-05-02,3,0,0,0,3,0,0,0,0,0,0,0
+1908,Southern Association,KRMN0305,Greminger,,Montgomery,1908-04-16,1908-06-05,25,0,0,0,25,0,0,0,0,0,0,0
+1908,Southern Association,KRMN0405,Grimeng'r,,Montgomery,1908-05-11,1908-05-11,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Southern Association,KRMK0404,Grimg'er,,Montgomery,1908-05-13,1908-05-13,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Southern Association,KRMN0505,Griminger,,Montgomery,1908-04-23,1908-05-07,2,0,0,0,2,0,0,0,0,0,0,0
+1908,Southern Association,KSZZ0202,Guese,,New Orleans,1908-04-18,1908-06-02,10,10,0,0,0,0,0,0,0,0,0,10
+1908,Southern Association,HRTZ0107,Hardy,,Nashville,1908-04-16,1908-06-06,29,0,0,0,0,1,11,8,3,0,13,0
+1908,Southern Association,HRTZ0207,Hart,,Little Rock,1908-04-26,1908-06-05,6,6,0,0,0,0,0,0,0,0,0,6
+1908,Southern Association,HRTZ0307,Hart,,Mobile,1908-04-15,1908-06-07,35,0,35,0,0,0,0,0,0,0,0,0
+1908,Southern Association,HRTZ0407,Hart,,Montgomery,1908-05-30,1908-06-07,7,0,0,0,0,0,0,0,0,0,6,0
+1908,Southern Association,HRTZ0507,Hart,J.,Mobile,1908-04-20,1908-04-23,4,0,4,0,0,0,0,0,0,0,0,0
+1908,Southern Association,HRTZ0607,Hart,W.,Little Rock,1908-04-20,1908-05-07,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Southern Association,HRTZ0707,Hart[c],,Montgomery,1908-06-05,1908-06-05,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Southern Association,HSTZ0104,Hasset,,Montgomery,1908-05-12,1908-05-29,2,0,0,0,0,0,2,0,2,0,0,0
+1908,Southern Association,HSTZ0204,Hassett,,Montgomery,1908-05-01,1908-06-07,16,0,2,0,0,0,14,5,8,1,0,0
+1908,Southern Association,HSTZ0304,Hassit,,Montgomery,1908-04-27,1908-04-27,1,0,0,0,0,0,0,0,0,0,0,0
+1908,Southern Association,HSTZ0404,Hassitt,,Montgomery,1908-04-25,1908-05-16,8,0,1,0,0,0,7,1,7,0,0,0
+1908,Southern Association,HLMZ0101,Helm,,Montgomery,1908-04-18,1908-05-22,6,6,0,0,0,0,0,0,0,0,0,6
+1908,Southern Association,HNLN0102,Henline,,Birmingham,1908-05-12,1908-06-06,24,0,0,0,0,0,24,22,0,2,0,0
+1908,Southern Association,HNLN0202,Henline,,Montgomery,1908-04-16,1908-05-11,20,0,0,0,0,0,20,0,0,20,0,0
+1908,Southern Association,HSZZ0104,Hess,,Little Rock,1908-04-17,1908-06-06,43,0,0,0,43,0,0,0,0,0,0,0
+1908,Southern Association,HSZZ0204,Hess,,Nashville,1908-04-25,1908-05-30,6,6,0,0,0,0,0,0,0,0,0,6
+1908,Southern Association,HSZZ0304,Hess,A.,Little Rock,1908-05-04,1908-05-20,2,0,0,1,1,0,0,0,0,0,0,0
+1908,Southern Association,HSZZ0404,Hess,J.,Nashville,1908-05-20,1908-05-20,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Southern Association,HKMN0101,Hickman,,Mobile,1908-04-15,1908-06-07,10,10,0,0,0,0,0,0,0,0,0,10
+1908,Southern Association,HLMS0101,Holmes,,Birmingham,1908-05-07,1908-05-07,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Southern Association,HTSZ0101,Houtz,,Birmingham,1908-04-16,1908-05-09,17,0,0,0,0,0,17,17,0,0,0,0
+1908,Southern Association,HPRZ0101,Huber,,New Orleans,1908-05-04,1908-06-07,30,0,0,0,1,29,0,0,0,0,0,0
+1908,Southern Association,HPRT0101,Hubert,,New Orleans,1908-05-13,1908-05-19,2,0,0,0,0,2,0,0,0,0,0,0
+1908,Southern Association,HNTR0101,Hunter,,Nashville,1908-04-20,1908-06-02,26,6,0,0,0,0,17,11,6,0,0,6
+1908,Southern Association,HRLP0101,Hurlburt,,Atlanta,1908-04-22,1908-06-06,18,0,0,0,0,0,0,0,0,0,16,0
+1908,Southern Association,JMSZ0101,James,,Mobile,1908-04-15,1908-06-07,44,0,0,44,0,0,0,0,0,0,0,0
+1908,Southern Association,JNSN0103,Jansen,,Nashville,1908-04-27,1908-04-27,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Southern Association,JNSN0203,Jansing,,Memphis,1908-05-18,1908-05-23,6,0,0,0,0,6,0,0,0,0,0,0
+1908,Southern Association,JNSN0303,Jansing,,Nashville,1908-04-16,1908-05-08,7,0,0,0,6,0,0,0,0,0,0,0
+1908,Southern Association,JNSZ0101,Johns,,Atlanta,1908-04-20,1908-06-06,7,7,0,0,0,0,0,0,0,0,0,7
+1908,Southern Association,JRTN0101,Jordan,,Atlanta,1908-04-16,1908-06-06,40,0,0,40,0,0,0,0,0,0,0,0
+1908,Southern Association,KLMZ0101,Kellum,,Nashville,1908-05-01,1908-06-06,6,6,0,0,0,0,0,0,0,0,0,6
+1908,Southern Association,LRTZ0101,Lord,,New Orleans,1908-04-15,1908-06-07,48,0,0,0,0,0,48,0,48,0,0,0
+1908,Southern Association,MKRM0105,"M""Corm'k",,Nashville,1908-04-22,1908-04-22,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Southern Association,MKMK0103,M'C'mek,,Nashville,1908-04-28,1908-04-28,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Southern Association,MKLN0101,M'Clellan,,New Orleans,1908-04-18,1908-04-18,1,0,0,0,0,0,0,0,0,0,0,0
+1908,Southern Association,MKKZ0101,M'Cmck,,Nashville,1908-05-22,1908-05-22,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Southern Association,MKMK0203,M'Co'mk,,Nashville,1908-05-31,1908-05-31,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Southern Association,MKRM0205,M'Corm'ck,,Nashville,1908-05-20,1908-05-20,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Southern Association,MKRM0305,M'Corm'k,,Nashville,1908-04-27,1908-06-06,15,0,0,0,0,15,0,0,0,0,0,0
+1908,Southern Association,MLFN0102,M'Elv'n,,Nashville,1908-04-20,1908-05-25,2,0,0,0,2,0,1,1,0,0,0,0
+1908,Southern Association,MLFN0202,M'Elveen,,Nashville,1908-05-11,1908-05-31,5,0,0,0,5,0,0,0,0,0,0,0
+1908,Southern Association,MMRZ0101,M'Murray,,Atlanta,1908-05-12,1908-05-12,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Southern Association,MLS00104,M'lesw'th,,Birmingham,1908-05-20,1908-05-20,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Southern Association,MLS00204,M'lsw'th,,Birmingham,1908-05-19,1908-05-19,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Southern Association,MLS00304,M'lswth,,Birmingham,1908-05-21,1908-05-22,2,0,0,0,0,0,2,0,2,0,0,0
+1908,Southern Association,MNNK0102,Manning,,Atlanta,1908-04-16,1908-05-07,12,0,1,0,0,0,11,11,0,0,0,0
+1908,Southern Association,MNNK0202,Manning,,Birmingham,1908-05-11,1908-06-06,22,0,0,0,0,0,22,1,0,21,0,0
+1908,Southern Association,MSNK0101,Massing,,Mobile,1908-05-06,1908-06-07,21,0,4,0,0,0,1,0,0,1,12,0
+1908,Southern Association,MSTZ0103,Massitt,,Montgomery,1908-05-22,1908-05-22,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Southern Association,M0SZ0102,Mathews,,New Orleans,1908-04-15,1908-05-05,7,0,0,0,0,0,0,0,0,0,7,0
+1908,Southern Association,M0SZ0202,Matthews,,New Orleans,1908-04-20,1908-06-06,30,0,0,0,0,0,0,0,0,0,27,0
+1908,Southern Association,MKMK0303,McC'mick,,Nashville,1908-04-23,1908-04-23,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Southern Association,MKLL0101,McClellan,,New Orleans,1908-04-19,1908-04-19,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Southern Association,MKRK0101,McCor'k,,Nashville,1908-06-02,1908-06-02,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Southern Association,MKRM0405,McCorm'k,,Nashville,1908-04-17,1908-04-17,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Southern Association,MKRM0505,McCormick,,Nashville,1908-04-16,1908-06-01,17,0,0,0,0,17,0,0,0,0,0,0
+1908,Southern Association,MKLF0105,McElv'n,,Nashville,1908-06-02,1908-06-02,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Southern Association,MKLF0205,McElve'n,,Nashville,1908-04-28,1908-05-04,2,0,0,0,1,0,1,1,0,0,0,0
+1908,Southern Association,MKLF0305,McElveen,,Nashville,1908-04-17,1908-06-06,27,0,0,1,24,0,2,2,0,0,0,0
+1908,Southern Association,MKLF0405,McElven,,Nashville,1908-04-16,1908-04-22,2,0,0,0,1,0,1,1,0,0,0,0
+1908,Southern Association,MKLF0505,McElver,,Nashville,1908-04-21,1908-04-21,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Southern Association,MKFR0102,McEver,,Mobile,1908-05-07,1908-05-07,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Southern Association,MKFR0202,McIver,,Mobile,1908-04-16,1908-06-07,40,0,0,0,0,0,40,0,0,40,0,0
+1908,Southern Association,MKNS0102,McKensie,,Atlanta,1908-05-04,1908-05-04,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Southern Association,MKNS0202,McKenzie,,Atlanta,1908-04-24,1908-05-24,5,5,0,0,0,0,0,0,0,0,0,5
+1908,Southern Association,MKRZ0102,McMurray,,Atlanta,1908-04-16,1908-06-05,19,0,0,0,0,0,0,0,0,0,19,0
+1908,Southern Association,MKRZ0202,McMurry,,Atlanta,1908-05-16,1908-06-06,2,0,0,0,0,0,0,0,0,0,2,0
+1908,Southern Association,MKLZ0103,McNeal,,Birmingham,1908-04-21,1908-06-04,8,8,0,0,0,0,0,0,0,0,0,8
+1908,Southern Association,MKLZ0203,McNeely,,Birmingham,1908-04-27,1908-04-27,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Southern Association,MKLZ0303,McNeill,,Birmingham,1908-04-16,1908-04-16,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Southern Association,MKZZ0102,Meek,,Birmingham,1908-04-16,1908-06-03,25,0,9,0,0,0,1,0,0,1,12,0
+1908,Southern Association,MLFR0101,Melver,,Mobile,1908-04-15,1908-04-15,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Southern Association,MR0Z0101,Mereth,,Montgomery,1908-04-20,1908-04-20,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Southern Association,MRMN0102,Merryman,,Mobile,1908-05-11,1908-05-11,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Southern Association,MRMN0202,Merryman,,Montgomery,1908-05-01,1908-05-01,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Southern Association,MSTZ0203,Messett,,Montgomery,1908-04-21,1908-04-21,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Southern Association,MSTZ0303,Messitt,,Montgomery,1908-04-23,1908-05-29,13,0,0,0,0,0,0,0,0,0,13,0
+1908,Southern Association,MLSZ0102,Mol'sw'h,,Birmingham,1908-04-20,1908-04-20,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Southern Association,MLSZ0202,Molesw'h,,Birmingham,1908-04-22,1908-06-04,8,0,0,0,0,0,8,0,8,0,0,0
+1908,Southern Association,MLS00404,Molesw'th,,Birmingham,1908-04-18,1908-05-14,8,0,0,0,0,0,8,0,8,0,0,0
+1908,Southern Association,MLSR0101,Molesworth,,Birmingham,1908-04-16,1908-06-06,21,0,0,0,0,0,21,0,21,0,0,0
+1908,Southern Association,MKZZ0202,Mook,,Birmingham,1908-04-20,1908-04-20,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Southern Association,MRNZ0101,Moran,,Atlanta,1908-05-01,1908-06-06,29,0,0,0,0,0,29,29,0,0,0,0
+1908,Southern Association,MRSZ0101,Morse,,Nashville,1908-04-16,1908-04-22,4,0,0,2,0,0,0,0,0,0,0,0
+1908,Southern Association,MRFZ0101,Murphy,,Memphis,1908-05-20,1908-06-07,11,0,0,0,0,0,10,7,1,3,0,0
+1908,Southern Association,NPLT0101,Noblett,,Mobile,1908-04-23,1908-05-10,3,0,0,0,0,0,1,0,0,1,0,0
+1908,Southern Association,ALRZ0202,O'Leary,,Memphis,1908-04-20,1908-06-07,26,0,2,0,0,0,22,13,5,4,3,0
+1908,Southern Association,ANSZ0101,Owens,,Memphis,1908-04-17,1908-06-07,43,0,0,0,0,0,1,0,0,1,43,0
+1908,Southern Association,PJZZ0101,Page,,Little Rock,1908-04-17,1908-06-06,45,0,0,11,1,7,26,0,0,26,0,0
+1908,Southern Association,PRKZ0101,Park,,Mobile,1908-05-07,1908-05-07,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Southern Association,PRSN0104,Pearson,,Montgomery,1908-05-11,1908-05-12,2,0,0,0,0,0,2,1,1,1,0,0
+1908,Southern Association,PPZZ0202,Pepe,,Montgomery,1908-04-16,1908-06-07,44,0,0,0,0,44,0,0,0,0,0,0
+1908,Southern Association,PRTZ0101,Perdue,,Nashville,1908-04-23,1908-06-04,8,8,0,0,0,0,0,0,0,0,0,8
+1908,Southern Association,PRZZ0101,Perry,,Montgomery,1908-04-16,1908-06-07,44,0,0,44,0,0,0,0,0,0,0,0
+1908,Southern Association,PRSN0204,Person,,Mobile,1908-06-05,1908-06-05,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Southern Association,PRSN0304,Person,,Montgomery,1908-04-21,1908-04-21,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Southern Association,PRSN0404,Persons,,Montgomery,1908-04-16,1908-06-07,41,0,0,0,0,0,41,17,1,23,0,0
+1908,Southern Association,RKNZ0106,Ragan,,Birmingham,1908-04-16,1908-05-08,4,3,0,0,0,0,2,0,0,2,0,3
+1908,Southern Association,RKNZ0206,Ragan,,Little Rock,1908-06-01,1908-06-01,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Southern Association,RPZZ0102,Raub,,Birmingham,1908-04-16,1908-06-06,33,0,0,0,0,0,3,0,0,3,30,0
+1908,Southern Association,RKNZ0306,Reagan,,Birmingham,1908-04-25,1908-05-09,5,0,0,0,0,0,5,0,0,5,0,0
+1908,Southern Association,RKNZ0406,Reagan,,Montgomery,1908-05-12,1908-06-07,23,0,0,0,0,0,23,18,5,0,0,0
+1908,Southern Association,RTMT0101,Redm'd,,Memphis,1908-06-03,1908-06-03,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Southern Association,RTMN0101,Redmond,,Memphis,1908-05-24,1908-06-07,13,0,0,11,1,1,0,0,0,0,0,0
+1908,Southern Association,RKNZ0506,Regan,,Birmingham,1908-04-20,1908-05-11,10,0,0,0,0,0,10,1,0,9,0,0
+1908,Southern Association,RKNZ0606,Regan,,Montgomery,1908-05-13,1908-05-13,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Southern Association,RKRT0101,Rickert,,New Orleans,1908-04-15,1908-06-07,47,0,0,0,0,0,47,46,0,1,0,0
+1908,Southern Association,RKTZ0101,Ricket,,New Orleans,1908-05-05,1908-05-05,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Southern Association,RPZZ0202,Robe,,New Orleans,1908-04-22,1908-04-22,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Southern Association,RPRT0102,Robertaille,,Birmingham,1908-04-25,1908-06-06,9,9,0,0,0,0,0,0,0,0,0,9
+1908,Southern Association,RPRT0202,Robertalle,,Birmingham,1908-04-16,1908-04-16,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Southern Association,RPNS0101,Robinson,,Birmingham,1908-05-12,1908-06-05,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Southern Association,RHZZ0101,Rohe,,New Orleans,1908-04-15,1908-06-07,47,0,0,0,32,15,0,0,0,0,0,0
+1908,Southern Association,RNZZ0104,Ryan,,Montgomery,1908-04-16,1908-05-29,25,0,0,0,0,0,23,0,23,0,0,0
+1908,Southern Association,RNZZ0204,Ryan,,New Orleans,1908-04-15,1908-06-07,11,8,0,0,0,0,0,0,0,0,0,8
+1908,Southern Association,RNZZ0304,Ryan,Jack,New Orleans,1908-05-15,1908-05-15,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Southern Association,RNZZ0404,Ryan,Jas.,Montgomery,1908-05-15,1908-05-15,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Southern Association,SKZZ0101,S'w'ck,,Memphis,1908-05-15,1908-05-15,1,0,0,0,0,0,1,1,0,1,0,0
+1908,Southern Association,SPRZ0102,Sabrie,,New Orleans,1908-04-15,1908-06-07,48,0,48,0,0,0,0,0,0,0,0,0
+1908,Southern Association,SFJZ0101,Savidge,,Memphis,1908-04-19,1908-06-03,10,9,0,0,0,0,1,0,0,1,0,9
+1908,Southern Association,XPZZ0101,Schopp,,Atlanta,1908-04-22,1908-06-05,11,11,0,0,0,0,0,0,0,0,0,11
+1908,Southern Association,XNKZ0101,Schwenck,,Memphis,1908-04-17,1908-06-07,11,10,0,0,0,0,0,0,0,0,0,10
+1908,Southern Association,SPKZ0101,Seab'gh,,Nashville,1908-05-25,1908-05-25,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Southern Association,SPZZ0102,Seabaugh,,Nashville,1908-04-16,1908-04-16,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Southern Association,SPZZ0202,Seabough,,Nashville,1908-04-20,1908-06-05,26,0,0,0,0,0,0,0,0,0,24,0
+1908,Southern Association,SPRZ0202,Seabrough,,Nashville,1908-05-01,1908-05-01,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Southern Association,SKLZ0103,Seegle,,Nashville,1908-05-08,1908-05-08,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Southern Association,SJLZ0102,Seigel,,Nashville,1908-05-01,1908-05-20,2,0,0,0,0,0,2,0,2,0,0,0
+1908,Southern Association,SKLZ0203,Seigle,,Nashville,1908-05-02,1908-06-06,22,0,0,0,0,0,22,1,21,0,0,0
+1908,Southern Association,SNTL0103,Senteel,,Mobile,1908-06-07,1908-06-07,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Southern Association,SNTL0203,Sentell,,Mobile,1908-04-15,1908-06-06,42,0,0,0,0,42,0,0,0,0,0,0
+1908,Southern Association,XNNZ0101,Shannon,,Montgomery,1908-04-16,1908-06-02,23,0,0,0,0,0,0,0,0,0,23,0
+1908,Southern Association,XLTS0101,Shields,,Memphis,1908-04-21,1908-06-05,10,7,0,0,0,0,3,0,2,1,0,7
+1908,Southern Association,SJLZ0202,Siegel,,Nashville,1908-05-04,1908-05-04,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Southern Association,SKLZ0303,Siegle,,Nashville,1908-05-07,1908-05-25,2,0,0,0,0,0,2,0,2,0,0,0
+1908,Southern Association,SRLZ0102,Sorrel,,Nashville,1908-04-16,1908-04-16,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Southern Association,SRLZ0202,Sorrell,,Nashville,1908-04-21,1908-04-21,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Southern Association,SPKR0101,Speaker,,Little Rock,1908-04-17,1908-06-06,46,0,0,0,0,0,46,0,46,0,0,0
+1908,Southern Association,STKP0101,Stackpole,,Montgomery,1908-04-30,1908-05-19,4,4,0,0,0,0,0,0,0,0,0,4
+1908,Southern Association,STRK0104,Stark,,Little Rock,1908-04-25,1908-06-06,17,0,1,0,0,16,0,0,0,0,0,0
+1908,Southern Association,STRK0204,Stark,C.,Little Rock,1908-04-21,1908-05-19,15,0,4,0,0,0,10,0,1,9,0,0
+1908,Southern Association,STRK0304,Stark,D.,Little Rock,1908-04-21,1908-05-20,25,0,1,0,0,23,0,0,0,0,0,0
+1908,Southern Association,STRK0404,Stark. C.,,Little Rock,1908-04-22,1908-04-22,1,0,0,0,0,0,0,0,0,0,0,0
+1908,Southern Association,STKT0101,Stockdale,,Mobile,1908-05-16,1908-06-03,4,4,0,0,0,0,0,0,0,0,0,4
+1908,Southern Association,STRT0101,Stratton,,New Orleans,1908-04-25,1908-06-07,15,0,0,0,0,0,0,0,0,0,15,0
+1908,Southern Association,TRLT0102,Tarleton,,New Orleans,1908-04-16,1908-04-23,2,0,1,0,0,0,0,0,0,0,0,0
+1908,Southern Association,TRLT0202,Tarlton,,New Orleans,1908-04-18,1908-04-19,2,0,0,0,0,0,0,0,0,0,0,0
+1908,Southern Association,0NTN0102,Th'ntn,,Mobile,1908-05-19,1908-05-19,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Southern Association,0NTN0202,Th'nton,,Mobile,1908-05-03,1908-05-03,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Southern Association,0LZZ0101,Thiel,,Little Rock,1908-04-17,1908-04-25,8,0,0,0,0,0,8,8,0,0,0,0
+1908,Southern Association,TMSZ0101,Thomas,,Montgomery,1908-04-20,1908-05-16,5,5,0,0,0,0,0,0,0,0,0,5
+1908,Southern Association,0RNT0101,Thornton,,Mobile,1908-04-15,1908-06-07,42,0,0,0,0,0,42,0,42,0,0,0
+1908,Southern Association,TRZZ0202,Torrey,,Mobile,1908-04-18,1908-06-04,7,7,0,0,0,0,0,0,0,0,0,7
+1908,Southern Association,TRNR0101,Turner,,Birmingham,1908-04-18,1908-06-06,9,9,0,0,0,0,0,0,0,0,0,9
+1908,Southern Association,FNNT0101,Van Anda,,Montgomery,1908-04-16,1908-06-04,11,11,0,0,0,0,0,0,0,0,0,11
+1908,Southern Association,FPNZ0101,Viebahn,,Atlanta,1908-04-21,1908-05-01,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Southern Association,FJLZ0101,Vogel,,Memphis,1908-04-17,1908-05-16,24,0,0,0,0,24,0,0,0,0,0,0
+1908,Southern Association,ALXZ0101,Walsh,,Atlanta,1908-04-23,1908-04-23,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Southern Association,ALTR0106,Walters,,Birmingham,1908-04-16,1908-06-06,40,0,0,31,9,0,0,0,0,0,0,0
+1908,Southern Association,ALTR0206,Walters,,Little Rock,1908-04-18,1908-06-06,8,8,0,0,0,0,0,0,0,0,0,8
+1908,Southern Association,ALTR0306,Walters,D.,Little Rock,1908-05-21,1908-05-21,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Southern Association,ALTR0406,Walters,L.,Birmingham,1908-05-21,1908-05-21,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Southern Association,ALTR0506,Walters[3b],,Birmingham,1908-06-01,1908-06-01,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Southern Association,ALTR0606,Walters[p],,Little Rock,1908-06-01,1908-06-01,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Southern Association,AMSZ0101,Weems,,Montgomery,1908-04-24,1908-05-11,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Southern Association,ALSZ0101,Wells,,Little Rock,1908-05-12,1908-06-06,15,0,0,0,0,0,4,0,0,4,12,0
+1908,Southern Association,ATZZ0102,White,,Mobile,1908-04-19,1908-05-03,8,0,0,0,0,0,0,0,0,0,8,0
+1908,Southern Association,ALKS0101,Wilkes,,Atlanta,1908-04-21,1908-06-06,19,0,0,1,0,13,0,0,0,0,0,0
+1908,Southern Association,ANTR0102,Winter,,Atlanta,1908-05-11,1908-06-05,2,0,0,0,0,0,2,0,2,0,0,0
+1908,Southern Association,ANTR0202,Winters,,Atlanta,1908-04-16,1908-06-06,38,0,0,0,0,0,38,0,37,1,0,0
+1908,Southern Association,ASNZ0101,Wise'n,,Nashville,1908-05-25,1908-05-25,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Southern Association,ASMN0101,Wiseman,,Nashville,1908-04-16,1908-06-06,39,0,0,0,0,0,39,0,0,39,0,0
+1908,Southern Association,ATZZ0202,Wood,,Little Rock,1908-04-17,1908-06-05,39,0,0,0,0,0,0,0,0,0,36,0
+1908,Southern Association,ARKS0102,Yerkes,,Nashville,1908-05-20,1908-06-02,3,3,0,0,0,0,0,0,0,0,0,3
+1908,Southern Association,ARKS0202,Yorkes,,Nashville,1908-05-11,1908-05-11,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Southern Association,SNTL0303,Zentelle,,Mobile,1908-04-16,1908-04-16,1,0,0,0,0,1,0,0,0,0,0,0

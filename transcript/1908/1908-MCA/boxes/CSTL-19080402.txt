@@ -1,0 +1,456 @@
+date: 1908-04-02
+number: 0
+league: Cotton States
+away: Gulfport
+home: Jackson
+source: (Memphis) Commercial Appeal, April 3, 1908
+
+note: weather cold and windy
+
+Gulfport:	ab r h po a e
+Daly @ 2b:	6 0 0 3 3 1
+Murch @ 3b:	4 3 1 3 3 0
+Reilly @ ss:	5 3 5 2 2 0
+Holland @ cf:	4 2 3 4 1 0
+Gettinger @ lf:	4 0 1 1 0 0
+Gilks @ 1b:	5 0 1 10 0 0
+Gunn @ rf:	4 1 0 0 0 0
+Graffius @ c:	1 1 1 4 1 0
+Schultz @ p:	5 1 1 0 2 0
+TOTALS:		38 11 13 27 12 1
+
+Jackson:	ab r h po a e
+Taylor @ lf:	3 0 1 2 0 0
+Claire @ ss:	4 1 0 2 5 0
+Montgomery @ cf:	4 0 2 1 0 0
+Pickens@ 2b:	4 0 1 2 2 0
+Blackburn @ 3b:	4 0 0 1 2 1
+Saillard @ 1b:	4 0 0 11 0 0
+Bond @ rf:	4 0 1 0 0 0
+Dacosta @ c:	3 0 0 8 1 0
+Barber @ p:	1 0 1 0 0 0
+Welsh @ p:	2 1 1 0 0 0
+TOTALS:		33 2 7 27 10 1
+
+line: Gulfport: 1 1 3 0 1 1 4 0 0 - 11
+line: Jackson: 0 0 0 0 2 0 0 0 0 -2
+
+B_2B: Reilly; Graffius; Schultz
+B_3B: Montgomery
+B_HR: Murch
+B_SB: Murch; Reilly; Taylor; Montgomery
+F_DP: Holland, Daly; Reilly, Daly, Gilks
+P_SO: Schultz #4; Barber #2; Welsh #6
+P_BB: Schultz #1; Barber #1; Welsh #5
+P_HP: Barber
+B_HP: Holland
+T: 1:45
+U: Bammert
+
+---
+
+date: 1908-04-02
+number: 0
+league: Cotton States
+away: Monroe
+home: Vicksburg
+source: (Memphis) Commercial Appeal, April 3, 1908
+
+note: weather cold
+
+Monroe:		ab r h po a e
+Hunter @ lf:	3 0 0 1 0 0
+Reif @ ss:	3 1 0 1 1 1
+Northern @ rf:	4 1 2 0 0 0
+Blanchett @ 1b:	4 1 1 7 3 0
+Fisher @ c:	4 0 0 7 1 0
+Dobard @ 2b:	4 0 0 6 4 0
+Kichens@ cf:	3 0 0 0 0 0
+Addington @ 3b:	3 0 0 1 1 0
+Bauer @ p:	3 0 2 1 3 0
+TOTALS:		31 3 5 24 13 1
+
+Vicksburg:	ab r h po a e
+Bebeau @ 3b:	5 1 2 1 2 0
+Herold @ ss: 	3 0 0 2 6 1
+Redmond @ 2b:	3 1 1 3 3 0
+Manush @ cf:	2 1 1 5 1 0
+Sample @ 1b:	3 0 0 8 1 0
+Taylor @ lf:	4 1 2 1 0 1
+Krebs @ c:	3 0 1 3 0 0
+Jolly @ rf:	3 0 1 2 0 0
+Klawitter @ p:	4 0 0 2 1 0
+TOTALS: 	30 4 8 27 14 2
+
+line: Monroe: 0 0 0 0 0 0 0 0 3 - 3
+line: Vicksburg: 0 0 3 0 0 0 0 1 * - 4
+
+B_3B: Taylor
+B_2B: Redmond; Blanchett
+B_SB: Manush #2; Taylor; Jolly
+B_SH: Herold; Krebs; Jolly
+P_SO: Klawitter #2; Bauer #7
+P_BB: Klawitter #1; Bauer #3
+B_HP: Manush; Reif
+F_DP: Manush, Sample; Bebeau, Redmond, Sample
+P_WP: Bauer
+T: 1:50
+U: Hall
+
+---
+
+date: 1908-04-02
+number: 0
+league: Cotton States
+away: Columbus
+home: Meridian
+source: (Memphis) Commercial Appeal, April 3, 1908
+
+note: game called after 9 innings due to darkness
+note: weather cold and windy
+
+Columbus:	ab r h po a e
+Marshall @ cf-1b:	6 2 3 3 0 0
+Huber @ ss:	6 2 3 3 5 0
+Manush @ 3b:	4 1 2 2 4 1
+Toft @ 1b:	4 1 3 5 0 1
+Demoree @ cf:	1 0 0 0 0 0
+Darsey @ lf:	5 1 2 0 0 0
+Mitchell @ rf:	6 2 2 1 0 0
+Durmeyer @ 2b:	5 1 1 2 1 0
+Downing @ c: 	3 2 1 9 0 1
+Pylant @ p:	1 0 1 2 1 2
+May @ p:	2 1 0 0 1 0
+TOTALS:		43 13 18 27 12 5
+
+Meridian:	ab r h po a e
+Kutina @ 1b:	5 3 2 9 2 1
+Bundy @ cf:	4 3 1 1 0 0
+Bates @ rf:	5 1 3 1 0 0
+Hankey @ 3b:	5 2 1 4 4 1
+Reitz @ 2b:	4 1 0 1 1 0
+Dobard @ ss: 	4 0 1 0 2 3
+Gaiser @ lf:	5 1 1 0 0 0
+Cerveaux @ c:	5 1 1 11 2 1
+Billiard @ p:	1 0 1 0 2 0
+Yount @ p:	2 1 1 0 3 0
+Schmit @ p:	1 0 0 0 2 0
+TOTALS:		41 13 12 27 18 6
+
+line: Columbus: 0 3 2 2 0 1 5 0 0 - 13
+line: Meridian: 3 0 0 0 5 3 2 0 0 - 13
+
+B_2B: Kutina; Yount; Mitchell; Huber; Toft
+B_3B: Durmeyer
+B_SH: Dobard; Yount; Manush
+B_SB: Bundy; Hankey; Reitz; Dobard; Gaiser; Huber; Manush; Mitchell; Downing #2; Pylant
+F_PB: Cerveaux; Downing
+P_WP: Yount #2
+P_SO: Billiard #2; Pylant #1; May #6; Yount #2; Schmit #8
+P_BB: Billiard #1; Yount #2; May #2; Schmit #1
+B_HP: Kutina; Toft; Manush; Downing
+P_HP: May; Billiard; Yount #2
+T: 2:10
+U: Laroque
+
+---
+
+date: 1908-04-03
+number: 0
+league: Cotton States
+away: Gulfport
+home: Jackson
+source: (Memphis) Commercial Appeal, April 4, 1908
+
+note: manager Montgomery of Jackson says games in which Griffius is allowed to play will be protested
+
+Gulfport:	ab r h po a e
+Daly @ 2b:	4 0 0 1 2 1
+Murch @ 3b:	5 0 0 3 1 0
+Reilly @ ss:	5 1 1 4 4 1
+Holland @ cf:	4 0 1 2 0 0
+Gettinger @ lf:	5 3 3 4 0 0
+Gilks @ 1b:	4 0 0 11 1 0
+Gunn @ rf:	4 2 1 1 0 0
+Griffius @ c:	3 0 1 1 0 0
+Roberts @ p:	3 0 1 0 2 0
+TOTALS:		37 6 8 27 10 2
+
+Jackson:	ab r h po a e
+Taylor @ lf:	5 0 0 4 0 0
+Claire @ ss:	4 0 0 0 4 0
+Montgomery @ cf:	3 0 1 5 0 0
+Pickens @ 2b:	4 0 0 1 0 0
+Blackburn @ 3b:	4 1 1 0 5 0
+Saillard @ 1b:	2 0 0 12 3 0
+Bond @ rf:	3 1 0 1 0 1
+Dacosta@ c:	2 0 1 3 0 1
+Tucker @ p:	3 0 1 1 2 1
+TOTALS:		30 2 7 27 14 3
+
+note: box lists 7 total Jackson hits, but player totals add up to 4
+
+line: Gulfport: 0 1 0 2 1 0 0 2 0 - 6
+line: Jackson: 0 2 0 0 0 0 0 0 0 - 2
+
+B_2B: Reilly; Blackburn; Tucker; Montgomery; Dacosta
+B_3B: Gettinger; Gunn
+B_SH: Saillard; Dacosta; Tucker
+F_PB: Griffius; Dacosta
+P_WP: Tucker
+P_SO: Roberts #1; Tucker #3
+P_BB: Roberts #5; Tucker #1
+B_HP: Daly; Griffius
+T: 1:45
+U: Bammert
+
+---
+
+date: 1908-04-03
+number: 0
+league: Cotton States
+away: Columbus
+home: Meridian
+source: (Memphis) Commercial Appeal, April 4, 1908
+
+note: Cold weather
+
+Columbus:	ab r h po a e
+Marshall @ 1b:	4 0 1 6 1 0
+Huber @ ss:	3 0 0 4 1 1
+Manush @ 3b:	3 0 1 0 0 1
+Mitchell @ cf:	4 0 1 2 0 1
+Dorsey @ lf:	2 1 1 4 1 0
+Durmeyer @ 2b:	4 0 1 1 1 0
+May @ rf:	4 0 0 4 1 0
+Downing @ c:	2 0 0 4 0 0
+Demaree @ p:	3 1 0 2 3 0
+TOTALS:		29 2 5 27 8 3
+
+Meridian:	ab r h po a e
+Kutina @ 1b:	4 0 2 13 0 0
+Schmit @ cf:	4 0 0 2 0 0
+Bates @ rf:	3 0 0 0 0 0
+Hankey @ 3b:	4 0 0 2 3 0
+Rutes @ 2b:	4 0 2 1 3 0
+Dobard @ ss:	3 1 1 3 6 1
+Geiser @ lf:	4 1 1 1 0 0
+Cerveaux @ c:	4 1 1 5 3 1
+Billiard @ p:	4 0 0 0 1 0
+TOTALS:		34 3 7 27 16 2
+
+line: Columbus: 0 0 1 0 0 0 0 0 1 - 2
+line: Meridian: 0 0 0 0 1 0 2 0 0 - 3
+
+B_2B: Geiser; Dorsey
+B_SH: Manush; Dorsey
+B_SB: Durmeyer #2; Dorsey
+F_DP: May, Marshall, Huber; Demaree, Marshall; Dobard, Rutes, Kutina
+P_WP: Demaree
+P_SO: Billiard #5; Demaree #5
+P_BB: Billiard #3; Demaree #2
+T: 1:50
+U: LaRoque
+
+---
+
+date: 1908-04-04
+number: 0
+league: Cotton States
+away: Monroe
+home: Vicksburg
+source: (Memphis) Commercial Appeal, April 5, 1908
+
+Monroe:		ab r h po a e
+Hunter @ lf:	2 0 0 5 0 0
+Reif @ ss:	3 1 1 3 0 3
+Northern @ rf:	4 1 1 1 0 0
+Blanchette @ 1b:	3 0 0 11 0 0
+Fisher @ c:	4 0 0 4 1 0
+Dobard @ 2b:	3 0 0 1 3 0
+Kichens @ cf:	3 0 0 1 0 0
+Addington @ 3b:	3 0 0 0 4 0
+Frickie @ p:	0 0 0 0 0 1
+Whalen @ p:	3 0 1 1 3 0
+TOTALS:		28 2 3 27 11 4
+
+Vicksburg:	ab r h po a e
+Herold @ ss:	3 1 0 1 7 1
+Redmond @ 2b:	4 0 1 2 4 0
+Manush @ cf:	4 0 1 3 1 0
+Sample @ 1b:	4 0 0 11 0 0
+Taylor @ lf:	3 0 1 1 0 0
+Krebs @ c:	4 0 0 7 1 0
+Jolly @ rf:	4 0 1 1 0 0
+Wasachek @ 3b:	4 0 0 1 0 0
+Koster @ p:	3 0 0 0 1 0
+*Hart @ ph:	1 0 0 0 0 0
+TOTALS:	34 1 4 27 14 1
+
+*: batted for Koster in 9th
+
+line: Monroe: 2 0 0 0 0 0 0 0 0 - 2
+line: Vicksburg: 1 0 0 0 0 0 0 0 0 - 1
+
+B_3B: Reif
+B_SB: Herold; Jolly; Wasachek; Blanchette
+P_BB: Frickie #1; Whalen #2; Koster #3
+P_SO: Whalen #5; Koster #5
+B_HP: Redmond
+B_SH: Hunter
+P_IP: Frickie #0; Whalen #9
+note: P_IP not in summary, but taken from recap
+T: 1:45
+U: Hall
+
+---
+
+date: 1908-04-04
+number: 0
+league: Cotton States
+away: Columbus
+home: Meridian
+source: (Memphis) Commercial Appeal, April 5, 1908
+
+note: apparently Meridian chose to bat first, no comment in recap
+
+Columbus:	ab r h po a e
+Huber @ ss:	5 2 1 4 5 0
+Marshall @ 1b:	4 1 1 11 1 0
+Manush @ 3b:	4 1 1 1 1 0
+Mitchell @ cf-p:	4 0 1 0 1 0
+Dorsey @ lf:	3 0 1 1 2 0
+Durmeyer @ 2b:	4 0 0 3 1 1
+May @ rf-p-cf:	4 0 0 1 2 0
+Toft @ c:	1 1 1 2 0 0
+Downing @ c:	2 0 0 2 1 0
+Pylant @ p:	2 0 0 0 2 0
+Anderson @ rf:	2 1 1 2 0 0
+TOTALS:		35 6 7 27 16 1
+
+Meridian:	ab r h po a e
+Kutina @ 1b:	4 0 0 9 0 2
+Bundy @ cf:	1 0 0 0 1 0
+Bates @ rf:	4 0 1 2 0 0
+Hankey @ 3b:	3 2 1 0 1 1
+Reitz @ 2b:	4 0 0 4 1 0
+Dobard @ ss:	4 0 2 1 6 1
+Geiser @ lf:	4 0 2 0 0 0
+Cerevaux @ c:	4 0 1 7 0 0
+Yount @ p:	4 0 1 1 2 1
+TOTALS:		32 2 8 24 11 5
+
+line: Columbus: 1 3 0 0 0 2 0 0 * - 6
+line: Meridian: 0 1 0 1 0 0 0 0 0 - 2
+
+B_SB: Bundy; Reitz; Geiser; Marshall; Manush
+B_2B: Geiser; Hankey; Dobard
+B_SH: Hankey
+F_DP: Yount, Kutina
+P_SO: Yount #5; Pylant #1
+P_BB: Yount #2; Pylant #1; May #1; Mitchell #1
+B_HP: Bundy; Marshall
+P_HP: Pylant; Yount
+F_PB: Cerevaux
+T: 1:40
+U: Larouque
+
+---
+
+date: 1908-04-04
+number: 0
+league: Cotton States
+away: Gulfport
+home: Jackson
+source: (Memphis) Commercial Appeal, April 5, 1908
+
+Gulfport:	ab r h po a e
+Daly @ 2b:	1 0 1 1 2 1
+Murch @ 3b:	2 0 0 3 3 0
+Reilly @ ss:	3 0 0 2 1 0
+Holland @ cf:	4 0 1 3 0 0
+Gottinger @ lf:	4 0 0 1 0 0
+Gilkes @ 1b:	4 0 0 10 0 0
+Gunn @ rf:	3 0 0 0 0 0
+Graffius @ c:	4 0 0 4 2 0
+Lively @ p:	4 0 1 0 4 0
+TOTALS:		29 0 3 24 12 1
+
+Jackson:	ab r h po a e
+Taylor @ lf:	4 0 0 2 0 0
+Claire @ ss:	4 0 1 2 1 0
+Montgomery @ cf:	3 1 1 1 0 0
+Pickens @ 2b:	3 0 1 1 0 0
+Blackburn @ 3b:	4 0 1 2 0 0
+Saillard @ 1b:	4 0 2 6 1 0
+Kellogg @ rf:	3 0 0 0 0 0
+Dacosta @ c:	3 1 3 13 0 0
+Veasey @ p:	2 0 1 0 2 0
+TOTALS:		30 2 10 27 4 0
+
+line: Gulfport: 0 0 0 0 0 0 0 0 0 - 0
+line: Jackson: 0 0 0 0 0 1 1 0 * - 2
+
+B_2B: Dacosta; Montgomery
+P_WP: Lively
+F_PB: Graffius
+B_SB: Gunn; Montgomery; Saillard
+P_BB: Veasey #4
+P_SO: Veasey #12; Lively #3
+B_HP: Daly #3; Montgomery
+B_SH: Pickens; Veasey
+T: 1:50
+U: Blummet
+
+---
+
+date: 1908-04-05
+number: 0
+league: Cotton States
+away: Monroe
+home: Vicksburg
+source: (Memphis) Commercial Appeal, April 6, 1908
+
+Monroe:		ab r h po a e
+Hunter @ lf:	4 0 1 1 0 0
+Reif @ 2b:	4 0 1 6 1 1
+Northern @ rf:	3 0 0 1 0 0
+Blanch'te @ 1b:	4 0 0 4 1 0
+Fisher @ c:	4 0 1 9 4 0
+Dobard @ ss:	3 0 0 0 0 2
+Kitchen @ cf:	3 0 0 3 1 0
+Add'gton @ 3b:	3 0 0 0 1 0
+Switser @ p:	2 0 1 0 3 1
+TOTALS:		30 0 4 24 11 4
+
+Vicksburg:	ab r h po a e
+Herold @ ss:	3 1 1 1 1 1
+Redmond @ 2b:	3 2 2 3 2 0
+Manush @ cf: 	2 0 1 3 0 0
+Sample @ 1b:	3 0 1 7 0 0
+Taylor @ lf:	2 0 0 3 0 0
+Krebs @ c:	2 0 0 6 1 0
+Jolly @ rf:	2 1 0 3 0 1
+Wasacheck @ 3b:	4 0 0 1 3 0
+Blackburn @ p:	3 1 1 0 3 0
+TOTALS:		24 5 8 27 10 2
+
+note: box lists 8 total Vicksburg hits, but player totals add up to 6
+
+line: Monroe: 0 0 0 0 0 0 0 0 0 - 0
+line: Vicksburg: 1 0 0 0 0 1 3 0 * - 5
+
+B_3B: Redmond
+B_2B: Redmond; Herold
+B_SB: Jolly #2; Blackburn
+F_DP: Kitchen, Fisher, Reif; Blackburn, Redmond, Sample
+P_SO: Blackburn #6; Switser #5
+P_BB: Blackburn #1; Switser #7
+B_HP: Switser
+B_SH: Manush; Sample; Krebs
+P_WP: Switser
+T: 1:10
+U: Hall
+
+
+
