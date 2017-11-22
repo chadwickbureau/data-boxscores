@@ -280,13 +280,13 @@ home: Las Cruces
 source: Albuquerque Journal, May 21, 1915
 
 Phoenix:	r h e
-Kallio @ p:	x x x 
-Bliss @ c:	x x x 
+Toner @ p:	x x x
+Lynn @ c:	x x x 
 TOTALS:		4 7 2
 
 Las Cruces: 	r h e
-Toner @ p:	x x x
-Lynn @ c:	x x x 
+Kallio @ p:	x x x 
+Bliss @ c:	x x x 
 TOTALS:		3 9 2
 
 line: Phoenix:    1 0 0 1 0 1 1 0 0 - 4
@@ -381,14 +381,14 @@ home: Las Cruces
 source: Albuquerque Journal, May 22, 1915
 
 Phoenix:	r h e
-Russell @ p:	x x x 
-Bliss @ c:	x x x 
-TOTALS:		8 18 5
-
-Las Cruces: 	r h e
 Hall @ p:	x x x
 McCreary @ p:	x x x
 Lynn @ c:	x x x 
+TOTALS:		8 18 5
+
+Las Cruces: 	r h e
+Russell @ p:	x x x 
+Bliss @ c:	x x x 
 TOTALS:		6 7 2
 
 ---
@@ -551,13 +551,13 @@ home: Las Cruces
 source: Albuquerque Journal, May 24, 1915
 
 Phoenix:	r h e
-Black @ p:	x x x 
-Bliss @ c:	x x x 
+Toner @ p:	x x x
+Lynn @ c:	x x x 
 TOTALS:		8 15 2
 
 Las Cruces: 	r h e
-Toner @ p:	x x x
-Lynn @ c:	x x x 
+Black @ p:	x x x 
+Bliss @ c:	x x x 
 TOTALS:		2 11 5
 
 line: Phoenix:    0 0 0 0 0 2 0 2 4 - 8
@@ -574,14 +574,14 @@ source: Albuquerque Journal, May 24, 1915
 note: game called after 7th by agreement
 
 Phoenix:	r h e
-Kallio @ p:	x x x 
-Bliss @ c:	x x x 
-TOTALS:		5 5 3
-
-Las Cruces: 	r h e
 Hall @ p:	x x x
 Hester @ p:	x x x
 Lynn @ c:	x x x 
+TOTALS:		5 5 3
+
+Las Cruces: 	r h e
+Kallio @ p:	x x x 
+Bliss @ c:	x x x 
 TOTALS:		6 8 4
 
 line: Phoenix:    4 1 0 0 0 0 0 - 5
