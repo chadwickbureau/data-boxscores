@@ -6,6 +6,32 @@ import collections
 import numpy as np
 import pandas as pd
 
+def compute_stints(playing):
+    playing.sort_values(['person.key', 'S_FIRST'], inplace=True)
+    playing['S_STINT'] = playing.groupby('person.key').cumcount()+1
+    playing['nstint'] = playing.groupby('person.key')['S_STINT'].transform(max)
+    playing.loc[playing['nstint']==1, 'S_STINT'] = 0
+    del playing['nstint']
+    return playing
+
+def totalize(playing):
+    playing = playing[playing['S_STINT']!=0]
+    playing = playing[['person.key', 'S_FIRST', 'S_LAST'] +
+                      [c for c in playing.columns if
+                       c.startswith('B_') or c.startswith('P_') or
+                       c.startswith('F_')]]
+    aggs = collections.OrderedDict()
+    aggs['S_FIRST'] = 'min'
+    aggs['S_LAST'] = 'max'
+    for col in playing:
+        if col.startswith('B_') or col.startswith('P_') or \
+           col.startswith('F_'):
+            aggs[col] = 'sum'
+    playing = playing.groupby('person.key').aggregate(aggs)
+    playing.reset_index(inplace=True)
+    playing['entry.name'] = "#TOTAL"
+    playing['S_STINT'] = 'T'
+    return playing
 
 def main():
     year, league = sys.argv[1], sys.argv[2]
@@ -75,8 +101,6 @@ def main():
     playing['ub'] = playing.max(axis=1)
 
     playing.reset_index(inplace=True)
-    playing.to_csv("comparelog.csv", float_format='%d', index=False)
-
     playing.set_index(['person.key', 'game.key', 'entry.name', 'variable'],
                       inplace=True)
     playing = playing[['ub']]
@@ -99,9 +123,14 @@ def main():
                        'F_SS_G', 'F_OF_G', 'F_LF_G', 'F_CF_G', 'F_RF_G']
 
     playing.reset_index(inplace=True)
+    playing = compute_stints(playing)
+    playing = pd.concat([playing, totalize(playing)], ignore_index=True)
+    playing.sort_values(['person.key', 'S_STINT'], inplace=True)
+    
     playing.insert(0, 'league.year', year)
     playing.insert(1, 'league.name', league)
     playing.rename(inplace=True, columns={'person.key': 'ident'})
+    playing['phase.name'] = 'regular'
 
     yearfile = pd.read_csv(os.path.expanduser("~/git/identlink/seasons/%s.csv" %
                                               year),
@@ -116,6 +145,14 @@ def main():
         os.makedirs("compiled/%s/%s%s" % (year, year, leaguefile))
     except os.error:
         pass
+
+    playing = playing[['league.year', 'league.name', 'ident',
+                       'phase.name', 'entry.name',
+                       'S_STINT', 'S_FIRST', 'S_LAST',
+                       'B_G', 'B_AB', 'B_R', 'B_H', 'B_2B', 'B_3B', 'B_HR',
+                       'B_SB',
+                       'F_P_G', 'F_C_G', 'F_1B_G', 'F_2B_G', 'F_3B_G',
+                       'F_SS_G', 'F_OF_G', 'F_LF_G', 'F_CF_G', 'F_RF_G']]
     
     playing.to_csv("compiled/%s/%s%s/playing_individual.csv" %
                    (year, year, leaguefile),
