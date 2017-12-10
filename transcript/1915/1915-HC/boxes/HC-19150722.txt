@@ -1,0 +1,1139 @@
+date: 1915-07-22
+number: 1
+league: Colonial
+away: Hartford
+home: Springfield
+source: Hartford Courant, July 23, 1915
+
+Hartford:	ab r h po a e
+Demoe @ ss:	4 1 1 0 1 2
+Gaudette @ rf:	2 0 0 1 0 0
+Chouinard @ cf:	3 0 0 0 1 1 
+Delehanty @ 2b:	4 0 2 0 3 0
+Whitehouse @ lf:	4 0 1 2 0 0
+Proulx @ 3b:	4 0 2 1 1 1
+Texter @ c:	3 0 0 8 2 1
+Werre @ 1b:	4 0 1 11 0 0
+Billiard @ p:	4 0 0 1 3 0
+TOTALS:		32 1 7 24 11 5
+
+Springfield:	ab r h po a e
+Collins @ cf:	2 0 1 1 0 1
+Gagnier @ 2b:	4 0 0 5 2 1
+Miller @ 1b:	3 1 0 7 0 0
+Swander @ lf:	4 1 1 1 0 0
+Young @ rf:	4 0 0 1 0 0
+Woods @ 3b:	3 0 2 4 0 0
+Lavigne @ c:	3 0 0 7 3 0
+Woodman @ ss:	3 0 0 1 4 1
+Smith @ p:	3 0 0 0 3 1
+TOTALS:		29 2 4 27 12 4
+
+line: Hartford:    0 0 0 0 0 1 0 0 0 - 1
+line: Springfield: 0 0 0 0 0 2 0 0 x - 2
+
+B_LOB: Hartford #8; Springfield #7
+B_2B: Swander; Demoe
+B_SH: Gaudette; Werre
+B_SF: Chouinard
+P_BB: Smith #3; Billiard #3
+P_SO: Smith #3; Billiard #9
+P_WP: Billiard
+F_DP: Woodman, Gagnier, Miller; Billiard, Werre
+T: 1:32
+U: Waters
+
+---
+
+date: 1915-07-22
+number: 2
+league: Colonial
+away: Hartford
+home: Springfield
+source: Hartford Courant, July 23, 1915
+
+Hartford:	ab r h po a e
+Demoe @ ss:	4 0 0 0 2 1
+Gaudette @ rf:	2 0 1 1 1 0
+Chouinard @ cf:	3 0 0 1 1 1 
+Delehanty @ 2b:	3 0 2 0 3 0
+Whitehouse @ lf:	2 1 1 1 0 0
+Proulx @ 3b:	2 0 0 1 1 0
+Texter @ c:	3 0 0 4 0 0
+Werre @ 1b:	3 0 1 12 0 0
+Sherman @ p:	3 0 0 0 1 0
+TOTALS:		25 1 5 20 9 2
+
+Springfield:	ab r h po a e
+Collins @ cf:	3 0 0 0 0 0 
+Gagnier @ 2b:	3 0 0 0 1 0
+Miller @ 1b:	3 0 0 9 0 1
+Swander @ lf:	3 0 0 1 0 0
+Young @ rf:	3 1 0 1 0 0
+Woods @ 3b:	3 0 1 4 3 0
+Lavigne @ c:	1 1 0 6 1 0
+Woodman @ ss:	1 0 0 0 3 0
+Justin @ p:	3 0 2 0 2 0
+*Bentley @ ph:	1 0 1 0 0 0
++Manser @ pr:	0 0 0 0 0 0
+TOTALS:		24 2 4 21 10 1
+
+*: batted for Woodman in 7th
++: ran for Bentley in 7th
+
+line: Hartford:    0 1 0 0 0 0 0 - 1
+line: Springfield: 0 0 0 0 0 0 2 - 2
+
+B_LOB: Hartford #6; Springfield #2
+B_2B: Woods
+B_SB: Manser
+B_SH: Lavigne; Whitehouse
+P_BB: Justin #2; Sherman #2
+P_SO: Justin #5; Sherman #3
+P_WP: Justin
+F_DP: Chouinard, Werre
+T: 1:10
+U: Waters
+
+---
+
+date: 1915-07-22
+number: 0
+league: Colonial
+away: New Haven
+home: Brockton
+source: Hartford Courant, July 23, 1915
+
+New Haven:	ab r h po a e
+Menosky @ lf:	4 1 1 0 0 1
+Frasier @ 2b:	3 0 0 4 2 1
+Edwards @ 3b:	4 0 0 2 1 1
+Coles @ cf:	4 0 3 2 0 0
+Hogan @ ss:	4 0 0 4 2 0
+Soper @ c:	3 0 0 4 4 0
+Frederick @ 1b:	1 0 0 3 1 2
+Somers @ 1b:	2 0 0 4 0 0
+Murphy @ rf:	3 0 0 1 0 0
+Herring @ p:	3 0 0 0 2 0
+TOTALS:		31 1 4 24 12 5
+
+Brockton:	ab r h po a e
+Doherty @ ss:	4 1 1 0 5 0
+Powers @ rf:	3 1 1 1 0 0
+Senno @ 2b:	3 2 0 2 2 1
+Jacobson @ lf:	3 0 1 1 0 0
+Kiley @ cf:	4 0 0 3 0 0
+Weeden @ 1b:	3 1 1 14 0 0
+Speraw @ 3b:	4 0 0 2 7 0
+Dempsey @ c:	4 0 1 4 0 0 
+Warwick @ p:	3 1 1 0 1 0
+TOTALS:		31 6 6 27 15 1
+
+line: New Haven: 1 0 0 0 0 0 0 0 0 - 1
+line: Brockton:  2 0 1 0 0 0 2 1 x - 6
+
+B_LOB: Brockton #6; New Haven #4
+B_ROE: Brockton #4; New Haven #1
+B_2B: Jacobson; Doherty; Menosky
+B_3B: Powers; Coles
+B_SB: Senno #3; Coles
+B_SH: Jacobson
+B_SF: Frasier
+B_HP: Weeden
+P_BB: Herring #4
+P_SO: Warwick #4; Herring #5
+P_HP: Herring
+P_WP: Warwick #2
+F_DP: Herring, Hogan, Frederick
+F_PB: Soper
+T: 1:20
+U: Finnell
+
+---
+
+date: 1915-07-22
+number: 0
+league: Colonial
+away: Pawtucket
+home: New Bedford
+source: Hartford Courant, July 23, 1915
+
+Pawtucket:	ab r h po a e
+Carr @ 3b-ss:	5 0 3 1 2 1
+O'Connell @ ss:	1 0 0 1 1 1
+Lied @ lf:	4 1 1 2 1 1
+Gilmore @ rf:	3 0 1 0 0 0
+Boucher @ 2b:	4 1 2 5 2 1
+Gillooly @ 1b-3b:	3 0 0 3 3 0
+Bottomley @ lf:	3 0 0 0 0 0
+Longley @ lf-1b:	4 0 2 7 1 2
+Barry @ c:	4 0 0 8 2 0
+Adams @ p:	4 0 0 0 4 0
+TOTALS:		35 2 9 27 16 6
+
+New Bedford:	ab r h po a e
+Jiggs @ 3b:	5 0 0 1 4 0
+Linder @ cf:	4 0 2 0 0 0
+Crooks @ 1b:	5 0 0 5 3 0
+Dukette @ rf:	4 0 1 0 0 0
+Phoenix @ 2b:	3 0 1 7 2 1
+Hickman @ ss:	5 0 1 6 4 0
+Aldred @ lf:	4 1 2 1 0 0
+Phillips @ c:	1 0 0 7 3 0
+Devinney @ p:	3 0 0 0 2 1
+TOTALS:		34 1 7 27 18 2
+
+line: Pawtucket:   0 0 0 0 0 0 0 2 0 - 2
+line: New Bedford: 0 0 0 0 0 1 0 0 0 - 1
+
+B_LOB: Pawtucket #9; New Bedford #15
+B_2B: Aldred
+B_SB: Linder #2; Phillips; Boucher
+B_SH: Phillips
+B_HP: Gilmore
+P_BB: Devinney #2; Adams #8
+P_SO: Devinney #5; Adams #7
+P_HP: Devinney
+F_DP: Carr, Boucher, Houck; Gillooly, Boucher
+F_PB: Barry
+T: 2:00
+U: Buckley
+
+---
+
+date: 1915-07-23
+number: 0
+league: Colonial
+away: Hartford
+home: Springfield
+source: Hartford Courant, July 24, 1915
+
+Hartford:	ab r h po a e
+Demoe @ ss:	4 2 3 2 5 0
+Gaudette @ rf:	5 1 1 1 1 0
+Chouinard @ cf:	3 1 1 0 0 0 
+Delehanty @ 2b:	5 1 3 5 4 1
+Whitehouse @ lf:	5 0 2 0 1 2
+Proulx @ 3b:	4 0 1 1 2 1
+Texter @ c:	4 0 2 4 1 0
+Werre @ 1b:	5 0 1 13 1 0
+Trautman @ p:	4 0 0 1 3 1
+TOTALS:		39 5 14 27 18 5
+
+Springfield:	ab r h po a e
+Collins @ cf:	3 1 1 1 0 1
+Gagnier @ 2b:	4 0 0 4 9 0
+Miller @ 1b:	4 0 0 15 1 0
+Swander @ lf:	4 2 3 1 0 0
+Young @ rf:	3 0 1 1 0 0
+Woods @ 3b:	4 1 2 1 6 2
+Lavigne @ c:	4 0 0 3 3 0
+Woodman @ ss:	4 0 0 1 1 2
+Yount @ p:	3 0 0 0 0 1
+*Bentley @ ph:	1 0 0 0 0 0
+TOTALS:		34 4 7 27 20 6
+
+*: batted for Yount in 9th
+
+line: Hartford:    3 0 0 2 0 0 0 0 0 - 5
+line: Springfield: 2 0 2 0 0 0 0 0 0 - 4
+
+B_LOB: Hartford #12; Springfield #5
+B_2B: Demoe; Gaudette; Delehanty; Whitehouse; Proulx; Swander
+B_SB: Proulx; Trautman
+B_SF: Texter; Yount
+P_BB: Trautman #1; Yount #4
+P_SO: Trautman #4; Yount #2
+P_WP: Trautman
+F_DP: Delehanty, Demoe; Woodman, Gagnier, Miller; Lavigne, Gagnier, Miller, Lavigne
+T: 1:37
+U: Waters
+
+---
+
+date: 1915-07-23
+number: 0
+league: Colonial
+away: New Haven
+home: Brockton
+source: Hartford Courant, July 24, 1915
+
+New Haven:	ab r h po a e
+Menosky @ lf:	4 1 1 0 0 10
+Frasier @ 2b:	5 1 2 1 2 0 
+Edwards @ 3b:	5 0 0 1 2 0
+Coles @ cf:	3 0 0 2 0 0
+Hogan @ ss:	2 0 0 0 2 0
+Soper @ c:	4 0 2 12 2 0
+Fredericks @ 1b:	3 2 2 11 0 0
+Murphy @ rf:	4 0 1 0 0 0
+Somers @ p:	4 1 1 0 3 0
+TOTALS:		34 5 9 27 11 0
+
+Brockton:	ab r h po a e
+Doherty @ ss:	3 0 1 2 3 1
+Powers @ rf:	3 0 0 0 0 0
+Senno @ 2b:	4 0 0 0 4 1
+Jacobson @ lf:	4 1 1 2 2 0
+Kiley @ cf:	3 0 0 0 0 0
+Weeden @ 1b:	4 0 0 10 1 0
+Speraw @ 3b:	3 0 2 1 1 0
+Dempsey @ c:	2 0 0 12 1 0
+Peters @ p:	3 0 0 0 7 1
+TOTALS:		29 1 4 27 19 3
+
+line: New Haven: 2 0 0 2 0 1 0 0 0 - 5
+line: Brockton:  0 1 0 0 0 0 0 0 0 - 1
+
+B_LOB: Brockton #6; New Haven #15
+B_ROE: New Haven #1
+B_2B: Fredericks #2; Frasier; Doherty
+B_SB: Menosky; Fredericks
+B_SH: Kiley; Powers
+B_HP: Dempsey
+P_BB: Somers #1; Peters #5
+P_SO: Somers #11; Peters #9
+P_HP: Somers
+P_WP: Peters
+F_DP: Senno, Doherty, Weeden
+F_PB: Dempsey #2
+T: 1:44
+U: Finnell
+
+---
+
+date: 1915-07-23
+number: 0
+league: Colonial
+away: Pawtucket
+home: New Bedford
+source: Hartford Courant, July 24, 1915
+
+Pawtucket:	ab r h po a e
+Carr @ 3b-p:	4 2 2 3 3 0
+Johnson @ 2b:	4 1 1 5 2 1
+O'Connell @ ss:	5 0 1 0 2 1
+Gilmore @ rf:	4 1 2 2 1 0
+Gilhooley @ 1b-3b:	4 0 2 6 0 1
+Bottomley @ cf:	4 1 1 2 0 0
+Houck @ lf:	3 0 1 0 0 0
+Barry @ c:	4 1 0 5 1 0
+Gearin @ p:	0 1 0 0 3 1
+Eaton @ p-1b:	3 0 0 1 1 0
+Adams @ lf:	1 0 1 0 0 1
+*Lied @ ph:	1 0 0 0 0 0
+TOTALS:		37 7 11 24 13 5
+
+New Bedford:	ab r h po a e
+Hickman @ ss:	6 2 4 0 2 0
+Jiggs @ 3b:	5 2 1 2 4 0
+Linder @ cf:	6 5 5 2 0 0
+Crook @ 1b:	4 2 2 11 0 0
+Phoenix @ 2b:	5 2 2 2 2 1
+Dukette @ rf:	4 2 2 1 0 0
+Aldred @ lf:	4 3 3 1 0 0
+Phillips @ c:	6 2 1 5 2 0
+McLeod @ p:	4 1 2 0 3 0
+Tillman @ lf:	2 1 2 3 0 1
+TOTALS:		46 22 24 27 13 3
+
+*: batted for Carr in 8th
+
+line: Pawtucket:   1 0 1 3 1 0 1 0 0 - 7
+line: New Bedford: 0 6 6 0 5 1 0 4 x - 22
+
+B_LOB: Pawtucket #6; New Bedford #7
+B_3B: Tillman
+B_HR: Gilmore
+B_SB: Jiggs; Linder #2; Crook; Johnson
+B_SH: Jiggs; Phillips
+P_BB: Gearin #3; Eaton #2; McLeod #2
+P_SO: Gearin #1; Eaton #3; McLeod #6
+P_H:  Gearin #10; Eaton #9; Carr #5
+P_IP: Gearin #2.1; Eaton #3.2; Carr #2
+F_DP: Gilmore, Eaton, Bottomley
+T: 2:19
+U: Buckley
+
+---
+
+date: 1915-07-24
+number: 1
+league: Colonial
+away: Hartford
+home: Springfield
+source: Hartford Courant, July 25, 1915
+
+Hartford:	ab r h po a e
+Demoe @ ss:	5 1 1 2 2 1
+Gaudette @ rf:	4 0 0 2 0 0
+Chouinard @ cf:	5 1 1 2 0 0
+Delehanty @ 2b:	5 1 4 4 4 0 
+Whitehouse @ lf:	4 1 1 3 0 0
+Proulx @ 3b:	4 1 0 2 2 0
+Texter @ c:	4 1 1 1 0 0
+Werre @ 1b:	2 1 0 8 1 0
+Sherman @ p:	4 1 1 3 4 0
+TOTALS:		37 8 9 27 13 1
+
+Springfield:	ab r h po a e
+Collins @ cf:	4 0 0 2 0 1
+Gagnier @ 2b:	4 0 1 2 4 0
+Miller @ 1b:	4 0 0 12 1 1 
+Swander @ lf:	4 0 2 4 0 0
+Young @ rf:	3 0 1 2 0 0
+Woods @ 3b:	4 0 1 2 2 1
+Lavigne @ c:	4 0 0 2 0 0
+Woodman @ ss:	3 0 0 0 4 1
+Manser @ p:	3 0 0 1 3 0
+TOTALS:		33 0 5 27 14 4 
+
+line: Hartford:    0 0 1 4 1 0 2 0 0 - 8
+line: Springfield: 0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Hartford #5; Springfield #7
+B_2B: Swander; Chouinard; Texter
+B_SH: Werre
+P_BB: Manser #2; Sherman #1
+P_SO: Manser #1; Sherman #1
+P_WP: Manser
+F_DP: Manser, Gagnier, Miller
+T: 1:30
+U: Waters
+
+---
+
+date: 1915-07-24
+number: 2
+league: Colonial
+away: Hartford
+home: Springfield
+source: Hartford Courant, July 25, 1915
+
+Hartford:	ab r h po a e
+Demoe @ ss:	4 0 0 3 5 0
+Gaudette @ rf:	3 0 1 0 0 1
+Chouinard @ cf:	4 0 0 0 0 0
+Delehanty @ 2b:	3 0 0 2 3 0 
+Whitehouse @ lf:	2 0 1 0 0 0
+Proulx @ 3b:	3 0 0 0 4 0
+Texter @ c:	3 0 1 1 0 1
+Werre @ 1b:	2 1 1 12 1 0
+Sherman @ p:	3 0 1 0 2 0
+TOTALS:		27 1 5 18 15 2
+
+Springfield:	ab r h po a e
+Collins @ cf:	2 1 1 2 0 1
+Gagnier @ 2b:	3 1 1 4 3 0
+Miller @ 1b:	1 0 0 7 0 0 
+Swander @ lf:	3 1 1 3 0 0
+Young @ rf:	3 1 2 2 0 0
+Woods @ 3b:	3 0 0 1 1 0
+Lavigne @ c:	2 0 1 2 0 0
+Bentley @ ss:	3 0 1 0 3 0
+Woodman @ p:	3 0 1 0 1 0
+TOTALS:		23 4 8 21 8 1
+
+line: Hartford:    0 0 0 0 0 0 1 - 1
+line: Springfield: 0 0 4 0 0 0 x - 4
+
+B_LOB: Hartford #9; Springfield #5
+B_SB: Whitehouse; Texter
+B_SH: Miller; Collins
+P_BB: Woodman #3; Sherman #2
+P_SO: Woodman #2; Sherman #1
+F_DP: Delehanty, Demoe, Werre
+T: 1:15
+U: Waters
+
+---
+
+date: 1915-07-24
+number: 1
+league: Colonial
+away: Pawtucket
+home: New Bedford
+source: Hartford Courant, July 25, 1915
+
+Pawtucket:	ab r h po a e
+Carr @ 3b:	4 0 0 0 0 1
+Johnson @ 2b:	3 1 1 0 2 0
+O'Connell @ ss:	4 1 1 3 3 0
+Gilmore @ rf:	5 0 2 2 0 1
+Gilhooley @ 1b:	4 0 0 12 1 0
+Bottomley @ cf:	2 0 0 3 1 0
+Lied @ lf:	4 1 0 2 0 0
+Barry @ c:	4 0 0 2 1 0
+Houck @ p:	4 0 1 0 6 1
+TOTALS:		34 3 5 24 14 3
+
+New Bedford:	ab r h po a e
+Hickman @ ss:	4 0 1 0 3 1
+Jiggs @ 3b:	4 1 1 1 4 2
+Linder @ cf:	3 1 0 0 0 0
+Crooks @ 1b:	3 1 0 11 0 0
+Phoenix @ 2b:	4 2 2 3 2 0
+Dukette @ rf:	3 1 1 1 0 0
+Aldred @ lf:	2 0 0 2 0 0
+Phillips @ c:	2 1 1 9 0 0
+Tillman @ p:	3 0 0 0 4 0
+TOTALS:		28 7 6 27 13 3
+
+line: Pawtucket:   0 0 0 1 1 0 1 0 0 - 3
+line: New Bedford: 0 2 0 0 0 5 0 0 x - 7
+
+B_LOB: Pawtucket #10; New Bedford #2
+B_ER: Pawtucket #2; New Bedford #3
+B_HR: Phillips
+B_SB: Dukette; Linder; Lied 
+B_SH: Aldred; Linder; Dukette; Johnson
+B_HP: Crooks
+P_BB: Tillman #5; Houck #1
+P_SO: Tillman #7; Houck #3
+P_HP: Houck
+P_WP: Tillman
+T: 1:23
+U: Finnell
+
+---
+
+date: 1915-07-24
+number: 2
+league: Colonial
+away: Pawtucket
+home: New Bedford
+source: Hartford Courant, July 25, 1915
+
+Pawtucket:	ab r h po a e
+Carr @ 3b:	2 0 1 1 2 0
+Johnson @ 2b:	3 0 0 1 0 0
+O'Connell @ ss:	3 0 0 1 2 0
+Gilmore @ rf:	3 1 1 1 0 0
+Gilhooley @ 1b:	1 0 1 7 0 2
+Bottomley @ c:	3 0 1 4 2 0
+Lied @ lf:	3 0 0 1 0 0
+Houck @ cf:	3 0 1 1 0 0
+Gearin @ p:	3 0 1 1 4 0
+TOTALS:		24 1 6 18 10 2
+
+New Bedford:	ab r h po a e
+Hickman @ ss:	2 0 1 1 3 2
+Jiggs @ 3b:	3 0 1 0 3 0
+Linder @ cf:	3 0 1 0 0 0
+Crooks @ 1b:	3 0 0 8 0 1
+Phoenix @ 2b:	3 2 2 5 3 0
+Dukette @ rf:	2 0 2 0 0 0
+Aldred @ lf:	3 0 0 0 0 0
+Phillips @ c:	3 0 1 7 3 0
+Tillman @ p:	3 0 0 0 3 0
+TOTALS:		25 2 8 21 15 3
+
+line: Pawtucket:   0 1 0 0 0 0 0 - 1
+line: New Bedford: 0 1 0 0 0 1 x - 2
+
+B_LOB: Pawtucket #3; New Bedford #7
+B_ER: New Bedford #2
+B_2B: Phoenix
+B_SB: Linder
+B_SH: Gilhooley #2; Dukette
+P_BB: Gearin #1
+P_SO: Tillman #6; Gearin #4
+F_DP: Tillman, Phoenix, Crooks; Phillips, Phoenix
+T: :53
+U: Finnell
+
+---
+
+date: 1915-07-24
+number: 1
+league: Colonial
+away: Brockton 
+home: New Haven
+source: Hartford Courant, July 25, 1915
+
+Brockton:	ab r h po a e
+Doherty @ ss:	4 0 0 4 7 0
+Powers @ rf:	4 0 0 0 0 0
+Senno @ 2b:	3 0 1 2 6 0
+Jacobson @ lf:	4 1 2 0 0 0
+Kiley @ cf:	3 0 1 2 0 0
+Weeden @ 1b:	2 1 1 13 0 0
+Speraw @ 3b:	4 0 1 1 3 0
+Dempsey @ c:	4 0 1 4 1 0
+Howson @ p:	4 0 0 1 0 1
+TOTALS:		32 2 7 27 17 1
+
+New Haven:	ab r h po a e
+Menosky @ lf:	3 0 1 0 0 0
+Frazier @ 2b:	4 0 0 1 2 0 
+Edwards @ 3b:	4 0 0 0 3 0 
+Coles @ cf:	4 0 0 2 0 0
+Hogan @ ss:	4 0 1 1 3 0
+Soper @ c:	2 0 0 9 2 0
+Fredericks @ 1b:	2 0 0 9 1 0
+Somers @ 1b:	1 0 0 4 0 1
+Murphy @ rf:	3 0 1 1 0 0
+Walsh @ p:	3 0 1 0 5 0
+TOTALS:		30 0 4 27 16 1
+
+line: Brockton:  0 0 0 1 0 0 0 0 1 - 2
+line: New Haven: 0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Brockton #7; New Haven #4
+B_2B: Dempsey; Menosky
+B_SB: Jacobson; Hogan
+B_SH: Weeden
+P_BB: Walsh #3; Howson #2
+P_SO: Walsh #9; Howson #3
+F_PB: Soper; Dempsey
+T: 1:45
+U: Buckley
+
+---
+
+date: 1915-07-24
+number: 2
+league: Colonial
+away: Brockton 
+home: New Haven
+source: Hartford Courant, July 25, 1915
+
+Brockton:	ab r h po a e
+Doherty @ ss:	4 0 0 2 5 0
+Powers @ 1b:	3 0 2 7 1 0
+Senno @ 2b:	3 0 0 1 0 0
+Jacobson @ lf:	3 0 0 1 0 0
+Kiley @ cf:	3 0 1 1 0 0
+Weeden @ c:	3 0 0 3 1 0
+Speraw @ 3b:	2 0 0 1 0 0
+Dempsey @ rf:	2 0 0 1 0 0
+Benson @ p:	3 0 0 1 0 1
+TOTALS:		26 0 4 18 8 0
+
+New Haven:	ab r h po a e
+Menosky @ lf:	3 0 0 2 0 0
+Frazier @ 2b:	3 1 1 2 2 1
+Edwards @ 3b:	2 0 0 0 2 0
+Coles @ cf:	3 0 2 1 0 0
+Hogan @ ss:	3 0 0 1 2 0
+Soper @ c:	2 0 0 7 0 0
+Fredericks @ 1b:	1 0 1 5 1 0
+Murphy @ rf:	2 0 0 3 0 0
+Haddox @ p:	2 0 0 0 0 0
+Somers @ p:	0 0 0 0 1 0
+TOTALS:		21 1 4 21 7 1
+
+line: Brockton:  0 0 0 0 0 0 0 - 0
+line: New Haven: 0 0 1 0 0 0 x - 1
+
+B_LOB: Brockton #6; New Haven #2
+B_2B: Frazier
+B_SB: Senno; Kiley; Fredericks; Coles
+P_BB: Haddox #1; Somers #1; Benson #3
+P_SO: Haddox #5; Somers #1; Benson #3
+P_H:  Haddox #4
+P_IP: Haddox #6; Somers #1
+F_DP: Edwards, Fredericks, Frazier
+T: 1:14
+U: Buckley
+
+---
+
+date: 1915-07-26
+number: 0
+league: Colonial
+away: Pawtucket
+home: Hartford
+source: Hartford Courant, July 27, 1915
+
+Pawtucket:	ab r h po a e
+Carr @ 3b:	3 1 1 1 3 0
+Gillooly @ 1b:	5 0 1 7 2 0
+O'Connell @ ss:	5 0 2 4 1 0
+Gilmore @ rf:	4 0 0 1 0 0
+Simmons @ cf:	3 0 0 1 0 1
+Johnson @ 2b:	3 1 0 1 0 0
+Leid @ lf:	4 1 1 3 0 0
+Bottomley @ cf:	4 0 1 3 3 1
+Adams @ p:	2 0 0 1 5 0
+*Barry @ ph:	0 0 0 0 0 0
+TOTALS:		34 3 6 24 17 2
+
+Hartford:	ab r h po a e
+Demoe @ ss:	4 1 2 1 2 0
+Gaudette @ rf:	2 2 0 2 0 0
+Chouinard @ cf:	5 2 3 1 0 0 
+Delehanty @ 2b:	4 0 0 1 3 1 
+Whitehouse @ lf:	4 0 2 1 0 0 
+Proulx @ 3b:	3 0 0 1 2 1
+Texter @ c:	3 1 1 6 0 0
+Werre @ 1b:	1 1 0 13 0 0
+Billiard @ p:	4 0 0 1 4 0
+TOTALS:		30 7 8 27 11 2
+
+*: batted for Adams in 9th
+
+line: Pawtucket: 1 0 0 0 2 0 0 0 0 - 3
+line: Hartford:  2 3 0 0 0 0 2 0 x - 7
+
+B_LOB: Pawtucket #9; Hartford #9
+B_ROE: Pawtucket #2; Hartford #2
+B_2B: O'Connell
+B_SB: Gaudette; Chouinard #2
+B_SH: Proulx
+B_HP: Delehanty
+P_BB: Billiard #4; Adams #8
+P_SO: Billiard #4; Adams #6
+P_HP: Adams
+F_DP: Billiard, Werre; Adams, O'Connell, Gillooly
+T: 1:40
+U: Waters
+
+---
+
+date: 1915-07-26
+number: 0
+league: Colonial
+away: Brockton 
+home: New Haven
+source: Hartford Courant, July 27, 1915
+
+Brockton:	ab r h po a e
+Doherty @ ss:	5 1 1 1 6 0 
+Powers @ rf:	4 1 3 1 0 0
+Senno @ 2b:	4 1 1 2 1 1
+Jacobson @ lf:	5 0 1 3 0 0
+Kiley @ cf:	4 1 1 3 0 0
+Weeden @ 1b:	2 1 1 13 0 0
+Speraw @ 3b:	3 0 1 1 3 0
+Dempsey @ c:	4 0 2 3 2 0
+Peters @ p:	4 2 0 0 4 0
+TOTALS:		35 7 11 27 16 1
+
+New Haven:	ab r h po a e
+Menosky @ lf:	3 0 0 2 2 0
+Frasier @ 2b:	4 0 2 3 1 0
+Edwards @ 3b:	4 0 0 0 3 0 
+Coles @ cf:	3 0 1 0 0 0
+Hogan @ ss:	4 0 0 4 2 2
+Soper @ c:	4 0 0 6 2 1
+Fredericks @ 1b:	3 0 0 9 2 1
+Murphy @ rf:	3 0 1 3 0 0
+Heir @ p:	2 0 0 0 0 0
+Herring @ p:	1 0 0 0 3 1
+TOTALS:		31 0 4 27 15 5
+
+line: Brockton:  0 0 1 0 2 2 0 0 2 - 7
+line: New Haven: 0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Brockton #6; New Haven #7
+B_SB: Frasier; Menosky; Kiley; Coles #2; Powers
+P_SO: Heir #3; Peters #2; Herring #2
+P_H:  Heir #8; Herring #3
+P_IP: Heir #5.1; Herring #3.3
+P_WP: Herring
+F_DP: Herring, Hogan, Fredericks
+F_PB: Dempsey
+T: 1:40
+U: Buckley
+
+---
+
+date: 1915-07-26
+number: 0
+league: Colonial
+away: Springfield
+home: New Bedford
+source: Hartford Courant, July 27, 1915
+
+Springfield:	ab r h po a e
+Collins @ cf:	1 0 0 0 0 0
+Gagnier @ 2b:	7 0 1 2 2 0
+Miller @ 1b:	6 0 1 12 0 0 
+Swander @ lf:	6 1 1 4 0 0 
+Young @ rf:	4 0 0 6 1 0
+Woods @ 3b:	6 1 3 2 1 0
+Lavigne @ c:	6 1 2 11 0 0
+Bentley @ ss:	6 0 2 2 3 0
+Smith @ p:	5 0 0 1 5 1
+Manser @ cf:	5 0 0 5 0 0
+TOTALS:		52 3 10 45 12 1
+
+New Bedford:	ab r h po a e
+Hickman @ ss:	6 0 0 4 5 0
+Jiggs @ 3b:	6 0 0 1 1 1
+Linder @ cf:	5 0 2 4 0 0
+Crooks @ 1b:	6 1 0 12 0 1
+Phoenix @ 2b:	6 1 1 3 5 0
+Dukette @ rf:	6 0 1 1 0 0
+Aldred @ lf:	4 0 1 3 1 0
+Phillips @ c:	3 0 0 10 3 0
+Devinney @ p:	5 0 0 0 3 0
+TOTALS:		48 2 6 44 18 2
+
+line: Springfield: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 - 3
+line: New Bedford: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 - 2
+
+B_LOB: Springfield #8; New Bedford #4
+B_2B: Linder; Dukette
+B_SB: Aldred
+B_SH: Phillips #2; Young
+B_HP: Manser
+P_BB: Devinney #1; Smith #1
+P_SO: Devinney #8; Smith #7
+P_HP: Devinney
+P_WP: Devinney
+F_DP: Phoenix, Crooks; Aldred, Crooks
+F_PB: Lavigne
+T: 2:35
+U: Finnell
+
+---
+
+date: 1915-07-27
+number: 0
+league: Colonial
+away: Pawtucket
+home: Hartford
+source: Hartford Courant, July 28, 1915
+
+Pawtucket:	ab r h po a e
+Carr @ 3b:	3 1 1 1 1 0
+Gillooly @ cf:	3 0 1 1 1 0
+Gilmore @ rf:	4 0 1 1 0 0
+O'Connell @ ss:	3 0 0 4 1 1
+Simmons @ 1b:	4 0 0 6 1 0
+Johnson @ 2b:	4 1 1 4 0 0
+Leid @ lf:	4 0 2 1 0 0
+Barry @ c:	4 0 0 5 2 1
+Houck @ p:	3 1 1 1 3 1
+*Bottomley @ ph:	1 0 0 0 0 0
+TOTALS:		33 3 7 24 9 3
+
+Hartford:	ab r h po a e
+Demoe @ ss:	4 0 0 1 3 1
+Gaudette @ lf:	4 0 3 1 0 0
+Chouinard @ 2b:	3 1 1 1 4 2 
+Whitehouse @ cf:	4 0 1 0 0 0
+Texter @ c:	4 0 0 10 1 0
+Proulx @ 3b:	3 1 2 1 0 1
+Werre @ 1b:	4 1 2 11 2 0
+Sherman @ rf:	4 0 1 1 0 0
+Trautman @ p:	4 1 2 1 4 0
+TOTALS:		34 4 12 27 14 4
+
+*: batted for Houck in 9th
+
+line: Pawtucket: 0 1 0 0 1 0 0 1 0 - 3
+line: Hartford:  0 2 0 1 1 0 0 0 x - 4
+
+B_LOB: Pawtucket #5; Hartford #7
+B_ROE: Pawtucket #2; Hartford #1
+B_2B: Gilmore; Leid; Trautman; Sherman
+B_SB: Proulx; Chouinard; O'Connell; Leid
+B_SH: Gillooly; Chouinard
+P_BB: Trautman #2; Houck #1
+P_SO: Trautman #8; Houck #5
+P_WP: Trautman
+F_DP: Demoe, Chouinard, Werre; Gillooly, Simmons
+T: 1:50
+U: Waters
+
+---
+
+date: 1915-07-27
+number: 0
+league: Colonial
+away: Brockton 
+home: New Haven
+source: Hartford Courant, July 28, 1915
+
+Brockton:	ab r h po a e
+Doherty @ ss:	5 0 0 4 3 0 
+Courtney @ rf:	5 1 2 0 0 0
+Senno @ 2b:	5 1 3 0 3 0
+Jacobson @ lf:	4 0 1 2 0 1
+Kiley @ cf:	3 1 1 0 0 0
+Weeden @ 1b:	4 1 1 12 0 1
+Speraw @ 3b:	4 0 2 1 2 0
+Dempsey @ c:	4 1 2 5 1 0
+Warwick @ p:	4 0 1 0 3 0
+TOTALS:		38 5 13 24 12 2
+
+New Haven:	ab r h po a e
+Menosky @ lf:	3 1 0 2 0 1
+Frasier @ 2b:	4 1 2 3 1 0
+Hogan @ ss:	4 1 0 1 2 0
+Coles @ cf:	4 1 2 1 0 0
+Soper @ c:	4 0 1 9 0 0
+Edwards @ 3b:	4 0 0 1 6 0 
+Murphy @ rf:	3 1 0 1 1 0
+Friedrich @ 1b:	2 0 0 8 1 0
+Somers @ p:	3 1 2 1 1 0
+TOTALS:		31 6 7 27 12 1
+
+line: Brockton:  0 0 0 2 0 0 3 0 0 - 5
+line: New Haven: 2 1 2 1 0 0 0 0 x - 6
+
+B_LOB: Brockton #7; New Haven #5
+B_2B: Senno #2; Frasier; Coles; Kiley; Speraw; Courtney
+B_SB: Courtney
+B_SH: Friedrich
+B_HP: Menosky
+P_BB: Somers #1; Warwick #2
+P_SO: Somers #7; Warwick #3
+P_HP: Warwick
+P_WP: Somers
+F_DP: Edwards, Frasier, Friedrich
+T: 1:35
+U: Buckley
+
+---
+
+date: 1915-07-27
+number: 0
+league: Colonial
+away: Springfield
+home: New Bedford
+source: Hartford Courant, July 28, 1915
+
+Springfield:	ab r h po a e
+Manser @ cf:	5 1 1 2 0 0
+Gagnier @ 2b:	4 0 1 7 2 0
+Miller @ 1b:	3 1 1 4 0 0 
+Swander @ lf:	2 0 0 0 0 0
+Young @ rf:	4 0 3 3 0 0
+Woods @ 3b:	4 0 0 0 3 0
+Lavigne @ c:	4 0 0 6 1 0
+Bentley @ ss:	4 0 0 4 1 1
+Justin @ p:	4 0 3 1 5 0
+TOTALS:		34 2 9 26 12 1
+
+New Bedford:	ab r h po a e
+Hickman @ ss:	4 0 0 1 3 1
+Jiggs @ 3b:	3 0 1 4 2 0
+Linder @ cf:	3 0 1 1 0 0
+Crook @ 1b:	4 0 0 10 0 0
+Phoenix @ 2b:	4 2 3 2 2 0
+Dukette @ rf:	2 1 1 2 0 0
+Aldred @ lf:	4 0 1 2 0 0
+Phillips @ c:	4 0 2 5 1 0
+Gleason @ p:	3 0 0 0 4 0
+TOTALS:		31 3 9 27 12 1
+
+line: Springfield: 1 0 0 0 0 0 0 1 0 - 2
+line: New Bedford: 0 0 0 0 0 0 2 0 1 - 3
+
+B_LOB: Springfield #9; New Bedford #6
+B_2B: Justin #3; Gagnier
+B_3B: Phillips
+B_SB: Phillips #3
+B_SH: Linder; Gagnier; Miller; Jiggs; Dukette; Swander
+P_BB: Gleason #1; Justin #1
+P_SO: Gleason #6; Justin #5
+F_DP: Justin, Gagnier
+T: 1:30
+U: Finnell
+
+---
+
+date: 1915-07-28
+number: 0
+league: Colonial
+away: Pawtucket
+home: Hartford
+source: Hartford Courant, July 29, 1915
+
+Pawtucket:	ab r h po a e
+Carr @ 3b:	5 0 1 2 1 0
+Gillooly @ cf:	4 1 1 1 1 1
+Gilmore @ rf:	4 0 1 2 0 0
+O'Connell @ ss:	4 0 2 4 2 0
+Johnson @ 2b:	4 0 0 3 3 0
+Leid @ lf:	4 0 2 1 0 0
+Bottomley @ cf:	4 0 1 2 1 0
+Barry @ c:	3 1 1 2 1 0
+Gearin @ p:	3 0 0 0 1 0
+*Houck @ ph:	1 0 0 0 0 0
+TOTALS:		36 2 9 24 10 1
+
+Hartford:	ab r h po a e
+Demoe @ ss:	3 2 2 3 3 1
+Gaudette @ lf:	3 1 1 6 0 0
+Chouinard @ 2b:	3 0 1 3 2 0 
+Whitehouse @ cf:	3 0 1 1 0 0
+Texter @ c:	3 1 0 3 1 0
+Proulx @ 3b:	4 0 0 1 3 0
+Werre @ 1b:	3 1 1 9 1 0
+Sherman @ rf:	3 0 1 0 0 0
+Hellfrich @ p:	2 0 0 1 1 0
+TOTALS:		27 5 7 27 11 1
+
+*: batted for Barry in 9th
+
+line: Pawtucket: 1 0 0 1 0 0 0 0 0 - 2
+line: Hartford:  2 0 0 2 0 0 1 0 x - 5
+
+B_LOB: Pawtucket #8; Hartford #5
+B_ROE: Pawtucket #1; Hartford #1
+B_2B: Gillooly; Gilmore; O'Connell; Werre; Sherman
+B_3B: Whitehouse
+B_SB: O'Connell; Texter; Demoe; Leid
+B_SH: Chouinard; Gaudette
+B_HP: Demoe
+P_BB: Hellfrich #1; Gearin #3
+P_HP: Gearin
+F_DP: Bottomley, O'Connell; O'Connell, Johnson, Gillooly
+F_PB: Barry
+T: 1:30
+U: Waters
+
+---
+
+date: 1915-07-28
+number: 1
+league: Colonial
+away: Springfield
+home: New Bedford
+source: Hartford Courant, July 29, 1915
+
+Springfield:	ab r h po a e
+Collins @ cf:	5 0 0 1 0 2
+Gagnier @ 2b:	5 1 2 4 5 0
+Miller @ 1b:	5 1 3 0 0 0
+Swander @ lf:	5 0 2 2 0 0
+Woods @ 3b:	4 0 2 2 2 0
+Bentley @ ss:	5 0 1 0 1 0
+Lavigne @ c:	2 0 0 5 1 0
+Mansur @ rf-p:	4 0 1 0 2 1
+Woodman @ p:	2 1 1 0 0 0
+Justin @ rf:	2 0 0 1 0 0
+TOTALS:		39 3 12 24 11 3
+
+New Bedford:	ab r h po a e
+Hickman @ ss:	5 2 1 3 2 0
+Jiggs @ 3b:	4 2 1 0 1 0
+Linder @ cf:	4 0 0 1 0 0
+Crooks @ 1b:	2 1 1 5 1 0
+Phoenix @ 2b:	2 2 1 1 1 0
+Dukette @ rf:	3 0 1 5 0 0
+Aldred @ lf:	2 0 1 2 0 0
+Phillips @ c:	2 0 0 10 0 0
+Tillman @ p:	4 0 1 0 3 0
+TOTALS:		29 7 7 27 8 0 
+
+line: Springfield: 1 0 0 0 1 0 1 0 0 - 3
+line: New Bedford: 0 0 3 4 0 0 0 0 x - 7
+
+B_2B: Miller; Jiggs; Bentley; Swander
+B_3B: Woodman
+B_SB: Phoenix #2; Aldred; Miller; Swander; Hickman
+B_SH: Jiggs; Crooks #2
+P_BB: Tillman #3; Woodman #1
+P_SO: Tillman #8; Woodman #1; Mansur #3
+P_H:  Woodman #6; Mansur #1
+P_IP: Woodman #4; Mansur #4
+T: 1:40
+U: Finnell
+
+---
+
+date: 1915-07-28
+number: 2
+league: Colonial
+away: Springfield
+home: New Bedford
+source: Hartford Courant, July 29, 1915
+
+Springfield:	ab r h po a e
+Collins @ cf:	2 0 0 0 0 0
+Gagnier @ 2b:	3 0 0 3 0 0
+Miller @ 1b:	3 0 0 4 0 0
+Swander @ lf:	3 0 1 1 0 0
+Woods @ 3b:	3 0 0 1 1 0
+Bentley @ ss:	3 0 1 2 1 0
+Lavigne @ c:	2 0 1 6 3 0
+Justin @ rf:	2 0 0 1 0 0
+Smith @ p:	2 0 0 0 2 1
+*Woodman @ ph:	1 0 0 0 0 0
+TOTALS:		24 0 3 18 7 1
+
+New Bedford:	ab r h po a e
+Hickman @ ss:	3 1 1 3 1 0
+Jiggs @ 3b:	3 1 1 0 0 0
+Linder @ cf:	3 0 2 2 0 0
+Crooks @ 1b:	2 0 0 6 0 0
+Phoenix @ 2b:	2 0 2 0 2 0
+Dukette @ rf:	2 0 0 1 0 0
+Aldred @ lf:	2 0 0 3 0 0
+Phillips @ c:	2 0 0 5 2 0 
+McLeod @ p:	2 0 0 0 0 1
+TOTALS:		21 2 6 20 5 1 
+
+line: Springfield: 0 0 0 0 0 0 0 - 0
+line: New Bedford: 0 0 2 0 0 0 x - 2
+
+*: batted for Smith in 7th
+
+B_LOB: New Bedford #1; Springfield #6
+B_2B: Phoenix
+B_HR: Jiggs
+B_SH: Justin
+P_BB: McLeod #2
+P_SO: McLeod #6; Smith #6
+P_WP: McLeod #2
+T: 1:10
+U: Finnell
+
+---
+
+date: 1915-07-28
+number: 0
+league: Colonial
+away: Brockton 
+home: New Haven
+source: Hartford Courant, July 29, 1915
+
+Brockton:	ab r h po a e
+Doherty @ ss:	4 1 1 0 6 2 
+Courtney @ rf-cf:	5 1 1 1 0 0
+Senno @ 2b:	5 1 0 1 2 1
+Jacobson @ lf:	4 0 2 2 0 0
+Kiley @ cf:	2 0 1 1 0 0
+Powers @ 1b:	5 0 0 14 0 1
+Speraw @ 3b:	3 1 2 4 3 1
+Dempsey @ c:	1 0 0 0 0 0
+Howson @ p:	4 0 2 0 3 0
+Weeden @ c:	2 0 0 4 0 0
+Peters @ rf:	2 1 0 0 0 0
+TOTALS:		37 5 9 27 14 5
+
+New Haven:	ab r h po a e
+Menosky @ lf:	5 0 1 2 0 0
+Frasier @ 2b:	5 1 2 1 3 1
+Hogan @ ss:	3 1 1 4 1 1 
+Coles @ cf:	5 0 0 1 0 0
+Soper @ c:	5 1 1 12 1 0
+Edwards @ 3b:	5 1 2 0 1 1  
+Murphy @ rf:	3 0 1 2 0 0
+Friederich @ 1b:	3 0 0 5 0 3
+Walsh @ p:	5 0 1 0 2 1
+*Herring @ ph:	1 0 1 0 0 0
+Somers @ 1b:	2 0 1 0 0 0
+TOTALS:		42 4 11 27 8 7
+
+line: Brockton:  2 0 0 0 0 2 0 0 1 - 5
+line: New Haven: 0 0 0 0 1 0 0 1 2 - 4
+
+B_LOB: Brockton #10; New Haven #13
+B_ROE: Brockton #5; New Haven #5
+B_2B: Kiley
+B_SB: Menosky; Murphy; Senno; Speraw
+B_SH: Murphy; Jacobson
+P_BB: Walsh #3; Howson #3
+P_SO: Walsh #11; Howson #4
+P_WP: Howson #2
+F_DP: Frasier, Hogan, Friederich
+F_PB: Weeden; Soper
+T: 1:45
+U: Buckley

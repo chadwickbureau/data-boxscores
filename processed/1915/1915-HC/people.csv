@@ -1,0 +1,319 @@
+league.year,league.name,person.ref,person.name.last,person.name.given,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G
+1915,Colonial League,ATMS0101,Adams,,Pawtucket,1915-05-31,1915-08-03,20,19,0,0,0,0,1,1,0,0,0,19
+1915,Colonial League,ALTR0104,Aldred,,Brockton,1915-06-10,1915-07-10,24,0,0,0,0,0,24,0,0,24,0,0
+1915,Colonial League,ALTR0204,Aldred,,New Bedford,1915-07-22,1915-08-11,19,0,0,0,0,0,19,17,2,0,0,0
+1915,Colonial League,ALTR0304,Aldred,,Pawtucket,1915-05-20,1915-06-07,11,0,0,0,0,0,11,10,0,1,0,0
+1915,Colonial League,ALTR0404,Aldrich,,Pawtucket,1915-05-23,1915-05-23,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Colonial League,ALRT0101,Alward,,Brockton,1915-07-05,1915-07-05,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Colonial League,PNKS0101,Bangs,,Brockton,1915-05-20,1915-08-11,58,0,0,58,0,0,0,0,0,0,0,0
+1915,Colonial League,PRZZ0102,Barry,,Pawtucket,1915-07-13,1915-08-11,22,0,0,0,0,0,0,0,0,0,21,0
+1915,Colonial League,PRZZ0202,Barry,,Taunton,1915-05-20,1915-07-05,37,0,0,0,0,0,0,0,0,0,37,0
+1915,Colonial League,PNSN0101,Benson,,Brockton,1915-05-21,1915-08-07,20,18,0,0,0,0,2,0,0,2,0,18
+1915,Colonial League,PNTL0102,Bentley,,Fall River,1915-05-20,1915-07-10,46,0,0,0,37,9,0,0,0,0,0,0
+1915,Colonial League,PNTL0202,Bentley,,Springfield,1915-07-12,1915-08-11,27,0,0,0,2,23,0,0,0,0,0,0
+1915,Colonial League,PLML0101,Bielmiller,,Springfield,1915-05-29,1915-06-01,4,0,0,0,0,4,0,0,0,0,0,0
+1915,Colonial League,PLRT0101,Billiard,,Hartford,1915-05-20,1915-08-06,23,17,0,0,0,0,3,0,0,3,0,17
+1915,Colonial League,PLKZ0101,Black,,Brockton,1915-06-30,1915-07-10,11,0,0,0,0,0,11,0,11,0,0,0
+1915,Colonial League,PTML0102,Bottomley,,Pawtucket,1915-06-17,1915-08-10,27,0,0,0,0,0,19,5,12,2,6,0
+1915,Colonial League,PTML0202,Bottomly,,Pawtucket,1915-06-10,1915-08-11,11,0,0,0,0,1,5,2,2,1,6,0
+1915,Colonial League,PXRZ0101,Boucher,,Pawtucket,1915-05-29,1915-07-22,42,0,0,10,0,32,0,0,0,0,0,0
+1915,Colonial League,PRKZ0102,Bourcier,,Springfield,1915-08-07,1915-08-07,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,PLZZ0102,Boyle,,Pawtucket,1915-08-03,1915-08-11,6,2,0,0,0,0,4,2,2,0,0,2
+1915,Colonial League,PRKL0101,Brickley,,Fall River,1915-05-27,1915-05-27,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Colonial League,PRJS0101,Bridges,,Springfield,1915-05-20,1915-06-01,6,0,0,0,0,0,0,0,0,0,4,0
+1915,Colonial League,PRKZ0202,Burke,,Hartford,1915-06-26,1915-06-26,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Colonial League,PRNS0102,Burns,,Brockton,1915-07-06,1915-07-06,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Colonial League,PRNS0202,Burns,,Pawtucket,1915-05-20,1915-07-10,39,0,39,0,0,0,0,0,0,0,0,0
+1915,Colonial League,PXZZ0101,Bush,,Brockton,1915-06-21,1915-06-21,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Colonial League,KPRR0101,Cabrera,,Springfield,1915-06-12,1915-07-10,24,0,0,0,0,24,0,0,0,0,0,0
+1915,Colonial League,KNNZ0101,Cannon,,Hartford,1915-05-25,1915-06-28,25,0,0,2,0,0,0,0,0,0,23,0
+1915,Colonial League,KRZZ0101,Carr,,Pawtucket,1915-05-23,1915-08-10,63,1,0,0,63,1,0,0,0,0,0,1
+1915,Colonial League,KSFN0102,Casavant,,New Bedford,1915-05-25,1915-05-27,2,0,0,0,0,0,1,1,0,0,0,0
+1915,Colonial League,KSFN0202,Cassavant,,New Bedford,1915-05-20,1915-06-12,14,1,0,0,0,1,12,0,0,12,0,1
+1915,Colonial League,KFNK0102,Cavanaugh,,Hartford,1915-07-06,1915-07-09,4,0,0,0,0,0,4,0,0,4,0,0
+1915,Colonial League,XPLZ0103,Chapelle,,New Haven,1915-06-29,1915-06-29,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,XPLZ0203,Chappell,,New Haven,1915-06-22,1915-06-22,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,XPLZ0303,Chappelle,,New Haven,1915-05-23,1915-06-23,10,10,0,0,0,0,0,0,0,0,0,10
+1915,Colonial League,XNRT0101,Chouinard,,Hartford,1915-05-20,1915-08-11,70,0,0,7,0,42,21,7,14,0,0,0
+1915,Colonial League,XNNR0101,Chouninard,,Hartford,1915-06-26,1915-06-26,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Colonial League,KRMN0103,Clairmont,,Taunton,1915-06-17,1915-06-17,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,KRMN0203,Claremont,,Taunton,1915-05-28,1915-05-28,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,KRMN0303,Clermont,,Taunton,1915-06-01,1915-06-11,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Colonial League,KLZZ0107,Cole,,New Haven,1915-06-14,1915-06-14,1,0,0,0,0,0,1,0,1,0,0,0
+1915,Colonial League,KLSZ0101,Coles,,New Haven,1915-05-20,1915-08-11,73,0,0,0,0,0,73,0,73,0,0,0
+1915,Colonial League,KLNS0101,Collins,,Springfield,1915-07-15,1915-08-11,26,1,0,0,0,0,26,0,26,0,0,1
+1915,Colonial League,KNLZ0103,Connell,,Fall River,1915-05-20,1915-07-10,20,0,2,0,0,0,0,0,0,0,17,0
+1915,Colonial League,KNLZ0203,Connell,,New Bedford,1915-06-16,1915-07-03,12,0,0,0,0,0,4,0,0,4,8,0
+1915,Colonial League,KNLZ0303,Connell,,Taunton,1915-05-20,1915-05-20,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Colonial League,KNZZ0103,Cooney,,Pawtucket,1915-05-20,1915-05-22,2,0,0,0,2,0,0,0,0,0,0,0
+1915,Colonial League,KRTN0101,Courtney,,Brockton,1915-06-16,1915-08-11,39,0,7,0,17,0,15,0,10,6,0,0
+1915,Colonial League,KKZZ0102,Crook,,New Bedford,1915-06-11,1915-08-02,16,0,16,0,0,0,0,0,0,0,0,0
+1915,Colonial League,KKZZ0202,Crooke,,New Bedford,1915-06-26,1915-06-26,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Colonial League,KKSZ0101,Crooks,,New Bedford,1915-06-17,1915-08-11,39,0,39,0,0,0,0,0,0,0,0,0
+1915,Colonial League,K0RZ0101,Crowther,,Pawtucket,1915-05-20,1915-05-28,6,0,0,0,0,6,0,0,0,0,0,0
+1915,Colonial League,TLZZ0101,Daly,,Fall River,1915-06-10,1915-06-10,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,TPRJ0101,De Bridges,,Pawtucket,1915-07-29,1915-07-29,1,0,0,0,0,0,1,0,1,0,0,0
+1915,Colonial League,TNZZ0102,Dean,,Taunton,1915-05-20,1915-06-12,15,0,0,15,0,0,0,0,0,0,0,0
+1915,Colonial League,TNZZ0202,Deane,,Taunton,1915-05-22,1915-05-22,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Colonial League,TLHN0102,Delahanty,,Hartford,1915-06-23,1915-07-17,13,0,0,12,0,0,0,0,0,0,0,0
+1915,Colonial League,TLHN0202,Delehanty,,Hartford,1915-05-20,1915-08-10,47,0,1,45,0,0,0,0,0,0,0,0
+1915,Colonial League,TMZZ0103,Demo,,New Bedford,1915-06-04,1915-06-04,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Colonial League,TMZZ0203,Demoe,,Hartford,1915-07-15,1915-08-11,27,0,0,0,0,27,0,0,0,0,0,0
+1915,Colonial League,TMZZ0303,Demoe,,New Bedford,1915-05-20,1915-07-07,36,0,0,36,0,1,0,0,0,0,0,0
+1915,Colonial League,TMPS0102,Dempsey,,Brockton,1915-05-20,1915-08-11,58,0,0,0,0,0,1,0,0,1,57,0
+1915,Colonial League,TFNZ0104,Deviney,,New Bedford,1915-05-29,1915-05-29,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,TFNZ0204,Devinney,,New Bedford,1915-06-01,1915-08-09,21,15,0,0,0,0,4,1,1,2,0,15
+1915,Colonial League,TKRS0101,Dickerson,,Brockton,1915-06-05,1915-06-05,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Colonial League,TKNS0101,Dickinson,,Brockton,1915-05-27,1915-06-08,11,0,0,0,0,0,11,0,0,11,0,0
+1915,Colonial League,TFNZ0304,Diviney,,New Bedford,1915-05-24,1915-07-15,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Colonial League,TFNZ0404,Divinney,,New Bedford,1915-06-25,1915-07-21,3,2,0,0,0,0,1,0,1,0,0,2
+1915,Colonial League,THRT0102,Doherty,,Brockton,1915-05-20,1915-08-11,70,0,0,0,0,70,0,0,0,0,0,0
+1915,Colonial League,THRT0202,Doherty,,New Bedford,1915-05-20,1915-05-20,1,0,0,0,1,0,0,0,0,0,0,0
+1915,Colonial League,TLNZ0101,Dolan,,Fall River,1915-06-10,1915-06-12,3,1,0,0,0,0,2,0,1,1,0,1
+1915,Colonial League,TRTZ0101,Dougherty,,Brockton,1915-05-24,1915-05-24,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Colonial League,TKTZ0102,Dukett,,New Bedford,1915-06-24,1915-06-24,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Colonial League,TKTZ0202,Dukette,,New Bedford,1915-06-21,1915-08-11,49,0,0,4,0,0,45,2,0,43,0,0
+1915,Colonial League,ATNZ0105,Eaton,,New Bedford,1915-05-20,1915-06-11,7,7,0,0,0,0,0,0,0,0,0,7
+1915,Colonial League,ATNZ0205,Eaton,,New Haven,1915-08-09,1915-08-09,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,ATNZ0305,Eaton,,Pawtucket,1915-07-13,1915-07-29,5,5,1,0,0,0,0,0,0,0,0,5
+1915,Colonial League,ATNZ0405,Eaton,,Taunton,1915-06-16,1915-07-10,9,9,0,0,0,0,0,0,0,0,0,9
+1915,Colonial League,ATRT0102,Edwards,,New Haven,1915-05-20,1915-08-11,72,1,0,0,72,0,0,0,0,0,0,1
+1915,Colonial League,ARRT0101,Erhart,,New Haven,1915-06-09,1915-06-16,3,0,1,0,0,1,1,0,0,1,0,0
+1915,Colonial League,FLZZ0101,Foley,,Springfield,1915-06-05,1915-06-08,5,0,5,0,0,0,0,0,0,0,0,0
+1915,Colonial League,FRSR0103,Fraser,,New Haven,1915-05-29,1915-08-07,11,0,0,11,0,0,0,0,0,0,0,0
+1915,Colonial League,FRSZ0103,Frasier,,New Haven,1915-06-07,1915-08-11,45,0,0,45,0,0,0,0,0,0,0,0
+1915,Colonial League,FRSR0203,Frazer,,New Haven,1915-05-25,1915-06-23,4,0,0,4,0,0,0,0,0,0,0,0
+1915,Colonial League,FRSZ0203,Frazier,,New Haven,1915-05-20,1915-07-29,13,0,0,13,0,0,0,0,0,0,0,0
+1915,Colonial League,FRTR0106,Frederich,,New Haven,1915-06-29,1915-06-29,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Colonial League,FRTR0206,Frederick,,New Haven,1915-06-21,1915-07-22,6,0,5,0,0,0,0,0,0,0,0,0
+1915,Colonial League,FRTR0306,Fredericks,,New Haven,1915-07-20,1915-07-26,7,0,7,0,0,0,0,0,0,0,0,0
+1915,Colonial League,FRTR0406,Freidrich,,New Haven,1915-07-07,1915-07-13,2,0,2,0,0,0,0,0,0,0,0,0
+1915,Colonial League,FRTK0101,Freitag,,Taunton,1915-05-20,1915-05-20,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Colonial League,FRTR0506,Friederich,,New Haven,1915-06-22,1915-07-31,8,0,6,0,2,0,0,0,0,0,0,0
+1915,Colonial League,FRTR0606,Friedrich,,New Haven,1915-06-25,1915-07-27,16,1,15,0,0,0,0,0,0,0,0,1
+1915,Colonial League,FRSR0303,Froser,,New Haven,1915-05-22,1915-05-22,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Colonial League,FRRZ0101,Fryer,,Pawtucket,1915-05-20,1915-07-10,37,0,0,37,0,0,0,0,0,0,0,0
+1915,Colonial League,FRSZ0303,Fryes,,Pawtucket,1915-06-03,1915-06-03,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Colonial League,KNRZ0101,Gagner,,Springfield,1915-08-11,1915-08-11,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Colonial League,KNZZ0203,Gagnier,,Springfield,1915-06-16,1915-08-10,52,0,0,51,0,1,0,0,0,0,0,0
+1915,Colonial League,KMNS0101,Gammons,,New Bedford,1915-05-20,1915-06-09,5,0,1,0,0,0,2,1,0,1,3,0
+1915,Colonial League,KTTZ0102,Gaudett,,Hartford,1915-06-14,1915-06-14,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Colonial League,KTTZ0202,Gaudette,,Hartford,1915-05-20,1915-08-11,70,8,0,0,0,0,62,27,1,34,0,8
+1915,Colonial League,JRNZ0101,Gearin,,Pawtucket,1915-05-23,1915-08-10,19,19,0,0,0,0,0,0,0,0,0,19
+1915,Colonial League,JNST0101,Genest,,Springfield,1915-06-25,1915-07-14,17,0,0,0,0,0,17,0,17,0,0,0
+1915,Colonial League,KRNZ0101,Geran,,Pawtucket,1915-05-20,1915-05-20,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,JKSZ0103,Giggs,,New Bedford,1915-05-31,1915-06-05,4,0,0,0,4,0,0,0,0,0,0,0
+1915,Colonial League,KLLZ0107,Gilhooley,,Fall River,1915-07-03,1915-07-10,7,0,5,0,2,0,0,0,0,0,0,0
+1915,Colonial League,KLLZ0207,Gilhooley,,Pawtucket,1915-07-15,1915-08-06,7,0,7,0,1,0,0,0,0,0,0,0
+1915,Colonial League,KLLZ0307,Gilhooly,,Fall River,1915-06-28,1915-07-07,4,0,1,0,3,0,0,0,0,0,0,0
+1915,Colonial League,KLLZ0407,Gilhooly,,Pawtucket,1915-08-09,1915-08-09,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Colonial League,KLLZ0507,Gillooley,,Pawtucket,1915-07-20,1915-07-20,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Colonial League,KLLZ0607,Gillooly,,Fall River,1915-06-24,1915-07-05,5,0,1,0,3,1,0,0,0,0,0,0
+1915,Colonial League,KLLZ0707,Gillooly,,Pawtucket,1915-07-12,1915-08-11,19,0,17,0,1,0,2,0,2,0,0,0
+1915,Colonial League,KLMR0101,Gilmore,,Pawtucket,1915-05-20,1915-08-11,64,0,0,0,0,0,64,0,1,63,0,0
+1915,Colonial League,KLRZ0101,Gilroy,,Taunton,1915-05-22,1915-07-10,31,1,0,0,0,0,27,0,0,27,1,1
+1915,Colonial League,JRZZ0101,Giroux,,Fall River,1915-05-20,1915-05-24,4,0,0,0,0,0,4,0,0,4,0,0
+1915,Colonial League,KLSN0101,Gleason,,New Bedford,1915-05-20,1915-08-11,30,18,0,2,0,0,8,7,0,1,0,18
+1915,Colonial League,KLNN0101,Glennon,,Fall River,1915-05-20,1915-07-10,36,0,0,0,0,35,0,0,0,0,0,0
+1915,Colonial League,KLTN0101,Golden,,Fall River,1915-05-25,1915-07-09,18,9,0,0,0,0,9,0,0,9,0,9
+1915,Colonial League,KFZZ0101,Gough,,Taunton,1915-06-21,1915-06-21,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,KRNL0101,Greenalade,,New Bedford,1915-05-20,1915-05-20,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Colonial League,KRNS0101,Greenslade,,New Bedford,1915-05-22,1915-07-10,38,0,0,0,0,0,38,28,0,10,0,0
+1915,Colonial League,KRPR0102,Gruber,,Brockton,1915-05-20,1915-06-08,12,0,12,0,0,0,0,0,0,0,0,0
+1915,Colonial League,KRPR0202,Grueber,,Brockton,1915-05-29,1915-05-31,2,0,2,0,0,0,0,0,0,0,0,0
+1915,Colonial League,HTKZ0101,Haddock,,New Haven,1915-08-09,1915-08-09,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,HTKS0102,Haddocks,,New Haven,1915-07-19,1915-07-19,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,HTKS0202,Haddox,,New Haven,1915-07-24,1915-08-02,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Colonial League,HLZZ0101,Haley,,Fall River,1915-05-20,1915-06-30,10,10,0,0,0,0,0,0,0,0,0,10
+1915,Colonial League,HLFR0103,Hallfrick,,Hartford,1915-07-29,1915-07-29,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Colonial League,HRZZ0103,Hare,,Springfield,1915-06-12,1915-06-12,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,HRLZ0102,Harlow,,New Bedford,1915-05-22,1915-07-21,49,0,0,0,0,47,2,0,0,2,0,0
+1915,Colonial League,HRLZ0202,Harlowe,,New Bedford,1915-05-31,1915-05-31,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Colonial League,HRSZ0101,Harris,,New Haven,1915-07-19,1915-07-19,1,0,0,0,0,0,0,0,0,0,0,0
+1915,Colonial League,HRTZ0101,Hart,,Taunton,1915-05-20,1915-05-31,7,0,1,0,0,0,6,0,0,6,0,0
+1915,Colonial League,HRZZ0203,Heir,,New Haven,1915-07-09,1915-07-26,7,7,0,0,1,0,0,0,0,0,0,7
+1915,Colonial League,HRZZ0303,Heir,,Springfield,1915-06-22,1915-06-26,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Colonial League,HLFR0203,Hellfrich,,Hartford,1915-07-05,1915-08-07,8,7,0,0,0,0,1,0,1,0,0,7
+1915,Colonial League,HLFR0303,Hellfricht,,Hartford,1915-08-11,1915-08-11,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,HRNK0101,Herring,,New Haven,1915-07-07,1915-08-07,14,10,0,0,0,0,0,0,0,0,0,10
+1915,Colonial League,HSZZ0101,Hess,,New Haven,1915-07-05,1915-07-05,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,HKMN0101,Hickman,,New Bedford,1915-07-10,1915-08-10,32,0,0,0,0,21,10,10,0,0,2,0
+1915,Colonial League,HKSZ0101,Hicks,,New Bedford,1915-07-09,1915-07-09,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Colonial League,HKNZ0102,Hogan,,New Haven,1915-06-08,1915-08-11,60,0,0,0,0,60,0,0,0,0,0,0
+1915,Colonial League,HKNZ0202,Hogan,,Springfield,1915-05-24,1915-05-28,4,0,0,0,0,4,0,0,0,0,0,0
+1915,Colonial League,HKZZ0102,Houck,,New Haven,1915-05-20,1915-05-29,4,2,1,0,0,0,1,1,0,0,0,2
+1915,Colonial League,HKZZ0202,Houck,,Pawtucket,1915-05-31,1915-08-11,34,19,0,0,1,0,12,3,7,2,0,19
+1915,Colonial League,HSNZ0101,Howson,,Brockton,1915-05-22,1915-08-11,22,20,0,0,0,0,2,0,0,2,0,20
+1915,Colonial League,JKPS0101,Jacobson,,Brockton,1915-05-20,1915-08-11,72,0,0,0,0,0,72,72,0,0,0,0
+1915,Colonial League,JKSZ0203,Jakes,,New Bedford,1915-07-15,1915-07-15,1,0,0,0,1,0,0,0,0,0,0,0
+1915,Colonial League,JKSZ0303,Jiggs,,New Bedford,1915-05-22,1915-08-11,67,0,0,0,67,0,0,0,0,0,0,0
+1915,Colonial League,JNSN0101,Johnson,,Pawtucket,1915-07-05,1915-08-11,24,0,0,18,0,0,6,0,6,0,0,0
+1915,Colonial League,JNSZ0101,Jones,,Fall River,1915-05-20,1915-05-22,3,0,0,0,0,0,3,0,3,0,0,0
+1915,Colonial League,JSTN0101,Justin,,Springfield,1915-06-14,1915-08-09,17,15,0,0,0,0,2,0,0,2,0,15
+1915,Colonial League,KFNK0202,Kavanaugh,,Hartford,1915-07-10,1915-07-10,1,0,0,0,0,0,1,0,1,0,0,0
+1915,Colonial League,KLZZ0207,Kelley,,Fall River,1915-05-25,1915-06-07,5,0,0,0,0,0,0,0,0,0,5,0
+1915,Colonial League,KLZZ0307,Kelley,,Springfield,1915-07-31,1915-08-07,4,0,0,0,3,0,1,0,1,0,0,0
+1915,Colonial League,KLZZ0407,Kelly,,Fall River,1915-05-20,1915-06-12,7,0,0,0,0,0,6,1,0,6,1,0
+1915,Colonial League,KLZZ0507,Kelly,,Springfield,1915-08-05,1915-08-06,3,0,0,0,2,0,0,0,0,0,0,0
+1915,Colonial League,KSZZ0102,Keyes,,Springfield,1915-05-20,1915-06-22,22,0,0,0,22,0,0,0,0,0,0,0
+1915,Colonial League,KSZZ0202,Keys,,Springfield,1915-05-31,1915-06-17,2,0,0,0,2,0,0,0,0,0,0,0
+1915,Colonial League,KLZZ0607,Kiley,,Brockton,1915-07-13,1915-08-11,30,0,0,0,0,0,30,0,17,14,0,0
+1915,Colonial League,KLZZ0707,Kiley,,Taunton,1915-05-20,1915-07-10,41,0,0,0,0,0,40,0,40,0,1,0
+1915,Colonial League,KLNZ0101,Killian,,Pawtucket,1915-05-20,1915-07-17,45,0,0,0,1,1,44,24,20,0,0,0
+1915,Colonial League,LNNK0101,Lanning,,Fall River,1915-05-27,1915-05-27,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Colonial League,LFNZ0102,Lavigne,,Springfield,1915-05-24,1915-08-11,63,0,3,0,0,0,0,0,0,0,60,0
+1915,Colonial League,LTZZ0108,Leid,,Fall River,1915-05-25,1915-07-07,31,0,0,0,0,0,31,31,0,0,0,0
+1915,Colonial League,LTZZ0208,Leid,,New Haven,1915-08-09,1915-08-11,2,0,0,0,0,0,2,1,0,1,0,0
+1915,Colonial League,LTZZ0308,Leid,,Pawtucket,1915-07-12,1915-07-31,12,0,0,0,0,0,12,12,0,0,0,0
+1915,Colonial League,LNNZ0101,Lennon,,Fall River,1915-05-28,1915-05-31,2,0,0,0,0,2,0,0,0,0,0,0
+1915,Colonial League,LFNZ0202,Levigne,,Springfield,1915-06-12,1915-06-12,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Colonial League,LSZZ0101,Lewis,,Fall River,1915-06-08,1915-07-03,24,0,0,0,0,0,0,0,0,0,24,0
+1915,Colonial League,LTZZ0408,Lied,,Fall River,1915-06-01,1915-07-10,11,0,0,0,0,0,11,11,0,0,0,0
+1915,Colonial League,LTZZ0508,Lied,,New Haven,1915-08-02,1915-08-10,7,0,0,0,0,0,7,1,0,6,0,0
+1915,Colonial League,LTZZ0608,Lied,,Pawtucket,1915-07-17,1915-07-29,7,0,0,0,0,0,6,6,0,0,0,0
+1915,Colonial League,LNTR0101,Linder,,New Bedford,1915-05-20,1915-08-11,71,0,0,0,0,0,71,1,70,0,0,0
+1915,Colonial League,LNKL0101,Longley,,Pawtucket,1915-07-22,1915-07-22,1,0,1,0,0,0,1,1,0,0,0,0
+1915,Colonial League,LTZZ0708,Loud,,Brockton,1915-06-10,1915-06-12,3,0,0,0,0,0,3,0,3,0,0,0
+1915,Colonial League,LTZZ0808,Loud,,Pawtucket,1915-06-21,1915-06-30,8,0,0,0,0,0,8,0,8,0,0,0
+1915,Colonial League,MKFR0101,Mac Pherson,,Brockton,1915-05-22,1915-05-22,1,0,0,0,0,0,1,0,1,0,0,0
+1915,Colonial League,MKRS0103,MacPherson,,Brockton,1915-05-21,1915-06-04,3,0,0,0,0,0,3,0,3,0,0,0
+1915,Colonial League,MKRS0203,Macpherson,,Brockton,1915-05-24,1915-06-02,2,0,0,0,0,0,2,0,2,0,0,0
+1915,Colonial League,MNNK0101,Manning,,Fall River,1915-05-28,1915-05-28,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Colonial League,MNSR0104,Manser,,Springfield,1915-06-07,1915-08-10,20,16,1,0,0,0,2,0,2,0,0,16
+1915,Colonial League,MNSR0204,Mansur,,Springfield,1915-06-10,1915-07-28,2,2,0,0,0,0,1,0,0,1,0,2
+1915,Colonial League,MNSR0304,Manzer,,Springfield,1915-08-02,1915-08-02,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Colonial League,MTKS0101,Mattox,,New Haven,1915-07-21,1915-07-21,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,MKLN0101,McAloon,,Taunton,1915-05-31,1915-07-10,5,0,0,0,0,0,0,0,0,0,4,0
+1915,Colonial League,MKLR0103,McAlroy,,Pawtucket,1915-05-20,1915-05-20,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,MKFZ0101,McAvoy,,Pawtucket,1915-05-31,1915-05-31,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,MKLT0101,McCloud,,Fall River,1915-06-09,1915-06-09,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,MKLR0203,McElroy,,Pawtucket,1915-05-27,1915-06-19,4,4,0,0,0,0,0,0,0,0,0,4
+1915,Colonial League,MKLR0303,McElroy,,Springfield,1915-08-10,1915-08-10,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,MKLZ0101,McGill,,Pawtucket,1915-06-10,1915-06-17,5,0,0,0,0,0,5,0,5,0,0,0
+1915,Colonial League,MKNL0101,McGinley,,Pawtucket,1915-05-20,1915-07-10,32,0,0,0,0,0,0,0,0,0,32,0
+1915,Colonial League,MKNZ0104,McGinn,,New Haven,1915-05-23,1915-05-23,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Colonial League,MKNZ0204,McGuin,,New Haven,1915-05-28,1915-05-28,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Colonial League,MKNZ0304,McGuinn,,New Haven,1915-05-20,1915-05-31,5,0,5,0,0,0,0,0,0,0,0,0
+1915,Colonial League,MKTZ0102,McLeod,,Fall River,1915-05-22,1915-07-10,13,13,0,0,0,0,0,0,0,0,0,13
+1915,Colonial League,MKTZ0202,McLeod,,New Bedford,1915-07-14,1915-08-07,7,7,0,0,0,0,0,0,0,0,0,7
+1915,Colonial League,MKRS0303,McPherson,,Brockton,1915-05-31,1915-06-08,7,0,0,0,0,0,7,0,7,0,0,0
+1915,Colonial League,MKNZ0404,McQuinn,,New Haven,1915-05-27,1915-05-27,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Colonial League,MKRZ0101,McSherry,,Fall River,1915-05-21,1915-07-03,38,0,0,0,0,1,38,2,27,10,0,0
+1915,Colonial League,MLFN0101,Melvin,,New Bedford,1915-05-20,1915-05-25,4,0,0,0,0,0,4,3,1,0,0,0
+1915,Colonial League,MNSK0103,Menoskey,,New Haven,1915-07-21,1915-07-21,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Colonial League,MNSK0203,Menosky,,New Haven,1915-05-20,1915-08-11,68,1,2,0,0,0,66,65,0,1,0,1
+1915,Colonial League,MNSL0101,Menzel,,New Haven,1915-06-21,1915-06-24,2,0,0,0,0,0,2,0,0,2,0,0
+1915,Colonial League,MNSR0404,Menzer,,New Haven,1915-06-22,1915-06-23,2,0,0,0,0,0,2,0,0,2,0,0
+1915,Colonial League,MRKN0103,Merigan,,Fall River,1915-05-20,1915-05-20,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Colonial League,MRKN0203,Merrigan,,Taunton,1915-05-22,1915-05-25,2,0,2,0,0,0,0,0,0,0,0,0
+1915,Colonial League,MLRZ0102,Miller,,Springfield,1915-07-12,1915-08-11,30,0,30,0,0,0,0,0,0,0,0,0
+1915,Colonial League,MLRZ0202,Miller,,Taunton,1915-05-27,1915-07-10,39,0,39,0,0,0,0,0,0,0,0,0
+1915,Colonial League,MNSK0303,Monosky,,New Haven,1915-05-25,1915-06-09,3,0,0,0,0,0,3,3,0,0,0,0
+1915,Colonial League,MRZZ0101,Moore,,Pawtucket,1915-05-29,1915-05-31,3,0,0,0,0,0,3,3,0,0,0,0
+1915,Colonial League,MRKN0303,Morgan,,Hartford,1915-06-02,1915-06-02,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Colonial League,MRSZ0101,Morris,,Fall River,1915-05-20,1915-07-10,44,0,33,0,0,0,11,2,0,9,0,0
+1915,Colonial League,MRFZ0102,Murphy,,New Haven,1915-05-20,1915-07-31,48,0,0,0,0,0,42,0,0,42,5,0
+1915,Colonial League,MRFZ0202,Murphy,,Pawtucket,1915-08-03,1915-08-11,8,0,0,0,1,0,4,0,4,0,3,0
+1915,Colonial League,NPTN0102,Neptune,,Hartford,1915-05-20,1915-06-29,28,0,0,8,1,1,21,21,0,0,0,0
+1915,Colonial League,NPTN0202,Neptune,,Taunton,1915-07-02,1915-07-10,10,0,0,0,0,0,10,9,1,0,0,0
+1915,Colonial League,APRN0101,O'Brien,,Hartford,1915-05-20,1915-07-10,40,0,0,0,40,0,0,0,0,0,0,0
+1915,Colonial League,AKNL0103,O'Connell,,New Bedford,1915-06-22,1915-06-22,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Colonial League,AKNL0203,O'Connell,,Pawtucket,1915-07-12,1915-08-11,28,0,0,0,0,28,0,0,0,0,0,0
+1915,Colonial League,AKNL0303,O'Connell,,Taunton,1915-05-22,1915-07-10,38,0,0,0,0,38,0,0,0,0,0,0
+1915,Colonial League,AKNR0102,O'Conner,,New Bedford,1915-05-24,1915-05-24,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Colonial League,AKNR0202,O'Connor,,Taunton,1915-06-16,1915-06-17,3,0,0,0,0,3,0,0,0,0,0,0
+1915,Colonial League,ATHR0101,O'Doherty,,Brockton,1915-05-29,1915-05-29,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Colonial League,AFLH0101,O'Flaherty,,Springfield,1915-05-24,1915-06-01,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Colonial League,PRKS0101,Parks,,Taunton,1915-06-10,1915-06-10,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,PSTR0101,Pastor,,New Haven,1915-05-20,1915-06-08,14,0,0,0,0,13,0,0,0,0,0,0
+1915,Colonial League,PTRS0102,Peters,,Brockton,1915-07-14,1915-08-10,11,9,0,0,0,0,2,0,0,2,0,9
+1915,Colonial League,PTRS0202,Peters,,Fall River,1915-05-28,1915-07-10,15,11,0,0,0,0,1,0,0,1,0,11
+1915,Colonial League,FNKS0104,Phenix,,Fall River,1915-05-28,1915-06-01,2,0,0,2,0,0,0,0,0,0,0,0
+1915,Colonial League,FNKS0204,Phenix,,New Bedford,1915-07-20,1915-07-20,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Colonial League,FLPS0101,Phillips,,New Bedford,1915-05-20,1915-08-11,64,0,0,0,0,0,0,0,0,0,63,0
+1915,Colonial League,FNKS0304,Phoenix,,Fall River,1915-05-20,1915-07-10,44,0,0,44,0,0,0,0,0,0,0,0
+1915,Colonial League,FNKS0404,Phoenix,,New Bedford,1915-07-12,1915-08-11,31,0,0,30,0,1,0,0,0,0,0,0
+1915,Colonial League,PJRZ0101,Pjura,,Hartford,1915-05-20,1915-07-14,35,1,0,1,0,0,22,3,0,19,11,1
+1915,Colonial League,PLZZ0202,Powell,,Brockton,1915-05-27,1915-05-27,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Colonial League,PRSZ0102,Powers,,Brockton,1915-05-22,1915-07-31,54,6,42,0,0,0,6,0,1,5,0,6
+1915,Colonial League,PRSZ0202,Powers,,New Haven,1915-08-05,1915-08-11,8,0,8,0,0,0,0,0,0,0,0,0
+1915,Colonial League,PRLK0103,Praulx,,Taunton,1915-05-22,1915-05-22,1,0,0,0,1,0,0,0,0,0,0,0
+1915,Colonial League,PRLK0203,Proulx,,Hartford,1915-07-12,1915-08-11,30,0,0,0,30,0,0,0,0,0,0,0
+1915,Colonial League,PRLK0303,Proulx,,Taunton,1915-05-20,1915-07-10,41,0,0,0,41,0,0,0,0,0,0,0
+1915,Colonial League,PRRZ0101,Pryor,,Pawtucket,1915-06-01,1915-06-01,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Colonial League,KNZZ0303,Quinn,,Springfield,1915-05-20,1915-07-10,33,0,32,0,0,0,1,1,0,0,0,0
+1915,Colonial League,RTNK0102,Reddington,,Pawtucket,1915-06-12,1915-06-12,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Colonial League,RTNK0202,Reddington,,Springfield,1915-06-05,1915-06-11,7,0,0,0,0,7,0,0,0,0,0,0
+1915,Colonial League,RNLT0101,Reynolds,,Springfield,1915-06-08,1915-06-08,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,RLZZ0101,Riley [Kiley],,Taunton,1915-05-25,1915-05-25,1,0,0,0,0,0,1,0,1,0,0,0
+1915,Colonial League,RPRT0101,Roberts,,Hartford,1915-06-29,1915-06-30,2,0,0,0,0,0,0,0,0,0,2,0
+1915,Colonial League,SNTR0103,Saunders,,Springfield,1915-08-05,1915-08-07,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Colonial League,SNTR0203,Saunders,,Taunton,1915-06-01,1915-06-01,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,XMTZ0102,Schmidt,,New Haven,1915-05-22,1915-06-14,8,0,0,0,0,0,8,2,0,6,0,0
+1915,Colonial League,XMTZ0202,Schmitt,,New Haven,1915-05-20,1915-05-23,2,0,0,0,0,0,2,0,0,2,0,0
+1915,Colonial League,SNZZ0103,Senno,,Brockton,1915-07-13,1915-08-11,30,0,0,13,4,0,14,1,13,0,0,0
+1915,Colonial League,SNZZ0203,Senno,,Fall River,1915-06-17,1915-07-10,22,0,0,0,0,1,22,0,17,5,0,0
+1915,Colonial League,XRPZ0102,Sharp,,Springfield,1915-05-31,1915-05-31,1,0,0,0,0,0,1,0,1,0,0,0
+1915,Colonial League,XRPZ0202,Sharpe,,Springfield,1915-05-20,1915-08-11,27,0,0,0,0,0,27,0,25,2,0,0
+1915,Colonial League,XKZZ0101,Shawkey,,Fall River,1915-05-24,1915-05-24,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Colonial League,XRMN0102,Sherman,,Hartford,1915-07-13,1915-08-11,20,11,0,3,0,0,5,1,0,4,0,11
+1915,Colonial League,XRMN0202,Sherman,,Taunton,1915-05-20,1915-07-10,17,15,0,0,0,0,1,1,0,0,1,15
+1915,Colonial League,XLTS0101,Shields,,Pawtucket,1915-05-27,1915-05-27,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Colonial League,SMNS0101,Simmons,,Pawtucket,1915-07-26,1915-07-27,2,0,1,0,0,0,1,0,1,0,0,0
+1915,Colonial League,SM0Z0107,Smith,,New Haven,1915-05-25,1915-06-10,5,0,0,1,0,0,4,0,0,4,0,0
+1915,Colonial League,SM0Z0207,Smith,,Springfield,1915-06-01,1915-08-05,16,15,0,0,0,0,0,0,0,0,0,15
+1915,Colonial League,SM0Z0307,Smith,,Taunton,1915-05-29,1915-07-05,5,5,0,0,0,0,0,0,0,0,0,5
+1915,Colonial League,SM0Z0407,Smith,D.,Springfield,1915-05-28,1915-06-11,5,5,0,0,0,0,0,0,0,0,0,5
+1915,Colonial League,SM0Z0507,Smith,R.,Springfield,1915-05-25,1915-06-05,3,2,0,0,0,0,0,0,0,0,0,2
+1915,Colonial League,SM0Z0607,Smith,R. [Bob],Springfield,1915-05-29,1915-05-29,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,SM0Z0707,Smith [Schmitt],,New Haven,1915-05-25,1915-05-25,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Colonial League,SMRS0102,Somers,,New Haven,1915-05-31,1915-08-11,45,19,10,0,0,0,11,1,0,10,0,19
+1915,Colonial League,SMRS0202,Somers,,Pawtucket,1915-05-22,1915-05-28,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Colonial League,SPRZ0104,Soper,,New Haven,1915-05-20,1915-08-11,73,0,12,0,0,0,0,0,0,0,63,0
+1915,Colonial League,SPRZ0204,Speraw,,Brockton,1915-05-20,1915-08-11,51,0,0,0,51,0,0,0,0,0,0,0
+1915,Colonial League,SPRZ0304,Sperraw,,Brockton,1915-06-01,1915-06-01,1,0,0,0,1,0,0,0,0,0,0,0
+1915,Colonial League,SPRZ0404,Sperrow,,Brockton,1915-05-27,1915-05-27,1,0,0,0,1,0,0,0,0,0,0,0
+1915,Colonial League,SPRK0101,Sprague,,New Bedford,1915-05-22,1915-06-10,16,0,16,0,0,0,0,0,0,0,0,0
+1915,Colonial League,STFN0101,Stephens,,New Bedford,1915-08-09,1915-08-11,3,0,0,0,0,3,0,0,0,0,0,0
+1915,Colonial League,STRT0101,Steward,,Fall River,1915-05-21,1915-05-21,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,SLFN0101,Sullivan,,Taunton,1915-06-16,1915-07-10,26,0,0,26,0,0,0,0,0,0,0,0
+1915,Colonial League,SNTR0303,Swander,,Springfield,1915-05-20,1915-08-11,71,0,0,0,0,0,71,70,0,1,0,0
+1915,Colonial League,TKNZ0101,Tecan,,New Haven,1915-06-08,1915-06-08,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,TKRZ0102,Tecar,,New Haven,1915-05-29,1915-06-22,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Colonial League,TKRZ0202,Tecarr,,New Haven,1915-06-12,1915-07-15,7,7,0,0,0,0,0,0,0,0,0,7
+1915,Colonial League,TKST0101,Texter,,Hartford,1915-07-07,1915-08-11,35,0,0,0,0,0,0,0,0,0,35,0
+1915,Colonial League,TMPS0202,Thompson,,Springfield,1915-05-20,1915-06-12,17,0,0,16,0,1,0,0,0,0,0,0
+1915,Colonial League,0RNT0102,Thornton,,Brockton,1915-05-20,1915-05-29,8,0,0,0,0,0,8,0,3,5,0,0
+1915,Colonial League,0RNT0202,Thornton,,Fall River,1915-06-03,1915-06-04,2,0,0,0,0,0,2,0,0,2,0,0
+1915,Colonial League,TLMN0102,Tillman,,New Bedford,1915-05-22,1915-08-10,29,22,0,0,0,1,6,5,1,0,0,22
+1915,Colonial League,TLMN0202,Tilman,,New Bedford,1915-07-13,1915-07-13,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,TRNR0102,Trainer,,New Haven,1915-06-05,1915-06-10,4,0,0,0,0,0,0,0,0,0,4,0
+1915,Colonial League,TRNR0202,Trainor,,New Haven,1915-06-01,1915-06-11,4,0,0,0,0,0,0,0,0,0,4,0
+1915,Colonial League,TRTM0103,Trautman,,Hartford,1915-05-27,1915-08-10,23,18,0,0,0,0,4,0,1,3,1,18
+1915,Colonial League,TRTM0203,Trautman,F.,Hartford,1915-07-03,1915-07-03,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,TRTM0303,Trautman,L.,Hartford,1915-07-03,1915-07-03,2,0,0,0,0,0,2,1,0,1,0,0
+1915,Colonial League,ALKR0101,Walker,,New Haven,1915-05-22,1915-06-28,17,11,0,1,0,0,2,1,0,1,0,11
+1915,Colonial League,ALKZ0101,Wallace,,Brockton,1915-06-02,1915-06-02,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,ALXZ0102,Walsh,,New Haven,1915-07-14,1915-08-10,9,9,0,0,0,0,0,0,0,0,0,9
+1915,Colonial League,ALXZ0202,Walsh,,Taunton,1915-05-22,1915-07-07,18,17,0,0,0,0,0,0,0,0,0,17
+1915,Colonial League,ARKZ0101,Warwick,,Brockton,1915-05-20,1915-08-09,28,21,0,0,0,0,4,0,1,3,0,21
+1915,Colonial League,ATNZ0505,Weeden,,Brockton,1915-05-28,1915-08-11,39,0,15,0,0,0,0,0,0,0,19,0
+1915,Colonial League,ALTN0101,Welden,,Brockton,1915-06-01,1915-06-01,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Colonial League,ARZZ0102,Werre,,Hartford,1915-06-01,1915-08-11,56,0,56,0,0,0,0,0,0,0,0,0
+1915,Colonial League,ARZZ0202,Wherre,,Hartford,1915-05-20,1915-06-12,15,0,15,0,0,0,0,0,0,0,0,0
+1915,Colonial League,ATHS0101,Whitehouse,,Hartford,1915-05-20,1915-08-11,70,1,0,0,0,0,69,12,56,1,0,1
+1915,Colonial League,ATST0101,Whiteside,,Taunton,1915-05-20,1915-06-19,22,1,0,0,0,0,22,21,1,0,0,1
+1915,Colonial League,ALKK0101,Wilcox,,Springfield,1915-05-20,1915-05-20,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Colonial League,ATZZ0101,Wood,,Springfield,1915-07-14,1915-07-14,1,0,0,0,1,0,0,0,0,0,0,0
+1915,Colonial League,ATKK0101,Woodcock,,Hartford,1915-05-28,1915-07-06,12,9,0,0,0,0,1,1,0,0,1,9
+1915,Colonial League,ATMN0101,Woodman,,Springfield,1915-05-20,1915-08-11,27,12,0,1,1,6,2,0,2,0,0,12
+1915,Colonial League,ATSZ0104,Woods,,Brockton,1915-06-11,1915-07-05,3,2,0,0,0,0,1,0,1,0,0,2
+1915,Colonial League,ATSZ0204,Woods,,Springfield,1915-06-12,1915-08-11,46,0,0,3,37,0,0,0,0,0,6,0
+1915,Colonial League,ATSZ0304,Woods,F.,Brockton,1915-07-06,1915-07-06,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,ATSZ0404,Woods,W.,Springfield,1915-07-06,1915-07-06,1,0,0,0,1,0,0,0,0,0,0,0
+1915,Colonial League,ATRT0202,Woodward,,Taunton,1915-06-21,1915-07-10,20,0,0,0,0,0,20,11,0,9,0,0
+1915,Colonial League,ANKZ0101,Young,,Springfield,1915-05-20,1915-08-09,67,0,0,0,0,1,66,1,0,65,0,0
+1915,Colonial League,ANTZ0102,Yount,,New Bedford,1915-06-17,1915-07-06,5,5,0,0,0,0,0,0,0,0,0,5
+1915,Colonial League,ANTZ0202,Yount,,Springfield,1915-07-16,1915-07-23,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Colonial League,SHNZ0101,Zahan,,Brockton,1915-05-20,1915-05-20,1,0,0,0,0,0,1,0,1,0,0,0
+1915,Colonial League,SNZZ0303,Zahn,,Brockton,1915-05-22,1915-05-22,1,0,0,0,0,0,1,0,1,0,0,0
