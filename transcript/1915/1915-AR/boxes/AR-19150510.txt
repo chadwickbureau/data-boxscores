@@ -1,0 +1,429 @@
+date: 1915-05-11
+number: 0
+league: Rio Grande Association
+away: Douglas
+home: El Paso
+source: Arizona Republic, May 12, 1915
+
+Douglas: 	r h e
+Ross @ p:	x x x 
+McConnell @ p:	x x x
+Kraft @ c:	x x x 
+TOTALS:		12 11 2
+
+El Paso:	r h e
+Lewis @ p:	x x x 
+Armstrong @ p:	x x x
+Knight @ p:	x x x
+Bliss @ c:	x x x 
+TOTALS:		13 13 1
+
+line: Douglas: 0 0 10 0 0 0 0 1 1 - 12
+line: El Paso: 0 3 2 0 0 0 1 3 4 - 13
+
+---
+
+date: 1915-05-11
+number: 0
+league: Rio Grande Association
+away: Las Cruces
+home: Albuquerque
+source: Arizona Republic, May 12, 1915
+
+Las Cruces:	r h e
+Black @ p:	x x x
+Bliss @ c:	x x x 
+TOTALS:		4 6 4
+
+Albuquerque: 	r h e
+Irion @ p:	x x x
+Waldschmidt @ p:	x x x
+Zamlock @ p:	x x x
+Readell @ c:	x x x 
+TOTALS:		8 9 4
+
+line: Las Cruces:  1 0 1 0 3 0 0 0 0 - 4
+line: Albuquerque: 0 3 2 0 1 0 2 0 x - 8
+
+
+--- 
+
+date: 1915-05-12
+number: 0
+league: Rio Grande Association
+away: Douglas
+home: El Paso
+source: Arizona Republic, May 13, 1915
+
+Douglas: 	r h e
+McConnell @ p:	x x x
+Kraft @ c:	x x x 
+TOTALS:		4 9 3
+
+El Paso:	r h e
+McGlynn @ p:	x x x 
+Bliss @ c:	x x x 
+TOTALS:		8 13 0
+
+line: Douglas: 0 0 0 0 0 1 0 3 0 - 4
+line: El Paso: 0 0 0 0 0 1 6 1 x - 8
+
+---
+
+date: 1915-05-12
+number: 0
+league: Rio Grande Association
+away: Las Cruces
+home: Albuquerque
+source: Arizona Republic, May 13, 1915
+
+Las Cruces:	r h e
+Beer @ p:	x x x
+Bliss @ c:	x x x
+Goldie @ c:	x x x 
+TOTALS:		4 10 1
+
+Albuquerque: 	r h e
+Waldschmidt @ p:	x x x
+Jardon @ p:	x x x
+Raedell @ c:	x x x 
+TOTALS:		12 17 3
+
+line: Las Cruces:  0 0 4 1 0 0 0 0 0 - 5
+line: Albuquerque: 0 5 0 0 6 0 1 0 x - 12
+
+---
+
+date: 1915-05-13
+number: 0
+league: Rio Grande Association
+away: Douglas
+home: El Paso
+source: Arizona Republic, May 14, 1915
+
+Douglas: 	r h e
+Bennallack @ p:	x x x
+Kraft @ c:	x x x 
+TOTALS:		5 8 2
+
+El Paso:	r h e
+Knight @ p:	x x x 
+Bliss @ c:	x x x 
+TOTALS:		6 13 2
+
+line: Douglas: 0 0 0 0 4 0 1 0 0 0 - 5
+line: El Paso: 1 0 0 0 0 1 0 0 3 1 - 6
+
+---
+
+date: 1915-05-13
+number: 0
+league: Rio Grande Association
+away: Las Cruces
+home: Albuquerque
+source: Arizona Republic, May 14, 1915
+
+Las Cruces:	r h e
+Kallio @ p:	x x x
+Beer @ p:	x x x
+Pflieger @ p:	x x x
+Goldie @ c:	x x x 
+TOTALS:		12 19 5
+
+Albuquerque: 	r h e
+Trekell @ p:	x x x
+Irion @ p:	x x x
+Raedell @ c:	x x x 
+TOTALS:		21 21 0
+
+line: Las Cruces:  0 0 2 2 5 1 2 0 0 - 12
+line: Albuquerque: 1 1 0 14 2 1 0 2 x - 21
+
+--- 
+
+date: 1915-05-14
+number: 0
+league: Rio Grande Association
+away: Las Cruces
+home: Albuquerque
+source: Arizona Republic, May 15, 1915
+
+Las Cruces:	r h e
+Kallio @ p:	x x x
+Bliss @ c:	x x x 
+TOTALS:		5 12 6
+
+Albuquerque: 	r h e
+Zamlock @ p:	x x x
+Raedell @ c:	x x x 
+TOTALS:		7 8 2
+
+line: Las Cruces:  1 3 0 0 0 0 0 1 0 - 5
+line: Albuquerque: 1 3 1 2 0 0 0 0 x - 7
+
+--- 
+
+date: 1915-05-15
+number: 0
+league: Rio Grande Association
+away: Douglas
+home: El Paso
+source: Arizona Republic, May 16, 1915
+
+Douglas: 	r h e
+Ross @ p:	x x x
+Kraft @ c:	x x x 
+TOTALS:		3 8 0
+
+El Paso:	r h e
+Lewis @ p:	x x x 
+Bliss @ c:	x x x 
+TOTALS:		7 13 1
+
+line: Douglas: 0 0 1 0 0 0 0 2 0 - 3
+line: El Paso: 2 0 4 0 1 0 0 0 x - 7
+
+---
+
+date: 1915-05-15
+number: 0
+league: Rio Grande Association
+away: Phoenix
+home: Tucson
+source: Arizona Republic, May 16, 1915
+
+Phoenix:	ab r h po a e
+Demaggio @ lf:	3 2 1 1 0 0
+Brown @ 3b:	4 1 1 0 5 0
+McArdle @ ss-p:	4 0 1 1 3 0
+Dowling @ 2b:	4 1 3 2 6 1
+Lynn @ c:	3 0 0 2 0 0
+Pittman @ cf:	4 0 1 6 0 1
+Nutt @ rf:	3 0 3 1 1 0
+Scanlon @ 1b-ss:	4 0 0 10 2 1
+Toner @ p:	3 0 0 1 2 0
+Hall @ 1b:	1 0 0 0 0 0
+TOTALS:		33 4 10 24 19 3
+
+Tucson:		ab r h po a e
+Stadelli @ lf:	4 3 1 3 0 0
+Stroloff @ 2b:	4 3 2 2 2 0
+Rader @ ss:	5 3 3 3 3 0
+McMurdo @ 1b:	4 1 4 5 1 1
+Felts @ cf:	5 0 3 5 1 0
+Callen @ c:	4 1 0 5 2 0
+Fuller @ rf:	4 1 2 3 0 0
+McGeehan @ 3b:	4 1 2 1 0 0 
+Horstman @ p:	5 2 2 0 1 0
+TOTALS:		39 15 19 27 10 1
+
+line: Phoenix: 2 0 0 0 1 1 0 0 0 - 4
+line: Tucson:  1 0 2 0 1 5 5 1 x - 15
+
+B_2B: Dowling; McMurdo #2; Rader; Fuller; Horstman
+B_HR: Demaggio
+B_SB: Pittman
+B_SH: Stroloff; Brown; McGeehan
+B_SF: McMurdo; Nutt 
+P_BB: Toner #3; McArdle #1; Horstman #3
+P_SO: Toner #1; Horstman #5
+P_H: Toner #18; McArdle #1
+P_IP: Toner #7; McArdle #1
+F_DP: Felts, McMurdo; Horstman, Stroloff, McMurdo; McArdle, Dowling, Scanlon  
+T: 2:00
+U: Kane
+
+---
+
+date: 1915-05-15
+number: 0
+league: Rio Grande Association
+away: Las Cruces
+home: Albuquerque
+source: Arizona Republic, May 16, 1915
+
+Las Cruces:	r h e
+Russell @ p:	x x x
+Bliss @ c:	x x x 
+TOTALS:		6 13 1
+
+Albuquerque: 	r h e
+Waldschmidt @ p:	x x x
+Trekel @ p:	x x x
+Raedell @ c:	x x x 
+TOTALS:		4 11 3
+
+line: Las Cruces:  0 0 1 0 1 1 3 0 0 - 6
+line: Albuquerque: 2 0 0 0 1 0 1 0 0 - 4
+
+---
+
+date: 1915-05-16
+number: 1
+league: Rio Grande Association
+away: Douglas
+home: El Paso
+source: Arizona Republic, May 17, 1915
+
+Douglas: 	r h e
+McConnell @ p:	x x x
+Kraft @ c:	x x x 
+TOTALS:		2 6 3
+
+El Paso:	r h e
+McGlynn @ p:	x x x 
+Bliss @ c:	x x x 
+TOTALS:		9 18 0
+
+line: Douglas: 0 0 0 0 0 0 0 2 0 - 2
+line: El Paso: 1 0 0 0 0 1 6 1 x - 9
+
+---
+
+date: 1915-05-16
+number: 2
+league: Rio Grande Association
+away: Douglas
+home: El Paso
+source: Arizona Republic, May 17, 1915
+note: game called after 7th by agreement
+
+Douglas: 	r h e
+Bennallack @ p:	x x x
+Kraft @ c:	x x x 
+TOTALS:		4 6 0 
+
+El Paso:	r h e
+Armstrong @ p:	x x x 
+Bliss @ c:	x x x 
+TOTALS:		0 6 1
+
+line: Douglas: 0 0 0 0 1 3 0 - 4
+line: El Paso: 0 0 0 0 0 0 0 - 0
+
+---
+
+
+date: 1915-05-16
+number: 1
+league: Rio Grande Association
+away: Phoenix
+home: Tucson
+source: Arizona Republic, May 17, 1915
+
+Phoenix:	ab r h po a e
+Demaggio @ lf:	5 0 0 2 0 0
+Hester @ 1b:	4 0 1 14 3 0 
+McArdle @ ss:	4 0 1 1 1 1
+Dowling @ 2b-ss:	5 1 1 2 6 0
+Lynn @ c:	4 1 0 4 0 0
+Pittman @ cf:	5 3 3 3 0 0
+Nutt @ rf:	4 0 4 0 0 0
+Scanlon @ 3b:	4 0 0 3 4 1
+McCreary @ p:	1 0 0 0 1 0
+Hall @ p:	2 0 1 0 2 0
+Brown @ 2b:	1 0 0 0 1 0
+TOTALS:		39 5 11 29 18 2
+
+Tucson:		ab r h po a e
+Stadelli @ lf:	3 2 1 4 0 0
+Stroloff @ 2b:	4 1 2 2 6 0
+Rader @ ss:	4 0 0 4 6 2
+McMurdo @ 1b:	5 0 1 10 0 1
+Felts @ cf:	4 1 2 5 0 0 
+Callan @ c:	4 0 0 3 0 0
+Fuller @ rf:	4 0 0 1 0 0
+McGeehan @ 3b:	4 0 0 1 4 0
+Galt @ p:	1 1 1 0 2 0
+Fulwider @ p:	3 1 1 0 1 1 
+TOTALS:		36 6 8 30 19 4
+
+line: Phoenix: 0 1 3 0 0 0 0 1 0 0 - 5
+line: Tucson:  0 0 3 1 1 0 0 0 0 1 - 6
+
+B_LOB: Phoenix #7; Tucson #5
+B_2B: Stroloff #2
+B_3B: Pittman
+B_HR: Felts
+B_SB: Dowling; Fuller
+B_SH: McCreary; Stadelli; Stroloff
+B_HP: Lynn
+P_BB: Galt #1; Hall #3
+P_SO: Fulwider #2; McCreary #1; Hall #2
+P_IP: McCreary #4.1; Hall #5.1; Galt #3; Fulwider #7
+P_H: McCreary #6; Hall #2; Galt #5; Fulwider #6
+P_HP: Galt
+F_DP: Rader, Stroloff, McMurdo; McGeehan, Stroloff, McMurdo; Stroloff, Rader, McMurdo; Scanlon, Dowling, Hester
+T: 2:00
+U: Kane
+
+---
+
+date: 1915-05-16
+number: 2
+league: Rio Grande Association
+away: Phoenix
+home: Tucson
+source: Arizona Republic, May 17, 1915
+
+Phoenix:	ab r h po a e
+Demaggio @ lf:	3 1 1 3 0 0
+Hester @ 1b:	3 1 0 17 4 1
+McArdle @ ss:	3 0 0 0 9 0
+Dowling @ 2b:	4 1 0 3 0 0
+Lynn @ c:	1 0 0 1 1 0
+Pittman @ cf:	3 1 1 0 0 0
+Nutt @ rf:	4 0 2 2 1 0 
+Scanlon @ 3b:	4 0 0 0 2 0
+Hall @ p:	4 1 1 1 4 0
+TOTALS:		29 5 7 27 21 1
+
+Tucson:		ab r h po a e
+Stadelli @ lf:	3 0 0 3 1 0
+Stroloff @ 2b:	4 0 1 2 3 0
+Rader @ ss:	4 0 0 3 4 0
+McMurdo @ 1b:	4 0 0 13 1 0
+Felts @ cf:	3 0 0 0 0 1
+Callan @ c:	3 0 1 1 0 0
+Fuller @ rf:	3 0 1 1 0 0
+McGeehan @ 3b:	3 0 0 1 3 0
+Fulwider @ p:	2 0 0 0 6 0
+TOTALS:		28 0 3 24 17 1
+
+line: Phoenix: 0 0 0 0 3 0 0 2 0 - 5
+line: Tucson:  0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Phoenix #8; Tucson #4
+B_ROE: Phoenix #1; Tucson #1
+B_2B: Stroloff
+B_SB: McArdle
+B_SH: Fuller; Fulwider; Hester; Lynn; Pittman
+P_BB: Hall #1
+P_SO: Fulwider #1
+P_WP: Fulwider
+F_DP: Stadelli, Rader; Rader, Stroloff, McMurdo
+T: 1:45
+U: Kane
+
+---
+
+date: 1915-05-16
+number: 0
+league: Rio Grande Association
+away: Las Cruces
+home: Albuquerque
+source: Arizona Republic, May 17, 1915
+
+Las Cruces:	r h e
+Black @ p:	x x x
+Bliss @ c:	x x x 
+TOTALS:		8 14 3
+
+Albuquerque: 	r h e
+Jordan @ p:	x x x
+Raedel @ c:	x x x 
+TOTALS:		9 14 3
+
+line: Las Cruces:  1 0 0 0 0 0 0 5 2 - 8
+line: Albuquerque: 0 0 0 1 1 1 0 1 5 - 9
+
