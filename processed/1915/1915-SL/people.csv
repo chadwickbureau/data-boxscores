@@ -1,0 +1,329 @@
+league.year,league.name,person.ref,person.name.last,person.name.given,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G
+1915,American Association,P2213845,Allison,,Kansas City,1915-04-16,1915-04-19,2,2,0,0,0,0,0,0,0,0,0,2
+1915,American Association,P9827235,Altizer,,Minneapolis,1915-04-15,1915-04-24,9,0,0,0,0,1,8,0,1,7,0,0
+1915,American Association,P1957898,Autrey,,St. Paul,1915-04-22,1915-04-24,3,0,3,0,0,0,0,0,0,0,0,0
+1915,American Association,P4413609,Bailey,,Columbus,1915-04-16,1915-04-21,5,0,0,0,0,0,0,0,0,0,0,0
+1915,American Association,P2861567,Barbeau,,Milwaukee,1915-04-15,1915-04-24,9,0,0,0,0,9,0,0,0,0,0,0
+1915,American Association,P8418403,Bassler,,Cleveland,1915-04-15,1915-04-23,7,0,0,0,0,0,0,0,0,0,6,0
+1915,American Association,P5916422,Bates,,Cleveland,1915-04-15,1915-04-18,4,0,0,0,4,0,0,0,0,0,0,0
+1915,American Association,P7497997,Beall,,Milwaukee,1915-04-15,1915-04-24,9,0,0,0,0,0,9,0,9,0,0,0
+1915,American Association,P9676248,Benson,,Columbus,1915-04-18,1915-04-24,6,0,0,6,0,0,0,0,0,0,0,0
+1915,American Association,P8758957,Berg,,Milwaukee,1915-04-15,1915-04-24,6,0,0,0,6,0,1,1,0,0,0,0
+1915,American Association,P9551416,Blackburn,,Indianapolis,1915-04-16,1915-04-18,2,0,0,0,0,0,0,0,0,0,1,0
+1915,American Association,P9396221,Blackburne,,Indianapolis,1915-04-22,1915-04-22,1,0,0,0,0,0,0,0,0,0,1,0
+1915,American Association,P1181236,Boardman,,St. Paul,1915-04-16,1915-04-24,2,2,0,0,0,0,0,0,0,0,0,2
+1915,American Association,P5960042,Boothby,,Columbus,1915-04-17,1915-04-24,3,3,0,0,0,0,0,0,0,0,0,3
+1915,American Association,P6418221,Brannan,,Milwaukee,1915-04-16,1915-04-24,5,0,0,0,0,0,0,0,0,0,4,0
+1915,American Association,P8207675,Brannon,,Milwaukee,1915-04-19,1915-04-19,1,0,0,0,0,0,1,1,0,0,0,0
+1915,American Association,P5548783,Brenton,,Cleveland,1915-04-15,1915-04-22,3,3,0,0,0,0,0,0,0,0,0,3
+1915,American Association,P6989614,Bronkie,,Indianapolis,1915-04-15,1915-04-24,9,0,0,0,9,0,0,0,0,0,0,0
+1915,American Association,P7879207,Burch,,Columbus,1915-04-15,1915-04-24,9,0,0,0,0,0,9,1,0,8,0,0
+1915,American Association,P7513080,Burk,,Indianapolis,1915-04-16,1915-04-21,2,2,0,0,0,0,0,0,0,0,0,2
+1915,American Association,P1312753,Butcher,,Indianapolis,1915-04-15,1915-04-24,8,0,0,0,0,0,8,0,0,8,0,0
+1915,American Association,P4203186,Butler,,Indianapolis,1915-04-18,1915-04-18,1,0,0,0,0,0,1,0,0,1,0,0
+1915,American Association,P5083621,Callahan,,Louisville,1915-04-20,1915-04-24,4,0,0,0,0,0,0,0,0,0,0,0
+1915,American Association,P9772382,Cantwell,,Indianapolis,1915-04-20,1915-04-20,1,1,0,0,0,0,0,0,0,0,0,1
+1915,American Association,P5508760,Carter,,Cleveland,1915-04-16,1915-04-23,3,3,0,0,0,0,0,0,0,0,0,3
+1915,American Association,P4821645,Cashion,,Minneapolis,1915-04-15,1915-04-24,9,0,9,0,0,0,0,0,0,0,0,0
+1915,American Association,P6582106,Clark,,Milwaukee,1915-04-16,1915-04-21,5,0,0,0,4,0,0,0,0,0,0,0
+1915,American Association,P6657730,Clemons,,Louisville,1915-04-15,1915-04-24,9,0,0,0,0,0,0,0,0,0,9,0
+1915,American Association,P6318499,Clymer,,Cleveland,1915-04-24,1915-04-24,1,0,0,0,0,0,1,0,0,1,0,0
+1915,American Association,P7652116,Clymer,,Minneapolis,1915-04-15,1915-04-24,9,0,0,0,0,0,9,0,8,1,0,0
+1915,American Association,P4737351,Cole,,Indianapolis,1915-04-22,1915-04-22,1,0,0,0,0,0,0,0,0,0,0,0
+1915,American Association,P7759890,Coleman,,Columbus,1915-04-15,1915-04-24,6,0,0,0,0,0,0,0,0,0,6,0
+1915,American Association,P0033237,Collamore,,Cleveland,1915-04-17,1915-04-24,3,3,0,0,0,0,0,0,0,0,0,3
+1915,American Association,P4900963,Compton,,Kansas City,1915-04-15,1915-04-24,8,0,0,0,0,0,8,0,7,1,0,0
+1915,American Association,P5837573,Crandall,,Indianapolis,1915-04-15,1915-04-24,9,0,0,9,0,0,0,0,0,0,0,0
+1915,American Association,P5254066,Crossin,,Louisville,1915-04-20,1915-04-20,1,0,0,0,0,0,0,0,0,0,0,0
+1915,American Association,P9702747,Cruise,,St. Paul,1915-04-15,1915-04-24,8,0,0,0,0,0,8,8,0,0,0,0
+1915,American Association,P8089506,Daley,,Columbus,1915-04-15,1915-04-24,9,0,0,0,0,3,6,6,0,0,0,0
+1915,American Association,P2800721,Daniels,,Louisville,1915-04-15,1915-04-24,9,0,0,0,0,0,9,0,0,9,0,0
+1915,American Association,P1259690,Davis,,Columbus,1915-04-22,1915-04-22,1,1,0,0,0,0,0,0,0,0,0,1
+1915,American Association,P6236489,Delhi,,Kansas City,1915-04-17,1915-04-24,4,3,0,0,0,0,0,0,0,0,0,3
+1915,American Association,P8803861,Derrick,,Louisville,1915-04-15,1915-04-24,9,0,0,0,0,9,0,0,0,0,0,0
+1915,American Association,P9011776,Devogt,,Cleveland,1915-04-15,1915-04-24,5,0,0,0,0,0,0,0,0,0,4,0
+1915,American Association,P2401489,Dillinger,,Cleveland,1915-04-17,1915-04-23,3,3,0,0,0,0,0,0,0,0,0,3
+1915,American Association,P4550152,Dougherty,,Milwaukee,1915-04-18,1915-04-22,2,2,0,0,0,0,0,0,0,0,0,2
+1915,American Association,P9022212,Dressen,,St. Paul,1915-04-15,1915-04-22,8,0,8,0,0,0,0,0,0,0,0,0
+1915,American Association,P5157252,Dyer,,St. Paul,1915-04-15,1915-04-24,10,0,0,0,10,0,0,0,0,0,0,0
+1915,American Association,P4378455,Eayrs,,Columbus,1915-04-15,1915-04-24,3,2,0,0,0,0,0,0,0,0,0,2
+1915,American Association,P5573546,Ellis,,Louisville,1915-04-17,1915-04-24,3,3,0,0,0,0,0,0,0,0,0,3
+1915,American Association,P5914004,Evans,,Cleveland,1915-04-17,1915-04-24,6,0,0,1,5,0,0,0,0,0,0,0
+1915,American Association,P9707803,Ferry,,Columbus,1915-04-19,1915-04-24,2,2,0,0,0,0,0,0,0,0,0,2
+1915,American Association,P8960527,Fiene,,Minneapolis,1915-04-17,1915-04-17,1,1,0,0,0,0,0,0,0,0,0,1
+1915,American Association,P4667802,Gardner,,Cleveland,1915-04-15,1915-04-24,9,0,0,9,0,0,0,0,0,0,0,0
+1915,American Association,P0255859,Gardner,,St. Paul,1915-04-17,1915-04-24,4,4,0,0,0,0,0,0,0,0,0,4
+1915,American Association,P0368395,Geibel,,Kansas City,1915-04-15,1915-04-18,3,0,0,0,0,0,0,0,0,0,3,0
+1915,American Association,P8387260,George,,Kansas City,1915-04-15,1915-04-21,3,3,0,0,0,0,0,0,0,0,0,3
+1915,American Association,P6474258,Gharrity,,Minneapolis,1915-04-15,1915-04-23,6,0,0,0,0,0,0,0,0,0,3,0
+1915,American Association,P5466165,Gipe,,St. Paul,1915-04-17,1915-04-24,3,3,0,0,0,0,0,0,0,0,0,3
+1915,American Association,P2487576,Gooch,,Minneapolis,1915-04-15,1915-04-21,4,0,0,0,0,0,4,0,0,4,0,0
+1915,American Association,P9842605,Gossett,,Indianapolis,1915-04-15,1915-04-24,8,0,0,0,0,0,0,0,0,0,7,0
+1915,American Association,P1607544,Greisel,,Milwaukee,1915-04-17,1915-04-20,2,2,0,0,0,0,0,0,0,0,0,2
+1915,American Association,P2034065,Hall,,St. Paul,1915-04-16,1915-04-24,2,1,0,0,0,0,0,0,0,0,0,1
+1915,American Association,P1486356,Henning,,Milwaukee,1915-04-16,1915-04-24,7,0,1,0,0,0,3,3,0,0,0,0
+1915,American Association,P4061328,Hillyard,,Cleveland,1915-04-15,1915-04-17,3,0,0,0,0,0,2,0,0,2,0,0
+1915,American Association,P6298242,Hinch'n,,Kansas City,1915-04-15,1915-04-15,1,0,0,1,0,0,0,0,0,0,0,0
+1915,American Association,P8273257,Hinchman,,Kansas City,1915-04-16,1915-04-24,7,0,0,7,0,0,0,0,0,0,0,0
+1915,American Association,P5658976,Hogue,,Minneapolis,1915-04-18,1915-04-23,2,2,0,0,0,0,0,0,0,0,0,2
+1915,American Association,P2121354,Holland,,Minneapolis,1915-04-23,1915-04-23,1,0,0,0,0,0,0,0,0,0,0,0
+1915,American Association,P8955098,Hovlik,,Milwaukee,1915-04-15,1915-04-19,2,2,0,0,0,0,0,0,0,0,0,2
+1915,American Association,P6737745,Hughes,,Milwaukee,1915-04-15,1915-04-24,8,0,0,0,0,0,0,0,0,0,8,0
+1915,American Association,P5471991,Ingersoll,,Minneapolis,1915-04-16,1915-04-21,3,3,0,0,0,0,0,0,0,0,0,3
+1915,American Association,P0738087,James,,Cleveland,1915-04-15,1915-04-24,3,3,0,0,0,0,0,0,0,0,0,3
+1915,American Association,P2769796,Jennings,,Minneapolis,1915-04-16,1915-04-24,8,0,0,0,0,8,0,0,0,0,0,0
+1915,American Association,P0891477,Johns,,Columbus,1915-04-15,1915-04-24,8,0,0,0,3,5,0,0,0,0,0,0
+1915,American Association,P7426962,Johnson,,Columbus,1915-04-21,1915-04-21,1,0,0,0,0,1,0,0,0,0,0,0
+1915,American Association,P1613519,Johnson,,St. Paul,1915-04-15,1915-04-24,10,0,0,0,0,0,0,0,0,0,10,0
+1915,American Association,P3812204,Jones,,Milwaukee,1915-04-15,1915-04-24,9,0,9,0,0,0,0,0,0,0,0,0
+1915,American Association,P4726414,Kahler,,Cleveland,1915-04-18,1915-04-18,1,1,0,0,0,0,0,0,0,0,0,1
+1915,American Association,P8248748,Karger,,St. Paul,1915-04-16,1915-04-16,1,1,0,0,0,0,0,0,0,0,0,1
+1915,American Association,P4156234,Kelley,,Indianapolis,1915-04-21,1915-04-21,1,0,0,0,0,0,1,0,1,0,0,0
+1915,American Association,P0253797,Kelly,,Indianapolis,1915-04-15,1915-04-24,8,0,0,0,0,0,8,0,8,0,0,0
+1915,American Association,P4514669,Kirke,,Cleveland,1915-04-15,1915-04-24,9,0,9,0,0,0,0,0,0,0,0,0
+1915,American Association,P6303836,Knight,,Cleveland,1915-04-15,1915-04-24,9,0,0,0,0,9,0,0,0,0,0,0
+1915,American Association,P5768193,Laross,,Milwaukee,1915-04-15,1915-04-24,6,0,0,0,0,0,6,5,0,1,0,0
+1915,American Association,P3553941,Larsen,,St. Paul,1915-04-22,1915-04-22,1,1,0,0,0,0,0,0,0,0,0,1
+1915,American Association,P8211268,Lelivelt,,Kansas City,1915-04-15,1915-04-24,8,0,8,0,0,0,0,0,0,0,0,0
+1915,American Association,P7024920,Leonard,,Columbus,1915-04-24,1915-04-24,1,0,0,0,1,0,0,0,0,0,0,0
+1915,American Association,P7147089,Lewis,,Milwaukee,1915-04-15,1915-04-24,9,0,0,9,0,0,0,0,0,0,0,0
+1915,American Association,P3810767,Marks,,Louisville,1915-04-18,1915-04-24,3,3,0,0,0,0,0,0,0,0,0,3
+1915,American Association,P8698212,Marshall,,St. Paul,1915-04-17,1915-04-24,3,0,0,0,0,0,0,0,0,0,3,0
+1915,American Association,P1989627,Martin,,St. Paul,1915-04-15,1915-04-24,10,0,0,0,0,10,0,0,0,0,0,0
+1915,American Association,P4905050,Massey,,Minneapolis,1915-04-15,1915-04-24,9,0,0,0,0,0,9,8,0,1,0,0
+1915,American Association,P8140528,Mattick,,Kansas City,1915-04-15,1915-04-24,8,0,0,0,0,0,8,8,0,0,0,0
+1915,American Association,P1195225,McArthur,,Columbus,1915-04-18,1915-04-18,1,1,0,0,0,0,0,0,0,0,0,1
+1915,American Association,P1712209,McMillan,,Indianapolis,1915-04-15,1915-04-24,9,0,0,0,0,9,0,0,0,0,0,0
+1915,American Association,P6712071,Mensor,,Columbus,1915-04-15,1915-04-24,5,0,0,0,0,0,5,3,2,0,0,0
+1915,American Association,P9977122,Merz,,Indianapolis,1915-04-17,1915-04-22,3,3,0,0,0,0,0,0,0,0,0,3
+1915,American Association,P1064036,Metz,,Indianapolis,1915-04-15,1915-04-24,9,0,9,0,0,0,0,0,0,0,0,0
+1915,American Association,P4018513,Middleton,,Louisville,1915-04-16,1915-04-23,2,2,0,0,0,0,0,0,0,0,0,2
+1915,American Association,P3735435,Midkiff,,Louisville,1915-04-15,1915-04-24,9,0,0,1,8,0,0,0,0,0,0,0
+1915,American Association,P4031864,Miller,,Columbus,1915-04-15,1915-04-22,8,0,8,0,0,0,0,0,0,0,0,0
+1915,American Association,P6784214,Miller,,Louisville,1915-04-20,1915-04-21,2,0,0,0,0,0,0,0,0,0,0,0
+1915,American Association,P8218421,Miller,,St. Paul,1915-04-18,1915-04-24,7,0,0,0,0,0,7,0,0,7,0,0
+1915,American Association,P4230822,Miller,C.,St. Paul,1915-04-15,1915-04-17,3,0,0,0,0,0,3,0,0,3,0,0
+1915,American Association,P0258825,Miller,E.,Louisville,1915-04-24,1915-04-24,1,0,0,1,0,0,0,0,0,0,0,0
+1915,American Association,P9011000,Miller,R.,Columbus,1915-04-24,1915-04-24,1,0,1,0,0,0,0,0,0,0,0,0
+1915,American Association,P7651254,Mitchell,,Indianapolis,1915-04-22,1915-04-22,1,0,0,0,0,0,0,0,0,0,0,0
+1915,American Association,P2841498,Mitchell,,Minneapolis,1915-04-15,1915-04-23,3,0,0,0,1,0,0,0,0,0,0,0
+1915,American Association,P5840165,Moore,,Kansas City,1915-04-16,1915-04-24,6,0,0,0,0,0,0,0,0,0,6,0
+1915,American Association,P4944363,Niles,,St. Paul,1915-04-15,1915-04-24,10,0,0,10,0,0,0,0,0,0,0,0
+1915,American Association,P2648515,Nixon,,Cleveland,1915-04-15,1915-04-24,9,0,0,0,0,0,9,0,2,7,0,0
+1915,American Association,P1869723,North,,St. Paul,1915-04-16,1915-04-22,3,3,0,0,0,0,0,0,0,0,0,3
+1915,American Association,P5312493,Northrop,,Louisville,1915-04-15,1915-04-22,3,3,0,0,0,0,0,0,0,0,0,3
+1915,American Association,P3521260,O'Toole,,Columbus,1915-04-18,1915-04-18,1,1,0,0,0,0,0,0,0,0,0,1
+1915,American Association,P4815812,Osborn,,Louisville,1915-04-15,1915-04-24,8,0,0,0,0,0,8,0,8,0,0,0
+1915,American Association,P2662031,Osborne,,Cleveland,1915-04-22,1915-04-22,1,1,0,0,0,0,0,0,0,0,0,1
+1915,American Association,P9363753,Osborne,,Louisville,1915-04-16,1915-04-16,1,0,0,0,0,0,1,0,1,0,0,0
+1915,American Association,P1627366,Paddock,,St. Paul,1915-04-16,1915-04-22,4,0,0,0,0,0,3,3,0,0,0,0
+1915,American Association,P7222595,Perry,,Louisville,1915-04-21,1915-04-21,1,1,0,0,0,0,0,0,0,0,0,1
+1915,American Association,P2006597,Pezold,,Cleveland,1915-04-15,1915-04-24,4,0,0,0,0,0,0,0,0,0,0,0
+1915,American Association,P3813883,Platte,,Louisville,1915-04-15,1915-04-24,9,0,0,0,0,0,9,9,0,0,0,0
+1915,American Association,P6405931,Randall,,Milwaukee,1915-04-15,1915-04-24,9,0,0,0,0,0,9,1,0,8,0,0
+1915,American Association,P2316050,Rath,,Kansas City,1915-04-15,1915-04-24,8,0,0,0,8,0,0,0,0,0,0,0
+1915,American Association,P6486641,Reagan,,Kansas City,1915-04-15,1915-04-18,2,2,0,0,0,0,0,0,0,0,0,2
+1915,American Association,P0747802,Reilley,,Indianapolis,1915-04-16,1915-04-22,6,0,0,0,0,0,6,6,0,0,0,0
+1915,American Association,P1968693,Reilly,,Indianapolis,1915-04-15,1915-04-24,3,0,0,0,0,0,3,3,0,0,0,0
+1915,American Association,P2654596,Riggert,,St. Paul,1915-04-15,1915-04-24,10,0,0,0,0,0,10,0,10,0,0,0
+1915,American Association,P5703890,Robbins,,Kansas City,1915-04-18,1915-04-18,1,1,0,0,0,0,0,0,0,0,0,1
+1915,American Association,P0609041,Robertson,,Columbus,1915-04-16,1915-04-24,4,0,0,0,0,0,0,0,0,0,4,0
+1915,American Association,P7854387,Sanders,,Kansas City,1915-04-18,1915-04-21,2,2,0,0,0,0,0,0,0,0,0,2
+1915,American Association,P4181471,Scanlon,,Louisville,1915-04-20,1915-04-22,2,2,0,0,0,0,0,0,0,0,0,2
+1915,American Association,P3546381,Schardt,,Indianapolis,1915-04-18,1915-04-22,2,2,0,0,0,0,0,0,0,0,0,2
+1915,American Association,P7467049,Scheneberg,,Columbus,1915-04-16,1915-04-21,2,2,0,0,0,0,0,0,0,0,0,2
+1915,American Association,P2038899,Shackelford,,Milwaukee,1915-04-20,1915-04-24,2,2,0,0,0,0,0,0,0,0,0,2
+1915,American Association,P0185776,Shakelford,,Milwaukee,1915-04-16,1915-04-16,1,1,0,0,0,0,0,0,0,0,0,1
+1915,American Association,P9139440,Shelton,,Columbus,1915-04-15,1915-04-22,8,0,0,0,0,0,8,0,8,0,0,0
+1915,American Association,P4161270,Shovlin,,Columbus,1915-04-15,1915-04-24,9,0,0,3,6,0,0,0,0,0,0,0
+1915,American Association,P6741155,Slapnicka,,Milwaukee,1915-04-17,1915-04-21,2,2,0,0,0,0,0,0,0,0,0,2
+1915,American Association,P4544568,Slight,,Milwaukee,1915-04-18,1915-04-21,4,0,0,0,0,0,0,0,0,0,0,0
+1915,American Association,P5837741,Smith,,Minneapolis,1915-04-16,1915-04-24,8,0,0,0,8,0,0,0,0,0,0,0
+1915,American Association,P5873817,South'h,,Cleveland,1915-04-18,1915-04-18,1,0,0,0,0,0,1,1,0,0,0,0
+1915,American Association,P0653936,Southw'h,,Cleveland,1915-04-15,1915-04-17,3,0,0,0,0,0,3,3,0,0,0,0
+1915,American Association,P6290654,Southworth,,Cleveland,1915-04-20,1915-04-23,4,0,0,0,0,0,4,4,0,0,0,0
+1915,American Association,P3718972,Stansb'y,,Louisville,1915-04-16,1915-04-16,1,0,0,1,0,0,0,0,0,0,0,0
+1915,American Association,P1898524,Stansbury,,Louisville,1915-04-15,1915-04-23,7,0,0,7,0,0,0,0,0,0,0,0
+1915,American Association,P5556146,Steele,,St. Paul,1915-04-15,1915-04-21,3,3,0,0,0,0,0,0,0,0,0,3
+1915,American Association,P9350710,Sullivan,,Minneapolis,1915-04-15,1915-04-24,7,0,0,0,0,0,0,0,0,0,7,0
+1915,American Association,P8186348,Taylor,,Louisville,1915-04-21,1915-04-24,2,2,0,0,0,0,0,0,0,0,0,2
+1915,American Association,P9021778,Tipple,,Indianapolis,1915-04-17,1915-04-17,1,1,0,0,0,0,0,0,0,0,0,1
+1915,American Association,P4645244,Titus,,Kansas City,1915-04-15,1915-04-24,8,0,0,0,0,0,8,0,1,7,0,0
+1915,American Association,P2298611,Turner,,Columbus,1915-04-16,1915-04-21,3,3,0,0,0,0,0,0,0,0,0,3
+1915,American Association,P0056804,Weinberg,,Louisville,1915-04-15,1915-04-24,9,0,9,0,0,0,0,0,0,0,0,0
+1915,American Association,P4043953,Wilie,,Cleveland,1915-04-17,1915-04-24,6,0,0,0,0,0,6,0,6,0,0,0
+1915,American Association,P2301758,Willey,,Minneapolis,1915-04-19,1915-04-19,1,1,0,0,0,0,0,0,0,0,0,1
+1915,American Association,P8291449,Williams,,Cleveland,1915-04-18,1915-04-18,1,0,0,0,0,0,1,0,1,0,0,0
+1915,American Association,P6194666,Williams,,Minneapolis,1915-04-16,1915-04-16,1,0,0,1,0,0,0,0,0,0,0,0
+1915,American Association,P1880818,Williams,,St. Paul,1915-04-15,1915-04-19,2,2,0,0,0,0,0,0,0,0,0,2
+1915,American Association,P3731426,Williams,J.,Minneapolis,1915-04-15,1915-04-24,7,0,0,7,0,0,0,0,0,0,0,0
+1915,American Association,P9242565,Williams,M.,Minneapolis,1915-04-15,1915-04-24,4,4,0,0,0,0,0,0,0,0,0,4
+1915,American Association,P1547890,Williams,R.,St. Paul,1915-04-23,1915-04-23,1,1,0,0,0,0,0,0,0,0,0,1
+1915,American Association,P5178774,Williams [2b],,Minneapolis,1915-04-18,1915-04-18,1,0,0,1,0,0,0,0,0,0,0,0
+1915,American Association,P1980402,Williams [p],,Minneapolis,1915-04-18,1915-04-18,1,1,0,0,0,0,0,0,0,0,0,1
+1915,American Association,P8278488,Willis,,Indianapolis,1915-04-15,1915-04-24,3,3,0,0,0,0,0,0,0,0,0,3
+1915,American Association,P8790404,Wilson,,Minneapolis,1915-04-23,1915-04-23,1,0,0,0,0,0,0,0,0,0,1,0
+1915,American Association,P4618987,Wortman,,Kansas City,1915-04-15,1915-04-24,8,0,0,0,0,8,0,0,0,0,0,0
+1915,American Association,P3632895,Young,,Milwaukee,1915-04-16,1915-04-22,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Southern Association,P4669138,Allen,,Atlanta,1915-04-15,1915-04-19,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P9350854,Allison,,Memphis,1915-04-13,1915-04-23,9,0,0,0,0,0,9,0,9,0,0,0
+1915,Southern Association,P4610929,Andreen,,Memphis,1915-04-13,1915-04-23,10,0,0,0,0,0,0,0,0,0,9,0
+1915,Southern Association,P3733860,Bagby,,New Orleans,1915-04-14,1915-04-19,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P9742284,Baker,,Nashville,1915-04-13,1915-04-23,11,0,0,11,0,0,0,0,0,0,0,0
+1915,Southern Association,P2225054,Baumg'r,,Mobile,1915-04-13,1915-04-19,6,0,0,0,5,1,0,0,0,0,0,0
+1915,Southern Association,P8011359,Baumga'r,,Mobile,1915-04-21,1915-04-21,1,0,0,0,1,0,0,0,0,0,0,0
+1915,Southern Association,P5972065,Baumgardner,,Mobile,1915-04-14,1915-04-22,3,0,0,0,3,0,0,0,0,0,0,0
+1915,Southern Association,P9888212,Beck,,New Orleans,1915-04-13,1915-04-22,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Southern Association,P5282110,Berger,,Nashville,1915-04-13,1915-04-19,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P8521712,Bernhard,,Chattanooga,1915-04-17,1915-04-22,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P9383436,Betts,,Chattanooga,1915-04-16,1915-04-22,3,0,0,0,0,0,0,0,0,0,2,0
+1915,Southern Association,P7838083,Bisland,,Atlanta,1915-04-13,1915-04-23,11,0,0,0,0,11,0,0,0,0,0,0
+1915,Southern Association,P5350748,Black,,Birmingham,1915-04-16,1915-04-21,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Southern Association,P0307767,Bluhm,,New Orleans,1915-04-13,1915-04-22,10,0,10,0,0,0,0,0,0,0,0,0
+1915,Southern Association,P5958181,Bowden,,Atlanta,1915-04-13,1915-04-23,11,0,0,0,0,0,11,11,0,0,0,0
+1915,Southern Association,P3672564,Brantigan,,Little Rock,1915-04-13,1915-04-13,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Southern Association,P4234874,Brauti'n,,Little Rock,1915-04-14,1915-04-23,2,0,0,0,2,0,0,0,0,0,0,0
+1915,Southern Association,P5172027,Brautigan,,Little Rock,1915-04-15,1915-04-22,7,0,0,0,2,6,0,0,0,0,0,0
+1915,Southern Association,P0615052,Browning,,Atlanta,1915-04-15,1915-04-23,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P8974557,Buckels,,Memphis,1915-04-15,1915-04-15,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Southern Association,P8211133,Buckles,,Memphis,1915-04-19,1915-04-23,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P1355506,Burke,,Mobile,1915-04-15,1915-04-15,1,0,0,0,0,0,0,0,0,0,0,0
+1915,Southern Association,P8343811,Calhoun,,Mobile,1915-04-13,1915-04-22,7,0,7,0,0,0,0,0,0,0,0,0
+1915,Southern Association,P9134414,Carroll,,Birmingham,1915-04-13,1915-04-19,7,0,7,0,0,0,0,0,0,0,0,0
+1915,Southern Association,P6478544,Caveny,,Chattanooga,1915-04-13,1915-04-23,10,0,0,0,0,10,0,0,0,0,0,0
+1915,Southern Association,P0840524,Clark,,Birmingham,1915-04-16,1915-04-23,8,0,0,8,0,0,0,0,0,0,0,0
+1915,Southern Association,P9439385,Clarke,,Nashville,1915-04-17,1915-04-20,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P7058530,Coombs,,Birmingham,1915-04-13,1915-04-23,7,0,4,3,0,0,0,0,0,0,0,0
+1915,Southern Association,P6857392,Covington,,Mobile,1915-04-16,1915-04-21,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P1846449,Cowan,,Mobile,1915-04-16,1915-04-22,5,0,1,0,1,0,4,1,0,3,0,0
+1915,Southern Association,P8616464,Coyle,,Memphis,1915-04-13,1915-04-23,11,0,0,0,0,0,11,0,0,11,0,0
+1915,Southern Association,P2568923,Coyle,,New Orleans,1915-04-17,1915-04-22,4,0,0,0,0,0,4,1,0,3,0,0
+1915,Southern Association,P0140196,Cruthers,,Memphis,1915-04-13,1915-04-23,11,0,0,11,0,0,0,0,0,0,0,0
+1915,Southern Association,P8714642,Cunningham,,Chattanooga,1915-04-13,1915-04-20,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Southern Association,P4816225,Cunningham,,Mobile,1915-04-15,1915-04-22,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Southern Association,P5113716,Currie,,Chattanooga,1915-04-15,1915-04-16,2,1,0,0,0,0,0,0,0,0,0,1
+1915,Southern Association,P1684616,Daly,,Little Rock,1915-04-13,1915-04-23,10,0,0,0,0,0,10,10,0,0,0,0
+1915,Southern Association,P3257692,Day,,Little Rock,1915-04-14,1915-04-19,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P8536081,Dent,,Atlanta,1915-04-16,1915-04-22,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P4165827,Diamond,,Nashville,1915-04-23,1915-04-23,1,0,0,0,1,0,0,0,0,0,0,0
+1915,Southern Association,P7518821,Dobard,,Mobile,1915-04-13,1915-04-22,10,0,0,0,0,10,0,0,0,0,0,0
+1915,Southern Association,P7539914,Dodge,,Nashville,1915-04-13,1915-04-23,11,0,0,0,11,0,0,0,0,0,0,0
+1915,Southern Association,P6242868,Downey,,Little Rock,1915-04-22,1915-04-23,2,0,0,2,0,0,0,0,0,0,0,0
+1915,Southern Association,P4418714,Dunckel,,Memphis,1915-04-13,1915-04-23,11,0,11,0,0,0,0,0,0,0,0,0
+1915,Southern Association,P1457835,East,,Little Rock,1915-04-13,1915-04-22,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Southern Association,P9543815,Edmon'n,,New Orleans,1915-04-17,1915-04-19,3,0,0,0,0,0,3,0,0,3,0,0
+1915,Southern Association,P8140742,Edmondson,,New Orleans,1915-04-13,1915-04-16,4,0,0,0,0,0,4,0,0,4,0,0
+1915,Southern Association,P3657031,Eibel,,Atlanta,1915-04-13,1915-04-23,11,0,11,0,0,0,0,0,0,0,0,0
+1915,Southern Association,P9748399,Elberfeld,,Chattanooga,1915-04-22,1915-04-22,1,0,0,0,0,0,0,0,0,0,0,0
+1915,Southern Association,P4963306,Ellam,,Birmingham,1915-04-13,1915-04-23,11,0,0,0,0,11,0,0,0,0,0,0
+1915,Southern Association,P1666257,Elwert,,Little Rock,1915-04-13,1915-04-20,4,0,0,0,4,0,0,0,0,0,0,0
+1915,Southern Association,P5866884,Farmer,,Nashville,1915-04-13,1915-04-23,11,0,0,0,0,0,11,0,0,11,0,0
+1915,Southern Association,P3398982,Farrell,,Little Rock,1915-04-13,1915-04-20,8,0,8,0,0,0,0,0,0,0,0,0
+1915,Southern Association,P7097693,Fincher,,Little Rock,1915-04-16,1915-04-20,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P0964904,Flick,,New Orleans,1915-04-19,1915-04-22,3,0,0,3,0,0,0,0,0,0,0,0
+1915,Southern Association,P8324013,Frost,,New Orleans,1915-04-15,1915-04-20,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P4723488,Gibson,,Little Rock,1915-04-13,1915-04-23,10,0,0,0,1,0,0,0,0,0,9,0
+1915,Southern Association,P7709801,Goulait,,Memphis,1915-04-15,1915-04-23,4,3,0,0,0,0,0,0,0,0,0,3
+1915,Southern Association,P2060496,Graff,,Chattanooga,1915-04-13,1915-04-23,10,0,0,0,10,0,0,0,0,0,0,0
+1915,Southern Association,P1761431,Gribben,,Little Rock,1915-04-14,1915-04-14,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Southern Association,P9378602,Gribbens,,Little Rock,1915-04-13,1915-04-17,3,0,0,1,1,1,0,0,0,0,0,0
+1915,Southern Association,P0409862,Grimes,,Birmingham,1915-04-14,1915-04-22,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Southern Association,P3410039,Gudger,,Mobile,1915-04-14,1915-04-19,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P4459257,Hale,,Birmingham,1915-04-14,1915-04-23,5,0,0,0,0,0,0,0,0,0,5,0
+1915,Southern Association,P0503201,Hardgrove,,Birmingham,1915-04-13,1915-04-21,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Southern Association,P0577703,Harding,,Chattanooga,1915-04-14,1915-04-20,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Southern Association,P1237513,Harkins,,Mobile,1915-04-20,1915-04-22,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P3444800,Harper,,Little Rock,1915-04-15,1915-04-15,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Southern Association,P8743283,Harris,,Chattanooga,1915-04-13,1915-04-23,10,0,10,0,0,0,0,0,0,0,0,0
+1915,Southern Association,P8756760,Hayes,,Little Rock,1915-04-15,1915-04-16,2,0,0,0,0,0,0,0,0,0,2,0
+1915,Southern Association,P0491539,Hays,,Little Rock,1915-04-14,1915-04-14,1,0,0,0,0,0,0,0,0,0,0,0
+1915,Southern Association,P4368400,Hemin'y,,Birmingham,1915-04-16,1915-04-23,2,0,0,0,2,0,0,0,0,0,0,0
+1915,Southern Association,P2161015,Heming'y,,Birmingham,1915-04-13,1915-04-13,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Southern Association,P2493128,Hemingway,,Birmingham,1915-04-14,1915-04-22,8,0,0,0,8,0,0,0,0,0,0,0
+1915,Southern Association,P3772833,Hendryx,,New Orleans,1915-04-13,1915-04-22,10,0,0,0,0,0,10,0,10,0,0,0
+1915,Southern Association,P4066789,Hickman,,Chattanooga,1915-04-13,1915-04-20,8,0,0,0,0,0,8,0,7,1,0,0
+1915,Southern Association,P4530980,Hiett,,Atlanta,1915-04-13,1915-04-20,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Southern Association,P1401704,Higgins,,New Orleans,1915-04-13,1915-04-22,10,0,0,0,0,0,0,0,0,0,10,0
+1915,Southern Association,P0438067,Hill,,Chattanooga,1915-04-13,1915-04-22,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Southern Association,P0122174,Hogg,,Mobile,1915-04-13,1915-04-22,4,3,0,0,0,0,1,0,0,1,0,3
+1915,Southern Association,P8069516,Hovlik,,New Orleans,1915-04-22,1915-04-22,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Southern Association,P4306360,Jantzen,,Little Rock,1915-04-13,1915-04-23,10,0,0,0,0,0,10,0,9,1,0,0
+1915,Southern Association,P0035928,Jenkins,,Atlanta,1915-04-14,1915-04-21,6,0,0,0,0,0,0,0,0,0,6,0
+1915,Southern Association,P8635838,Johnson,,Birmingham,1915-04-14,1915-04-20,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P4027517,Johnston,,Chattanooga,1915-04-13,1915-04-23,10,0,0,0,0,0,10,10,0,0,0,0
+1915,Southern Association,P3333363,Keeley,,Memphis,1915-04-13,1915-04-23,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P0667952,King,,Nashville,1915-04-13,1915-04-23,11,0,0,0,0,0,11,0,11,0,0,0
+1915,Southern Association,P3856131,Kitchens,,Chattanooga,1915-04-13,1915-04-23,10,0,0,0,0,0,0,0,0,0,8,0
+1915,Southern Association,P2039150,Knaupp,,New Orleans,1915-04-13,1915-04-22,9,0,0,0,0,8,0,0,0,0,1,0
+1915,Southern Association,P3913147,Kroh,,Nashville,1915-04-14,1915-04-20,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P8624508,Lee,,Atlanta,1915-04-22,1915-04-23,2,0,0,0,0,0,2,0,0,2,0,0
+1915,Southern Association,P3754770,Leverett,,Nashville,1915-04-16,1915-04-16,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Southern Association,P4511063,Leverette,,Nashville,1915-04-22,1915-04-22,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Southern Association,P0263112,Lindsay,,Memphis,1915-04-13,1915-04-23,11,0,0,0,0,11,0,0,0,0,0,0
+1915,Southern Association,P8541011,Lively,,Little Rock,1915-04-16,1915-04-16,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Southern Association,P2613317,Lord,,Memphis,1915-04-13,1915-04-23,11,0,0,0,0,0,10,10,0,0,0,0
+1915,Southern Association,P2107935,Luhrsen,,Little Rock,1915-04-15,1915-04-15,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Southern Association,P5912134,Luhrzen,,Little Rock,1915-04-23,1915-04-23,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Southern Association,P9480446,Magee,,Birmingham,1915-04-13,1915-04-23,9,0,0,0,0,0,8,0,8,0,0,0
+1915,Southern Association,P1902098,Manes,,Little Rock,1915-04-14,1915-04-23,9,0,2,7,0,0,0,0,0,0,0,0
+1915,Southern Association,P5307630,Manning,,Atlanta,1915-04-13,1915-04-23,8,2,0,0,0,0,5,0,0,5,0,2
+1915,Southern Association,P2563304,Marshall,,Memphis,1915-04-15,1915-04-19,4,0,0,0,0,0,0,0,0,0,3,0
+1915,Southern Association,P1430357,McBride,,Birmingham,1915-04-13,1915-04-23,11,0,0,0,0,0,11,11,0,0,0,0
+1915,Southern Association,P3785442,McCabe,,Nashville,1915-04-13,1915-04-23,11,0,0,0,0,0,11,11,0,0,0,0
+1915,Southern Association,P2572272,McCor'k,,Chattanooga,1915-04-15,1915-04-19,3,0,0,0,0,0,3,0,0,3,0,0
+1915,Southern Association,P0848989,McCorm'k,,Chattanooga,1915-04-13,1915-04-13,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Southern Association,P9158562,McCormick,,Chattanooga,1915-04-14,1915-04-23,6,0,0,0,0,0,6,1,1,4,0,0
+1915,Southern Association,P1825786,McDer't,,Memphis,1915-04-14,1915-04-17,3,0,0,0,3,0,0,0,0,0,0,0
+1915,Southern Association,P7631875,McDermott,,Memphis,1915-04-13,1915-04-23,8,0,0,0,8,0,0,0,0,0,0,0
+1915,Southern Association,P8480731,McLeod,,Nashville,1915-04-18,1915-04-23,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P9601619,Melter,,Chattanooga,1915-04-16,1915-04-19,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P4867355,Merritt,,Memphis,1915-04-14,1915-04-21,4,4,0,0,0,0,0,0,0,0,0,4
+1915,Southern Association,P4749566,Miller,,Mobile,1915-04-13,1915-04-22,10,0,0,0,0,0,10,0,10,0,0,0
+1915,Southern Association,P6971683,Moran,,Atlanta,1915-04-13,1915-04-23,11,0,0,0,0,0,11,0,11,0,0,0
+1915,Southern Association,P0144379,Moran,,Little Rock,1915-04-13,1915-04-18,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P5217859,Morgan,,New Orleans,1915-04-13,1915-04-22,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Southern Association,P6332909,Morrison,,Memphis,1915-04-16,1915-04-20,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P5640055,Niederkorn,,Atlanta,1915-04-16,1915-04-18,3,0,0,0,0,0,0,0,0,0,1,0
+1915,Southern Association,P9592791,Northen,,Mobile,1915-04-13,1915-04-22,10,0,3,0,0,0,7,0,0,7,0,0
+1915,Southern Association,P7055076,Olson,,Mobile,1915-04-22,1915-04-22,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Southern Association,P6025202,Paulet,,Nashville,1915-04-15,1915-04-23,8,0,8,0,0,0,0,0,0,0,0,0
+1915,Southern Association,P6743595,Paulette,,Nashville,1915-04-13,1915-04-17,3,0,3,0,0,0,0,0,0,0,0,0
+1915,Southern Association,P4165982,Pearson,,Atlanta,1915-04-14,1915-04-20,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P6694379,Perry,,Mobile,1915-04-13,1915-04-22,10,0,0,10,0,0,0,0,0,0,0,0
+1915,Southern Association,P1970752,Potts,,Atlanta,1915-04-13,1915-04-15,3,0,0,3,0,0,0,0,0,0,0,0
+1915,Southern Association,P1418540,Powell,,Mobile,1915-04-13,1915-04-22,10,0,0,0,0,0,10,10,0,0,0,0
+1915,Southern Association,P9741392,Reilly,,New Orleans,1915-04-13,1915-04-22,10,0,0,8,0,3,0,0,0,0,0,0
+1915,Southern Association,P3675755,Roberts,,Chattanooga,1915-04-18,1915-04-23,4,0,0,0,0,0,3,0,3,0,0,0
+1915,Southern Association,P8791677,Robertson,,Birmingham,1915-04-15,1915-04-23,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Southern Association,P1335954,Robertson,,Memphis,1915-04-17,1915-04-17,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Southern Association,P6338041,Rogers,,Nashville,1915-04-15,1915-04-21,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P6923313,Ross,,Chattanooga,1915-04-15,1915-04-23,4,3,0,0,0,0,0,0,0,0,0,3
+1915,Southern Association,P5593820,Roth,,Birmingham,1915-04-13,1915-04-20,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Southern Association,P0787259,Roth,,Little Rock,1915-04-15,1915-04-15,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Southern Association,P4513661,Rumler,,Atlanta,1915-04-13,1915-04-23,9,0,0,0,0,0,4,0,0,4,5,0
+1915,Southern Association,P9829804,Schlei,,Memphis,1915-04-20,1915-04-20,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Southern Association,P7295493,Schmidt,,Mobile,1915-04-13,1915-04-22,10,0,0,0,0,0,0,0,0,0,10,0
+1915,Southern Association,P0644785,Shaw,,Little Rock,1915-04-13,1915-04-23,10,0,0,0,0,0,10,0,0,10,0,0
+1915,Southern Association,P7685748,Shirley,,Memphis,1915-04-16,1915-04-16,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Southern Association,P0892988,Sloan,,Birmingham,1915-04-13,1915-04-23,11,0,0,0,0,0,11,0,0,11,0,0
+1915,Southern Association,P6950220,Smith,,Nashville,1915-04-13,1915-04-23,7,0,0,0,0,0,0,0,0,0,6,0
+1915,Southern Association,P7691588,Smith,,New Orleans,1915-04-13,1915-04-21,4,4,0,0,0,0,0,0,0,0,0,4
+1915,Southern Association,P8488748,Stark,,Nashville,1915-04-13,1915-04-23,11,0,0,0,0,11,0,0,0,0,0,0
+1915,Southern Association,P9339638,Starr,,Chattanooga,1915-04-13,1915-04-23,10,0,0,10,0,0,0,0,0,0,0,0
+1915,Southern Association,P2991337,Stewart,,Birmingham,1915-04-14,1915-04-22,6,0,0,0,0,0,3,0,3,0,0,0
+1915,Southern Association,P8759550,Street,,Nashville,1915-04-13,1915-04-20,6,0,0,0,0,0,0,0,0,0,6,0
+1915,Southern Association,P4642768,Sylvester,,New Orleans,1915-04-13,1915-04-22,10,0,0,0,0,0,10,10,0,0,0,0
+1915,Southern Association,P4342517,Tesch,,Little Rock,1915-04-22,1915-04-23,2,0,0,0,0,2,0,0,0,0,0,0
+1915,Southern Association,P5921675,Thomas,,New Orleans,1915-04-13,1915-04-22,10,0,0,0,10,0,0,0,0,0,0,0
+1915,Southern Association,P2273022,Thompson,,Atlanta,1915-04-16,1915-04-23,4,4,0,0,0,0,0,0,0,0,0,4
+1915,Southern Association,P4164267,Townsend,,Mobile,1915-04-15,1915-04-18,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P9820201,Tullos,,Atlanta,1915-04-13,1915-04-23,11,0,0,0,11,0,0,0,0,0,0,0
+1915,Southern Association,P3504637,Waldron,,Atlanta,1915-04-14,1915-04-14,1,0,0,0,0,0,0,0,0,0,0,0
+1915,Southern Association,P6409816,Wallace,,Birmingham,1915-04-13,1915-04-22,7,0,1,0,0,0,0,0,0,0,7,0
+1915,Southern Association,P8890665,Weaver,,New Orleans,1915-04-16,1915-04-18,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Southern Association,P5699417,Williams,C.,Atlanta,1915-04-18,1915-04-18,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Southern Association,P8522853,Williams,O.,Atlanta,1915-04-18,1915-04-18,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Southern Association,P9595252,Williams [2b],,Atlanta,1915-04-16,1915-04-23,7,0,0,7,0,0,0,0,0,0,0,0
+1915,Southern Association,P1974352,Williams [p],,Atlanta,1915-04-14,1915-04-14,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Southern Association,P5785042,Woodr'ff,,Memphis,1915-04-23,1915-04-23,1,0,0,0,1,0,0,0,0,0,0,0
+1915,Southern Association,P6476768,Woodruff,,Memphis,1915-04-15,1915-04-20,3,0,0,0,0,0,3,1,2,0,0,0
