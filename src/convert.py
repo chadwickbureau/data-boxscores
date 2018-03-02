@@ -337,10 +337,10 @@ def compile_people(source, playing, games):
     #                              axis=1)
 
     df['person.ref'] = df.apply(lambda x:
-                                hash_djb2(",".join(source +
-                                                   x[['year', 'league',
-                                                     'name.last', 'name.first',
-                                                     'club.name']])),
+                                hash_djb2(source + "," +
+                                          ",".join(x[['year', 'league',
+                                                      'name.last', 'name.first',
+                                                      'club.name']])),
                                 axis=1)
     
     df.rename(inplace=True,
