@@ -6,6 +6,13 @@ import pandas as pd
 
 import fuzzy
 
+def hash_djb2(s):
+    hash = 5381
+    for x in s:
+        hash = (( hash << 5) + hash) + ord(x)
+    return "P" + ("%d" % hash)[-7:]
+
+
 class Game(object):
     _subskeys = [ "*", "+", "^", "&" ]
     # "DI" is used sporadically in Winnipeg paper in 1915 - assuming it is RBI
@@ -178,7 +185,7 @@ class Game(object):
                           "B_SH", "B_HP",
                           "B_SH", "B_SF", "B_SB",
                           "B_LOB", "B_ROE",
-                          "P_IP", "P_R", "P_H", "P_HP", "P_BB", "P_SO",
+                          "P_IP", "P_R", "P_ER", "P_H", "P_HP", "P_BB", "P_SO",
                           "P_WP", "P_BK",
                           "F_PB" ]:
                 if value != "":
@@ -242,7 +249,8 @@ def compile_playing(source, games, gamelist):
                 'B_AB', 'B_R', 'B_ER', 'B_H', 'B_2B', 'B_3B', 'B_HR', 'B_RBI',
                 'B_BB', 'B_SO',
                 'B_HP', 'B_SH', 'B_SF', 'B_SB', 'B_LOB', 'B_ROE',
-                'P_IP', 'P_R', 'P_H', 'P_BB', 'P_SO', 'P_HP', 'P_WP', 'P_BK',
+                'P_IP', 'P_R', 'P_ER', 'P_H', 
+                'P_BB', 'P_SO', 'P_HP', 'P_WP', 'P_BK',
                 'F_PO', 'F_A', 'F_E', 'F_DP', 'F_TP', 'F_PB' ]
     for col in columns:
         if col not in df:
@@ -321,12 +329,19 @@ def compile_people(source, playing, games):
                   left_index=True, right_index=True)
     df.reset_index(inplace=True)
 
-    df['metaphone'] = df['name.last'].apply(lambda x: fuzzy.DMetaphone()(x.split("[")[0])[0].ljust(4, 'Z'))
-    df['metaseq'] = df.groupby([ 'year', 'league', 'metaphone' ]).cumcount() + 1
-    df['metacount'] = df.groupby([ 'year', 'league', 'metaphone' ])['metaseq'].transform('count')
-    df['person.ref'] = df.apply(lambda x: "%s%02d%02d" %
-                                  (x.metaphone, x.metaseq, x.metacount),
-                                  axis=1)
+    #df['metaphone'] = df['name.last'].apply(lambda x: fuzzy.DMetaphone()(x.split("[")[0])[0].ljust(4, 'Z'))
+    #df['metaseq'] = df.groupby([ 'year', 'league', 'metaphone' ]).cumcount() + 1
+    #df['metacount'] = df.groupby([ 'year', 'league', 'metaphone' ])['metaseq'].transform('count')
+    #df['person.ref'] = df.apply(lambda x: "%s%02d%02d" %
+    #                              (x.metaphone, x.metaseq, x.metacount),
+    #                              axis=1)
+
+    df['person.ref'] = df.apply(lambda x:
+                                hash_djb2(",".join(x[['year', 'league',
+                                                     'name.last', 'name.first',
+                                                     'club.name']])),
+                                axis=1)
+    
     df.rename(inplace=True,
               columns={ 'name.last':  'person.name.last',
                         'name.first': 'person.name.given',
