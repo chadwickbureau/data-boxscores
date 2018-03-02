@@ -1,524 +1,524 @@
 league.year,league.name,person.ref,person.name.last,person.name.given,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G
-1911,Central League,P4519433,Alberts,,Fort Wayne,1911-04-28,1911-09-06,28,27,0,0,0,0,1,1,0,0,0,27
-1911,Central League,P0279043,Alberts,,Terre Haute,1911-04-26,1911-09-06,41,34,0,0,0,0,3,2,0,1,0,34
-1911,Central League,P1629089,Allen,,Grand Rapids I,1911-06-22,1911-06-22,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P1897631,Asher,,Dayton,1911-04-30,1911-07-19,19,18,0,0,0,0,0,0,0,0,0,18
-1911,Central League,P5698321,Asher,,Grand Rapids II,1911-07-30,1911-07-30,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P8010440,Asher,Ed,Dayton,1911-04-27,1911-04-27,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P1467922,Bailey,,Fort Wayne,1911-05-01,1911-09-04,68,0,21,0,0,0,0,0,0,0,37,0
-1911,Central League,P8993329,Bark'l,,Grand Rapids II,1911-08-17,1911-08-17,1,0,0,0,1,0,1,0,0,1,0,0
-1911,Central League,P1297385,Bark'l,,Terre Haute,1911-06-13,1911-07-01,3,1,0,1,1,0,2,1,2,0,0,1
-1911,Central League,P8943720,Barkw'l,,Grand Rapids II,1911-08-24,1911-08-24,1,0,0,0,1,0,0,0,0,0,0,0
-1911,Central League,P7047456,Barkw'l,,Terre Haute,1911-05-24,1911-06-29,3,0,0,0,2,0,1,0,1,0,0,0
-1911,Central League,P4846898,Barkwell,,Grand Rapids II,1911-08-11,1911-09-10,29,0,0,0,18,0,11,1,0,10,0,0
-1911,Central League,P9972074,Barkwell,,Terre Haute,1911-04-26,1911-08-10,95,1,0,43,31,18,3,0,3,0,0,1
-1911,Central League,P8768234,Barrett,,Terre Haute,1911-06-07,1911-06-08,4,0,0,0,0,0,4,0,0,4,0,0
-1911,Central League,P5378949,Bates,,Terre Haute,1911-04-26,1911-09-09,102,0,0,0,0,0,101,1,6,95,0,0
-1911,Central League,P2845109,Bates,B.,Terre Haute,1911-07-08,1911-07-08,1,0,0,0,0,0,1,0,0,1,0,0
-1911,Central League,P3524539,Beasley,,Terre Haute,1911-04-30,1911-07-01,22,22,0,0,0,0,0,0,0,0,0,22
-1911,Central League,P9991001,Beatty,,Wheeling,1911-04-27,1911-09-03,37,35,0,0,0,0,2,0,0,2,0,35
-1911,Central League,P4318763,Beers,,Zanesville,1911-05-03,1911-05-27,6,6,0,0,0,0,0,0,0,0,0,6
-1911,Central League,P3303450,Beesly,,Terre Haute,1911-05-14,1911-05-14,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P8875380,Bell,,Grand Rapids I,1911-06-20,1911-06-23,3,0,0,0,0,0,2,0,0,2,2,0
-1911,Central League,P2603717,Bemis,,Grand Rapids I,1911-05-10,1911-06-27,11,11,0,0,0,0,0,0,0,0,0,11
-1911,Central League,P1260597,Bemis,,Newark,1911-07-01,1911-09-05,12,12,0,0,0,0,0,0,0,0,0,12
-1911,Central League,P2562833,Benson,,Dayton,1911-04-26,1911-09-10,136,0,0,133,0,0,2,0,1,1,0,0
-1911,Central League,P7827282,Benton,,Dayton,1911-06-24,1911-06-24,1,0,0,1,0,0,0,0,0,0,0,0
-1911,Central League,P9517177,Billiard,,Terre Haute,1911-05-13,1911-08-30,28,26,0,0,0,0,2,0,0,2,0,26
-1911,Central League,P4317401,Blake,,Zanesville,1911-06-04,1911-09-09,69,0,4,60,4,0,3,2,1,0,0,0
-1911,Central League,P9214928,Blount,,Fort Wayne,1911-04-26,1911-08-09,106,0,0,0,0,0,106,1,105,0,0,0
-1911,Central League,P1017470,Boll,,Grand Rapids I,1911-06-21,1911-06-21,1,0,0,0,0,0,0,0,0,0,1,0
-1911,Central League,P3990312,Bullock,,Fort Wayne,1911-04-30,1911-05-27,4,0,1,1,2,0,0,0,0,0,0,0
-1911,Central League,P9087168,Burns,,Evansville,1911-07-05,1911-07-06,2,0,0,0,0,0,2,0,2,0,0,0
-1911,Central League,P7765800,Burrell,,Wheeling,1911-07-25,1911-07-25,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P9921667,Butler,,Grand Rapids I,1911-04-28,1911-05-13,4,4,0,0,0,0,0,0,0,0,0,4
-1911,Central League,P9471542,Byrne,,Evansville,1911-06-28,1911-07-03,2,0,0,0,0,0,1,0,1,0,0,0
-1911,Central League,P8974025,Byrnes,,Evansville,1911-04-26,1911-08-12,95,0,0,0,0,0,94,56,39,1,0,0
-1911,Central League,P7216878,Byrnes,,South Bend II,1911-08-13,1911-09-07,25,0,0,0,0,0,25,0,25,0,0,0
-1911,Central League,P1457991,Call'n,,Terre Haute,1911-05-28,1911-05-28,1,0,0,0,0,1,1,0,1,0,0,0
-1911,Central League,P1085417,Callahan,,Grand Rapids I,1911-06-26,1911-06-27,3,0,0,0,0,0,3,3,0,0,0,0
-1911,Central League,P8654297,Callahan,,Newark,1911-06-28,1911-08-03,33,0,0,0,0,0,33,28,4,1,0,0
-1911,Central League,P1025290,Callahan,,Terre Haute,1911-04-26,1911-06-22,55,0,0,0,0,0,55,0,54,1,0,0
-1911,Central League,P6585489,Cameron,,Dayton,1911-04-26,1911-09-05,128,0,128,0,0,0,0,0,0,0,0,0
-1911,Central League,P4076168,Camnitz,,South Bend I,1911-05-23,1911-06-01,3,3,0,0,0,0,0,0,0,0,0,3
-1911,Central League,P5523216,Canterell,,Evansville,1911-05-03,1911-05-03,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P3639728,Cantwell,,Evansville,1911-04-28,1911-08-10,30,27,0,0,0,0,0,0,0,0,0,27
-1911,Central League,P8585589,Cantwell,,South Bend II,1911-08-13,1911-08-18,2,2,0,0,0,0,0,0,0,0,0,2
-1911,Central League,P7228109,Care,,South Bend I,1911-04-26,1911-04-26,1,0,0,0,0,0,0,0,0,0,0,0
-1911,Central League,P9289233,Casey,,Fort Wayne,1911-04-26,1911-09-08,108,0,0,0,78,0,29,0,29,0,0,0
-1911,Central League,P9426469,Cavana'h,,Dayton,1911-09-06,1911-09-06,1,0,0,0,1,0,0,0,0,0,0,0
-1911,Central League,P5958522,Cavanaugh,,Dayton,1911-09-02,1911-09-10,3,0,0,1,0,2,0,0,0,0,0,0
-1911,Central League,P0457462,Clancy,,Fort Wayne,1911-05-29,1911-09-10,97,0,95,0,0,0,0,0,0,0,0,0
-1911,Central League,P5778649,Cole,,Terre Haute,1911-08-19,1911-08-19,1,0,0,0,0,1,0,0,0,0,0,0
-1911,Central League,P3926308,Collins,,Wheeling,1911-07-09,1911-07-22,11,0,0,2,0,0,8,0,8,1,0,0
-1911,Central League,P7161356,Compton,,Dayton,1911-04-26,1911-09-03,35,30,1,0,0,0,2,0,2,0,0,30
-1911,Central League,P7639621,Compton,Jack,Dayton,1911-07-16,1911-07-16,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P6558050,Conaway,,Wheeling,1911-05-30,1911-06-01,2,0,0,0,0,0,2,0,0,2,0,0
-1911,Central League,P3953700,Conley,,Zanesville,1911-07-08,1911-07-08,1,0,0,1,0,0,0,0,0,0,0,0
-1911,Central League,P0371333,Connell,,Zanesville,1911-05-22,1911-05-22,1,0,0,0,0,0,1,0,0,1,0,0
-1911,Central League,P0441142,Connelly,,South Bend I,1911-06-11,1911-06-12,2,0,0,0,2,0,0,0,0,0,0,0
-1911,Central League,P8366426,Connelly,,Terre Haute,1911-07-23,1911-07-23,1,0,0,0,0,0,1,0,1,0,0,0
-1911,Central League,P0419070,Connelly,,Zanesville,1911-05-12,1911-07-02,6,1,0,0,0,0,5,1,4,0,0,1
-1911,Central League,P1260941,Connolley,,Zanesville,1911-05-09,1911-05-09,1,0,0,0,0,0,0,0,0,0,0,0
-1911,Central League,P7707236,Connolly,,Terre Haute,1911-07-14,1911-09-09,47,1,0,0,0,0,46,0,46,0,0,1
-1911,Central League,P5853640,Connolly,,Zanesville,1911-04-27,1911-07-07,41,7,0,1,0,0,31,16,3,12,0,7
-1911,Central League,P5610032,Conoway,,Wheeling,1911-05-29,1911-05-29,1,0,0,0,0,0,1,0,0,1,0,0
-1911,Central League,P5453377,Conway,,Wheeling,1911-05-24,1911-05-30,6,0,0,0,0,0,6,1,0,5,0,0
-1911,Central League,P5651228,Cook,,Wheeling,1911-05-03,1911-05-03,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P3495838,Core,,Grand Rapids I,1911-04-30,1911-06-10,41,0,1,0,0,0,40,34,5,2,0,0
-1911,Central League,P5362727,Core,,Grand Rapids II,1911-07-14,1911-09-09,56,0,0,0,0,0,56,55,0,1,0,0
-1911,Central League,P8305243,Core,,South Bend I,1911-06-11,1911-07-13,34,0,0,0,0,0,34,34,0,0,0,0
-1911,Central League,P4898753,Corns,,Fort Wayne,1911-04-26,1911-06-24,32,8,0,0,0,0,18,3,0,16,0,8
-1911,Central League,P2982256,Corre,,Grand Rapids I,1911-05-21,1911-05-21,1,0,0,0,0,0,1,1,0,0,0,0
-1911,Central League,P5791145,Cote,,Grand Rapids II,1911-08-26,1911-08-26,1,0,0,0,0,0,1,1,0,0,0,0
-1911,Central League,P3556441,Crane,,Wheeling,1911-04-26,1911-05-30,35,0,35,0,0,0,0,0,0,0,0,0
-1911,Central League,P7574116,Craveck,,Newark,1911-07-03,1911-07-03,1,0,0,0,1,0,0,0,0,0,0,0
-1911,Central League,P4226420,Craven,,Grand Rapids I,1911-06-23,1911-06-27,4,0,0,0,4,0,0,0,0,0,0,0
-1911,Central League,P9201380,Craven,,Newark,1911-06-28,1911-09-08,57,0,0,6,13,0,36,35,0,1,0,0
-1911,Central League,P9068081,Craven,,South Bend I,1911-04-26,1911-06-02,25,0,0,0,0,0,23,2,1,20,0,0
-1911,Central League,P4498094,Croft,,Wheeling,1911-07-14,1911-07-14,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P0659406,Crook,,Wheeling,1911-04-29,1911-04-29,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P6431792,Crowder,,Zanesville,1911-04-26,1911-09-09,131,0,0,0,0,131,0,0,0,0,0,0
-1911,Central League,P0925480,Davidson,,Wheeling,1911-05-13,1911-05-13,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P6267319,Degroff,,Zanesville,1911-06-25,1911-09-09,67,1,0,0,0,0,66,63,3,0,0,1
-1911,Central League,P5508659,Deha'n,,Dayton,1911-09-10,1911-09-10,1,0,0,0,1,0,1,1,0,0,0,0
-1911,Central League,P8429063,Dehaven,,Dayton,1911-04-26,1911-09-10,139,0,0,0,0,0,139,138,1,0,0,0
-1911,Central League,P5324429,Dell,,Dayton,1911-09-04,1911-09-10,7,0,0,0,0,0,7,0,2,5,0,0
-1911,Central League,P6382225,Dill,,Dayton,1911-09-02,1911-09-08,2,0,1,0,0,0,1,0,0,1,0,0
-1911,Central League,P1979503,Doak,,Wheeling,1911-04-26,1911-09-06,45,37,1,0,0,0,5,0,1,4,0,37
-1911,Central League,P6961432,Dobard,,Dayton,1911-04-26,1911-09-10,123,0,0,0,0,123,0,0,0,0,0,0
-1911,Central League,P1761017,Donahue,,Grand Rapids I,1911-04-26,1911-04-28,2,0,0,0,0,0,2,0,0,2,0,0
-1911,Central League,P6136139,Donovan,,Evansville,1911-04-28,1911-08-12,88,0,0,0,0,0,87,1,0,86,0,0
-1911,Central League,P2107696,Donovan,,South Bend II,1911-08-13,1911-09-07,26,0,0,0,0,0,26,0,0,26,0,0
-1911,Central League,P2895701,Doty,,Grand Rapids I,1911-05-16,1911-05-29,4,4,0,0,0,0,0,0,0,0,0,4
-1911,Central League,P6635389,Dowell,,Terre Haute,1911-05-23,1911-05-23,1,0,0,0,0,0,1,1,0,0,0,0
-1911,Central League,P3446305,Drake,,Zanesville,1911-07-23,1911-07-23,1,0,0,1,0,0,0,0,0,0,0,0
-1911,Central League,P1873087,Drallinger,,South Bend II,1911-08-28,1911-08-28,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P3551504,Duggar,,Evansville,1911-06-15,1911-06-15,1,0,0,0,0,0,1,1,0,0,0,0
-1911,Central League,P7566356,Dugger,,Evansville,1911-05-10,1911-07-22,11,1,2,0,0,0,5,5,0,0,1,1
-1911,Central League,P5571288,Dugger,,Zanesville,1911-08-02,1911-09-01,18,1,0,11,0,0,1,0,1,0,0,1
-1911,Central League,P4268276,Dur'r,,Wheeling,1911-06-29,1911-06-29,1,0,0,0,0,0,1,0,1,1,0,0
-1911,Central League,P5799057,Durham,,Wheeling,1911-05-26,1911-09-01,94,0,0,0,0,0,93,7,10,76,1,0
-1911,Central League,P8530464,Essick,,Grand Rapids II,1911-07-16,1911-09-08,15,14,0,0,0,0,0,0,0,0,0,14
-1911,Central League,P0166644,Essick,,South Bend I,1911-06-03,1911-07-11,10,10,0,0,0,0,0,0,0,0,0,10
-1911,Central League,P8600791,Essick,Bill,South Bend I,1911-06-25,1911-06-25,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P5455094,Farrel,,Zanesville,1911-05-04,1911-05-04,1,0,0,0,0,0,1,0,1,0,0,0
-1911,Central League,P9378690,Farrell,,Zanesville,1911-04-26,1911-09-09,120,0,0,0,0,1,118,1,118,0,0,0
-1911,Central League,P4747856,Fischer,,Dayton,1911-08-27,1911-08-27,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P9696109,Fisher,,Dayton,1911-04-29,1911-09-01,3,3,0,0,0,0,0,0,0,0,0,3
-1911,Central League,P3574931,Flournoy,,Grand Rapids I,1911-04-26,1911-05-03,5,0,0,0,0,0,5,5,0,0,0,0
-1911,Central League,P1930098,Flow'ey,,Grand Rapids I,1911-04-30,1911-04-30,1,0,0,0,0,0,1,1,0,0,0,0
-1911,Central League,P5925745,Fromholtz,,Dayton,1911-04-28,1911-09-09,11,11,0,0,0,0,0,0,0,0,0,11
-1911,Central League,P8137853,Fromholz,,Dayton,1911-08-13,1911-08-13,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P3213322,Garr,,Grand Rapids II,1911-08-17,1911-08-17,1,0,0,0,0,0,1,0,0,1,0,0
-1911,Central League,P5109802,Geier,,Grand Rapids II,1911-07-14,1911-09-10,48,0,0,4,0,0,44,0,0,44,0,0
-1911,Central League,P2326718,Geier,,South Bend I,1911-04-26,1911-07-13,76,0,0,3,0,0,74,37,0,37,0,0
-1911,Central League,P4847831,Geier,Phil,Grand Rapids II,1911-08-13,1911-08-13,1,0,0,0,0,0,0,0,0,0,0,0
-1911,Central League,P4385035,Geier,Phil,South Bend I,1911-05-08,1911-05-08,1,0,0,0,0,0,1,1,0,0,0,0
-1911,Central League,P9464889,Geir,,South Bend I,1911-05-06,1911-05-07,2,0,0,0,0,0,2,2,0,0,0,0
-1911,Central League,P0763973,George,,Dayton,1911-07-13,1911-07-13,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P3880645,Gerchak,,Wheeling,1911-09-04,1911-09-04,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P9272014,Geyer,,South Bend I,1911-05-24,1911-05-24,1,0,0,0,0,0,1,1,0,0,0,0
-1911,Central League,P5422510,Gilbert,,Newark,1911-07-02,1911-09-10,40,24,0,1,0,0,15,13,1,1,0,24
-1911,Central League,P5711569,Gillan,,Zanesville,1911-05-10,1911-05-10,1,0,0,0,0,0,0,0,0,0,0,0
-1911,Central League,P9726421,Gillen,,Zanesville,1911-04-27,1911-05-26,14,3,5,0,0,0,5,0,0,5,0,3
-1911,Central League,P4244321,Goldrich,,Grand Rapids I,1911-05-22,1911-05-22,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P1378641,Goldrich,,Newark,1911-07-23,1911-08-06,2,2,0,0,0,0,0,0,0,0,0,2
-1911,Central League,P8046564,Goldrick,,Grand Rapids I,1911-04-26,1911-06-23,21,16,0,0,0,0,6,2,1,3,0,16
-1911,Central League,P7233364,Goldrick,,Newark,1911-06-28,1911-09-10,20,18,0,0,0,1,1,0,0,1,0,18
-1911,Central League,P0123280,Graf,,Wheeling,1911-04-26,1911-04-30,5,0,0,0,5,0,0,0,0,0,0,0
-1911,Central League,P0998720,Graham,,Wheeling,1911-06-01,1911-09-06,38,24,0,0,0,0,6,1,2,3,0,24
-1911,Central League,P9529170,Grant,,Evansville,1911-05-05,1911-08-12,72,0,0,71,1,0,0,0,0,0,0,0
-1911,Central League,P7462743,Grant,,South Bend II,1911-08-13,1911-08-21,5,0,0,5,0,0,0,0,0,0,0,0
-1911,Central League,P3162482,Grant,,Terre Haute,1911-08-31,1911-09-07,9,0,0,9,0,0,0,0,0,0,0,0
-1911,Central League,P7343669,Graven,,South Bend I,1911-04-27,1911-04-27,1,0,0,0,0,0,1,0,0,1,0,0
-1911,Central League,P0076232,Gray,,Grand Rapids I,1911-05-17,1911-06-27,40,0,1,0,0,0,39,7,0,33,0,0
-1911,Central League,P4563512,Gray,,Newark,1911-06-28,1911-09-10,79,1,0,0,0,0,78,2,1,76,0,1
-1911,Central League,P0147811,Gray,,Wheeling,1911-08-30,1911-09-07,10,0,0,0,0,10,0,0,0,0,0,0
-1911,Central League,P4311143,Greer,,South Bend I,1911-05-23,1911-05-23,1,0,0,0,0,0,1,1,0,0,0,0
-1911,Central League,P9215167,Grefe,,Evansville,1911-04-26,1911-08-12,107,0,107,0,0,0,0,0,0,0,1,0
-1911,Central League,P3136932,Grefe,,South Bend II,1911-08-13,1911-09-07,26,0,26,0,0,0,0,0,0,0,0,0
-1911,Central League,P7711267,Greif,,Evansville,1911-07-08,1911-07-08,1,0,1,0,0,0,0,0,0,0,0,0
-1911,Central League,P7374924,Grey,,Grand Rapids I,1911-05-20,1911-05-20,1,0,0,0,0,0,1,0,0,1,0,0
-1911,Central League,P5549043,Gro'n,,Terre Haute,1911-06-08,1911-06-21,2,0,0,0,1,1,2,2,0,0,0,0
-1911,Central League,P6430350,Groff,,Zanesville,1911-08-20,1911-08-20,1,0,0,0,0,0,1,1,0,0,0,0
-1911,Central League,P4419226,Grog'n,,Terre Haute,1911-06-30,1911-06-30,1,0,0,0,1,0,1,1,0,0,0,0
-1911,Central League,P0525908,Grogan,,Terre Haute,1911-04-26,1911-09-09,131,0,0,2,7,10,114,99,15,1,1,0
-1911,Central League,P7332938,Groh,,Zanesville,1911-04-26,1911-05-09,14,0,0,14,0,0,0,0,0,0,0,0
-1911,Central League,P9316921,Gwinn,,Evansville,1911-05-23,1911-05-27,2,2,0,0,0,0,0,0,0,0,0,2
-1911,Central League,P6158265,Gwinn,,Terre Haute,1911-06-07,1911-07-13,8,8,0,0,0,0,0,0,0,0,0,8
-1911,Central League,P4853577,Gwynn,,Terre Haute,1911-06-03,1911-07-06,4,4,0,0,0,0,0,0,0,0,0,4
-1911,Central League,P8560429,Hadley,,Evansville,1911-04-26,1911-08-12,106,0,0,39,0,69,0,0,0,0,0,0
-1911,Central League,P3817426,Hadley,,South Bend II,1911-08-13,1911-09-07,26,0,0,9,0,17,0,0,0,0,0,0
-1911,Central League,P8009448,Hadly,,Evansville,1911-04-28,1911-05-16,2,0,0,1,0,1,0,0,0,0,0,0
-1911,Central League,P1444532,Hafford,,Zanesville,1911-08-16,1911-08-23,9,0,0,0,9,0,0,0,0,0,0,0
-1911,Central League,P1277714,Hailey,,Evansville,1911-06-01,1911-06-01,1,0,0,0,0,1,0,0,0,0,0,0
-1911,Central League,P4893359,Hale,,Grand Rapids I,1911-04-26,1911-06-26,17,17,0,0,0,0,0,0,0,0,0,17
-1911,Central League,P4851359,Hale,,Newark,1911-06-30,1911-09-10,17,17,0,0,0,0,0,0,0,0,0,17
-1911,Central League,P5277721,Hale,Roy,Newark,1911-08-23,1911-08-23,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P0431926,Hall,,Grand Rapids I,1911-06-17,1911-06-17,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P7448435,Hall,,South Bend I,1911-06-04,1911-06-09,2,0,0,0,0,0,2,0,0,2,0,0
-1911,Central League,P2428667,Halt,,South Bend I,1911-06-03,1911-06-07,4,0,0,0,0,0,4,1,0,3,0,0
-1911,Central League,P4057588,Hammond,,Wheeling,1911-09-02,1911-09-07,2,2,0,0,0,0,0,0,0,0,0,2
-1911,Central League,P1999931,Hanley,,Zanesville,1911-05-21,1911-09-09,23,23,0,0,0,0,0,0,0,0,0,23
-1911,Central League,P7591293,Har'e,,Terre Haute,1911-05-30,1911-05-30,1,0,0,0,0,0,1,1,0,0,1,0
-1911,Central League,P3458736,Har[d]grove,,Terre Haute,1911-05-13,1911-05-13,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P9252449,Hard'e,,Terre Haute,1911-05-08,1911-05-08,1,0,0,0,0,0,1,1,0,0,1,0
-1911,Central League,P9492270,Harden,,Fort Wayne,1911-06-03,1911-07-30,8,8,0,0,0,0,0,0,0,0,0,8
-1911,Central League,P3101632,Hardford,,Terre Haute,1911-06-15,1911-06-15,1,0,0,0,0,1,0,0,0,0,0,0
-1911,Central League,P1741624,Hardgrove,,Terre Haute,1911-04-27,1911-06-25,8,6,0,0,0,0,2,2,0,0,0,6
-1911,Central League,P3507122,Hardin,,Fort Wayne,1911-04-27,1911-09-09,29,29,0,0,0,0,0,0,0,0,0,29
-1911,Central League,P0871112,Hardy,,Wheeling,1911-04-28,1911-09-04,34,34,0,0,0,0,0,0,0,0,0,34
-1911,Central League,P7170054,Hargrave,,Terre Haute,1911-08-04,1911-08-04,1,0,0,0,0,0,0,0,0,0,1,0
-1911,Central League,P4778452,Hargrove,,Terre Haute,1911-05-02,1911-09-09,78,0,1,0,0,0,26,17,4,5,43,0
-1911,Central League,P6310713,Harriott,,Dayton,1911-09-07,1911-09-07,1,0,1,0,0,0,0,0,0,0,0,0
-1911,Central League,P9444048,Hart'd,,Terre Haute,1911-06-13,1911-06-13,1,0,0,0,0,1,1,0,0,1,0,0
-1911,Central League,P2296400,Hartford,,Terre Haute,1911-05-31,1911-09-09,79,0,1,1,20,20,34,6,6,22,0,0
-1911,Central League,P8547105,Hartman,,Terre Haute,1911-05-24,1911-05-29,4,0,0,0,0,4,0,0,0,0,0,0
-1911,Central League,P2773583,Hartmann,,Terre Haute,1911-05-30,1911-05-30,1,0,0,0,0,1,0,0,0,0,0,0
-1911,Central League,P0388283,Hennis,,Terre Haute,1911-07-24,1911-08-03,3,3,0,0,0,0,0,0,0,0,0,3
-1911,Central League,P8800829,Herriott,,Dayton,1911-08-07,1911-09-10,6,0,6,0,0,0,0,0,0,0,0,0
-1911,Central League,P6113859,Hildebrand,,Terre Haute,1911-07-08,1911-07-08,1,0,0,0,0,0,0,0,0,0,0,0
-1911,Central League,P0612856,Hillinger,,Zanesville,1911-04-28,1911-09-09,131,0,0,0,0,0,131,14,3,114,0,0
-1911,Central League,P2751802,Holly,,South Bend I,1911-05-23,1911-05-23,1,0,0,0,0,0,0,0,0,0,0,0
-1911,Central League,P1655782,Holmes,,Grand Rapids II,1911-07-14,1911-09-10,48,1,1,0,0,0,2,0,0,2,45,1
-1911,Central League,P5547258,Holmes,,South Bend I,1911-04-26,1911-07-13,76,0,3,0,0,0,0,0,0,0,74,0
-1911,Central League,P6903500,Holt,,Grand Rapids I,1911-06-11,1911-06-26,15,1,0,5,0,0,8,7,1,0,2,1
-1911,Central League,P7827260,Holt,,Newark,1911-06-28,1911-06-29,2,0,0,0,0,0,0,0,0,0,2,0
-1911,Central League,P3505801,Holt,,South Bend I,1911-04-30,1911-06-10,22,0,0,0,0,0,18,1,4,13,4,0
-1911,Central League,P1390125,Holt,Alva,South Bend I,1911-05-06,1911-05-15,2,0,0,0,0,0,2,0,1,1,0,0
-1911,Central League,P1097626,Hoyt,,Terre Haute,1911-07-18,1911-07-22,2,2,0,0,0,0,0,0,0,0,0,2
-1911,Central League,P8393555,Jewell,,Wheeling,1911-04-26,1911-09-04,127,0,0,0,1,119,7,0,3,4,0,0
-1911,Central League,P1808757,Johnson,,Terre Haute,1911-05-21,1911-05-21,1,0,0,0,0,0,1,1,0,0,0,0
-1911,Central League,P7792725,Jones,,Terre Haute,1911-05-05,1911-05-07,2,2,0,0,0,0,0,0,0,0,0,2
-1911,Central League,P8280473,Jones,,Zanesville,1911-04-28,1911-09-09,39,37,0,0,0,0,0,0,0,0,0,37
-1911,Central League,P3945267,Justice,,Fort Wayne,1911-04-26,1911-09-10,135,0,0,1,0,135,0,0,0,0,0,0
-1911,Central League,P1266814,Justis,,Fort Wayne,1911-07-09,1911-07-09,1,0,0,0,0,1,0,0,0,0,0,0
-1911,Central League,P3311370,Justus,,Fort Wayne,1911-05-21,1911-05-22,3,0,0,0,0,3,0,0,0,0,0,0
-1911,Central League,P8678774,Kahl,,Terre Haute,1911-06-09,1911-06-19,11,0,0,11,0,0,0,0,0,0,0,0
-1911,Central League,P1337626,Kahl,,Zanesville,1911-05-13,1911-06-03,22,0,0,22,0,0,0,0,0,0,0,0
-1911,Central League,P1848110,Keenan,,Fort Wayne,1911-07-14,1911-07-14,1,0,0,0,0,0,1,1,0,0,0,0
-1911,Central League,P3054500,Keene,,Fort Wayne,1911-04-30,1911-04-30,1,0,0,0,0,0,1,1,0,0,0,0
-1911,Central League,P7802806,Keener,,Fort Wayne,1911-04-26,1911-08-19,112,1,0,0,0,0,112,109,2,1,0,1
-1911,Central League,P3845192,Keiber,,Terre Haute,1911-07-01,1911-07-01,1,0,0,0,0,0,1,0,0,1,0,0
-1911,Central League,P0101060,Kelley,,Grand Rapids II,1911-08-15,1911-08-15,1,0,0,0,0,1,0,0,0,0,0,0
-1911,Central League,P0412952,Kelley,,South Bend I,1911-04-27,1911-05-30,10,0,0,0,0,10,0,0,0,0,0,0
-1911,Central League,P2703999,Kelly,,Grand Rapids II,1911-07-26,1911-09-10,46,0,0,0,0,46,0,0,0,0,0,0
-1911,Central League,P5147699,Kelly,,South Bend I,1911-04-26,1911-07-12,70,0,0,0,0,70,0,0,0,0,0,0
-1911,Central League,P2693919,Kenner,,Fort Wayne,1911-08-06,1911-08-06,1,0,0,0,0,0,1,1,0,0,0,0
-1911,Central League,P3987678,Kihm,,Grand Rapids I,1911-04-26,1911-06-27,54,0,54,0,0,0,0,0,0,0,0,0
-1911,Central League,P9485518,Kihm,,Newark,1911-06-28,1911-09-10,80,0,80,0,0,0,0,0,0,0,0,0
-1911,Central League,P9883679,Kilrain,,Grand Rapids I,1911-06-10,1911-06-10,1,0,1,0,0,0,0,0,0,0,0,0
-1911,Central League,P0986553,King,,Wheeling,1911-04-27,1911-06-28,50,0,0,0,46,1,0,0,0,0,0,0
-1911,Central League,P1909487,Kinsley,,Wheeling,1911-05-07,1911-05-07,1,0,0,0,0,0,1,1,0,0,0,0
-1911,Central League,P3556895,Kirkp'k,,Dayton,1911-04-28,1911-09-09,19,0,0,0,19,0,0,0,0,0,0,0
-1911,Central League,P7897472,Kirkpa'k,,Dayton,1911-05-03,1911-09-10,38,0,0,0,38,0,0,0,0,0,0,0
-1911,Central League,P1161044,Kirkpat'k,,Dayton,1911-04-27,1911-04-27,1,0,0,0,1,0,0,0,0,0,0,0
-1911,Central League,P8330022,Kirkpatr'k,,Dayton,1911-09-06,1911-09-06,1,0,0,0,0,0,0,0,0,0,0,0
-1911,Central League,P1643435,Kirkpatrick,,Dayton,1911-04-26,1911-09-10,78,0,0,0,78,0,1,1,0,0,0,0
-1911,Central League,P7354676,Kirp'k,,Dayton,1911-06-04,1911-06-04,1,0,0,0,1,0,0,0,0,0,0,0
-1911,Central League,P4434550,Klipp,,Terre Haute,1911-06-03,1911-06-10,5,0,0,0,0,0,2,1,0,1,3,0
-1911,Central League,P6707119,Knisely,,Wheeling,1911-04-28,1911-09-07,55,0,1,1,2,0,53,53,0,0,0,0
-1911,Central League,P1514127,Knisley,,Wheeling,1911-04-26,1911-09-02,59,0,1,0,1,0,55,55,0,0,0,0
-1911,Central League,P9068524,Knoll,,Dayton,1911-04-26,1911-09-10,132,0,2,0,0,0,130,1,125,5,1,0
-1911,Central League,P8404598,Koe'r,,Grand Rapids II,1911-08-03,1911-08-03,1,0,0,1,0,0,1,1,0,0,0,0
-1911,Central League,P9993970,Koeh'r,,South Bend I,1911-07-12,1911-07-12,1,0,0,1,0,1,0,0,0,0,0,0
-1911,Central League,P1132296,Koehler,,Grand Rapids II,1911-07-14,1911-09-08,52,0,0,52,0,0,0,0,0,0,0,0
-1911,Central League,P7237980,Koehler,,South Bend I,1911-04-26,1911-07-13,71,0,0,71,0,0,0,0,0,0,0,0
-1911,Central League,P6287172,Kohl,,Terre Haute,1911-06-21,1911-08-07,49,0,0,1,31,15,0,0,0,0,2,0
-1911,Central League,P0053032,Kohl,,Zanesville,1911-05-12,1911-05-12,1,0,0,1,0,0,0,0,0,0,0,0
-1911,Central League,P4522275,Kohler,,Grand Rapids II,1911-08-15,1911-08-28,2,0,0,2,0,0,0,0,0,0,0,0
-1911,Central League,P0898647,Kohler,,South Bend I,1911-05-21,1911-07-04,5,0,0,5,0,0,0,0,0,0,0,0
-1911,Central League,P5177894,Kon'k,,Dayton,1911-08-05,1911-08-05,1,0,1,0,0,0,0,0,0,0,1,0
-1911,Central League,P9828276,Konn'k,,Dayton,1911-08-31,1911-08-31,1,0,0,0,1,0,1,0,1,0,0,0
-1911,Central League,P1085817,Konnick,,Dayton,1911-04-28,1911-09-10,100,0,2,4,3,15,4,0,3,1,70,0
-1911,Central League,P7650239,Konnick,Mike,Dayton,1911-05-11,1911-05-11,1,0,0,0,0,0,0,0,0,0,1,0
-1911,Central League,P1518311,Krannon,,Wheeling,1911-05-06,1911-05-06,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P5398745,Kronan,,Wheeling,1911-05-18,1911-05-28,2,2,0,0,0,0,0,0,0,0,0,2
-1911,Central League,P2249888,Kronau,,Wheeling,1911-04-28,1911-06-20,10,9,0,0,0,0,0,0,0,0,0,9
-1911,Central League,P8609059,Kroy,,Grand Rapids II,1911-07-14,1911-09-10,59,0,0,0,0,0,59,0,59,0,0,0
-1911,Central League,P7525079,Kroy,,South Bend I,1911-04-26,1911-07-13,77,0,0,1,0,0,74,0,74,0,0,0
-1911,Central League,P7868377,Lafferty,,Fort Wayne,1911-07-01,1911-09-03,4,0,0,0,3,0,1,1,0,0,0,0
-1911,Central League,P6497495,Lake,,Zanesville,1911-06-18,1911-06-20,2,0,0,2,0,0,0,0,0,0,0,0
-1911,Central League,P4354218,Lave'e,,Evansville,1911-06-21,1911-06-21,1,0,0,0,0,0,1,1,1,0,0,0
-1911,Central League,P0793371,Lavelle,,Evansville,1911-06-14,1911-07-21,22,0,0,0,0,0,21,3,19,0,0,0
-1911,Central League,P2194028,Laven,,Terre Haute,1911-05-19,1911-05-19,2,0,0,0,0,2,0,0,0,0,0,0
-1911,Central League,P6376991,Layler,,Evansville,1911-06-27,1911-06-27,1,0,0,0,1,0,0,0,0,0,0,0
-1911,Central League,P0326746,Lewis,,Evansville,1911-06-13,1911-06-13,1,0,0,0,0,0,1,0,1,0,0,0
-1911,Central League,P3754697,Lewis,,Newark,1911-07-01,1911-07-02,2,0,0,0,0,0,0,0,0,0,2,0
-1911,Central League,P9348276,Lewis,,Wheeling,1911-04-26,1911-09-07,129,0,0,127,2,0,0,0,0,0,0,0
-1911,Central League,P5385746,Lindsay,,Grand Rapids II,1911-07-17,1911-09-10,11,10,0,0,0,0,1,0,0,1,0,10
-1911,Central League,P0449830,Lindsay,,South Bend I,1911-04-26,1911-07-13,23,23,0,0,0,0,0,0,0,0,0,23
-1911,Central League,P6242582,Lindsey,,Grand Rapids II,1911-08-03,1911-09-05,5,5,0,0,0,0,0,0,0,0,0,5
-1911,Central League,P2623658,Lindsey,,South Bend I,1911-05-12,1911-05-12,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P7458683,Linne'n,,Wheeling,1911-07-02,1911-07-02,1,0,0,0,0,0,1,0,1,0,0,0
-1911,Central League,P6882473,Loomis,,Terre Haute,1911-08-13,1911-09-09,8,8,0,0,0,0,0,0,0,0,0,8
-1911,Central League,P4015814,Mahoney,,Grand Rapids I,1911-04-30,1911-04-30,1,0,0,0,0,0,1,0,0,1,0,0
-1911,Central League,P2548871,Mahoney,,Terre Haute,1911-05-27,1911-09-09,54,0,0,0,2,48,0,0,0,0,0,0
-1911,Central League,P0380727,Markham,,Evansville,1911-04-28,1911-08-11,27,27,0,0,0,0,0,0,0,0,0,27
-1911,Central League,P9866652,Markham,,South Bend II,1911-08-16,1911-09-07,7,7,0,0,0,0,0,0,0,0,0,7
-1911,Central League,P5905056,Martin,,Grand Rapids I,1911-04-26,1911-05-24,21,0,0,0,0,0,0,0,0,0,21,0
-1911,Central League,P4866921,Martin,,Grand Rapids II,1911-07-17,1911-09-10,14,13,0,0,0,0,0,0,0,0,0,13
-1911,Central League,P3928976,Martin,,Newark,1911-07-19,1911-09-10,26,1,0,0,1,0,0,0,0,0,23,1
-1911,Central League,P3440605,Martin,,South Bend I,1911-04-27,1911-07-12,23,22,0,0,0,0,1,1,0,0,0,22
-1911,Central League,P6639137,Martin,,Terre Haute,1911-07-29,1911-07-30,2,0,0,0,0,0,0,0,0,0,2,0
-1911,Central League,P4779108,Martini,,Wheeling,1911-06-01,1911-06-01,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P5608040,Matthews,,South Bend II,1911-09-03,1911-09-03,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P9594017,Mayberry,,Terre Haute,1911-06-04,1911-06-10,3,3,0,0,0,0,0,0,0,0,0,3
-1911,Central League,P8179047,McDo'h,,Grand Rapids I,1911-05-15,1911-06-21,3,0,0,2,0,0,1,0,0,1,0,0
-1911,Central League,P0114290,McDon'd,,Terre Haute,1911-07-12,1911-07-12,1,0,0,0,0,0,1,0,0,1,0,0
-1911,Central League,P4214741,McDon'h,,Grand Rapids I,1911-04-28,1911-06-08,8,0,0,0,0,0,5,0,1,4,3,0
-1911,Central League,P4129142,McDon'h,,Terre Haute,1911-06-28,1911-07-09,5,0,0,0,0,0,0,0,0,0,5,0
-1911,Central League,P5954296,McDonald,,Terre Haute,1911-07-08,1911-07-08,1,0,0,0,0,0,0,0,0,0,0,0
-1911,Central League,P3606852,McDono'h,,Grand Rapids I,1911-05-02,1911-06-15,7,0,0,0,0,0,0,0,0,0,5,0
-1911,Central League,P2417332,McDono'h,,Newark,1911-07-22,1911-07-25,2,0,0,0,0,0,0,0,0,0,2,0
-1911,Central League,P4623045,McDono'h,,Terre Haute,1911-06-27,1911-07-06,5,0,0,0,0,0,0,0,0,0,5,0
-1911,Central League,P1610841,McDonough,,Grand Rapids I,1911-04-30,1911-06-19,12,0,0,0,0,0,1,0,0,1,10,0
-1911,Central League,P2492361,McDonough,,Newark,1911-07-23,1911-07-29,3,0,0,0,0,0,0,0,0,0,2,0
-1911,Central League,P4024442,McDonough,,Terre Haute,1911-06-24,1911-07-07,7,0,0,0,0,0,0,0,0,0,7,0
-1911,Central League,P4439398,McKel'y,,Zanesville,1911-08-23,1911-09-04,6,0,0,0,6,0,0,0,0,0,0,0
-1911,Central League,P6540540,McKelv'y,,Zanesville,1911-08-27,1911-09-07,4,0,0,1,3,0,0,0,0,0,0,0
-1911,Central League,P3770746,McKelvey,,Zanesville,1911-08-29,1911-09-03,4,0,0,0,4,0,0,0,0,0,0,0
-1911,Central League,P3547846,McKenzie,,Wheeling,1911-05-22,1911-05-30,3,3,0,0,0,0,0,0,0,0,0,3
-1911,Central League,P8208120,McL'y,,Fort Wayne,1911-09-10,1911-09-10,1,0,0,0,1,1,0,0,0,0,0,0
-1911,Central League,P7569209,McLa'y,,Fort Wayne,1911-05-14,1911-05-18,2,0,2,0,0,0,0,0,0,0,0,0
-1911,Central League,P9597791,McLaf'y,,Fort Wayne,1911-04-27,1911-09-10,30,0,8,1,20,0,1,1,0,0,0,0
-1911,Central League,P6540997,McLaff'y,,Fort Wayne,1911-04-30,1911-09-07,12,0,2,0,10,0,0,0,0,0,0,0
-1911,Central League,P8530921,McLafferty,,Fort Wayne,1911-04-29,1911-09-08,40,0,12,1,26,0,1,0,1,0,0,0
-1911,Central League,P2822741,McLaffery,,Fort Wayne,1911-07-14,1911-07-14,1,0,0,0,0,0,0,0,0,0,0,0
-1911,Central League,P3771203,McLaffey,,Fort Wayne,1911-04-26,1911-04-26,1,0,1,0,0,0,0,0,0,0,0,0
-1911,Central League,P7945728,Meissner,,Zanesville,1911-06-08,1911-06-08,1,0,0,0,0,0,1,1,0,0,0,0
-1911,Central League,P4915251,Meyers,,Grand Rapids II,1911-07-15,1911-08-10,5,4,0,0,0,0,0,0,0,0,0,4
-1911,Central League,P6062695,Meyers,,South Bend I,1911-04-30,1911-07-04,8,8,0,0,0,0,0,0,0,0,0,8
-1911,Central League,P9445867,Meyers,,Terre Haute,1911-04-26,1911-06-09,32,0,32,0,0,0,0,0,0,0,0,0
-1911,Central League,P2904066,Milli'n,,Terre Haute,1911-05-10,1911-05-10,1,0,0,1,0,0,1,0,0,1,0,0
-1911,Central League,P3241667,Milligan,,Terre Haute,1911-04-26,1911-05-22,23,0,0,13,0,0,10,9,1,0,0,0
-1911,Central League,P7201495,Moffit,,South Bend I,1911-04-29,1911-05-11,3,3,0,0,0,0,0,0,0,0,0,3
-1911,Central League,P5944715,Moffitt,,South Bend I,1911-05-04,1911-05-04,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P5777678,Mont'y,,Wheeling,1911-07-16,1911-07-16,1,0,0,0,0,0,1,0,1,1,0,0
-1911,Central League,P3554645,Montg'y,,Wheeling,1911-05-06,1911-09-04,9,0,0,0,0,0,9,0,9,0,0,0
-1911,Central League,P4074244,Montgo'y,,Wheeling,1911-04-26,1911-08-28,24,0,0,0,0,0,24,1,23,0,0,0
-1911,Central League,P5251089,Montgom'y,,Wheeling,1911-07-15,1911-08-20,4,0,0,0,0,0,0,0,0,0,0,0
-1911,Central League,P9718561,Montgomery,,Wheeling,1911-04-28,1911-09-07,38,0,0,0,0,0,38,0,38,0,0,0
-1911,Central League,P0724967,Monty,,Wheeling,1911-06-28,1911-06-28,1,0,0,0,0,0,0,0,0,0,0,0
-1911,Central League,P3917142,Morcan,,Evansville,1911-06-05,1911-06-05,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P6161406,Morri'y,,Grand Rapids I,1911-05-30,1911-06-01,2,0,2,0,0,0,0,0,0,0,0,0
-1911,Central League,P2563569,Morris'y,,Grand Rapids I,1911-05-30,1911-05-30,1,0,1,0,0,0,0,0,0,0,0,0
-1911,Central League,P5693295,Morrisey,,Grand Rapids I,1911-05-29,1911-05-29,1,0,1,0,0,0,0,0,0,0,0,0
-1911,Central League,P3626165,Murray,,Grand Rapids I,1911-04-26,1911-06-22,45,0,0,44,0,0,1,0,0,1,0,0
-1911,Central League,P2684325,Murray,,Newark,1911-07-04,1911-09-10,60,0,0,59,0,0,1,0,1,0,0,0
-1911,Central League,P3713168,Murray,,Wheeling,1911-04-26,1911-09-07,77,0,0,0,0,0,16,6,5,5,54,0
-1911,Central League,P4592577,Murray,C.,Wheeling,1911-07-25,1911-07-25,1,0,0,0,0,0,0,0,0,0,1,0
-1911,Central League,P1443720,Murray,J.,Wheeling,1911-05-08,1911-05-25,5,0,0,0,0,0,2,2,0,0,3,0
-1911,Central League,P5721782,Murray,S.,Grand Rapids I,1911-05-08,1911-05-26,6,0,0,6,0,0,0,0,0,0,0,0
-1911,Central League,P5857062,Murray,S.,Newark,1911-07-25,1911-07-25,1,0,0,1,0,0,0,0,0,0,0,0
-1911,Central League,P4832461,Murray [Nwk],,Newark,1911-08-03,1911-08-03,1,0,0,1,0,0,0,0,0,0,0,0
-1911,Central League,P5088622,Myers,,Grand Rapids II,1911-07-14,1911-08-31,5,5,0,0,0,0,0,0,0,0,0,5
-1911,Central League,P6056578,Myers,,South Bend I,1911-05-13,1911-07-09,10,9,0,0,0,0,1,0,0,1,0,9
-1911,Central League,P5809318,Myers,,Terre Haute,1911-04-30,1911-06-04,12,0,12,0,0,0,0,0,0,0,0,0
-1911,Central League,P3089399,Myers,John Henry,South Bend I,1911-05-09,1911-06-04,2,2,0,0,0,0,0,0,0,0,0,2
-1911,Central League,P5123502,Nee,,Terre Haute,1911-08-11,1911-09-09,29,0,1,7,4,17,0,0,0,0,0,0
-1911,Central League,P0273132,Neuscha'r,,Dayton,1911-05-06,1911-05-06,1,0,0,0,0,0,1,0,0,1,0,0
-1911,Central League,P8290640,Neuschafer,,Dayton,1911-04-28,1911-04-28,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P1010074,Neuschafer,,Terre Haute,1911-05-10,1911-05-19,3,3,0,0,0,0,0,0,0,0,0,3
-1911,Central League,P8693599,Noojin,,South Bend I,1911-05-17,1911-05-20,4,0,0,0,0,0,4,4,0,0,0,0
-1911,Central League,P5568764,O'Brien,,Evansville,1911-04-26,1911-08-12,74,0,0,0,0,0,0,0,0,0,74,0
-1911,Central League,P2352321,O'Brien,,South Bend II,1911-08-13,1911-09-07,14,0,0,0,0,0,0,0,0,0,14,0
-1911,Central League,P2469084,O'Brien,,Terre Haute,1911-07-14,1911-09-09,49,0,1,0,0,0,0,0,0,0,47,0
-1911,Central League,P3573696,O'Brien,,Zanesville,1911-04-26,1911-07-08,56,0,0,0,0,0,0,0,0,0,56,0
-1911,Central League,P4550166,O'Brien,G.,South Bend II,1911-08-14,1911-09-04,5,0,0,0,0,0,0,0,0,0,5,0
-1911,Central League,P7542967,O'Brien,M.,Terre Haute,1911-08-14,1911-09-04,5,0,0,0,0,0,0,0,0,0,5,0
-1911,Central League,P0697147,O'Brien,M.,Zanesville,1911-06-07,1911-06-07,1,0,0,0,0,0,0,0,0,0,1,0
-1911,Central League,P3586942,O'Brien,T.,Evansville,1911-06-07,1911-06-07,1,0,0,0,0,0,0,0,0,0,1,0
-1911,Central League,P4250661,Olmstead,,Dayton,1911-07-31,1911-09-10,4,4,0,0,0,0,0,0,0,0,0,4
-1911,Central League,P2833502,Onslow,,Fort Wayne,1911-04-26,1911-09-10,104,0,0,0,0,0,0,0,0,0,104,0
-1911,Central League,P3757320,Osborne,,Wheeling,1911-04-27,1911-04-27,1,0,0,0,0,0,1,0,1,0,0,0
-1911,Central League,P6509613,Otey,,Dayton,1911-07-22,1911-09-08,16,16,0,0,0,0,0,0,0,0,0,16
-1911,Central League,P1036496,Otey,Bill,Dayton,1911-07-18,1911-07-18,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P3550807,Pa'r,J.,Grand Rapids I,1911-05-12,1911-05-12,1,0,0,0,1,0,1,0,0,1,0,0
-1911,Central League,P5317889,Par'r,,Newark,1911-08-20,1911-08-20,1,0,0,1,0,1,0,0,0,0,0,0
-1911,Central League,P2501306,Parker,,Grand Rapids I,1911-05-11,1911-06-27,11,0,0,1,0,0,1,0,0,1,9,0
-1911,Central League,P8925226,Parker,,Newark,1911-06-29,1911-09-09,20,0,0,0,0,4,0,0,0,0,15,0
-1911,Central League,P4306395,Parker,C.,Newark,1911-08-03,1911-09-10,35,0,0,1,0,33,0,0,0,0,1,0
-1911,Central League,P8779359,Parker,G.,Newark,1911-09-10,1911-09-10,1,0,0,0,0,1,0,0,0,0,0,0
-1911,Central League,P9343602,Parker,J.,Grand Rapids I,1911-05-10,1911-06-26,16,0,0,0,0,0,5,1,0,4,11,0
-1911,Central League,P4634082,Parker,J.,Newark,1911-07-17,1911-09-10,19,0,0,0,0,0,1,0,0,1,17,0
-1911,Central League,P4237622,Patterson,,Terre Haute,1911-07-01,1911-07-08,2,2,0,0,0,0,0,0,0,0,0,2
-1911,Central League,P8059240,Pattison,,Terre Haute,1911-06-30,1911-09-04,16,15,0,0,0,0,0,0,0,0,0,15
-1911,Central League,P9691965,Pattison,Ben,Terre Haute,1911-08-10,1911-08-10,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P1253071,Peasley,,Fort Wayne,1911-04-29,1911-05-09,4,4,0,0,0,0,0,0,0,0,0,4
-1911,Central League,P8943654,Peer,,Zanesville,1911-05-09,1911-05-09,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P5079975,Pendry,,Grand Rapids I,1911-04-26,1911-06-27,60,0,0,5,55,0,0,0,0,0,0,0
-1911,Central League,P6659735,Pendry,,Newark,1911-06-28,1911-09-10,80,0,0,9,67,5,1,0,0,1,0,0
-1911,Central League,P3378365,Penfold,,Grand Rapids I,1911-05-02,1911-05-07,7,0,0,0,0,0,6,0,0,6,0,0
-1911,Central League,P3119226,Pfeffer,,Fort Wayne,1911-06-11,1911-09-10,26,20,0,0,0,0,6,0,5,1,0,20
-1911,Central League,P9661499,Pfeffer,Fred,Fort Wayne,1911-07-17,1911-07-17,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P2041941,Pfeffer,Jeff,Fort Wayne,1911-06-27,1911-06-27,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P3815267,Pfeiffer,,Fort Wayne,1911-07-09,1911-07-09,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P0693967,Potts,,Grand Rapids I,1911-04-26,1911-05-13,16,0,0,0,0,16,0,0,0,0,0,0
-1911,Central League,P0858955,Putman,,Terre Haute,1911-05-23,1911-05-23,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P6925125,Puttm'n,,Terre Haute,1911-06-01,1911-06-02,2,0,0,0,0,0,2,0,0,2,0,0
-1911,Central League,P3031807,Puttman,,Terre Haute,1911-05-28,1911-05-30,3,1,0,0,0,0,2,1,0,1,0,1
-1911,Central League,P0768749,Puttmann,,Terre Haute,1911-05-25,1911-05-25,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P7304822,Queisser,,Newark,1911-07-05,1911-08-05,22,0,0,0,0,0,0,0,0,0,17,0
-1911,Central League,P6556615,Queisser,,Terre Haute,1911-07-27,1911-09-09,24,8,0,13,0,1,0,0,0,0,0,8
-1911,Central League,P9379830,Quiesser,,Newark,1911-07-16,1911-07-30,3,0,0,0,0,0,0,0,0,0,2,0
-1911,Central League,P0114759,Quiesser,,Terre Haute,1911-07-30,1911-08-27,3,1,0,2,0,0,0,0,0,0,0,1
-1911,Central League,P7588040,Quinlan,,Wheeling,1911-07-04,1911-07-05,3,0,0,0,0,2,1,0,1,0,0,0
-1911,Central League,P1152702,Ragan,,Grand Rapids I,1911-05-14,1911-06-27,42,0,0,0,1,41,0,0,0,0,0,0
-1911,Central League,P4219182,Ragan,,Newark,1911-06-29,1911-07-29,25,0,0,0,0,25,0,0,0,0,0,0
-1911,Central League,P6698124,Ragon,,Grand Rapids I,1911-05-25,1911-05-25,1,0,0,0,0,1,0,0,0,0,0,0
-1911,Central League,P5846524,Ragon,,Newark,1911-06-28,1911-07-02,5,0,0,0,0,5,0,0,0,0,0,0
-1911,Central League,P3260797,Ragsdale,,Zanesville,1911-07-08,1911-09-09,57,0,1,0,0,0,0,0,0,0,54,0
-1911,Central League,P0438131,Raidy,,Zanesville,1911-05-09,1911-09-09,51,0,0,29,2,3,7,4,1,2,0,0
-1911,Central League,P0919526,Ray,,Zanesville,1911-06-02,1911-06-02,1,0,0,0,0,0,0,0,0,0,0,0
-1911,Central League,P9126450,Regan,,Newark,1911-07-04,1911-07-30,7,0,0,0,0,7,0,0,0,0,0,0
-1911,Central League,P8216624,Reilley,,Zanesville,1911-04-27,1911-05-21,12,0,0,0,0,0,12,12,0,0,0,0
-1911,Central League,P6558790,Reilly,,Grand Rapids I,1911-06-17,1911-06-17,1,0,0,0,0,0,1,0,0,1,0,0
-1911,Central League,P8791691,Reilly,,Zanesville,1911-04-26,1911-07-20,20,0,0,0,0,0,20,20,0,0,0,0
-1911,Central League,P8751433,Reman,,Evansville,1911-05-13,1911-05-13,1,0,0,0,0,0,1,1,0,0,0,0
-1911,Central League,P4228317,Reney,,Zanesville,1911-08-20,1911-08-20,1,0,0,1,0,0,0,0,0,0,0,0
-1911,Central League,P2476070,Reynolds,,Terre Haute,1911-05-09,1911-06-21,11,11,0,0,0,0,0,0,0,0,0,11
-1911,Central League,P6492926,Rhorer,,Dayton,1911-07-16,1911-09-01,6,0,0,0,0,0,0,0,0,0,4,0
-1911,Central League,P3348506,Riley,,Grand Rapids I,1911-04-28,1911-06-21,19,16,0,0,0,0,2,1,0,1,0,16
-1911,Central League,P2764426,Riley,,Newark,1911-08-01,1911-09-09,10,10,0,0,0,0,1,1,0,0,0,10
-1911,Central League,P3565869,Riley,Bill,Newark,1911-08-30,1911-08-30,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P2356464,Rodgers,,Zanesville,1911-06-21,1911-09-07,4,3,0,0,0,0,1,1,0,0,0,3
-1911,Central League,P7001095,Rogers,,Grand Rapids I,1911-05-22,1911-05-22,1,0,0,0,0,1,0,0,0,0,0,0
-1911,Central League,P5800396,Rogers,,Zanesville,1911-04-29,1911-09-09,48,38,0,0,0,0,3,2,1,0,1,38
-1911,Central League,P1299934,Rohrer,,Dayton,1911-04-26,1911-09-10,50,0,0,0,0,0,0,0,0,0,42,0
-1911,Central League,P9196615,Saeger,,Wheeling,1911-07-17,1911-08-14,2,0,0,0,2,0,0,0,0,0,0,0
-1911,Central League,P6731208,Sager,,Evansville,1911-04-26,1911-05-24,13,0,0,0,13,0,0,0,0,0,0,0
-1911,Central League,P1760034,Sager,,Wheeling,1911-06-21,1911-09-07,74,0,0,0,74,0,0,0,0,0,0,0
-1911,Central League,P4895918,Sample,,Dayton,1911-05-06,1911-09-10,36,2,4,0,0,0,0,0,0,0,30,2
-1911,Central League,P1790316,Scan'n,,South Bend I,1911-07-01,1911-07-01,1,0,0,1,0,0,1,0,0,1,0,0
-1911,Central League,P1277196,Scanlon,,Grand Rapids II,1911-07-28,1911-09-10,19,1,0,0,0,0,1,0,1,0,14,1
-1911,Central League,P1635680,Scanlon,,South Bend I,1911-06-06,1911-07-12,10,1,0,1,0,0,1,0,0,1,5,1
-1911,Central League,P8744126,Scanlon,D.,Grand Rapids II,1911-07-17,1911-07-17,1,0,0,0,0,0,0,0,0,0,0,0
-1911,Central League,P4131830,Schaefer,,Grand Rapids I,1911-06-26,1911-06-26,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P8204390,Schaefer,,Newark,1911-06-30,1911-06-30,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P7251569,Schmich,,South Bend I,1911-05-30,1911-05-30,1,0,1,0,0,0,0,0,0,0,0,0
-1911,Central League,P4954208,Schmick,,Grand Rapids II,1911-07-14,1911-09-10,55,0,54,0,0,0,0,0,0,0,0,0
-1911,Central League,P9119156,Schmick,,South Bend I,1911-04-26,1911-07-13,69,0,69,0,0,0,0,0,0,0,0,0
-1911,Central League,P2279175,Schultz,,Zanesville,1911-06-04,1911-08-23,21,21,0,0,0,0,0,0,0,0,0,21
-1911,Central League,P5774886,Seger,,Wheeling,1911-06-28,1911-06-28,1,0,0,0,1,0,0,0,0,0,0,0
-1911,Central League,P7395338,Seibert,,Fort Wayne,1911-05-23,1911-05-29,2,2,0,0,0,0,0,0,0,0,0,2
-1911,Central League,P1416191,Servat's,,Wheeling,1911-06-03,1911-07-14,10,0,10,0,0,0,0,0,0,0,0,0
-1911,Central League,P6369704,Servati's,,Wheeling,1911-07-06,1911-07-07,2,0,2,0,0,0,0,0,0,0,0,0
-1911,Central League,P7061430,Servatius,,Wheeling,1911-04-26,1911-09-07,110,0,81,0,0,0,29,0,0,29,0,0
-1911,Central League,P5652958,Shafer,,Newark,1911-07-11,1911-07-11,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P7264420,Shaffer,,Newark,1911-07-03,1911-07-06,2,2,0,0,0,0,0,0,0,0,0,2
-1911,Central League,P6132838,Shelly,,Grand Rapids I,1911-05-03,1911-05-03,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P6642862,Slattery,,Terre Haute,1911-09-06,1911-09-09,3,0,3,0,0,0,0,0,0,0,0,0
-1911,Central League,P2203835,Smith,,Evansville,1911-05-01,1911-05-27,16,0,0,0,4,0,10,0,1,9,0,0
-1911,Central League,P3342081,Smith,,Fort Wayne,1911-04-26,1911-06-07,9,8,0,0,0,0,0,0,0,0,0,8
-1911,Central League,P2611011,Smith,,Grand Rapids II,1911-07-15,1911-09-10,13,11,0,0,0,0,2,2,0,0,0,11
-1911,Central League,P1421175,Smith,,South Bend I,1911-05-03,1911-07-10,14,14,0,0,0,0,0,0,0,0,0,14
-1911,Central League,P1426427,Smith,,Terre Haute,1911-06-23,1911-09-09,23,20,0,0,0,0,3,0,3,0,0,20
-1911,Central League,P8322154,Smith,E.,South Bend I,1911-07-01,1911-07-01,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P1533708,Smith,Ed,Grand Rapids II,1911-08-30,1911-08-30,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P8284534,Smith,M.,Evansville,1911-05-11,1911-05-11,1,0,0,0,0,0,1,0,0,1,0,0
-1911,Central League,P3111772,Smith,S.,Terre Haute,1911-07-01,1911-07-01,1,0,0,0,0,0,1,0,1,0,0,0
-1911,Central League,P9272390,Smith,W.,Fort Wayne,1911-05-11,1911-05-11,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P7312523,Snyder,,Evansville,1911-04-26,1911-08-12,93,0,1,0,0,0,91,46,46,0,0,0
-1911,Central League,P7819504,Snyder,,South Bend II,1911-08-13,1911-09-07,26,0,0,0,0,0,26,24,1,1,0,0
-1911,Central League,P5582917,Some't,,Terre Haute,1911-06-30,1911-06-30,1,0,1,0,0,0,0,0,0,0,1,0
-1911,Central League,P8802199,Somer't,,Terre Haute,1911-06-19,1911-07-05,4,0,4,0,0,0,0,0,0,0,0,0
-1911,Central League,P1777763,Somerl't,,Terre Haute,1911-06-28,1911-09-03,15,0,15,0,0,0,0,0,0,0,0,0
-1911,Central League,P6599851,Somerlot,,Terre Haute,1911-06-12,1911-09-04,50,0,48,0,0,1,1,1,0,0,0,0
-1911,Central League,P9536479,Somerlott,,Terre Haute,1911-06-14,1911-08-25,18,0,18,0,0,0,0,0,0,0,0,0
-1911,Central League,P5843525,Somers,,Dayton,1911-09-02,1911-09-05,2,2,0,0,0,0,0,0,0,0,0,2
-1911,Central League,P7812642,Somm's,,Dayton,1911-08-06,1911-08-06,1,0,0,0,0,0,1,0,1,0,0,0
-1911,Central League,P3271698,Sommers,,Dayton,1911-07-09,1911-09-10,9,9,0,0,0,0,1,0,1,0,0,9
-1911,Central League,P5250012,Spencer,,Dayton,1911-04-26,1911-09-04,131,0,0,1,0,0,130,0,4,127,0,0
-1911,Central League,P6548508,Stanley,,Fort Wayne,1911-05-07,1911-05-19,3,3,0,0,0,0,0,0,0,0,0,3
-1911,Central League,P7141093,Sterzer,,Evansville,1911-04-26,1911-08-12,31,29,0,0,0,0,1,0,1,0,0,29
-1911,Central League,P7139594,Sterzer,,South Bend II,1911-08-15,1911-09-07,9,8,0,0,0,0,0,0,0,0,0,8
-1911,Central League,P7991288,Strem'l,,Zanesville,1911-08-13,1911-08-13,1,1,0,0,0,0,1,1,0,0,0,1
-1911,Central League,P7124131,Stremmel,,Zanesville,1911-04-26,1911-09-07,43,36,0,0,0,0,3,3,0,0,0,36
-1911,Central League,P9307940,Sullivan,,Evansville,1911-04-30,1911-07-26,11,11,0,0,0,0,0,0,0,0,0,11
-1911,Central League,P5861892,Sullivan,,Terre Haute,1911-08-02,1911-08-17,2,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P4293976,Summers,,Dayton,1911-05-11,1911-08-31,23,22,0,0,0,0,1,0,1,0,0,22
-1911,Central League,P4681122,Summers,,Terre Haute,1911-04-30,1911-05-09,4,4,0,0,0,0,0,0,0,0,0,4
-1911,Central League,P5083769,Swart'g,,Zanesville,1911-05-25,1911-08-23,11,0,11,0,0,0,0,0,0,0,0,0
-1911,Central League,P0917029,Swartl'g,,Zanesville,1911-04-26,1911-09-07,35,0,35,0,0,0,0,0,0,0,0,0
-1911,Central League,P5310645,Swartling,,Zanesville,1911-04-28,1911-09-09,79,0,79,0,0,0,0,0,0,0,0,0
-1911,Central League,P4419553,Tafferty,,Fort Wayne,1911-06-30,1911-06-30,1,0,0,0,0,0,0,0,0,0,0,0
-1911,Central League,P2306631,Taylor,,Dayton,1911-05-12,1911-05-17,2,2,0,0,0,0,0,0,0,0,0,2
-1911,Central League,P6011505,Taylor,,Evansville,1911-06-02,1911-08-10,37,7,0,0,26,0,1,1,0,0,0,7
-1911,Central League,P3135638,Taylor,,South Bend II,1911-08-16,1911-09-07,15,4,0,0,10,0,1,0,1,0,0,4
-1911,Central League,P7312896,Taylor,Jack,Dayton,1911-05-04,1911-05-04,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P0806570,Taylor,Jack,Evansville,1911-05-26,1911-06-19,4,3,0,0,0,0,0,0,0,0,0,3
-1911,Central League,P8245716,Tieman,,Evansville,1911-05-03,1911-08-09,42,1,0,0,0,0,1,1,0,0,35,1
-1911,Central League,P3976345,Tieman,,South Bend II,1911-08-15,1911-09-07,12,0,0,0,0,0,2,0,2,0,10,0
-1911,Central League,P7596418,Treman,,South Bend II,1911-08-27,1911-08-27,1,0,0,0,0,0,0,0,0,0,1,0
-1911,Central League,P7674082,Tremors,,Evansville,1911-06-21,1911-06-21,1,0,0,0,0,0,0,0,0,0,1,0
-1911,Central League,P2871518,Troy,,Wheeling,1911-04-28,1911-05-24,8,6,0,0,0,0,0,0,0,0,0,6
-1911,Central League,P4484176,Valliere,,Fort Wayne,1911-06-06,1911-09-10,25,24,1,0,0,0,0,0,0,0,0,24
-1911,Central League,P4769116,Van't,,Fort Wayne,1911-09-10,1911-09-10,1,0,0,1,1,0,0,0,0,0,0,0
-1911,Central League,P7989186,Vance,,Grand Rapids I,1911-05-07,1911-05-12,2,2,0,0,0,0,0,0,0,0,0,2
-1911,Central League,P1228001,Vanda't,,Fort Wayne,1911-05-14,1911-07-07,11,0,0,11,0,0,0,0,0,0,0,0
-1911,Central League,P8554216,Vandag't,,Fort Wayne,1911-04-27,1911-08-27,10,0,0,10,0,0,0,0,0,0,0,0
-1911,Central League,P7167130,Vandagr't,,Fort Wayne,1911-05-05,1911-05-05,1,0,0,1,0,0,0,0,0,0,0,0
-1911,Central League,P1524450,Vandagrift,,Fort Wayne,1911-04-26,1911-09-07,45,0,0,45,0,0,0,0,0,0,0,0
-1911,Central League,P3718117,Vande't,,Fort Wayne,1911-05-06,1911-07-09,13,0,0,13,0,0,0,0,0,0,0,0
-1911,Central League,P0728044,Vandeg't,,Fort Wayne,1911-05-01,1911-07-24,3,0,0,3,0,0,0,0,0,0,0,0
-1911,Central League,P8823142,Vandegrift,,Fort Wayne,1911-05-03,1911-08-10,2,0,0,2,0,0,0,0,0,0,0,0
-1911,Central League,P7575863,Vander't,,Fort Wayne,1911-06-28,1911-09-10,13,0,0,13,0,0,0,0,0,0,0,0
-1911,Central League,P8033662,Vanderg't,,Fort Wayne,1911-06-29,1911-06-29,1,0,0,1,0,0,0,0,0,0,0,0
-1911,Central League,P4641144,Vandergrift,,Fort Wayne,1911-05-22,1911-09-09,38,0,0,38,0,0,0,0,0,0,0,0
-1911,Central League,P9534495,Varley,,Dayton,1911-08-07,1911-08-09,2,0,0,0,1,0,1,0,1,0,0,0
-1911,Central League,P6543817,Wacker,,Dayton,1911-05-06,1911-07-16,16,14,0,0,0,0,2,0,2,0,0,14
-1911,Central League,P5008057,Wacker,,Fort Wayne,1911-07-21,1911-09-10,16,12,0,0,0,0,2,1,0,1,0,12
-1911,Central League,P5962219,Walzer,,Terre Haute,1911-06-20,1911-06-20,1,0,0,0,0,0,0,0,0,0,1,0
-1911,Central League,P8247900,War'der,,Wheeling,1911-07-23,1911-07-27,3,0,0,0,0,0,3,0,3,0,0,0
-1911,Central League,P8802209,Warder,,Fort Wayne,1911-05-30,1911-05-30,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P6389854,Waring,,Terre Haute,1911-04-26,1911-05-30,26,0,0,0,0,0,2,1,0,1,26,0
-1911,Central League,P7948682,Warre'r,,Wheeling,1911-07-29,1911-08-12,2,0,0,0,0,0,2,0,2,0,0,0
-1911,Central League,P4560548,Warren'r,,Fort Wayne,1911-08-23,1911-09-10,8,0,0,0,0,0,8,8,0,0,0,0
-1911,Central League,P5329080,Warren'r,,Wheeling,1911-07-25,1911-08-19,9,0,0,0,0,0,9,0,9,0,0,0
-1911,Central League,P4928390,Warrender,,Fort Wayne,1911-08-21,1911-09-10,14,0,0,0,0,0,14,13,0,1,0,0
-1911,Central League,P0095258,Warrender,,Wheeling,1911-07-25,1911-08-20,14,0,0,0,0,0,14,1,13,0,0,0
-1911,Central League,P8389065,Weiley,,Zanesville,1911-04-26,1911-04-26,1,0,0,0,0,0,1,1,0,0,0,0
-1911,Central League,P4901901,Welch,,Zanesville,1911-05-04,1911-09-04,34,0,0,0,0,1,0,0,0,0,30,0
-1911,Central League,P7786524,Welch'r,,Wheeling,1911-09-06,1911-09-06,1,0,0,0,0,0,1,0,0,1,1,0
-1911,Central League,P8849178,Welcher,,Wheeling,1911-04-29,1911-09-07,36,0,0,0,0,0,11,7,3,1,22,0
-1911,Central League,P0961309,Welsh,,Zanesville,1911-05-10,1911-09-07,11,0,0,0,0,0,1,0,1,0,8,0
-1911,Central League,P4908586,Welsher,,Wheeling,1911-04-27,1911-09-03,71,0,0,0,0,0,10,4,4,2,58,0
-1911,Central League,P0538533,Werder,,Fort Wayne,1911-05-26,1911-06-07,3,3,0,0,0,0,0,0,0,0,0,3
-1911,Central League,P0298078,Werder,,Grand Rapids I,1911-06-19,1911-06-27,4,4,0,0,0,0,0,0,0,0,0,4
-1911,Central League,P3539918,Werder,,Newark,1911-06-29,1911-08-03,12,11,0,0,0,0,0,0,0,0,0,11
-1911,Central League,P8163187,West,,Wheeling,1911-06-19,1911-06-20,2,0,0,0,2,0,0,0,0,0,0,0
-1911,Central League,P4401215,Wether,,Wheeling,1911-07-25,1911-07-25,1,0,0,0,0,0,0,0,0,0,1,0
-1911,Central League,P0951545,Wetzel,,Grand Rapids II,1911-07-14,1911-08-10,22,0,0,0,10,12,0,0,0,0,0,0
-1911,Central League,P2821357,Wetzel,,South Bend I,1911-04-26,1911-07-13,70,0,0,0,69,1,0,0,0,0,0,0
-1911,Central League,P5711281,Wetzel,,Terre Haute,1911-08-13,1911-09-09,24,0,0,0,24,0,0,0,0,0,0,0
-1911,Central League,P6419929,Wetzell,,South Bend I,1911-05-06,1911-06-22,9,0,0,0,9,0,0,0,0,0,0,0
-1911,Central League,P5797423,Whe'r,,South Bend I,1911-07-12,1911-07-12,1,0,1,1,0,0,0,0,0,0,0,0
-1911,Central League,P3983283,Whe'r,,Terre Haute,1911-05-10,1911-05-10,1,0,0,1,1,0,0,0,0,0,0,0
-1911,Central League,P7440714,Wheeler,,Grand Rapids II,1911-07-14,1911-08-22,36,0,5,1,31,0,0,0,0,0,0,0
-1911,Central League,P1564894,Wheeler,,South Bend I,1911-07-04,1911-07-13,10,0,9,0,1,0,0,0,0,0,0,0
-1911,Central League,P1641575,Wheeler,,South Bend II,1911-08-26,1911-09-07,13,0,0,10,3,0,0,0,0,0,0,0
-1911,Central League,P9309570,Wheeler,,Terre Haute,1911-04-26,1911-06-30,59,1,2,39,15,0,2,0,0,2,0,1
-1911,Central League,P8694907,Whitaker,,Fort Wayne,1911-05-04,1911-07-15,3,3,0,0,0,0,0,0,0,0,0,3
-1911,Central League,P1297865,Whittaker,,Evansville,1911-08-06,1911-08-09,2,2,0,0,0,0,0,0,0,0,0,2
-1911,Central League,P2436111,Whittaker,,Fort Wayne,1911-05-08,1911-07-18,15,15,0,0,0,0,0,0,0,0,0,15
-1911,Central League,P9054958,Whittaker,,South Bend II,1911-08-15,1911-08-15,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Central League,P2943930,Wickl'd,,Grand Rapids I,1911-05-06,1911-06-01,3,0,0,0,0,0,3,0,3,0,0,0
-1911,Central League,P3785314,Wickland,,Grand Rapids I,1911-04-26,1911-06-27,53,0,0,0,0,0,52,0,52,0,0,0
-1911,Central League,P0172114,Wickland,,Newark,1911-06-28,1911-09-10,78,0,0,0,0,0,78,1,77,0,0,0
-1911,Central League,P8395519,Wickland,Al,Newark,1911-07-25,1911-07-25,1,0,0,0,0,0,1,0,1,0,0,0
-1911,Central League,P8291176,Wilchor,,Wheeling,1911-08-23,1911-08-23,1,0,0,0,0,0,0,0,0,0,0,0
-1911,Central League,P4827492,Wiley,,Zanesville,1911-04-27,1911-04-27,1,0,0,0,0,0,1,0,0,1,0,0
-1911,Central League,P4352162,Wilhelm,,Wheeling,1911-06-29,1911-07-14,6,6,0,0,0,0,0,0,0,0,0,6
-1911,Central League,P8883353,Wilkin'n,,Evansville,1911-05-01,1911-05-15,10,0,0,0,0,0,10,0,3,7,0,0
-1911,Central League,P0454900,Wilkinson,,Evansville,1911-04-26,1911-05-16,6,0,0,0,0,0,5,0,0,5,0,0
-1911,Central League,P2397967,Wilkm'n,,Evansville,1911-05-06,1911-05-06,1,0,0,0,0,0,1,0,0,1,0,0
-1911,Central League,P0120674,Winchell,,Dayton,1911-05-03,1911-09-07,34,33,0,0,0,0,0,0,0,0,0,33
-1911,Central League,P0987238,Wiring,,Terre Haute,1911-04-29,1911-04-29,1,0,0,0,0,0,0,0,0,0,1,0
-1911,Central League,P1963292,Withers,,Evansville,1911-05-01,1911-08-09,25,25,0,0,0,0,0,0,0,0,0,25
-1911,Central League,P2505057,Withers,,South Bend II,1911-08-14,1911-09-04,10,10,0,0,0,0,0,0,0,0,0,10
-1911,Central League,P6029087,Wratten,,Zanesville,1911-04-26,1911-08-12,107,0,0,0,107,0,0,0,0,0,0,0
-1911,Central League,P3730499,Wuffli,,Evansville,1911-04-26,1911-08-12,108,0,0,1,70,41,0,0,0,0,0,0
-1911,Central League,P0623016,Wuffli,,South Bend II,1911-08-13,1911-09-07,26,0,0,0,16,10,0,0,0,0,0,0
-1911,Central League,P5496590,Young,,Fort Wayne,1911-05-13,1911-09-10,121,1,0,0,0,0,120,1,0,119,0,1
+1911,Central League,P8730888,Alberts,,Fort Wayne,1911-04-28,1911-09-06,28,27,0,0,0,0,1,1,0,0,0,27
+1911,Central League,P9257058,Alberts,,Terre Haute,1911-04-26,1911-09-06,41,34,0,0,0,0,3,2,0,1,0,34
+1911,Central League,P1077344,Allen,,Grand Rapids I,1911-06-22,1911-06-22,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P1720926,Asher,,Dayton,1911-04-30,1911-07-19,19,18,0,0,0,0,0,0,0,0,0,18
+1911,Central League,P8593456,Asher,,Grand Rapids II,1911-07-30,1911-07-30,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P6699015,Asher,Ed,Dayton,1911-04-27,1911-04-27,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P5951217,Bailey,,Fort Wayne,1911-05-01,1911-09-04,68,0,21,0,0,0,0,0,0,0,37,0
+1911,Central League,P3146864,Bark'l,,Grand Rapids II,1911-08-17,1911-08-17,1,0,0,0,1,0,1,0,0,1,0,0
+1911,Central League,P5767720,Bark'l,,Terre Haute,1911-06-13,1911-07-01,3,1,0,1,1,0,2,1,2,0,0,1
+1911,Central League,P7207495,Barkw'l,,Grand Rapids II,1911-08-24,1911-08-24,1,0,0,0,1,0,0,0,0,0,0,0
+1911,Central League,P0223231,Barkw'l,,Terre Haute,1911-05-24,1911-06-29,3,0,0,0,2,0,1,0,1,0,0,0
+1911,Central League,P6716593,Barkwell,,Grand Rapids II,1911-08-11,1911-09-10,29,0,0,0,18,0,11,1,0,10,0,0
+1911,Central League,P9035369,Barkwell,,Terre Haute,1911-04-26,1911-08-10,95,1,0,43,31,18,3,0,3,0,0,1
+1911,Central League,P5786569,Barrett,,Terre Haute,1911-06-07,1911-06-08,4,0,0,0,0,0,4,0,0,4,0,0
+1911,Central League,P5145124,Bates,,Terre Haute,1911-04-26,1911-09-09,102,0,0,0,0,0,101,1,6,95,0,0
+1911,Central League,P6151764,Bates,B.,Terre Haute,1911-07-08,1911-07-08,1,0,0,0,0,0,1,0,0,1,0,0
+1911,Central League,P1976474,Beasley,,Terre Haute,1911-04-30,1911-07-01,22,22,0,0,0,0,0,0,0,0,0,22
+1911,Central League,P8651256,Beatty,,Wheeling,1911-04-27,1911-09-03,37,35,0,0,0,0,2,0,0,2,0,35
+1911,Central League,P0383978,Beers,,Zanesville,1911-05-03,1911-05-27,6,6,0,0,0,0,0,0,0,0,0,6
+1911,Central League,P8042585,Beesly,,Terre Haute,1911-05-14,1911-05-14,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P4747795,Bell,,Grand Rapids I,1911-06-20,1911-06-23,3,0,0,0,0,0,2,0,0,2,2,0
+1911,Central League,P6246532,Bemis,,Grand Rapids I,1911-05-10,1911-06-27,11,11,0,0,0,0,0,0,0,0,0,11
+1911,Central League,P6541812,Bemis,,Newark,1911-07-01,1911-09-05,12,12,0,0,0,0,0,0,0,0,0,12
+1911,Central League,P6443248,Benson,,Dayton,1911-04-26,1911-09-10,136,0,0,133,0,0,2,0,1,1,0,0
+1911,Central League,P8000177,Benton,,Dayton,1911-06-24,1911-06-24,1,0,0,1,0,0,0,0,0,0,0,0
+1911,Central League,P0647032,Billiard,,Terre Haute,1911-05-13,1911-08-30,28,26,0,0,0,0,2,0,0,2,0,26
+1911,Central League,P2772376,Blake,,Zanesville,1911-06-04,1911-09-09,69,0,4,60,4,0,3,2,1,0,0,0
+1911,Central League,P2167343,Blount,,Fort Wayne,1911-04-26,1911-08-09,106,0,0,0,0,0,106,1,105,0,0,0
+1911,Central League,P8166685,Boll,,Grand Rapids I,1911-06-21,1911-06-21,1,0,0,0,0,0,0,0,0,0,1,0
+1911,Central League,P1367847,Bullock,,Fort Wayne,1911-04-30,1911-05-27,4,0,1,1,2,0,0,0,0,0,0,0
+1911,Central League,P1914623,Burns,,Evansville,1911-07-05,1911-07-06,2,0,0,0,0,0,2,0,2,0,0,0
+1911,Central League,P0395495,Burrell,,Wheeling,1911-07-25,1911-07-25,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P8817762,Butler,,Grand Rapids I,1911-04-28,1911-05-13,4,4,0,0,0,0,0,0,0,0,0,4
+1911,Central League,P8127477,Byrne,,Evansville,1911-06-28,1911-07-03,2,0,0,0,0,0,1,0,1,0,0,0
+1911,Central League,P0197800,Byrnes,,Evansville,1911-04-26,1911-08-12,95,0,0,0,0,0,94,56,39,1,0,0
+1911,Central League,P6019053,Byrnes,,South Bend II,1911-08-13,1911-09-07,25,0,0,0,0,0,25,0,25,0,0,0
+1911,Central League,P5069446,Call'n,,Terre Haute,1911-05-28,1911-05-28,1,0,0,0,0,1,1,0,1,0,0,0
+1911,Central League,P2913672,Callahan,,Grand Rapids I,1911-06-26,1911-06-27,3,0,0,0,0,0,3,3,0,0,0,0
+1911,Central League,P8479352,Callahan,,Newark,1911-06-28,1911-08-03,33,0,0,0,0,0,33,28,4,1,0,0
+1911,Central League,P9696905,Callahan,,Terre Haute,1911-04-26,1911-06-22,55,0,0,0,0,0,55,0,54,1,0,0
+1911,Central League,P0555664,Cameron,,Dayton,1911-04-26,1911-09-05,128,0,128,0,0,0,0,0,0,0,0,0
+1911,Central League,P1771463,Camnitz,,South Bend I,1911-05-23,1911-06-01,3,3,0,0,0,0,0,0,0,0,0,3
+1911,Central League,P2484431,Canterell,,Evansville,1911-05-03,1911-05-03,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P9331023,Cantwell,,Evansville,1911-04-28,1911-08-10,30,27,0,0,0,0,0,0,0,0,0,27
+1911,Central League,P6654004,Cantwell,,South Bend II,1911-08-13,1911-08-18,2,2,0,0,0,0,0,0,0,0,0,2
+1911,Central League,P1346604,Care,,South Bend I,1911-04-26,1911-04-26,1,0,0,0,0,0,0,0,0,0,0,0
+1911,Central League,P6351568,Casey,,Fort Wayne,1911-04-26,1911-09-08,108,0,0,0,78,0,29,0,29,0,0,0
+1911,Central League,P8663364,Cavana'h,,Dayton,1911-09-06,1911-09-06,1,0,0,0,1,0,0,0,0,0,0,0
+1911,Central League,P1370937,Cavanaugh,,Dayton,1911-09-02,1911-09-10,3,0,0,1,0,2,0,0,0,0,0,0
+1911,Central League,P0841557,Clancy,,Fort Wayne,1911-05-29,1911-09-10,97,0,95,0,0,0,0,0,0,0,0,0
+1911,Central League,P1405144,Cole,,Terre Haute,1911-08-19,1911-08-19,1,0,0,0,0,1,0,0,0,0,0,0
+1911,Central League,P2888163,Collins,,Wheeling,1911-07-09,1911-07-22,11,0,0,2,0,0,8,0,8,1,0,0
+1911,Central League,P7839371,Compton,,Dayton,1911-04-26,1911-09-03,35,30,1,0,0,0,2,0,2,0,0,30
+1911,Central League,P8612036,Compton,Jack,Dayton,1911-07-16,1911-07-16,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P5907745,Conaway,,Wheeling,1911-05-30,1911-06-01,2,0,0,0,0,0,2,0,0,2,0,0
+1911,Central League,P9096835,Conley,,Zanesville,1911-07-08,1911-07-08,1,0,0,1,0,0,0,0,0,0,0,0
+1911,Central League,P6488068,Connell,,Zanesville,1911-05-22,1911-05-22,1,0,0,0,0,0,1,0,0,1,0,0
+1911,Central League,P6946197,Connelly,,South Bend I,1911-06-11,1911-06-12,2,0,0,0,2,0,0,0,0,0,0,0
+1911,Central League,P0684761,Connelly,,Terre Haute,1911-07-23,1911-07-23,1,0,0,0,0,0,1,0,1,0,0,0
+1911,Central League,P2913565,Connelly,,Zanesville,1911-05-12,1911-07-02,6,1,0,0,0,0,5,1,4,0,0,1
+1911,Central League,P2877516,Connolley,,Zanesville,1911-05-09,1911-05-09,1,0,0,0,0,0,0,0,0,0,0,0
+1911,Central League,P5756771,Connolly,,Terre Haute,1911-07-14,1911-09-09,47,1,0,0,0,0,46,0,46,0,0,1
+1911,Central League,P5794535,Connolly,,Zanesville,1911-04-27,1911-07-07,41,7,0,1,0,0,31,16,3,12,0,7
+1911,Central League,P4912367,Conoway,,Wheeling,1911-05-29,1911-05-29,1,0,0,0,0,0,1,0,0,1,0,0
+1911,Central League,P2845152,Conway,,Wheeling,1911-05-24,1911-05-30,6,0,0,0,0,0,6,1,0,5,0,0
+1911,Central League,P7936763,Cook,,Wheeling,1911-05-03,1911-05-03,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P6324413,Core,,Grand Rapids I,1911-04-30,1911-06-10,41,0,1,0,0,0,40,34,5,2,0,0
+1911,Central League,P8705702,Core,,Grand Rapids II,1911-07-14,1911-09-09,56,0,0,0,0,0,56,55,0,1,0,0
+1911,Central League,P0447418,Core,,South Bend I,1911-06-11,1911-07-13,34,0,0,0,0,0,34,34,0,0,0,0
+1911,Central League,P6831488,Corns,,Fort Wayne,1911-04-26,1911-06-24,32,8,0,0,0,0,18,3,0,16,0,8
+1911,Central League,P1634351,Corre,,Grand Rapids I,1911-05-21,1911-05-21,1,0,0,0,0,0,1,1,0,0,0,0
+1911,Central League,P7389480,Cote,,Grand Rapids II,1911-08-26,1911-08-26,1,0,0,0,0,0,1,1,0,0,0,0
+1911,Central League,P6108376,Crane,,Wheeling,1911-04-26,1911-05-30,35,0,35,0,0,0,0,0,0,0,0,0
+1911,Central League,P2376931,Craveck,,Newark,1911-07-03,1911-07-03,1,0,0,0,1,0,0,0,0,0,0,0
+1911,Central League,P0357075,Craven,,Grand Rapids I,1911-06-23,1911-06-27,4,0,0,0,4,0,0,0,0,0,0,0
+1911,Central League,P8192835,Craven,,Newark,1911-06-28,1911-09-08,57,0,0,6,13,0,36,35,0,1,0,0
+1911,Central League,P6272976,Craven,,South Bend I,1911-04-26,1911-06-02,25,0,0,0,0,0,23,2,1,20,0,0
+1911,Central League,P5372589,Croft,,Wheeling,1911-07-14,1911-07-14,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P3768141,Crook,,Wheeling,1911-04-29,1911-04-29,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P0476207,Crowder,,Zanesville,1911-04-26,1911-09-09,131,0,0,0,0,131,0,0,0,0,0,0
+1911,Central League,P2552455,Davidson,,Wheeling,1911-05-13,1911-05-13,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P3902774,Degroff,,Zanesville,1911-06-25,1911-09-09,67,1,0,0,0,0,66,63,3,0,0,1
+1911,Central League,P9464594,Deha'n,,Dayton,1911-09-10,1911-09-10,1,0,0,0,1,0,1,1,0,0,0,0
+1911,Central League,P0211718,Dehaven,,Dayton,1911-04-26,1911-09-10,139,0,0,0,0,0,139,138,1,0,0,0
+1911,Central League,P4794924,Dell,,Dayton,1911-09-04,1911-09-10,7,0,0,0,0,0,7,0,2,5,0,0
+1911,Central League,P1022640,Dill,,Dayton,1911-09-02,1911-09-08,2,0,1,0,0,0,1,0,0,1,0,0
+1911,Central League,P9993038,Doak,,Wheeling,1911-04-26,1911-09-06,45,37,1,0,0,0,5,0,1,4,0,37
+1911,Central League,P6542327,Dobard,,Dayton,1911-04-26,1911-09-10,123,0,0,0,0,123,0,0,0,0,0,0
+1911,Central League,P1455352,Donahue,,Grand Rapids I,1911-04-26,1911-04-28,2,0,0,0,0,0,2,0,0,2,0,0
+1911,Central League,P3714634,Donovan,,Evansville,1911-04-28,1911-08-12,88,0,0,0,0,0,87,1,0,86,0,0
+1911,Central League,P0482511,Donovan,,South Bend II,1911-08-13,1911-09-07,26,0,0,0,0,0,26,0,0,26,0,0
+1911,Central League,P6226036,Doty,,Grand Rapids I,1911-05-16,1911-05-29,4,4,0,0,0,0,0,0,0,0,0,4
+1911,Central League,P3551804,Dowell,,Terre Haute,1911-05-23,1911-05-23,1,0,0,0,0,0,1,1,0,0,0,0
+1911,Central League,P9515360,Drake,,Zanesville,1911-07-23,1911-07-23,1,0,0,1,0,0,0,0,0,0,0,0
+1911,Central League,P3159742,Drallinger,,South Bend II,1911-08-28,1911-08-28,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P1973359,Duggar,,Evansville,1911-06-15,1911-06-15,1,0,0,0,0,0,1,1,0,0,0,0
+1911,Central League,P7403251,Dugger,,Evansville,1911-05-10,1911-07-22,11,1,2,0,0,0,5,5,0,0,1,1
+1911,Central League,P5408183,Dugger,,Zanesville,1911-08-02,1911-09-01,18,1,0,11,0,0,1,0,1,0,0,1
+1911,Central League,P0759411,Dur'r,,Wheeling,1911-06-29,1911-06-29,1,0,0,0,0,0,1,0,1,1,0,0
+1911,Central League,P4224432,Durham,,Wheeling,1911-05-26,1911-09-01,94,0,0,0,0,0,93,7,10,76,1,0
+1911,Central League,P2079199,Essick,,Grand Rapids II,1911-07-16,1911-09-08,15,14,0,0,0,0,0,0,0,0,0,14
+1911,Central League,P8897299,Essick,,South Bend I,1911-06-03,1911-07-11,10,10,0,0,0,0,0,0,0,0,0,10
+1911,Central League,P9906166,Essick,Bill,South Bend I,1911-06-25,1911-06-25,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P7697109,Farrel,,Zanesville,1911-05-04,1911-05-04,1,0,0,0,0,0,1,0,1,0,0,0
+1911,Central League,P1368065,Farrell,,Zanesville,1911-04-26,1911-09-09,120,0,0,0,0,1,118,1,118,0,0,0
+1911,Central League,P1905871,Fischer,,Dayton,1911-08-27,1911-08-27,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P5076044,Fisher,,Dayton,1911-04-29,1911-09-01,3,3,0,0,0,0,0,0,0,0,0,3
+1911,Central League,P4844466,Flournoy,,Grand Rapids I,1911-04-26,1911-05-03,5,0,0,0,0,0,5,5,0,0,0,0
+1911,Central League,P4397553,Flow'ey,,Grand Rapids I,1911-04-30,1911-04-30,1,0,0,0,0,0,1,1,0,0,0,0
+1911,Central League,P5427120,Fromholtz,,Dayton,1911-04-28,1911-09-09,11,11,0,0,0,0,0,0,0,0,0,11
+1911,Central League,P1958428,Fromholz,,Dayton,1911-08-13,1911-08-13,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P0610697,Garr,,Grand Rapids II,1911-08-17,1911-08-17,1,0,0,0,0,0,1,0,0,1,0,0
+1911,Central League,P7226057,Geier,,Grand Rapids II,1911-07-14,1911-09-10,48,0,0,4,0,0,44,0,0,44,0,0
+1911,Central League,P0422333,Geier,,South Bend I,1911-04-26,1911-07-13,76,0,0,3,0,0,74,37,0,37,0,0
+1911,Central League,P1991926,Geier,Phil,Grand Rapids II,1911-08-13,1911-08-13,1,0,0,0,0,0,0,0,0,0,0,0
+1911,Central League,P0424970,Geier,Phil,South Bend I,1911-05-08,1911-05-08,1,0,0,0,0,0,1,1,0,0,0,0
+1911,Central League,P6088984,Geir,,South Bend I,1911-05-06,1911-05-07,2,0,0,0,0,0,2,2,0,0,0,0
+1911,Central League,P4177188,George,,Dayton,1911-07-13,1911-07-13,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P4724740,Gerchak,,Wheeling,1911-09-04,1911-09-04,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P6537549,Geyer,,South Bend I,1911-05-24,1911-05-24,1,0,0,0,0,0,1,1,0,0,0,0
+1911,Central League,P4764205,Gilbert,,Newark,1911-07-02,1911-09-10,40,24,0,1,0,0,15,13,1,1,0,24
+1911,Central League,P8545584,Gillan,,Zanesville,1911-05-10,1911-05-10,1,0,0,0,0,0,0,0,0,0,0,0
+1911,Central League,P3975476,Gillen,,Zanesville,1911-04-27,1911-05-26,14,3,5,0,0,0,5,0,0,5,0,3
+1911,Central League,P9286656,Goldrich,,Grand Rapids I,1911-05-22,1911-05-22,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P8686576,Goldrich,,Newark,1911-07-23,1911-08-06,2,2,0,0,0,0,0,0,0,0,0,2
+1911,Central League,P9808259,Goldrick,,Grand Rapids I,1911-04-26,1911-06-23,21,16,0,0,0,0,6,2,1,3,0,16
+1911,Central League,P2630259,Goldrick,,Newark,1911-06-28,1911-09-10,20,18,0,0,0,1,1,0,0,1,0,18
+1911,Central League,P2767855,Graf,,Wheeling,1911-04-26,1911-04-30,5,0,0,0,5,0,0,0,0,0,0,0
+1911,Central League,P1621855,Graham,,Wheeling,1911-06-01,1911-09-06,38,24,0,0,0,0,6,1,2,3,0,24
+1911,Central League,P8539665,Grant,,Evansville,1911-05-05,1911-08-12,72,0,0,71,1,0,0,0,0,0,0,0
+1911,Central League,P7621558,Grant,,South Bend II,1911-08-13,1911-08-21,5,0,0,5,0,0,0,0,0,0,0,0
+1911,Central League,P0508817,Grant,,Terre Haute,1911-08-31,1911-09-07,9,0,0,9,0,0,0,0,0,0,0,0
+1911,Central League,P9402324,Graven,,South Bend I,1911-04-27,1911-04-27,1,0,0,0,0,0,1,0,0,1,0,0
+1911,Central League,P0083687,Gray,,Grand Rapids I,1911-05-17,1911-06-27,40,0,1,0,0,0,39,7,0,33,0,0
+1911,Central League,P5079767,Gray,,Newark,1911-06-28,1911-09-10,79,1,0,0,0,0,78,2,1,76,0,1
+1911,Central League,P2349506,Gray,,Wheeling,1911-08-30,1911-09-07,10,0,0,0,0,10,0,0,0,0,0,0
+1911,Central League,P0982758,Greer,,South Bend I,1911-05-23,1911-05-23,1,0,0,0,0,0,1,1,0,0,0,0
+1911,Central League,P4431102,Grefe,,Evansville,1911-04-26,1911-08-12,107,0,107,0,0,0,0,0,0,0,1,0
+1911,Central League,P8193027,Grefe,,South Bend II,1911-08-13,1911-09-07,26,0,26,0,0,0,0,0,0,0,0,0
+1911,Central League,P3999202,Greif,,Evansville,1911-07-08,1911-07-08,1,0,1,0,0,0,0,0,0,0,0,0
+1911,Central League,P3034219,Grey,,Grand Rapids I,1911-05-20,1911-05-20,1,0,0,0,0,0,1,0,0,1,0,0
+1911,Central League,P7838098,Gro'n,,Terre Haute,1911-06-08,1911-06-21,2,0,0,0,1,1,2,2,0,0,0,0
+1911,Central League,P5897805,Groff,,Zanesville,1911-08-20,1911-08-20,1,0,0,0,0,0,1,1,0,0,0,0
+1911,Central League,P9057881,Grog'n,,Terre Haute,1911-06-30,1911-06-30,1,0,0,0,1,0,1,1,0,0,0,0
+1911,Central League,P7261203,Grogan,,Terre Haute,1911-04-26,1911-09-09,131,0,0,2,7,10,114,99,15,1,1,0
+1911,Central League,P2249193,Groh,,Zanesville,1911-04-26,1911-05-09,14,0,0,14,0,0,0,0,0,0,0,0
+1911,Central League,P5378936,Gwinn,,Evansville,1911-05-23,1911-05-27,2,2,0,0,0,0,0,0,0,0,0,2
+1911,Central League,P6204760,Gwinn,,Terre Haute,1911-06-07,1911-07-13,8,8,0,0,0,0,0,0,0,0,0,8
+1911,Central League,P8814312,Gwynn,,Terre Haute,1911-06-03,1911-07-06,4,4,0,0,0,0,0,0,0,0,0,4
+1911,Central League,P7798284,Hadley,,Evansville,1911-04-26,1911-08-12,106,0,0,39,0,69,0,0,0,0,0,0
+1911,Central League,P4612561,Hadley,,South Bend II,1911-08-13,1911-09-07,26,0,0,9,0,17,0,0,0,0,0,0
+1911,Central League,P0302503,Hadly,,Evansville,1911-04-28,1911-05-16,2,0,0,1,0,1,0,0,0,0,0,0
+1911,Central League,P0653747,Hafford,,Zanesville,1911-08-16,1911-08-23,9,0,0,0,9,0,0,0,0,0,0,0
+1911,Central League,P9238769,Hailey,,Evansville,1911-06-01,1911-06-01,1,0,0,0,0,1,0,0,0,0,0,0
+1911,Central League,P2523854,Hale,,Grand Rapids I,1911-04-26,1911-06-26,17,17,0,0,0,0,0,0,0,0,0,17
+1911,Central League,P0885054,Hale,,Newark,1911-06-30,1911-09-10,17,17,0,0,0,0,0,0,0,0,0,17
+1911,Central League,P1866936,Hale,Roy,Newark,1911-08-23,1911-08-23,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P7074261,Hall,,Grand Rapids I,1911-06-17,1911-06-17,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P3882450,Hall,,South Bend I,1911-06-04,1911-06-09,2,0,0,0,0,0,2,0,0,2,0,0
+1911,Central League,P2255322,Halt,,South Bend I,1911-06-03,1911-06-07,4,0,0,0,0,0,4,1,0,3,0,0
+1911,Central League,P0165043,Hammond,,Wheeling,1911-09-02,1911-09-07,2,2,0,0,0,0,0,0,0,0,0,2
+1911,Central League,P8684186,Hanley,,Zanesville,1911-05-21,1911-09-09,23,23,0,0,0,0,0,0,0,0,0,23
+1911,Central League,P6600348,Har'e,,Terre Haute,1911-05-30,1911-05-30,1,0,0,0,0,0,1,1,0,0,1,0
+1911,Central League,P5789711,Har[d]grove,,Terre Haute,1911-05-13,1911-05-13,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P4300064,Hard'e,,Terre Haute,1911-05-08,1911-05-08,1,0,0,0,0,0,1,1,0,0,1,0
+1911,Central League,P6144525,Harden,,Fort Wayne,1911-06-03,1911-07-30,8,8,0,0,0,0,0,0,0,0,0,8
+1911,Central League,P9953087,Hardford,,Terre Haute,1911-06-15,1911-06-15,1,0,0,0,0,1,0,0,0,0,0,0
+1911,Central League,P4490199,Hardgrove,,Terre Haute,1911-04-27,1911-06-25,8,6,0,0,0,0,2,2,0,0,0,6
+1911,Central League,P1574417,Hardin,,Fort Wayne,1911-04-27,1911-09-09,29,29,0,0,0,0,0,0,0,0,0,29
+1911,Central League,P7792967,Hardy,,Wheeling,1911-04-28,1911-09-04,34,34,0,0,0,0,0,0,0,0,0,34
+1911,Central League,P3762949,Hargrave,,Terre Haute,1911-08-04,1911-08-04,1,0,0,0,0,0,0,0,0,0,1,0
+1911,Central League,P9796307,Hargrove,,Terre Haute,1911-05-02,1911-09-09,78,0,1,0,0,0,26,17,4,5,43,0
+1911,Central League,P9078488,Harriott,,Dayton,1911-09-07,1911-09-07,1,0,1,0,0,0,0,0,0,0,0,0
+1911,Central League,P5552143,Hart'd,,Terre Haute,1911-06-13,1911-06-13,1,0,0,0,0,1,1,0,0,1,0,0
+1911,Central League,P1755215,Hartford,,Terre Haute,1911-05-31,1911-09-09,79,0,1,1,20,20,34,6,6,22,0,0
+1911,Central League,P9519360,Hartman,,Terre Haute,1911-05-24,1911-05-29,4,0,0,0,0,4,0,0,0,0,0,0
+1911,Central League,P4660558,Hartmann,,Terre Haute,1911-05-30,1911-05-30,1,0,0,0,0,1,0,0,0,0,0,0
+1911,Central League,P1683578,Hennis,,Terre Haute,1911-07-24,1911-08-03,3,3,0,0,0,0,0,0,0,0,0,3
+1911,Central League,P8264924,Herriott,,Dayton,1911-08-07,1911-09-10,6,0,6,0,0,0,0,0,0,0,0,0
+1911,Central League,P0095874,Hildebrand,,Terre Haute,1911-07-08,1911-07-08,1,0,0,0,0,0,0,0,0,0,0,0
+1911,Central League,P2690231,Hillinger,,Zanesville,1911-04-28,1911-09-09,131,0,0,0,0,0,131,14,3,114,0,0
+1911,Central League,P9255097,Holly,,South Bend I,1911-05-23,1911-05-23,1,0,0,0,0,0,0,0,0,0,0,0
+1911,Central League,P5747877,Holmes,,Grand Rapids II,1911-07-14,1911-09-10,48,1,1,0,0,0,2,0,0,2,45,1
+1911,Central League,P5191193,Holmes,,South Bend I,1911-04-26,1911-07-13,76,0,3,0,0,0,0,0,0,0,74,0
+1911,Central League,P5918315,Holt,,Grand Rapids I,1911-06-11,1911-06-26,15,1,0,5,0,0,8,7,1,0,2,1
+1911,Central League,P2400475,Holt,,Newark,1911-06-28,1911-06-29,2,0,0,0,0,0,0,0,0,0,2,0
+1911,Central League,P1356136,Holt,,South Bend I,1911-04-30,1911-06-10,22,0,0,0,0,0,18,1,4,13,4,0
+1911,Central League,P7436300,Holt,Alva,South Bend I,1911-05-06,1911-05-15,2,0,0,0,0,0,2,0,1,1,0,0
+1911,Central League,P1659161,Hoyt,,Terre Haute,1911-07-18,1911-07-22,2,2,0,0,0,0,0,0,0,0,0,2
+1911,Central League,P1115890,Jewell,,Wheeling,1911-04-26,1911-09-04,127,0,0,0,1,119,7,0,3,4,0,0
+1911,Central League,P5332052,Johnson,,Terre Haute,1911-05-21,1911-05-21,1,0,0,0,0,0,1,1,0,0,0,0
+1911,Central League,P0418420,Jones,,Terre Haute,1911-05-05,1911-05-07,2,2,0,0,0,0,0,0,0,0,0,2
+1911,Central League,P6844888,Jones,,Zanesville,1911-04-28,1911-09-09,39,37,0,0,0,0,0,0,0,0,0,37
+1911,Central League,P5204402,Justice,,Fort Wayne,1911-04-26,1911-09-10,135,0,0,1,0,135,0,0,0,0,0,0
+1911,Central League,P5705949,Justis,,Fort Wayne,1911-07-09,1911-07-09,1,0,0,0,0,1,0,0,0,0,0,0
+1911,Central League,P1995625,Justus,,Fort Wayne,1911-05-21,1911-05-22,3,0,0,0,0,3,0,0,0,0,0,0
+1911,Central League,P3745269,Kahl,,Terre Haute,1911-06-09,1911-06-19,11,0,0,11,0,0,0,0,0,0,0,0
+1911,Central League,P6339641,Kahl,,Zanesville,1911-05-13,1911-06-03,22,0,0,22,0,0,0,0,0,0,0,0
+1911,Central League,P2177165,Keenan,,Fort Wayne,1911-07-14,1911-07-14,1,0,0,0,0,0,1,1,0,0,0,0
+1911,Central League,P2712675,Keene,,Fort Wayne,1911-04-30,1911-04-30,1,0,0,0,0,0,1,1,0,0,0,0
+1911,Central League,P9589781,Keener,,Fort Wayne,1911-04-26,1911-08-19,112,1,0,0,0,0,112,109,2,1,0,1
+1911,Central League,P2172167,Keiber,,Terre Haute,1911-07-01,1911-07-01,1,0,0,0,0,0,1,0,0,1,0,0
+1911,Central League,P4275715,Kelley,,Grand Rapids II,1911-08-15,1911-08-15,1,0,0,0,0,1,0,0,0,0,0,0
+1911,Central League,P1891767,Kelley,,South Bend I,1911-04-27,1911-05-30,10,0,0,0,0,10,0,0,0,0,0,0
+1911,Central League,P5489694,Kelly,,Grand Rapids II,1911-07-26,1911-09-10,46,0,0,0,0,46,0,0,0,0,0,0
+1911,Central League,P9904434,Kelly,,South Bend I,1911-04-26,1911-07-12,70,0,0,0,0,70,0,0,0,0,0,0
+1911,Central League,P4182654,Kenner,,Fort Wayne,1911-08-06,1911-08-06,1,0,0,0,0,0,1,1,0,0,0,0
+1911,Central League,P7213053,Kihm,,Grand Rapids I,1911-04-26,1911-06-27,54,0,54,0,0,0,0,0,0,0,0,0
+1911,Central League,P4470893,Kihm,,Newark,1911-06-28,1911-09-10,80,0,80,0,0,0,0,0,0,0,0,0
+1911,Central League,P2564254,Kilrain,,Grand Rapids I,1911-06-10,1911-06-10,1,0,1,0,0,0,0,0,0,0,0,0
+1911,Central League,P8216088,King,,Wheeling,1911-04-27,1911-06-28,50,0,0,0,46,1,0,0,0,0,0,0
+1911,Central League,P3733422,Kinsley,,Wheeling,1911-05-07,1911-05-07,1,0,0,0,0,0,1,1,0,0,0,0
+1911,Central League,P5084190,Kirkp'k,,Dayton,1911-04-28,1911-09-09,19,0,0,0,19,0,0,0,0,0,0,0
+1911,Central League,P9568927,Kirkpa'k,,Dayton,1911-05-03,1911-09-10,38,0,0,0,38,0,0,0,0,0,0,0
+1911,Central League,P7146899,Kirkpat'k,,Dayton,1911-04-27,1911-04-27,1,0,0,0,1,0,0,0,0,0,0,0
+1911,Central League,P4106117,Kirkpatr'k,,Dayton,1911-09-06,1911-09-06,1,0,0,0,0,0,0,0,0,0,0,0
+1911,Central League,P2578730,Kirkpatrick,,Dayton,1911-04-26,1911-09-10,78,0,0,0,78,0,1,1,0,0,0,0
+1911,Central League,P4146451,Kirp'k,,Dayton,1911-06-04,1911-06-04,1,0,0,0,1,0,0,0,0,0,0,0
+1911,Central League,P2884245,Klipp,,Terre Haute,1911-06-03,1911-06-10,5,0,0,0,0,0,2,1,0,1,3,0
+1911,Central League,P2371694,Knisely,,Wheeling,1911-04-28,1911-09-07,55,0,1,1,2,0,53,53,0,0,0,0
+1911,Central League,P1190862,Knisley,,Wheeling,1911-04-26,1911-09-02,59,0,1,0,1,0,55,55,0,0,0,0
+1911,Central League,P6459179,Knoll,,Dayton,1911-04-26,1911-09-10,132,0,2,0,0,0,130,1,125,5,1,0
+1911,Central League,P5930773,Koe'r,,Grand Rapids II,1911-08-03,1911-08-03,1,0,0,1,0,0,1,1,0,0,0,0
+1911,Central League,P3680145,Koeh'r,,South Bend I,1911-07-12,1911-07-12,1,0,0,1,0,1,0,0,0,0,0,0
+1911,Central League,P5951591,Koehler,,Grand Rapids II,1911-07-14,1911-09-08,52,0,0,52,0,0,0,0,0,0,0,0
+1911,Central League,P2927515,Koehler,,South Bend I,1911-04-26,1911-07-13,71,0,0,71,0,0,0,0,0,0,0,0
+1911,Central League,P9778627,Kohl,,Terre Haute,1911-06-21,1911-08-07,49,0,0,1,31,15,0,0,0,0,2,0
+1911,Central League,P3492167,Kohl,,Zanesville,1911-05-12,1911-05-12,1,0,0,1,0,0,0,0,0,0,0,0
+1911,Central League,P5493730,Kohler,,Grand Rapids II,1911-08-15,1911-08-28,2,0,0,2,0,0,0,0,0,0,0,0
+1911,Central League,P8783862,Kohler,,South Bend I,1911-05-21,1911-07-04,5,0,0,5,0,0,0,0,0,0,0,0
+1911,Central League,P1710949,Kon'k,,Dayton,1911-08-05,1911-08-05,1,0,1,0,0,0,0,0,0,0,1,0
+1911,Central League,P8492051,Konn'k,,Dayton,1911-08-31,1911-08-31,1,0,0,0,1,0,1,0,1,0,0,0
+1911,Central League,P7314552,Konnick,,Dayton,1911-04-28,1911-09-10,100,0,2,4,3,15,4,0,3,1,70,0
+1911,Central League,P7599294,Konnick,Mike,Dayton,1911-05-11,1911-05-11,1,0,0,0,0,0,0,0,0,0,1,0
+1911,Central League,P6834726,Krannon,,Wheeling,1911-05-06,1911-05-06,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P8309880,Kronan,,Wheeling,1911-05-18,1911-05-28,2,2,0,0,0,0,0,0,0,0,0,2
+1911,Central League,P9208383,Kronau,,Wheeling,1911-04-28,1911-06-20,10,9,0,0,0,0,0,0,0,0,0,9
+1911,Central League,P6816674,Kroy,,Grand Rapids II,1911-07-14,1911-09-10,59,0,0,0,0,0,59,0,59,0,0,0
+1911,Central League,P7937974,Kroy,,South Bend I,1911-04-26,1911-07-13,77,0,0,1,0,0,74,0,74,0,0,0
+1911,Central League,P5482232,Lafferty,,Fort Wayne,1911-07-01,1911-09-03,4,0,0,0,3,0,1,1,0,0,0,0
+1911,Central League,P0230390,Lake,,Zanesville,1911-06-18,1911-06-20,2,0,0,2,0,0,0,0,0,0,0,0
+1911,Central League,P2281353,Lave'e,,Evansville,1911-06-21,1911-06-21,1,0,0,0,0,0,1,1,1,0,0,0
+1911,Central League,P0804506,Lavelle,,Evansville,1911-06-14,1911-07-21,22,0,0,0,0,0,21,3,19,0,0,0
+1911,Central League,P2310283,Laven,,Terre Haute,1911-05-19,1911-05-19,2,0,0,0,0,2,0,0,0,0,0,0
+1911,Central League,P6329086,Layler,,Evansville,1911-06-27,1911-06-27,1,0,0,0,1,0,0,0,0,0,0,0
+1911,Central League,P1572761,Lewis,,Evansville,1911-06-13,1911-06-13,1,0,0,0,0,0,1,0,1,0,0,0
+1911,Central League,P7067912,Lewis,,Newark,1911-07-01,1911-07-02,2,0,0,0,0,0,0,0,0,0,2,0
+1911,Central League,P7439411,Lewis,,Wheeling,1911-04-26,1911-09-07,129,0,0,127,2,0,0,0,0,0,0,0
+1911,Central League,P1949041,Lindsay,,Grand Rapids II,1911-07-17,1911-09-10,11,10,0,0,0,0,1,0,0,1,0,10
+1911,Central League,P2651365,Lindsay,,South Bend I,1911-04-26,1911-07-13,23,23,0,0,0,0,0,0,0,0,0,23
+1911,Central League,P9316597,Lindsey,,Grand Rapids II,1911-08-03,1911-09-05,5,5,0,0,0,0,0,0,0,0,0,5
+1911,Central League,P5803753,Lindsey,,South Bend I,1911-05-12,1911-05-12,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P9380538,Linne'n,,Wheeling,1911-07-02,1911-07-02,1,0,0,0,0,0,1,0,1,0,0,0
+1911,Central League,P1646568,Loomis,,Terre Haute,1911-08-13,1911-09-09,8,8,0,0,0,0,0,0,0,0,0,8
+1911,Central League,P0491589,Mahoney,,Grand Rapids I,1911-04-30,1911-04-30,1,0,0,0,0,0,1,0,0,1,0,0
+1911,Central League,P8425446,Mahoney,,Terre Haute,1911-05-27,1911-09-09,54,0,0,0,2,48,0,0,0,0,0,0
+1911,Central League,P5692982,Markham,,Evansville,1911-04-28,1911-08-11,27,27,0,0,0,0,0,0,0,0,0,27
+1911,Central League,P6374587,Markham,,South Bend II,1911-08-16,1911-09-07,7,7,0,0,0,0,0,0,0,0,0,7
+1911,Central League,P3682431,Martin,,Grand Rapids I,1911-04-26,1911-05-24,21,0,0,0,0,0,0,0,0,0,21,0
+1911,Central League,P1520296,Martin,,Grand Rapids II,1911-07-17,1911-09-10,14,13,0,0,0,0,0,0,0,0,0,13
+1911,Central League,P2186351,Martin,,Newark,1911-07-19,1911-09-10,26,1,0,0,1,0,0,0,0,0,23,1
+1911,Central League,P3961980,Martin,,South Bend I,1911-04-27,1911-07-12,23,22,0,0,0,0,1,1,0,0,0,22
+1911,Central League,P2412512,Martin,,Terre Haute,1911-07-29,1911-07-30,2,0,0,0,0,0,0,0,0,0,2,0
+1911,Central League,P5996963,Martini,,Wheeling,1911-06-01,1911-06-01,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P6471975,Matthews,,South Bend II,1911-09-03,1911-09-03,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P0320672,Mayberry,,Terre Haute,1911-06-04,1911-06-10,3,3,0,0,0,0,0,0,0,0,0,3
+1911,Central League,P2892742,McDo'h,,Grand Rapids I,1911-05-15,1911-06-21,3,0,0,2,0,0,1,0,0,1,0,0
+1911,Central League,P4657745,McDon'd,,Terre Haute,1911-07-12,1911-07-12,1,0,0,0,0,0,1,0,0,1,0,0
+1911,Central League,P4649556,McDon'h,,Grand Rapids I,1911-04-28,1911-06-08,8,0,0,0,0,0,5,0,1,4,3,0
+1911,Central League,P0087637,McDon'h,,Terre Haute,1911-06-28,1911-07-09,5,0,0,0,0,0,0,0,0,0,5,0
+1911,Central League,P9735031,McDonald,,Terre Haute,1911-07-08,1911-07-08,1,0,0,0,0,0,0,0,0,0,0,0
+1911,Central League,P1966307,McDono'h,,Grand Rapids I,1911-05-02,1911-06-15,7,0,0,0,0,0,0,0,0,0,5,0
+1911,Central League,P8005587,McDono'h,,Newark,1911-07-22,1911-07-25,2,0,0,0,0,0,0,0,0,0,2,0
+1911,Central League,P0232260,McDono'h,,Terre Haute,1911-06-27,1911-07-06,5,0,0,0,0,0,0,0,0,0,5,0
+1911,Central League,P6678936,McDonough,,Grand Rapids I,1911-04-30,1911-06-19,12,0,0,0,0,0,1,0,0,1,10,0
+1911,Central League,P7499656,McDonough,,Newark,1911-07-23,1911-07-29,3,0,0,0,0,0,0,0,0,0,2,0
+1911,Central League,P1716377,McDonough,,Terre Haute,1911-06-24,1911-07-07,7,0,0,0,0,0,0,0,0,0,7,0
+1911,Central League,P5064933,McKel'y,,Zanesville,1911-08-23,1911-09-04,6,0,0,0,6,0,0,0,0,0,0,0
+1911,Central League,P3569435,McKelv'y,,Zanesville,1911-08-27,1911-09-07,4,0,0,1,3,0,0,0,0,0,0,0
+1911,Central League,P7732761,McKelvey,,Zanesville,1911-08-29,1911-09-03,4,0,0,0,4,0,0,0,0,0,0,0
+1911,Central League,P5391141,McKenzie,,Wheeling,1911-05-22,1911-05-30,3,3,0,0,0,0,0,0,0,0,0,3
+1911,Central League,P6768695,McL'y,,Fort Wayne,1911-09-10,1911-09-10,1,0,0,0,1,1,0,0,0,0,0,0
+1911,Central League,P8798744,McLa'y,,Fort Wayne,1911-05-14,1911-05-18,2,0,2,0,0,0,0,0,0,0,0,0
+1911,Central League,P9773406,McLaf'y,,Fort Wayne,1911-04-27,1911-09-10,30,0,8,1,20,0,1,1,0,0,0,0
+1911,Central League,P1937252,McLaff'y,,Fort Wayne,1911-04-30,1911-09-07,12,0,2,0,10,0,0,0,0,0,0,0
+1911,Central League,P3569096,McLafferty,,Fort Wayne,1911-04-29,1911-09-08,40,0,12,1,26,0,1,0,1,0,0,0
+1911,Central League,P0358036,McLaffery,,Fort Wayne,1911-07-14,1911-07-14,1,0,0,0,0,0,0,0,0,0,0,0
+1911,Central League,P6100578,McLaffey,,Fort Wayne,1911-04-26,1911-04-26,1,0,1,0,0,0,0,0,0,0,0,0
+1911,Central League,P8820383,Meissner,,Zanesville,1911-06-08,1911-06-08,1,0,0,0,0,0,1,1,0,0,0,0
+1911,Central League,P1130226,Meyers,,Grand Rapids II,1911-07-15,1911-08-10,5,4,0,0,0,0,0,0,0,0,0,4
+1911,Central League,P7460870,Meyers,,South Bend I,1911-04-30,1911-07-04,8,8,0,0,0,0,0,0,0,0,0,8
+1911,Central League,P5548842,Meyers,,Terre Haute,1911-04-26,1911-06-09,32,0,32,0,0,0,0,0,0,0,0,0
+1911,Central League,P1827041,Milli'n,,Terre Haute,1911-05-10,1911-05-10,1,0,0,1,0,0,1,0,0,1,0,0
+1911,Central League,P8896322,Milligan,,Terre Haute,1911-04-26,1911-05-22,23,0,0,13,0,0,10,9,1,0,0,0
+1911,Central League,P5575670,Moffit,,South Bend I,1911-04-29,1911-05-11,3,3,0,0,0,0,0,0,0,0,0,3
+1911,Central League,P0821450,Moffitt,,South Bend I,1911-05-04,1911-05-04,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P9276973,Mont'y,,Wheeling,1911-07-16,1911-07-16,1,0,0,0,0,0,1,0,1,1,0,0
+1911,Central League,P8878740,Montg'y,,Wheeling,1911-05-06,1911-09-04,9,0,0,0,0,0,9,0,9,0,0,0
+1911,Central League,P9702499,Montgo'y,,Wheeling,1911-04-26,1911-08-28,24,0,0,0,0,0,24,1,23,0,0,0
+1911,Central League,P5895184,Montgom'y,,Wheeling,1911-07-15,1911-08-20,4,0,0,0,0,0,0,0,0,0,0,0
+1911,Central League,P9687616,Montgomery,,Wheeling,1911-04-28,1911-09-07,38,0,0,0,0,0,38,0,38,0,0,0
+1911,Central League,P0856422,Monty,,Wheeling,1911-06-28,1911-06-28,1,0,0,0,0,0,0,0,0,0,0,0
+1911,Central League,P2568757,Morcan,,Evansville,1911-06-05,1911-06-05,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P8577021,Morri'y,,Grand Rapids I,1911-05-30,1911-06-01,2,0,2,0,0,0,0,0,0,0,0,0
+1911,Central League,P1022864,Morris'y,,Grand Rapids I,1911-05-30,1911-05-30,1,0,1,0,0,0,0,0,0,0,0,0
+1911,Central League,P6756110,Morrisey,,Grand Rapids I,1911-05-29,1911-05-29,1,0,1,0,0,0,0,0,0,0,0,0
+1911,Central League,P4019220,Murray,,Grand Rapids I,1911-04-26,1911-06-22,45,0,0,44,0,0,1,0,0,1,0,0
+1911,Central League,P6402180,Murray,,Newark,1911-07-04,1911-09-10,60,0,0,59,0,0,1,0,1,0,0,0
+1911,Central League,P2457263,Murray,,Wheeling,1911-04-26,1911-09-07,77,0,0,0,0,0,16,6,5,5,54,0
+1911,Central League,P1714912,Murray,C.,Wheeling,1911-07-25,1911-07-25,1,0,0,0,0,0,0,0,0,0,1,0
+1911,Central League,P6375335,Murray,J.,Wheeling,1911-05-08,1911-05-25,5,0,0,0,0,0,2,2,0,0,3,0
+1911,Central League,P3457557,Murray,S.,Grand Rapids I,1911-05-08,1911-05-26,6,0,0,6,0,0,0,0,0,0,0,0
+1911,Central League,P5096837,Murray,S.,Newark,1911-07-25,1911-07-25,1,0,0,1,0,0,0,0,0,0,0,0
+1911,Central League,P1564396,Murray [Nwk],,Newark,1911-08-03,1911-08-03,1,0,0,1,0,0,0,0,0,0,0,0
+1911,Central League,P4411277,Myers,,Grand Rapids II,1911-07-14,1911-08-31,5,5,0,0,0,0,0,0,0,0,0,5
+1911,Central League,P9739393,Myers,,South Bend I,1911-05-13,1911-07-09,10,9,0,0,0,0,1,0,0,1,0,9
+1911,Central League,P0466373,Myers,,Terre Haute,1911-04-30,1911-06-04,12,0,12,0,0,0,0,0,0,0,0,0
+1911,Central League,P7081974,Myers,John Henry,South Bend I,1911-05-09,1911-06-04,2,2,0,0,0,0,0,0,0,0,0,2
+1911,Central League,P3491597,Nee,,Terre Haute,1911-08-11,1911-09-09,29,0,1,7,4,17,0,0,0,0,0,0
+1911,Central League,P7592747,Neuscha'r,,Dayton,1911-05-06,1911-05-06,1,0,0,0,0,0,1,0,0,1,0,0
+1911,Central League,P5266095,Neuschafer,,Dayton,1911-04-28,1911-04-28,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P3788889,Neuschafer,,Terre Haute,1911-05-10,1911-05-19,3,3,0,0,0,0,0,0,0,0,0,3
+1911,Central League,P0745854,Noojin,,South Bend I,1911-05-17,1911-05-20,4,0,0,0,0,0,4,4,0,0,0,0
+1911,Central League,P6987259,O'Brien,,Evansville,1911-04-26,1911-08-12,74,0,0,0,0,0,0,0,0,0,74,0
+1911,Central League,P8807136,O'Brien,,South Bend II,1911-08-13,1911-09-07,14,0,0,0,0,0,0,0,0,0,14,0
+1911,Central League,P9279419,O'Brien,,Terre Haute,1911-07-14,1911-09-09,49,0,1,0,0,0,0,0,0,0,47,0
+1911,Central League,P4992191,O'Brien,,Zanesville,1911-04-26,1911-07-08,56,0,0,0,0,0,0,0,0,0,56,0
+1911,Central League,P9802421,O'Brien,G.,South Bend II,1911-08-14,1911-09-04,5,0,0,0,0,0,0,0,0,0,5,0
+1911,Central League,P6661142,O'Brien,M.,Terre Haute,1911-08-14,1911-09-04,5,0,0,0,0,0,0,0,0,0,5,0
+1911,Central League,P7640122,O'Brien,M.,Zanesville,1911-06-07,1911-06-07,1,0,0,0,0,0,0,0,0,0,1,0
+1911,Central League,P4835837,O'Brien,T.,Evansville,1911-06-07,1911-06-07,1,0,0,0,0,0,0,0,0,0,1,0
+1911,Central League,P2899396,Olmstead,,Dayton,1911-07-31,1911-09-10,4,4,0,0,0,0,0,0,0,0,0,4
+1911,Central League,P1598397,Onslow,,Fort Wayne,1911-04-26,1911-09-10,104,0,0,0,0,0,0,0,0,0,104,0
+1911,Central League,P1897415,Osborne,,Wheeling,1911-04-27,1911-04-27,1,0,0,0,0,0,1,0,1,0,0,0
+1911,Central League,P6739788,Otey,,Dayton,1911-07-22,1911-09-08,16,16,0,0,0,0,0,0,0,0,0,16
+1911,Central League,P1191151,Otey,Bill,Dayton,1911-07-18,1911-07-18,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P9484662,Pa'r,J.,Grand Rapids I,1911-05-12,1911-05-12,1,0,0,0,1,0,1,0,0,1,0,0
+1911,Central League,P1322944,Par'r,,Newark,1911-08-20,1911-08-20,1,0,0,1,0,1,0,0,0,0,0,0
+1911,Central League,P9078681,Parker,,Grand Rapids I,1911-05-11,1911-06-27,11,0,0,1,0,0,1,0,0,1,9,0
+1911,Central League,P3982601,Parker,,Newark,1911-06-29,1911-09-09,20,0,0,0,0,4,0,0,0,0,15,0
+1911,Central League,P7797690,Parker,C.,Newark,1911-08-03,1911-09-10,35,0,0,1,0,33,0,0,0,0,1,0
+1911,Central League,P0892094,Parker,G.,Newark,1911-09-10,1911-09-10,1,0,0,0,0,1,0,0,0,0,0,0
+1911,Central League,P2008017,Parker,J.,Grand Rapids I,1911-05-10,1911-06-26,16,0,0,0,0,0,5,1,0,4,11,0
+1911,Central League,P0712897,Parker,J.,Newark,1911-07-17,1911-09-10,19,0,0,0,0,0,1,0,0,1,17,0
+1911,Central League,P6563157,Patterson,,Terre Haute,1911-07-01,1911-07-08,2,2,0,0,0,0,0,0,0,0,0,2
+1911,Central League,P9834855,Pattison,,Terre Haute,1911-06-30,1911-09-04,16,15,0,0,0,0,0,0,0,0,0,15
+1911,Central League,P1685820,Pattison,Ben,Terre Haute,1911-08-10,1911-08-10,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P5054286,Peasley,,Fort Wayne,1911-04-29,1911-05-09,4,4,0,0,0,0,0,0,0,0,0,4
+1911,Central League,P5868229,Peer,,Zanesville,1911-05-09,1911-05-09,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P2964230,Pendry,,Grand Rapids I,1911-04-26,1911-06-27,60,0,0,5,55,0,0,0,0,0,0,0
+1911,Central League,P2700790,Pendry,,Newark,1911-06-28,1911-09-10,80,0,0,9,67,5,1,0,0,1,0,0
+1911,Central League,P6601660,Penfold,,Grand Rapids I,1911-05-02,1911-05-07,7,0,0,0,0,0,6,0,0,6,0,0
+1911,Central League,P9826041,Pfeffer,,Fort Wayne,1911-06-11,1911-09-10,26,20,0,0,0,0,6,0,5,1,0,20
+1911,Central League,P0782394,Pfeffer,Fred,Fort Wayne,1911-07-17,1911-07-17,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P7315156,Pfeffer,Jeff,Fort Wayne,1911-06-27,1911-06-27,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P2001922,Pfeiffer,,Fort Wayne,1911-07-09,1911-07-09,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P4016782,Potts,,Grand Rapids I,1911-04-26,1911-05-13,16,0,0,0,0,16,0,0,0,0,0,0
+1911,Central League,P5815690,Putman,,Terre Haute,1911-05-23,1911-05-23,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P5887780,Puttm'n,,Terre Haute,1911-06-01,1911-06-02,2,0,0,0,0,0,2,0,0,2,0,0
+1911,Central League,P4091102,Puttman,,Terre Haute,1911-05-28,1911-05-30,3,1,0,0,0,0,2,1,0,1,0,1
+1911,Central League,P5528044,Puttmann,,Terre Haute,1911-05-25,1911-05-25,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P5177877,Queisser,,Newark,1911-07-05,1911-08-05,22,0,0,0,0,0,0,0,0,0,17,0
+1911,Central League,P8092230,Queisser,,Terre Haute,1911-07-27,1911-09-09,24,8,0,13,0,1,0,0,0,0,0,8
+1911,Central League,P8625045,Quiesser,,Newark,1911-07-16,1911-07-30,3,0,0,0,0,0,0,0,0,0,2,0
+1911,Central League,P2509254,Quiesser,,Terre Haute,1911-07-30,1911-08-27,3,1,0,2,0,0,0,0,0,0,0,1
+1911,Central League,P0822535,Quinlan,,Wheeling,1911-07-04,1911-07-05,3,0,0,0,0,2,1,0,1,0,0,0
+1911,Central League,P6702717,Ragan,,Grand Rapids I,1911-05-14,1911-06-27,42,0,0,0,1,41,0,0,0,0,0,0
+1911,Central League,P5999597,Ragan,,Newark,1911-06-29,1911-07-29,25,0,0,0,0,25,0,0,0,0,0,0
+1911,Central League,P7029579,Ragon,,Grand Rapids I,1911-05-25,1911-05-25,1,0,0,0,0,1,0,0,0,0,0,0
+1911,Central League,P3326779,Ragon,,Newark,1911-06-28,1911-07-02,5,0,0,0,0,5,0,0,0,0,0,0
+1911,Central League,P2770332,Ragsdale,,Zanesville,1911-07-08,1911-09-09,57,0,1,0,0,0,0,0,0,0,54,0
+1911,Central League,P6502706,Raidy,,Zanesville,1911-05-09,1911-09-09,51,0,0,29,2,3,7,4,1,2,0,0
+1911,Central League,P3032421,Ray,,Zanesville,1911-06-02,1911-06-02,1,0,0,0,0,0,0,0,0,0,0,0
+1911,Central League,P1514225,Regan,,Newark,1911-07-04,1911-07-30,7,0,0,0,0,7,0,0,0,0,0,0
+1911,Central League,P0645679,Reilley,,Zanesville,1911-04-27,1911-05-21,12,0,0,0,0,0,12,12,0,0,0,0
+1911,Central League,P0791845,Reilly,,Grand Rapids I,1911-06-17,1911-06-17,1,0,0,0,0,0,1,0,0,1,0,0
+1911,Central League,P8151146,Reilly,,Zanesville,1911-04-26,1911-07-20,20,0,0,0,0,0,20,20,0,0,0,0
+1911,Central League,P6311688,Reman,,Evansville,1911-05-13,1911-05-13,1,0,0,0,0,0,1,1,0,0,0,0
+1911,Central League,P4995612,Reney,,Zanesville,1911-08-20,1911-08-20,1,0,0,1,0,0,0,0,0,0,0,0
+1911,Central League,P8933285,Reynolds,,Terre Haute,1911-05-09,1911-06-21,11,11,0,0,0,0,0,0,0,0,0,11
+1911,Central League,P5924701,Rhorer,,Dayton,1911-07-16,1911-09-01,6,0,0,0,0,0,0,0,0,0,4,0
+1911,Central League,P1200601,Riley,,Grand Rapids I,1911-04-28,1911-06-21,19,16,0,0,0,0,2,1,0,1,0,16
+1911,Central League,P2795721,Riley,,Newark,1911-08-01,1911-09-09,10,10,0,0,0,0,1,1,0,0,0,10
+1911,Central League,P7752044,Riley,Bill,Newark,1911-08-30,1911-08-30,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P0142319,Rodgers,,Zanesville,1911-06-21,1911-09-07,4,3,0,0,0,0,1,1,0,0,0,3
+1911,Central League,P5387750,Rogers,,Grand Rapids I,1911-05-22,1911-05-22,1,0,0,0,0,1,0,0,0,0,0,0
+1911,Central League,P8241451,Rogers,,Zanesville,1911-04-29,1911-09-09,48,38,0,0,0,0,3,2,1,0,1,38
+1911,Central League,P4743869,Rohrer,,Dayton,1911-04-26,1911-09-10,50,0,0,0,0,0,0,0,0,0,42,0
+1911,Central League,P2770150,Saeger,,Wheeling,1911-07-17,1911-08-14,2,0,0,0,2,0,0,0,0,0,0,0
+1911,Central League,P5299463,Sager,,Evansville,1911-04-26,1911-05-24,13,0,0,0,13,0,0,0,0,0,0,0
+1911,Central League,P0583329,Sager,,Wheeling,1911-06-21,1911-09-07,74,0,0,0,74,0,0,0,0,0,0,0
+1911,Central League,P9515533,Sample,,Dayton,1911-05-06,1911-09-10,36,2,4,0,0,0,0,0,0,0,30,2
+1911,Central League,P6742411,Scan'n,,South Bend I,1911-07-01,1911-07-01,1,0,0,1,0,0,1,0,0,1,0,0
+1911,Central League,P9344491,Scanlon,,Grand Rapids II,1911-07-28,1911-09-10,19,1,0,0,0,0,1,0,1,0,14,1
+1911,Central League,P0829215,Scanlon,,South Bend I,1911-06-06,1911-07-12,10,1,0,1,0,0,1,0,0,1,5,1
+1911,Central League,P5320221,Scanlon,D.,Grand Rapids II,1911-07-17,1911-07-17,1,0,0,0,0,0,0,0,0,0,0,0
+1911,Central League,P2717845,Schaefer,,Grand Rapids I,1911-06-26,1911-06-26,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P5980805,Schaefer,,Newark,1911-06-30,1911-06-30,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P1726384,Schmich,,South Bend I,1911-05-30,1911-05-30,1,0,1,0,0,0,0,0,0,0,0,0
+1911,Central League,P8119743,Schmick,,Grand Rapids II,1911-07-14,1911-09-10,55,0,54,0,0,0,0,0,0,0,0,0
+1911,Central League,P6116211,Schmick,,South Bend I,1911-04-26,1911-07-13,69,0,69,0,0,0,0,0,0,0,0,0
+1911,Central League,P5455750,Schultz,,Zanesville,1911-06-04,1911-08-23,21,21,0,0,0,0,0,0,0,0,0,21
+1911,Central League,P6013221,Seger,,Wheeling,1911-06-28,1911-06-28,1,0,0,0,1,0,0,0,0,0,0,0
+1911,Central League,P6832393,Seibert,,Fort Wayne,1911-05-23,1911-05-29,2,2,0,0,0,0,0,0,0,0,0,2
+1911,Central League,P1793886,Servat's,,Wheeling,1911-06-03,1911-07-14,10,0,10,0,0,0,0,0,0,0,0,0
+1911,Central League,P1858599,Servati's,,Wheeling,1911-07-06,1911-07-07,2,0,2,0,0,0,0,0,0,0,0,0
+1911,Central League,P9393845,Servatius,,Wheeling,1911-04-26,1911-09-07,110,0,81,0,0,0,29,0,0,29,0,0
+1911,Central League,P5302973,Shafer,,Newark,1911-07-11,1911-07-11,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P1009315,Shaffer,,Newark,1911-07-03,1911-07-06,2,2,0,0,0,0,0,0,0,0,0,2
+1911,Central League,P7078853,Shelly,,Grand Rapids I,1911-05-03,1911-05-03,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P5263917,Slattery,,Terre Haute,1911-09-06,1911-09-09,3,0,3,0,0,0,0,0,0,0,0,0
+1911,Central League,P9755130,Smith,,Evansville,1911-05-01,1911-05-27,16,0,0,0,4,0,10,0,1,9,0,0
+1911,Central League,P0893376,Smith,,Fort Wayne,1911-04-26,1911-06-07,9,8,0,0,0,0,0,0,0,0,0,8
+1911,Central League,P0094946,Smith,,Grand Rapids II,1911-07-15,1911-09-10,13,11,0,0,0,0,2,2,0,0,0,11
+1911,Central League,P4781430,Smith,,South Bend I,1911-05-03,1911-07-10,14,14,0,0,0,0,0,0,0,0,0,14
+1911,Central League,P0619162,Smith,,Terre Haute,1911-06-23,1911-09-09,23,20,0,0,0,0,3,0,3,0,0,20
+1911,Central League,P2220009,Smith,E.,South Bend I,1911-07-01,1911-07-01,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P7523883,Smith,Ed,Grand Rapids II,1911-08-30,1911-08-30,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P3846709,Smith,M.,Evansville,1911-05-11,1911-05-11,1,0,0,0,0,0,1,0,0,1,0,0
+1911,Central League,P5602427,Smith,S.,Terre Haute,1911-07-01,1911-07-01,1,0,0,0,0,0,1,0,1,0,0,0
+1911,Central League,P6700165,Smith,W.,Fort Wayne,1911-05-11,1911-05-11,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P3713258,Snyder,,Evansville,1911-04-26,1911-08-12,93,0,1,0,0,0,91,46,46,0,0,0
+1911,Central League,P1033199,Snyder,,South Bend II,1911-08-13,1911-09-07,26,0,0,0,0,0,26,24,1,1,0,0
+1911,Central League,P8501892,Some't,,Terre Haute,1911-06-30,1911-06-30,1,0,1,0,0,0,0,0,0,0,1,0
+1911,Central League,P1497334,Somer't,,Terre Haute,1911-06-19,1911-07-05,4,0,4,0,0,0,0,0,0,0,0,0
+1911,Central League,P0618338,Somerl't,,Terre Haute,1911-06-28,1911-09-03,15,0,15,0,0,0,0,0,0,0,0,0
+1911,Central League,P5974186,Somerlot,,Terre Haute,1911-06-12,1911-09-04,50,0,48,0,0,1,1,1,0,0,0,0
+1911,Central League,P5814654,Somerlott,,Terre Haute,1911-06-14,1911-08-25,18,0,18,0,0,0,0,0,0,0,0,0
+1911,Central League,P8015780,Somers,,Dayton,1911-09-02,1911-09-05,2,2,0,0,0,0,0,0,0,0,0,2
+1911,Central League,P6932737,Somm's,,Dayton,1911-08-06,1911-08-06,1,0,0,0,0,0,1,0,1,0,0,0
+1911,Central League,P3809553,Sommers,,Dayton,1911-07-09,1911-09-10,9,9,0,0,0,0,1,0,1,0,0,9
+1911,Central League,P4205147,Spencer,,Dayton,1911-04-26,1911-09-04,131,0,0,1,0,0,130,0,4,127,0,0
+1911,Central League,P7703963,Stanley,,Fort Wayne,1911-05-07,1911-05-19,3,3,0,0,0,0,0,0,0,0,0,3
+1911,Central League,P2429668,Sterzer,,Evansville,1911-04-26,1911-08-12,31,29,0,0,0,0,1,0,1,0,0,29
+1911,Central League,P2659369,Sterzer,,South Bend II,1911-08-15,1911-09-07,9,8,0,0,0,0,0,0,0,0,0,8
+1911,Central League,P8789623,Strem'l,,Zanesville,1911-08-13,1911-08-13,1,1,0,0,0,0,1,1,0,0,0,1
+1911,Central League,P3681346,Stremmel,,Zanesville,1911-04-26,1911-09-07,43,36,0,0,0,0,3,3,0,0,0,36
+1911,Central League,P0721475,Sullivan,,Evansville,1911-04-30,1911-07-26,11,11,0,0,0,0,0,0,0,0,0,11
+1911,Central League,P2508547,Sullivan,,Terre Haute,1911-08-02,1911-08-17,2,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P1954391,Summers,,Dayton,1911-05-11,1911-08-31,23,22,0,0,0,0,1,0,1,0,0,22
+1911,Central League,P6249217,Summers,,Terre Haute,1911-04-30,1911-05-09,4,4,0,0,0,0,0,0,0,0,0,4
+1911,Central League,P0223224,Swart'g,,Zanesville,1911-05-25,1911-08-23,11,0,11,0,0,0,0,0,0,0,0,0
+1911,Central League,P1339204,Swartl'g,,Zanesville,1911-04-26,1911-09-07,35,0,35,0,0,0,0,0,0,0,0,0
+1911,Central League,P0157300,Swartling,,Zanesville,1911-04-28,1911-09-09,79,0,79,0,0,0,0,0,0,0,0,0
+1911,Central League,P1740928,Tafferty,,Fort Wayne,1911-06-30,1911-06-30,1,0,0,0,0,0,0,0,0,0,0,0
+1911,Central League,P8420006,Taylor,,Dayton,1911-05-12,1911-05-17,2,2,0,0,0,0,0,0,0,0,0,2
+1911,Central League,P5804880,Taylor,,Evansville,1911-06-02,1911-08-10,37,7,0,0,26,0,1,1,0,0,0,7
+1911,Central League,P7653013,Taylor,,South Bend II,1911-08-16,1911-09-07,15,4,0,0,10,0,1,0,1,0,0,4
+1911,Central League,P5851871,Taylor,Jack,Dayton,1911-05-04,1911-05-04,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P0577545,Taylor,Jack,Evansville,1911-05-26,1911-06-19,4,3,0,0,0,0,0,0,0,0,0,3
+1911,Central League,P1909811,Tieman,,Evansville,1911-05-03,1911-08-09,42,1,0,0,0,0,1,1,0,0,35,1
+1911,Central League,P0558360,Tieman,,South Bend II,1911-08-15,1911-09-07,12,0,0,0,0,0,2,0,2,0,10,0
+1911,Central League,P5099393,Treman,,South Bend II,1911-08-27,1911-08-27,1,0,0,0,0,0,0,0,0,0,1,0
+1911,Central League,P9235937,Tremors,,Evansville,1911-06-21,1911-06-21,1,0,0,0,0,0,0,0,0,0,1,0
+1911,Central League,P9297853,Troy,,Wheeling,1911-04-28,1911-05-24,8,6,0,0,0,0,0,0,0,0,0,6
+1911,Central League,P1942511,Valliere,,Fort Wayne,1911-06-06,1911-09-10,25,24,1,0,0,0,0,0,0,0,0,24
+1911,Central League,P7363611,Van't,,Fort Wayne,1911-09-10,1911-09-10,1,0,0,1,1,0,0,0,0,0,0,0
+1911,Central League,P5274881,Vance,,Grand Rapids I,1911-05-07,1911-05-12,2,2,0,0,0,0,0,0,0,0,0,2
+1911,Central League,P5022816,Vanda't,,Fort Wayne,1911-05-14,1911-07-07,11,0,0,11,0,0,0,0,0,0,0,0
+1911,Central League,P9273351,Vandag't,,Fort Wayne,1911-04-27,1911-08-27,10,0,0,10,0,0,0,0,0,0,0,0
+1911,Central League,P2303705,Vandagr't,,Fort Wayne,1911-05-05,1911-05-05,1,0,0,1,0,0,0,0,0,0,0,0
+1911,Central League,P4656705,Vandagrift,,Fort Wayne,1911-04-26,1911-09-07,45,0,0,45,0,0,0,0,0,0,0,0
+1911,Central League,P4209252,Vande't,,Fort Wayne,1911-05-06,1911-07-09,13,0,0,13,0,0,0,0,0,0,0,0
+1911,Central League,P2425739,Vandeg't,,Fort Wayne,1911-05-01,1911-07-24,3,0,0,3,0,0,0,0,0,0,0,0
+1911,Central League,P7607237,Vandegrift,,Fort Wayne,1911-05-03,1911-08-10,2,0,0,2,0,0,0,0,0,0,0,0
+1911,Central League,P5188438,Vander't,,Fort Wayne,1911-06-28,1911-09-10,13,0,0,13,0,0,0,0,0,0,0,0
+1911,Central League,P4738877,Vanderg't,,Fort Wayne,1911-06-29,1911-06-29,1,0,0,1,0,0,0,0,0,0,0,0
+1911,Central League,P6614519,Vandergrift,,Fort Wayne,1911-05-22,1911-09-09,38,0,0,38,0,0,0,0,0,0,0,0
+1911,Central League,P6881150,Varley,,Dayton,1911-08-07,1911-08-09,2,0,0,0,1,0,1,0,1,0,0,0
+1911,Central League,P6799912,Wacker,,Dayton,1911-05-06,1911-07-16,16,14,0,0,0,0,2,0,2,0,0,14
+1911,Central League,P3446552,Wacker,,Fort Wayne,1911-07-21,1911-09-10,16,12,0,0,0,0,2,1,0,1,0,12
+1911,Central League,P0760234,Walzer,,Terre Haute,1911-06-20,1911-06-20,1,0,0,0,0,0,0,0,0,0,1,0
+1911,Central League,P0669595,War'der,,Wheeling,1911-07-23,1911-07-27,3,0,0,0,0,0,3,0,3,0,0,0
+1911,Central League,P4191744,Warder,,Fort Wayne,1911-05-30,1911-05-30,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P9143069,Waring,,Terre Haute,1911-04-26,1911-05-30,26,0,0,0,0,0,2,1,0,1,26,0
+1911,Central League,P2499017,Warre'r,,Wheeling,1911-07-29,1911-08-12,2,0,0,0,0,0,2,0,2,0,0,0
+1911,Central League,P5344323,Warren'r,,Fort Wayne,1911-08-23,1911-09-10,8,0,0,0,0,0,8,8,0,0,0,0
+1911,Central League,P2428055,Warren'r,,Wheeling,1911-07-25,1911-08-19,9,0,0,0,0,0,9,0,9,0,0,0
+1911,Central League,P1380165,Warrender,,Fort Wayne,1911-08-21,1911-09-10,14,0,0,0,0,0,14,13,0,1,0,0
+1911,Central League,P0606233,Warrender,,Wheeling,1911-07-25,1911-08-20,14,0,0,0,0,0,14,1,13,0,0,0
+1911,Central League,P7337000,Weiley,,Zanesville,1911-04-26,1911-04-26,1,0,0,0,0,0,1,1,0,0,0,0
+1911,Central League,P6796876,Welch,,Zanesville,1911-05-04,1911-09-04,34,0,0,0,0,1,0,0,0,0,30,0
+1911,Central League,P2996699,Welch'r,,Wheeling,1911-09-06,1911-09-06,1,0,0,0,0,0,1,0,0,1,1,0
+1911,Central League,P8473433,Welcher,,Wheeling,1911-04-29,1911-09-07,36,0,0,0,0,0,11,7,3,1,22,0
+1911,Central League,P8516444,Welsh,,Zanesville,1911-05-10,1911-09-07,11,0,0,0,0,0,1,0,1,0,8,0
+1911,Central League,P0193001,Welsher,,Wheeling,1911-04-27,1911-09-03,71,0,0,0,0,0,10,4,4,2,58,0
+1911,Central League,P8220548,Werder,,Fort Wayne,1911-05-26,1911-06-07,3,3,0,0,0,0,0,0,0,0,0,3
+1911,Central League,P3208893,Werder,,Grand Rapids I,1911-06-19,1911-06-27,4,4,0,0,0,0,0,0,0,0,0,4
+1911,Central League,P4569133,Werder,,Newark,1911-06-29,1911-08-03,12,11,0,0,0,0,0,0,0,0,0,11
+1911,Central League,P9656402,West,,Wheeling,1911-06-19,1911-06-20,2,0,0,0,2,0,0,0,0,0,0,0
+1911,Central League,P0966750,Wether,,Wheeling,1911-07-25,1911-07-25,1,0,0,0,0,0,0,0,0,0,1,0
+1911,Central League,P0313400,Wetzel,,Grand Rapids II,1911-07-14,1911-08-10,22,0,0,0,10,12,0,0,0,0,0,0
+1911,Central League,P3925772,Wetzel,,South Bend I,1911-04-26,1911-07-13,70,0,0,0,69,1,0,0,0,0,0,0
+1911,Central League,P3623536,Wetzel,,Terre Haute,1911-08-13,1911-09-09,24,0,0,0,24,0,0,0,0,0,0,0
+1911,Central League,P8001944,Wetzell,,South Bend I,1911-05-06,1911-06-22,9,0,0,0,9,0,0,0,0,0,0,0
+1911,Central League,P9214638,Whe'r,,South Bend I,1911-07-12,1911-07-12,1,0,1,1,0,0,0,0,0,0,0,0
+1911,Central League,P7117138,Whe'r,,Terre Haute,1911-05-10,1911-05-10,1,0,0,1,1,0,0,0,0,0,0,0
+1911,Central League,P8115369,Wheeler,,Grand Rapids II,1911-07-14,1911-08-22,36,0,5,1,31,0,0,0,0,0,0,0
+1911,Central League,P7543709,Wheeler,,South Bend I,1911-07-04,1911-07-13,10,0,9,0,1,0,0,0,0,0,0,0
+1911,Central League,P8942470,Wheeler,,South Bend II,1911-08-26,1911-09-07,13,0,0,10,3,0,0,0,0,0,0,0
+1911,Central League,P8278625,Wheeler,,Terre Haute,1911-04-26,1911-06-30,59,1,2,39,15,0,2,0,0,2,0,1
+1911,Central League,P2734362,Whitaker,,Fort Wayne,1911-05-04,1911-07-15,3,3,0,0,0,0,0,0,0,0,0,3
+1911,Central League,P4055560,Whittaker,,Evansville,1911-08-06,1911-08-09,2,2,0,0,0,0,0,0,0,0,0,2
+1911,Central League,P5193806,Whittaker,,Fort Wayne,1911-05-08,1911-07-18,15,15,0,0,0,0,0,0,0,0,0,15
+1911,Central League,P2340173,Whittaker,,South Bend II,1911-08-15,1911-08-15,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Central League,P1876025,Wickl'd,,Grand Rapids I,1911-05-06,1911-06-01,3,0,0,0,0,0,3,0,3,0,0,0
+1911,Central League,P5947009,Wickland,,Grand Rapids I,1911-04-26,1911-06-27,53,0,0,0,0,0,52,0,52,0,0,0
+1911,Central League,P9969009,Wickland,,Newark,1911-06-28,1911-09-10,78,0,0,0,0,0,78,1,77,0,0,0
+1911,Central League,P8720414,Wickland,Al,Newark,1911-07-25,1911-07-25,1,0,0,0,0,0,1,0,1,0,0,0
+1911,Central League,P5412391,Wilchor,,Wheeling,1911-08-23,1911-08-23,1,0,0,0,0,0,0,0,0,0,0,0
+1911,Central League,P6090787,Wiley,,Zanesville,1911-04-27,1911-04-27,1,0,0,0,0,0,1,0,0,1,0,0
+1911,Central League,P3792097,Wilhelm,,Wheeling,1911-06-29,1911-07-14,6,6,0,0,0,0,0,0,0,0,0,6
+1911,Central League,P1134648,Wilkin'n,,Evansville,1911-05-01,1911-05-15,10,0,0,0,0,0,10,0,3,7,0,0
+1911,Central League,P7855795,Wilkinson,,Evansville,1911-04-26,1911-05-16,6,0,0,0,0,0,5,0,0,5,0,0
+1911,Central League,P4715022,Wilkm'n,,Evansville,1911-05-06,1911-05-06,1,0,0,0,0,0,1,0,0,1,0,0
+1911,Central League,P9399169,Winchell,,Dayton,1911-05-03,1911-09-07,34,33,0,0,0,0,0,0,0,0,0,33
+1911,Central League,P5044133,Wiring,,Terre Haute,1911-04-29,1911-04-29,1,0,0,0,0,0,0,0,0,0,1,0
+1911,Central League,P8824347,Withers,,Evansville,1911-05-01,1911-08-09,25,25,0,0,0,0,0,0,0,0,0,25
+1911,Central League,P8238592,Withers,,South Bend II,1911-08-14,1911-09-04,10,10,0,0,0,0,0,0,0,0,0,10
+1911,Central League,P8111902,Wratten,,Zanesville,1911-04-26,1911-08-12,107,0,0,0,107,0,0,0,0,0,0,0
+1911,Central League,P3374754,Wuffli,,Evansville,1911-04-26,1911-08-12,108,0,0,1,70,41,0,0,0,0,0,0
+1911,Central League,P6214951,Wuffli,,South Bend II,1911-08-13,1911-09-07,26,0,0,0,16,10,0,0,0,0,0,0
+1911,Central League,P2431565,Young,,Fort Wayne,1911-05-13,1911-09-10,121,1,0,0,0,0,120,1,0,119,0,1
