@@ -111,7 +111,13 @@ class Game(object):
                 playing[key] = str(int(playing.get(key, 0)) + int(count))
             
     def _process_linescore(self, value):
-        club, score = map(lambda x: x.strip(), value.split(":"))
+        try:
+            club, score = map(lambda x: x.strip(), value.split(":"))
+        except ValueError:
+            print "In file %s,\n   game %s" % (self.metadata['filename'], self)
+            print "  Ill-formed linescore string '%s'" % value
+            return
+        
         if club == self.away:
             prefix = "away.score"
         elif club == self.home:
