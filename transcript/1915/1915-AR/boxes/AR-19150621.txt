@@ -146,14 +146,15 @@ league: Rio Grande Association
 away: El Paso
 home: Albuquerque 
 source: Arizona Republic, June 25, 1915
+note: Thompson incorrectly listed as a pitcher for Albuquerque in box score; fixed here
 
 El Paso:	r h e
 Beer @ p:	x x x 
 Bliss @ c:	x x x
+Thompson @ c:	x x x
 TOTALS:		6 14 3
 
 Albuquerque: 	r h e
-Thompson @ p:	x x x
 Irion @ p:	x x x
 Raedel @ c:	x x x
 TOTALS:		10 14 0 
