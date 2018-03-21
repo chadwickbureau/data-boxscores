@@ -161,8 +161,11 @@ class Game(object):
                 if key != "TOTALS":
                     playing['seq'] = str(seq)
                     seq += 1
-                    # TODO: Warn on name clashes!
-                    self.playing[playing["name.full"]] = playing
+                    if playing['name.full'] in self.playing:
+                        print "In file %s,\n   game %s" % (self.metadata['filename'], self)
+                        print "  Dupliated name '%s'" % (key)
+                    else:
+                        self.playing[playing["name.full"]] = playing
                 else:
                     self.playing[clubname] = playing
                     clubname = None
@@ -171,7 +174,12 @@ class Game(object):
                 clubname = key
                 seq = 1
                 columns = filter(lambda x: x.strip() != "", value.split())
-                columns = [ self._categorymap[c] for c in columns ]
+                try:
+                    columns = [ self._categorymap[c] for c in columns ]
+                except KeyError:
+                    print "In file %s,\n   game %s" % (self.metadata['filename'], self)
+                    print "  Unrecognised category line '%s'" % (value)
+                    columns = []
 
             elif key == "key":
                 # Some files had manually set keys - we have deprecated these

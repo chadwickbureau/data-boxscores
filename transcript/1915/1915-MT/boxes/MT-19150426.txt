@@ -9,7 +9,7 @@ Waycross:	ab r h po a e
 Riggins @ 3b:	5 0 1 0 0 0
 Underwood @ rf:	3 1 0 0 1 0
 Gandy @ 2b:	3 1 2 4 6 0
-Reynolds @ c:	4 1 0 6 2 0
+Reynolds [WAY] @ c:	4 1 0 6 2 0
 Barber @ 1b:	3 1 1 11 0 0
 Clark @ ss:	4 0 2 3 1 0
 Burke @ cf:	4 0 0 1 0 0
@@ -21,7 +21,7 @@ Brunswick:	ab r h po a e
 Weiler @ ss:	4 0 2 7 1 1
 Reilly @ 2b:	2 1 1 1 1 0
 Bope @ 1b:	4 1 2 9 0 1
-Reynolds @ rf:	4 0 2 2 0 0
+Reynolds [BRU] @ rf:	4 0 2 2 0 0
 O'Brien @ lf:	2 1 0 0 0 0
 Nance @ 3b:	4 0 1 0 2 0
 Cooper @ cf:	2 0 0 1 0 0
@@ -38,9 +38,11 @@ line: Brunswick: 0 1 1 0 0 0 0 1 0 - 3
 
 B_2B: Riggins
 B_HR: Bope
-B_SB: Reynolds; Reilly
+B_SB: Reynolds [BRU]; Reilly
+note: Assigning SB to Brunswick Reynolds
 B_SH: Reilly; Gandy 
-B_HP: O'Brien; Reynolds
+B_HP: O'Brien; Reynolds [WAY]
+note: Assigning HP to Waycross Reynolds
 P_BB: Gardner #3; Hawkins #4 
 P_SO: Gardner #3; Hawkins #3; Watkins #1 
 P_H: Hawkins #6; Watkins #1
@@ -532,12 +534,12 @@ Jordan @ c:	3 0 1 8 2 0
 Cooper @ rf:	2 0 1 1 0 0
 McFarland @ p:	4 0 1 0 1 0
 Hawkins @ p:	0 0 0 0 0 0
-Stewart @ p:	1 0 0 0 0 0 
+Stewart [BRU] @ p:	1 0 0 0 0 0 
 TOTALS:		32 11 12 27 14 3
 
 Valdosta:	ab r h po a e
 Mattby @ lf:	4 1 1 3 0 0
-Stewart @ 3b:	2 2 1 1 1 2
+Stewart [VAL] @ 3b:	2 2 1 1 1 2
 Medlock @ rf:	3 1 1 2 1 0
 Brewer @ cf:	4 0 1 1 0 0
 Schwartz @ 2b:	4 1 2 6 2 0
@@ -556,12 +558,12 @@ line: Brunswick: 3 3 0 0 0 1 0 1 3 - 11
 line: Valdosta:  0 0 0 2 0 1 2 0 0 - 5
 
 B_3B: Bope 
-B_SB: Weiller; Sample; Stewart
+B_SB: Weiller; Sample; Stewart [VAL]
 B_SH: Reilly #2; Mills; Rafferty; Jordan
-B_HP: Bope; Stewart
+B_HP: Bope; Stewart [VAL]
 P_BB: Winges #4; Mills #1; McFarland #2; Hawkins #1   
 P_H: Winges #2; Mills #4; Skelton #6; McFarland #6; Hawkins #2 
-P_IP: Winges #1; Mills #2; Stewart #2.2; Skelton #6; McFarland #6; Hawkins #.1  
+P_IP: Winges #1; Mills #2; Stewart [BRU] #2.2; Skelton #6; McFarland #6; Hawkins #.1  
 P_HP: Mills; McFarland
 P_WP: Hawkins
 F_DP: Weiller, Reilly, Bope; Nance, Bope; Chatham, Schwartz, Bartel; Medlock, Bartel
