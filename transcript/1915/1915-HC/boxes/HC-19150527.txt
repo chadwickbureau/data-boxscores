@@ -414,7 +414,7 @@ Chouinard @ ss:	5 0 0 3 3 1
 Pjura @ lf:	5 1 2 1 2 0
 Wherre @ 1b:	4 1 0 12 1 0
 Gaudette @ rf:	5 1 2 1 0 0
-Cannon @ 2b:	2 2 1 9 1 0
+Cannon @ c:	2 2 1 9 1 0
 Billiard @ p:	4 0 1 0 1 0
 TOTALS:		40 9 13 27 10 2
 
@@ -708,6 +708,7 @@ league: Colonial
 away: Fall River
 home: New Bedford
 source: Hartford Courant, June 1, 1915
+note: box score in paper listed two players in rf - Greenslade and Cassavant
 
 Fall River:	ab r h po a e
 McSherry @ cf:	4 0 1 4 0 0
@@ -728,7 +729,7 @@ Linder @ cf:	3 0 1 3 0 1
 Gleason @ p:	4 0 0 0 2 0
 Jiggs @ 3b:	3 1 1 1 3 0
 Cassavant @ rf:	1 0 1 1 0 0
-Greenslade @ rf:	3 1 2 2 0 0
+Greenslade @ lf:	3 1 2 2 0 0
 Sprague @ 1b:	3 0 1 9 1 0
 Phillips @ c:	2 0 0 7 2 0
 TOTALS:		26 2 6 25 11 2
@@ -1042,7 +1043,7 @@ New Bedford:	ab r h po a e
 Demoe @ 2b:	3 0 2 1 0 1
 Harlow @ ss:	4 0 1 2 4 2
 Linder @ cf:	3 1 0 2 0 0
-Greenslade @ rf:	4 2 1 2 0 0
+Greenslade @ lf:	4 2 1 2 0 0
 Giggs @ 3b:	3 0 1 1 1 0
 Cassavant @ rf:	3 0 1 0 0 0
 Sprague @ 1b:	4 1 2 15 1 0
