@@ -729,7 +729,7 @@ Manser @ p:	4 0 2 0 1 0
 TOTALS:		34 2 9 24 14 3
 
 New Haven:	ab r h po a e
-Leid @ cf:	4 0 2 0 0 0
+Leid @ lf:	4 0 2 0 0 0
 Hogan @ ss:	4 0 0 2 4 0
 Powers @ rf:	3 0 1 1 0 0
 Coles @ 2b:	3 0 0 2 1 0 
@@ -858,7 +858,7 @@ league: Colonial
 away: Springfield
 home: New Haven
 source: Hartford Courant, August 18, 1915
-note: Leid listed with a home run, not listed in box score
+note: Leid not listed in box score; added by totals of box score
 
 Springfield:	ab r h po a e
 Collins @ cf:	5 1 2 3 0 0
@@ -873,6 +873,7 @@ Justin @ p:	3 1 0 0 0 0
 TOTALS:		34 7 8 27 16 0 
 
 New Haven:	ab r h po a e
+Leid @ lf:  2 0 1 1 0 1
 Frasier @ 2b:	5 1 1 4 1 0
 Powers @ rf:	4 1 2 1 0 0
 Coles @ cf:	4 2 2 3 0 0
