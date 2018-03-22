@@ -605,7 +605,7 @@ Barry @ c:	3 0 2 7 1 0
 Sullivan @ 2b:	3 0 1 1 0 0
 Gilroy @ rf:	3 0 0 2 0 0
 Smith @ p:	2 0 0 0 0 0
-*Walker @ ph:	1 0 0 0 0 0
+*Walker [TAU] @ ph:	1 0 0 0 0 0
 TOTALS:		30 1 9 18 6 0
 
 New Haven:	ab r h po a e
@@ -616,7 +616,7 @@ Coles @ cf:	3 0 1 2 0 0
 Soper @ c:	3 0 0 4 2 0
 Edwards @ 3b:	2 0 0 0 2 0 
 Hogan @ ss:	1 0 0 1 1 0
-Walker @ p:	1 0 0 1 6 0
+Walker [NH] @ p:	1 0 0 1 6 0
 Friedrich @ 1b:	2 0 0 9 1 1
 TOTALS:		20 2 4 21 13 1
 
@@ -630,8 +630,8 @@ B_2B: Miller; Sullivan
 B_SB: Murphy; Barry; O'Connell
 B_SH: Murphy
 P_BB: Smith #2
-P_SO: Walker #3; Smith #6
-P_WP: Walker
+P_SO: Walker [NH] #3; Smith #6
+P_WP: Walker [NH]
 F_DP: Murphy, Friedrich
 T: 1:13
 U: McGauley

@@ -29,7 +29,7 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1915,Colonial League,P7269854,Burns,,Pawtucket,1915-05-20,1915-09-06,44,5,39,0,0,0,0,0,0,0,0,5
 1915,Colonial League,P3387504,Bush,,Brockton,1915-06-21,1915-06-21,1,0,0,0,0,1,0,0,0,0,0,0
 1915,Colonial League,P7171331,Cabrera,,Springfield,1915-06-12,1915-07-10,24,0,0,0,0,24,0,0,0,0,0,0
-1915,Colonial League,P0923699,Cannon,,Hartford,1915-05-25,1915-06-28,25,0,0,2,0,0,0,0,0,0,23,0
+1915,Colonial League,P0923699,Cannon,,Hartford,1915-05-25,1915-06-28,25,0,0,1,0,0,0,0,0,0,24,0
 1915,Colonial League,P2033052,Carr,,Pawtucket,1915-05-23,1915-09-06,92,1,0,0,92,1,0,0,0,0,0,1
 1915,Colonial League,P6477421,Casavant,,New Bedford,1915-05-25,1915-05-27,2,0,0,0,0,0,1,1,0,0,0,0
 1915,Colonial League,P8130432,Cassavant,,New Bedford,1915-05-20,1915-06-12,14,1,0,0,0,1,12,0,0,12,0,1
@@ -97,7 +97,7 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1915,Colonial League,P1432072,Freidrich,,New Haven,1915-07-07,1915-07-13,2,0,2,0,0,0,0,0,0,0,0,0
 1915,Colonial League,P2280455,Freitag,,Taunton,1915-05-20,1915-05-20,1,0,0,0,0,0,1,0,0,1,0,0
 1915,Colonial League,P1114509,Friederich,,New Haven,1915-06-22,1915-07-31,8,0,6,0,2,0,0,0,0,0,0,0
-1915,Colonial League,P6994440,Friedrich,,New Haven,1915-06-25,1915-07-27,16,1,15,0,0,0,0,0,0,0,0,1
+1915,Colonial League,P6994440,Friedrich,,New Haven,1915-06-25,1915-07-27,16,0,16,0,0,0,0,0,0,0,0,0
 1915,Colonial League,P1093769,Froser,,New Haven,1915-05-22,1915-05-22,1,0,0,1,0,0,0,0,0,0,0,0
 1915,Colonial League,P6510620,Fryer,,Pawtucket,1915-05-20,1915-07-10,37,0,0,37,0,0,0,0,0,0,0,0
 1915,Colonial League,P0237437,Fryes,,Pawtucket,1915-06-03,1915-06-03,1,0,0,1,0,0,0,0,0,0,0,0
@@ -131,7 +131,7 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1915,Colonial League,P6559580,Golden,,Fall River,1915-05-25,1915-07-09,18,9,0,0,0,0,9,0,0,9,0,9
 1915,Colonial League,P8076991,Gough,,Taunton,1915-06-21,1915-06-21,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Colonial League,P9988100,Greenalade,,New Bedford,1915-05-20,1915-05-20,1,0,0,0,0,0,1,0,0,1,0,0
-1915,Colonial League,P2832214,Greenslade,,New Bedford,1915-05-22,1915-07-10,38,0,0,0,0,0,38,28,0,10,0,0
+1915,Colonial League,P2832214,Greenslade,,New Bedford,1915-05-22,1915-07-10,38,0,0,0,0,0,38,30,0,8,0,0
 1915,Colonial League,P8092421,Gruber,,Brockton,1915-05-20,1915-06-08,12,0,12,0,0,0,0,0,0,0,0,0
 1915,Colonial League,P3028170,Grueber,,Brockton,1915-05-29,1915-05-31,2,0,2,0,0,0,0,0,0,0,0,0
 1915,Colonial League,P6654246,Haddock,,New Haven,1915-08-09,1915-08-12,2,2,0,0,0,0,0,0,0,0,0,2
@@ -146,7 +146,7 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1915,Colonial League,P9374260,Hart,,Taunton,1915-05-20,1915-05-31,7,0,1,0,0,0,6,0,0,6,0,0
 1915,Colonial League,P8031968,Heir,,New Haven,1915-07-09,1915-07-26,7,7,0,0,1,0,0,0,0,0,0,7
 1915,Colonial League,P6561051,Heir,,Springfield,1915-06-22,1915-06-26,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Colonial League,P4881063,Hellfrich,,Hartford,1915-07-05,1915-09-03,17,13,0,0,0,0,4,1,1,2,0,13
+1915,Colonial League,P4881063,Hellfrich,,Hartford,1915-07-05,1915-09-03,17,14,0,0,0,0,3,1,0,2,0,14
 1915,Colonial League,P0780731,Hellfricht,,Hartford,1915-08-11,1915-08-11,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Colonial League,P1619399,Herring,,New Haven,1915-07-07,1915-09-06,33,19,0,0,0,0,3,0,2,1,0,19
 1915,Colonial League,P1608395,Hess,,New Haven,1915-07-05,1915-07-05,1,1,0,0,0,0,0,0,0,0,0,1
@@ -180,7 +180,7 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1915,Colonial League,P8489785,Lavigne,,Springfield,1915-05-24,1915-09-06,87,0,3,0,0,0,0,0,0,0,83,0
 1915,Colonial League,P0087349,Leach,,New Haven,1915-08-19,1915-09-06,7,7,0,0,0,0,0,0,0,0,0,7
 1915,Colonial League,P0790241,Leid,,Fall River,1915-05-25,1915-07-07,31,0,0,0,0,0,31,31,0,0,0,0
-1915,Colonial League,P8346646,Leid,,New Haven,1915-08-09,1915-09-06,25,0,0,0,0,0,25,16,5,4,0,0
+1915,Colonial League,P8346646,Leid,,New Haven,1915-08-09,1915-09-06,26,0,0,0,0,0,26,20,2,4,0,0
 1915,Colonial League,P2610578,Leid,,Pawtucket,1915-07-12,1915-07-31,12,0,0,0,0,0,12,12,0,0,0,0
 1915,Colonial League,P8691469,Lennon,,Fall River,1915-05-28,1915-05-31,2,0,0,0,0,2,0,0,0,0,0,0
 1915,Colonial League,P3277435,Leonard,,Hartford,1915-08-20,1915-08-20,1,1,0,0,0,0,0,0,0,0,0,1
@@ -329,10 +329,12 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1915,Colonial League,P0551425,Tilman,,New Bedford,1915-07-13,1915-07-13,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Colonial League,P8465901,Trainer,,New Haven,1915-06-05,1915-06-10,4,0,0,0,0,0,0,0,0,0,4,0
 1915,Colonial League,P8315511,Trainor,,New Haven,1915-06-01,1915-06-11,4,0,0,0,0,0,0,0,0,0,4,0
-1915,Colonial League,P6229346,Trautman,,Hartford,1915-05-27,1915-09-06,36,27,0,0,0,0,7,1,1,5,1,27
+1915,Colonial League,P6229346,Trautman,,Hartford,1915-05-27,1915-09-06,36,29,0,0,0,0,6,1,0,5,0,29
 1915,Colonial League,P2058390,Trautman,F.,Hartford,1915-07-03,1915-07-03,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Colonial League,P3645084,Trautman,L.,Hartford,1915-07-03,1915-07-03,2,0,0,0,0,0,2,1,0,1,0,0
-1915,Colonial League,P6837086,Walker,,New Haven,1915-05-22,1915-06-28,17,11,0,1,0,0,2,1,0,1,0,11
+1915,Colonial League,P6837086,Walker,,New Haven,1915-05-22,1915-06-28,16,10,0,1,0,0,2,1,0,1,0,10
+1915,Colonial League,P2369516,Walker [NH],,New Haven,1915-06-26,1915-06-26,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,P6486157,Walker [TAU],,Taunton,1915-06-26,1915-06-26,1,0,0,0,0,0,0,0,0,0,0,0
 1915,Colonial League,P5781495,Wallace,,Brockton,1915-06-02,1915-06-02,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Colonial League,P4875479,Walsh,,New Haven,1915-07-14,1915-09-06,17,17,0,0,0,0,1,0,1,0,0,17
 1915,Colonial League,P1978980,Walsh,,Taunton,1915-05-22,1915-07-07,18,17,0,0,0,0,0,0,0,0,0,17
@@ -342,11 +344,11 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1915,Colonial League,P7073565,Welden,,Brockton,1915-06-01,1915-06-01,1,0,0,0,0,0,0,0,0,0,1,0
 1915,Colonial League,P5601531,Werre,,Hartford,1915-06-01,1915-09-06,85,0,85,0,0,0,0,0,0,0,0,0
 1915,Colonial League,P5357379,Wherre,,Hartford,1915-05-20,1915-06-12,15,0,15,0,0,0,0,0,0,0,0,0
-1915,Colonial League,P5466523,Whitehouse,,Hartford,1915-05-20,1915-09-06,99,2,0,0,0,0,95,15,79,1,3,2
+1915,Colonial League,P5466523,Whitehouse,,Hartford,1915-05-20,1915-09-06,99,2,0,0,0,0,95,16,78,1,3,2
 1915,Colonial League,P5213259,Whiteside,,Taunton,1915-05-20,1915-06-19,22,1,0,0,0,0,22,21,1,0,0,1
 1915,Colonial League,P2831849,Wilcox,,Springfield,1915-05-20,1915-05-20,1,0,0,1,0,0,0,0,0,0,0,0
 1915,Colonial League,P5690028,Wood,,Springfield,1915-07-14,1915-07-14,1,0,0,0,1,0,0,0,0,0,0,0
-1915,Colonial League,P7993615,Woodcock,,Hartford,1915-05-28,1915-07-06,12,9,0,0,0,0,1,1,0,0,1,9
+1915,Colonial League,P7993615,Woodcock,,Hartford,1915-05-28,1915-07-06,12,10,0,0,0,0,1,1,0,0,0,10
 1915,Colonial League,P8504744,Woodman,,Springfield,1915-05-20,1915-08-23,32,17,0,1,1,6,2,0,2,0,0,17
 1915,Colonial League,P0126442,Woods,,Brockton,1915-06-11,1915-07-05,3,2,0,0,0,0,1,0,1,0,0,2
 1915,Colonial League,P6054943,Woods,,Springfield,1915-06-12,1915-09-06,72,1,0,23,38,0,0,0,0,0,10,1
