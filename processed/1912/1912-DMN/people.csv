@@ -30,48 +30,47 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1912,Oklahoma State League,P9505401,Webb,,Holdenville,1912-04-30,1912-05-01,2,0,0,0,0,0,0,0,0,0,2,0
 1912,Oklahoma State League,P2946175,Wilson,,Muskogee,1912-04-30,1912-05-01,2,0,0,0,0,0,0,0,0,0,2,0
 1912,Oklahoma State League,P1213403,Wise,,McAlester,1912-05-01,1912-05-01,1,1,0,0,0,0,0,0,0,0,0,1
-1912,South Central League,P1810568,Adams,,Cleburne,1912-04-25,1912-05-01,4,0,0,0,0,0,4,1,2,1,0,0
-1912,South Central League,P6057253,Adams,,Greenville,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
+1912,South Central League,P1810568,Adams,,Cleburne,1912-04-25,1912-05-01,5,0,0,0,0,0,5,1,3,1,0,0
 1912,South Central League,P0386295,Adams,,Paris,1912-04-23,1912-04-30,4,3,0,0,0,0,1,0,1,0,0,3
 1912,South Central League,P8098237,Allen,,Texarkana,1912-04-23,1912-05-01,8,0,0,0,0,0,7,0,0,7,0,0
 1912,South Central League,P9421440,Appleton,,Longview,1912-04-26,1912-04-30,3,3,0,0,0,0,0,0,0,0,0,3
-1912,South Central League,P2038198,Atkin,,Greenville,1912-04-30,1912-04-30,1,0,0,0,1,0,0,0,0,0,0,0
 1912,South Central League,P8197430,Baker,,Texarkana,1912-04-25,1912-04-25,1,0,0,0,0,0,1,0,1,0,0,0
 1912,South Central League,P3042060,Ballingal,,Marshall,1912-04-24,1912-04-29,2,0,0,0,0,0,2,2,0,0,0,0
 1912,South Central League,P3245176,Ballingall,,Marshall,1912-04-23,1912-04-25,2,0,0,0,0,0,2,2,0,0,0,0
 1912,South Central League,P9536022,Ballinger,,Marshall,1912-04-26,1912-04-27,2,0,0,0,0,0,2,2,0,0,0,0
 1912,South Central League,P1290248,Banghinan,,Tyler,1912-04-26,1912-04-26,1,0,0,0,0,1,0,0,0,0,0,0
 1912,South Central League,P2071880,Barker,,Texarkana,1912-04-23,1912-05-01,7,0,0,0,0,0,7,0,7,0,0,0
-1912,South Central League,P2321103,Barnett,,Greenville,1912-04-30,1912-04-30,1,0,0,0,0,0,0,0,0,0,0,0
 1912,South Central League,P1159685,Baughman,,Tyler,1912-04-25,1912-04-25,1,0,0,1,0,0,0,0,0,0,0,0
 1912,South Central League,P3490545,Beltison,,Paris,1912-04-23,1912-04-25,2,0,0,0,0,0,0,0,0,0,2,0
 1912,South Central League,P1309493,Belton,,Paris,1912-04-24,1912-04-24,1,0,0,0,0,0,0,0,0,0,1,0
-1912,South Central League,P5577181,Bessie,,Cleburne,1912-04-24,1912-05-01,7,0,0,0,0,0,7,0,0,7,0,0
-1912,South Central League,P7370233,Bettison,,Paris,1912-04-26,1912-05-01,5,0,0,0,0,0,1,0,1,0,4,0
+1912,South Central League,P5577181,Bessie,,Cleburne,1912-04-24,1912-05-01,8,0,0,0,0,0,8,0,0,8,0,0
+1912,South Central League,P7370233,Bettison,,Paris,1912-04-26,1912-05-01,6,0,0,0,0,0,1,0,1,0,5,0
 1912,South Central League,P8294662,Binghman,,Tyler,1912-04-30,1912-04-30,1,0,0,0,0,0,1,0,1,0,0,0
 1912,South Central League,P9123227,Blanchett,,Marshall,1912-04-24,1912-04-24,1,0,1,0,0,0,0,0,0,0,0,0
 1912,South Central League,P7072544,Blanchette,,Marshall,1912-04-23,1912-05-01,7,0,7,0,0,0,0,0,0,0,0,0
+1912,South Central League,P0211667,Boughman,,Tyler,1912-04-28,1912-04-28,1,0,0,0,0,0,0,0,0,0,1,0
 1912,South Central League,P3480237,Broadus,,Longview,1912-04-24,1912-04-30,3,3,0,0,0,0,0,0,0,0,0,3
-1912,South Central League,P9009770,Brown,,Tyler,1912-04-27,1912-04-30,2,2,0,0,0,0,0,0,0,0,0,2
+1912,South Central League,P9009770,Brown,,Tyler,1912-04-27,1912-04-30,3,2,0,0,0,0,0,0,0,0,0,2
 1912,South Central League,P0978711,Buster,,Tyler,1912-04-23,1912-05-01,8,0,0,0,0,0,0,0,0,0,8,0
-1912,South Central League,P2556258,Campbell,,Tyler,1912-04-24,1912-05-01,7,0,7,0,0,0,0,0,0,0,0,0
+1912,South Central League,P2556258,Campbell,,Tyler,1912-04-24,1912-05-01,8,0,8,0,0,0,0,0,0,0,0,0
 1912,South Central League,P7273554,Cella,,Texarkana,1912-04-24,1912-05-01,6,0,0,0,0,0,6,6,0,0,0,0
 1912,South Central League,P3498844,Colla,,Texarkana,1912-04-23,1912-04-25,2,0,0,0,0,0,2,2,0,0,0,0
 1912,South Central League,P2854501,Collins,,Paris,1912-04-26,1912-04-29,2,2,0,0,0,0,0,0,0,0,0,2
-1912,South Central League,P7964623,Crosby,,Longview,1912-04-23,1912-05-01,7,0,0,0,0,0,7,0,3,4,0,0
-1912,South Central League,P8206470,Disharoon,,Greenville,1912-04-30,1912-04-30,1,0,0,0,0,0,0,0,0,0,0,0
-1912,South Central League,P0492300,Dooley,,Sherman,1912-04-30,1912-04-30,1,0,0,0,0,0,1,1,0,0,0,0
+1912,South Central League,P7964623,Crosby,,Longview,1912-04-23,1912-05-01,8,0,0,0,0,0,8,1,3,4,0,0
+1912,South Central League,P8395714,Daniels,,Cleburne,1912-04-28,1912-04-28,1,1,0,0,0,0,0,0,0,0,0,1
+1912,South Central League,P9340953,Davis,,Tyler,1912-04-28,1912-04-28,1,0,0,0,0,1,0,0,0,0,0,0
 1912,South Central League,P5157838,Dowen,,Paris,1912-04-23,1912-04-23,1,0,0,0,0,0,1,0,1,0,0,0
-1912,South Central League,P1058490,Dowlen,,Paris,1912-04-27,1912-05-01,3,0,0,0,0,0,3,0,1,2,0,0
+1912,South Central League,P1058490,Dowlen,,Paris,1912-04-27,1912-05-01,4,0,0,0,0,0,4,0,2,2,0,0
 1912,South Central League,P5531454,Dowlin,,Paris,1912-04-24,1912-04-29,4,0,0,0,0,0,4,0,4,0,0,0
 1912,South Central League,P6205712,Fall,,Texarkana,1912-04-23,1912-04-23,1,0,0,0,1,0,0,0,0,0,0,0
 1912,South Central League,P5598723,Feibert,,Tyler,1912-04-26,1912-05-01,2,2,0,0,0,0,0,0,0,0,0,2
 1912,South Central League,P2631299,Fiebert,,Tyler,1912-04-25,1912-04-25,1,1,0,0,0,0,0,0,0,0,0,1
-1912,South Central League,P6298840,Flynn,D.,Greenville,1912-04-30,1912-04-30,1,0,0,0,0,0,1,0,0,1,0,0
+1912,South Central League,P3230271,Firth,,Tyler,1912-04-28,1912-04-28,1,0,0,1,0,0,0,0,0,0,0,0
+1912,South Central League,P5373315,Fisher,,Tyler,1912-04-28,1912-04-28,1,0,0,0,0,0,1,1,0,0,0,0
 1912,South Central League,P3816171,Fruth,,Tyler,1912-04-24,1912-05-01,6,0,0,4,0,2,0,0,0,0,0,0
-1912,South Central League,P5154440,Gaines,,Paris,1912-04-27,1912-05-01,2,1,0,0,0,0,0,0,0,0,0,1
+1912,South Central League,P5154440,Gaines,,Paris,1912-04-27,1912-05-01,3,2,0,0,0,0,0,0,0,0,0,2
 1912,South Central League,P0787715,Gains,,Paris,1912-04-23,1912-04-25,2,2,0,0,0,0,0,0,0,0,0,2
-1912,South Central League,P7681989,Gardner,,Cleburne,1912-04-26,1912-04-30,4,0,0,0,1,0,4,4,0,0,0,0
+1912,South Central League,P7681989,Gardner,,Cleburne,1912-04-26,1912-04-30,5,0,0,0,1,0,5,5,0,0,0,0
 1912,South Central League,P5906401,Garner,,Cleburne,1912-05-01,1912-05-01,1,0,0,0,1,0,0,0,0,0,0,0
 1912,South Central League,P0428802,Gowan,,Marshall,1912-04-23,1912-05-01,6,0,0,0,0,0,6,0,6,0,0,0
 1912,South Central League,P5336070,Gowen,,Marshall,1912-04-26,1912-04-27,2,0,0,0,0,0,2,0,2,0,0,0
@@ -79,47 +78,45 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1912,South Central League,P3933006,Hadson,,Texarkana,1912-04-29,1912-04-29,1,0,0,1,0,0,0,0,0,0,0,0
 1912,South Central League,P1960951,Hakeman,,Tyler,1912-04-24,1912-04-29,3,2,0,0,0,0,0,0,0,0,0,2
 1912,South Central League,P7450770,Hall,,Texarkana,1912-04-23,1912-04-30,3,3,0,0,0,0,0,0,0,0,0,3
-1912,South Central League,P2998085,Halliday,,Longview,1912-04-23,1912-04-27,5,0,0,0,0,0,5,0,5,0,0,0
+1912,South Central League,P2998085,Halliday,,Longview,1912-04-23,1912-04-28,6,0,0,0,0,0,6,0,6,0,0,0
 1912,South Central League,P7531956,Hanlihan,,Texarkana,1912-04-24,1912-04-24,1,0,1,0,0,0,0,0,0,0,0,0
 1912,South Central League,P4479798,Harbin,,Cleburne,1912-04-25,1912-04-30,3,2,0,0,0,0,1,1,0,0,0,2
-1912,South Central League,P8011509,Hardy,,Longview,1912-04-23,1912-05-01,8,0,8,0,0,0,0,0,0,0,0,0
-1912,South Central League,P9489121,Harper,,Greenville,1912-04-30,1912-04-30,1,0,0,0,0,0,1,1,0,0,0,0
+1912,South Central League,P8011509,Hardy,,Longview,1912-04-23,1912-05-01,9,0,9,0,0,0,0,0,0,0,0,0
 1912,South Central League,P0192851,Hawker,,Paris,1912-04-24,1912-04-30,3,3,0,0,0,0,0,0,0,0,0,3
-1912,South Central League,P8055287,Hewitt,,Tyler,1912-04-24,1912-04-29,5,0,0,0,5,0,0,0,0,0,0,0
-1912,South Central League,P2376220,Hoffman,,Longview,1912-04-23,1912-05-01,8,0,0,0,0,0,8,6,1,1,0,0
+1912,South Central League,P8055287,Hewitt,,Tyler,1912-04-24,1912-04-29,6,0,0,0,6,0,0,0,0,0,0,0
+1912,South Central League,P2376220,Hoffman,,Longview,1912-04-23,1912-05-01,9,0,0,0,0,0,9,6,1,2,0,0
 1912,South Central League,P4075219,Holliday,,Longview,1912-04-30,1912-05-01,2,0,0,0,0,0,2,0,0,2,0,0
-1912,South Central League,P8636391,Holliday,,Paris,1912-04-25,1912-04-29,2,0,0,2,0,0,0,0,0,0,0,0
+1912,South Central League,P8636391,Holliday,,Paris,1912-04-25,1912-04-25,1,0,0,1,0,0,0,0,0,0,0,0
+1912,South Central League,P2379156,Holliday [Lon],,Longview,1912-04-29,1912-04-29,1,0,0,0,0,0,1,0,0,1,0,0
+1912,South Central League,P8503810,Holliday [Par],,Paris,1912-04-29,1912-04-29,1,0,0,1,0,0,0,0,0,0,0,0
 1912,South Central League,P3077378,Honlihan,,Texarkana,1912-04-26,1912-04-26,1,0,1,0,0,0,0,0,0,0,0,0
 1912,South Central League,P8615945,Houlihan,,Texarkana,1912-04-25,1912-05-01,5,0,5,0,0,0,0,0,0,0,0,0
 1912,South Central League,P4802146,Hudson,,Texarkana,1912-04-23,1912-05-01,7,0,0,7,0,0,0,0,0,0,0,0
-1912,South Central League,P6461109,Humphries,,Sherman,1912-04-30,1912-04-30,1,0,0,0,0,1,0,0,0,0,0,0
-1912,South Central League,P4140415,Johns,,Longview,1912-04-24,1912-05-01,7,0,0,6,0,0,0,0,0,0,0,0
-1912,South Central League,P4024513,Johnson,,Tyler,1912-04-24,1912-05-01,7,0,1,0,0,0,7,0,0,7,0,0
+1912,South Central League,P4140415,Johns,,Longview,1912-04-24,1912-05-01,8,0,0,7,0,0,0,0,0,0,0,0
+1912,South Central League,P4024513,Johnson,,Tyler,1912-04-24,1912-05-01,8,0,1,0,0,0,8,0,0,8,0,0
 1912,South Central League,P6779823,Jordan,,Texarkana,1912-04-24,1912-05-01,7,0,0,0,0,0,0,0,0,0,7,0
 1912,South Central League,P8569277,Jordon,,Texarkana,1912-04-23,1912-04-23,1,0,0,0,0,0,0,0,0,0,1,0
 1912,South Central League,P3380161,Justy,,Cleburne,1912-04-24,1912-04-25,2,0,0,0,0,0,2,2,0,0,0,0
-1912,South Central League,P9283741,Jutzie,,Cleburne,1912-04-27,1912-05-01,4,0,4,0,0,0,0,0,0,0,0,0
+1912,South Central League,P9283741,Jutzie,,Cleburne,1912-04-27,1912-05-01,5,0,5,0,0,0,0,0,0,0,0,0
 1912,South Central League,P0561317,Kane,,Marshall,1912-04-24,1912-04-29,3,3,0,0,0,0,0,0,0,0,0,3
 1912,South Central League,P6874364,Keifer,,Marshall,1912-04-30,1912-05-01,2,0,0,0,0,0,2,2,0,0,0,0
-1912,South Central League,P9129142,Kerr,,Cleburne,1912-04-23,1912-05-01,5,3,0,0,0,0,0,0,0,0,0,3
+1912,South Central League,P9129142,Kerr,,Cleburne,1912-04-23,1912-05-01,6,3,0,0,0,0,0,0,0,0,0,3
 1912,South Central League,P8054902,Kerr,,Tyler,1912-04-24,1912-04-24,1,0,0,1,0,0,0,0,0,0,0,0
 1912,South Central League,P7010170,Kewitt,,Tyler,1912-05-01,1912-05-01,1,0,0,0,1,0,0,0,0,0,0,0
-1912,South Central League,P1134648,Kitchens,,Greenville,1912-04-30,1912-04-30,1,0,1,0,0,0,0,0,0,0,0,0
 1912,South Central League,P9160629,Kuvit,,Tyler,1912-04-30,1912-04-30,1,0,0,0,1,0,0,0,0,0,0,0
-1912,South Central League,P6987204,Lamonica,,Sherman,1912-04-30,1912-04-30,1,0,0,0,0,0,1,0,0,1,0,0
-1912,South Central League,P9758821,Lawson,,Paris,1912-04-23,1912-05-01,8,0,0,1,0,0,7,0,1,6,1,0
-1912,South Central League,P3556387,Lewis,,Greenville,1912-04-30,1912-04-30,1,0,0,0,0,1,0,0,0,0,0,0
-1912,South Central League,P7341346,Litterel,,Longview,1912-04-27,1912-04-27,1,0,0,0,0,0,1,1,0,0,0,0
+1912,South Central League,P9758821,Lawson,,Paris,1912-04-23,1912-05-01,9,0,0,1,0,0,8,0,1,7,1,0
+1912,South Central League,P7341346,Litterel,,Longview,1912-04-27,1912-04-28,2,0,0,0,1,0,1,1,0,0,0,0
 1912,South Central League,P5999214,Litterell,,Longview,1912-04-24,1912-04-24,1,0,0,0,1,0,0,0,0,0,0,0
 1912,South Central League,P7922365,Littrel,,Longview,1912-04-23,1912-04-23,1,0,0,0,1,0,0,0,0,0,0,0
 1912,South Central League,P5172841,Littrell,,Longview,1912-04-25,1912-04-25,1,0,0,0,1,0,0,0,0,0,0,0
+1912,South Central League,P1126507,Lolliday,,Paris,1912-04-28,1912-04-28,1,0,0,1,0,0,0,0,0,0,0,0
 1912,South Central League,P9472781,Loulihan,,Texarkana,1912-04-23,1912-04-23,1,0,1,0,0,0,0,0,0,0,0,0
 1912,South Central League,P6294256,Malloy,,Cleburne,1912-04-27,1912-04-27,1,1,0,0,0,0,0,0,0,0,0,1
 1912,South Central League,P6062978,Marine,,Marshall,1912-04-26,1912-04-26,1,1,0,0,0,0,0,0,0,0,0,1
 1912,South Central League,P0214717,Mathews,E.,Paris,1912-04-24,1912-04-24,1,0,0,0,0,0,1,1,0,0,0,0
 1912,South Central League,P9315556,Mathews,L.,Paris,1912-04-24,1912-04-24,1,0,1,0,0,0,0,0,0,0,0,0
-1912,South Central League,P9304107,Mathias,E.,Paris,1912-04-27,1912-04-30,3,0,0,0,0,0,3,3,0,0,0,0
-1912,South Central League,P8404946,Mathias,L.,Paris,1912-04-27,1912-04-30,3,0,3,0,0,0,0,0,0,0,0,0
+1912,South Central League,P9304107,Mathias,E.,Paris,1912-04-27,1912-04-30,4,0,0,0,0,0,4,4,0,0,0,0
+1912,South Central League,P8404946,Mathias,L.,Paris,1912-04-27,1912-04-30,4,0,4,0,0,0,0,0,0,0,0,0
 1912,South Central League,P4833130,Mathis,E.,Paris,1912-04-23,1912-05-01,4,0,0,0,0,0,4,4,0,0,0,0
 1912,South Central League,P3933969,Mathis,L.,Paris,1912-04-23,1912-05-01,4,0,4,0,0,0,0,0,0,0,0,0
 1912,South Central League,P6786444,McConnell,,Texarkana,1912-04-24,1912-04-24,1,1,0,0,0,0,0,0,0,0,0,1
@@ -129,35 +126,31 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1912,South Central League,P4643488,Merrett,,Longview,1912-04-23,1912-04-27,4,0,0,1,2,0,0,0,0,0,1,0
 1912,South Central League,P6088505,Merrill,,Cleburne,1912-04-24,1912-05-01,2,2,0,0,0,0,0,0,0,0,0,2
 1912,South Central League,P6583332,Merritt,,Longview,1912-04-30,1912-05-01,2,0,1,0,0,0,0,0,0,0,2,0
-1912,South Central League,P1374578,Milam,,Tyler,1912-04-24,1912-04-27,4,0,0,0,0,0,4,0,4,0,0,0
-1912,South Central League,P6334276,Miller,,Greenville,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
+1912,South Central League,P6917301,Merritt [Cle],,Cleburne,1912-04-28,1912-04-28,1,1,0,0,0,0,0,0,0,0,0,1
+1912,South Central League,P4511653,Merritt [Lon],,Longview,1912-04-28,1912-04-28,1,0,0,0,0,0,0,0,0,0,1,0
+1912,South Central League,P1374578,Milam,,Tyler,1912-04-24,1912-04-28,5,0,0,0,0,0,5,0,5,0,0,0
 1912,South Central League,P3337578,Moody,,Tyler,1912-04-27,1912-05-01,4,0,0,0,0,4,0,0,0,0,0,0
 1912,South Central League,P2353517,Nagel,,Marshall,1912-04-23,1912-04-30,6,0,0,0,0,0,6,0,0,6,0,0
 1912,South Central League,P1590093,Nagle,,Marshall,1912-04-24,1912-05-01,2,0,0,0,0,0,2,0,0,2,0,0
-1912,South Central League,P3146744,O'Neal,,Tyler,1912-04-29,1912-05-01,2,0,0,1,0,0,0,0,0,0,0,0
+1912,South Central League,P3146744,O'Neal,,Tyler,1912-04-28,1912-05-01,3,0,0,1,0,0,1,0,0,1,0,0
 1912,South Central League,P2092672,O'Neil,,Tyler,1912-04-25,1912-04-27,2,2,0,0,0,0,0,0,0,0,0,2
 1912,South Central League,P4607068,Pappe,,Marshall,1912-04-23,1912-05-01,8,0,0,0,0,8,0,0,0,0,0,0
 1912,South Central League,P4669534,Perkins,,Cleburne,1912-04-24,1912-04-30,6,0,0,0,6,0,0,0,0,0,0,0
 1912,South Central League,P6255170,Phillips,,Longview,1912-04-23,1912-04-30,4,4,0,0,0,0,0,0,0,0,0,4
-1912,South Central League,P5268588,Pickens,,Greenville,1912-04-30,1912-04-30,1,0,0,1,0,0,0,0,0,0,0,0
 1912,South Central League,P1735460,Poindexter,,Tyler,1912-04-25,1912-05-01,4,0,0,0,0,0,2,1,1,0,0,0
 1912,South Central League,P6505724,Prodhomme,,Texarkana,1912-04-25,1912-04-25,1,0,0,0,0,1,0,0,0,0,0,0
 1912,South Central League,P2637621,Prudhome,,Texarkana,1912-05-01,1912-05-01,1,0,0,0,0,1,0,0,0,0,0,0
 1912,South Central League,P7453762,Prudhomme,,Texarkana,1912-04-23,1912-04-30,6,0,0,0,0,6,0,0,0,0,0,0
 1912,South Central League,P9854698,Pruitt,,Tyler,1912-04-30,1912-04-30,1,0,0,1,0,0,0,0,0,0,0,0
 1912,South Central League,P9712418,Puckett,,Cleburne,1912-04-24,1912-04-26,3,0,3,0,0,0,0,0,0,0,0,0
-1912,South Central League,P5711427,Rayburn,,Sherman,1912-04-30,1912-04-30,1,0,1,0,0,0,0,0,0,0,0,0
-1912,South Central League,P8011776,Reed,,Sherman,1912-04-30,1912-04-30,1,0,0,1,0,0,0,0,0,0,0,0
-1912,South Central League,P1781852,Ritter,,Cleburne,1912-04-23,1912-05-01,8,0,0,0,0,0,0,0,0,0,8,0
-1912,South Central League,P2434463,Roark,,Sherman,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
-1912,South Central League,P2217609,Robinson,,Greenville,1912-04-30,1912-04-30,1,0,0,0,0,0,0,0,0,0,1,0
+1912,South Central League,P1781852,Ritter,,Cleburne,1912-04-23,1912-05-01,9,0,0,0,0,0,0,0,0,0,9,0
 1912,South Central League,P1459325,Rowland,,Marshall,1912-04-23,1912-05-01,3,3,0,0,0,0,0,0,0,0,0,3
 1912,South Central League,P1027911,Sheffield,,Longview,1912-04-29,1912-05-01,3,0,0,0,3,0,0,0,0,0,0,0
-1912,South Central League,P2901020,Sherwood,,Paris,1912-04-23,1912-05-01,8,0,0,0,0,8,0,0,0,0,0,0
+1912,South Central League,P2901020,Sherwood,,Paris,1912-04-23,1912-05-01,9,0,0,0,0,9,0,0,0,0,0,0
 1912,South Central League,P9436054,Short,,Marshall,1912-04-23,1912-05-01,8,0,0,0,0,0,0,0,0,0,8,0
 1912,South Central League,P5405132,Shultz,,Tyler,1912-04-26,1912-04-26,1,0,0,0,0,0,1,0,0,1,0,0
 1912,South Central League,P5484210,Solliday,,Paris,1912-04-23,1912-05-01,6,0,0,6,0,1,0,0,0,0,0,0
-1912,South Central League,P9934278,Sorrey,,Cleburne,1912-04-27,1912-05-01,3,0,0,0,0,3,0,0,0,0,0,0
+1912,South Central League,P9934278,Sorrey,,Cleburne,1912-04-27,1912-05-01,4,0,0,0,0,4,0,0,0,0,0,0
 1912,South Central League,P7522049,Sorry,,Cleburne,1912-04-24,1912-04-29,3,0,0,0,0,3,0,0,0,0,0,0
 1912,South Central League,P3859599,Sory,,Cleburne,1912-04-26,1912-04-26,1,0,0,0,0,1,0,0,0,0,0,0
 1912,South Central League,P5578936,Spear,,Longview,1912-04-23,1912-05-01,6,0,0,0,0,0,0,0,0,0,6,0
@@ -171,278 +164,307 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1912,South Central League,P5525018,Thompson,,Tyler,1912-04-23,1912-05-01,3,3,0,0,0,0,0,0,0,0,0,3
 1912,South Central League,P3405940,Tischer,,Tyler,1912-04-25,1912-04-25,1,0,0,0,0,0,1,1,0,0,0,0
 1912,South Central League,P7162769,Tisher,,Tyler,1912-04-26,1912-05-01,4,0,0,0,0,0,4,4,0,0,0,0
-1912,South Central League,P6922162,Townsend,,Sherman,1912-04-30,1912-04-30,1,0,0,0,0,0,0,0,0,0,1,0
 1912,South Central League,P0007279,Trammel,,Longview,1912-04-25,1912-05-01,3,2,1,0,0,0,0,0,0,0,0,2
-1912,South Central League,P3975003,Trammell,,Longview,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
+1912,South Central League,P3975003,Trammell,,Longview,1912-04-28,1912-04-30,2,2,0,0,0,0,0,0,0,0,0,2
 1912,South Central League,P0859248,Tucker,,Tyler,1912-04-27,1912-04-27,1,0,0,0,0,0,0,0,0,0,0,0
-1912,South Central League,P3031842,Turner,,Tyler,1912-04-27,1912-04-27,1,1,0,0,0,0,0,0,0,0,0,1
-1912,South Central League,P9859275,Wakefield,,Greenville,1912-04-30,1912-04-30,1,0,0,0,0,0,1,0,1,0,0,0
+1912,South Central League,P3031842,Turner,,Tyler,1912-04-27,1912-04-28,2,2,0,0,0,0,0,0,0,0,0,2
 1912,South Central League,P5212889,Webber,,Cleburne,1912-04-25,1912-04-26,2,0,0,2,0,0,0,0,0,0,0,0
-1912,South Central League,P1915895,Weber,,Cleburne,1912-04-24,1912-05-01,5,0,0,5,0,0,0,0,0,0,0,0
+1912,South Central League,P1915895,Weber,,Cleburne,1912-04-24,1912-05-01,6,0,0,6,0,0,0,0,0,0,0,0
 1912,South Central League,P5786179,White,,Cleburne,1912-04-24,1912-05-01,4,0,0,0,0,0,4,0,4,0,0,0
 1912,South Central League,P4350878,White,,Longview,1912-04-23,1912-05-01,7,0,0,0,0,7,0,0,0,0,0,0
 1912,South Central League,P0592211,White,G.,Longview,1912-04-27,1912-04-27,1,0,0,0,0,1,0,0,0,0,0,0
-1912,South Central League,P6149727,Williamson,,Sherman,1912-04-30,1912-04-30,1,0,0,0,0,0,1,0,1,0,0,0
+1912,South Central League,P3651375,White [Cle],,Cleburne,1912-04-26,1912-04-26,1,0,0,0,0,0,1,0,1,0,0,0
+1912,South Central League,P1245727,White [Lon],,Longview,1912-04-26,1912-04-26,1,0,0,0,0,1,0,0,0,0,0,0
 1912,South Central League,P0098494,Wilson,,Tyler,1912-04-29,1912-04-29,1,0,0,0,0,0,1,0,1,0,0,0
-1912,South Central League,P7241832,Witt,,Sherman,1912-04-30,1912-04-30,1,0,0,0,1,0,0,0,0,0,0,0
-1912,South Central League,P5591914,Wood,,Paris,1912-04-23,1912-05-01,8,0,0,0,8,0,0,0,0,0,0,0
+1912,South Central League,P5591914,Wood,,Paris,1912-04-23,1912-05-01,9,0,0,0,9,0,0,0,0,0,0,0
 1912,South Central League,P4981034,Wood,,Texarkana,1912-04-25,1912-04-25,1,1,0,0,0,0,0,0,0,0,0,1
 1912,South Central League,P3082141,Woods,,Texarkana,1912-05-01,1912-05-01,1,0,0,0,0,0,1,0,1,0,0,0
-1912,Texas League,P7505069,Aiken,,Waco,1912-04-12,1912-04-22,7,0,0,0,7,0,0,0,0,0,0,0
-1912,Texas League,P5440296,Akin,,Waco,1912-04-14,1912-04-18,4,0,0,0,4,0,0,0,0,0,0,0
-1912,Texas League,P3763362,Alexander,,Galveston,1912-04-18,1912-04-18,1,0,0,0,0,0,0,0,0,0,1,0
-1912,Texas League,P9842743,Allen,,Houston,1912-04-12,1912-04-21,5,0,0,0,0,0,0,0,0,0,5,0
-1912,Texas League,P5575584,Armour,,Fort Worth,1912-04-15,1912-04-21,2,2,0,0,0,0,0,0,0,0,0,2
-1912,Texas League,P6671388,Ashton,,Austin,1912-04-14,1912-04-20,2,2,0,0,0,0,0,0,0,0,0,2
+1912,South Central League,P9465911,Wright,,Cleburne,1912-04-28,1912-04-28,1,0,0,0,1,0,0,0,0,0,0,0
+1912,Texas League,P7505069,Aiken,,Waco,1912-04-12,1912-04-26,11,0,0,0,11,0,0,0,0,0,0,0
+1912,Texas League,P5440296,Akin,,Waco,1912-04-14,1912-04-30,7,0,0,0,7,0,0,0,0,0,0,0
+1912,Texas League,P3763362,Alexander,,Galveston,1912-04-18,1912-04-30,4,0,0,0,0,0,0,0,0,0,4,0
+1912,Texas League,P9842743,Allen,,Houston,1912-04-12,1912-04-29,11,0,0,0,0,0,0,0,0,0,11,0
+1912,Texas League,P5575584,Armour,,Fort Worth,1912-04-15,1912-04-23,3,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,P6671388,Ashton,,Austin,1912-04-14,1912-04-26,3,3,0,0,0,0,0,0,0,0,0,3
 1912,Texas League,P4702899,Ayers,,Austin,1912-04-12,1912-04-22,2,2,0,0,0,0,0,0,0,0,0,2
-1912,Texas League,P5915347,Ayres,,Austin,1912-04-16,1912-04-21,2,2,0,0,0,0,0,0,0,0,0,2
-1912,Texas League,P0563402,Bader,,Dallas,1912-04-12,1912-04-21,5,5,0,0,0,0,0,0,0,0,0,5
-1912,Texas League,P0172217,Barrett,,Waco,1912-04-14,1912-04-22,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,P5915347,Ayres,,Austin,1912-04-16,1912-04-29,3,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,P0563402,Bader,,Dallas,1912-04-12,1912-04-29,8,8,0,0,0,0,0,0,0,0,0,8
+1912,Texas League,P0172217,Barrett,,Waco,1912-04-14,1912-04-24,3,3,0,0,0,0,0,0,0,0,0,3
 1912,Texas League,P3071034,Beck,,Waco,1912-04-12,1912-04-22,11,0,0,0,0,11,0,0,0,0,0,0
-1912,Texas League,P0524471,Betts,,San Antonio,1912-04-12,1912-04-22,10,0,0,0,0,0,5,0,0,5,6,0
+1912,Texas League,P0524471,Betts,,San Antonio,1912-04-12,1912-04-30,18,0,0,0,0,0,11,0,0,11,8,0
+1912,Texas League,P6914795,Bihen,,Waco,1912-04-27,1912-04-27,1,0,0,0,1,0,0,0,0,0,0,0
 1912,Texas League,P4861209,Blanke,,Dallas,1912-04-17,1912-04-17,1,0,0,0,0,0,1,0,0,1,0,0
-1912,Texas League,P4675745,Blinke,,Dallas,1912-04-15,1912-04-22,2,0,0,0,0,0,0,0,0,0,1,0
-1912,Texas League,P3354202,Bradford,,Beaumont,1912-04-19,1912-04-22,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,P4675745,Blinke,,Dallas,1912-04-15,1912-04-30,7,0,0,0,0,0,0,0,0,0,6,0
+1912,Texas League,P3354202,Bradford,,Beaumont,1912-04-19,1912-04-30,4,4,0,0,0,0,0,0,0,0,0,4
+1912,Texas League,P0071313,Brandt,,Beaumont,1912-04-27,1912-04-27,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,P2823789,Brant,,Beaumont,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
 1912,Texas League,P9027237,Breiteinstin,,San Antonio,1912-04-14,1912-04-14,1,0,0,0,0,1,0,0,0,0,0,0
-1912,Texas League,P9003873,Breitenstein,,San Antonio,1912-04-12,1912-04-19,6,0,0,0,0,2,4,0,0,4,0,0
+1912,Texas League,P9003873,Breitenstein,,San Antonio,1912-04-12,1912-04-30,12,0,0,6,0,2,4,0,0,4,0,0
 1912,Texas League,P7002019,Britten,,Houston,1912-04-18,1912-04-18,1,0,0,0,1,0,0,0,0,0,0,0
-1912,Texas League,P9646509,Britton,,Houston,1912-04-12,1912-04-22,9,0,0,0,9,0,0,0,0,0,0,0
-1912,Texas League,P6590420,Brown,,Dallas,1912-04-15,1912-04-22,2,2,0,0,0,0,0,0,0,0,0,2
-1912,Texas League,P0463003,Browning,,San Antonio,1912-04-12,1912-04-22,5,5,0,0,0,0,0,0,0,0,0,5
-1912,Texas League,P0908041,Brownlow,,Austin,1912-04-12,1912-04-22,11,0,0,0,0,11,0,0,0,0,0,0
+1912,Texas League,P9646509,Britton,,Houston,1912-04-12,1912-04-30,17,0,0,0,17,0,0,0,0,0,0,0
+1912,Texas League,P6590420,Brown,,Dallas,1912-04-15,1912-04-24,3,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,P0463003,Browning,,San Antonio,1912-04-12,1912-04-29,8,7,0,0,0,0,0,0,0,0,0,7
+1912,Texas League,P0908041,Brownlow,,Austin,1912-04-12,1912-04-30,19,0,0,0,0,19,0,0,0,0,0,0
 1912,Texas League,P4017089,Carsen,,Waco,1912-04-17,1912-04-17,1,0,0,0,0,0,0,0,0,0,1,0
-1912,Texas League,P8446859,Carson,,Waco,1912-04-12,1912-04-22,9,0,0,0,0,0,0,0,0,0,9,0
+1912,Texas League,P8446859,Carson,,Waco,1912-04-12,1912-04-30,15,0,0,0,0,0,0,0,0,0,15,0
+1912,Texas League,P1367803,Carson,Tom,Waco,1912-04-28,1912-04-28,1,0,0,0,0,0,0,0,0,0,1,0
 1912,Texas League,P9415556,Casey,,Austin,1912-04-21,1912-04-21,1,0,0,0,0,0,0,0,0,0,0,0
-1912,Texas League,P0866100,Cavender,,Dallas,1912-04-12,1912-04-12,1,0,0,0,0,0,0,0,0,0,0,0
-1912,Texas League,P2220476,Clark,,Austin,1912-04-13,1912-04-19,2,2,0,0,0,0,0,0,0,0,0,2
-1912,Texas League,P0570165,Clemens,,Galveston,1912-04-12,1912-04-19,8,0,0,1,7,0,0,0,0,0,0,0
-1912,Texas League,P4593417,Clements,,Galveston,1912-04-20,1912-04-22,3,0,0,0,3,0,0,0,0,0,0,0
-1912,Texas League,P4358345,Collins,,San Antonio,1912-04-12,1912-04-19,6,0,0,0,0,0,6,0,6,0,0,0
-1912,Texas League,P6874555,Cook,,Austin,1912-04-12,1912-04-22,10,0,0,0,0,0,10,0,10,0,0,0
-1912,Texas League,P8243298,Cook,,Beaumont,1912-04-12,1912-04-22,9,0,9,0,0,0,0,0,0,0,0,0
-1912,Texas League,P1072722,Cooper,,Fort Worth,1912-04-12,1912-04-22,10,0,0,0,0,0,10,7,0,3,0,0
+1912,Texas League,P5393387,Casey,,Beaumont,1912-04-24,1912-04-30,7,0,0,3,0,0,4,1,0,3,0,0
+1912,Texas League,P0866100,Cavender,,Dallas,1912-04-12,1912-04-28,2,0,0,0,0,0,0,0,0,0,0,0
+1912,Texas League,P2220476,Clark,,Austin,1912-04-13,1912-04-29,3,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,P0995489,Clarke,,Austin,1912-04-25,1912-04-25,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,P0570165,Clemens,,Galveston,1912-04-12,1912-04-30,14,0,0,1,13,0,0,0,0,0,0,0
+1912,Texas League,P4593417,Clements,,Galveston,1912-04-20,1912-04-27,5,0,0,0,5,0,0,0,0,0,0,0
+1912,Texas League,P4358345,Collins,,San Antonio,1912-04-12,1912-04-28,10,0,0,0,0,0,10,0,8,2,0,0
+1912,Texas League,P6874555,Cook,,Austin,1912-04-12,1912-04-30,18,0,0,0,0,0,18,0,18,0,0,0
+1912,Texas League,P8243298,Cook,,Beaumont,1912-04-12,1912-04-30,17,0,17,0,0,0,0,0,0,0,0,0
+1912,Texas League,P1072722,Cooper,,Fort Worth,1912-04-12,1912-04-30,18,0,0,0,0,0,18,7,0,11,0,0
 1912,Texas League,P1217589,Corbet,,Beaumont,1912-04-12,1912-04-12,1,1,0,0,0,0,0,0,0,0,0,1
-1912,Texas League,P6695785,Corbett,,Beaumont,1912-04-19,1912-04-22,3,1,0,0,0,0,0,0,0,0,0,1
-1912,Texas League,P3569006,Cowan,,Beaumont,1912-04-12,1912-04-22,9,0,0,0,9,0,0,0,0,0,0,0
-1912,Texas League,P3209408,Crichlow,,Waco,1912-04-12,1912-04-22,6,0,0,0,0,0,6,6,0,0,0,0
-1912,Texas League,P7861104,Dail,,Beaumont,1912-04-12,1912-04-21,8,0,0,0,0,0,8,1,0,7,0,0
+1912,Texas League,P6695785,Corbett,,Beaumont,1912-04-19,1912-04-25,5,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,P3569006,Cowan,,Beaumont,1912-04-12,1912-04-30,17,0,0,0,17,0,0,0,0,0,0,0
+1912,Texas League,P3209408,Crichlow,,Waco,1912-04-12,1912-04-30,11,0,0,0,0,0,11,10,0,1,0,0
+1912,Texas League,P0678996,Critchlow,,Waco,1912-04-24,1912-04-27,3,0,0,0,0,0,3,3,0,0,0,0
+1912,Texas League,P7861104,Dail,,Beaumont,1912-04-12,1912-04-30,16,0,0,0,0,0,16,7,0,9,0,0
 1912,Texas League,P9041555,Dall,,Beaumont,1912-04-22,1912-04-22,1,0,0,0,0,0,1,1,0,0,0,0
-1912,Texas League,P8787329,Daringer,,San Antonio,1912-04-12,1912-04-22,10,0,0,5,0,5,0,0,0,0,0,0
-1912,Texas League,P2855042,Davis,,Houston,1912-04-12,1912-04-22,10,0,0,0,0,0,10,0,4,7,0,0
-1912,Texas League,P1990018,Dawson,,Beaumont,1912-04-12,1912-04-22,9,0,0,0,0,0,0,0,0,0,9,0
+1912,Texas League,P8787329,Daringer,,San Antonio,1912-04-12,1912-04-23,11,0,0,5,0,6,0,0,0,0,0,0
+1912,Texas League,P2855042,Davis,,Houston,1912-04-12,1912-04-30,18,0,1,0,0,0,18,0,12,7,0,0
+1912,Texas League,P1990018,Dawson,,Beaumont,1912-04-12,1912-04-30,17,0,0,0,0,0,0,0,0,0,17,0
 1912,Texas League,P8721207,Deardorff,,Fort Worth,1912-04-14,1912-04-14,1,1,0,0,0,0,0,0,0,0,0,1
-1912,Texas League,P5554682,Dischner,,Fort Worth,1912-04-21,1912-04-21,1,1,0,0,0,0,0,0,0,0,0,1
-1912,Texas League,P8994281,Dodd,,Galveston,1912-04-18,1912-04-22,4,0,0,4,0,0,0,0,0,0,0,0
-1912,Texas League,P5339365,Downey,,Austin,1912-04-12,1912-04-22,11,0,0,0,0,0,11,0,0,11,0,0
-1912,Texas League,P7796547,Dugey,,Waco,1912-04-12,1912-04-22,11,0,0,11,0,0,0,0,0,0,0,0
-1912,Texas League,P2817605,Duncan,,Dallas,1912-04-22,1912-04-22,2,0,0,0,0,0,2,0,0,2,0,0
+1912,Texas League,P5554682,Dischner,,Fort Worth,1912-04-21,1912-04-29,4,4,0,0,0,0,0,0,0,0,0,4
+1912,Texas League,P8994281,Dodd,,Galveston,1912-04-18,1912-04-26,7,1,1,5,0,0,0,0,0,0,0,1
+1912,Texas League,P5339365,Downey,,Austin,1912-04-12,1912-04-30,18,1,0,0,0,0,18,0,1,18,0,1
+1912,Texas League,P5025643,Downey,,San Antonio,1912-04-24,1912-04-24,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,P9170080,Downey,Red,Austin,1912-04-28,1912-04-28,1,0,0,0,0,0,1,0,0,1,0,0
+1912,Texas League,P7796547,Dugey,,Waco,1912-04-12,1912-04-30,19,0,0,18,1,0,0,0,0,0,0,0
+1912,Texas League,P2817605,Duncan,,Dallas,1912-04-22,1912-04-30,10,0,0,0,0,0,10,0,0,10,0,0
 1912,Texas League,P4600775,Edminston,,Beaumont,1912-04-17,1912-04-17,1,0,0,0,0,1,0,0,0,0,0,0
-1912,Texas League,P4322329,Edmiston,,Beaumont,1912-04-12,1912-04-22,8,0,0,0,0,8,0,0,0,0,0,0
-1912,Texas League,P2015352,Edmundson,,Houston,1912-04-12,1912-04-20,3,3,0,0,0,0,0,0,0,0,0,3
-1912,Texas League,P4252754,Ens,,Dallas,1912-04-12,1912-04-22,12,0,0,12,0,0,0,0,0,0,0,0
-1912,Texas League,P0223913,Evans,,Dallas,1912-04-14,1912-04-22,7,4,0,0,0,0,0,0,0,0,0,4
+1912,Texas League,P4322329,Edmiston,,Beaumont,1912-04-12,1912-04-30,16,0,0,0,0,16,0,0,0,0,0,0
+1912,Texas League,P8280178,Edmondson,,Houston,1912-04-28,1912-04-28,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,P2015352,Edmundson,,Houston,1912-04-12,1912-04-24,4,4,0,0,0,0,0,0,0,0,0,4
+1912,Texas League,P4252754,Ens,,Dallas,1912-04-12,1912-04-30,20,0,0,19,1,0,0,0,0,0,0,0
+1912,Texas League,P0223913,Evans,,Dallas,1912-04-14,1912-04-27,9,5,0,0,0,0,0,0,0,0,0,5
 1912,Texas League,P9246976,Fierson,,Fort Worth,1912-04-15,1912-04-15,1,0,0,0,0,0,0,0,0,0,0,0
 1912,Texas League,P4695735,Filliman,,Houston,1912-04-18,1912-04-18,1,0,0,1,0,0,0,0,0,0,0,0
-1912,Texas League,P8059022,Fillman,,Houston,1912-04-12,1912-04-22,9,0,0,8,0,0,1,0,1,0,0,0
-1912,Texas League,P5381376,Forsythe,,Dallas,1912-04-12,1912-04-22,12,0,2,0,0,0,10,10,0,0,0,0
-1912,Texas League,P4862942,Foster,,Houston,1912-04-14,1912-04-22,2,2,0,0,0,0,0,0,0,0,0,2
-1912,Texas League,P0886290,Frierson,,Fort Worth,1912-04-14,1912-04-22,7,0,0,0,0,0,3,3,0,0,0,0
-1912,Texas League,P3645934,Gibson,,Dallas,1912-04-12,1912-04-22,11,0,0,0,0,0,0,0,0,0,11,0
+1912,Texas League,P8059022,Fillman,,Houston,1912-04-12,1912-04-30,17,0,0,16,0,0,1,0,1,0,0,0
+1912,Texas League,P5381376,Forsythe,,Dallas,1912-04-12,1912-04-30,20,0,10,0,0,0,10,10,0,0,0,0
+1912,Texas League,P4862942,Foster,,Houston,1912-04-14,1912-04-29,4,4,0,0,0,0,0,0,0,0,0,4
+1912,Texas League,P0886290,Frierson,,Fort Worth,1912-04-14,1912-04-30,14,0,0,0,0,0,10,10,0,0,0,0
+1912,Texas League,P3645934,Gibson,,Dallas,1912-04-12,1912-04-30,18,0,0,0,0,0,1,0,1,0,15,0
 1912,Texas League,P4946739,Gilvin,,Fort Worth,1912-04-15,1912-04-22,2,2,0,0,0,0,0,0,0,0,0,2
-1912,Texas League,P6612492,Goodwin,,San Antonio,1912-04-12,1912-04-22,7,3,0,0,0,0,3,0,0,3,0,3
-1912,Texas League,P1678103,Gordon,,Galveston,1912-04-14,1912-04-21,3,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,P6612492,Goodwin,,San Antonio,1912-04-12,1912-04-30,11,5,0,0,0,0,4,0,0,4,0,5
+1912,Texas League,P1678103,Gordon,,Galveston,1912-04-14,1912-04-29,5,5,0,0,0,0,0,0,0,0,0,5
 1912,Texas League,P6686959,Haislip,,Waco,1912-04-22,1912-04-22,1,1,0,0,0,0,0,0,0,0,0,1
 1912,Texas League,P9605702,Harkins,,Beaumont,1912-04-12,1912-04-22,3,3,0,0,0,0,0,0,0,0,0,3
-1912,Texas League,P3868308,Helm,,Galveston,1912-04-14,1912-04-22,3,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,P3868308,Helm,,Galveston,1912-04-14,1912-04-29,4,4,0,0,0,0,0,0,0,0,0,4
+1912,Texas League,P4283949,Henninger,,Austin,1912-04-28,1912-04-28,1,0,0,0,0,0,0,0,0,0,1,0
 1912,Texas League,P4862456,Henricksen,,Galveston,1912-04-15,1912-04-15,1,1,0,0,0,0,0,0,0,0,0,1
 1912,Texas League,P6044700,Henry,,Beaumont,1912-04-12,1912-04-13,2,0,0,0,0,0,2,2,0,0,0,0
-1912,Texas League,P5335176,Hiett,,Fort Worth,1912-04-12,1912-04-22,5,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,P5335176,Hiett,,Fort Worth,1912-04-12,1912-04-29,7,5,0,0,0,0,0,0,0,0,0,5
 1912,Texas League,P9334328,Hill,,Austin,1912-04-22,1912-04-22,1,0,0,0,1,0,0,0,0,0,0,0
-1912,Texas League,P5752605,Hille,,Austin,1912-04-12,1912-04-21,8,0,0,0,7,0,1,0,1,0,0,0
-1912,Texas League,P6457777,Hinninger,,Austin,1912-04-12,1912-04-22,9,0,0,0,0,0,0,0,0,0,9,0
-1912,Texas League,P3964623,Howard,,Fort Worth,1912-04-12,1912-04-22,10,0,0,0,0,0,10,0,10,0,0,0
+1912,Texas League,P5752605,Hille,,Austin,1912-04-12,1912-04-30,16,0,0,0,15,0,1,0,1,0,0,0
+1912,Texas League,P6457777,Hinninger,,Austin,1912-04-12,1912-04-30,16,0,1,0,0,0,0,0,0,0,15,0
+1912,Texas League,P3964623,Howard,,Fort Worth,1912-04-12,1912-04-30,17,0,0,0,0,0,17,0,17,0,0,0
 1912,Texas League,P5716884,Jolly,,Fort Worth,1912-04-12,1912-04-22,9,0,0,0,0,0,8,1,0,7,0,0
-1912,Texas League,P2768421,Jost,,Waco,1912-04-14,1912-04-17,2,2,0,0,0,0,0,0,0,0,0,2
-1912,Texas League,P5734279,Kellerman,,Dallas,1912-04-12,1912-04-22,12,0,0,0,0,12,0,0,0,0,0,0
+1912,Texas League,P7135320,Jolly,,Galveston,1912-04-24,1912-04-30,7,0,0,0,0,0,7,0,0,7,0,0
+1912,Texas League,P2768421,Jost,,Waco,1912-04-14,1912-04-29,5,5,0,0,0,0,0,0,0,0,0,5
+1912,Texas League,P5734279,Kellerman,,Dallas,1912-04-12,1912-04-30,20,0,0,0,0,20,0,0,0,0,0,0
 1912,Texas League,P4901622,Kenney,,Dallas,1912-04-19,1912-04-19,1,1,0,0,0,0,0,0,0,0,0,1
 1912,Texas League,P6841466,Kinney,,Dallas,1912-04-12,1912-04-22,3,2,0,0,0,0,0,0,0,0,0,2
-1912,Texas League,P9292432,Kitchen,,Fort Worth,1912-04-12,1912-04-22,5,0,0,0,0,0,0,0,0,0,5,0
-1912,Texas League,P0777251,Kitchens,,Fort Worth,1912-04-14,1912-04-18,5,0,0,0,0,0,0,0,0,0,5,0
-1912,Texas League,P8574426,Knaupp,,Houston,1912-04-12,1912-04-22,10,0,0,0,0,10,0,0,0,0,0,0
-1912,Texas League,P5175384,Kramer,,Beaumont,1912-04-17,1912-04-22,4,0,0,0,0,0,4,2,0,2,0,0
-1912,Texas League,P1830845,Landreth,,Houston,1912-04-19,1912-04-22,4,0,0,0,0,0,4,0,0,4,0,0
+1912,Texas League,P9292432,Kitchen,,Fort Worth,1912-04-12,1912-04-30,11,0,0,0,0,0,0,0,0,0,11,0
+1912,Texas League,P0777251,Kitchens,,Fort Worth,1912-04-14,1912-04-24,6,0,0,0,0,0,0,0,0,0,6,0
+1912,Texas League,P6567653,Knapp,,Houston,1912-04-24,1912-04-24,1,0,0,0,0,1,0,0,0,0,0,0
+1912,Texas League,P8574426,Knaupp,,Houston,1912-04-12,1912-04-30,17,0,0,0,0,17,0,0,0,0,0,0
+1912,Texas League,P5175384,Kramer,,Beaumont,1912-04-17,1912-04-23,5,0,0,0,0,0,5,2,0,3,0,0
+1912,Texas League,P1830845,Landreth,,Houston,1912-04-19,1912-04-30,12,0,0,0,0,0,12,0,1,12,0,0
 1912,Texas League,P4243765,Landry,,Houston,1912-04-17,1912-04-17,1,0,0,0,0,0,0,0,0,0,0,0
-1912,Texas League,P6550939,Larsen,,Beaumont,1912-04-21,1912-04-21,1,1,0,0,0,0,0,0,0,0,0,1
-1912,Texas League,P3819109,Larson,,Beaumont,1912-04-22,1912-04-22,1,0,0,0,0,0,0,0,0,0,0,0
+1912,Texas League,P6550939,Larsen,,Beaumont,1912-04-21,1912-04-23,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,P3819109,Larson,,Beaumont,1912-04-22,1912-04-29,2,1,0,0,0,0,0,0,0,0,0,1
 1912,Texas League,P9507332,Leady,,San Antonio,1912-04-20,1912-04-20,1,0,0,0,0,0,1,0,1,0,0,0
-1912,Texas League,P3854988,Leidy,,San Antonio,1912-04-12,1912-04-22,6,0,0,0,0,0,5,1,3,1,0,0
-1912,Texas League,P8143635,Lewis,,Austin,1912-04-12,1912-04-18,3,3,0,0,0,0,0,0,0,0,0,3
-1912,Texas League,P1759844,Lohman,,Waco,1912-04-15,1912-04-20,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,P3854988,Leidy,,San Antonio,1912-04-12,1912-04-30,12,0,0,0,0,0,10,1,8,1,1,0
+1912,Texas League,P8143635,Lewis,,Austin,1912-04-12,1912-04-27,5,5,0,0,0,0,0,0,0,0,0,5
+1912,Texas League,P1759844,Lohman,,Waco,1912-04-15,1912-04-27,4,4,0,0,0,0,0,0,0,0,0,4
 1912,Texas League,P5965761,Lowe,,Fort Worth,1912-04-14,1912-04-15,2,2,0,0,0,0,0,0,0,0,0,2
-1912,Texas League,P7770628,Maag,,Galveston,1912-04-12,1912-04-20,9,0,0,9,0,0,0,0,0,0,0,0
-1912,Texas League,P3109175,Madden,,Galveston,1912-04-12,1912-04-22,11,0,0,0,0,11,0,0,0,0,0,0
-1912,Texas League,P6963708,Malloy,,Galveston,1912-04-13,1912-04-21,3,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,P7770628,Maag,,Galveston,1912-04-12,1912-04-30,16,0,0,16,0,0,0,0,0,0,0,0
+1912,Texas League,P3109175,Madden,,Galveston,1912-04-12,1912-04-30,19,0,0,0,0,19,0,0,0,0,0,0
+1912,Texas League,P6963708,Malloy,,Galveston,1912-04-13,1912-04-26,4,4,0,0,0,0,0,0,0,0,0,4
 1912,Texas League,P6915537,Manef,,Fort Worth,1912-04-22,1912-04-22,1,0,1,0,0,0,0,0,0,0,0,0
-1912,Texas League,P5720030,Manes,,Fort Worth,1912-04-12,1912-04-21,9,0,9,0,0,0,0,0,0,0,0,0
-1912,Texas League,P1049442,Martina,,Beaumont,1912-04-12,1912-04-20,4,4,0,0,0,0,0,0,0,0,0,4
-1912,Texas League,P7941749,Mayes,,Beaumont,1912-04-12,1912-04-22,9,0,0,0,0,0,9,0,9,0,0,0
-1912,Texas League,P0259748,McGraner,,San Antonio,1912-04-19,1912-04-19,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,P2735069,Maner,,Fort Worth,1912-04-24,1912-04-27,4,0,4,0,0,0,0,0,0,0,0,0
+1912,Texas League,P5720030,Manes,,Fort Worth,1912-04-12,1912-04-30,13,0,13,0,0,0,0,0,0,0,0,0
+1912,Texas League,P1049442,Martina,,Beaumont,1912-04-12,1912-04-29,7,7,0,0,0,0,0,0,0,0,0,7
+1912,Texas League,P7941749,Mayes,,Beaumont,1912-04-12,1912-04-30,17,0,0,0,0,0,17,0,17,0,0,0
+1912,Texas League,P0259748,McGraner,,San Antonio,1912-04-19,1912-04-27,3,3,0,0,0,0,0,0,0,0,0,3
 1912,Texas League,P5442211,McKnight,,Galveston,1912-04-12,1912-04-15,4,0,0,0,0,0,4,0,0,4,0,0
-1912,Texas League,P0664073,McLarry,,Austin,1912-04-12,1912-04-22,11,0,11,0,0,0,0,0,0,0,0,0
-1912,Texas League,P6601635,Meehan,,San Antonio,1912-04-12,1912-04-22,10,0,0,0,0,0,10,10,0,0,0,0
-1912,Texas League,P3579893,Metz,,San Antonio,1912-04-13,1912-04-22,9,0,9,0,0,0,0,0,0,0,0,0
-1912,Texas League,P5702095,Midkiff,,San Antonio,1912-04-12,1912-04-22,10,0,0,0,10,0,0,0,0,0,0,0
-1912,Texas League,P2533322,Miller,,Waco,1912-04-12,1912-04-21,2,2,0,0,0,0,0,0,0,0,0,2
-1912,Texas League,P7650256,Moore,,Galveston,1912-04-12,1912-04-19,3,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,P0664073,McLarry,,Austin,1912-04-12,1912-04-30,19,0,19,0,0,0,0,0,0,0,0,0
+1912,Texas League,P6601635,Meehan,,San Antonio,1912-04-12,1912-04-30,18,0,0,0,0,0,18,18,0,0,0,0
+1912,Texas League,P3579893,Metz,,San Antonio,1912-04-13,1912-04-30,17,0,17,0,0,0,0,0,0,0,0,0
+1912,Texas League,P5702095,Midkiff,,San Antonio,1912-04-12,1912-04-30,18,0,0,0,18,0,0,0,0,0,0,0
+1912,Texas League,P2533322,Miller,,Waco,1912-04-12,1912-04-29,4,4,0,0,0,0,0,0,0,0,0,4
+1912,Texas League,P7650256,Moore,,Galveston,1912-04-12,1912-04-28,5,5,0,0,0,0,0,0,0,0,0,5
+1912,Texas League,P6922359,Moore,,San Antonio,1912-04-23,1912-04-23,1,1,0,0,0,0,0,0,0,0,0,1
 1912,Texas League,P9194694,Morris,,Fort Worth,1912-04-18,1912-04-22,4,0,0,0,0,4,0,0,0,0,0,0
-1912,Texas League,P5341997,Morton,,Galveston,1912-04-18,1912-04-20,2,2,0,0,0,0,0,0,0,0,0,2
-1912,Texas League,P4857231,Nance,,Fort Worth,1912-04-12,1912-04-22,4,0,0,0,0,0,1,0,0,1,0,0
-1912,Texas League,P1992561,Newman,,Houston,1912-04-12,1912-04-12,1,0,1,0,0,0,0,0,0,0,0,0
-1912,Texas League,P1317425,Newnam,,Houston,1912-04-13,1912-04-22,9,0,9,0,0,0,0,0,0,0,0,0
-1912,Texas League,P8361535,Ogles,,Waco,1912-04-13,1912-04-22,3,3,0,0,0,0,0,0,0,0,0,3
-1912,Texas League,P2820456,Parrish,,Austin,1912-04-15,1912-04-15,1,1,0,0,0,0,0,0,0,0,0,1
-1912,Texas League,P5348438,Pate,,Dallas,1912-04-13,1912-04-22,3,3,0,0,0,0,0,0,0,0,0,3
-1912,Texas League,P6727658,Peaster,,Beaumont,1912-04-18,1912-04-21,2,2,0,0,0,0,0,0,0,0,0,2
-1912,Texas League,P4565870,Peebles,,Galveston,1912-04-15,1912-04-22,8,0,0,0,0,0,7,0,0,7,0,0
-1912,Texas League,P1436468,Perritt,,Fort Worth,1912-04-13,1912-04-20,3,3,0,0,0,0,0,0,0,0,0,3
-1912,Texas League,P1476279,Ray,,Houston,1912-04-13,1912-04-18,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,P5341997,Morton,,Galveston,1912-04-18,1912-04-30,5,5,0,0,0,0,0,0,0,0,0,5
+1912,Texas League,P9237289,Murch,,Fort Worth,1912-04-29,1912-04-29,1,0,0,0,0,0,0,0,0,0,0,0
+1912,Texas League,P4857231,Nance,,Fort Worth,1912-04-12,1912-04-26,7,0,0,0,0,0,3,1,1,1,0,0
+1912,Texas League,P2174514,Nance,Bill,Fort Worth,1912-04-24,1912-04-24,1,0,0,0,0,0,1,0,1,0,0,0
+1912,Texas League,P1992561,Newman,,Houston,1912-04-12,1912-04-25,2,0,2,0,0,0,0,0,0,0,0,0
+1912,Texas League,P1317425,Newnam,,Houston,1912-04-13,1912-04-30,16,0,16,0,0,0,0,0,0,0,0,0
+1912,Texas League,P4711884,Ogle,,Waco,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,P8361535,Ogles,,Waco,1912-04-13,1912-04-26,4,4,0,0,0,0,0,0,0,0,0,4
+1912,Texas League,P2820456,Parrish,,Austin,1912-04-15,1912-04-30,3,3,0,0,0,0,1,0,0,1,0,3
+1912,Texas League,P5348438,Pate,,Dallas,1912-04-13,1912-04-30,5,5,0,0,0,0,0,0,0,0,0,5
+1912,Texas League,P6727658,Peaster,,Beaumont,1912-04-18,1912-04-26,4,4,0,0,0,0,0,0,0,0,0,4
+1912,Texas League,P4565870,Peebles,,Galveston,1912-04-15,1912-04-26,10,0,0,0,0,0,9,0,1,8,0,0
+1912,Texas League,P1436468,Perritt,,Fort Worth,1912-04-13,1912-04-30,8,8,0,0,0,0,0,0,0,0,0,8
+1912,Texas League,P1476279,Ray,,Houston,1912-04-13,1912-04-30,5,5,0,0,0,0,0,0,0,0,0,5
 1912,Texas League,P6280374,Reilly,,Waco,1912-04-16,1912-04-18,3,0,0,0,0,0,0,0,0,0,1,0
-1912,Texas League,P9326831,Rennard,,Waco,1912-04-12,1912-04-22,11,0,0,0,0,0,11,0,0,11,0,0
-1912,Texas League,P4817243,Reynolds,,Houston,1912-04-14,1912-04-22,5,0,0,0,0,0,0,0,0,0,5,0
+1912,Texas League,P9326831,Rennard,,Waco,1912-04-12,1912-04-30,19,0,0,0,0,0,19,0,0,19,0,0
+1912,Texas League,P4817243,Reynolds,,Houston,1912-04-14,1912-04-30,9,0,0,0,0,0,1,0,0,1,7,0
 1912,Texas League,P9355559,Riggs,,Houston,1912-04-12,1912-04-19,7,0,0,0,0,0,7,0,7,0,0,0
-1912,Texas League,P6564104,Robertson,,Fort Worth,1912-04-16,1912-04-17,2,0,0,0,0,0,0,0,0,0,2,0
-1912,Texas League,P4685017,Robinson,,Austin,1912-04-12,1912-04-22,8,0,0,0,0,0,8,8,0,0,0,0
-1912,Texas League,P1860212,Robinson,,Fort Worth,1912-04-15,1912-04-15,1,0,0,0,0,0,0,0,0,0,1,0
-1912,Texas League,P3258759,Rogers,,San Antonio,1912-04-14,1912-04-22,3,3,0,0,0,0,0,0,0,0,0,3
-1912,Texas League,P4092260,Rose,,Houston,1912-04-14,1912-04-19,2,2,0,0,0,0,0,0,0,0,0,2
-1912,Texas League,P6701275,Salm,,Galveston,1912-04-12,1912-04-22,11,0,11,0,0,0,0,0,0,0,0,0
-1912,Texas League,P7869176,Sewell,,Dallas,1912-04-14,1912-04-21,2,2,0,0,0,0,0,0,0,0,0,2
-1912,Texas League,P0260562,Shontz,,Dallas,1912-04-20,1912-04-20,1,1,0,0,0,0,0,0,0,0,0,1
-1912,Texas League,P0301016,Shuman,,Dallas,1912-04-12,1912-04-22,12,0,0,0,0,0,12,0,12,0,0,0
-1912,Texas League,P8771444,Smith,,Austin,1912-04-12,1912-04-22,10,0,0,10,0,0,0,0,0,0,0,0
-1912,Texas League,P1454479,Smith,,Fort Worth,1912-04-17,1912-04-17,1,1,0,0,0,0,0,0,0,0,0,1
-1912,Texas League,P5497690,Smith,,San Antonio,1912-04-12,1912-04-22,10,0,0,5,0,0,0,0,0,0,5,0
+1912,Texas League,P1766602,Riley,,Waco,1912-04-23,1912-04-25,3,0,0,0,0,0,1,0,1,0,2,0
+1912,Texas League,P6564104,Robertson,,Fort Worth,1912-04-16,1912-04-23,3,0,0,0,0,0,0,0,0,0,3,0
+1912,Texas League,P4685017,Robinson,,Austin,1912-04-12,1912-04-30,13,0,0,0,0,0,13,13,0,0,0,0
+1912,Texas League,P4657946,Robinson [Aus],,Austin,1912-04-15,1912-04-15,1,0,0,0,0,0,1,1,0,0,0,0
+1912,Texas League,P0796809,Robinson [FW],,Fort Worth,1912-04-15,1912-04-15,1,0,0,0,0,0,0,0,0,0,1,0
+1912,Texas League,P3258759,Rogers,,San Antonio,1912-04-14,1912-04-30,5,4,0,0,0,0,0,0,0,0,0,4
+1912,Texas League,P4092260,Rose,,Houston,1912-04-14,1912-04-29,4,4,0,0,0,0,0,0,0,0,0,4
+1912,Texas League,P6701275,Salm,,Galveston,1912-04-12,1912-04-30,18,0,18,0,0,0,0,0,0,0,0,0
+1912,Texas League,P7869176,Sewell,,Dallas,1912-04-14,1912-04-23,3,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,P0260562,Shontz,,Dallas,1912-04-20,1912-04-28,3,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,P0301016,Shuman,,Dallas,1912-04-12,1912-04-30,20,0,0,0,0,0,20,1,19,0,0,0
+1912,Texas League,P8771444,Smith,,Austin,1912-04-12,1912-04-30,17,0,0,17,0,0,0,0,0,0,0,0
+1912,Texas League,P1454479,Smith,,Fort Worth,1912-04-17,1912-04-27,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,P5497690,Smith,,San Antonio,1912-04-12,1912-04-30,18,0,0,7,0,0,0,0,0,0,11,0
 1912,Texas League,P2002473,Smith,G.,Austin,1912-04-14,1912-04-14,1,0,0,1,0,0,0,0,0,0,0,0
 1912,Texas League,P9582149,Smith,H.,Fort Worth,1912-04-14,1912-04-14,1,1,0,0,0,0,0,0,0,0,0,1
-1912,Texas League,P6882540,Snapp,,Fort Worth,1912-04-12,1912-04-22,10,0,0,0,10,0,0,0,0,0,0,0
-1912,Texas League,P8410178,Stellbauer,,Austin,1912-04-15,1912-04-21,6,0,0,0,2,0,2,2,0,0,0,0
-1912,Texas League,P3939087,Stewart,,Waco,1912-04-12,1912-04-22,11,0,0,0,0,0,11,0,11,0,0,0
+1912,Texas League,P2814709,Smith [Aus],,Austin,1912-04-21,1912-04-21,1,0,0,1,0,0,0,0,0,0,0,0
+1912,Texas League,P0388740,Smith [FW],,Fort Worth,1912-04-21,1912-04-21,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,P6882540,Snapp,,Fort Worth,1912-04-12,1912-04-30,18,0,0,0,18,0,0,0,0,0,0,0
+1912,Texas League,P4524894,Spencer,,Galveston,1912-04-30,1912-04-30,1,0,0,0,0,0,1,0,1,0,0,0
+1912,Texas League,P4052475,Steelbauer,,Austin,1912-04-24,1912-04-24,1,0,0,0,0,0,1,0,0,1,0,0
+1912,Texas League,P8410178,Stellbauer,,Austin,1912-04-15,1912-04-27,9,0,0,0,2,0,5,5,0,0,0,0
+1912,Texas League,P3939087,Stewart,,Waco,1912-04-12,1912-04-30,19,0,0,0,0,1,19,0,19,0,0,0
 1912,Texas League,P0584006,Stillbauer,,Austin,1912-04-14,1912-04-14,1,0,0,0,1,0,0,0,0,0,0,0
-1912,Texas League,P2371415,Sweet,,Austin,1912-04-13,1912-04-16,3,0,0,0,0,0,0,0,0,0,3,0
-1912,Texas League,P5822310,Taff,,Waco,1912-04-16,1912-04-16,1,1,0,0,0,0,0,0,0,0,0,1
-1912,Texas League,P2545837,Tanner,,Waco,1912-04-13,1912-04-20,7,0,0,0,0,0,6,6,0,0,0,0
-1912,Texas League,P0225898,Taylor,,Austin,1912-04-17,1912-04-21,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,P2371415,Sweet,,Austin,1912-04-13,1912-04-30,7,0,0,0,0,0,1,0,0,1,5,0
+1912,Texas League,P5822310,Taff,,Waco,1912-04-16,1912-04-23,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas League,P3417417,Taff,Bill,Waco,1912-04-28,1912-04-28,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,P2545837,Tanner,,Waco,1912-04-13,1912-04-30,15,0,0,0,0,8,6,6,0,0,0,0
+1912,Texas League,P0225898,Taylor,,Austin,1912-04-17,1912-04-28,3,3,0,0,0,0,0,0,0,0,0,3
 1912,Texas League,P5153160,Teerney,,Dallas,1912-04-12,1912-04-12,1,0,0,0,0,0,1,0,0,1,0,0
-1912,Texas League,P1568416,Thebo,,Galveston,1912-04-12,1912-04-22,11,0,0,0,0,0,11,0,11,0,0,0
-1912,Texas League,P1042530,Thompson,,Fort Worth,1912-04-12,1912-04-22,10,0,0,10,0,0,0,0,0,0,0,0
+1912,Texas League,P1568416,Thebo,,Galveston,1912-04-12,1912-04-29,18,0,0,0,0,0,18,0,18,0,0,0
+1912,Texas League,P1042530,Thompson,,Fort Worth,1912-04-12,1912-04-30,18,0,0,18,0,0,0,0,0,0,0,0
 1912,Texas League,P9168012,Tierney,,Dallas,1912-04-13,1912-04-21,9,0,0,0,0,0,9,0,0,9,0,0
-1912,Texas League,P3521967,Tullos,,Dallas,1912-04-12,1912-04-22,12,0,0,0,12,0,0,0,0,0,0,0
+1912,Texas League,P3521967,Tullos,,Dallas,1912-04-12,1912-04-30,20,0,0,0,20,0,0,0,0,0,0,0
 1912,Texas League,P5704834,Wahl,,Beaumont,1912-04-13,1912-04-13,1,1,0,0,0,0,0,0,0,0,0,1
-1912,Texas League,P4808495,Wallace,,Beaumont,1912-04-13,1912-04-19,5,0,0,0,0,0,5,5,0,0,0,0
+1912,Texas League,P5448485,Walden,,Fort Worth,1912-04-29,1912-04-29,1,0,0,0,0,0,0,0,0,0,1,0
+1912,Texas League,P4808495,Wallace,,Beaumont,1912-04-13,1912-04-30,10,0,0,0,0,0,9,6,0,3,2,0
+1912,Texas League,P2489902,Wallace,,San Antonio,1912-04-24,1912-04-30,7,0,0,0,0,7,0,0,0,0,0,0
 1912,Texas League,P7207390,Wallace,B.,San Antonio,1912-04-21,1912-04-21,1,0,0,0,0,1,0,0,0,0,0,0
-1912,Texas League,P7339111,Wallace,J.,Beaumont,1912-04-20,1912-04-21,2,0,0,0,0,0,1,1,0,0,0,0
+1912,Texas League,P7339111,Wallace,J.,Beaumont,1912-04-20,1912-04-23,3,0,0,0,0,0,2,1,0,1,0,0
 1912,Texas League,P3266798,Wallace,R.,San Antonio,1912-04-20,1912-04-20,1,0,0,0,0,1,0,0,0,0,0,0
-1912,Texas League,P0688775,Watson,,Houston,1912-04-17,1912-04-21,2,2,0,0,0,0,0,0,0,0,0,2
-1912,Texas League,P3455042,Wheeler,,Beaumont,1912-04-12,1912-04-22,9,0,0,9,0,0,0,0,0,0,0,0
-1912,Texas League,P3253928,Whiteman,,Houston,1912-04-12,1912-04-22,10,0,0,0,0,0,10,10,0,0,0,0
+1912,Texas League,P0688775,Watson,,Houston,1912-04-17,1912-04-27,3,3,0,0,0,0,0,0,0,0,0,3
+1912,Texas League,P3455042,Wheeler,,Beaumont,1912-04-12,1912-04-30,15,0,0,14,0,0,1,1,0,0,0,0
+1912,Texas League,P3253928,Whiteman,,Houston,1912-04-12,1912-04-30,18,0,0,0,0,0,18,18,0,0,0,0
 1912,Texas League,P9445808,Williams,,Galveston,1912-04-21,1912-04-21,1,0,0,0,0,0,1,1,0,0,0,0
-1912,Texas League,P9790822,Williams,H.,Galveston,1912-04-12,1912-04-22,10,0,0,0,0,0,0,0,0,0,10,0
-1912,Texas League,P7244456,Williams,J.,Galveston,1912-04-12,1912-04-22,10,0,0,0,0,0,10,10,0,0,0,0
-1912,Texas League,P6973512,Wilson,,Dallas,1912-04-12,1912-04-22,12,0,10,0,0,0,2,2,0,0,0,0
-1912,Texas League,P7802098,Windham,,Fort Worth,1912-04-21,1912-04-21,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas League,P9790822,Williams,H.,Galveston,1912-04-12,1912-04-29,15,0,0,0,0,0,0,0,0,0,15,0
+1912,Texas League,P7244456,Williams,J.,Galveston,1912-04-12,1912-04-30,18,0,0,0,0,0,18,18,0,0,0,0
+1912,Texas League,P6973512,Wilson,,Dallas,1912-04-12,1912-04-30,20,0,10,0,0,0,10,10,0,0,0,0
+1912,Texas League,P7802098,Windham,,Fort Worth,1912-04-21,1912-04-29,4,4,0,0,0,0,0,0,0,0,0,4
 1912,Texas League,P2060216,Windom,,Fort Worth,1912-04-12,1912-04-18,2,2,0,0,0,0,0,0,0,0,0,2
-1912,Texas League,P1135308,Witherspoon,,Fort Worth,1912-04-12,1912-04-22,9,1,1,0,0,7,0,0,0,0,0,1
-1912,Texas League,P0952249,Wohleben,,Waco,1912-04-12,1912-04-22,11,0,11,0,0,0,0,0,0,0,0,0
+1912,Texas League,P1135308,Witherspoon,,Fort Worth,1912-04-12,1912-04-30,17,1,1,0,0,15,0,0,0,0,0,1
+1912,Texas League,P0952249,Wohleben,,Waco,1912-04-12,1912-04-30,19,0,19,0,0,0,0,0,0,0,0,0
 1912,Texas League,P2932623,Wylie,,Waco,1912-04-20,1912-04-20,1,0,0,0,0,0,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P0984615,Adams,,Greenville,1912-04-25,1912-04-29,2,2,0,0,0,0,1,0,0,1,0,2
+1912,Texas-Oklahoma League,P0984615,Adams,,Greenville,1912-04-25,1912-04-30,3,3,0,0,0,0,1,0,0,1,0,3
 1912,Texas-Oklahoma League,P4478075,Adkins,,Greenville,1912-04-25,1912-04-27,2,0,0,0,2,0,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P9695907,Anderson,,Bonham,1912-04-25,1912-04-30,2,2,0,0,0,0,0,0,0,0,0,2
-1912,Texas-Oklahoma League,P6965560,Atkin,,Greenville,1912-05-01,1912-05-01,1,0,0,0,1,0,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P1423371,Atkins,,Greenville,1912-04-26,1912-04-29,2,0,0,0,2,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P6965560,Atkin,,Greenville,1912-04-30,1912-05-01,2,0,0,0,2,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P1423371,Atkins,,Greenville,1912-04-26,1912-04-29,3,0,0,0,3,0,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P9170829,Awald,,Denison,1912-04-29,1912-04-29,1,1,0,0,0,0,0,0,0,0,0,1
 1912,Texas-Oklahoma League,P9602077,Awalt,,Denison,1912-04-26,1912-04-26,1,1,0,0,0,0,0,0,0,0,0,1
 1912,Texas-Oklahoma League,P9770062,Baker,,Bonham,1912-04-25,1912-05-01,6,0,0,0,0,0,6,6,0,0,0,0
-1912,Texas-Oklahoma League,P9341941,Ballew,,Ardmore,1912-04-29,1912-05-01,3,0,0,0,0,0,0,0,0,0,3,0
-1912,Texas-Oklahoma League,P8218321,Barnett,,Greenville,1912-04-29,1912-05-01,2,2,0,0,0,0,1,0,0,1,0,2
+1912,Texas-Oklahoma League,P9341941,Ballew,,Ardmore,1912-04-28,1912-05-01,4,0,0,0,0,0,0,0,0,0,4,0
+1912,Texas-Oklahoma League,P8218321,Barnett,,Greenville,1912-04-29,1912-05-01,3,2,0,0,0,0,1,0,0,1,0,2
 1912,Texas-Oklahoma League,P7350869,Baxter,,Wichita Falls,1912-04-27,1912-05-01,2,2,0,0,0,0,0,0,0,0,0,2
 1912,Texas-Oklahoma League,P4362669,Belew,,Ardmore,1912-04-25,1912-04-27,3,0,0,0,0,0,0,0,0,0,3,0
-1912,Texas-Oklahoma League,P8924966,Bobo,,Denison,1912-04-25,1912-05-01,6,0,0,0,0,0,0,0,0,0,6,0
+1912,Texas-Oklahoma League,P8924966,Bobo,,Denison,1912-04-25,1912-05-01,7,0,0,0,0,0,0,0,0,0,7,0
 1912,Texas-Oklahoma League,P2248733,Bralley,,McKinney,1912-05-01,1912-05-01,1,0,0,0,0,0,0,0,0,0,1,0
-1912,Texas-Oklahoma League,P5382804,Brooks,,Denison,1912-04-25,1912-05-01,6,0,0,0,0,6,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P2142775,Brown,,Wichita Falls,1912-04-25,1912-04-27,3,0,0,0,0,0,3,0,0,3,0,0
+1912,Texas-Oklahoma League,P5382804,Brooks,,Denison,1912-04-25,1912-05-01,7,0,0,0,0,7,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P2142775,Brown,,Wichita Falls,1912-04-25,1912-04-28,4,0,0,0,0,0,4,0,0,4,0,0
 1912,Texas-Oklahoma League,P4711781,Burnett,,Greenville,1912-04-26,1912-04-26,1,1,0,0,0,0,0,0,0,0,0,1
 1912,Texas-Oklahoma League,P7670982,Caldwell,,Ardmore,1912-04-25,1912-05-01,5,1,0,0,0,0,5,5,0,0,0,1
-1912,Texas-Oklahoma League,P6351831,Calliwell,,Ardmore,1912-04-30,1912-04-30,1,0,0,0,0,0,1,1,0,0,0,0
+1912,Texas-Oklahoma League,P6351831,Calliwell,,Ardmore,1912-04-28,1912-04-30,2,0,0,0,0,0,2,2,0,0,0,0
 1912,Texas-Oklahoma League,P4208707,Carey,,Wichita Falls,1912-04-25,1912-04-30,2,0,2,0,0,0,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P6766102,Carpenter,,McKinney,1912-04-29,1912-04-29,1,1,0,0,0,0,0,0,0,0,0,1
 1912,Texas-Oklahoma League,P7351760,Carry,,Wichita Falls,1912-04-26,1912-04-26,1,0,1,0,0,0,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P6476309,Carzine,,Bonham,1912-04-26,1912-04-26,1,1,0,0,0,0,0,0,0,0,0,1
-1912,Texas-Oklahoma League,P1080220,Clark,,Wichita Falls,1912-04-25,1912-05-01,6,0,0,0,0,6,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P1080220,Clark,,Wichita Falls,1912-04-25,1912-05-01,7,0,0,0,0,7,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P3960955,Clickenger,,Denison,1912-04-25,1912-04-26,2,0,0,0,0,0,2,0,0,2,0,0
-1912,Texas-Oklahoma League,P7975807,Clickinger,,Denison,1912-04-29,1912-05-01,3,0,0,0,0,0,3,0,0,3,0,0
+1912,Texas-Oklahoma League,P7975807,Clickinger,,Denison,1912-04-28,1912-05-01,4,0,0,0,0,0,4,0,0,4,0,0
 1912,Texas-Oklahoma League,P6984991,Clinkener,,Denison,1912-04-27,1912-04-27,1,0,0,0,0,0,1,0,0,1,0,0
 1912,Texas-Oklahoma League,P5376426,Cook,,Ardmore,1912-04-25,1912-04-27,3,0,3,0,0,0,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P6247983,Cooke,,Ardmore,1912-04-29,1912-05-01,2,0,2,0,0,0,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P1847915,Covington,B.,Denison,1912-04-25,1912-05-01,6,1,0,0,0,0,6,0,6,0,0,1
+1912,Texas-Oklahoma League,P6247983,Cooke,,Ardmore,1912-04-28,1912-05-01,3,0,3,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P1847915,Covington,B.,Denison,1912-04-25,1912-05-01,7,1,0,0,0,0,7,0,7,0,0,1
 1912,Texas-Oklahoma League,P6249868,Covington,C.,Denison,1912-04-25,1912-05-01,6,0,0,0,0,0,6,6,0,0,0,0
-1912,Texas-Oklahoma League,P8259633,Covington,H.,Denison,1912-04-25,1912-05-01,6,0,6,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P8259633,Covington,H.,Denison,1912-04-25,1912-05-01,7,0,7,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P5627173,Covington [lf],,Denison,1912-04-28,1912-04-28,1,0,0,0,0,0,1,1,0,0,0,0
 1912,Texas-Oklahoma League,P9194218,Crowell,,McKinney,1912-04-26,1912-05-01,2,1,0,0,0,0,1,1,0,0,0,1
 1912,Texas-Oklahoma League,P5821578,Dean,,McKinney,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
 1912,Texas-Oklahoma League,P4839471,Deardorff,,Durant,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
 1912,Texas-Oklahoma League,P1794987,Deordoff,,Durant,1912-04-27,1912-04-27,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,P3762831,Dickerman,,Greenville,1912-04-28,1912-04-28,1,0,0,0,0,1,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P9014452,Dishareen,,Greenville,1912-04-29,1912-04-29,1,0,0,0,0,1,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P0276872,Disharoon,,Greenville,1912-04-25,1912-05-01,4,0,0,0,0,4,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P3830158,Dooley,,Sherman,1912-04-25,1912-05-01,5,0,0,0,0,0,5,5,0,0,0,0
+1912,Texas-Oklahoma League,P0276872,Disharoon,,Greenville,1912-04-25,1912-05-01,5,0,0,0,0,4,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P3830158,Dooley,,Sherman,1912-04-25,1912-05-01,7,0,0,0,0,0,7,7,0,1,0,0
 1912,Texas-Oklahoma League,P3746000,Duffy,,McKinney,1912-05-01,1912-05-01,1,1,0,0,0,0,0,0,0,0,0,1
-1912,Texas-Oklahoma League,P3090377,Dupree,,Denison,1912-04-29,1912-05-01,3,0,0,0,3,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P3090377,Dupree,,Denison,1912-04-28,1912-05-01,4,0,0,0,4,0,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P4435355,Dupuy,,Denison,1912-04-25,1912-04-27,3,0,0,0,3,0,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P5793676,Edmonds,,Durant,1912-04-25,1912-05-01,5,0,0,0,5,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P5793676,Edmonds,,Durant,1912-04-25,1912-05-01,6,0,0,0,6,0,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P8154578,Edmunds,,Durant,1912-04-26,1912-04-26,1,0,0,0,1,0,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P8953288,Egby,,Greenville,1912-05-01,1912-05-01,1,0,0,0,1,0,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P1894369,Epling,,Durant,1912-04-25,1912-05-01,6,0,0,5,1,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P1894369,Epling,,Durant,1912-04-25,1912-05-01,7,0,0,6,1,0,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P2873239,Erwin,,McKinney,1912-04-25,1912-04-27,3,0,0,0,0,0,2,2,0,0,0,0
 1912,Texas-Oklahoma League,P3522280,Flynn,,Greenville,1912-04-25,1912-04-27,3,0,0,0,0,0,2,0,0,2,1,0
-1912,Texas-Oklahoma League,P2196058,Flynn,D.,Greenville,1912-04-29,1912-05-01,2,0,0,0,0,0,0,0,0,0,1,0
-1912,Texas-Oklahoma League,P8165980,Flynn,F.,Greenville,1912-04-29,1912-05-01,2,1,1,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,P2196058,Flynn,D.,Greenville,1912-04-28,1912-05-01,4,0,0,0,0,0,1,0,0,1,2,0
+1912,Texas-Oklahoma League,P8165980,Flynn,F.,Greenville,1912-04-28,1912-05-01,3,2,1,0,0,0,0,0,0,0,0,2
 1912,Texas-Oklahoma League,P2172427,Garhart,,Durant,1912-05-01,1912-05-01,1,0,0,0,0,0,1,0,0,1,0,0
 1912,Texas-Oklahoma League,P7809897,Garriety,,Durant,1912-04-25,1912-04-25,1,0,0,0,0,1,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P6776632,Garritty,,Durant,1912-04-28,1912-04-28,1,0,0,0,0,1,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P3451300,Garrity,,Durant,1912-04-26,1912-04-29,3,0,0,0,0,3,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P0114964,Gearhert,,Durant,1912-04-27,1912-04-27,1,1,0,0,0,0,0,0,0,0,0,1
 1912,Texas-Oklahoma League,P6187279,Gerhart,,Durant,1912-04-30,1912-04-30,1,0,0,0,0,0,1,0,0,1,0,0
-1912,Texas-Oklahoma League,P5562136,Gierhart,,Durant,1912-04-29,1912-04-29,1,0,0,0,0,0,1,0,0,1,0,0
+1912,Texas-Oklahoma League,P5562136,Gierhart,,Durant,1912-04-28,1912-04-29,2,1,0,0,0,0,2,0,0,2,0,1
 1912,Texas-Oklahoma League,P4587278,Goss,,McKinney,1912-04-25,1912-04-30,5,1,2,0,0,0,2,2,0,0,0,1
-1912,Texas-Oklahoma League,P6421777,Gray,,Ardmore,1912-04-25,1912-05-01,6,0,2,5,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P6421777,Gray,,Ardmore,1912-04-25,1912-05-01,7,0,2,6,0,0,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P7513971,Green,,Durant,1912-04-25,1912-05-01,4,2,0,0,0,0,1,0,0,1,0,2
 1912,Texas-Oklahoma League,P0614217,Grimes,,Sherman,1912-04-26,1912-04-29,2,2,0,0,0,0,0,0,0,0,0,2
-1912,Texas-Oklahoma League,P4361255,Guthrie,,Wichita Falls,1912-04-25,1912-05-01,6,0,0,0,0,0,6,6,0,0,0,0
-1912,Texas-Oklahoma League,P2092067,Harper,,Greenville,1912-04-25,1912-05-01,4,0,0,0,0,0,4,4,0,0,0,0
+1912,Texas-Oklahoma League,P4361255,Guthrie,,Wichita Falls,1912-04-25,1912-05-01,7,0,0,0,0,0,7,7,0,0,0,0
+1912,Texas-Oklahoma League,P2092067,Harper,,Greenville,1912-04-25,1912-05-01,6,0,0,0,0,0,6,6,0,0,0,0
 1912,Texas-Oklahoma League,P9452134,Hickens,,Greenville,1912-04-25,1912-04-25,1,0,0,1,0,0,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P9270586,Hopkins,,Ardmore,1912-04-25,1912-04-30,2,2,0,0,0,0,0,0,0,0,0,2
-1912,Texas-Oklahoma League,P9445767,Humphreys,,Sherman,1912-04-26,1912-04-29,2,0,0,0,0,2,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P9064055,Humphries,,Sherman,1912-04-25,1912-05-01,3,0,0,0,0,3,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P9445767,Humphreys,,Sherman,1912-04-26,1912-04-29,3,0,0,0,0,3,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P9064055,Humphries,,Sherman,1912-04-25,1912-05-01,4,0,0,0,0,4,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P6130478,Jones,,Wichita Falls,1912-04-25,1912-05-01,4,2,2,0,0,0,0,0,0,0,0,2
 1912,Texas-Oklahoma League,P3626521,Jones,Will,Durant,1912-04-26,1912-04-26,1,1,0,0,0,0,0,0,0,0,0,1
-1912,Texas-Oklahoma League,P1193956,Jones [Dur],,Durant,1912-04-29,1912-04-29,1,1,0,0,0,0,0,0,0,0,0,1
-1912,Texas-Oklahoma League,P8378371,Jones [WF],,Wichita Falls,1912-04-29,1912-04-29,1,0,1,0,0,0,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P4789345,Kaiser,,Durant,1912-04-29,1912-05-01,3,0,0,0,0,0,0,0,0,0,3,0
+1912,Texas-Oklahoma League,P1193956,Jones [Dur],,Durant,1912-04-28,1912-04-29,2,1,0,0,0,0,1,0,0,1,0,1
+1912,Texas-Oklahoma League,P8378371,Jones [WF],,Wichita Falls,1912-04-28,1912-04-29,2,0,2,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P4789345,Kaiser,,Durant,1912-04-28,1912-05-01,4,0,0,0,0,0,0,0,0,0,4,0
 1912,Texas-Oklahoma League,P5673065,Kerlin,,Denison,1912-04-27,1912-04-27,1,0,0,0,0,0,1,0,1,0,0,0
 1912,Texas-Oklahoma League,P9761254,Kerr,,McKinney,1912-04-25,1912-04-30,5,0,0,5,0,0,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P4087712,Kiser,,Durant,1912-04-26,1912-04-26,1,0,0,0,0,0,1,0,0,1,0,0
 1912,Texas-Oklahoma League,P1201652,Kister,,Durant,1912-04-25,1912-04-27,2,0,0,0,0,0,2,0,0,2,1,0
-1912,Texas-Oklahoma League,P5742842,Kitchens,,Greenville,1912-04-25,1912-04-29,3,0,0,0,0,0,0,0,0,0,3,0
+1912,Texas-Oklahoma League,P5742842,Kitchens,,Greenville,1912-04-25,1912-04-30,4,0,1,0,0,0,0,0,0,0,3,0
 1912,Texas-Oklahoma League,P7596828,Kizzar,,Greenville,1912-04-25,1912-04-26,2,0,2,0,0,0,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P9687365,Kizziar,,Greenville,1912-04-27,1912-05-01,2,0,2,0,0,0,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P1990492,Laclair,,Denison,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,P9687365,Kizziar,,Greenville,1912-04-27,1912-05-01,3,0,3,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P1990492,Laclair,,Denison,1912-04-28,1912-04-30,2,2,0,0,0,0,0,0,0,0,0,2
 1912,Texas-Oklahoma League,P8879329,Laclaire,,Denison,1912-04-27,1912-04-27,1,1,0,0,0,0,0,0,0,0,0,1
 1912,Texas-Oklahoma League,P3534288,Lambert,,Bonham,1912-04-25,1912-05-01,6,0,0,0,0,0,6,0,3,3,0,0
-1912,Texas-Oklahoma League,P1914566,Lamonica,,Sherman,1912-04-25,1912-05-01,5,0,0,0,0,0,5,1,0,4,0,0
+1912,Texas-Oklahoma League,P1914566,Lamonica,,Sherman,1912-04-25,1912-05-01,7,0,0,0,0,0,7,2,0,6,0,0
 1912,Texas-Oklahoma League,P4990611,Landry,,Bonham,1912-04-25,1912-05-01,6,0,0,0,0,6,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P3780928,Lawrence,,Wichita Falls,1912-04-25,1912-05-01,6,0,0,0,6,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P3780928,Lawrence,,Wichita Falls,1912-04-25,1912-05-01,7,0,0,0,7,0,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P5697735,Leslie,,Bonham,1912-04-25,1912-05-01,6,0,0,6,0,0,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P8483749,Lewis,,Greenville,1912-04-29,1912-05-01,2,0,0,0,0,0,2,1,0,1,0,0
+1912,Texas-Oklahoma League,P8483749,Lewis,,Greenville,1912-04-28,1912-05-01,4,0,0,0,0,1,3,1,0,2,0,0
 1912,Texas-Oklahoma League,P6294710,Matthews,,Bonham,1912-04-25,1912-05-01,5,2,0,0,0,0,3,0,0,3,0,2
-1912,Texas-Oklahoma League,P3560429,McAvoy,,Ardmore,1912-04-29,1912-05-01,3,0,0,0,0,3,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P0610724,McCullum,,Durant,1912-04-25,1912-05-01,6,0,0,0,0,0,6,0,6,0,0,0
+1912,Texas-Oklahoma League,P3560429,McAvoy,,Ardmore,1912-04-28,1912-05-01,4,0,0,0,0,4,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P0610724,McCullum,,Durant,1912-04-25,1912-05-01,7,0,0,0,0,0,7,0,7,0,0,0
 1912,Texas-Oklahoma League,P2026015,McDaniel,,Durant,1912-04-25,1912-04-25,1,1,0,0,0,0,0,0,0,0,0,1
 1912,Texas-Oklahoma League,P4254681,McEvery,,Ardmore,1912-04-25,1912-04-25,1,0,0,0,0,1,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P5500273,McEvoy,,Ardmore,1912-04-26,1912-04-27,2,0,0,0,0,2,0,0,0,0,0,0
@@ -451,41 +473,45 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1912,Texas-Oklahoma League,P6538079,McMillan,,McKinney,1912-04-27,1912-05-01,2,0,1,1,0,0,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P1445347,McMillen,,McKinney,1912-04-30,1912-04-30,1,0,0,0,0,0,1,1,0,0,0,0
 1912,Texas-Oklahoma League,P6352615,McMillin,,McKinney,1912-04-29,1912-04-29,1,0,1,0,0,0,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P8937222,Miller,,Greenville,1912-04-27,1912-04-27,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,P8937222,Miller,,Greenville,1912-04-27,1912-04-30,2,2,0,0,0,0,0,0,0,0,0,2
 1912,Texas-Oklahoma League,P9047575,Miller,,McKinney,1912-04-26,1912-04-30,2,1,0,0,0,0,0,0,0,0,0,1
 1912,Texas-Oklahoma League,P7304308,Mitchell,,Durant,1912-04-25,1912-05-01,6,0,3,0,0,0,0,0,0,0,3,0
-1912,Texas-Oklahoma League,P5499782,Moore,,Denison,1912-04-25,1912-05-01,6,0,0,6,0,0,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P9670219,Morris,,Wichita Falls,1912-04-25,1912-05-01,6,0,0,0,0,0,6,0,3,3,0,0
+1912,Texas-Oklahoma League,P7793833,Mitchell,G.,Durant,1912-04-28,1912-04-28,1,1,0,0,0,0,1,0,0,1,0,1
+1912,Texas-Oklahoma League,P7067448,Mitchell,V.,Durant,1912-04-28,1912-04-28,1,0,1,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P5499782,Moore,,Denison,1912-04-25,1912-05-01,7,0,0,7,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P9670219,Morris,,Wichita Falls,1912-04-25,1912-05-01,7,1,0,0,0,0,6,0,3,3,0,1
 1912,Texas-Oklahoma League,P5718369,Mullens,F. P.,Wichita Falls,1912-05-01,1912-05-01,1,0,1,0,0,0,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P0906992,Mullens,O. V.,Wichita Falls,1912-05-01,1912-05-01,1,0,0,0,0,0,1,0,1,0,0,0
 1912,Texas-Oklahoma League,P7133024,Mullin,,Wichita Falls,1912-04-26,1912-04-26,1,0,0,0,0,0,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P7696659,Mullins,,Wichita Falls,1912-04-25,1912-04-30,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas-Oklahoma League,P7696659,Mullins,,Wichita Falls,1912-04-25,1912-04-30,3,2,0,0,0,0,0,0,0,0,1,2
 1912,Texas-Oklahoma League,P5524325,Mullins,F. P.,Wichita Falls,1912-04-27,1912-04-29,2,0,0,0,0,0,1,0,1,0,1,0
 1912,Texas-Oklahoma League,P0712948,Mullins,O. V.,Wichita Falls,1912-04-27,1912-04-29,2,1,0,0,0,0,1,0,1,0,0,1
-1912,Texas-Oklahoma League,P6200255,Myers,,Wichita Falls,1912-04-25,1912-05-01,6,2,1,0,0,0,2,0,2,0,0,2
+1912,Texas-Oklahoma League,P6200255,Myers,,Wichita Falls,1912-04-25,1912-05-01,7,2,1,0,0,0,3,0,3,0,0,2
 1912,Texas-Oklahoma League,P1994305,Napier,,Sherman,1912-04-26,1912-05-01,3,2,0,0,0,0,0,0,0,0,0,2
-1912,Texas-Oklahoma League,P6251507,Naylor,,Ardmore,1912-04-29,1912-05-01,3,0,0,0,0,0,3,0,0,3,0,0
+1912,Texas-Oklahoma League,P6251507,Naylor,,Ardmore,1912-04-28,1912-05-01,4,0,0,0,0,0,4,0,0,4,0,0
 1912,Texas-Oklahoma League,P1591716,Naylor,,Wichita Falls,1912-04-29,1912-05-01,3,0,0,0,0,0,0,0,0,0,3,0
 1912,Texas-Oklahoma League,P3043554,Naylor [Ard],,Ardmore,1912-04-25,1912-04-27,3,0,0,0,0,0,3,0,0,3,0,0
 1912,Texas-Oklahoma League,P3774905,Naylor [WF],,Wichita Falls,1912-04-25,1912-04-27,3,0,0,0,0,0,0,0,0,0,3,0
-1912,Texas-Oklahoma League,P7233502,Patterson,,Ardmore,1912-04-25,1912-05-01,4,0,1,0,3,1,0,0,0,0,1,0
+1912,Texas-Oklahoma League,P7233502,Patterson,,Ardmore,1912-04-25,1912-05-01,5,0,1,0,3,1,1,1,0,0,1,0
 1912,Texas-Oklahoma League,P8661839,Peeler,,McKinney,1912-04-25,1912-04-29,3,3,0,0,0,0,1,0,0,1,0,3
 1912,Texas-Oklahoma League,P3783395,Pennel,A.,McKinney,1912-04-25,1912-04-25,1,1,0,0,0,0,1,0,0,1,0,1
 1912,Texas-Oklahoma League,P1556495,Pennell,A.,McKinney,1912-04-26,1912-04-30,4,0,0,0,0,0,4,0,0,4,0,0
 1912,Texas-Oklahoma League,P6820944,Pennell,B.,McKinney,1912-04-29,1912-05-01,3,0,0,0,0,0,3,0,3,0,0,0
 1912,Texas-Oklahoma League,P0523230,Pennell,P.,McKinney,1912-04-26,1912-04-27,2,0,0,0,0,1,1,0,1,0,0,0
-1912,Texas-Oklahoma League,P4672468,Phillips,,Wichita Falls,1912-04-25,1912-05-01,6,0,0,6,0,0,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P1165806,Pickens,,Greenville,1912-04-26,1912-05-01,4,0,0,4,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P4672468,Phillips,,Wichita Falls,1912-04-25,1912-05-01,7,0,0,7,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P6957755,Picken,,Greenville,1912-04-28,1912-04-28,1,0,0,1,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P1165806,Pickens,,Greenville,1912-04-26,1912-05-01,5,0,0,5,0,0,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P3499839,Rayborn,,Sherman,1912-04-27,1912-04-27,1,0,1,0,0,0,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P5860741,Rayburn,,Sherman,1912-04-25,1912-05-01,4,0,4,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P5860741,Rayburn,,Sherman,1912-04-25,1912-05-01,6,0,6,0,0,0,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P9424510,Reed,,Ardmore,1912-04-25,1912-04-29,2,2,0,0,0,0,0,0,0,0,0,2
-1912,Texas-Oklahoma League,P5856898,Reed,,Sherman,1912-04-25,1912-05-01,4,0,0,4,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P5856898,Reed,,Sherman,1912-04-25,1912-05-01,6,0,0,6,0,0,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P4195846,Reid,,Durant,1912-04-25,1912-04-27,2,0,2,0,0,0,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P6914694,Reid,,Sherman,1912-04-26,1912-04-26,1,0,0,1,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P6867849,Reid [Dur],,Durant,1912-04-26,1912-04-26,1,0,1,0,0,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P2978750,Reid [She],,Sherman,1912-04-26,1912-04-26,1,0,0,1,0,0,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P2074070,Roach,,Bonham,1912-04-25,1912-04-30,5,0,1,0,4,0,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P1323489,Roark,,Sherman,1912-04-25,1912-04-25,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Texas-Oklahoma League,P1323489,Roark,,Sherman,1912-04-25,1912-04-30,3,3,0,0,0,0,0,0,0,0,0,3
 1912,Texas-Oklahoma League,P7861503,Robertson,,Greenville,1912-05-01,1912-05-01,1,0,0,0,0,0,1,0,0,1,0,0
-1912,Texas-Oklahoma League,P6825803,Robinson,,Greenville,1912-05-01,1912-05-01,1,0,0,0,0,0,0,0,0,0,1,0
+1912,Texas-Oklahoma League,P6825803,Robinson,,Greenville,1912-04-30,1912-05-01,2,0,0,0,0,0,0,0,0,0,2,0
 1912,Texas-Oklahoma League,P3251731,Russell,,Bonham,1912-04-27,1912-05-01,2,2,0,0,0,0,0,0,0,0,0,2
 1912,Texas-Oklahoma League,P9897195,Scott,,Ardmore,1912-04-27,1912-05-01,2,2,0,0,0,0,0,0,0,0,0,2
 1912,Texas-Oklahoma League,P2291606,Scott,,Bonham,1912-04-29,1912-05-01,3,0,0,0,0,0,0,0,0,0,3,0
@@ -494,21 +520,22 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1912,Texas-Oklahoma League,P0226875,Sporn,,Bonham,1912-05-01,1912-05-01,1,0,0,0,1,0,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P8661476,Spruce,,McKinney,1912-04-29,1912-04-29,1,0,0,0,0,1,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P9773369,Stergeon,,McKinney,1912-05-01,1912-05-01,1,0,1,0,0,0,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P5976524,Sullivan,,Ardmore,1912-04-25,1912-05-01,6,0,0,0,0,0,6,0,6,0,0,0
-1912,Texas-Oklahoma League,P1219378,Tate,,Denison,1912-04-25,1912-05-01,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas-Oklahoma League,P5976524,Sullivan,,Ardmore,1912-04-25,1912-05-01,7,0,0,0,0,0,7,0,7,0,0,0
+1912,Texas-Oklahoma League,P1219378,Tate,,Denison,1912-04-25,1912-05-01,3,3,0,0,0,0,0,0,0,0,0,3
 1912,Texas-Oklahoma League,P2621476,Thebo,,McKinney,1912-04-25,1912-05-01,6,0,0,0,6,0,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P7176322,Towers,,Ardmore,1912-04-26,1912-04-26,1,1,0,0,0,0,0,0,0,0,0,1
-1912,Texas-Oklahoma League,P1849524,Townsend,,Sherman,1912-04-25,1912-05-01,5,0,0,0,0,0,0,0,0,0,5,0
-1912,Texas-Oklahoma League,P6545488,Tucker,,Durant,1912-04-25,1912-05-01,6,0,0,0,0,0,6,6,0,0,0,0
-1912,Texas-Oklahoma League,P1929677,Wakefield,,Greenville,1912-04-25,1912-05-01,5,0,0,0,0,0,5,0,5,0,0,0
+1912,Texas-Oklahoma League,P7176322,Towers,,Ardmore,1912-04-26,1912-04-28,2,2,0,0,0,0,0,0,0,0,0,2
+1912,Texas-Oklahoma League,P1849524,Townsend,,Sherman,1912-04-25,1912-05-01,7,0,0,0,0,0,0,0,0,0,7,0
+1912,Texas-Oklahoma League,P6545488,Tucker,,Durant,1912-04-25,1912-05-01,7,0,0,0,0,0,7,7,0,0,0,0
+1912,Texas-Oklahoma League,P1929677,Wakefield,,Greenville,1912-04-25,1912-05-01,7,0,0,0,0,0,7,0,7,0,0,0
 1912,Texas-Oklahoma League,P7639644,Welch,,Bonham,1912-04-26,1912-05-01,5,0,0,0,0,0,3,0,3,0,2,0
 1912,Texas-Oklahoma League,P8070892,Welsh,,Bonham,1912-04-25,1912-04-25,1,0,0,0,0,0,0,0,0,0,1,0
 1912,Texas-Oklahoma League,P7128772,West,,Greenville,1912-04-27,1912-04-27,1,0,0,0,0,0,1,0,0,1,0,0
+1912,Texas-Oklahoma League,P1310676,Wherman,,Sherman,1912-04-28,1912-04-28,1,1,0,0,0,0,0,0,0,0,0,1
 1912,Texas-Oklahoma League,P0867123,White,,McKinney,1912-04-25,1912-05-01,6,0,0,0,0,0,1,0,0,1,5,0
 1912,Texas-Oklahoma League,P4543748,Williams,,Sherman,1912-04-26,1912-04-26,1,0,0,0,0,0,1,0,1,0,0,0
-1912,Texas-Oklahoma League,P2046945,Williamson,,Sherman,1912-04-25,1912-05-01,4,0,0,0,0,0,4,0,4,0,0,0
-1912,Texas-Oklahoma League,P5086954,Witt,,Sherman,1912-04-25,1912-05-01,5,0,0,0,5,0,0,0,0,0,0,0
+1912,Texas-Oklahoma League,P2046945,Williamson,,Sherman,1912-04-25,1912-05-01,6,0,0,0,0,0,6,0,6,0,0,0
+1912,Texas-Oklahoma League,P5086954,Witt,,Sherman,1912-04-25,1912-05-01,7,0,0,0,7,0,0,0,0,0,0,0
 1912,Texas-Oklahoma League,P8199264,Wofford,,Bonham,1912-05-01,1912-05-01,1,1,0,0,0,0,0,0,0,0,0,1
 1912,Texas-Oklahoma League,P3237966,Woodard,,Ardmore,1912-05-01,1912-05-01,1,0,0,1,1,0,0,0,0,0,0,0
-1912,Texas-Oklahoma League,P7292389,Woodward,,Ardmore,1912-04-25,1912-04-30,5,0,0,1,4,0,1,1,0,0,0,0
+1912,Texas-Oklahoma League,P7292389,Woodward,,Ardmore,1912-04-25,1912-04-30,6,0,0,1,5,0,1,1,0,0,0,0
 1912,Texas-Oklahoma League,P9316568,Yost,,Bonham,1912-04-25,1912-05-01,6,0,6,0,0,0,0,0,0,0,0,0

@@ -1,5 +1,217 @@
 date: 1912-04-23
 number: 0
+league: Texas
+away: Waco
+home: Dallas
+
+Dallas:		ab r h po a e
+Forsythe @ 1b:	3 1 1 11 0 0
+Ens @ 3b:		5 0 1 3 4 0
+Gibson @ c:		5 1 1 7 1 0
+Duncan @ rf:	3 1 1 0 0 0
+Wilson @ lf:	3 0 0 2 0 1
+Kellerman @ ss:	3 1 1 3 3 1
+Tullos @ 3b:	4 1 1 0 1 2
+Shuman @ cf:	3 1 0 1 0 0
+Sewell @ p:		2 0 0 0 2 1
+*Evans @ ph:	1 0 0 0 0 0
+Bader @ p:		0 0 0 0 0 0
+TOTALS:			32 6 6 27 11 5
+
+Waco:		ab r h po a e
+Tanner @ ss:	5 0 1 3 1 2
+Aiken @ 3b:		5 0 0 1 3 0
+Stewart @ cf:	3 0 0 1 0 1
+Rennard @ rf:	4 0 0 2 0 0
+Wohleben @ 1b:	3 2 2 11 1 0
+Crichlow @ lf:	3 0 0 2 0 1
+Dugey @ 2b:		3 1 2 0 4 0
+Riley @ c:		4 0 1 4 0 0
+Taff @ p:		2 1 1 0 1 0
+Jost @ p:		1 0 0 0 1 0
+TOTALS:		33 4 7 24 11 4
+
+*: Batted for Sewell in 8th
+
+line: Dallas: 0 0 0 0 0 1 0 5 x - 6
+line: Waco: 0 0 2 1 0 0 0 1 0 - 4
+
+P_IP: Sewell #8; Taff #7.1
+P_R: Sewell #4; Taff #2
+P_H: Sewell #7; Taff #5
+B_2B: Kellerman; Tanner; Taff; Wohleben
+B_SB: Ens
+B_SH: Taff; Crichlow
+P_SO: Sewell #4; Taff #2; Jost #1
+P_BB: Sewell #3; Taff #5
+P_HP: Taff #2
+B_ROE: Dallas #3; Waco #3
+B_LOB: Dallas #9; Waco #7
+T: 1:55
+U: Williamson; Brady
+
+---
+
+date: 1912-04-23
+number: 0
+league: Texas
+away: Beaumont
+home: San Antonio
+
+San Antonio:	ab r h po a e
+Meehan @ lf:	5 1 3 4 1 0
+Midkiff @ 3b:	6 0 2 1 1 1
+Betts @ c:		5 3 2 6 4 0
+Metz @ 1b:		5 2 2 5 2 0
+Daringer @ ss:	5 1 1 2 1 0
+Smith @ 2b:		5 1 3 1 2 3
+Leidy @ cf:		4 2 3 5 0 0
+Collins @ rf:	5 2 1 1 0 0
+McGraner @ p:	1 0 0 0 0 0
+Moore @ p:		3 0 0 2 1 0
+*Goodwin @ ph:	1 1 1 0 0 0
+TOTALS:		45 13 18 27 12 4
+
+Beaumont:		ab r h po a e
+Mayes @ cf:		4 3 2 1 0 0
+Wheeler @ 2b:	5 2 4 2 4 1
+Cook @ 1b:		5 0 0 13 0 0
+Dail @ lf:		4 1 0 1 0 0
+Cowan @ 3b:		5 1 2 0 0 0
+Wallace, J. @ rf:	3 1 1 0 0 0
+Edmiston @ ss:	3 1 0 5 1 0
+Dawson @ c:		5 4 4 4 1 0
+Larsen @ p:		2 1 1 0 5 1
+Peaster @ p:	0 1 0 0 4 0
+Kramer @ rf:	2 0 0 1 0 0
+Corbett @ p:	0 0 0 0 0 0
+TOTALS:		38 15 14 27 14 2
+
+*: Batted for Moore in 9th
+
+line: San Antonio: 2 2 0 0 3 0 0 1 5 - 13
+line: Beaumont: 0 6 2 0 0 3 0 4 0 - 15
+
+P_IP: McGraner #3; Larsen #4.1; Moore #6; Peaster #3.2; Corbett #1
+P_R: McGraner #8; Larsen #7; Moore #7; Peaster #3; Corbett #3
+P_H: McGraner #8; Larsen #8; Moore #6; Peaster #8; Corbett #2
+B_2B: Collins
+B_3B: Daringer; Leidy; Wheeler; J. Wallace
+B_HR: Betts; Metz; Wheeler; Cowan; Dawson
+B_SB: Dail
+B_SH: Peaster #2
+P_SO: McGraner #3; Moore #1; Peaster #2
+P_BB: McGraner #1; Larsen #2; Moore #3
+P_HP: Peaster
+B_LOB: San Antonio #9; Beaumont #2
+F_DP: Wheeler, Edmiston, Cook
+T: 2:35
+U: Newhouse
+
+---
+
+date: 1912-04-23
+number: 0
+league: Texas
+away: Austin
+home: Fort Worth
+
+Fort Worth:		ab r h po a e
+Cooper @ rf:	4 0 2 1 0 2
+Witherspoon @ ss:	3 1 1 0 0 0 
+Howard @ cf:	2 0 1 2 0 0
+Nance @ cf:		2 0 0 1 0 0
+Frierson @ lf:	4 1 1 0 0 0
+Thompson @ 2b:	4 1 1 1 7 0
+Snapp @ 3b:		4 0 1 2 1 1
+Manes @ 1b:		4 1 1 12 2 0
+Robertson @ c:	4 0 1 5 3 2 
+Armour @ p:		2 0 0 2 2 0
+Dischner @ p:	2 0 1 0 1 0
+TOTALS:			36 3 9 27 16 5
+
+Austin:			ab r h po a e
+Brownlow @ ss:	5 1 1 3 4 0
+Cook @ cf:		4 0 0 2 0 0
+Stellbauer @ lf:	4 0 2 3 0 1
+Downey @ rf:		4 1 0 1 0 0
+Hille @ 3b:		4 1 0 2 1 2
+McLarry @ 1b:	4 2 1 8 0 0
+Smith @ 2b:		5 1 1 4 5 0
+Hinninger @ c:	4 2 3 5 1 0
+Parrish @ p:	3 0 0 0 3 0
+TOTALS:			38 8 8 27 14 3
+
+line: Fort Worth: 0 0 0 0 0 1 1 1 0 - 3
+line: Austin: 0 3 0 1 0 0 0 4 0 - 8
+
+P_IP: Armour #6; Dischner #3
+P_R: Armour #4; Dischner #4
+P_H: Armour #5; Dischner #3
+B_2B: Hinninger #2; Stellbauer; Manes
+B_3B: Hinninger
+P_SO: Parrish #4; Armour #3; Dischner #1
+P_BB: Parrish #3; Armour #2; Dischner #2
+P_HP: Armour #1
+B_ROE: Austin #4; Fort Worth #2
+B_LOB: Fort Worth #9; Austin #8
+F_DP: Brownlow, Smith, McLarry
+B_SB: Brownlow; Downey; Cooper
+F_PB: Robertson #1
+T: 1:50
+U: Jacobs
+
+---
+
+date: 1912-04-23
+number: 0
+league: Texas
+away: Galveston
+home: Houston
+
+Houston:	ab r h po a e
+Fillman @ 2b:	3 0 0 2 1 0
+Davis @ cf:		3 0 0 2 0 0
+Landreth @ rf:	4 0 1 2 1 0
+Newnam @ 1b:	4 0 1 7 1 0
+Britton @ 3b:	4 0 0 2 1 2
+Knaupp @ ss:	3 0 0 2 3 2
+Whiteman @ lf:	3 0 0 4 1 0
+Reynolds @ c:	3 0 1 6 3 1
+Ray @ p:		3 0 0 0 2 0
+TOTALS:			30 0 3 27 13 5
+
+Galveston:		ab r h po a e
+Madden @ ss:	4 2 2 2 3 2
+Clements @ 3b:	4 1 4 1 4 1
+Salm @ 1b:		3 0 0 13 0 0
+Williams, J. @ lf:	5 0 2 2 0 0
+Peebles @ rf:	5 0 1 0 0 0
+Thebo @ cf:		3 0 0 1 0 0
+Dodd @ 2b:		4 0 0 4 4 0
+Williams, H. @ c:	4 3 4 4 1 0
+Gordon @ p:		3 2 1 0 1 0
+TOTALS:			35 8 14 27 13 3
+
+line: Houston: 0 0 0 0 0 0 0 0 0 - 0
+line: Galveston: 0 0 2 0 0 1 0 1 4 - 8
+
+P_BB: Ray #2; Gordon #2
+P_SO: Gordon #3; Ray #2
+P_HP: Ray #2
+B_SH: Thebo; Gordon
+B_SB: Clements #2; Salm
+F_DP: Landreth, Britton; Whiteman, Reynolds; Madden, Dodd, Salm; Ray, Newnam, Reynolds; Clements, Salm
+F_PB: Reynolds
+B_LOB: Houston #5; Galveston #6
+T: 1:55
+U: Van Syckle
+
+
+---
+
+date: 1912-04-23
+number: 0
 league: South Central
 away: Cleburne
 home: Tyler

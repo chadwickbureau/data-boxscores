@@ -1,5 +1,212 @@
 date: 1912-04-24
 number: 0
+league: Texas
+away: Austin
+home: Dallas
+
+Dallas:		ab r h po a e
+Forsythe @ 1b:	1 0 1 9 0 0
+Ens @ 2b:		4 0 1 5 4 2
+Gibson @ c:		3 0 1 8 3 0
+Duncan @ rf:	4 0 0 1 0 0
+Wilson @ lf:	3 0 1 0 1 1
+Kellerman @ ss:	3 0 0 3 0 3
+Tullos @ 3b:	3 0 0 0 0 0
+Shuman @ cf:	3 0 0 1 0 0
+Shontz @ p:		0 1 0 0 2 0
+Brown @ p:		2 1 1 0 0 0 
+TOTALS:			26 2 5 27 10 6
+
+Austin:		ab r h po a e
+Brownlow @ ss:	4 1 1 2 3 0
+Cook @ cf:		5 1 1 0 0 0
+Robinson @ lf:	5 1 1 0 0 0
+Downey @ rf:	4 1 3 3 0 0
+Hille @ 3b:		5 2 3 1 1 0
+McLarry @ 1b:	4 2 2 13 0 0
+Smith @ 2b:		4 1 1 2 3 0
+Hinninger @ c:	2 0 0 6 1 0
+Lewis @ p:		4 0 0 0 3 0
+Steelbauer @ rf:	1 0 0 0 0 0
+TOTALS:		38 9 13 27 11 0
+
+line: Dallas: 0 0 1 0 0 1 0 0 0 - 2
+line: Austin: 1 2 0 1 3 0 2 0 0 - 9
+
+P_IP: Shontz #4
+P_R: Shontz #4
+P_H: Shontz #5
+B_2B: Brownlow
+B_3B: McLarry; Hille
+B_SB: Forsythe; Brownlow; Cook; McLarry
+B_SH: Hinninger
+B_SF: Gibson
+P_SO: Shontz #3; Brown #4; Lewis #5
+P_BB: Lewis #3
+P_HP: Shontz #1; Lewis #1
+B_ROE: Austin #4
+B_LOB: Dallas #4; Austin #4
+F_DP: Smith, McLarry #2
+F_PB: Gibson
+T: 2:05
+U: Wilkinson; Brady
+
+---
+
+date: 1912-04-24
+number: 0
+league: Texas
+away: Waco
+home: Fort Worth
+
+Fort Worth:		ab r h po a e
+Cooper @ rf:	5 1 1 0 0 0
+Witherspoon @ ss:	5 3 4 1 5 1
+Nance, Bill @ cf:	2 2 1 4 0 0
+Frierson @ lf:	5 1 1 3 0 0
+Thompson @ 2b:	3 0 3 1 1 0
+Snapp @ 3b:		3 0 0 2 6 0
+Maner @ 1b:		3 0 0 13 0 0
+Kitchens @ c:	4 1 1 3 0 0
+Perritt @ p:	4 1 2 0 4 0
+TOTALS:			34 9 13 27 16 1
+
+Waco:		ab r h po a e
+Tanner @ ss:	5 2 3 5 1 0
+Aiken @ 3b:		4 0 2 1 1 0
+Stewart @ cf:	3 1 2 3 0 1 
+Rennard @ rf:	4 0 2 2 0 0
+Wohleben @ 1b:	4 0 0 6 1 0
+Critchlow @ lf:	4 0 0 1 0 0
+Dugey @ 2b:		4 0 1 3 2 0
+Carson @ c:		2 0 0 2 1 0
+Riley @ c:		2 0 0 1 0 0
+Lohman @ p:		2 0 0 0 2 0
+Barrett @ p:	2 0 0 0 0 0
+TOTALS:			36 3 10 24 8 1
+
+line: Fort Worth: 2 0 3 0 1 0 0 3 x - 9
+line: Waco: 0 0 0 0 0 2 1 0 0 - 3
+
+P_IP: Lohman #5; Barrett #3
+P_R: Lohman #6; Barrett #3
+P_H: Lohman #8; Barrett #5
+B_2B: Witherspoon #2; Thompson
+B_3B: Frierson
+B_SH: Bill Nance
+B_SF: Thompson
+P_SO: Perritt #1; Lohman #1; Barrett #1
+P_BB: Perritt #1; Lohman #3; Barrett #1
+B_ROE: Waco #1
+B_LOB: Waco #7; Fort Worth #7
+B_SB: Thompson; Maner
+T: 1:40
+U: Jacobs
+
+
+
+---
+
+date: 1912-04-24
+number: 0
+league: Texas
+away: Beaumont
+home: Houston
+
+note: Game protested by Houston
+
+Houston:	ab r h po a e
+Fillman @ 2b:	3 1 1 1 3 0
+Davis @ cf:		4 0 2 4 0 0
+Landreth @ rf:	4 0 1 2 0 0
+Newnam @ 1b:	4 0 0 12 0 0
+Britton @ 3b:	2 0 1 1 2 1
+Knapp @ ss:		3 0 2 1 3 0
+Whiteman @ lf:	2 0 0 1 0 0
+Allen @ c:		3 0 0 5 1 0
+Edmundson @ p:	3 0 0 0 4 0
+TOTALS:		28 1 7 27 13 1
+
+Beaumont:	ab r h po a e
+Mayes @ cf:		3 0 0 2 0 0
+Wheeler @ 2b:	2 0 0 1 1 0
+Cook @ 1b:		4 0 1 9 0 0
+Dail @ lf:		4 0 1 0 0 0
+Cowan @ 3b:		4 0 0 0 2 0
+Casey @ rf:		3 0 0 0 0 0
+Edmiston @ ss:	2 1 1 6 3 0
+Dawson @ c:		3 0 0 8 5 0
+Martina @ p:	3 1 1 1 4 0
+TOTALS:		28 2 4 27 15 0
+
+line: Houston: 0 0 1 0 0 0 0 0 0 - 1
+line: Beaumont: 0 0 2 0 0 0 0 0 0 - 2
+
+P_BB: Martina #2
+P_SO: Martina #5; Edmundson #5
+P_HP: Edmundson #1
+B_SB: Fillman; Davis; Whiteman
+B_SF: Wheeler
+F_DP: Martina, Edmiston, Cook
+B_LOB: Houston #3; Beaumont #3
+P_BK: Martina
+T: 1:30
+U: Van Syckle
+
+---
+
+date: 1912-04-24
+number: 0
+league: Texas
+away: Galveston
+home: San Antonio
+
+San Antonio:	ab r h po a e
+Meehan @ lf:	4 0 0 2 1 0
+Midkiff @ 3b:	3 0 1 1 2 0
+Wallace @ ss:	4 0 0 1 2 0
+Metz @ 1b:		5 1 2 9 1 0
+Goodwin @ rf:	3 0 0 0 1 0
+Smith @ 2b:		3 2 2 2 3 0
+Leidy @ cf:		4 0 2 5 0 0
+Betts @ c:		2 0 2 5 0 1
+Downey @ p:		3 0 0 1 2 0
+Collins @ rf:	2 0 0 1 0 0
+TOTALS:			33 3 9 27 12 1
+
+Galveston:		ab r h po a e
+Clemens @ 3b:	5 2 4 2 1 0
+Jolly @ rf:		5 0 0 0 0 0
+Maag @ 2b:		4 1 2 4 3 0
+Williams, J. @ lf:	4 1 2 1 0 0 
+Madden @ ss:	4 1 1 2 2 0
+Thebo @ cf:		2 1 1 0 1 0
+Dodd @ 1b:		3 1 1 12 0 0
+Williams, H. @ c:	4 0 0 6 1 0
+Moore @ p:		4 0 0 0 2 1
+TOTALS:			35 7 11 27 10 1
+
+line: San Antonio:	0 2 0 1 0 0 0 0 0 - 3
+line: Galveston: 3 0 0 0 1 3 0 0 0 - 7
+
+B_2B: Leidy; Clemens; Thebo
+B_3B: Dodd
+B_HR: Clemens; J. Williams; Madden
+B_SB: Clemens; Maag; Thebo; Betts
+B_SH: Maag; Midkiff
+P_SO: Moore #7; Downey #4
+P_BB: Moore #3; Downey #2
+P_HP: Moore #1
+B_LOB: San Antonio #11; Galveston #5
+F_DP: Maag, Dodd; Downey, Metz, Midkiff
+P_WP: Moore #5
+T: 1:45
+U: Newhouse
+
+---
+
+date: 1912-04-24
+number: 0
 league: South Central
 away: Cleburne
 home: Tyler

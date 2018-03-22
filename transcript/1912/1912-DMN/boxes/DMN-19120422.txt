@@ -123,7 +123,7 @@ Manes @ 1b:		4 0 1 11 0 0
 Kitchen @ c:	3 1 0 5 4 2
 Armour @ p:		1 0 0 1 0 0
 Dischner @ p:	1 0 0 0 1 0
-Smith @ p:		1 0 0 0 0 0
+Smith [FW] @ p:		1 0 0 0 0 0
 Windham @ p:	1 0 0 0 1 0
 *Nance @ ph:	1 0 0 0 0 0
 TOTALS:			35 5 10 30 16 7
@@ -135,7 +135,7 @@ Stellbauer @ lf:	6 0 1 2 0 0
 Downey @ rf:	4 2 1 1 0 0
 Hille @ 3b:		3 2 2 0 0 0
 McLarry @ 1b:	5 2 3 9 0 0
-Smith @ 2b:		3 0 2 6 5 1
+Smith [Aus] @ 2b:		3 0 2 6 5 1
 Hinninger @ c:	5 1 1 9 3 1
 Taylor @ p:		2 0 1 0 1 1
 Ayres @ p:		2 0 0 0 1 0
@@ -148,12 +148,12 @@ TOTALS:			40 7 11 30 15 3
 line: Fort Worth: 1 0 0 2 2 0 0 0 0 0 - 5
 line: Austin: 0 1 0 3 0 0 0 1 0 2 - 7
 
-P_IP: Taylor #5; Ayres #5; Armour #4; Dischner #3.1; Smith #0; Windham #2.2
-P_R: Armour #4; Smith #1; Windham #2; Taylor #5
+P_IP: Taylor #5; Ayres #5; Armour #4; Dischner #3.1; Smith [FW] #0; Windham #2.2
+P_R: Armour #4; Smith [FW] #1; Windham #2; Taylor #5
 P_H: Armour #1; Dischner #2; Windham #4; Taylor #8; Ayres #2
 B_2B: Frierson #2; Cooper; McLarry #2; Stellbauer
-B_3B: Smith
-B_SH: Morris; Dischner; Brownlow; Smith
+B_3B: Smith [Aus]
+B_SH: Morris; Dischner; Brownlow; Smith [Aus]
 P_SO: Armour #1; Dischner #1; Taylor #1; Ayres #4; Windham #1
 P_BB: Armour #1; Dischner #2; Taylor #1; Windham #2
 B_ROE: Austin #5

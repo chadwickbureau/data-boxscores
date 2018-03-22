@@ -1,5 +1,207 @@
 date: 1912-04-26
 number: 0
+league: Texas
+away: Austin
+home: Dallas
+
+Dallas:		ab r h po a e
+Forsythe @ 1b:	4 1 1 9 5 1
+Ens @ 2b:		4 1 2 1 3 3
+Blinke @ c:		4 0 1 1 2 0
+Duncan @ rf:	4 0 0 3 1 0
+Wilson @ lf:	4 0 1 1 0 0
+Kellerman @ ss:	4 0 0 5 2 0
+Tullos @ 3b:	3 0 1 4 4 1
+Shuman @ cf:	3 0 0 1 0 0
+Bader @ p:		3 0 1 2 3 0
+*Gibson @ ph:	1 0 0 0 0 0
+TOTALS:		34 2 7 27 20 5
+
+Austin:		ab r h po a e
+Brownlow @ ss:	4 0 0 0 4 1
+Cook @ cf:		4 1 0 1 0 0 
+Robinson @ lf:	3 1 0 2 0 0
+Downey @ rf:	4 1 2 2 0 0
+Hille @ 3b:		4 1 2 1 3 0
+McLarry @ 1b:	4 0 1 16 0 0 
+Smith @ 2b:		4 0 2 1 4 0
+Hinninger @ c:	4 0 0 2 1 0
+Ashton @ p:		3 1 1 2 4 0
+TOTALS:		34 5 8 27 16 1
+
+*: Batted for Shuman in 9th
+
+line: Dallas: 2 0 0 0 0 0 0 0 0 - 2
+line: Austin: 0 0 0 0 1 0 4 0 0 - 5
+
+B_2B: Wilson
+B_HR: Ens
+B_SB: Cook
+B_SH: Cook; Bader
+P_SO: Bader #1; Ashton #1
+B_ROE: Austin #5
+B_LOB: Dallas #5; Austin #7
+F_DP: Forsythe, Kellerman, Forsythe; Smith, McLarry
+T: 1:45
+U: Brady
+
+---
+
+date: 1912-04-26
+number: 0
+league: Texas
+away: Galveston
+home: San Antonio
+
+San Antonio:	ab r h po a e
+Meehan @ lf:	3 0 1 4 0 0
+Breitenstein @ 2b:	3 1 1 1 3 0
+Betts @ rf:		3 1 2 0 0 0
+Metz @ 1b:		5 1 1 13 1 0
+Wallace @ ss:	3 1 1 1 2 0
+Smith @ c:		2 0 0 3 0 0
+Collins @ cf:	4 2 1 1 0 0 
+Midkiff @ 3b:	3 1 2 3 3 0
+Goodwin @ p:	4 1 2 1 5 0
+TOTALS:			30 8 11 27 14 0
+
+Galveston:		ab r h po a e
+Clemens @ 3b:	4 0 1 2 2 0
+Jolly @ rf:		4 1 1 1 0 0
+Maag @ 2b:		3 1 1 3 3 0
+Williams, J. @ lf:	4 0 1 1 1 0
+Salm @ 1b:		4 0 1 6 0 1
+Madden @ ss:	3 0 1 2 1 1
+Thebo @ cf:		2 0 0 1 0 1
+Williams, H. @ c:	4 0 1 8 4 1
+Malloy @ p:		2 0 1 0 1 0
+Dodd @ p:		1 0 1 0 0 0
+Peebles @ cf:	2 0 0 0 1 0
+TOTALS:			33 2 9 24 13 4
+
+line: San Antonio: 0 1 2 0 5 0 0 0 x - 8
+line: Galveston: 1 0 0 0 0 1 0 0 0 - 2
+
+P_IP: Malloy #4.1; Dodd #3.2
+P_R: Malloy #7; Dodd #1
+P_H: Malloy #7; Dodd #4
+B_3B: Wallace; Jolly
+B_HR: Goodwin
+B_SB: Breitenstein; Betts; Wallace; Collins #2
+B_SH: Betts; Maag; Madden
+P_SO: Goodwin #3; Malloy #3; Dodd #2
+P_BB: Malloy #7; Dodd #2
+P_HP: Malloy #1
+B_LOB: San Antonio #9; Galveston #5
+F_DP: J. Williams, H. Williams; Breitenstein, Wallace, Metz
+T: 1:50
+U: Newhouse
+
+---
+
+date: 1912-04-26
+number: 0
+league: Texas
+away: Beaumont
+home: Houston
+
+Houston:	ab r h po a e
+Fillman @ 2b:	4 1 1 3 1 1
+Britton @ 3b:	4 0 1 1 1 0
+Landreth @ rf:	4 0 1 3 0 0
+Davis @ cf:		3 0 0 2 0 0
+Newnam @ 1b:	4 0 1 7 2 1
+Whiteman @ lf:	4 1 2 0 0 0
+Knaupp @ ss:	4 1 1 1 2 0
+Allen @ c:		3 1 2 8 0 0
+Foster @ p:		2 0 1 2 4 1
+TOTALS:			32 4 10 27 10 3
+
+Beaumont:		ab r h po a e
+Mayes @ cf:		4 0 1 0 1 1
+Wheeler @ 2b:	4 0 1 2 1 2
+Cook @ 1b:		4 0 1 10 0 0
+Dail @ lf:		3 0 0 3 0 0
+Cowan @ 3b:		2 0 0 2 8 0
+Casey @ rf:		4 0 0 2 0 0
+Edmiston @ ss:	4 0 0 2 2 0
+Dawson @ c:		2 1 0 3 2 1
+Peaster @ p:	2 0 0 0 2 0
+TOTALS:			29 1 3 24 16 4
+
+line: Houston: 1 0 0 0 0 0 3 0 x - 4
+line: Beaumont: 0 0 1 0 0 0 0 0 0 - 1
+
+B_2B: Wheeler; Knaupp; Cook
+P_BB: Foster #2; Peaster #1
+P_SO: Foster #8; Peaster #1
+F_DP: Cowan, Wheeler
+B_SH: Cowan #2; Peaster; Foster
+B_SB: Davis; Whiteman #2
+B_LOB: Houston #7; Beaumont #6
+T: 1:50
+U: Van Syckle
+
+---
+
+date: 1912-04-26
+number: 0
+league: Texas
+away: Waco
+home: Fort Worth
+
+Fort Worth:		ab r h po a e
+Cooper @ rf:	4 0 0 0 1 0
+Witherspoon @ ss:	4 0 0 0 1 0
+Howard @ cf:	4 0 1 1 0 0
+Frierson @ lf:	4 0 2 4 0 0
+Thompson @ 2b:	4 0 1 5 4 0
+Maner @ 1b:		3 0 1 8 0 0
+Snapp @ 3b:		3 0 1 3 2 1
+Kitchen @ c:	3 0 0 6 2 2
+Hiett @ p:		2 0 0 0 1 1 
+Perritt @ p:	0 0 0 0 0 0
+*Nance @ ph:		1 0 0 0 0 0 
+TOTALS:			32 0 6 27 11 4
+
+Waco:			ab r h po a e
+Tanner @ ss:	5 1 1 1 1 0
+Aiken @ 3b:		3 1 3 0 6 0
+Stewart @ cf:	2 0 0 4 0 0
+Rennard @ rf:	4 0 0 1 0 0
+Wohleben @ 1b:	3 0 0 11 1 0
+Critchlow @ lf:	4 0 1 1 1 0
+Dugey @ 2b:		4 0 1 6 2 0
+Carson @ c:		4 0 1 3 0 0
+Ogles @ p:		4 0 1 0 3 0
+TOTALS:			32 2 8 27 14 0
+
+*: Batted for Hiett in 8th
+
+line: Fort Worth: 0 0 0 0 0 0 0 0 0 - 0
+line: Waco: 1 0 0 0 1 0 0 0 0 - 2
+
+P_IP: Hiett #8; Perritt #1
+P_R: Hiett #2
+P_H: Hiett #7; Perritt #3
+B_2B: Tanner
+B_SF: Stewart
+P_SO: Hiett #4; Ogles #3
+P_BB: Hiett #3
+B_ROE: Waco #1
+B_LOB: Fort Worth #4; Waco #9
+B_SB: Dugey
+T: 1:25
+U: Wilkinson; Jacobs
+
+
+
+
+
+---
+
+date: 1912-04-26
+number: 0
 league: South Central
 away: Tyler
 home: Paris
@@ -113,7 +315,7 @@ home: Cleburne
 
 Cleburne:	ab r h po a e
 Webber @ 2b:	4 1 1 2 2 0
-White @ cf:		4 0 1 3 0 0
+White [Cle] @ cf:		4 0 1 3 0 0
 Gardner @ lf:	3 1 0 2 0 0
 Bessie @ rf:	3 1 1 1 0 0
 Ritter @ c:		2 0 1 7 1 0
@@ -130,7 +332,7 @@ Hardy @ 1b:		2 0 0 13 0 0
 Crosby @ rf:	3 0 0 0 4 1
 Johns @ 2b:		3 0 0 1 0 0
 Merrett @ 3b:	3 0 1 2 2 1
-White @ ss:		2 0 0 4 3 2
+White [Lon] @ ss:		2 0 0 4 3 2
 Spear @ c:		3 0 0 1 2 0
 Phillips @ p:	2 1 1 0 3 0
 Appleton @ p:	1 0 0 0 0 0
@@ -217,7 +419,7 @@ home: Durant
 Durant:		ab r h po a e
 Epling @ 2b:	4 0 1 0 3 1
 Garrity @ ss:	4 0 0 0 3 1
-Reid @ 1b:		4 0 0 12 0 0
+Reid [Dur] @ 1b:		4 0 0 12 0 0
 McCullum @ cf:	3 1 1 2 0 0
 Kiser @ rf:		3 0 2 2 0 1
 Tucker @ lf:	3 1 1 1 0 0
@@ -230,7 +432,7 @@ Sherman:	ab r h po a e
 Dooley @ lf:	5 0 0 1 0 0
 Lamonica @ rf:	2 0 0 1 1 0
 Williams @ cf:	4 0 1 2 0 0
-Reid @ 2b:		4 0 0 1 3 0
+Reid [She] @ 2b:		4 0 0 1 3 0
 Humphreys @ ss:	4 0 0 3 4 1
 Witt @ 3b:		4 0 0 2 1 2
 Rayburn @ 1b:	3 1 2 9 1 1
