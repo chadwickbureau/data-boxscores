@@ -510,9 +510,10 @@ league: Colonial
 away: New Haven
 home: New Bedford
 source: Hartford Courant, August 29, 1915
+note: newspaper listed two players at cf; moved Leid to lf
 
 New Haven:	ab r h po a e
-Leid @ cf:	2 0 0 1 0 0
+Leid @ lf:	2 0 0 1 0 0
 Frazier @ 2b:	4 0 0 4 5 0 
 Powers @ 1b:	4 0 0 11 0 1
 Coles @ cf:	4 0 1 4 0 0
@@ -558,7 +559,7 @@ source: Hartford Courant, August 29, 1915
 note: seven innings by agreement
 
 New Haven:	ab r h po a e
-Leid @ cf:	4 0 1 0 0 1
+Leid @ lf:	4 0 1 0 0 1
 Frazier @ 2b:	3 0 1 1 0 1 
 Hogan @ ss:	3 0 2 3 3 0 
 Coles @ cf:	3 0 1 2 0 0
