@@ -157,6 +157,7 @@ league: Colonial
 away: Pawtucket
 home: New Bedford
 source: Hartford Courant, July 23, 1915
+note: two players listed in paper in lf; move Bottomley to cf
 
 Pawtucket:	ab r h po a e
 Carr @ 3b-ss:	5 0 3 1 2 1
@@ -165,7 +166,7 @@ Lied @ lf:	4 1 1 2 1 1
 Gilmore @ rf:	3 0 1 0 0 0
 Boucher @ 2b:	4 1 2 5 2 1
 Gillooly @ 1b-3b:	3 0 0 3 3 0
-Bottomley @ lf:	3 0 0 0 0 0
+Bottomley @ cf:	3 0 0 0 0 0
 Longley @ lf-1b:	4 0 2 7 1 2
 Barry @ c:	4 0 0 8 2 0
 Adams @ p:	4 0 0 0 4 0
@@ -654,7 +655,7 @@ Gilmore @ rf:	4 0 0 1 0 0
 Simmons @ cf:	3 0 0 1 0 1
 Johnson @ 2b:	3 1 0 1 0 0
 Leid @ lf:	4 1 1 3 0 0
-Bottomley @ cf:	4 0 1 3 3 1
+Bottomley @ c:	4 0 1 3 3 1
 Adams @ p:	2 0 0 1 5 0
 *Barry @ ph:	0 0 0 0 0 0
 TOTALS:		34 3 6 24 17 2
@@ -946,7 +947,7 @@ source: Hartford Courant, July 29, 1915
 
 Pawtucket:	ab r h po a e
 Carr @ 3b:	5 0 1 2 1 0
-Gillooly @ cf:	4 1 1 1 1 1
+Gillooly @ 1b:	4 1 1 1 1 1
 Gilmore @ rf:	4 0 1 2 0 0
 O'Connell @ ss:	4 0 2 4 2 0
 Johnson @ 2b:	4 0 0 3 3 0
