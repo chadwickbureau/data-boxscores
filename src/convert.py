@@ -30,6 +30,8 @@ class Game(object):
     @property
     def number(self): return self.metadata.get("number")
     @property
+    def phase(self):  return self.metadata.get("phase")
+    @property
     def away(self):  return self.metadata.get("away")
     @property
     def home(self):  return self.metadata.get("home")
@@ -150,7 +152,8 @@ class Game(object):
         """
         self = cls()
         self.metadata = { "key": uuid.uuid5(uuid.NAMESPACE_DNS, gametext),
-                          "filename": fn }
+                          "filename": fn,
+                          "phase": "regular" }
         self.playing = { }
         self.umpiring = [ ]
 
@@ -171,12 +174,13 @@ class Game(object):
                 playing['game.key'] = self.metadata["key"]
                 playing['game.date'] = self.date
                 playing['game.number'] = self.number
+                playing['game.phase'] = self.phase
                 if key != "TOTALS":
                     playing['seq'] = str(seq)
                     seq += 1
                     if playing['name.full'] in self.playing:
                         print "In file %s,\n   game %s" % (self.metadata['filename'], self)
-                        print "  Dupliated name '%s'" % (key)
+                        print "  Duplicated name '%s'" % (key)
                     else:
                         self.playing[playing["name.full"]] = playing
                 else:
@@ -198,15 +202,11 @@ class Game(object):
                 # Some files had manually set keys - we have deprecated these
                 pass
             
-            elif key in [ "date", "number", "league", "away", "home", "site",
-                          "source", "A", "T", "status", "status-reason",
-                          "home-manager", "away-manager", "forfeit-to",
-                          "outsatend" ]:
+            elif key in ["date", "number", "league", "away", "home", "site",
+                         "source", "A", "T", "status", "status-reason",
+                         "home-manager", "away-manager", "forfeit-to",
+                         "outsatend", "phase"]:
                 self.metadata[key] = value
-
-            elif key == "phase":
-                # TODO: process season phase designator
-                pass
                 
             elif key in [ "B_ER", "B_2B", "B_3B", "B_HR", "B_BB", "B_SO",
                           "B_SH", "B_HP",
@@ -230,6 +230,7 @@ class Game(object):
                 self.umpiring = [ { "game.key": self.metadata["key"],
                                     "game.date": self.date,
                                     "game.number": self.number,
+                                    "game.phase": self.phase,
                                     "name.full": x }
                                      for x in map(lambda x: x.strip(),
                                                   value.split(";")) ]
@@ -274,7 +275,7 @@ def compile_playing(source, games, gamelist):
     del df['key']
     del df['league']
     columns = [ 'game.key', 'league.year', 'league.name',
-                'game.date', 'game.number',
+                'game.date', 'game.number', 'game.phase',
                 'name.last', 'name.first', 'club.name',
                 'pos', 'seq',
                 'B_AB', 'B_R', 'B_ER', 'B_H', 'B_2B', 'B_3B', 'B_HR', 'B_RBI',
@@ -308,7 +309,7 @@ def compile_games(source, gamelist):
                         "home-manager": "home.manager",
                         "status-reason": "status.reason",
                         "forfeit-to": "forfeit.to" })
-    columns = [ 'key', 'date', 'number', 'league', 'site',
+    columns = [ 'key', 'date', 'number', 'league', 'phase', 'site',
                 'away', 'away.score', 'away.manager',
                 'home', 'home.score', 'home.manager',
                 'A', 'T', 'forfeit.to',
@@ -351,7 +352,7 @@ def compile_people(source, playing, games):
     playing['P_G'] = playing['F_P_G']
     playing['name.first'] = playing['name.first'].fillna("")
     playing = playing[playing['name.last']!="TOTALS"]
-    grouper = playing.groupby([ 'year', 'league',
+    grouper = playing.groupby([ 'year', 'league', 'game.phase',
                                 'name.last', 'name.first', 'club.name' ])
     df = grouper.sum()
     df = pd.merge(df, grouper[[ 'game.date' ]].min().rename(columns={ 'game.date': 'S_FIRST' }),
@@ -379,8 +380,9 @@ def compile_people(source, playing, games):
                         'name.first': 'person.name.given',
                         'club.name':  'entry.name',
                         'year':       'league.year',
-                        'league':     'league.name' })
-    df = df[[ 'league.year', 'league.name', 'person.ref',
+                        'league':     'league.name',
+                        'game.phase':  'league.phase' })
+    df = df[[ 'league.year', 'league.name', 'league.phase', 'person.ref',
               'person.name.last', 'person.name.given', 'entry.name',
               'S_FIRST', 'S_LAST', 'B_G', 'P_G',
               'F_1B_G', 'F_2B_G', 'F_3B_G', 'F_SS_G',

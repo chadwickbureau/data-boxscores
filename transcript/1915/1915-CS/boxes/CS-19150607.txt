@@ -671,8 +671,9 @@ B_LOB: Augusta #8; Macon #9
 B_2B: Roth; Ezell; Nield; Basham
 B_SB: Emery; Ezell; Champlain; Eubanks; Davenport; Moore #2; Chancey; Basham
 B_SH: Smith; Davenport; South; Munn
-P_BB: South #5; Foster #1
-P_SO: South #3; McManus #1; Foster #6
+note: Foster listed in BB and SO; assuming this refers to May
+P_BB: South #5; May #1
+P_SO: South #3; McManus #1; May #6
 P_H: South #6; McManus #1
 P_IP: South #5.2; McManus #3.1
 F_DP: Nield, Moore 

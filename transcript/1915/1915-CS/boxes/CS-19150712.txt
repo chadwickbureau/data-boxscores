@@ -892,7 +892,7 @@ Matthews @ cf:	5 0 2 3 0 0
 Munn @ 1b:	4 0 0 11 0 0
 Chancey @ lf:	4 1 3 0 0 0
 Basham @ c:	4 0 1 2 1 0
-Moore @ 3b:	4 1 1 2 3 1
+Moore [MAC] @ 3b:	4 1 1 2 3 1
 May @ p:	4 1 3 0 2 0
 Lokey @ 2b:	3 1 0 3 3 0
 Martin @ rf:	4 1 1 0 0 0
@@ -908,14 +908,14 @@ Zimmerman @ 2b:	4 1 1 2 3 0
 Waldron @ ss:	4 0 1 1 2 1
 Shirley @ rf-lf:	4 0 0 2 0 0
 Woolf @ p:	4 1 2 0 3 0
-Moore @ rf:	0 0 0 0 0 0
+Moore [ALB] @ rf:	0 0 0 0 0 0
 TOTALS:		38 13 15 27 13 1
 
 line: Macon:  0 2 0 0 1 0 0 0 2 - 5
 line: Albany: 0 0 4 0 0 1 6 2 x - 13
 
 B_LOB: Macon #6; Albany #5
-B_2B: Manush; Wells; Prough #2; Zimmerman; Chancey #2; Basham; Moore
+B_2B: Manush; Wells; Prough #2; Zimmerman; Chancey #2; Basham; Moore [MAC]
 B_HR: Prough
 B_SB: Shirley
 P_BB: May #2
