@@ -806,6 +806,7 @@ league: Florida-Alabama-Georgia
 away: Valdosta
 home: Dothan
 source: Macon Telegraph, May 9, 1915
+note: two players listed at lf; move Wright to rf
 
 Valdosta:	ab r h po a e
 Chatham @ ss:	4 0 0 3 3 2
@@ -813,7 +814,7 @@ Stewart @ 3b:	4 0 0 3 2 1
 Medlock @ cf:	3 0 0 0 0 0
 Schwartz @ 2b:	4 0 0 1 1 0
 Jordan @ 1b:	4 0 0 9 0 0
-Wright @ lf:	3 1 1 0 0 0
+Wright @ rf:	3 1 1 0 0 0
 Maltby @ lf:	3 0 1 4 0 0
 Taylor @ c:	3 0 1 3 3 0
 Ery @ p:	3 0 1 1 2 0
@@ -850,6 +851,7 @@ league: Florida-Alabama-Georgia
 away: Valdosta
 home: Dothan
 source: Macon Telegraph, May 9, 1915
+note: two players listed at c; move Wright to rf
 
 Valdosta:	ab r h po a e
 Chatham @ ss:	4 1 0 0 3 0
@@ -857,7 +859,7 @@ Stewart @ 3b:	3 1 1 1 1 1
 Medlock @ cf:	4 0 1 2 0 0
 Schwartz @ 2b:	4 0 0 3 2 1
 Jordan @ 1b:	4 0 0 9 1 0
-Wright @ c:	4 0 0 0 0 0
+Wright @ rf:	4 0 0 0 0 0
 Maltby @ lf:	4 0 1 8 0 0
 Taylor @ c:	2 0 0 8 2 0
 Sloan @ p:	4 0 0 0 4 0
