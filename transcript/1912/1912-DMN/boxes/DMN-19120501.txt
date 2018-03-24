@@ -383,7 +383,7 @@ Ballew @ c:		3 0 0 7 1 0
 Hopkins @ p:	2 0 0 1 6 0
 TOTALS:			27 4 4 26 12 3
 
-note: C. Covington out, hit by batted ball
+B_XO: C. Covington, hit by batted ball
 
 line: Denison: 0 0 0 0 0 1 0 0 0 - 1
 line: Ardmore: 0 0 0 1 0 2 1 0 x - 4
@@ -431,7 +431,7 @@ Scott @ c:		4 0 3 8 1 0
 Anderson @ p:	4 0 0 0 5 1 
 TOTALS:			32 9 10 27 11 4
 
-note: Roach out for attempted bunt
+B_XO: Roach, attempted bunt
 
 line: McKinney: 0 0 0 0 0 0 0 0 0 - 0
 line: Bonham: 5 0 1 0 1 0 2 0 x - 9

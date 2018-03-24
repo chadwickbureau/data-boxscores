@@ -74,7 +74,7 @@ Alexander @ c:	3 0 0 5 1 0
 Morton @ p:		4 0 0 3 3 0
 TOTALS:			34 0 3 32 12 0
 
-note: Two out when winning run scored
+outsatend: 2
 
 line: San Antonio: 0 0 0 0 0 0 0 0 0 0 1 - 1
 line: Galveston: 0 0 0 0 0 0 0 0 0 0 0 - 0
@@ -502,7 +502,7 @@ Prodhomme @ ss:	3 0 2 2 4 1
 Wood @ p:		3 0 1 2 1 1
 TOTALS:			36 4 10 25 15 5
 
-note: One out when willing run scored
+outsatend: 1
 
 Longview:		ab r h po a e
 Halliday @ cf:	4 0 0 1 0 0

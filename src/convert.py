@@ -74,15 +74,14 @@ class Game(object):
         return playing
 
     def _parse_details(self, key, value):
-        for entry in map(lambda x: x.strip(), value.split(";")):
+        for entry in [x.strip() for x in value.split(";")]:
             if "#" in entry:
                 try:
-                    name, count = map(lambda x: x.strip(), entry.split("#"))
+                    name, count = [x.strip() for x in entry.split("#")]
                 except ValueError:
                     print "In file %s,\n   game %s" % (self.metadata['filename'], self)
                     print "  Ill-formed details string '%s'" % entry
                     return
-                    
             else:
                 name, count = entry, "1"
             try:
@@ -91,6 +90,20 @@ class Game(object):
                 print "In file %s,\n   game %s" % (self.metadata['filename'], self)
                 print "  No match on name '%s' in '%s'" % (name, key)
 
+    def _parse_details_XO(self, key, value):
+        for entry in [x.strip() for x in value.split(";")]:
+            try:
+                name, reason = [x.strip() for x in entry.split(",")]
+            except ValueError:
+                print "In file %s,\n   game %s" % (self.metadata['filename'], self)
+                print "  Ill-formed details string '%s'" % entry
+                return
+            try:
+                self.playing[name]['B_XO'] = self.playing[name].get('B_XO', 0)+1
+            except KeyError:
+                print "In file %s,\n   game %s" % (self.metadata['filename'], self)
+                print "  No match on name '%s' in '%s'" % (name, key)
+                
     def _parse_dptp(self, key, value):
         for entry in map(lambda x: x.strip(), value.split(";")):
             if "#" in entry:
@@ -187,7 +200,8 @@ class Game(object):
             
             elif key in [ "date", "number", "league", "away", "home", "site",
                           "source", "A", "T", "status", "status-reason",
-                          "home-manager", "away-manager", "forfeit-to" ]:
+                          "home-manager", "away-manager", "forfeit-to",
+                          "outsatend" ]:
                 self.metadata[key] = value
 
             elif key == "phase":
@@ -200,9 +214,13 @@ class Game(object):
                           "B_LOB", "B_ROE",
                           "P_IP", "P_R", "P_ER", "P_H", "P_HP", "P_BB", "P_SO",
                           "P_WP", "P_BK",
-                          "F_PB" ]:
+                          "F_SB", "F_PB" ]:
                 if value != "":
                     self._parse_details(key, value)
+
+            elif key == "B_XO":
+                if value != "":
+                    self._parse_details_XO(key, value)
 
             elif key in [ "F_DP", "F_TP" ]:
                 if value != "":
@@ -215,7 +233,7 @@ class Game(object):
                                     "name.full": x }
                                      for x in map(lambda x: x.strip(),
                                                   value.split(";")) ]
-            elif key in [ "line" ]:
+            elif key == "line":
                 self._process_linescore(value)
 
             elif key in self._subskeys:
@@ -261,10 +279,10 @@ def compile_playing(source, games, gamelist):
                 'pos', 'seq',
                 'B_AB', 'B_R', 'B_ER', 'B_H', 'B_2B', 'B_3B', 'B_HR', 'B_RBI',
                 'B_BB', 'B_SO',
-                'B_HP', 'B_SH', 'B_SF', 'B_SB', 'B_LOB', 'B_ROE',
+                'B_HP', 'B_SH', 'B_SF', 'B_SB', 'B_XO', 'B_LOB', 'B_ROE',
                 'P_IP', 'P_R', 'P_ER', 'P_H', 
                 'P_BB', 'P_SO', 'P_HP', 'P_WP', 'P_BK',
-                'F_PO', 'F_A', 'F_E', 'F_DP', 'F_TP', 'F_PB' ]
+                'F_PO', 'F_A', 'F_E', 'F_DP', 'F_TP', 'F_PB', 'F_SB' ]
     for col in columns:
         if col not in df:
             df[col] = None
@@ -294,7 +312,7 @@ def compile_games(source, gamelist):
                 'away', 'away.score', 'away.manager',
                 'home', 'home.score', 'home.manager',
                 'A', 'T', 'forfeit.to',
-                'status', 'status.reason', 'filename', 'source' ]
+                'status', 'status.reason', 'outsatend', 'filename', 'source' ]
     for inning in xrange(100):
         if ('away.score.%d' % inning) in df.columns:
             columns.append('away.score.%d' % inning)
