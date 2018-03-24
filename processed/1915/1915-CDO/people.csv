@@ -25,7 +25,7 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1915,North Carolina State League,P4342182,Boggess,,Winston-Salem,1915-05-22,1915-07-10,40,0,39,0,0,0,0,0,0,0,0,0
 1915,North Carolina State League,P7586365,Boykin,,Charlotte,1915-05-01,1915-07-17,66,0,1,0,14,0,51,38,13,0,0,0
 1915,North Carolina State League,P7889816,Boykin,,Durham,1915-07-22,1915-08-24,29,0,2,0,0,2,26,5,1,21,0,0
-1915,North Carolina State League,P7141927,Boyle,,Durham,1915-04-22,1915-09-15,70,1,0,0,1,0,0,0,0,0,68,1
+1915,North Carolina State League,P7141927,Boyle,,Durham,1915-04-22,1915-09-15,71,1,0,0,1,0,0,0,0,0,69,1
 1915,North Carolina State League,P7942356,Bradshaw,,Asheville,1915-04-22,1915-09-15,124,0,0,70,0,54,0,0,0,0,0,0
 1915,North Carolina State League,P9998991,Brasier,,Raleigh,1915-08-28,1915-08-28,2,0,0,0,0,0,2,0,2,0,0,0
 1915,North Carolina State League,P0893718,Brazier,,Raleigh,1915-07-14,1915-09-11,49,0,0,0,1,0,49,1,48,1,0,0
@@ -43,7 +43,7 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1915,North Carolina State League,P9645964,Cheek,,Durham,1915-06-07,1915-06-24,10,3,0,0,0,0,7,0,5,2,0,3
 1915,North Carolina State League,P8222485,Christenberry,,Charlotte,1915-05-03,1915-05-26,2,0,0,1,0,0,1,1,0,0,0,0
 1915,North Carolina State League,P0515507,Christenbury,,Charlotte,1915-05-04,1915-06-09,26,0,0,10,0,0,16,7,9,0,0,0
-1915,North Carolina State League,P7884919,Citrano,,Raleigh,1915-04-22,1915-09-15,106,0,0,0,24,82,0,0,0,0,0,0
+1915,North Carolina State League,P7884919,Citrano,,Raleigh,1915-04-22,1915-09-15,106,0,0,0,25,81,0,0,0,0,0,0
 1915,North Carolina State League,P7007512,Clapp,,Asheville,1915-05-06,1915-05-08,2,0,0,0,0,0,2,0,0,2,0,0
 1915,North Carolina State League,P2132945,Clapp,,Greensboro,1915-09-09,1915-09-15,6,0,0,0,0,0,6,6,0,0,0,0
 1915,North Carolina State League,P0341484,Clapp,,Winston-Salem,1915-05-14,1915-05-26,9,0,6,0,0,0,3,1,0,2,0,0
@@ -63,7 +63,7 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1915,North Carolina State League,P1201016,Dudley,,Charlotte,1915-05-24,1915-08-12,38,1,0,0,0,0,0,0,0,0,36,1
 1915,North Carolina State League,P9450882,Duggan,,Durham,1915-04-22,1915-06-28,55,0,0,55,0,0,0,0,0,0,0,0
 1915,North Carolina State League,P7156561,Dunn,,Winston-Salem,1915-04-22,1915-04-24,3,0,0,0,0,3,0,0,0,0,0,0
-1915,North Carolina State League,P2476676,Dunning,,Charlotte,1915-08-07,1915-09-15,30,0,0,0,0,0,30,16,8,7,0,0
+1915,North Carolina State League,P2476676,Dunning,,Charlotte,1915-08-07,1915-09-15,30,0,0,0,0,0,30,14,10,7,0,0
 1915,North Carolina State League,P3812073,Durbarrow,,Charlotte,1915-04-22,1915-04-22,1,0,0,0,0,0,1,0,0,1,0,0
 1915,North Carolina State League,P1420471,Durborrow,,Charlotte,1915-04-23,1915-05-10,11,0,0,0,0,0,8,0,0,8,0,0
 1915,North Carolina State League,P0796194,Dysert,,Raleigh,1915-04-22,1915-08-21,101,0,0,0,0,0,101,101,0,0,0,0
@@ -115,7 +115,7 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1915,North Carolina State League,P2115167,Heavener,,Charlotte,1915-05-04,1915-05-04,1,0,0,0,0,0,0,0,0,0,1,0
 1915,North Carolina State League,P3639235,Heck,,Asheville,1915-04-22,1915-04-26,4,0,0,0,0,0,4,0,0,4,0,0
 1915,North Carolina State League,P4852684,Heck,,Charlotte,1915-04-29,1915-05-08,7,0,0,0,0,0,7,0,1,6,0,0
-1915,North Carolina State League,P9913367,Heck,,Winston-Salem,1915-05-15,1915-09-14,94,0,0,0,4,2,81,66,10,7,8,0
+1915,North Carolina State League,P9913367,Heck,,Winston-Salem,1915-05-15,1915-09-14,94,0,0,0,4,2,81,64,12,7,8,0
 1915,North Carolina State League,P8223870,Hevener,,Charlotte,1915-04-30,1915-05-15,5,0,0,0,0,0,0,0,0,0,5,0
 1915,North Carolina State League,P7776745,Hewell,,Asheville,1915-06-17,1915-09-15,54,0,0,1,46,6,0,0,0,0,0,0
 1915,North Carolina State League,P7517634,Hewell,,Greensboro,1915-04-23,1915-06-14,38,0,0,0,37,0,0,0,0,0,0,0
@@ -125,7 +125,7 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1915,North Carolina State League,P0627336,Hoberg,,Charlotte,1915-04-22,1915-05-01,7,0,0,0,0,0,0,0,0,0,7,0
 1915,North Carolina State League,P4814080,Hodd,,Greensboro,1915-08-16,1915-08-16,1,1,0,0,0,0,0,0,0,0,0,1
 1915,North Carolina State League,P9619665,Honig,,Winston-Salem,1915-09-03,1915-09-15,12,0,0,0,0,0,12,12,0,0,0,0
-1915,North Carolina State League,P1510918,Howard,,Greensboro,1915-04-30,1915-09-09,51,0,0,0,2,48,0,0,0,0,1,0
+1915,North Carolina State League,P1510918,Howard,,Greensboro,1915-04-30,1915-09-09,51,0,0,0,1,50,0,0,0,0,0,0
 1915,North Carolina State League,P6557185,Howard,,Winston-Salem,1915-05-20,1915-07-13,45,0,0,34,8,3,0,0,0,0,0,0
 1915,North Carolina State League,P6858444,Howell,,Greensboro,1915-04-22,1915-04-22,1,0,0,0,1,0,0,0,0,0,0,0
 1915,North Carolina State League,P2048586,Huneycutt,,Greensboro,1915-08-16,1915-08-25,5,0,0,0,0,0,1,0,0,1,2,0
@@ -172,7 +172,7 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1915,North Carolina State League,P2876063,McCord,,Raleigh,1915-04-22,1915-09-15,110,0,0,69,0,41,0,0,0,0,0,0
 1915,North Carolina State League,P2284323,McCoy,,Asheville,1915-05-20,1915-08-21,74,0,20,0,0,0,48,1,0,47,3,0
 1915,North Carolina State League,P6545127,McCoy,,Durham,1915-05-08,1915-05-18,8,0,0,0,0,0,5,0,0,5,4,0
-1915,North Carolina State League,P9895294,McDaniel,,Greensboro,1915-04-24,1915-05-05,5,0,0,0,0,0,0,0,0,0,4,0
+1915,North Carolina State League,P9895294,McDaniel,,Greensboro,1915-04-24,1915-05-05,5,0,0,0,0,0,0,0,0,0,5,0
 1915,North Carolina State League,P8996970,McDaniell,,Greensboro,1915-05-08,1915-06-04,13,0,0,0,0,0,0,0,0,0,9,0
 1915,North Carolina State League,P9418099,McDonald,,Charlotte,1915-04-23,1915-05-11,8,4,0,0,0,0,0,0,0,0,0,4
 1915,North Carolina State League,P2525742,McMillan,,Greensboro,1915-07-27,1915-08-26,24,0,0,1,0,0,24,23,1,0,0,0
@@ -247,10 +247,12 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1915,North Carolina State League,P6820136,Shehan,,Charlotte,1915-04-28,1915-04-28,1,0,0,0,0,1,0,0,0,0,0,0
 1915,North Carolina State League,P8053986,Sindler,,Charlotte,1915-05-21,1915-06-10,6,5,0,0,0,0,1,0,0,1,0,5
 1915,North Carolina State League,P1409296,Sisson,,Charlotte,1915-05-17,1915-05-22,5,0,0,0,0,0,5,0,5,0,0,0
-1915,North Carolina State League,P7693814,Smith,,Charlotte,1915-04-22,1915-09-15,64,0,0,0,4,0,59,3,56,0,0,0
-1915,North Carolina State League,P4737094,Smith,,Greensboro,1915-06-14,1915-09-13,73,0,0,68,0,5,0,0,0,0,0,0
+1915,North Carolina State League,P7693814,Smith,,Charlotte,1915-04-22,1915-09-15,61,0,0,0,4,0,56,3,53,0,0,0
+1915,North Carolina State League,P4737094,Smith,,Greensboro,1915-06-14,1915-09-13,72,0,0,67,0,5,0,0,0,0,0,0
 1915,North Carolina State League,P8244359,Smith,C.,Charlotte,1915-07-23,1915-08-26,4,0,0,0,0,0,4,0,4,0,0,0
 1915,North Carolina State League,P4844923,Smith,G.,Greensboro,1915-07-24,1915-08-26,3,0,0,3,0,0,0,0,0,0,0,0
+1915,North Carolina State League,P7173082,Smith [CHA],,Charlotte,1915-07-06,1915-08-10,4,0,0,0,0,0,4,0,4,0,0,0
+1915,North Carolina State League,P5043574,Smith [GBO],,Greensboro,1915-07-06,1915-08-10,4,0,0,4,0,0,0,0,0,0,0,0
 1915,North Carolina State League,P6139629,Steinbach,,Winston-Salem,1915-04-24,1915-05-03,3,3,0,0,0,0,0,0,0,0,0,3
 1915,North Carolina State League,P6178175,Stuart,,Winston-Salem,1915-04-26,1915-09-15,115,1,0,0,2,75,38,13,22,3,0,1
 1915,North Carolina State League,P0875989,Swan,,Winston-Salem,1915-06-12,1915-06-12,1,0,0,0,0,0,0,0,0,0,1,0
@@ -277,7 +279,7 @@ league.year,league.name,person.ref,person.name.last,person.name.given,entry.name
 1915,North Carolina State League,P3875710,Williams,,Winston-Salem,1915-04-22,1915-05-13,19,0,19,0,0,0,0,0,0,0,0,0
 1915,North Carolina State League,P8966612,Witmer,,Winston-Salem,1915-07-09,1915-07-12,3,2,0,0,0,0,1,0,0,1,0,2
 1915,North Carolina State League,P0791285,Witner,,Winston-Salem,1915-04-22,1915-04-23,2,0,0,0,0,0,2,2,0,0,0,0
-1915,North Carolina State League,P1994760,Wofford,,Charlotte,1915-05-27,1915-09-14,72,0,0,0,12,0,61,2,1,60,0,0
+1915,North Carolina State League,P1994760,Wofford,,Charlotte,1915-05-27,1915-09-14,72,0,0,0,11,0,62,2,1,61,0,0
 1915,North Carolina State League,P7280154,Woodall,,Asheville,1915-05-21,1915-09-15,98,1,0,0,0,0,1,0,0,1,97,1
 1915,North Carolina State League,P2609764,Yoder,,Greensboro,1915-06-24,1915-06-26,3,0,0,0,3,0,0,0,0,0,0,0
 1915,North Carolina State League,P5558087,Yon,,Charlotte,1915-05-08,1915-05-18,2,2,0,0,0,0,0,0,0,0,0,2
