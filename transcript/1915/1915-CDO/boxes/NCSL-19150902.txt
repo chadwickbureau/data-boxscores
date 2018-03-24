@@ -415,6 +415,7 @@ away: Asheville
 home: Charlotte
 source: Charlotte Daily Observer, September 7, 1915
 A: 600
+note: two players list at lf; move Dunning to cf
 
 Asheville:	ab r h po a e
 Bradshaw @ 2b:	4 0 1 2 1 0
@@ -429,7 +430,7 @@ Groome @ rf:	3 0 0 1 0 0
 TOTALS:		32 1 6 24 9 0
 
 Charlotte:	ab r h po a e
-Dunning @ lf:	2 1 2 3 1 0
+Dunning @ cf:	2 1 2 3 1 0
 Leonard @ 2b:	3 1 0 2 1 0
 Anderson @ ss:	3 1 0 2 1 1
 Wofford @ rf:	3 0 0 1 1 0
@@ -524,11 +525,12 @@ away: Raleigh
 home: Durham
 source: Charlotte Daily Observer, September 7, 1915
 A: 700
+note: two players listed at ss; move Citrano to 3b
 
 Raleigh:	ab r h po a e
 McConnell @ 2b:	4 1 1 0 2 0
 Mack @ 1b:	3 2 1 10 1 0
-Citrano @ ss:	3 0 0 1 0 0
+Citrano @ 3b:	3 0 0 1 0 0
 Perkins @ c:	4 0 1 8 2 0
 Brazier @ cf:	5 0 2 0 0 0
 Tally @ lf:	4 0 1 1 0 1
@@ -644,9 +646,10 @@ away: Winston-Salem
 home: Greensboro
 source: Charlotte Daily Observer, September 7, 1915
 A: 250
+note: two players listed at lf; move Heck to cf
 
 Winston-Salem:	ab r h po a e
-Heck @ lf:	4 0 0 1 0 1
+Heck @ cf:	4 0 0 1 0 1
 McBane @ rf:	4 0 1 0 0 0
 Moorefield @ c:	4 1 2 10 2 0
 Jordan @ 1b:	4 1 1 8 3 0
@@ -703,6 +706,7 @@ away: Greensboro
 home: Winston-Salem
 source: Charlotte Daily Observer, September 7, 1915
 A: 500
+note: two players listed at lf; move Heck to cf
 
 Greensboro:	ab r h po a e
 Carlisle @ 3b:	5 0 0 2 1 0
@@ -717,7 +721,7 @@ McWhorter @ p:	3 0 1 0 3 0
 TOTALS:		25 1 5 24 14 3
 
 Winston-Salem:	ab r h po a e
-Heck @ lf:	5 4 3 2 0 0
+Heck @ cf:	5 4 3 2 0 0
 McBane @ rf:	5 0 3 4 0 0
 Moorefield @ c:	3 1 0 9 1 1
 Jordan @ 1b:	3 0 1 9 0 0
