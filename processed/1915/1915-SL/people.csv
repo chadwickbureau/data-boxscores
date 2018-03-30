@@ -4,7 +4,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,American Association,regular,P1957898,Autrey,,St. Paul,1915-04-22,1915-04-30,8,0,8,0,0,0,0,0,0,0,0,0
 1915,American Association,regular,P4413609,Bailey,,Columbus,1915-04-16,1915-04-29,7,0,0,0,0,0,2,2,0,0,0,0
 1915,American Association,regular,P2861567,Barbeau,,Milwaukee,1915-04-15,1915-04-30,15,0,0,4,0,11,0,0,0,0,0,0
-1915,American Association,regular,P8418403,Bassler,,Cleveland,1915-04-15,1915-04-30,10,0,0,0,0,0,0,0,0,0,8,0
+1915,American Association,regular,P8418403,Bassler,,Cleveland,1915-04-15,1915-04-30,11,0,0,0,0,0,0,0,0,0,9,0
 1915,American Association,regular,P5916422,Bates,,Cleveland,1915-04-15,1915-04-18,4,0,0,0,4,0,0,0,0,0,0,0
 1915,American Association,regular,P7497997,Beall,,Milwaukee,1915-04-15,1915-04-30,15,0,0,0,0,0,15,0,15,0,0,0
 1915,American Association,regular,P9676248,Benson,,Columbus,1915-04-18,1915-04-30,12,0,0,12,0,0,0,0,0,0,0,0
@@ -16,15 +16,15 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,American Association,regular,P6418221,Brannan,,Milwaukee,1915-04-16,1915-04-30,7,0,0,0,0,0,0,0,0,0,6,0
 1915,American Association,regular,P8207675,Brannon,,Milwaukee,1915-04-19,1915-04-28,2,0,0,0,0,0,1,1,0,0,1,0
 1915,American Association,regular,P8592049,Brennan,,Milwaukee,1915-04-25,1915-04-25,1,0,0,0,0,0,0,0,0,0,1,0
-1915,American Association,regular,P5548783,Brenton,,Cleveland,1915-04-15,1915-04-25,4,4,0,0,0,0,0,0,0,0,0,4
-1915,American Association,regular,P6989614,Bronkie,,Indianapolis,1915-04-15,1915-04-30,13,0,0,0,13,0,0,0,0,0,0,0
+1915,American Association,regular,P5548783,Brenton,,Cleveland,1915-04-15,1915-04-27,5,5,0,0,0,0,0,0,0,0,0,5
+1915,American Association,regular,P6989614,Bronkie,,Indianapolis,1915-04-15,1915-04-30,14,0,0,0,14,0,0,0,0,0,0,0
 1915,American Association,regular,P7879207,Burch,,Columbus,1915-04-15,1915-04-30,15,0,0,0,0,0,15,1,0,14,0,0
 1915,American Association,regular,P7513080,Burk,,Indianapolis,1915-04-16,1915-04-29,3,3,0,0,0,0,0,0,0,0,0,3
 1915,American Association,regular,P2131133,Burke,,Indianapolis,1915-04-25,1915-04-25,1,1,0,0,0,0,0,0,0,0,0,1
-1915,American Association,regular,P1312753,Butcher,,Indianapolis,1915-04-15,1915-04-30,13,0,0,0,0,0,13,0,0,13,0,0
+1915,American Association,regular,P1312753,Butcher,,Indianapolis,1915-04-15,1915-04-30,14,0,0,0,0,0,14,0,0,14,0,0
 1915,American Association,regular,P4203186,Butler,,Indianapolis,1915-04-18,1915-04-18,1,0,0,0,0,0,1,0,0,1,0,0
 1915,American Association,regular,P5083621,Callahan,,Louisville,1915-04-20,1915-04-30,7,0,0,0,0,0,0,0,0,0,0,0
-1915,American Association,regular,P9772382,Cantwell,,Indianapolis,1915-04-20,1915-04-20,1,1,0,0,0,0,0,0,0,0,0,1
+1915,American Association,regular,P9772382,Cantwell,,Indianapolis,1915-04-20,1915-04-27,2,2,0,0,0,0,0,0,0,0,0,2
 1915,American Association,regular,P5508760,Carter,,Cleveland,1915-04-16,1915-04-29,5,5,0,0,0,0,0,0,0,0,0,5
 1915,American Association,regular,P4821645,Cashion,,Minneapolis,1915-04-15,1915-04-30,12,0,11,0,0,0,0,0,0,0,0,0
 1915,American Association,regular,P6619872,Chappell,Larry,Milwaukee,1915-04-29,1915-04-29,1,0,0,0,0,0,1,1,0,0,0,0
@@ -37,7 +37,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,American Association,regular,P7759890,Coleman,,Columbus,1915-04-15,1915-04-30,10,0,0,0,0,0,0,0,0,0,10,0
 1915,American Association,regular,P0033237,Collamore,,Cleveland,1915-04-17,1915-04-26,4,4,0,0,0,0,0,0,0,0,0,4
 1915,American Association,regular,P4900963,Compton,,Kansas City,1915-04-15,1915-04-30,14,0,0,0,0,0,14,0,13,1,0,0
-1915,American Association,regular,P5837573,Crandall,,Indianapolis,1915-04-15,1915-04-30,14,0,0,14,0,0,0,0,0,0,0,0
+1915,American Association,regular,P5837573,Crandall,,Indianapolis,1915-04-15,1915-04-30,15,0,0,15,0,0,0,0,0,0,0,0
 1915,American Association,regular,P5254066,Crossin,,Louisville,1915-04-20,1915-04-30,3,0,0,0,0,0,0,0,0,0,0,0
 1915,American Association,regular,P9702747,Cruise,,St. Paul,1915-04-15,1915-04-27,10,0,0,0,0,0,10,10,0,0,0,0
 1915,American Association,regular,P8089506,Daley,,Columbus,1915-04-15,1915-04-26,11,0,0,0,0,3,8,7,1,0,0,0
@@ -53,17 +53,17 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,American Association,regular,P5157252,Dyer,,St. Paul,1915-04-15,1915-04-30,15,0,0,0,15,0,0,0,0,0,0,0
 1915,American Association,regular,P4378455,Eayrs,,Columbus,1915-04-15,1915-04-29,7,4,0,0,0,0,1,1,0,0,0,4
 1915,American Association,regular,P5573546,Ellis,,Louisville,1915-04-17,1915-04-29,5,5,0,0,0,0,0,0,0,0,0,5
-1915,American Association,regular,P5914004,Evans,,Cleveland,1915-04-17,1915-04-30,11,0,0,1,6,4,0,0,0,0,0,0
+1915,American Association,regular,P5914004,Evans,,Cleveland,1915-04-17,1915-04-30,12,0,0,1,6,5,0,0,0,0,0,0
 1915,American Association,regular,P9707803,Ferry,,Columbus,1915-04-19,1915-04-24,2,2,0,0,0,0,0,0,0,0,0,2
 1915,American Association,regular,P8960527,Fiene,,Minneapolis,1915-04-17,1915-04-27,2,1,0,0,0,0,0,0,0,0,0,1
-1915,American Association,regular,P4667802,Gardner,,Cleveland,1915-04-15,1915-04-30,14,0,0,14,0,0,0,0,0,0,0,0
+1915,American Association,regular,P4667802,Gardner,,Cleveland,1915-04-15,1915-04-30,15,0,0,15,0,0,0,0,0,0,0,0
 1915,American Association,regular,P0255859,Gardner,,St. Paul,1915-04-17,1915-04-30,5,5,0,0,0,0,0,0,0,0,0,5
 1915,American Association,regular,P0368395,Geibel,,Kansas City,1915-04-15,1915-04-30,5,0,0,0,0,0,0,0,0,0,5,0
 1915,American Association,regular,P8387260,George,,Kansas City,1915-04-15,1915-04-30,7,5,0,0,0,0,0,0,0,0,0,5
 1915,American Association,regular,P6474258,Gharrity,,Minneapolis,1915-04-15,1915-04-28,8,0,0,0,0,0,0,0,0,0,4,0
 1915,American Association,regular,P5466165,Gipe,,St. Paul,1915-04-17,1915-04-24,3,3,0,0,0,0,0,0,0,0,0,3
 1915,American Association,regular,P2487576,Gooch,,Minneapolis,1915-04-15,1915-04-30,7,0,0,0,0,0,6,0,1,5,0,0
-1915,American Association,regular,P9842605,Gossett,,Indianapolis,1915-04-15,1915-04-30,10,0,0,0,0,0,0,0,0,0,9,0
+1915,American Association,regular,P9842605,Gossett,,Indianapolis,1915-04-15,1915-04-30,11,0,0,0,0,0,0,0,0,0,10,0
 1915,American Association,regular,P1607544,Greisel,,Milwaukee,1915-04-17,1915-04-20,2,2,0,0,0,0,0,0,0,0,0,2
 1915,American Association,regular,P2034065,Hall,,St. Paul,1915-04-16,1915-04-24,2,1,0,0,0,0,0,0,0,0,0,1
 1915,American Association,regular,P1669817,Hall,Charley,St. Paul,1915-04-28,1915-04-28,1,1,0,0,0,0,0,0,0,0,0,1
@@ -89,9 +89,9 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,American Association,regular,P4726414,Kahler,,Cleveland,1915-04-18,1915-04-18,1,1,0,0,0,0,0,0,0,0,0,1
 1915,American Association,regular,P8248748,Karger,,St. Paul,1915-04-16,1915-04-16,1,1,0,0,0,0,0,0,0,0,0,1
 1915,American Association,regular,P4156234,Kelley,,Indianapolis,1915-04-21,1915-04-25,2,0,0,0,0,0,2,0,2,0,0,0
-1915,American Association,regular,P0253797,Kelly,,Indianapolis,1915-04-15,1915-04-30,12,0,0,0,0,0,12,0,12,0,0,0
-1915,American Association,regular,P4514669,Kirke,,Cleveland,1915-04-15,1915-04-30,14,0,10,0,4,0,0,0,0,0,0,0
-1915,American Association,regular,P6303836,Knight,,Cleveland,1915-04-15,1915-04-30,14,0,4,0,0,10,0,0,0,0,0,0
+1915,American Association,regular,P0253797,Kelly,,Indianapolis,1915-04-15,1915-04-30,13,0,0,0,0,0,13,0,13,0,0,0
+1915,American Association,regular,P4514669,Kirke,,Cleveland,1915-04-15,1915-04-30,15,0,10,0,5,0,0,0,0,0,0,0
+1915,American Association,regular,P6303836,Knight,,Cleveland,1915-04-15,1915-04-30,15,0,5,0,0,10,0,0,0,0,0,0
 1915,American Association,regular,P5768193,Laross,,Milwaukee,1915-04-15,1915-04-28,10,0,0,0,0,0,10,9,0,1,0,0
 1915,American Association,regular,P3553941,Larsen,,St. Paul,1915-04-22,1915-04-22,1,1,0,0,0,0,0,0,0,0,0,1
 1915,American Association,regular,P8211268,Lelivelt,,Kansas City,1915-04-15,1915-04-30,14,0,14,0,0,0,0,0,0,0,0,0
@@ -104,10 +104,10 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,American Association,regular,P8140528,Mattick,,Kansas City,1915-04-15,1915-04-30,14,0,0,0,0,0,14,14,0,0,0,0
 1915,American Association,regular,P2652993,Mayer,,Kansas City,1915-04-25,1915-04-26,2,0,0,0,0,0,0,0,0,0,0,0
 1915,American Association,regular,P1195225,McArthur,,Columbus,1915-04-18,1915-04-18,1,1,0,0,0,0,0,0,0,0,0,1
-1915,American Association,regular,P1712209,McMillan,,Indianapolis,1915-04-15,1915-04-30,14,0,0,0,1,13,0,0,0,0,0,0
+1915,American Association,regular,P1712209,McMillan,,Indianapolis,1915-04-15,1915-04-30,15,0,0,0,1,14,0,0,0,0,0,0
 1915,American Association,regular,P6712071,Mensor,,Columbus,1915-04-15,1915-04-30,11,0,0,0,0,0,11,6,5,0,0,0
-1915,American Association,regular,P9977122,Merz,,Indianapolis,1915-04-17,1915-04-30,5,5,0,0,0,0,0,0,0,0,0,5
-1915,American Association,regular,P1064036,Metz,,Indianapolis,1915-04-15,1915-04-30,14,0,14,0,0,0,0,0,0,0,0,0
+1915,American Association,regular,P9977122,Merz,,Indianapolis,1915-04-17,1915-04-30,6,6,0,0,0,0,0,0,0,0,0,6
+1915,American Association,regular,P1064036,Metz,,Indianapolis,1915-04-15,1915-04-30,15,0,15,0,0,0,0,0,0,0,0,0
 1915,American Association,regular,P4018513,Middleton,,Louisville,1915-04-16,1915-04-30,4,4,0,0,0,0,0,0,0,0,0,4
 1915,American Association,regular,P3735435,Midkiff,,Louisville,1915-04-15,1915-04-27,12,0,0,1,11,0,0,0,0,0,0,0
 1915,American Association,regular,P4031864,Miller,,Columbus,1915-04-15,1915-04-30,11,0,11,0,0,0,0,0,0,0,0,0
@@ -118,11 +118,11 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,American Association,regular,P9011000,Miller,R.,Columbus,1915-04-24,1915-04-27,2,0,2,0,0,0,0,0,0,0,0,0
 1915,American Association,regular,P2848270,Miller [COL],,Columbus,1915-04-25,1915-04-26,2,0,2,0,0,0,0,0,0,0,0,0
 1915,American Association,regular,P9274878,Miller [LOU],,Louisville,1915-04-25,1915-04-26,2,0,0,2,0,0,0,0,0,0,0,0
-1915,American Association,regular,P7651254,Mitchell,,Indianapolis,1915-04-22,1915-04-29,2,0,0,0,0,1,0,0,0,0,0,0
+1915,American Association,regular,P7651254,Mitchell,,Indianapolis,1915-04-22,1915-04-29,3,0,0,0,0,2,0,0,0,0,0,0
 1915,American Association,regular,P2841498,Mitchell,,Minneapolis,1915-04-15,1915-04-30,7,0,0,0,1,0,4,0,0,4,0,0
 1915,American Association,regular,P5840165,Moore,,Kansas City,1915-04-16,1915-04-29,11,0,0,0,0,0,0,0,0,0,11,0
 1915,American Association,regular,P4944363,Niles,,St. Paul,1915-04-15,1915-04-30,15,0,0,15,0,0,0,0,0,0,0,0
-1915,American Association,regular,P2648515,Nixon,,Cleveland,1915-04-15,1915-04-30,14,0,0,0,0,0,14,0,2,12,0,0
+1915,American Association,regular,P2648515,Nixon,,Cleveland,1915-04-15,1915-04-30,15,0,0,0,0,0,15,0,2,13,0,0
 1915,American Association,regular,P1869723,North,,St. Paul,1915-04-16,1915-04-22,3,3,0,0,0,0,0,0,0,0,0,3
 1915,American Association,regular,P5312493,Northrop,,Louisville,1915-04-15,1915-04-27,4,4,0,0,0,0,0,0,0,0,0,4
 1915,American Association,regular,P3521260,O'Toole,,Columbus,1915-04-18,1915-04-27,2,2,0,0,0,0,0,0,0,0,0,2
@@ -136,7 +136,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,American Association,regular,P6405931,Randall,,Milwaukee,1915-04-15,1915-04-30,15,0,0,0,0,0,15,1,0,14,0,0
 1915,American Association,regular,P2316050,Rath,,Kansas City,1915-04-15,1915-04-30,14,0,0,0,14,0,1,0,1,0,0,0
 1915,American Association,regular,P6486641,Reagan,,Kansas City,1915-04-15,1915-04-30,7,5,0,0,0,0,0,0,0,0,0,5
-1915,American Association,regular,P0747802,Reilley,,Indianapolis,1915-04-16,1915-04-30,11,0,0,0,0,0,11,11,0,0,0,0
+1915,American Association,regular,P0747802,Reilley,,Indianapolis,1915-04-16,1915-04-30,12,0,0,0,0,0,12,12,0,0,0,0
 1915,American Association,regular,P1968693,Reilly,,Indianapolis,1915-04-15,1915-04-24,3,0,0,0,0,0,3,3,0,0,0,0
 1915,American Association,regular,P2654596,Riggert,,St. Paul,1915-04-15,1915-04-30,15,0,0,0,0,0,15,0,15,0,0,0
 1915,American Association,regular,P5703890,Robbins,,Kansas City,1915-04-18,1915-04-18,1,1,0,0,0,0,0,0,0,0,0,1
@@ -153,19 +153,19 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,American Association,regular,P4544568,Slight,,Milwaukee,1915-04-18,1915-04-21,4,0,0,0,0,0,0,0,0,0,0,0
 1915,American Association,regular,P5837741,Smith,,Minneapolis,1915-04-16,1915-04-30,13,0,0,0,13,0,0,0,0,0,0,0
 1915,American Association,regular,P5873817,South'h,,Cleveland,1915-04-18,1915-04-18,1,0,0,0,0,0,1,1,0,0,0,0
-1915,American Association,regular,P0653936,Southw'h,,Cleveland,1915-04-15,1915-04-26,5,0,0,0,0,0,5,5,0,0,0,0
+1915,American Association,regular,P0653936,Southw'h,,Cleveland,1915-04-15,1915-04-27,6,0,0,0,0,0,6,6,0,0,0,0
 1915,American Association,regular,P6290654,Southworth,,Cleveland,1915-04-20,1915-04-30,6,0,0,0,0,0,5,5,0,0,0,0
 1915,American Association,regular,P3718972,Stansb'y,,Louisville,1915-04-16,1915-04-29,3,0,0,1,1,0,1,1,0,0,0,0
 1915,American Association,regular,P1898524,Stansbury,,Louisville,1915-04-15,1915-04-30,10,0,0,7,3,0,0,0,0,0,0,0
 1915,American Association,regular,P5556146,Steele,,St. Paul,1915-04-15,1915-04-29,5,5,0,0,0,0,0,0,0,0,0,5
 1915,American Association,regular,P9350710,Sullivan,,Minneapolis,1915-04-15,1915-04-30,10,0,0,0,0,0,0,0,0,0,10,0
 1915,American Association,regular,P8186348,Taylor,,Louisville,1915-04-21,1915-04-30,3,3,0,0,0,0,0,0,0,0,0,3
-1915,American Association,regular,P9021778,Tipple,,Indianapolis,1915-04-17,1915-04-30,2,2,0,0,0,0,0,0,0,0,0,2
+1915,American Association,regular,P9021778,Tipple,,Indianapolis,1915-04-17,1915-04-30,3,3,0,0,0,0,0,0,0,0,0,3
 1915,American Association,regular,P4645244,Titus,,Kansas City,1915-04-15,1915-04-30,14,0,0,0,0,0,14,0,1,13,0,0
 1915,American Association,regular,P2298611,Turner,,Columbus,1915-04-16,1915-04-28,4,4,0,0,0,0,0,0,0,0,0,4
 1915,American Association,regular,P0056804,Weinberg,,Louisville,1915-04-15,1915-04-30,15,0,15,0,0,0,0,0,0,0,0,0
 1915,American Association,regular,P8255666,Wiley,,Minneapolis,1915-04-29,1915-04-29,1,1,0,0,0,0,0,0,0,0,0,1
-1915,American Association,regular,P4043953,Wilie,,Cleveland,1915-04-17,1915-04-30,11,0,0,0,0,0,11,0,11,0,0,0
+1915,American Association,regular,P4043953,Wilie,,Cleveland,1915-04-17,1915-04-30,12,0,0,0,0,0,12,0,12,0,0,0
 1915,American Association,regular,P2301758,Willey,,Minneapolis,1915-04-19,1915-04-19,1,1,0,0,0,0,0,0,0,0,0,1
 1915,American Association,regular,P8291449,Williams,,Cleveland,1915-04-18,1915-04-18,1,0,0,0,0,0,1,0,1,0,0,0
 1915,American Association,regular,P6194666,Williams,,Minneapolis,1915-04-16,1915-04-29,2,0,1,1,0,0,0,0,0,0,0,0
@@ -190,7 +190,6 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,International League,regular,P0190278,Ball,,Richmond,1915-04-27,1915-05-01,4,0,0,3,1,0,0,0,0,0,0,0
 1915,International League,regular,P3659459,Barney,,Jersey City,1915-04-29,1915-05-01,2,0,0,0,0,0,2,0,2,0,0,0
 1915,International League,regular,P4978146,Barry,,Jersey City,1915-04-29,1915-05-01,2,0,2,0,0,0,0,0,0,0,0,0
-1915,International League,regular,P9499729,Bassler,,Cleveland,1915-04-27,1915-04-27,1,0,0,0,0,0,0,0,0,0,1,0
 1915,International League,regular,P3296282,Bates,,Richmond,1915-04-27,1915-05-01,4,0,0,0,0,0,4,1,3,0,0,0
 1915,International League,regular,P8648943,Beatty,,Rochester,1915-04-29,1915-04-29,1,0,0,0,0,0,0,0,0,0,0,0
 1915,International League,regular,P8023689,Beebe,,Buffalo,1915-04-29,1915-04-29,1,1,0,0,0,0,0,0,0,0,0,1
@@ -201,13 +200,9 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,International League,regular,P5379166,Breck'e,,Richmond,1915-04-29,1915-04-29,1,0,0,0,0,0,1,0,0,1,0,0
 1915,International League,regular,P8720977,Brecken'e,,Richmond,1915-04-28,1915-04-28,1,0,0,0,0,0,1,1,0,0,0,0
 1915,International League,regular,P3087568,Breckenridge,,Richmond,1915-05-01,1915-05-01,1,0,0,0,0,0,1,0,0,1,0,0
-1915,International League,regular,P6630109,Brenton,,Cleveland,1915-04-27,1915-04-27,1,1,0,0,0,0,0,0,0,0,0,1
-1915,International League,regular,P6602076,Bronkie,,Indianapolis,1915-04-27,1915-04-27,1,0,0,0,1,0,0,0,0,0,0,0
 1915,International League,regular,P0447348,Brown,,Toronto,1915-04-27,1915-05-01,4,0,0,0,0,0,4,3,1,0,0,0
 1915,International League,regular,P2521585,Bues,,Jersey City,1915-04-29,1915-05-01,2,0,0,0,2,0,0,0,0,0,0,0
-1915,International League,regular,P0925215,Butcher,,Indianapolis,1915-04-27,1915-04-27,1,0,0,0,0,0,1,0,0,1,0,0
 1915,International League,regular,P3090707,Callahan,,Newark,1915-04-29,1915-05-01,2,0,0,0,0,0,2,0,2,0,0,0
-1915,International League,regular,P6983628,Cantwell,,Indianapolis,1915-04-27,1915-04-27,1,1,0,0,0,0,0,0,0,0,0,1
 1915,International League,regular,P2990931,Carlst'm,,Buffalo,1915-05-01,1915-05-01,1,0,0,0,0,1,0,0,0,0,0,0
 1915,International League,regular,P1454541,Carlstrom,,Buffalo,1915-04-28,1915-04-29,2,0,1,0,1,0,0,0,0,0,0,0
 1915,International League,regular,P0595403,Casey,,Buffalo,1915-05-01,1915-05-01,1,0,0,0,0,0,0,0,0,0,1,0
@@ -216,19 +211,15 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,International League,regular,P2364269,Clemens,,Rochester,1915-04-29,1915-05-01,2,0,0,0,0,0,2,2,0,0,0,0
 1915,International League,regular,P9522355,Collins,,Newark,1915-04-29,1915-04-29,1,0,0,0,0,0,1,1,0,0,0,0
 1915,International League,regular,P0389678,Cooper,,Providence,1915-04-29,1915-04-29,1,1,0,0,0,0,0,0,0,0,0,1
-1915,International League,regular,P3048819,Crandall,,Indianapolis,1915-04-27,1915-04-27,1,0,0,1,0,0,0,0,0,0,0,0
 1915,International League,regular,P1606740,Crane,,Richmond,1915-04-27,1915-05-01,4,0,0,0,0,4,0,0,0,0,0,0
 1915,International League,regular,P7372891,Devlin,,Montreal,1915-05-01,1915-05-01,1,0,1,0,0,0,0,0,0,0,0,0
 1915,International League,regular,P8464453,Duchesnil,,Rochester,1915-05-01,1915-05-01,1,1,0,0,0,0,0,0,0,0,0,1
 1915,International League,regular,P1128491,Erwin,,Rochester,1915-04-29,1915-05-01,2,0,0,0,0,0,0,0,0,0,2,0
-1915,International League,regular,P6052738,Evans,,Cleveland,1915-04-27,1915-04-27,1,0,0,0,0,1,0,0,0,0,0,0
 1915,International League,regular,P5418005,Fabrique,,Providence,1915-04-28,1915-05-01,3,0,0,0,0,3,0,0,0,0,0,0
 1915,International League,regular,P0419959,Fullenwider,,Buffalo,1915-05-01,1915-05-01,1,1,0,0,0,0,0,0,0,0,0,1
-1915,International League,regular,P5749128,Gardner,,Cleveland,1915-04-27,1915-04-27,1,0,0,1,0,0,0,0,0,0,0,0
 1915,International League,regular,P4277320,Geyer,,Toronto,1915-04-27,1915-04-27,1,1,0,0,0,0,0,0,0,0,0,1
 1915,International League,regular,P5353410,Gilhooley,,Buffalo,1915-04-28,1915-05-01,3,0,0,0,0,0,3,0,3,0,0,0
 1915,International League,regular,P5641934,Gill,,Providence,1915-04-28,1915-05-01,3,0,0,0,3,0,0,0,0,0,0,0
-1915,International League,regular,P9455067,Gossett,,Indianapolis,1915-04-27,1915-04-27,1,0,0,0,0,0,0,0,0,0,1,0
 1915,International League,regular,P6699548,Graham,,Toronto,1915-04-27,1915-05-01,4,0,1,0,0,0,3,0,0,3,0,0
 1915,International League,regular,P8238641,Halstein,,Montreal,1915-04-29,1915-04-29,1,0,1,0,0,0,0,0,0,0,0,0
 1915,International League,regular,P0618543,Heckinger,,Newark,1915-04-29,1915-05-01,2,0,0,0,0,0,0,0,0,0,2,0
@@ -248,11 +239,8 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,International League,regular,P3295018,Jordan,,Toronto,1915-04-27,1915-04-29,3,0,3,0,0,0,0,0,0,0,0,0
 1915,International League,regular,P6408197,Judge,,Buffalo,1915-04-28,1915-05-01,3,0,3,0,0,0,0,0,0,0,0,0
 1915,International League,regular,P8426809,Keating,,Buffalo,1915-04-28,1915-04-29,2,0,0,0,0,2,0,0,0,0,0,0
-1915,International League,regular,P5937555,Kelly,,Indianapolis,1915-04-27,1915-04-27,1,0,0,0,0,0,1,0,1,0,0,0
 1915,International League,regular,P7508365,Kelly,,Toronto,1915-04-27,1915-04-27,1,0,0,0,0,0,0,0,0,0,1,0
-1915,International League,regular,P4653403,Kirke,,Cleveland,1915-04-27,1915-04-27,1,0,0,0,1,0,0,0,0,0,0,0
 1915,International League,regular,P6812507,Knight,,Buffalo,1915-04-29,1915-04-29,1,0,0,0,0,1,0,0,0,0,0,0
-1915,International League,regular,P0882058,Knight,,Cleveland,1915-04-27,1915-04-27,1,0,1,0,0,0,0,0,0,0,0,0
 1915,International League,regular,P3485346,Kocher,,Providence,1915-04-28,1915-05-01,3,0,0,0,0,0,0,0,0,0,3,0
 1915,International League,regular,P3169465,Konnick,,Toronto,1915-04-28,1915-05-01,3,0,0,0,0,0,0,0,0,0,3,0
 1915,International League,regular,P6697322,Kores,,Rochester,1915-04-29,1915-05-01,2,0,0,2,0,0,0,0,0,0,0,0
@@ -266,17 +254,12 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,International League,regular,P9437442,Masterson,,Providence,1915-04-28,1915-04-28,1,0,0,0,0,0,0,0,0,0,0,0
 1915,International League,regular,P2646609,McCarthy,,Buffalo,1915-04-28,1915-05-01,3,0,0,3,0,0,0,0,0,0,0,0
 1915,International League,regular,P9239324,McInnis,,Richmond,1915-04-27,1915-05-01,4,0,4,0,0,0,0,0,0,0,0,0
-1915,International League,regular,P8923455,McMillan,,Indianapolis,1915-04-27,1915-04-27,1,0,0,0,0,1,0,0,0,0,0,0
 1915,International League,regular,P1659418,McTigue,,Toronto,1915-04-28,1915-04-28,1,1,0,0,0,0,0,0,0,0,0,1
-1915,International League,regular,P1058448,Merz,,Indianapolis,1915-04-27,1915-04-27,1,1,0,0,0,0,0,0,0,0,0,1
 1915,International League,regular,P2909263,Messenger,,Rochester,1915-04-29,1915-05-01,2,0,0,0,0,0,0,0,0,0,0,0
-1915,International League,regular,P2145362,Metz,,Indianapolis,1915-04-27,1915-04-27,1,0,1,0,0,0,0,0,0,0,0,0
 1915,International League,regular,P5867518,Miller,,Montreal,1915-04-29,1915-04-29,1,1,0,0,0,0,0,0,0,0,0,1
-1915,International League,regular,P4862500,Mitchell,,Indianapolis,1915-04-27,1915-04-27,1,0,0,0,0,1,0,0,0,0,0,0
 1915,International League,regular,P0001625,Morrisette,,Richmond,1915-04-28,1915-04-28,1,1,0,0,0,0,0,0,0,0,0,1
 1915,International League,regular,P5642423,Mowe,,Newark,1915-04-29,1915-05-01,2,0,0,1,0,1,0,0,0,0,0,0
 1915,International League,regular,P8850015,Murray,,Newark,1915-04-29,1915-05-01,2,0,0,0,0,0,2,0,0,2,0,0
-1915,International League,regular,P2787249,Nixon,,Cleveland,1915-04-27,1915-04-27,1,0,0,0,0,0,1,0,0,1,0,0
 1915,International League,regular,P9861758,O'Hara,,Toronto,1915-04-28,1915-05-01,2,0,0,0,0,0,1,1,0,0,0,0
 1915,International League,regular,P6962901,O'Leary,,Jersey City,1915-04-29,1915-05-01,2,0,0,0,0,2,0,0,0,0,0,0
 1915,International League,regular,P3997320,Onslow,,Providence,1915-04-28,1915-05-01,3,0,3,0,0,0,0,0,0,0,0,0
@@ -285,7 +268,6 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,International League,regular,P2596509,Priest,,Rochester,1915-04-29,1915-05-01,2,0,0,0,2,0,0,0,0,0,0,0
 1915,International League,regular,P0575299,Priest,,Toronto,1915-04-27,1915-04-27,1,1,0,0,0,0,0,0,0,0,0,1
 1915,International League,regular,P8316097,Purtell,,Montreal,1915-04-29,1915-05-01,2,0,0,0,0,2,0,0,0,0,0,0
-1915,International League,regular,P0360264,Reilley,,Indianapolis,1915-04-27,1915-04-27,1,0,0,0,0,0,1,1,0,0,0,0
 1915,International League,regular,P1655666,Reynolds,,Jersey City,1915-04-29,1915-05-01,2,0,0,0,0,0,0,0,0,0,2,0
 1915,International League,regular,P6553674,Richter,,Montreal,1915-05-01,1915-05-01,1,1,0,0,0,0,0,0,0,0,0,1
 1915,International League,regular,P3675737,Roach,,Toronto,1915-04-27,1915-05-01,4,0,0,0,0,4,0,0,0,0,0,0
@@ -300,13 +282,11 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,International League,regular,P1228553,Shorten,,Providence,1915-04-28,1915-05-01,3,0,0,0,0,0,3,0,0,3,0,0
 1915,International League,regular,P2564254,Smith,,Montreal,1915-04-29,1915-05-01,2,0,0,0,0,0,2,0,0,2,0,0
 1915,International League,regular,P7045931,Smith,,Rochester,1915-04-29,1915-05-01,2,0,0,0,0,0,2,0,0,2,0,0
-1915,International League,regular,P6337694,Southw'h,,Cleveland,1915-04-27,1915-04-27,1,0,0,0,0,0,1,1,0,0,0,0
 1915,International League,regular,P3176058,Sterzer,,Richmond,1915-04-27,1915-05-01,2,2,0,0,0,0,0,0,0,0,0,2
 1915,International League,regular,P3779499,Stevenson,,Rochester,1915-04-29,1915-05-01,2,0,0,0,0,2,0,0,0,0,0,0
 1915,International League,regular,P3730056,Tamm,,Montreal,1915-04-29,1915-05-01,2,0,0,0,2,0,0,0,0,0,0,0
 1915,International League,regular,P5433076,Thorpe,,Jersey City,1915-04-29,1915-05-01,2,0,0,0,0,0,2,0,0,2,0,0
 1915,International League,regular,P8963359,Tierney,,Newark,1915-05-01,1915-05-01,1,0,0,0,0,0,1,1,0,0,0,0
-1915,International League,regular,P6585792,Tipple,,Indianapolis,1915-04-27,1915-04-27,1,1,0,0,0,0,0,0,0,0,0,1
 1915,International League,regular,P5306907,Tooley,,Newark,1915-04-29,1915-05-01,2,0,0,1,0,1,0,0,0,0,0,0
 1915,International League,regular,P9397002,Trout,,Toronto,1915-05-01,1915-05-01,1,0,0,0,0,0,0,0,0,0,0,0
 1915,International League,regular,P4816747,Truesdale,,Jersey City,1915-04-29,1915-05-01,2,0,0,2,0,0,0,0,0,0,0,0
@@ -315,7 +295,6 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,International League,regular,P1020595,Tyson,,Buffalo,1915-04-29,1915-04-29,1,1,0,0,0,0,0,0,0,0,0,1
 1915,International League,regular,P2218889,Verbout,,Jersey City,1915-04-29,1915-04-29,1,1,0,0,0,0,0,0,0,0,0,1
 1915,International League,regular,P6648918,Whiteman,,Montreal,1915-04-29,1915-05-01,2,0,0,0,0,0,2,0,2,0,0,0
-1915,International League,regular,P4182687,Wilie,,Cleveland,1915-04-27,1915-04-27,1,0,0,0,0,0,1,0,1,0,0,0
 1915,International League,regular,P8018280,Williams,,Rochester,1915-04-29,1915-05-01,2,1,0,0,0,0,0,0,0,0,1,1
 1915,International League,regular,P3330270,Witter,,Newark,1915-04-29,1915-04-29,1,0,0,0,0,0,0,0,0,0,0,0
 1915,International League,regular,P3315383,Wright,,Jersey City,1915-04-29,1915-05-01,2,0,0,0,0,0,2,2,0,0,0,0
