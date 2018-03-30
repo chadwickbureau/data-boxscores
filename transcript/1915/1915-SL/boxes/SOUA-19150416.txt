@@ -1035,8 +1035,9 @@ TOTALS:			25 2 6 27 16 0
 line: Mobile: 0 0 0 0 0 0 0 0 0 - 0
 line: New Orleans: 0 0 0 0 0 0 2 0 x - 2
 
-P_H: Covington #1; Durham #5; Cunningham #5
-P_R: Covington #0; Durham #2; Cunningham #2
+note: hits and runs listed as charged to Durham; glossing Smith
+P_H: Covington #1; Smith #5; Cunningham #5
+P_R: Covington #0; Smith #2; Cunningham #2
 P_IP: Covington #3.1; Cunningham #4.2
 B_2B: Dobard
 B_3B: Smith
