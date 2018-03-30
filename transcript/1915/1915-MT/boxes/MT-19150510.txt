@@ -449,7 +449,7 @@ source: Macon Telegraph, May 14, 1915
 
 Americus:	ab r h po a e
 Dunning @ cf:	5 0 3 5 0 0
-Wagnon @ lf:	4 0 0 1 0 0
+Wagnon @ rf:	4 0 0 1 0 0
 Manchester @ c:	4 0 0 4 2 0
 Guest @ 1b:	4 0 0 10 0 0
 Peddy @ p:	4 0 1 0 3 0
@@ -638,6 +638,7 @@ league: Florida-Alabama-Georgia
 away: Waycross 
 home: Americus
 source: Macon Telegraph, May 15, 1915
+note: two players listed at rf; move Wagnon to lf
 
 Waycross:	ab r h po a e
 Riggins @ 3b:	5 2 3 3 1 0
@@ -653,7 +654,7 @@ TOTALS:		42 13 11 27 6 2
 
 Americus:	ab r h po a e
 Dunning @ cf:	4 0 1 2 1 2
-Wagnon @ rf:	5 1 2 1 0 0
+Wagnon @ lf:	5 1 2 1 0 0
 Manchester @ c:	3 0 0 7 1 1 
 Guess @ 1b:	4 0 1 13 1 2
 Peddy @ rf:	4 0 0 1 0 0
