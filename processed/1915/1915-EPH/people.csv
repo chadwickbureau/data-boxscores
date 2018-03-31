@@ -1,153 +1,153 @@
-league.year,league.name,person.ref,person.name.last,person.name.given,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G
-1915,Rio Grande Association,P5865800,Andrada,,Phoenix,1915-06-23,1915-06-27,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Rio Grande Association,P3841545,Andrada,,Tucson,1915-05-05,1915-05-31,9,5,0,0,0,0,3,0,1,2,0,5
-1915,Rio Grande Association,P8314509,Andrade,,Tucson,1915-04-30,1915-04-30,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Rio Grande Association,P4469606,Archibold,,Tucson,1915-06-25,1915-06-25,1,0,0,0,0,0,1,0,0,1,0,0
-1915,Rio Grande Association,P9846819,Armstrong,,El Paso,1915-05-11,1915-05-16,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Rio Grande Association,P4652260,Barton,,Tucson,1915-04-27,1915-05-09,11,0,0,9,0,2,0,0,0,0,0,0
-1915,Rio Grande Association,P5711029,Bauer,,El Paso,1915-05-01,1915-06-29,51,0,1,2,0,0,50,1,47,2,0,0
-1915,Rio Grande Association,P7270084,Beer,,El Paso,1915-05-25,1915-06-27,14,10,0,0,0,0,1,0,0,1,0,10
-1915,Rio Grande Association,P6405477,Beer,,Las Cruces,1915-05-01,1915-05-23,9,6,0,0,0,0,3,0,0,3,0,6
-1915,Rio Grande Association,P7029774,Benallack,,Douglas,1915-05-20,1915-05-20,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Rio Grande Association,P2927541,Benjamin,,Douglas,1915-05-04,1915-05-18,3,0,2,0,1,0,0,0,0,0,0,0
-1915,Rio Grande Association,P8375949,Bennalach,,Douglas,1915-05-05,1915-05-07,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Rio Grande Association,P1581808,Bennalack,,Douglas,1915-05-13,1915-05-13,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Rio Grande Association,P8656284,Bennallack,,Douglas,1915-05-16,1915-05-16,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Rio Grande Association,P4271236,Black,,Las Cruces,1915-05-05,1915-05-23,11,4,0,0,0,0,5,1,1,3,0,4
-1915,Rio Grande Association,P1928035,Bliss,,El Paso,1915-05-11,1915-06-29,41,0,0,0,0,0,0,0,0,0,41,0
-1915,Rio Grande Association,P9190564,Bliss,,Las Cruces,1915-05-12,1915-05-23,10,0,0,0,0,0,0,0,0,0,10,0
-1915,Rio Grande Association,P1937577,Bliss,A. H.,Las Cruces,1915-05-08,1915-05-11,4,0,0,0,0,0,0,0,0,0,4,0
-1915,Rio Grande Association,P4870491,Bliss,J.,El Paso,1915-05-01,1915-06-09,11,0,0,0,0,0,0,0,0,0,10,0
-1915,Rio Grande Association,P2081446,Bliss,T.,Las Cruces,1915-05-01,1915-05-05,4,0,0,0,0,0,0,0,0,0,4,0
-1915,Rio Grande Association,P4954117,Bower,,El Paso,1915-05-21,1915-05-21,1,0,0,0,0,0,1,0,1,0,0,0
-1915,Rio Grande Association,P6180494,Brainerd,,Las Cruces,1915-05-01,1915-05-02,2,0,0,0,0,0,2,0,0,2,0,0
-1915,Rio Grande Association,P9046790,Brashaer,,Tucson,1915-05-01,1915-05-02,2,0,2,0,0,0,0,0,0,0,0,0
-1915,Rio Grande Association,P2496774,Brashear,,Tucson,1915-04-27,1915-06-03,6,1,3,0,0,0,0,0,0,0,0,1
-1915,Rio Grande Association,P5309093,Brown,,Phoenix,1915-04-27,1915-06-03,16,0,0,1,2,0,7,0,5,2,0,0
-1915,Rio Grande Association,P8110875,Calla,,Tucson,1915-05-29,1915-05-29,1,0,0,0,0,0,0,0,0,0,1,0
-1915,Rio Grande Association,P7052137,Callan,,Tucson,1915-04-30,1915-06-29,45,0,0,0,0,0,0,0,0,0,45,0
-1915,Rio Grande Association,P4659949,Callen,,Tucson,1915-05-15,1915-05-18,2,0,0,0,0,0,0,0,0,0,2,0
-1915,Rio Grande Association,P0643936,Carman,,Albuquerque,1915-05-04,1915-06-13,23,0,0,0,0,0,23,16,6,1,0,0
-1915,Rio Grande Association,P0782477,Cassell,,El Paso,1915-05-01,1915-05-02,2,0,0,0,0,0,2,1,0,1,0,0
-1915,Rio Grande Association,P6358327,Claflin,,Tucson,1915-05-28,1915-05-28,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Rio Grande Association,P4706088,Cox,,Tucson,1915-04-27,1915-05-09,11,0,0,0,0,0,11,2,2,8,0,0
-1915,Rio Grande Association,P8668517,Davis,,Albuquerque,1915-05-04,1915-06-29,34,1,0,0,28,0,6,5,0,1,0,1
-1915,Rio Grande Association,P8152570,DeMaggio,,Phoenix,1915-06-10,1915-06-13,2,0,0,0,0,0,2,2,0,0,0,0
-1915,Rio Grande Association,P8073498,Demaggio,,Phoenix,1915-04-27,1915-06-29,49,0,0,0,0,0,49,42,7,0,0,0
-1915,Rio Grande Association,P0650225,Dowling,,Phoenix,1915-04-27,1915-06-29,51,0,0,51,0,1,0,0,0,0,0,0
-1915,Rio Grande Association,P4611008,Duddy,,El Paso,1915-05-01,1915-06-29,52,0,0,0,52,0,0,0,0,0,0,0
-1915,Rio Grande Association,P0862337,Earthman,,Douglas,1915-05-13,1915-05-23,10,0,0,2,0,0,9,0,0,9,0,0
-1915,Rio Grande Association,P2739147,Fannin,,Douglas,1915-05-05,1915-05-21,3,0,0,0,0,0,1,0,0,1,1,0
-1915,Rio Grande Association,P5975314,Fanning,,Douglas,1915-05-08,1915-05-08,1,0,0,0,0,0,0,0,0,0,1,0
-1915,Rio Grande Association,P2316988,Felts,,Tucson,1915-04-27,1915-06-29,45,1,0,0,0,0,44,0,43,1,0,1
-1915,Rio Grande Association,P6459693,Flaherty,,Albuquerque,1915-05-25,1915-05-25,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Rio Grande Association,P5580205,Fleharty,,Albuquerque,1915-05-30,1915-06-27,9,8,0,1,0,0,1,1,0,0,0,8
-1915,Rio Grande Association,P7316529,Fleherty,,Albuquerque,1915-06-08,1915-06-08,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Rio Grande Association,P9929188,French,,Albuquerque,1915-05-04,1915-06-29,32,0,0,32,0,0,0,0,0,0,0,0
-1915,Rio Grande Association,P4343272,Fuller,,Tucson,1915-04-27,1915-05-23,20,0,8,0,0,0,12,0,0,12,1,0
-1915,Rio Grande Association,P5009477,Fulweider,,Tucson,1915-04-27,1915-06-17,18,12,1,0,0,0,5,1,0,4,0,12
-1915,Rio Grande Association,P8089056,Fulwider,,Tucson,1915-06-08,1915-06-27,9,6,1,0,0,0,3,0,0,3,0,6
-1915,Rio Grande Association,P4785158,Galt,,Tucson,1915-05-02,1915-05-22,7,5,0,0,0,0,0,0,0,0,0,5
-1915,Rio Grande Association,P4691867,Goldie,,Las Cruces,1915-05-01,1915-05-23,14,0,0,0,0,0,13,2,11,0,2,0
-1915,Rio Grande Association,P0689153,Gooch,,Douglas,1915-05-04,1915-05-23,13,0,0,0,13,0,0,0,0,0,0,0
-1915,Rio Grande Association,P0241857,Graham,,Douglas,1915-05-21,1915-05-21,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Rio Grande Association,P0399385,Gray,,El Paso,1915-05-05,1915-05-12,6,0,6,0,0,0,0,0,0,0,0,0
-1915,Rio Grande Association,P0319202,Greenberg,,Douglas,1915-05-22,1915-05-23,2,0,0,0,0,0,2,2,0,0,0,0
-1915,Rio Grande Association,P9948274,Greenburg,,Douglas,1915-05-04,1915-05-20,8,0,0,0,0,3,6,6,0,0,0,0
-1915,Rio Grande Association,P4774366,Hall,,Phoenix,1915-04-27,1915-06-25,26,21,2,0,0,0,4,0,0,4,0,21
-1915,Rio Grande Association,P9290129,Harriett,,Albuquerque,1915-05-12,1915-05-12,1,0,1,0,0,0,0,0,0,0,0,0
-1915,Rio Grande Association,P6042528,Hayes,,El Paso,1915-05-01,1915-06-17,40,0,0,1,0,0,40,34,4,3,0,0
-1915,Rio Grande Association,P7565717,Herriett,,Albuquerque,1915-05-05,1915-05-05,1,0,1,0,0,0,0,0,0,0,0,0
-1915,Rio Grande Association,P3000287,Herriott,,Albuquerque,1915-05-04,1915-06-29,32,0,32,0,0,0,0,0,0,0,0,0
-1915,Rio Grande Association,P8317704,Hester,,Phoenix,1915-04-30,1915-06-29,49,3,34,1,12,0,2,2,1,0,0,3
-1915,Rio Grande Association,P0817482,Horstman,,Tucson,1915-05-01,1915-06-19,17,16,0,0,0,0,0,0,0,0,0,16
-1915,Rio Grande Association,P7773451,Huelsman,,Albuquerque,1915-05-12,1915-06-29,31,0,0,0,0,0,31,1,0,30,0,0
-1915,Rio Grande Association,P0636211,Humphreys,,Albuquerque,1915-05-04,1915-05-04,1,0,0,0,0,1,0,0,0,0,0,0
-1915,Rio Grande Association,P0359459,Humphries,,Albuquerque,1915-05-05,1915-06-29,33,0,0,0,0,33,0,0,0,0,0,0
-1915,Rio Grande Association,P8046368,Hurley,,Las Cruces,1915-05-01,1915-05-23,15,0,15,0,0,0,0,0,0,0,0,0
-1915,Rio Grande Association,P6822927,Irion,,Albuquerque,1915-05-05,1915-06-29,19,17,0,0,0,0,2,2,0,0,0,17
-1915,Rio Grande Association,P5967692,Jardon,,Albuquerque,1915-05-07,1915-05-09,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Rio Grande Association,P2797708,Jordan,,Albuquerque,1915-05-12,1915-06-26,12,12,0,1,0,0,0,0,0,0,0,12
-1915,Rio Grande Association,P5287824,Jorden,,Albuquerque,1915-05-04,1915-05-04,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Rio Grande Association,P2689653,Kallen,,Tucson,1915-04-29,1915-04-29,1,0,0,0,0,0,0,0,0,0,1,0
-1915,Rio Grande Association,P9250754,Kallio,,El Paso,1915-05-26,1915-06-29,9,9,0,0,0,0,0,0,0,0,0,9
-1915,Rio Grande Association,P5743267,Kallio,,Las Cruces,1915-05-02,1915-05-23,7,7,0,0,0,0,0,0,0,0,0,7
-1915,Rio Grande Association,P8955371,Knight,,El Paso,1915-05-01,1915-06-29,37,18,8,0,0,0,9,1,0,8,0,18
-1915,Rio Grande Association,P0100233,Kraft,,Douglas,1915-05-04,1915-05-23,17,0,0,0,0,0,0,0,0,0,17,0
-1915,Rio Grande Association,P1476205,Lamb,,Douglas,1915-05-18,1915-05-18,1,0,0,0,0,0,1,1,0,0,0,0
-1915,Rio Grande Association,P5206461,Lee,,Las Cruces,1915-05-01,1915-05-21,12,0,0,6,0,0,6,0,3,3,0,0
-1915,Rio Grande Association,P5601386,Lewis,,El Paso,1915-05-01,1915-05-23,10,9,1,0,0,0,0,0,0,0,0,9
-1915,Rio Grande Association,P5490622,Lynn,,Phoenix,1915-04-27,1915-06-29,50,0,0,0,1,0,0,0,0,0,50,0
-1915,Rio Grande Association,P0781462,Mac Murdo,,Tucson,1915-05-18,1915-05-18,1,0,1,0,0,0,0,0,0,0,0,0
-1915,Rio Grande Association,P5708310,MacMurdo,,Tucson,1915-05-16,1915-06-29,33,0,31,1,1,0,0,0,0,0,1,0
-1915,Rio Grande Association,P6018248,Mathes,,El Paso,1915-05-11,1915-06-29,45,0,39,4,0,0,4,0,1,3,0,0
-1915,Rio Grande Association,P8813365,McArdle,,Phoenix,1915-04-27,1915-06-29,51,2,0,0,0,51,0,0,0,0,0,2
-1915,Rio Grande Association,P8989302,McAvoy,,Las Cruces,1915-05-01,1915-05-23,10,0,0,1,7,2,0,0,0,0,0,0
-1915,Rio Grande Association,P6878541,McAvoy,,Tucson,1915-06-08,1915-06-08,1,0,0,1,0,0,0,0,0,0,0,0
-1915,Rio Grande Association,P2963024,McCloskey,,El Paso,1915-05-01,1915-05-02,2,0,0,0,0,0,0,0,0,0,0,0
-1915,Rio Grande Association,P1158571,McConell,,Tucson,1915-06-24,1915-06-24,1,0,0,0,0,0,1,0,0,1,0,0
-1915,Rio Grande Association,P6246380,McConnell,,Douglas,1915-05-04,1915-05-23,10,8,0,0,0,0,0,0,0,0,0,8
-1915,Rio Grande Association,P7079833,McConnell,,Tucson,1915-06-02,1915-06-29,10,7,0,0,0,0,2,0,0,2,0,7
-1915,Rio Grande Association,P9878963,McCreary,,Phoenix,1915-04-29,1915-06-22,3,3,0,0,0,0,0,0,0,0,0,3
-1915,Rio Grande Association,P4786231,McCreery,,Phoenix,1915-05-02,1915-06-26,20,20,0,0,0,0,0,0,0,0,0,20
-1915,Rio Grande Association,P6390806,McGeehan,,Tucson,1915-04-27,1915-06-29,48,3,0,0,46,0,0,0,0,0,0,3
-1915,Rio Grande Association,P9322367,McGilvray,,Douglas,1915-05-11,1915-05-23,12,0,12,0,0,0,0,0,0,0,0,0
-1915,Rio Grande Association,P5805291,McGilvray,,Phoenix,1915-06-15,1915-06-29,14,0,14,0,0,0,0,0,0,0,0,0
-1915,Rio Grande Association,P6273150,McGlynn,,El Paso,1915-05-01,1915-06-26,20,17,0,0,0,0,1,0,0,1,0,17
-1915,Rio Grande Association,P0448405,McMurdo,,Tucson,1915-05-15,1915-05-15,1,0,1,0,0,0,0,0,0,0,0,0
-1915,Rio Grande Association,P9453374,McNeal,,Albuquerque,1915-06-23,1915-06-23,1,0,0,0,0,0,1,1,0,0,0,0
-1915,Rio Grande Association,P4433606,McNeil,,Albuquerque,1915-06-22,1915-06-29,6,0,0,0,5,0,1,1,0,0,0,0
-1915,Rio Grande Association,P6240265,McNeil,,Douglas,1915-05-11,1915-05-23,10,1,0,0,0,10,0,0,0,0,0,1
-1915,Rio Grande Association,P3521973,McNeill,,Douglas,1915-05-12,1915-05-13,2,0,0,0,0,2,0,0,0,0,0,0
-1915,Rio Grande Association,P4948553,Meason,,El Paso,1915-05-02,1915-05-02,1,0,0,1,0,0,0,0,0,0,0,0
-1915,Rio Grande Association,P8808403,Murphy,,Albuquerque,1915-05-04,1915-06-29,34,0,0,0,0,0,34,6,28,0,0,0
-1915,Rio Grande Association,P4551688,Nutt,,Phoenix,1915-04-27,1915-06-29,51,0,1,0,0,1,47,0,5,43,4,0
-1915,Rio Grande Association,P3157391,Pendleton,,El Paso,1915-05-01,1915-06-29,52,0,0,0,0,51,0,0,0,0,1,0
-1915,Rio Grande Association,P3471355,Perrine,,El Paso,1915-05-04,1915-06-29,50,0,4,46,0,0,0,0,0,0,0,0
-1915,Rio Grande Association,P1273876,Pfleiger,,El Paso,1915-06-17,1915-06-29,12,0,0,0,0,0,12,12,0,1,0,0
-1915,Rio Grande Association,P0678581,Pfleiger,,Las Cruces,1915-05-01,1915-05-23,15,1,0,0,0,0,14,11,3,0,0,1
-1915,Rio Grande Association,P6249740,Pfleiger,,Tucson,1915-06-12,1915-06-13,2,0,0,0,0,0,2,0,0,2,0,0
-1915,Rio Grande Association,P9088186,Pittman,,Phoenix,1915-04-27,1915-06-06,28,0,0,0,0,0,28,0,28,0,0,0
-1915,Rio Grande Association,P4026193,Quigley,,Douglas,1915-05-04,1915-05-23,13,0,0,13,0,0,0,0,0,0,0,0
-1915,Rio Grande Association,P2415606,Radel,,Albuquerque,1915-05-23,1915-05-23,1,0,0,0,0,0,0,0,0,0,1,0
-1915,Rio Grande Association,P6466124,Rader,,Tucson,1915-05-15,1915-06-29,16,0,0,0,0,16,0,0,0,0,0,0
-1915,Rio Grande Association,P1305595,Raedel,,Albuquerque,1915-05-04,1915-06-29,42,0,0,0,0,0,0,0,0,0,42,0
-1915,Rio Grande Association,P1642311,Raedell,,Albuquerque,1915-05-07,1915-05-18,5,0,0,0,0,0,0,0,0,0,5,0
-1915,Rio Grande Association,P2327873,Raeder,,Albuquerque,1915-05-25,1915-05-25,1,0,0,0,0,0,0,0,0,0,1,0
-1915,Rio Grande Association,P8485297,Raeder,,Tucson,1915-05-16,1915-06-25,19,0,0,0,0,19,0,0,0,0,0,0
-1915,Rio Grande Association,P7096966,Ritchie,,Tucson,1915-05-29,1915-05-31,3,0,0,0,0,0,3,0,0,3,0,0
-1915,Rio Grande Association,P8836464,Rogers,,Tucson,1915-06-26,1915-06-26,1,0,0,0,0,0,0,0,0,0,0,0
-1915,Rio Grande Association,P7981304,Ross,,Douglas,1915-05-07,1915-05-22,12,6,0,0,0,0,5,3,0,2,0,6
-1915,Rio Grande Association,P0483128,Russell,,Albuquerque,1915-06-06,1915-06-27,9,7,0,0,0,0,2,1,0,1,0,7
-1915,Rio Grande Association,P0979313,Russell,,Las Cruces,1915-05-02,1915-05-22,10,4,0,0,0,0,5,0,0,5,0,4
-1915,Rio Grande Association,P0567871,Salazar,,Douglas,1915-05-04,1915-05-05,2,0,0,0,0,0,2,2,0,0,0,0
-1915,Rio Grande Association,P7050795,Salazar,,Phoenix,1915-06-11,1915-06-11,1,0,0,0,0,0,1,0,0,1,0,0
-1915,Rio Grande Association,P7478539,Scanlon,,Phoenix,1915-04-27,1915-06-24,44,0,2,0,38,0,4,0,0,4,0,0
-1915,Rio Grande Association,P9116497,Seaton,,Las Cruces,1915-05-01,1915-05-23,15,0,0,7,8,0,0,0,0,0,0,0
-1915,Rio Grande Association,P7799336,Seaton,,Tucson,1915-06-08,1915-06-13,6,0,0,5,0,0,1,0,0,1,0,0
-1915,Rio Grande Association,P3963953,Shreck,,Douglas,1915-05-21,1915-05-21,1,0,0,0,0,0,1,1,0,0,0,0
-1915,Rio Grande Association,P9000214,Slagel,,Tucson,1915-06-25,1915-06-25,1,0,0,0,0,0,1,0,0,1,0,0
-1915,Rio Grande Association,P9486198,Slagle,,Tucson,1915-05-31,1915-06-29,15,7,0,0,0,0,8,0,0,8,0,7
-1915,Rio Grande Association,P6693131,Sonoqui,,Phoenix,1915-05-31,1915-06-03,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Rio Grande Association,P4734192,Stadelli,,Tucson,1915-04-27,1915-06-29,45,0,0,0,0,0,45,44,2,0,0,0
-1915,Rio Grande Association,P9641460,Stadilli,,Tucson,1915-04-29,1915-04-29,1,0,0,0,0,0,1,1,0,0,0,0
-1915,Rio Grande Association,P6365686,Stevens,,Albuquerque,1915-05-22,1915-06-03,7,4,0,0,0,0,0,0,0,0,0,4
-1915,Rio Grande Association,P4167238,Stevens,,Tucson,1915-04-29,1915-04-29,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Rio Grande Association,P3668187,Stewart,,Douglas,1915-05-04,1915-05-23,14,0,0,0,0,0,14,0,14,0,0,0
-1915,Rio Grande Association,P0151111,Stewart,,Phoenix,1915-06-17,1915-06-29,12,0,0,0,0,0,12,5,7,0,0,0
-1915,Rio Grande Association,P6429326,Stolaroff,,Tucson,1915-05-22,1915-05-22,1,0,0,1,0,0,0,0,0,0,0,0
-1915,Rio Grande Association,P1746509,Stroloff,,Tucson,1915-04-27,1915-06-29,38,0,0,29,0,9,0,0,0,0,0,0
-1915,Rio Grande Association,P0978963,Sullinger,,Tucson,1915-05-23,1915-05-26,3,0,0,0,0,0,3,1,0,2,0,0
-1915,Rio Grande Association,P4647614,Thompson,,El Paso,1915-05-02,1915-06-29,50,0,0,0,0,0,48,10,1,42,4,0
-1915,Rio Grande Association,P8541957,Toner,,Phoenix,1915-05-01,1915-06-29,24,20,3,0,0,0,0,0,0,0,0,20
-1915,Rio Grande Association,P6557653,Trekel,,Albuquerque,1915-05-29,1915-05-29,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Rio Grande Association,P4960225,Trekell,,Albuquerque,1915-05-04,1915-06-16,11,7,0,2,2,0,0,0,0,0,0,7
-1915,Rio Grande Association,P8466197,Waldenschmidt,,Albuquerque,1915-05-07,1915-05-15,3,3,0,0,0,0,0,0,0,0,0,3
-1915,Rio Grande Association,P0706565,Waldenschmidt,,Tucson,1915-05-20,1915-05-20,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Rio Grande Association,P0864674,Waldschmidt,,Albuquerque,1915-05-12,1915-05-12,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Rio Grande Association,P9436927,Ward,,Douglas,1915-05-04,1915-05-13,5,0,0,1,0,0,5,0,0,5,0,0
-1915,Rio Grande Association,P6698332,Wilde,,Las Cruces,1915-05-04,1915-05-23,13,0,0,0,0,13,0,0,0,0,0,0
-1915,Rio Grande Association,P6106799,Young,,Phoenix,1915-04-27,1915-05-02,3,0,0,0,2,0,1,0,0,1,0,0
-1915,Rio Grande Association,P2080476,Zamloch,,Albuquerque,1915-05-04,1915-05-31,5,2,0,0,0,0,1,0,0,1,0,2
-1915,Rio Grande Association,P7591615,Zamlock,,Albuquerque,1915-05-09,1915-05-23,6,5,0,0,0,0,0,0,0,0,0,5
-1915,Rio Grande Association,P0497330,Zonoqui,,Phoenix,1915-05-29,1915-05-29,1,1,0,0,0,0,0,0,0,0,0,1
+league.year,league.name,league.phase,person.ref,person.name.last,person.name.given,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G
+1915,Rio Grande Association,regular,P5865800,Andrada,,Phoenix,1915-06-23,1915-06-27,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Rio Grande Association,regular,P3841545,Andrada,,Tucson,1915-05-05,1915-05-31,9,5,0,0,0,0,3,0,1,2,0,5
+1915,Rio Grande Association,regular,P8314509,Andrade,,Tucson,1915-04-30,1915-04-30,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Rio Grande Association,regular,P4469606,Archibold,,Tucson,1915-06-25,1915-06-25,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Rio Grande Association,regular,P9846819,Armstrong,,El Paso,1915-05-11,1915-05-16,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Rio Grande Association,regular,P4652260,Barton,,Tucson,1915-04-27,1915-05-09,11,0,0,9,0,2,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P5711029,Bauer,,El Paso,1915-05-01,1915-06-29,51,0,1,2,0,0,50,1,47,2,0,0
+1915,Rio Grande Association,regular,P7270084,Beer,,El Paso,1915-05-25,1915-06-27,14,10,0,0,0,0,1,0,0,1,0,10
+1915,Rio Grande Association,regular,P6405477,Beer,,Las Cruces,1915-05-01,1915-05-23,9,6,0,0,0,0,3,0,0,3,0,6
+1915,Rio Grande Association,regular,P7029774,Benallack,,Douglas,1915-05-20,1915-05-20,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Rio Grande Association,regular,P2927541,Benjamin,,Douglas,1915-05-04,1915-05-18,3,0,2,0,1,0,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P8375949,Bennalach,,Douglas,1915-05-05,1915-05-07,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Rio Grande Association,regular,P1581808,Bennalack,,Douglas,1915-05-13,1915-05-13,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Rio Grande Association,regular,P8656284,Bennallack,,Douglas,1915-05-16,1915-05-16,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Rio Grande Association,regular,P4271236,Black,,Las Cruces,1915-05-05,1915-05-23,11,4,0,0,0,0,5,1,1,3,0,4
+1915,Rio Grande Association,regular,P1928035,Bliss,,El Paso,1915-05-11,1915-06-29,41,0,0,0,0,0,0,0,0,0,41,0
+1915,Rio Grande Association,regular,P9190564,Bliss,,Las Cruces,1915-05-12,1915-05-23,10,0,0,0,0,0,0,0,0,0,10,0
+1915,Rio Grande Association,regular,P1937577,Bliss,A. H.,Las Cruces,1915-05-08,1915-05-11,4,0,0,0,0,0,0,0,0,0,4,0
+1915,Rio Grande Association,regular,P4870491,Bliss,J.,El Paso,1915-05-01,1915-06-09,11,0,0,0,0,0,0,0,0,0,10,0
+1915,Rio Grande Association,regular,P2081446,Bliss,T.,Las Cruces,1915-05-01,1915-05-05,4,0,0,0,0,0,0,0,0,0,4,0
+1915,Rio Grande Association,regular,P4954117,Bower,,El Paso,1915-05-21,1915-05-21,1,0,0,0,0,0,1,0,1,0,0,0
+1915,Rio Grande Association,regular,P6180494,Brainerd,,Las Cruces,1915-05-01,1915-05-02,2,0,0,0,0,0,2,0,0,2,0,0
+1915,Rio Grande Association,regular,P9046790,Brashaer,,Tucson,1915-05-01,1915-05-02,2,0,2,0,0,0,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P2496774,Brashear,,Tucson,1915-04-27,1915-06-03,6,1,3,0,0,0,0,0,0,0,0,1
+1915,Rio Grande Association,regular,P5309093,Brown,,Phoenix,1915-04-27,1915-06-03,16,0,0,1,2,0,7,0,5,2,0,0
+1915,Rio Grande Association,regular,P8110875,Calla,,Tucson,1915-05-29,1915-05-29,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Rio Grande Association,regular,P7052137,Callan,,Tucson,1915-04-30,1915-06-29,45,0,0,0,0,0,0,0,0,0,45,0
+1915,Rio Grande Association,regular,P4659949,Callen,,Tucson,1915-05-15,1915-05-18,2,0,0,0,0,0,0,0,0,0,2,0
+1915,Rio Grande Association,regular,P0643936,Carman,,Albuquerque,1915-05-04,1915-06-13,23,0,0,0,0,0,23,16,6,1,0,0
+1915,Rio Grande Association,regular,P0782477,Cassell,,El Paso,1915-05-01,1915-05-02,2,0,0,0,0,0,2,1,0,1,0,0
+1915,Rio Grande Association,regular,P6358327,Claflin,,Tucson,1915-05-28,1915-05-28,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Rio Grande Association,regular,P4706088,Cox,,Tucson,1915-04-27,1915-05-09,11,0,0,0,0,0,11,2,2,8,0,0
+1915,Rio Grande Association,regular,P8668517,Davis,,Albuquerque,1915-05-04,1915-06-29,34,1,0,0,28,0,6,5,0,1,0,1
+1915,Rio Grande Association,regular,P8152570,DeMaggio,,Phoenix,1915-06-10,1915-06-13,2,0,0,0,0,0,2,2,0,0,0,0
+1915,Rio Grande Association,regular,P8073498,Demaggio,,Phoenix,1915-04-27,1915-06-29,49,0,0,0,0,0,49,42,7,0,0,0
+1915,Rio Grande Association,regular,P0650225,Dowling,,Phoenix,1915-04-27,1915-06-29,51,0,0,51,0,1,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P4611008,Duddy,,El Paso,1915-05-01,1915-06-29,52,0,0,0,52,0,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P0862337,Earthman,,Douglas,1915-05-13,1915-05-23,10,0,0,2,0,0,9,0,0,9,0,0
+1915,Rio Grande Association,regular,P2739147,Fannin,,Douglas,1915-05-05,1915-05-21,3,0,0,0,0,0,1,0,0,1,1,0
+1915,Rio Grande Association,regular,P5975314,Fanning,,Douglas,1915-05-08,1915-05-08,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Rio Grande Association,regular,P2316988,Felts,,Tucson,1915-04-27,1915-06-29,45,1,0,0,0,0,44,0,43,1,0,1
+1915,Rio Grande Association,regular,P6459693,Flaherty,,Albuquerque,1915-05-25,1915-05-25,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Rio Grande Association,regular,P5580205,Fleharty,,Albuquerque,1915-05-30,1915-06-27,9,8,0,1,0,0,1,1,0,0,0,8
+1915,Rio Grande Association,regular,P7316529,Fleherty,,Albuquerque,1915-06-08,1915-06-08,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Rio Grande Association,regular,P9929188,French,,Albuquerque,1915-05-04,1915-06-29,32,0,0,32,0,0,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P4343272,Fuller,,Tucson,1915-04-27,1915-05-23,20,0,8,0,0,0,12,0,0,12,1,0
+1915,Rio Grande Association,regular,P5009477,Fulweider,,Tucson,1915-04-27,1915-06-17,18,12,1,0,0,0,5,1,0,4,0,12
+1915,Rio Grande Association,regular,P8089056,Fulwider,,Tucson,1915-06-08,1915-06-27,9,6,1,0,0,0,3,0,0,3,0,6
+1915,Rio Grande Association,regular,P4785158,Galt,,Tucson,1915-05-02,1915-05-22,7,5,0,0,0,0,0,0,0,0,0,5
+1915,Rio Grande Association,regular,P4691867,Goldie,,Las Cruces,1915-05-01,1915-05-23,14,0,0,0,0,0,13,2,11,0,2,0
+1915,Rio Grande Association,regular,P0689153,Gooch,,Douglas,1915-05-04,1915-05-23,13,0,0,0,13,0,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P0241857,Graham,,Douglas,1915-05-21,1915-05-21,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Rio Grande Association,regular,P0399385,Gray,,El Paso,1915-05-05,1915-05-12,6,0,6,0,0,0,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P0319202,Greenberg,,Douglas,1915-05-22,1915-05-23,2,0,0,0,0,0,2,2,0,0,0,0
+1915,Rio Grande Association,regular,P9948274,Greenburg,,Douglas,1915-05-04,1915-05-20,8,0,0,0,0,3,6,6,0,0,0,0
+1915,Rio Grande Association,regular,P4774366,Hall,,Phoenix,1915-04-27,1915-06-25,26,21,2,0,0,0,4,0,0,4,0,21
+1915,Rio Grande Association,regular,P9290129,Harriett,,Albuquerque,1915-05-12,1915-05-12,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P6042528,Hayes,,El Paso,1915-05-01,1915-06-17,40,0,0,1,0,0,40,34,4,3,0,0
+1915,Rio Grande Association,regular,P7565717,Herriett,,Albuquerque,1915-05-05,1915-05-05,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P3000287,Herriott,,Albuquerque,1915-05-04,1915-06-29,32,0,32,0,0,0,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P8317704,Hester,,Phoenix,1915-04-30,1915-06-29,49,3,34,1,12,0,2,2,1,0,0,3
+1915,Rio Grande Association,regular,P0817482,Horstman,,Tucson,1915-05-01,1915-06-19,17,16,0,0,0,0,0,0,0,0,0,16
+1915,Rio Grande Association,regular,P7773451,Huelsman,,Albuquerque,1915-05-12,1915-06-29,31,0,0,0,0,0,31,1,0,30,0,0
+1915,Rio Grande Association,regular,P0636211,Humphreys,,Albuquerque,1915-05-04,1915-05-04,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P0359459,Humphries,,Albuquerque,1915-05-05,1915-06-29,33,0,0,0,0,33,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P8046368,Hurley,,Las Cruces,1915-05-01,1915-05-23,15,0,15,0,0,0,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P6822927,Irion,,Albuquerque,1915-05-05,1915-06-29,19,17,0,0,0,0,2,2,0,0,0,17
+1915,Rio Grande Association,regular,P5967692,Jardon,,Albuquerque,1915-05-07,1915-05-09,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Rio Grande Association,regular,P2797708,Jordan,,Albuquerque,1915-05-12,1915-06-26,12,12,0,1,0,0,0,0,0,0,0,12
+1915,Rio Grande Association,regular,P5287824,Jorden,,Albuquerque,1915-05-04,1915-05-04,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Rio Grande Association,regular,P2689653,Kallen,,Tucson,1915-04-29,1915-04-29,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Rio Grande Association,regular,P9250754,Kallio,,El Paso,1915-05-26,1915-06-29,9,9,0,0,0,0,0,0,0,0,0,9
+1915,Rio Grande Association,regular,P5743267,Kallio,,Las Cruces,1915-05-02,1915-05-23,7,7,0,0,0,0,0,0,0,0,0,7
+1915,Rio Grande Association,regular,P8955371,Knight,,El Paso,1915-05-01,1915-06-29,37,18,8,0,0,0,9,1,0,8,0,18
+1915,Rio Grande Association,regular,P0100233,Kraft,,Douglas,1915-05-04,1915-05-23,17,0,0,0,0,0,0,0,0,0,17,0
+1915,Rio Grande Association,regular,P1476205,Lamb,,Douglas,1915-05-18,1915-05-18,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Rio Grande Association,regular,P5206461,Lee,,Las Cruces,1915-05-01,1915-05-21,12,0,0,6,0,0,6,0,3,3,0,0
+1915,Rio Grande Association,regular,P5601386,Lewis,,El Paso,1915-05-01,1915-05-23,10,9,1,0,0,0,0,0,0,0,0,9
+1915,Rio Grande Association,regular,P5490622,Lynn,,Phoenix,1915-04-27,1915-06-29,50,0,0,0,1,0,0,0,0,0,50,0
+1915,Rio Grande Association,regular,P0781462,Mac Murdo,,Tucson,1915-05-18,1915-05-18,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P5708310,MacMurdo,,Tucson,1915-05-16,1915-06-29,33,0,31,1,1,0,0,0,0,0,1,0
+1915,Rio Grande Association,regular,P6018248,Mathes,,El Paso,1915-05-11,1915-06-29,45,0,39,4,0,0,4,0,1,3,0,0
+1915,Rio Grande Association,regular,P8813365,McArdle,,Phoenix,1915-04-27,1915-06-29,51,2,0,0,0,51,0,0,0,0,0,2
+1915,Rio Grande Association,regular,P8989302,McAvoy,,Las Cruces,1915-05-01,1915-05-23,10,0,0,1,7,2,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P6878541,McAvoy,,Tucson,1915-06-08,1915-06-08,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P2963024,McCloskey,,El Paso,1915-05-01,1915-05-02,2,0,0,0,0,0,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P1158571,McConell,,Tucson,1915-06-24,1915-06-24,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Rio Grande Association,regular,P6246380,McConnell,,Douglas,1915-05-04,1915-05-23,10,8,0,0,0,0,0,0,0,0,0,8
+1915,Rio Grande Association,regular,P7079833,McConnell,,Tucson,1915-06-02,1915-06-29,10,7,0,0,0,0,2,0,0,2,0,7
+1915,Rio Grande Association,regular,P9878963,McCreary,,Phoenix,1915-04-29,1915-06-22,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Rio Grande Association,regular,P4786231,McCreery,,Phoenix,1915-05-02,1915-06-26,20,20,0,0,0,0,0,0,0,0,0,20
+1915,Rio Grande Association,regular,P6390806,McGeehan,,Tucson,1915-04-27,1915-06-29,48,3,0,0,46,0,0,0,0,0,0,3
+1915,Rio Grande Association,regular,P9322367,McGilvray,,Douglas,1915-05-11,1915-05-23,12,0,12,0,0,0,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P5805291,McGilvray,,Phoenix,1915-06-15,1915-06-29,14,0,14,0,0,0,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P6273150,McGlynn,,El Paso,1915-05-01,1915-06-26,20,17,0,0,0,0,1,0,0,1,0,17
+1915,Rio Grande Association,regular,P0448405,McMurdo,,Tucson,1915-05-15,1915-05-15,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P9453374,McNeal,,Albuquerque,1915-06-23,1915-06-23,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Rio Grande Association,regular,P4433606,McNeil,,Albuquerque,1915-06-22,1915-06-29,6,0,0,0,5,0,1,1,0,0,0,0
+1915,Rio Grande Association,regular,P6240265,McNeil,,Douglas,1915-05-11,1915-05-23,10,1,0,0,0,10,0,0,0,0,0,1
+1915,Rio Grande Association,regular,P3521973,McNeill,,Douglas,1915-05-12,1915-05-13,2,0,0,0,0,2,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P4948553,Meason,,El Paso,1915-05-02,1915-05-02,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P8808403,Murphy,,Albuquerque,1915-05-04,1915-06-29,34,0,0,0,0,0,34,6,28,0,0,0
+1915,Rio Grande Association,regular,P4551688,Nutt,,Phoenix,1915-04-27,1915-06-29,51,0,1,0,0,1,47,0,5,43,4,0
+1915,Rio Grande Association,regular,P3157391,Pendleton,,El Paso,1915-05-01,1915-06-29,52,0,0,0,0,51,0,0,0,0,1,0
+1915,Rio Grande Association,regular,P3471355,Perrine,,El Paso,1915-05-04,1915-06-29,50,0,4,46,0,0,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P1273876,Pfleiger,,El Paso,1915-06-17,1915-06-29,12,0,0,0,0,0,12,12,0,1,0,0
+1915,Rio Grande Association,regular,P0678581,Pfleiger,,Las Cruces,1915-05-01,1915-05-23,15,1,0,0,0,0,14,11,3,0,0,1
+1915,Rio Grande Association,regular,P6249740,Pfleiger,,Tucson,1915-06-12,1915-06-13,2,0,0,0,0,0,2,0,0,2,0,0
+1915,Rio Grande Association,regular,P9088186,Pittman,,Phoenix,1915-04-27,1915-06-06,28,0,0,0,0,0,28,0,28,0,0,0
+1915,Rio Grande Association,regular,P4026193,Quigley,,Douglas,1915-05-04,1915-05-23,13,0,0,13,0,0,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P2415606,Radel,,Albuquerque,1915-05-23,1915-05-23,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Rio Grande Association,regular,P6466124,Rader,,Tucson,1915-05-15,1915-06-29,16,0,0,0,0,16,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P1305595,Raedel,,Albuquerque,1915-05-04,1915-06-29,42,0,0,0,0,0,0,0,0,0,42,0
+1915,Rio Grande Association,regular,P1642311,Raedell,,Albuquerque,1915-05-07,1915-05-18,5,0,0,0,0,0,0,0,0,0,5,0
+1915,Rio Grande Association,regular,P2327873,Raeder,,Albuquerque,1915-05-25,1915-05-25,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Rio Grande Association,regular,P8485297,Raeder,,Tucson,1915-05-16,1915-06-25,19,0,0,0,0,19,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P7096966,Ritchie,,Tucson,1915-05-29,1915-05-31,3,0,0,0,0,0,3,0,0,3,0,0
+1915,Rio Grande Association,regular,P8836464,Rogers,,Tucson,1915-06-26,1915-06-26,1,0,0,0,0,0,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P7981304,Ross,,Douglas,1915-05-07,1915-05-22,12,6,0,0,0,0,5,3,0,2,0,6
+1915,Rio Grande Association,regular,P0483128,Russell,,Albuquerque,1915-06-06,1915-06-27,9,7,0,0,0,0,2,1,0,1,0,7
+1915,Rio Grande Association,regular,P0979313,Russell,,Las Cruces,1915-05-02,1915-05-22,10,4,0,0,0,0,5,0,0,5,0,4
+1915,Rio Grande Association,regular,P0567871,Salazar,,Douglas,1915-05-04,1915-05-05,2,0,0,0,0,0,2,2,0,0,0,0
+1915,Rio Grande Association,regular,P7050795,Salazar,,Phoenix,1915-06-11,1915-06-11,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Rio Grande Association,regular,P7478539,Scanlon,,Phoenix,1915-04-27,1915-06-24,44,0,2,0,38,0,4,0,0,4,0,0
+1915,Rio Grande Association,regular,P9116497,Seaton,,Las Cruces,1915-05-01,1915-05-23,15,0,0,7,8,0,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P7799336,Seaton,,Tucson,1915-06-08,1915-06-13,6,0,0,5,0,0,1,0,0,1,0,0
+1915,Rio Grande Association,regular,P3963953,Shreck,,Douglas,1915-05-21,1915-05-21,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Rio Grande Association,regular,P9000214,Slagel,,Tucson,1915-06-25,1915-06-25,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Rio Grande Association,regular,P9486198,Slagle,,Tucson,1915-05-31,1915-06-29,15,7,0,0,0,0,8,0,0,8,0,7
+1915,Rio Grande Association,regular,P6693131,Sonoqui,,Phoenix,1915-05-31,1915-06-03,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Rio Grande Association,regular,P4734192,Stadelli,,Tucson,1915-04-27,1915-06-29,45,0,0,0,0,0,45,44,2,0,0,0
+1915,Rio Grande Association,regular,P9641460,Stadilli,,Tucson,1915-04-29,1915-04-29,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Rio Grande Association,regular,P6365686,Stevens,,Albuquerque,1915-05-22,1915-06-03,7,4,0,0,0,0,0,0,0,0,0,4
+1915,Rio Grande Association,regular,P4167238,Stevens,,Tucson,1915-04-29,1915-04-29,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Rio Grande Association,regular,P3668187,Stewart,,Douglas,1915-05-04,1915-05-23,14,0,0,0,0,0,14,0,14,0,0,0
+1915,Rio Grande Association,regular,P0151111,Stewart,,Phoenix,1915-06-17,1915-06-29,12,0,0,0,0,0,12,5,7,0,0,0
+1915,Rio Grande Association,regular,P6429326,Stolaroff,,Tucson,1915-05-22,1915-05-22,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P1746509,Stroloff,,Tucson,1915-04-27,1915-06-29,38,0,0,29,0,9,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P0978963,Sullinger,,Tucson,1915-05-23,1915-05-26,3,0,0,0,0,0,3,1,0,2,0,0
+1915,Rio Grande Association,regular,P4647614,Thompson,,El Paso,1915-05-02,1915-06-29,50,0,0,0,0,0,48,10,1,42,4,0
+1915,Rio Grande Association,regular,P8541957,Toner,,Phoenix,1915-05-01,1915-06-29,24,20,3,0,0,0,0,0,0,0,0,20
+1915,Rio Grande Association,regular,P6557653,Trekel,,Albuquerque,1915-05-29,1915-05-29,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Rio Grande Association,regular,P4960225,Trekell,,Albuquerque,1915-05-04,1915-06-16,11,7,0,2,2,0,0,0,0,0,0,7
+1915,Rio Grande Association,regular,P8466197,Waldenschmidt,,Albuquerque,1915-05-07,1915-05-15,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Rio Grande Association,regular,P0706565,Waldenschmidt,,Tucson,1915-05-20,1915-05-20,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Rio Grande Association,regular,P0864674,Waldschmidt,,Albuquerque,1915-05-12,1915-05-12,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Rio Grande Association,regular,P9436927,Ward,,Douglas,1915-05-04,1915-05-13,5,0,0,1,0,0,5,0,0,5,0,0
+1915,Rio Grande Association,regular,P6698332,Wilde,,Las Cruces,1915-05-04,1915-05-23,13,0,0,0,0,13,0,0,0,0,0,0
+1915,Rio Grande Association,regular,P6106799,Young,,Phoenix,1915-04-27,1915-05-02,3,0,0,0,2,0,1,0,0,1,0,0
+1915,Rio Grande Association,regular,P2080476,Zamloch,,Albuquerque,1915-05-04,1915-05-31,5,2,0,0,0,0,1,0,0,1,0,2
+1915,Rio Grande Association,regular,P7591615,Zamlock,,Albuquerque,1915-05-09,1915-05-23,6,5,0,0,0,0,0,0,0,0,0,5
+1915,Rio Grande Association,regular,P0497330,Zonoqui,,Phoenix,1915-05-29,1915-05-29,1,1,0,0,0,0,0,0,0,0,0,1
