@@ -1,0 +1,911 @@
+date: 1915-05-24
+number: 0
+league: Florida-Alabama-Georgia
+away: Orphans
+home: Brunswick
+source: Macon Telegraph, May 25, 1915
+
+Orphans:	ab r h po a e
+Dunning @ cf:	4 0 1 1 0 1
+Wagnon @ lf:	3 1 2 2 0 0
+Hodge @ ss:	4 0 1 1 1 1
+Blackwell @ 2b:	4 0 2 3 2 0
+Guess @ 1b:	4 0 0 11 2 0
+Wilkes @ c:	2 0 1 4 1 0
+Selph @ 3b:	4 0 0 2 4 2
+Shuman @ rf:	4 0 1 0 0 0
+Peddy @ p:	4 1 1 0 3 0
+TOTALS:		33 2 9 24 13 4
+
+Brunswick:	ab r h po a e
+Reilly @ 2b:	5 0 1 3 3 0
+Jordan @ c:	3 0 0 6 0 0
+Weiler @ ss:	4 1 2 2 5 0
+Willard @ lf:	4 1 2 1 0 0
+Reynolds @ rf:	4 1 2 0 1 0
+Bope @ 1b:	4 1 0 12 0 0
+Nance @ 3b:	4 1 4 1 1 0
+Rafferty @ cf:	3 1 2 2 1 0 
+McFarlan @ p:	4 0 0 0 1 0
+TOTALS:		35 6 13 27 12 0
+
+line: Orphans:   0 0 1 0 0 1 0 0 0 - 2
+line: Brunswick: 2 0 0 2 0 0 0 2 x - 6
+
+B_2B: Willard; Reynolds #2; Blackwell; Dunning
+B_SB: Weiler; Wagnon; Wilkes
+B_SH: Jordan; Wagnon
+B_HP: Wilkes
+P_BB: McFarlan #1
+P_SO: Peddy #2; McFarlan #6
+P_HP: McFarlan
+F_DP: Dunning, Selph, Blackwell   
+F_PB: Peddy #2
+T: 1:55
+U: Mitchell
+
+---
+
+date: 1915-05-24
+number: 0
+league: Florida-Alabama-Georgia
+away: Thomasville
+home: Dothan
+source: Macon Telegraph, May 25, 1915
+
+Thomasville:	ab r h po a e
+Anderson @ ss:	3 0 0 2 6 0
+Parker @ 3b:	4 0 1 0 0 0
+Brazier @ lf:	4 0 1 2 0 0
+Utley @ 1b:	3 1 0 10 0 0
+Conly @ rf:	4 1 1 0 0 0
+Wicker @ cf:	4 0 1 3 0 0
+Murch @ 2b:	4 0 0 3 1 0
+Sheppard @ c:	3 0 1 7 2 0
+Pearson @ p:	3 0 0 0 2 0
+TOTALS:		32 2 5 27 11 0
+
+Dothan:		ab r h po a e
+Reidy @ cf:	2 1 0 2 1 0
+Heck @ 3b:	3 0 0 3 2 0
+Spitznagle @ 2b:	4 0 1 6 3 1
+Paschal @ rf:	4 0 0 0 1 0
+Chambers @ 1b:	4 0 0 7 1 0
+Hall @ rf:	2 0 0 2 0 0
+Burress @ ss:	3 0 0 3 2 0
+Turner @ c:	3 0 1 4 0 0
+Hodge @ p:	3 0 0 0 3 0
+TOTALS:		28 1 2 27 13 1
+
+line: Thomasville: 0 0 0 0 2 0 0 0 0 - 2
+line: Dothan:      1 0 0 0 0 0 0 0 0 - 1
+
+B_2B: Conly
+B_SB: Reidy; Spitznagle
+B_SH: Heck
+B_HP: Hall; Reidy
+P_BB: Hodge #2; Pearson #1
+P_SO: Hodge #4; Pearson #6
+P_HP: Pearson #2
+F_PB: Sheppard
+T: 1:45
+U: LaRocque
+
+---
+
+date: 1915-05-24
+number: 0
+league: Florida-Alabama-Georgia
+away: Valdosta
+home: Waycross
+source: Macon Telegraph, May 25, 1915
+
+Valdosta:	ab r h po a e
+Corbett @ rf:	4 0 0 0 0 0
+Stewart @ 3b:	4 0 3 1 3 1
+Medlock @ lf:	4 0 0 5 0 0
+McMillan @ cf:	4 0 1 4 0 0
+Schwartz @ ss:	4 1 0 0 7 0
+Jordan @ 2b:	4 0 0 2 0 0
+Coffy @ 1b:	4 0 1 11 0 0
+Taylor @ c:	4 0 1 2 2 0
+Barze @ p:	3 1 1 0 0 0
+Vaughn @ p:	0 0 0 0 0 0
+TOTALS:		35 2 7 25 12 1
+
+Waycross:	ab r h po a e
+Riggins @ 3b:	4 0 0 1 3 0
+Clark @ ss:	4 0 2 0 2 0 
+Burke @ cf:	4 0 0 4 0 0
+Gandy @ 2b:	3 0 0 0 3 0
+Reynolds @ c:	4 1 1 9 0 1
+Antley @ rf:	3 1 2 2 0 1
+Stacy @ lf:	3 0 0 0 0 1
+Barber @ 1b:	3 1 2 10 0 0
+Gardner @ p:	3 0 0 1 1 0
+TOTALS:		31 3 7 27 9 3
+
+line: Valdosta: 0 0 0 0 0 0 0 1 1 - 2
+line: Waycross: 0 0 1 0 0 0 0 0 2 - 3
+
+B_2B: McMillan; Stewart; Barber
+B_HR: Barber; Reynolds
+B_SB: Barze; Clark
+B_SH: Stacy
+P_BB: Barze #3
+P_SO: Barze #1; Gardner #8
+P_H: Barze #6; Vaughn #1
+P_IP: Barze #8.1
+outsatend: 1
+T: 1:40
+U: White
+
+---
+
+date: 1915-05-25
+number: 0
+league: Florida-Alabama-Georgia
+away: Orphans
+home: Brunswick
+source: Macon Telegraph, May 26, 1915
+note: only 8 players listed in Orphans boxscore; Shuman added to box
+
+Orphans:	ab r h po a e
+Dunning @ cf:	6 0 1 2 0 0
+Wagnon @ lf:	6 1 2 7 0 0
+Hodge @ ss:	5 1 0 2 1 0
+Blackwell @ 2b:	6 0 2 2 2 2
+Guess @ 1b:	4 1 0 11 0 0
+Wilkes @ c:	6 1 2 11 4 0
+Selph @ 3b:	6 0 0 2 0 0
+Shuman @ rf:	4 0 2 2 3 1
+Sporr @ p:	5 0 1 0 3 1
+TOTALS:		48 4 10 39 13 4
+
+Brunswick:	ab r h po a e
+Reilly @ 2b:	6 0 2 1 3 2
+Jordan @ c:	6 0 3 5 1 0
+Weiler @ ss:	5 0 1 5 2 1
+Willard @ lf:	5 0 2 4 1 0
+Reynolds @ rf:	6 2 2 2 0 0
+Bope @ 1b:	6 1 2 17 0 0
+Nance @ 3b:	5 0 1 2 3 1
+Rafferty @ cf:	6 0 0 2 1 1
+Hawkins @ p:	6 0 0 0 8 0
+TOTALS:		51 4 12 38 14 5
+
+line: Orphans:   2 0 0 0 0 0 0 0 0 0 2 - 4
+line: Brunswick: 0 1 0 1 0 0 0 0 0 0 2 - 4
+
+B_2B: Wagnon
+B_3B: Wilkes
+B_SB: Reynolds; Nance; Jordan
+B_SH: Nance; Willard
+B_HP: Weiler; Shuman; Guess
+B_XO: Blackwell, cutting bag
+P_BB: Hawkins #2 
+P_SO: Sporr #6; Hawkins #4
+P_HP: Sporr; Hawkins #2
+F_DP: Wilkes, Selph; Jordan, Weiler, Nance; Weiler, Reilly, Bope  
+T: 2:30
+U: Mitchell
+
+---
+
+date: 1915-05-25
+number: 0
+league: Florida-Alabama-Georgia
+away: Thomasville
+home: Dothan
+source: Macon Telegraph, May 26, 1915
+
+Thomasville:	ab r h po a e
+Anderson @ ss:	4 0 0 1 5 2
+Parker @ 3b:	4 0 1 0 3 0
+Brazier @ lf:	4 0 0 1 0 1
+Utley @ 1b-p:	3 0 0 15 0 0
+Conly @ rf:	3 1 0 1 0 0
+Wicker @ cf:	4 0 0 1 0 1
+Murch @ 2b:	2 0 0 4 7 0
+Sheppard @ c:	2 0 0 0 0 0
+Winges @ p:	3 0 0 0 3 2
+Sikes @ 1b:	0 0 0 1 0 0
+TOTALS:		39 1 1 24 18 6
+
+Dothan:		ab r h po a e
+Reidy @ cf:	2 2 1 1 0 0
+Heck @ 3b:	3 0 1 2 0 1
+Spitznagle @ 2b:	4 2 2 2 2 1
+Paschal @ rf:	4 1 1 2 0 0
+Chambers @ 1b:	4 2 3 7 0 0
+Parks @ rf:	5 1 1 1 0 0
+Burress @ ss:	3 0 1 0 3 0
+Turner @ c:	5 1 2 12 1 1
+Poole @ p:	5 1 1 0 2 0
+TOTALS:		35 10 14 27 8 3
+
+line: Thomasville: 0 0 0 0 0 0 1 0 0 - 1
+line: Dothan:      2 3 2 1 0 1 2 0 x - 10
+
+B_2B: Reidy; Paschal; Chambers #2; Burress
+B_SB: Spitznagle; Chambers; Turner
+B_SH: Reidy; Heck; Spitznagle; Burress
+B_HP: Burress
+P_BB: Poole #3; Winges #3
+P_SO: Poole #10
+P_H: Winges #14
+P_IP: Winges #7.2; Utley #.1
+P_HP: Winges 
+F_DP: Murch, Anderson; Utley, Murch
+F_TP: Utley, Parker, Murch
+F_PB: Turner
+T: 1:50
+U: LaRoque
+
+---
+
+date: 1915-05-25
+number: 0
+league: Florida-Alabama-Georgia
+away: Valdosta
+home: Waycross
+source: Macon Telegraph, May 26, 1915
+
+Valdosta:	ab r h po a e
+Corbett @ rf:	5 0 0 0 0 0
+Stewart @ 3b:	5 0 1 3 3 0
+Medlock @ lf:	5 0 0 3 0 0
+McMillan @ cf:	3 1 1 2 0 0
+Schwartz @ ss:	3 0 1 2 4 1
+Jordan @ 2b:	4 0 0 3 5 0
+Coffy @ 1b:	3 0 0 12 2 1
+Taylor @ c:	3 0 0 6 1 0
+Sloan @ p:	4 0 1 1 2 0
+TOTALS:		35 1 4 32 17 2
+
+Waycross:	ab r h po a e
+Riggins @ 3b:	5 0 0 0 2 0
+Clark @ ss:	5 0 0 3 4 1
+Burke @ cf:	5 0 1 1 0 0
+Gandy @ 2b:	3 2 0 1 3 0
+Reynolds @ c:	4 0 2 9 2 0
+Antley @ rf:	5 0 1 2 0 0
+Stacy @ lf:	3 0 1 1 0 0 
+Barber @ 1b:	2 0 0 16 0 0
+Vaiden @ p:	3 0 0 0 3 0
+TOTALS:		35 2 5 33 14 1
+
+line: Valdosta: 0 0 0 1 0 0 0 0 0 0 0 - 1
+line: Waycross: 0 0 0 0 0 0 1 0 0 0 1 - 2
+
+B_2B: McMillan
+B_SB: Gandy #2; Reynolds; Barber
+B_SH: Taylor; Antley; Barber; Vaiden
+P_BB: Sloan #5; Vaiden #2
+P_SO: Sloan #6; Vaiden #6
+F_DP: Coffy, Jordan
+outsatend: 2
+T: 2:00
+U: White
+
+---
+
+date: 1915-05-26
+number: 0
+league: Florida-Alabama-Georgia
+away: Thomasville
+home: Dothan
+source: Macon Telegraph, May 27, 1915
+
+Thomasville:	ab r h po a e
+Anderson @ ss:	5 0 1 3 3 0
+Parker @ 3b:	5 0 0 1 1 3
+Brazier @ lf:	5 1 0 5 0 0
+Utley @ 1b:	4 0 1 9 0 0
+Conly @ rf:	5 1 1 3 1 0
+Wicker @ cf:	4 1 1 1 0 0
+Murch @ 2b:	5 1 1 4 1 0
+Sheppard @ c:	4 1 0 3 1 0
+Sikes @ p:	4 0 2 1 4 0
+TOTALS:		41 5 7 30 11 3
+
+Dothan:		ab r h po a e
+Reidy @ cf:	3 1 0 2 0 0
+Heck @ 3b:	4 0 0 1 4 2
+Spitznagle @ 2b:	5 0 0 4 6 3
+Paschal @ rf:	5 2 1 3 0 0
+Chambers @ 1b:	4 0 2 10 0 0
+Parks @ rf:	4 0 1 0 1 0
+Burress @ ss:	4 0 2 1 2 0
+Turner @ c:	2 0 0 9 0 0
+Price @ p:	4 1 1 0 1 0
+TOTALS:		35 4 7 30 14 5
+
+line: Thomasville: 0 0 0 0 2 0 1 0 0 2 - 5
+line: Dothan:      0 0 2 1 0 0 0 0 0 1 - 4
+
+B_2B: Anderson; Conly
+B_HR: Price; Paschal
+B_SB: Chambers; Burress; Parker; Brazier; Utley; Sheppard; Sikes
+B_SH: Reidy; Heck; Turner
+P_BB: Price #3; Sikes #2
+P_SO: Price #4; Sikes #3
+F_DP: Burress, Spitznagle, Chambers 
+T: 1:55
+U: LaRocque
+
+---
+
+date: 1915-05-26
+number: 0
+league: Florida-Alabama-Georgia
+away: Valdosta
+home: Waycross
+source: Macon Telegraph, May 27, 1915
+
+Valdosta:	ab r h po a e
+Stewart @ 3b:	5 0 1 2 1 0
+Jordan @ 2b:	3 1 1 2 0 0
+Medlock @ lf:	3 0 0 2 1 0
+McMillan @ cf:	4 1 0 5 0 0
+Schwartz @ ss:	4 0 2 3 0 0
+Corbett @ rf-2b:	4 0 0 3 0 0
+Coffy @ 1b:	4 0 0 2 0 0
+Taylor @ c:	3 0 0 7 1 0
+Ery @ p:	4 0 0 0 0 0
+Sloan @ rf:	1 0 0 1 0 0
+TOTALS:		35 2 4 27 3 0
+
+Waycross:	ab r h po a e
+Riggins @ 3b:	4 0 1 1 3 1
+Clark @ ss:	4 0 0 0 5 2
+Burke @ cf:	4 0 2 3 0 1
+Gandy @ 2b:	4 0 0 2 1 3
+Reynolds @ c:	3 0 1 5 0 0
+Antley @ rf:	3 0 0 0 0 0
+Stacy @ lf:	3 0 0 4 0 0
+Barber @ 1b:	3 0 1 12 0 0
+Wiggins @ p:	2 0 0 0 3 0
+TOTALS:		30 0 5 27 12 7
+
+line: Valdosta: 0 0 1 0 0 0 0 1 0 - 2
+line: Waycross: 0 0 0 0 0 0 0 0 0 - 0
+
+B_2B: Schwartz; Stewart; Burke
+B_SH: Medlock
+B_HP: Wiggins
+P_BB: Wiggins #1
+P_SO: Ery #6; Wiggins #2
+P_HP: Ery
+T: 1:30
+U: White
+
+---
+
+date: 1915-05-26
+number: 1
+league: Florida-Alabama-Georgia
+away: Orphans
+home: Brunswick
+source: Macon Telegraph, May 27, 1915
+
+Orphans:	ab r h po a e
+Dunning @ cf:	4 1 0 0 0 0
+Wagnon @ lf:	4 0 0 1 0 0
+Hodge @ ss:	4 1 1 3 3 1
+Blackwell @ 2b:	3 1 0 3 3 0
+Guess @ 1b:	3 0 1 10 1 0
+Wilkes @ c:	4 1 1 6 1 0
+Selph @ 3b:	3 0 0 1 0 1
+Shuman @ rf:	3 0 0 2 0 0
+Mosely @ p:	3 0 2 1 5 0 
+TOTALS:		31 4 5 27 13 2
+
+Brunswick:	ab r h po a e
+Reilly @ 2b:	3 0 1 2 4 0
+Jordan @ c:	4 0 2 3 2 1
+Weiler @ ss:	4 0 0 4 5 1
+Willard @ lf:	4 1 1 2 0 0
+Reynolds @ rf:	4 1 1 3 1 0
+Bope @ 1b:	3 0 1 11 0 1
+Nance @ 3b:	3 0 0 1 1 0
+Rafferty @ cf:	2 0 0 1 0 0
+Stewart @ p:	4 0 0 0 5 1
+*Hawkins @ ph:	1 0 0 0 0 0
+TOTALS:		32 2 6 27 18 4
+
+*: batted for Rafferty in 9th
+
+line: Orphans:   0 1 0 0 0 1 1 0 1 - 4
+line: Brunswick: 0 0 0 0 0 0 0 0 2 - 2
+
+B_HR: Wilkes
+B_SB: Willard #2; Dunning; Hodge
+B_SH: Nance; Guess
+P_BB: Mosely #2; Stewart #2 
+P_SO: Mosely #3; Stewart #2 
+P_WP: Mosely
+F_DP: Reynolds, Bope; Hodge, Guess  
+T: 2:05
+U: Mitchell
+
+---
+
+date: 1915-05-26
+number: 2
+league: Florida-Alabama-Georgia
+away: Orphans
+home: Brunswick
+source: Macon Telegraph, May 27, 1915
+
+Orphans:	ab r h po a e
+Dunning @ cf:	3 0 0 1 0 0
+Wagnon @ lf:	3 0 0 2 0 0
+Hodge @ ss:	3 0 0 1 2 1
+Blackwell @ 2b:	3 0 0 1 1 0
+Guess @ 1b:	2 0 0 5 1 0
+Wilkes @ c:	2 0 0 3 0 0
+Selph @ 3b:	2 0 0 0 0 0
+Shuman @ rf:	2 0 1 1 0 0
+Peddy @ p:	2 0 1 1 1 0
+TOTALS:		22 0 2 15 5 1
+
+Brunswick:	ab r h po a e
+Reilly @ 2b:	2 1 1 2 0 0
+Jordan @ c:	3 1 1 6 1 0
+Weiler @ ss:	3 0 1 1 1 1 
+Willard @ lf:	2 0 1 2 0 0
+Bope @ 1b:	2 0 0 0 0 0
+Reynolds @ rf:	2 0 1 2 0 0
+Nance @ 3b:	2 0 0 2 0 0
+Rafferty @ cf:	2 0 1 3 0 0
+Watkins @ p:	2 0 0 0 0 0
+TOTALS:		22 2 6 18 2 1
+
+line: Orphans:   0 0 0 0 0 0 - 0
+line: Brunswick: 2 0 0 0 0 x - 2
+
+B_2B: Rafferty; Bope
+B_SB: Jordan; Reilly; Shuman
+B_SH: Willard
+P_BB: Watkins #2
+P_SO: Peddy #3; Watkins #5
+T: 1:10
+U: Mitchell
+
+---
+
+date: 1915-05-27
+number: 0
+league: Florida-Alabama-Georgia
+away: Orphans
+home: Thomasville
+source: Macon Telegraph, May 28, 1915
+
+Orphans:	ab r h po a e
+Dunning @ cf:	5 0 0 4 0 0 
+Wagnon @ lf:	5 1 2 1 1 0
+Hodge @ ss:	4 0 1 1 2 0
+Blackwell @ 2b:	4 1 2 0 2 1
+Guess @ 1b:	4 0 1 13 0 0
+Wilkes @ c:	1 2 0 6 0 0
+Selph @ 3b:	4 0 1 1 3 0
+Shuman @ rf:	4 1 2 1 0 0 
+Spaugh @ p:	3 0 1 0 4 0 
+TOTALS:		34 5 10 27 12 1
+
+Thomasville:	ab r h po a e
+Anderson @ ss:	4 1 1 2 3 0
+Parker @ 3b:	4 0 1 3 2 0
+Brazier @ lf:	4 0 1 2 0 0
+Utley @ 1b:	4 1 1 10 1 0
+Conly @ rf:	3 1 2 0 1 0
+Wicker @ cf:	4 0 2 4 0 0
+Murch @ 2b:	3 0 0 2 2 1
+Sheppard @ c:	4 0 0 4 1 0
+Pearson @ p:	3 0 0 0 0 1
+*Sikes @ ph:	1 0 0 0 0 0
+TOTALS:		34 3 8 27 10 2
+
+*: batted for Pearson in 9th
+
+line: Orphans:     1 1 2 0 0 0 0 0 1 - 5
+line: Thomasville: 0 0 0 0 0 1 0 0 2 - 3
+
+B_2B: Parker; Conly; Blackwell; Selph
+B_3B: Wilkes #2; Conly
+B_SH: Spaugh; Murch
+P_BB: Pearson #3; Spaugh #1
+P_SO: Pearson #3; Spaugh #5 
+F_DP: Utley, Parker
+T: 1:45
+U: White
+
+---
+
+date: 1915-05-27
+number: 0
+league: Florida-Alabama-Georgia
+away: Waycross
+home: Dothan
+source: Macon Telegraph, May 28, 1915
+
+Waycross:	ab r h po a e
+Riggins @ 3b:	5 1 1 0 2 0
+Clarke @ ss:	4 1 1 6 7 3
+Burke @ cf:	3 2 3 0 0 0
+Gandy @ rf:	5 1 1 1 0 0 
+Reynolds @ c:	4 1 1 4 0 0
+Kingery @ 2b:	4 1 1 3 4 0
+Stacy @ lf:	4 1 1 0 0 0
+Barber @ 1b:	4 1 2 12 0 1
+Gardner @ p:	4 0 1 1 2 0
+TOTALS:		37 9 12 27 15 4
+
+Dothan:		ab r h po a e
+Reidy @ cf:	5 0 0 3 0 0
+Heck @ 3b:	5 0 0 1 1 1
+Spitznagle @ 2b:	3 0 0 3 3 0
+Paschal @ rf:	4 0 1 2 0 0
+Chambers @ 1b:	4 0 1 10 1 1
+Parks @ rf:	4 0 1 0 0 0
+Burress @ ss:	4 2 0 0 2 2 
+Turner @ c:	4 1 2 8 1 1 
+Hall @ p:	1 0 0 0 2 1
+Hodge @ p:	3 0 2 0 2 0
+TOTALS:		37 3 7 27 12 6
+
+line: Waycross: 1 1 5 2 0 0 0 0 0 - 9
+line: Dothan:   0 0 0 0 1 0 0 0 2 - 3
+
+B_2B: Hodge #2; Riggins; Burke #2
+B_SB: Gandy #3; Stacy; Barber
+B_SH: Clarke; Burke
+P_BB: Hodge #2; Gardner #2
+P_SO: Hall #2; Hodge #5; Gardner #2
+P_H: Hall #8; Hodge #4
+P_IP: Hall #3; Hodge #6
+F_DP: Clarke, Kingery, Barber
+T: 1:30
+U: LaRocque
+
+---
+
+date: 1915-05-27
+number: 0
+league: Florida-Alabama-Georgia
+away: Valdosta
+home: Brunswick
+source: Macon Telegraph, May 28, 1915
+note: game called after 6th
+
+Valdosta:	ab r h po a e
+Stewart @ 3b:	3 0 0 2 0 1
+Ery @ rf-2b:	3 0 0 0 1 0
+Medlock @ lf:	2 1 1 0 0 0
+McMillan @ cf:	3 0 2 3 0 0
+Schwartz @ ss:	3 0 1 1 4 1
+Corbett @ 2b-c:	2 0 1 6 1 0
+Coffy @ 1b:	1 0 0 5 0 1
+Taylor @ c:	2 0 0 1 2 1
+Barze @ p:	0 0 0 0 0 0
+Vaughn @ p:	2 0 1 0 0 0 
+TOTALS:		21 1 6 18 8 4
+
+Brunswick:	ab r h po a e
+Reilly @ 2b:	3 2 3 1 1 1
+Jordan @ c:	3 1 2 6 0 0
+Weiler @ ss:	3 2 0 0 2 0 
+Willard @ lf:	4 2 3 1 0 0
+Reynolds @ rf:	4 2 1 1 0 0
+Bope @ 1b:	4 1 3 4 0 1
+Nance @ 3b:	4 1 1 1 1 0
+Rafferty @ cf:	3 2 2 4 1 0
+McFarlan @ p:	3 0 1 0 1 0
+TOTALS:		33 13 16 13 6 2
+
+line: Valdosta:  0 0 0 1 0 0 - 1
+line: Brunswick: 5 0 3 0 5 0 - 13
+
+B_2B: McMillan #2; Medlock; Corbett; Rafferty; Reynolds
+B_3B: Bope; Willard
+B_SB: Stewart; Reilly #2; Jordan; Reynolds; Nance; Weiler
+B_SH: McFarlan; Rafferty; Corbett
+P_BB: Barze #1; Vaughn #2; McFarlan #3
+P_SO: Vaughn #2; McFarlan #5
+F_PB: Taylor
+T: 1:30
+U: Mitchell
+
+---
+
+date: 1915-05-28
+number: 0
+league: Florida-Alabama-Georgia
+away: Valdosta
+home: Brunswick
+source: Macon Telegraph, May 29, 1915
+note: game called after 5th due to rain
+
+Valdosta:	ab r h po a e
+Stewart @ 3b-p:	1 1 0 1 3 0
+Ery @ rf:	3 1 1 0 0 0
+Medlock @ lf-3b:	2 1 1 0 1 1
+McMillan @ cf:	3 0 1 0 0 0
+Schwart @ ss:	2 0 2 1 0 0
+Corbett @ 2b:	2 0 0 7 0 1
+Coffy @ 1b:	2 0 0 5 0 1
+Taylor @ c:	2 0 1 1 3 0
+Sloan @ p-rf:	2 0 0 0 3 1
+TOTALS:		19 3 6 15 10 4
+
+Brunswick:	ab r h po a e
+Reilly @ 2b:	3 3 2 1 4 0
+Jordan @ c:	4 2 2 5 2 0
+Weiler @ ss:	3 3 2 3 1 0
+Willard @ lf:	4 2 3 0 0 1
+Reynolds @ rf:	2 0 0 1 0 0
+Bope @ 1b:	3 0 2 4 3 0
+Nance @ 3b:	3 0 0 1 1 0
+Rafferty @ cf:	4 2 3 0 0 0
+Hawkins @ p:	2 1 1 0 3 0
+TOTALS:		28 13 15 15 14 1
+
+line: Valdosta:  0 0 3 0 0  - 3
+line: Brunswick: 3 5 3 0 2 - 13
+
+B_2B: McMillan; Willard
+B_3B: Reilly
+B_SB: Reilly; Jordan; Weiler; Rafferty; Reynolds #2; Bope #2
+B_SH: Willard; Hawkins
+P_SO: Stewart #1; Hawkins #3
+P_H: Sloan #13; Stewart #2
+P_IP: Sloan #3; Stewart #2
+P_WP: Sloan; Stewart #2
+T: 1:30
+U: Mitchell
+
+---
+
+date: 1915-05-28
+number: 0
+league: Florida-Alabama-Georgia
+away: Orphans
+home: Thomasville
+source: Macon Telegraph, May 29, 1915
+
+Orphans:	ab r h po a e
+Dunning @ cf:	3 3 3 4 0 1 
+Wagnon @ lf:	3 0 2 0 0 0
+Hodge @ ss:	4 0 2 2 3 0
+Blackwell @ 2b-ss:	5 0 2 5 4 1
+Guess @ 1b:	5 0 1 9 2 0
+Wilkes @ c-p:	4 0 3 2 1 0
+Selph @ 3b:	4 0 0 1 3 2
+Shuman @ rf-1b:	3 1 0 0 0 0 
+Mosely @ p-2b:	4 1 1 0 5 1 
+Peddy @ lf:	1 1 1 1 0 0
+Spaugh @ rf:	1 0 0 0 0 0
+TOTALS:		37 6 15 24 18 5
+
+Thomasville:	ab r h po a e
+Anderson @ ss:	2 1 1 1 4 0
+Parker @ 3b:	5 3 2 3 1 1
+Brazier @ lf:	5 1 2 0 0 0
+Utley @ 1b:	3 3 2 9 0 1
+Conly @ rf:	5 2 2 4 1 0
+Wicker @ cf:	4 0 1 3 1 0
+Murch @ 2b:	3 0 1 5 3 0
+Sheppard @ c:	5 0 1 2 1 0
+Winges @ p:	4 1 2 0 4 0
+TOTALS:		36 11 14 27 15 2
+
+line: Orphans:     0 0 3 0 1 0 1 0 1 - 6
+line: Thomasville: 4 1 1 2 0 2 0 1 x - 11
+
+B_2B: Anderson; Wicker; Murch; Hodge 
+B_3B: Parker
+B_SB: Peddy; Parker; Conly
+B_SH: Wagnon; Anderson #2; Utley #2; Murch
+P_BB: Winges #3; Mosely #3
+P_SO: Winges #1; Mosely #2
+F_DP: Anderson, Murch, Utley
+F_PB: Wilkes
+T: 1:50
+U: White
+
+---
+
+date: 1915-05-28
+number: 0
+league: Florida-Alabama-Georgia
+away: Waycross
+home: Dothan
+source: Macon Telegraph, May 29, 1915
+
+Waycross:	ab r h po a e
+Riggins @ 3b:	2 1 1 0 2 0
+Clark @ ss:	5 1 1 2 1 0
+Burke @ cf:	5 0 0 0 0 0
+Gandy @ rf:	4 1 2 1 0 0 
+Reynolds @ c:	3 1 1 7 1 0
+Kingery @ 2b:	4 0 0 2 2 0
+Stacy @ lf:	4 0 1 1 1 1
+Barber @ 1b:	4 0 1 13 1 0
+Antley @ p:	3 0 0 1 7 0
+TOTALS:		34 4 7 27 15 1
+
+Dothan:		ab r h po a e
+Reidy @ cf:	4 1 2 1 0 0
+Heck @ 3b:	3 0 0 2 4 0
+Spitznagle @ 2b:	4 0 0 0 2 2
+Paschal @ rf:	4 1 2 2 6 0
+Chambers @ 1b:	3 0 1 12 1 0
+Parks @ rf:	4 0 1 1 0 0
+Burress @ ss:	4 0 0 2 3 0 
+Alford @ c:	2 0 0 5 1 0
+Poole @ p:	2 0 0 2 1 0
+*Price @ ph:	1 0 0 0 0 0
+TOTALS:		32 2 6 27 12 2
+
+*: batted for Poole in 9th
+
+line: Waycross: 0 1 2 0 1 0 0 0 0 - 4
+line: Dothan:   0 0 0 0 0 1 1 0 0 - 2
+
+B_2B: Stacy; Gandy; Barber; Paschal
+B_HR: Gandy; Reynolds; Paschal; Reidy
+B_SB: Clark; Stacy
+B_SH: Burke
+B_HP: Alford; Heck
+P_BB: Poole #3; Antley #1
+P_SO: Poole #4; Antley #6
+P_HP: Antley #2
+P_WP: Antley
+T: 1:55
+U: LaRocque
+
+---
+
+date: 1915-05-29
+number: 0
+league: Florida-Alabama-Georgia
+away: Waycross
+home: Dothan
+source: Macon Telegraph, May 30, 1915
+
+Waycross:	ab r h po a e
+Riggins @ 3b:	5 0 2 2 4 0
+Clark @ ss:	5 1 1 2 7 0
+Burke @ cf:	5 2 2 1 0 0
+Gandy @ rf:	4 2 3 1 0 0 
+Reynolds @ c:	4 0 1 5 0 1
+Kingry @ 2b:	4 1 1 3 3 0
+Stacy @ lf:	2 0 0 0 0 1
+Barber @ 1b:	4 0 0 13 2 0
+Vaiden @ p:	4 0 1 0 3 0
+TOTALS:		37 6 11 27 19 2
+
+Dothan:		ab r h po a e
+Reidy @ cf:	4 1 3 0 0 0
+Heck @ 3b:	4 0 1 2 1 1
+Spitznagle @ 2b:	4 0 0 5 3 2
+Paschal @ lf:	4 0 1 0 0 0
+Chambers @ 1b:	4 0 1 11 1 0
+Parks @ rf:	4 0 0 1 0 1
+Burruss @ ss:	3 0 0 2 5 0
+Alford @ c:	3 1 1 6 2 0
+Price @ p:	3 0 1 0 2 1
+TOTALS:		33 2 8 27 14 5
+
+line: Waycross: 0 0 2 1 2 0 1 0 0 - 6
+line: Dothan:   0 0 2 0 0 0 0 0 0 - 2
+
+B_2B: Alford; Clark; Burke #2; Riggins
+B_3B: Gandy
+B_SB: Clark; Gandy
+B_SH: Stacy
+P_BB: Price #2
+P_SO: Price #6; Vaiden #4
+F_DP: Riggins, Barber
+T: 1:35
+U: LaRoque
+
+---
+
+date: 1915-05-29
+number: 0
+league: Florida-Alabama-Georgia
+away: Orphans
+home: Thomasville
+source: Macon Telegraph, May 30, 1915
+note: two players listed at lf; Connally moved to rf
+
+Orphans:	ab r h po a e
+Dunning @ cf:	4 1 2 4 0 0 
+Wagnon @ lf:	6 0 2 6 0 0
+Hodge @ ss:	4 0 1 3 2 0
+Blackwell @ 2b:	5 0 0 1 2 0
+Guess @ 1b:	4 2 2 7 2 0
+Wilkes @ c:	5 1 1 2 0 0
+Selph @ 3b:	5 1 1 1 1 0
+Shuman @ rf:	2 2 2 2 0 0 
+Peddy @ p:	4 0 3 1 1 0
+TOTALS:		39 7 14 27 8 0
+
+Thomasville:	ab r h po a e
+Anderson @ ss:	4 0 1 2 3 1
+Parker @ 3b:	3 0 0 0 2 0
+Brazier @ lf:	4 0 0 1 0 0
+Utley @ 1b:	4 0 1 7 1 0
+Connally @ rf:	4 0 0 2 0 0
+Wicker @ cf:	4 1 2 3 1 0
+Murch @ 2b:	4 1 1 2 3 0
+Sheppard @ c:	4 0 1 8 0 1
+Sikes @ p:	4 0 2 2 2 0
+TOTALS:		35 2 8 27 12 2
+
+line: Orphans:     0 3 0 0 0 0 0 0 4 - 7
+line: Thomasville: 0 0 0 0 0 0 2 0 0 - 2
+
+B_2B: Peddy #2; Wilkes; Guess; Dunning 
+B_HP: Shuman #2
+P_BB: Sikes #5; Peddy #1
+P_SO: Sikes #5
+P_HP: Sikes #2
+F_DP: Murch, Anderson, Utley
+F_PB: Sheppard
+T: 1:47
+U: White
+
+---
+
+date: 1915-05-29
+number: 0
+league: Florida-Alabama-Georgia
+away: Valdosta
+home: Brunswick
+source: Macon Telegraph, May 30, 1915
+note: two Valdosta players listed at rf; Taylor moved to c; two Brunswick players listed at c; Rafferty moved to cf
+
+Valdosta:	ab r h po a e
+Stewart @ 3b:	1 1 1 0 1 0
+Sloan @ lf:	4 0 0 0 0 0
+Coffey @ 1b:	2 0 1 8 0 0
+Medlock @ lf-3b:	4 0 2 1 0 0
+McMillan @ cf:	4 0 0 1 0 0
+Schwarty @ ss:	4 1 1 4 3 0
+Corbett @ 2b:	4 0 0 4 1 0
+Vaughn @ rf:	2 0 1 0 0 0
+Taylor @ c:	4 0 0 6 4 0
+Ery @ p:	4 0 0 0 1 1
+TOTALS:		33 2 6 24 10 1
+
+Brunswick:	ab r h po a e
+Reilly @ 2b:	3 0 1 1 1 0
+Jordan @ c:	3 2 3 8 3 0
+Weiler @ ss:	4 0 0 1 1 2
+Willard @ lf:	4 1 2 0 0 0
+Reynolds @ rf:	3 1 2 1 0 0
+Bope @ 1b:	2 0 1 14 0 0
+Nance @ 3b:	2 0 0 1 4 0
+Rafferty @ cf:	3 0 0 1 0 0
+Watkins @ p:	3 0 1 0 4 0
+TOTALS:		27 4 10 27 13 2
+
+line: Valdosta:  1 0 0 0 0 1 0 0 0 - 2
+line: Brunswick: 2 0 0 1 1 0 0 0 x - 4
+
+B_2B: Jordan; Willard; Reynolds #2
+B_HR: Stewart; Schwarty
+B_SB: Jordan #2
+B_SH: Medlock; Nance; Jordan
+B_HP: Reynolds
+P_BB: Ery #2; Watkins #3
+P_SO: Ery #5; Watkins #8
+P_HP: Ery
+P_WP: Watkins
+P_BK: Ery
+T: 2:00
+U: Mitchell
+
