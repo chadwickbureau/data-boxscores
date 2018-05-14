@@ -59,7 +59,7 @@ Schroeder @ 1b:	5 1 1 7 1 0
 Nagle @ 2b:	5 0 0 5 2 1
 Miller @ cf:	5 2 2 0 0 0
 Lane @ lf:	5 2 3 4 0 0
-Murphy @ 3b:	4 0 0 1 2 0
+Murphy [SB] @ 3b:	4 0 0 1 2 0
 Mueller @ rf:	4 2 2 2 0 0
 Spellman @ c:	4 2 3 8 0 0
 Boardman @ p:	3 0 0 0 2 0
@@ -75,7 +75,7 @@ Barrett @ cf:	2 0 0 3 0 0
 Dreis @ 3b:	2 0 0 0 2 0
 Fremer @ 2b:	4 0 0 2 3 0
 Dumont @ p:	3 0 0 0 2 0
-Murphy @ rf:	1 0 0 0 0 0
+Murphy [FM] @ rf:	1 0 0 0 0 0
 *Holt @ ph:	1 0 0 0 0 0
 TOTALS:		30 1 3 27 11 2
 
@@ -89,7 +89,7 @@ B_2B: Spellman; Lane
 B_3B: Miller; Lane
 B_HR: Miller; Mueller; Spellman
 B_SB: Spellman; Barrett
-B_SF: Murphy
+B_SF: Murphy [SB]
 P_BB: Boardman #6; Dumont #2
 P_SO: Boardman #6; Dumont #10
 P_HP: Dumont
@@ -169,7 +169,7 @@ Schroeder @ 1b:	5 0 0 12 0 0
 Nagel @ 2b:	5 1 1 4 1 1 
 Miller @ cf:	5 1 3 3 0 0
 Lane @ lf:	5 2 2 1 0 0 
-Murphy @ 3b:	3 2 1 0 4 1
+Murphy [SB] @ 3b:	3 2 1 0 4 1
 Mueller @ rf:	3 0 1 0 0 1
 Spellman @ c:	4 0 2 3 1 0
 Stevenson @ p:	4 0 1 0 3 0
@@ -182,7 +182,7 @@ Whiting @ lf:	4 0 2 3 0 0
 Hooper @ ss:	5 1 2 2 1 0
 Bell @ rf-1b:	5 0 1 1 0 0
 Unglaub @ 1b:	3 0 1 7 0 0
-Murphy @ c:	3 1 1 8 2 0
+Murphy [FM] @ c:	3 1 1 8 2 0
 Barrett @ cf:	4 2 2 0 1 1
 Dreis @ 3b:	4 1 1 1 2 2 
 Fremmer @ 2b:	4 1 2 4 1 1 

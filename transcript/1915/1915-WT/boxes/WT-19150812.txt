@@ -196,12 +196,12 @@ St. Boniface:	ab r h po a e
 Sheffield @ rf:	4 1 1 1 0 1
 Adams @ 1b:	2 1 1 11 0 1
 Lane @ lf:	3 0 2 1 0 0
-Miller @ cf:	4 0 0 4 0 0
+Miller [cf] @ cf:	4 0 0 4 0 0
 Burgwald, [Ted] @ ss:	4 0 0 3 5 1	
 Mueller @ c:	4 0 1 5 1 0
 Murphy @ 3b:	3 0 0 2 4 0
 Nagle @ 2b:	3 0 1 0 2 0
-Miller @ p:	3 0 0 0 1 0
+Miller [p] @ p:	3 0 0 0 1 0
 TOTALS:		30 2 6 27 13 3
 
 line: Fort William-Port Arthur: 0 0 0 0 0 1 0 0 0 - 1
@@ -210,8 +210,8 @@ line: St. Boniface:   		1 0 0 0 0 0 0 1 x - 2
 B_LOB: Fort William-Port Arthur #7; St. Boniface #7
 B_SB: Adams; Lane #2; De Rose
 B_SH: Wines; Adams
-P_BB: Miller #1; Huggins #2
-P_SO: Miller #5; Huggins #5
+P_BB: Miller [p] #1; Huggins #2
+P_SO: Miller [p] #5; Huggins #5
 
 T: 1:35
 U: Landry

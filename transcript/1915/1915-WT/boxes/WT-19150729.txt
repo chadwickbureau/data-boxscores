@@ -518,13 +518,13 @@ St. Boniface:	ab r h po a e
 Mitchell @ 3b:	3 0 0 0 0 0
 Sheffield @ rf:	4 1 1 0 0 0
 Lane @ lf:	4 1 0 2 1 0
-Miller @ cf:	5 2 3 1 0 0
+Miller [cf] @ cf:	5 2 3 1 0 0
 Adams @ 1b:	4 1 2 11 1 2
 Mueller @ c:	4 1 1 2 1 0
 Murphy @ ss:	3 1 1 3 2 0
 Nagle @ 2b:	4 0 2 4 3 1
 Gruno @ p:	0 0 0 0 0 0
-Miller @ p:	4 0 0 1 6 0
+Miller [p] @ p:	4 0 0 1 6 0
 TOTALS:		36 7 10 24 14 3
 
 Duluth:		ab r h po a e
@@ -547,10 +547,10 @@ B_2B: Williams; Altman; Kirkham
 B_3B: Adams; Ted Bergwold
 B_HR: Kirkham
 B_SB: Tony Bergwold; Williams; Mueller
-P_BB: Gruno #2; Paul Morse #3; Miller #4
-P_SO: Paul Morse #7; Miller #2
-P_H:  Gruno #1; Miller #9
-P_IP: Miller #9
+P_BB: Gruno #2; Paul Morse #3; Miller [p] #4
+P_SO: Paul Morse #7; Miller [p] #2
+P_H:  Gruno #1; Miller [p] #9
+P_IP: Miller [p] #9
 P_HP: Gruno
 P_WP: Gruno; Paul Morse
 F_DP: Lane, Adams; [Pete] Morse, Ted Bergwold, Schroeder
