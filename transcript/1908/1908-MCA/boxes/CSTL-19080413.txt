@@ -6,7 +6,7 @@ home: Vicksburg
 source: (Memphis) Commercial Appeal, April 14, 1908
 
 Jackson:	ab r h po a e
-Taylor @ lf:	5 0 0 0 0 0
+Taylor [JAC] @ lf:	5 0 0 0 0 0
 Pickens @ 2b:	4 2 2 1 6 0
 M'tg'm'ry @ cf:	5 1 2 0 0 0
 Claire @ ss:	4 1 1 2 3 2
@@ -25,7 +25,7 @@ Herold @ ss:	5 0 1 2 2 1
 Redmond @ 2b:	4 1 0 2 2 0
 Manush @ cf:	3 0 2 3 0 0
 Sample @ 1b:	2 1 0 7 0 1
-Taylor @ rf:	4 0 1 2 0 0
+Taylor [VIC] @ rf:	4 0 1 2 0 0
 Krebs @ c:	3 1 1 9 1 0
 Klawitter @ lf:	4 0 1 1 0 1
 Hart @ p:	4 1 1 0 2 0
@@ -365,7 +365,7 @@ source: (Memphis) Commercial Appeal, April 17, 1908
 note: field soggy and 9th inning played in heavy downpour
 
 Jackson:	ab r h po a e
-Taylor @ lf:	3 0 0 0 1 0
+Taylor [JAC] @ lf:	3 0 0 0 1 0
 Picken @ 2b:	3 1 1 3 2 0
 Montgomery @ cf:	4 1 1 2 0 0
 Claire @ ss:	3 0 0 4 3 0
@@ -382,7 +382,7 @@ Herold @ 3b:	3 0 0 2 4 0
 Redmond @ 2b:	4 0 1 1 1 0
 Manush @ cf:	3 0 1 2 0 0
 Sample @ 1b:	3 1 0 13 0 0
-Taylor @ rf:	4 1 2 1 0 0
+Taylor [VIC] @ rf:	4 1 2 1 0 0
 Krebs @ c:	2 1 1 5 0 0
 Parker @ lf:	2 0 1 2 0 0
 Klawitter @ p:	3 0 0 0 2 0
@@ -467,7 +467,7 @@ Reilly @ ss:	5 1 1 2 0 0
 Holland @ cf:	4 0 2 2 0 0
 Gettinger @ lf:	2 1 0 1 0 0
 Gilks @ 1b:	4 0 2 10 0 1
-Krebs @ rf:	4 0 1 0 0 0
+Krebs [GUL] @ rf:	4 0 1 0 0 0
 Graffius @ c:	4 1 0 7 2 0
 Roberts @ p:	3 0 0 0 3 0
 TOTALS:		34 5 9 27 13 1
@@ -479,7 +479,7 @@ Redmond @ 2b:	4 0 1 4 0 0
 Manush @ cf:	4 0 1 2 0 2
 Sample @ 1b:	4 0 0 10 1 0
 Klawitter @ rf:	2 0 1 0 0 0
-Krebs @ c:	3 0 0 6 4 0
+Krebs [VIC] @ c:	3 0 0 6 4 0
 Parker @ lf:	3 0 1 1 0 0
 Taylor @ p:	1 0 0 0 0 0
 Hart @ p:	2 0 0 0 1 0

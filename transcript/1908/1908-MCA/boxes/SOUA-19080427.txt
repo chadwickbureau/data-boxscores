@@ -869,14 +869,14 @@ Conners @ 1b:	4 0 0 8 0 2
 Wood @ c:	4 0 0 7 4 0
 Stark, D. @ ss:	4 0 2 1 5 1
 Hess @ 3b:	2 0 1 0 1 0
-Hart @ p:	2 0 0 0 2 1
+Hart [LR] @ p:	2 0 0 0 2 1
 TOTALS:		32 0 6 24 16 7
 
 Mobile:		ab r h po a e
 Thornton @ cf:	4 0 3 1 0 0
 Sentell @ ss:	3 1 0 1 4 0
 Daley @ lf:	4 2 3 3 0 0
-Hart @ 1b:	2 0 1 13 1 1
+Hart [MOB] @ 1b:	2 0 1 13 1 1
 McIver @ rf:	4 1 2 1 0 0
 James @ 2b:	2 0 0 1 4 0
 Benson @ 3b:	3 0 0 4 2 0
@@ -889,14 +889,14 @@ note: box lists Mobile with 8 total hits, but player totals add up to 9
 line: Little Rock: 0 0 0 0 0 0 0 0 0 - 0
 line: Mobile: 0 0 2 1 0 1 0 0 * - 4
 
-B_SH: Sentell; Hart #2; Benson #2
+B_SH: Sentell; Hart [LR] #2; Benson #2
 note: Benson with 3 ABs and 2 SHs does not seem possible, unless there was an odd scoring decision
 B_SB: Daley #2; McIver; James #2
-F_DP: Speaker; Sentell, Hart; D. Stark, East, Wood; D. Stark, Wood, East; D. Stark, East, Conners
+F_DP: Speaker; Sentell, Hart [MOB]; D. Stark, East, Wood; D. Stark, Wood, East; D. Stark, East, Conners
 F_PB: Wood; White
-P_SO: Becker #1; Hart #2
-P_BB: Becker #1; Hart #1
-P_HP: Hart #2
+P_SO: Becker #1; Hart [LR] #2
+P_BB: Becker #1; Hart [LR] #1
+P_HP: Hart [LR] #2
 T: 1:35
 U: Carpenter
 

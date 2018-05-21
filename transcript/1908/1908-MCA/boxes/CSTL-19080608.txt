@@ -746,7 +746,7 @@ Herold @ ss:	2 0 0 0 3 0
 Sample @ 1b:	2 0 0 8 0 0
 Taylor @ rf:	2 0 0 3 0 0
 Seeback @ 3b:	2 0 0 2 0 0
-Krebs @ c:	2 0 1 4 0 0
+Krebs [VIC] @ c:	2 0 1 4 0 0
 Legrove @ 2b:	1 0 0 0 2 0
 Robb @ p:	2 0 0 0 1 0
 TOTALS:		18 0 1 18 6 1
@@ -759,7 +759,7 @@ Reilly @ ss:	3 0 0 0 3 0
 Blanchfield @ rf:	3 2 2 0 0 0
 Gilks @ 1b:	3 0 1 6 0 0
 Graffius @ c:	3 1 1 9 1 0
-Krebs @ 2b:	2 0 1 1 0 0
+Krebs [GUL] @ 2b:	2 0 1 1 0 0
 Schulz @ p:	2 0 0 0 3 0
 TOTALS:		25 3 7 18 8 0
 
@@ -836,7 +836,7 @@ source: (Memphis) Commercial Appeal, June 15, 1908
 note: muddy field
 
 Jackson:	ab r h po a e
-Taylor @ lf:	3 1 0 1 0 0
+Taylor [JAC] @ lf:	3 1 0 1 0 0
 Ott @ c:	3 1 1 6 0 0
 Montg'y @ cf:	4 0 3 1 0 0
 Claire @ ss:	3 0 0 2 1 0
@@ -852,7 +852,7 @@ Manush @ lf:	4 0 1 4 0 0
 Long @ cf:	4 0 2 0 0 0
 Herold @ ss:	4 0 0 1 2 1
 Sample @ 1b:	3 0 2 8 0 0
-Taylor @ rf:	2 0 0 1 0 0
+Taylor [VIC] @ rf:	2 0 0 1 0 0
 *Klawitter @ ph:	1 0 0 0 0 0
 Krebs @ c:	4 0 0 9 1 0
 Lagrove @ 2b:	2 0 0 3 1 0
@@ -860,7 +860,7 @@ Seeback @ 3b:	3 0 0 0 4 0
 Brunner @ p:	3 0 0 1 1 0
 TOTALS:		30 0 5 27 9 1
 
-*: batted for Taylor in 9th inning
+*: batted for Taylor [VIC] in 9th inning
 
 line: Jackson: 0 0 0 0 0 0 0 0 2 - 2
 line: Vicksburg: 0 0 0 0 0 0 0 0 0 - 0
@@ -869,7 +869,7 @@ B_2B: Long
 F_DP: Blackburn, Claire, Saillard; Blackburn, Pickens, Saillard
 P_SO: Brunner #8; Blakeney #5
 P_BB: Brunner #1; Blakeney #2
-B_SH: Ott; Claire; Taylor
+B_SH: Ott; Claire; Taylor [JAC]
 T: 1:30
 U: Laroque
 

@@ -486,9 +486,9 @@ Meek @ 1b:	3 0 0 12 0 0
 Raub @ c:	4 0 0 8 0 1
 Downey @ 3b:	3 2 1 1 4 0
 Demont @ ss:	2 0 0 0 0 0
-Ragan @ rf:	3 0 0 0 0 0
+Ragan [rf] @ rf:	3 0 0 0 0 0
 Walters @ 2b:	3 0 1 1 6 0
-Ragan @ p:	2 0 0 0 0 0
+Ragan [p] @ p:	2 0 0 0 0 0
 Turner @ p:	1 0 0 0 0 0
 TOTALS:		29 2 2 24 10 1
 
@@ -512,8 +512,8 @@ B_3B: Henline
 B_SH: Demont
 B_SB: Pepe
 F_DP: Raub
-P_SO: Helm #1; Ragan #2; Turner #4
-P_BB: Helm #1; Ragan #1; Turner #1
+P_SO: Helm #1; Ragan [p] #2; Turner #4
+P_BB: Helm #1; Ragan [p] #1; Turner #1
 T: 1:40
 note: time could be 1:10
 U: Brown
