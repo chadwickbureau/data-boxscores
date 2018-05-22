@@ -4,9 +4,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Arkansas State League,regular,P2391349,Allen,,Poplar Bluff,1908-04-21,1908-05-19,5,5,0,0,0,0,0,0,0,0,0,5
 1908,Arkansas State League,regular,P8095291,Allison,,Poplar Bluff,1908-04-25,1908-04-25,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Arkansas State League,regular,P4596244,Arriter,,Newport,1908-06-01,1908-06-01,1,0,0,0,0,0,0,0,0,0,1,0
-1908,Arkansas State League,regular,P8818406,Babb,,Memphis,1908-07-28,1908-07-28,1,0,0,0,1,0,0,0,0,0,0,0
 1908,Arkansas State League,regular,P7137265,Bacon,,Argenta,1908-06-06,1908-06-06,1,0,0,0,0,0,0,0,0,0,1,0
-1908,Arkansas State League,regular,P7519681,Baerwald,,Memphis,1908-07-28,1908-07-28,1,0,0,0,0,0,1,0,0,1,0,0
 1908,Arkansas State League,regular,P9024619,Bamb,,Helena,1908-04-25,1908-04-25,1,0,0,0,0,0,0,0,0,0,1,0
 1908,Arkansas State League,regular,P3600131,Bernstein,,Helena,1908-05-22,1908-06-12,6,6,0,0,0,0,0,0,0,0,0,6
 1908,Arkansas State League,regular,P7985227,Berry,,Pine Bluff,1908-05-15,1908-08-01,48,0,0,0,0,0,0,0,0,0,48,0
@@ -32,7 +30,6 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Arkansas State League,regular,P6550897,Brummitt,,Hot Springs,1908-04-30,1908-05-16,2,2,0,0,0,0,0,0,0,0,0,2
 1908,Arkansas State League,regular,P4313599,Bumb,,Helena,1908-04-23,1908-04-26,2,0,0,0,0,0,0,0,0,0,2,0
 1908,Arkansas State League,regular,P9610701,Bunch,,Hot Springs,1908-07-05,1908-07-05,1,1,0,0,0,0,0,0,0,0,0,1
-1908,Arkansas State League,regular,P3679699,Carey,,Memphis,1908-07-28,1908-07-28,1,0,1,0,0,0,0,0,0,0,0,0
 1908,Arkansas State League,regular,P8264469,Chellette,,Newport,1908-08-01,1908-08-01,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Arkansas State League,regular,P0727029,Cook,,Poplar Bluff,1908-04-22,1908-05-05,3,3,0,0,0,0,0,0,0,0,0,3
 1908,Arkansas State League,regular,P4230630,Cooney,,Helena,1908-07-04,1908-08-02,8,8,0,0,0,0,0,0,0,0,0,8
@@ -40,21 +37,16 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Arkansas State League,regular,P8587020,Coulter,,Argenta,1908-04-30,1908-04-30,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Arkansas State League,regular,P8499221,Cowan,,Hot Springs,1908-05-01,1908-07-22,4,1,0,0,0,0,0,0,0,0,3,1
 1908,Arkansas State League,regular,P4309039,Craig,,Poplar Bluff,1908-04-30,1908-04-30,1,0,0,0,0,0,0,0,0,0,1,0
-1908,Arkansas State League,regular,P6870119,Cranston,,Memphis,1908-07-28,1908-07-28,1,0,0,0,0,1,0,0,0,0,0,0
 1908,Arkansas State League,regular,P2318264,Daly,,Argenta,1908-07-30,1908-07-30,1,0,0,0,0,0,0,0,0,0,1,0
 1908,Arkansas State League,regular,P5063247,Deaster,,Pine Bluff,1908-06-27,1908-06-27,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Arkansas State League,regular,P3183614,Deaver,,Pine Bluff,1908-04-20,1908-07-09,27,27,0,0,0,0,0,0,0,0,0,27
 1908,Arkansas State League,regular,P0888913,Deavers,,Pine Bluff,1908-04-23,1908-04-23,1,1,0,0,0,0,0,0,0,0,0,1
-1908,Arkansas State League,regular,P5413379,Donahue,,Memphis,1908-07-28,1908-07-28,1,0,0,0,0,0,1,0,1,0,0,0
-1908,Arkansas State League,regular,P2218521,Douglas,,Birmingham,1908-07-28,1908-07-28,1,0,1,0,0,0,0,0,0,0,0,0
-1908,Arkansas State League,regular,P3153504,Downey,,Birmingham,1908-07-28,1908-07-28,1,0,0,0,0,1,0,0,0,0,0,0
 1908,Arkansas State League,regular,P3522837,Dudley,,Argenta,1908-04-22,1908-04-27,4,0,0,0,0,0,0,0,0,0,4,0
 1908,Arkansas State League,regular,P0383713,Edleck,,Helena,1908-07-28,1908-07-28,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Arkansas State League,regular,P6174705,Everhardt,,Brinkley,1908-07-11,1908-07-15,2,2,0,0,0,0,0,0,0,0,0,2
 1908,Arkansas State League,regular,P5080190,Everhart,,Hot Springs,1908-06-28,1908-07-06,4,4,0,0,0,0,0,0,0,0,0,4
 1908,Arkansas State League,regular,P0812381,Fay,,Hot Springs,1908-05-03,1908-08-02,21,20,0,0,0,0,0,0,0,0,1,20
 1908,Arkansas State League,regular,P4892633,Fenner,,Newport,1908-06-23,1908-07-24,2,0,0,0,0,0,0,0,0,0,2,0
-1908,Arkansas State League,regular,P8587765,Ford,,Birmingham,1908-07-28,1908-07-28,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Arkansas State League,regular,P0059282,Francis,,Brinkley,1908-07-17,1908-08-01,4,4,0,0,0,0,0,0,0,0,0,4
 1908,Arkansas State League,regular,P8762710,Galligher,,Pine Bluff,1908-08-01,1908-08-01,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Arkansas State League,regular,P9087018,Grogan,,Brinkley,1908-06-10,1908-07-14,8,8,0,0,0,0,0,0,0,0,0,8
@@ -79,7 +71,6 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Arkansas State League,regular,P7162406,Heiglefort,,Hot Springs,1908-06-26,1908-07-13,5,5,0,0,0,0,0,0,0,0,0,5
 1908,Arkansas State League,regular,P5371044,Heiglefort,,Newport,1908-04-22,1908-06-11,5,5,0,0,0,0,0,0,0,0,0,5
 1908,Arkansas State League,regular,P4685010,Henderson,,Brinkley,1908-07-14,1908-07-29,3,3,0,0,0,0,0,0,0,0,0,3
-1908,Arkansas State League,regular,P8898573,Henline,,Birmingham,1908-07-28,1908-07-28,1,0,0,0,0,0,1,1,0,0,0,0
 1908,Arkansas State League,regular,P5885108,Hickman,,Helena,1908-06-10,1908-06-10,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Arkansas State League,regular,P9629785,Hoeschel,,Argenta,1908-05-22,1908-05-22,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Arkansas State League,regular,P5053687,Hoeschel,,Brinkley,1908-07-04,1908-07-17,2,2,0,0,0,0,0,0,0,0,0,2
@@ -111,7 +102,6 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Arkansas State League,regular,P3939119,Kimble,,Newport,1908-04-25,1908-05-16,2,2,0,0,0,0,0,0,0,0,0,2
 1908,Arkansas State League,regular,P7406603,Kinney,,Hot Springs,1908-06-24,1908-07-02,3,3,0,0,0,0,0,0,0,0,0,3
 1908,Arkansas State League,regular,P4718270,Kratsberg,,Helena,1908-04-23,1908-04-23,1,1,0,0,0,0,0,0,0,0,0,1
-1908,Arkansas State League,regular,P4234543,Larsen,,Birmingham,1908-07-28,1908-07-28,1,0,0,0,1,0,0,0,0,0,0,0
 1908,Arkansas State League,regular,P6241923,Leuherson,,Argenta,1908-06-22,1908-06-22,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Arkansas State League,regular,P5522590,Leuherson,,Poplar Bluff,1908-05-02,1908-05-25,2,2,0,0,0,0,0,0,0,0,0,2
 1908,Arkansas State League,regular,P6924468,Leuhrsen,,Argenta,1908-07-31,1908-07-31,1,1,0,0,0,0,0,0,0,0,0,1
@@ -137,10 +127,8 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Arkansas State League,regular,P6409675,McDonald,,Poplar Bluff,1908-05-03,1908-05-03,1,0,0,0,0,0,0,0,0,0,1,0
 1908,Arkansas State League,regular,P9548288,McDowell,,Poplar Bluff,1908-05-08,1908-05-31,13,0,0,0,0,0,0,0,0,0,13,0
 1908,Arkansas State League,regular,P3818625,McFarland,,Helena,1908-06-17,1908-08-01,13,13,0,0,0,0,0,0,0,0,0,13
-1908,Arkansas State League,regular,P6513132,Meek,,Birmingham,1908-07-28,1908-07-28,1,0,0,0,0,0,0,0,0,0,1,0
 1908,Arkansas State League,regular,P0147059,Miller,,Argenta,1908-04-20,1908-06-03,28,0,0,0,0,0,0,0,0,0,28,0
 1908,Arkansas State League,regular,P2123729,Miller,,Brinkley,1908-06-08,1908-07-25,11,0,0,0,0,0,0,0,0,0,11,0
-1908,Arkansas State League,regular,P0480784,Molesw'h,,Birmingham,1908-07-28,1908-07-28,1,0,0,0,0,0,1,0,1,0,0,0
 1908,Arkansas State League,regular,P5700299,Moore,,Poplar Bluff,1908-05-05,1908-05-05,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Arkansas State League,regular,P5657069,Morrow,,Pine Bluff,1908-05-31,1908-05-31,1,0,0,0,0,0,0,0,0,0,1,0
 1908,Arkansas State League,regular,P8214971,Moulden,,Pine Bluff,1908-06-02,1908-06-04,2,0,0,0,0,0,0,0,0,0,2,0
@@ -148,13 +136,11 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Arkansas State League,regular,P4363860,Mullen,,Pine Bluff,1908-06-18,1908-06-18,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Arkansas State League,regular,P8378712,Mullin,,Pine Bluff,1908-06-01,1908-06-01,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Arkansas State League,regular,P2327147,Mullins,,Pine Bluff,1908-06-06,1908-06-29,3,3,0,0,0,0,0,0,0,0,0,3
-1908,Arkansas State League,regular,P7975140,Murphy,,Memphis,1908-07-28,1908-07-28,1,0,0,0,0,0,1,1,0,0,0,0
 1908,Arkansas State League,regular,P6339122,Naylor,,Hot Springs,1908-08-02,1908-08-02,1,0,0,0,0,0,0,0,0,0,1,0
 1908,Arkansas State League,regular,P6152571,Neaves,,Helena,1908-06-16,1908-06-16,1,0,0,0,0,0,0,0,0,0,1,0
 1908,Arkansas State League,regular,P6204978,Nickens,,Pine Bluff,1908-06-19,1908-07-17,8,8,0,0,0,0,0,0,0,0,0,8
 1908,Arkansas State League,regular,P8473315,Oquinn,,Poplar Bluff,1908-04-21,1908-04-21,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Arkansas State League,regular,P0237761,Orr,,Argenta,1908-06-06,1908-06-24,7,0,0,0,0,0,0,0,0,0,7,0
-1908,Arkansas State League,regular,P3913099,Owens,,Memphis,1908-07-28,1908-07-28,1,0,0,0,0,0,0,0,0,0,1,0
 1908,Arkansas State League,regular,P5704006,Parrot,,Argenta,1908-06-15,1908-06-15,1,0,0,0,0,0,0,0,0,0,1,0
 1908,Arkansas State League,regular,P8471738,Parrott,,Argenta,1908-06-01,1908-07-31,35,0,0,0,0,0,0,0,0,0,35,0
 1908,Arkansas State League,regular,P2998313,Parrott,,Hot Springs,1908-04-20,1908-05-31,31,0,0,0,0,0,0,0,0,0,31,0
@@ -164,7 +150,6 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Arkansas State League,regular,P2536711,Puckett,,Pine Bluff,1908-04-20,1908-05-14,19,0,0,0,0,0,0,0,0,0,19,0
 1908,Arkansas State League,regular,P4638277,Rainey,,Hot Springs,1908-06-05,1908-07-31,18,1,0,0,0,0,0,0,0,0,17,1
 1908,Arkansas State League,regular,P7054133,Rainie,,Hot Springs,1908-07-05,1908-07-05,1,0,0,0,0,0,0,0,0,0,1,0
-1908,Arkansas State League,regular,P2413512,Redmond,,Memphis,1908-07-28,1908-07-28,1,0,0,1,0,0,0,0,0,0,0,0
 1908,Arkansas State League,regular,P9799186,Reece,,Argenta,1908-05-16,1908-05-19,2,2,0,0,0,0,0,0,0,0,0,2
 1908,Arkansas State League,regular,P4030370,Reese,,Argenta,1908-04-22,1908-07-29,13,13,0,0,0,0,0,0,0,0,0,13
 1908,Arkansas State League,regular,P1936969,Reiney,,Hot Springs,1908-06-08,1908-07-04,5,0,0,0,0,0,0,0,0,0,5,0
@@ -181,7 +166,6 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Arkansas State League,regular,P0107691,Rogers,,Helena,1908-04-20,1908-07-30,23,23,0,0,0,0,0,0,0,0,0,23
 1908,Arkansas State League,regular,P0921942,Russell,,Brinkley,1908-06-30,1908-07-04,2,2,0,0,0,0,0,0,0,0,0,2
 1908,Arkansas State League,regular,P4269243,Salm,,Argenta,1908-04-25,1908-05-08,3,3,0,0,0,0,0,0,0,0,0,3
-1908,Arkansas State League,regular,P8149666,Savidge,,Memphis,1908-07-28,1908-07-28,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Arkansas State League,regular,P1264151,Schlette,,Newport,1908-07-29,1908-07-29,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Arkansas State League,regular,P7946597,Schmidt,,Helena,1908-04-27,1908-05-10,6,1,0,0,0,0,0,0,0,0,5,1
 1908,Arkansas State League,regular,P6162126,Shaw,,Newport,1908-05-03,1908-08-01,23,23,0,0,0,0,0,0,0,0,0,23
@@ -191,7 +175,6 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Arkansas State League,regular,P2271349,Smart,,Argenta,1908-06-18,1908-06-18,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Arkansas State League,regular,P1475044,Smart,,Hot Springs,1908-07-22,1908-07-22,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Arkansas State League,regular,P9791347,Smith,,Argenta,1908-04-23,1908-05-23,7,7,0,0,0,0,0,0,0,0,0,7
-1908,Arkansas State League,regular,P0631119,Smith,,Birmingham,1908-07-28,1908-07-28,1,0,0,0,0,0,1,0,0,1,0,0
 1908,Arkansas State League,regular,P3506343,Steeder,,Newport,1908-06-16,1908-06-16,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Arkansas State League,regular,P7334515,Stoeder,,Hot Springs,1908-06-20,1908-06-20,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Arkansas State League,regular,P4886019,Studer,,Brinkley,1908-06-23,1908-07-01,3,3,0,0,0,0,0,0,0,0,0,3
@@ -206,7 +189,6 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Arkansas State League,regular,P5226630,Vaughn,,Hot Springs,1908-05-11,1908-05-18,2,2,0,0,0,0,0,0,0,0,0,2
 1908,Arkansas State League,regular,P8180982,Wallace,,Hot Springs,1908-06-01,1908-06-20,5,5,0,0,0,0,0,0,0,0,0,5
 1908,Arkansas State League,regular,P6451302,Walsh,,Pine Bluff,1908-07-18,1908-07-18,1,1,0,0,0,0,0,0,0,0,0,1
-1908,Arkansas State League,regular,P6606700,Walters,,Birmingham,1908-07-28,1908-07-28,1,0,0,1,0,0,0,0,0,0,0,0
 1908,Arkansas State League,regular,P2217375,Walters,,Hot Springs,1908-06-13,1908-07-06,8,8,0,0,0,0,0,0,0,0,0,8
 1908,Arkansas State League,regular,P3848169,Walters,,Pine Bluff,1908-07-13,1908-08-01,8,8,0,0,0,0,0,0,0,0,0,8
 1908,Arkansas State League,regular,P8178204,Ward,,Argenta,1908-05-08,1908-05-08,1,0,0,0,0,0,0,0,0,0,1,0
@@ -646,8 +628,8 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Southern Association,regular,P9242516,B'rwaeld,,Memphis,1908-06-05,1908-06-05,1,0,0,0,0,0,1,0,0,1,0,0
 1908,Southern Association,regular,P1522397,B'wald,,Memphis,1908-07-12,1908-07-12,1,0,0,0,0,0,1,0,0,1,0,0
 1908,Southern Association,regular,P5386658,Ba,,Nashville,1908-07-06,1908-07-06,1,0,0,0,0,0,1,1,0,0,0,0
-1908,Southern Association,regular,P3259219,Babb,,Memphis,1908-04-17,1908-08-02,93,0,0,0,90,3,0,0,0,0,0,0
-1908,Southern Association,regular,P0913454,Baerwald,,Memphis,1908-05-31,1908-08-02,56,0,0,4,3,0,50,0,0,50,0,0
+1908,Southern Association,regular,P3259219,Babb,,Memphis,1908-04-17,1908-08-02,94,0,0,0,91,3,0,0,0,0,0,0
+1908,Southern Association,regular,P0913454,Baerwald,,Memphis,1908-05-31,1908-08-02,57,0,0,4,3,0,51,0,0,51,0,0
 1908,Southern Association,regular,P2020074,Bartley,,New Orleans,1908-04-20,1908-07-31,26,24,0,0,0,0,0,0,0,0,0,24
 1908,Southern Association,regular,P2388294,Bauer,,Birmingham,1908-06-26,1908-07-30,12,10,0,0,0,0,0,0,0,0,0,10
 1908,Southern Association,regular,P3568304,Baxter,,Montgomery,1908-04-16,1908-06-17,44,0,44,0,0,0,0,0,0,0,0,0
@@ -673,7 +655,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Southern Association,regular,P8101302,Buchanan,,Little Rock,1908-04-19,1908-08-02,25,24,0,0,0,0,0,0,0,0,0,24
 1908,Southern Association,regular,P7912696,Burkett,,New Orleans,1908-04-18,1908-05-18,7,7,0,0,0,0,0,0,0,0,0,7
 1908,Southern Association,regular,P0403885,Butler,,Nashville,1908-04-16,1908-08-01,86,0,0,55,1,30,0,0,0,0,0,0
-1908,Southern Association,regular,P0226528,Carey,,Memphis,1908-04-17,1908-08-02,95,0,95,0,0,0,0,0,0,0,0,0
+1908,Southern Association,regular,P0226528,Carey,,Memphis,1908-04-17,1908-08-02,96,0,96,0,0,0,0,0,0,0,0,0
 1908,Southern Association,regular,P4966443,Castleton,,Atlanta,1908-04-17,1908-07-07,16,16,0,0,0,0,0,0,0,0,0,16
 1908,Southern Association,regular,P0307964,Castra,,Atlanta,1908-07-28,1908-07-28,1,0,0,0,0,1,0,0,0,0,0,0
 1908,Southern Association,regular,P1935306,Castro,,Atlanta,1908-04-16,1908-08-01,78,0,0,0,0,71,6,0,1,5,0,0
@@ -694,7 +676,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Southern Association,regular,P8202199,Coveney,,Atlanta,1908-04-27,1908-04-29,2,0,0,0,0,0,0,0,0,0,2,0
 1908,Southern Association,regular,P7001650,Coveny,,Atlanta,1908-04-24,1908-04-24,1,0,0,0,0,0,0,0,0,0,1,0
 1908,Southern Association,regular,P3537462,Cox,,Memphis,1908-04-22,1908-04-23,2,0,0,0,0,0,2,2,0,0,0,0
-1908,Southern Association,regular,P0263892,Cranston,,Memphis,1908-04-17,1908-08-02,93,0,0,31,0,62,0,0,0,0,0,0
+1908,Southern Association,regular,P0263892,Cranston,,Memphis,1908-04-17,1908-08-02,94,0,0,31,0,63,0,0,0,0,0,0
 1908,Southern Association,regular,P1502290,Crisp,,Mobile,1908-07-11,1908-08-01,8,0,0,0,0,0,0,0,0,0,8,0
 1908,Southern Association,regular,P8458012,Cristal,,Montgomery,1908-06-01,1908-06-11,4,4,0,0,0,0,0,0,0,0,0,4
 1908,Southern Association,regular,P3364584,Cristall,,Montgomery,1908-04-17,1908-06-18,11,10,0,0,0,0,0,0,0,0,0,10
@@ -722,11 +704,11 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Southern Association,regular,P2603774,Demont,,Birmingham,1908-04-16,1908-07-08,68,0,0,0,0,68,0,0,0,0,0,0
 1908,Southern Association,regular,P2198129,Demontreville,,Birmingham,1908-05-17,1908-05-17,1,0,0,0,0,1,0,0,0,0,0,0
 1908,Southern Association,regular,P6050403,Dexter,,New Orleans,1908-06-27,1908-08-01,29,0,26,0,0,0,2,0,0,2,0,0
-1908,Southern Association,regular,P4910160,Donahue,,Memphis,1908-04-17,1908-08-02,79,0,0,1,0,0,77,4,74,0,1,0
+1908,Southern Association,regular,P4910160,Donahue,,Memphis,1908-04-17,1908-08-02,80,0,0,1,0,0,78,4,75,0,1,0
 1908,Southern Association,regular,P6699614,Donohue,,Memphis,1908-04-23,1908-05-04,2,0,0,0,0,0,2,0,2,0,0,0
-1908,Southern Association,regular,P8037318,Douglas,,Birmingham,1908-04-28,1908-08-01,66,0,66,0,0,0,0,0,0,0,0,0
+1908,Southern Association,regular,P8037318,Douglas,,Birmingham,1908-04-28,1908-08-01,67,0,67,0,0,0,0,0,0,0,0,0
 1908,Southern Association,regular,P2788153,Douglass,,Birmingham,1908-04-27,1908-07-21,11,0,10,0,0,0,1,0,0,1,0,0
-1908,Southern Association,regular,P5148013,Downey,,Birmingham,1908-04-16,1908-08-01,88,0,1,37,31,19,0,0,0,0,0,0
+1908,Southern Association,regular,P5148013,Downey,,Birmingham,1908-04-16,1908-08-01,89,0,1,37,31,20,0,0,0,0,0,0
 1908,Southern Association,regular,P0570829,Downing,,Birmingham,1908-04-27,1908-04-27,1,0,0,0,1,0,0,0,0,0,0,0
 1908,Southern Association,regular,P3116667,Doyle,,Atlanta,1908-07-29,1908-07-29,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Southern Association,regular,P6418663,Dug'n,E.,Nashville,1908-04-28,1908-04-28,1,0,0,0,0,0,1,0,1,0,0,0
@@ -748,7 +730,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Southern Association,regular,P1884155,Fleeharty,,Birmingham,1908-05-21,1908-05-21,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Southern Association,regular,P6041078,Fleharty,,Birmingham,1908-04-22,1908-05-16,4,4,0,0,0,0,0,0,0,0,0,4
 1908,Southern Association,regular,P8106761,Ford,,Atlanta,1908-04-16,1908-07-31,23,23,0,0,0,0,0,0,0,0,0,23
-1908,Southern Association,regular,P8084546,Ford,,Birmingham,1908-07-19,1908-08-01,3,3,0,0,0,0,0,0,0,0,0,3
+1908,Southern Association,regular,P8084546,Ford,,Birmingham,1908-07-19,1908-08-01,4,4,0,0,0,0,0,0,0,0,0,4
 1908,Southern Association,regular,P9533890,Ford,,New Orleans,1908-06-28,1908-06-28,1,0,0,0,0,0,1,0,1,0,0,0
 1908,Southern Association,regular,P2415083,Fox,,Atlanta,1908-04-16,1908-08-01,90,0,89,1,0,0,0,0,0,0,0,0
 1908,Southern Association,regular,P4717913,Fox,,Memphis,1908-04-17,1908-05-16,20,0,0,0,0,0,20,19,1,0,0,0
@@ -788,7 +770,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Southern Association,regular,P1161302,Hassit,,Montgomery,1908-04-27,1908-04-27,1,0,0,0,0,0,0,0,0,0,0,0
 1908,Southern Association,regular,P6452842,Hassitt,,Montgomery,1908-04-25,1908-05-16,8,0,1,0,0,0,7,1,7,0,0,0
 1908,Southern Association,regular,P8551408,Helm,,Montgomery,1908-04-18,1908-05-22,6,6,0,0,0,0,0,0,0,0,0,6
-1908,Southern Association,regular,P4717370,Henline,,Birmingham,1908-05-12,1908-08-01,72,0,0,0,0,0,72,70,0,2,0,0
+1908,Southern Association,regular,P4717370,Henline,,Birmingham,1908-05-12,1908-08-01,73,0,0,0,0,0,73,71,0,2,0,0
 1908,Southern Association,regular,P4480237,Henline,,Montgomery,1908-04-16,1908-05-11,20,0,0,0,0,0,20,0,0,20,0,0
 1908,Southern Association,regular,P1593033,Hess,,Little Rock,1908-04-17,1908-08-02,97,0,0,0,97,0,0,0,0,0,0,0
 1908,Southern Association,regular,P8309682,Hess,,Nashville,1908-04-25,1908-05-30,6,6,0,0,0,0,0,0,0,0,0,6
@@ -813,7 +795,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Southern Association,regular,P7260361,Kellum,,Nashville,1908-05-01,1908-08-01,17,17,0,0,0,0,0,0,0,0,0,17
 1908,Southern Association,regular,P2383487,Kelly,,Atlanta,1908-07-01,1908-07-01,1,0,0,0,0,1,0,0,0,0,0,0
 1908,Southern Association,regular,P0512821,Killian,,Mobile,1908-07-29,1908-07-29,1,1,0,0,0,0,0,0,0,0,0,1
-1908,Southern Association,regular,P6229052,Larsen,,Birmingham,1908-07-16,1908-07-31,12,0,0,0,12,0,0,0,0,0,0,0
+1908,Southern Association,regular,P6229052,Larsen,,Birmingham,1908-07-16,1908-07-31,13,0,0,0,13,0,0,0,0,0,0,0
 1908,Southern Association,regular,P7138376,Lord,,New Orleans,1908-04-15,1908-08-01,91,0,0,0,0,0,90,1,89,0,1,0
 1908,Southern Association,regular,P6991441,"M""Corm'k",,Nashville,1908-04-22,1908-04-22,1,0,0,0,0,1,0,0,0,0,0,0
 1908,Southern Association,regular,P7147162,M'C'mek,,Nashville,1908-04-28,1908-04-28,1,0,0,0,0,1,0,0,0,0,0,0
@@ -863,7 +845,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Southern Association,regular,P4645956,McNeely,,Birmingham,1908-04-27,1908-04-27,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Southern Association,regular,P3686959,McNeil,,Birmingham,1908-06-18,1908-06-18,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Southern Association,regular,P8331579,McNeill,,Birmingham,1908-04-16,1908-04-16,1,1,0,0,0,0,0,0,0,0,0,1
-1908,Southern Association,regular,P6009913,Meek,,Birmingham,1908-04-16,1908-07-29,60,0,13,0,0,0,1,0,0,1,41,0
+1908,Southern Association,regular,P6009913,Meek,,Birmingham,1908-04-16,1908-07-29,61,0,13,0,0,0,1,0,0,1,42,0
 1908,Southern Association,regular,P3753532,Melver,,Mobile,1908-04-15,1908-04-15,1,0,0,0,0,0,1,0,0,1,0,0
 1908,Southern Association,regular,P0483439,Mereth,,Montgomery,1908-04-20,1908-04-20,1,0,0,0,0,0,1,1,0,0,0,0
 1908,Southern Association,regular,P4949052,Merryman,,Mobile,1908-05-11,1908-05-11,1,1,0,0,0,0,0,0,0,0,0,1
@@ -872,13 +854,13 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Southern Association,regular,P4822579,Messitt,,Montgomery,1908-04-23,1908-05-29,13,0,0,0,0,0,0,0,0,0,13,0
 1908,Southern Association,regular,P0588063,Mol'sw'h,,Birmingham,1908-04-20,1908-04-20,1,0,0,0,0,0,1,0,1,0,0,0
 1908,Southern Association,regular,P7484666,Moles'th,,Birmingham,1908-07-07,1908-07-07,1,0,0,0,0,0,1,0,1,0,0,0
-1908,Southern Association,regular,P2501085,Molesw'h,,Birmingham,1908-04-22,1908-07-31,30,0,0,0,0,0,30,0,30,0,0,0
+1908,Southern Association,regular,P2501085,Molesw'h,,Birmingham,1908-04-22,1908-07-31,31,0,0,0,0,0,31,0,31,0,0,0
 1908,Southern Association,regular,P9302449,Molesw'th,,Birmingham,1908-04-18,1908-06-15,9,0,0,0,0,0,9,0,9,0,0,0
 1908,Southern Association,regular,P1631307,Molesworth,,Birmingham,1908-04-16,1908-08-01,42,0,0,0,0,0,42,0,42,0,0,0
 1908,Southern Association,regular,P7272333,Mook,,Birmingham,1908-04-20,1908-04-20,1,0,1,0,0,0,0,0,0,0,0,0
 1908,Southern Association,regular,P5271003,Moran,,Atlanta,1908-05-01,1908-08-01,80,0,0,0,0,0,80,80,0,0,0,0
 1908,Southern Association,regular,P5262021,Morse,,Nashville,1908-04-16,1908-04-22,4,0,0,2,0,0,0,0,0,0,0,0
-1908,Southern Association,regular,P4020497,Murphy,,Memphis,1908-05-20,1908-08-02,63,1,0,0,0,0,62,59,1,3,0,1
+1908,Southern Association,regular,P4020497,Murphy,,Memphis,1908-05-20,1908-08-02,64,1,0,0,0,0,63,60,1,3,0,1
 1908,Southern Association,regular,P4695402,Murray,,Montgomery,1908-06-29,1908-07-11,3,3,0,0,0,0,0,0,0,0,0,3
 1908,Southern Association,regular,P8637301,Neuer,,Little Rock,1908-07-04,1908-08-01,6,6,0,0,0,0,0,0,0,0,0,6
 1908,Southern Association,regular,P1938864,Neur,,Little Rock,1908-06-30,1908-07-30,3,2,0,0,0,0,1,0,0,1,0,2
@@ -886,7 +868,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Southern Association,regular,P7841833,Noblett,,Mobile,1908-04-23,1908-05-10,3,0,0,0,0,0,1,0,0,1,0,0
 1908,Southern Association,regular,P0673712,Nuer,,Little Rock,1908-07-28,1908-07-28,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Southern Association,regular,P5037695,O'Leary,,Memphis,1908-04-20,1908-08-02,58,0,2,0,0,0,34,13,11,10,23,0
-1908,Southern Association,regular,P0459928,Owens,,Memphis,1908-04-17,1908-08-02,79,0,0,0,0,0,2,0,0,2,77,0
+1908,Southern Association,regular,P0459928,Owens,,Memphis,1908-04-17,1908-08-02,80,0,0,0,0,0,2,0,0,2,78,0
 1908,Southern Association,regular,P4129334,P'rsons,,Montgomery,1908-06-29,1908-06-29,1,0,0,0,0,0,1,1,0,0,0,0
 1908,Southern Association,regular,P6369523,Page,,Little Rock,1908-04-17,1908-08-02,99,0,0,52,1,7,39,0,0,39,0,0
 1908,Southern Association,regular,P8998751,Park,,Mobile,1908-05-07,1908-05-07,1,0,1,0,0,0,0,0,0,0,0,0
@@ -909,7 +891,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Southern Association,regular,P8189445,Reagan,,Birmingham,1908-04-25,1908-05-09,5,0,0,0,0,0,5,0,0,5,0,0
 1908,Southern Association,regular,P7952312,Reagan,,Montgomery,1908-05-12,1908-08-01,71,0,0,4,0,0,68,18,7,43,0,0
 1908,Southern Association,regular,P3473631,Redm'd,,Memphis,1908-06-03,1908-07-21,2,0,0,2,0,0,0,0,0,0,0,0
-1908,Southern Association,regular,P1910293,Redmond,,Memphis,1908-05-24,1908-08-01,60,0,0,58,1,1,0,0,0,0,0,0
+1908,Southern Association,regular,P1910293,Redmond,,Memphis,1908-05-24,1908-08-01,61,0,0,59,1,1,0,0,0,0,0,0
 1908,Southern Association,regular,P6837316,Regan,,Birmingham,1908-04-20,1908-05-11,10,0,0,0,0,0,10,1,0,9,0,0
 1908,Southern Association,regular,P6600183,Regan,,Montgomery,1908-05-13,1908-05-13,1,0,0,0,0,0,1,1,0,0,0,0
 1908,Southern Association,regular,P6027144,Richert,,New Orleans,1908-06-17,1908-06-17,1,0,0,0,0,0,1,1,0,0,0,0
@@ -933,7 +915,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Southern Association,regular,P9383634,S'w'ck,,Memphis,1908-05-15,1908-05-15,1,0,0,0,0,0,1,1,0,1,0,0
 1908,Southern Association,regular,P0080679,Sabrie,,Mobile,1908-06-28,1908-08-01,32,0,32,0,0,0,0,0,0,0,0,0
 1908,Southern Association,regular,P8269997,Sabrie,,New Orleans,1908-04-15,1908-06-21,62,0,62,0,0,0,0,0,0,0,0,0
-1908,Southern Association,regular,P7646447,Savidge,,Memphis,1908-04-19,1908-07-31,23,22,0,0,0,0,1,0,0,1,0,22
+1908,Southern Association,regular,P7646447,Savidge,,Memphis,1908-04-19,1908-07-31,24,23,0,0,0,0,1,0,0,1,0,23
 1908,Southern Association,regular,P1307595,Schopp,,Atlanta,1908-04-22,1908-07-22,22,22,0,0,0,0,0,0,0,0,0,22
 1908,Southern Association,regular,P9418850,Schwenck,,Memphis,1908-04-17,1908-08-02,27,22,0,0,0,0,1,0,1,0,0,22
 1908,Southern Association,regular,P2570704,Seab'gh,,Nashville,1908-05-25,1908-05-25,1,0,0,0,0,0,0,0,0,0,1,0
@@ -951,7 +933,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Southern Association,regular,P4544376,Siegel,,Nashville,1908-05-04,1908-05-04,1,0,0,0,0,0,1,0,1,0,0,0
 1908,Southern Association,regular,P9351384,Siegle,,Nashville,1908-05-07,1908-05-25,2,0,0,0,0,0,2,0,2,0,0,0
 1908,Southern Association,regular,P0394819,Smith,,Atlanta,1908-07-20,1908-08-01,7,0,0,0,0,0,0,0,0,0,7,0
-1908,Southern Association,regular,P4024892,Smith,,Birmingham,1908-07-21,1908-08-01,10,0,0,0,0,0,10,0,0,10,0,0
+1908,Southern Association,regular,P4024892,Smith,,Birmingham,1908-07-21,1908-08-01,11,0,0,0,0,0,11,0,0,11,0,0
 1908,Southern Association,regular,P9438838,Sorrel,,Nashville,1908-04-16,1908-04-16,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Southern Association,regular,P8173026,Sorrell,,Nashville,1908-04-21,1908-04-21,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Southern Association,regular,P4314049,Speaker,,Little Rock,1908-04-17,1908-08-02,100,0,0,0,0,0,98,0,98,0,2,0
@@ -977,7 +959,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1908,Southern Association,regular,P6594463,W'lters,,Birmingham,1908-06-29,1908-06-29,1,0,0,0,1,0,0,0,0,0,0,0
 1908,Southern Association,regular,P4506141,Walsh,,Atlanta,1908-04-23,1908-04-23,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Southern Association,regular,P8577984,Walters,,Atlanta,1908-07-06,1908-07-06,1,0,0,0,0,0,1,0,1,0,0,0
-1908,Southern Association,regular,P2425497,Walters,,Birmingham,1908-04-16,1908-08-01,84,1,0,48,37,0,0,0,0,0,0,1
+1908,Southern Association,regular,P2425497,Walters,,Birmingham,1908-04-16,1908-08-01,85,1,0,49,37,0,0,0,0,0,0,1
 1908,Southern Association,regular,P6232600,Walters,,Little Rock,1908-04-18,1908-06-23,11,11,0,0,0,0,0,0,0,0,0,11
 1908,Southern Association,regular,P1944138,Walters,D.,Little Rock,1908-05-21,1908-05-21,1,1,0,0,0,0,0,0,0,0,0,1
 1908,Southern Association,regular,P5569171,Walters,L.,Birmingham,1908-05-21,1908-05-21,1,0,0,1,0,0,0,0,0,0,0,0
