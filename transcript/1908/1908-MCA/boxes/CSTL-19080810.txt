@@ -1,0 +1,926 @@
+date: 1908-08-10
+number: 0
+league: Cotton States
+away: Monroe
+home: Jackson
+source: (Memphis) Commercial Appeal, August 11, 1908
+
+Monroe:		ab r h po a e
+Carroll @ rf:	4 0 0 1 0 0
+Ad'ngtn @ 3b:	3 0 1 3 2 0
+Northern @ cf:	4 0 0 2 0 0
+Dobard @ 2b:	3 0 1 2 1 0
+Kitchens @ c:	3 0 0 6 1 0
+Hoffman @ 1b:	3 0 0 9 2 0
+Reagan @ ss:	3 0 1 0 4 0
+Fisher @ lf:	3 0 0 2 0 0
+Brazelle @ p:	3 0 0 0 3 0
+TOTALS:		29 0 3 25 13 0
+
+outsatend: 1
+
+Jackson:	ab r h po a e
+Taylor @ lf:	4 0 0 3 0 0
+Ott @ c:	4 1 1 8 1 0
+Claire @ ss:	3 0 0 3 3 0
+Saillard @ 1b:	4 0 2 12 0 1
+Kline @ cf:	2 0 0 1 0 0
+Blackburn @ 3b:	3 0 1 0 1 0
+Relf @ rf:	2 0 0 0 0 0
+Pickens @ 2b:	2 0 0 0 3 0
+Blakeny @ p:	1 0 0 0 5 0
+TOTALS:		25 1 4 27 13 1
+
+line: Monroe: 0 0 0 0 0 0 0 0 0 - 0
+line: Jackson: 0 0 0 0 0 0 0 0 1 - 1
+
+B_SB: Blackburn
+P_BB: Brazelle #3; Blakeny #1
+P_SO: Brazelle #5; Blakeny #8
+B_SH: Kline; Claire; Blakeny
+T: 1:15
+U: Larocque
+
+---
+
+date: 1908-08-10
+number: 0
+league: Cotton States
+away: Vicksburg
+home: Columbus
+source: (Memphis) Commercial Appeal, August 11, 1908
+
+Vicksburg:	ab r h po a e
+Manush, G. @ rf:	5 2 2 1 0 0
+Herold @ ss:	4 1 0 3 4 0
+Boyd @ cf:	3 1 0 3 0 0
+Maender @ lf:	2 0 0 4 0 0
+Sample @ 1b:	3 0 0 11 0 1
+Dorsey @ 2b:	4 0 1 2 1 0
+Klawitter @ p:	4 0 1 1 2 0
+Lagrave @ 3b:	3 0 1 1 1 0
+Dudley @ c:	4 0 1 1 1 0
+TOTALS:		32 4 6 27 9 1
+
+Columbus:	ab r h po a e
+Marshall @ rf:	3 0 1 2 0 0
+Ollre @ lf:	3 0 0 0 0 0
+Manush, F. @ 3b:	4 0 1 0 1 0
+D'meyer @ ss:	3 0 0 3 2 0
+Geiser @ cf:	4 0 0 2 0 0
+Downing @ c:	4 0 2 10 1 0
+Ling @ 1b:	3 0 0 7 0 0
+Corbett @ 2b:	4 0 1 3 1 0
+Demaree @ p:	0 0 0 0 0 0
+May @ p:	3 0 0 0 4 1
+TOTALS:		31 0 5 27 9 1
+
+line: Vicksburg: 3 0 0 0 1 0 0 0 0 - 4
+line: Columbus: 0 0 0 0 0 0 0 0 0 - 0
+
+B_3B: G. Manush
+B_SH: Sample
+F_PB: Downing
+P_WP: Demaree; May
+P_SO: May #11
+P_BB: Demaree #3; May #4; Klawitter #4
+P_HP: Demaree; May
+B_HP: Boyd; Maender
+note: addition - summary states that Maender was hit by May, but does not list pitcher who hit Boyd - however, per recap, Demaree walked three and hit a batter at the start of the game
+P_H: Demaree #1; May #5
+U: Matthews
+
+---
+
+date: 1908-08-10
+number: 0
+league: Cotton States
+away: Gulfport-Biloxi
+home: Meridian
+source: (Memphis) Commercial Appeal, August 11, 1908
+
+Gulfport-Biloxi:	ab r h po a e
+Evans @ 2b:	4 0 1 1 1 0
+Murch @ 3b:	4 0 0 0 2 0
+Holland @ cf:	4 0 1 2 0 0
+Blanchfield @ rf:	3 1 0 1 0 0
+Gilks @ 1b:	3 0 1 13 0 0
+Lively @ p:	3 1 1 0 4 0
+Graffius @ c:	3 1 1 7 2 0
+Krebs @ ss:	4 1 1 3 1 0
+Burkett @ lf:	4 0 0 0 0 0
+TOTALS:		32 4 6 27 10 0
+
+Meridian:	ab r h po a e
+Moulton @ ss:	4 0 0 2 3 2
+Fuller @ c:	4 1 2 6 2 0
+Robb @ cf:	3 0 0 2 0 0
+Welch @ 3b:	4 0 1 0 4 0
+Dobard @ 2b:	4 1 1 1 3 1
+Phillips @ rf-1b:	3 0 1 13 0 0
+Carnes @ 1b:	0 0 0 2 1 0
+Ellinoir @ rf:	3 0 0 0 0 1
+Anderson @ lf:	3 0 1 1 1 1
+Yount @ p:	2 1 0 0 2 0
+TOTALS:		30 3 6 27 16 5
+
+line: Gulfport-Biloxi: 0 0 0 0 2 0 0 0 2 - 4
+line: Meridian: 0 0 0 0 1 2 0 0 0 - 3
+
+B_2B: Fuller
+B_SH: Blanchfield; Phillips; Gilks
+B_SB: Fuller; Dobard; Robb; Welch
+P_SO: Yount #6; Lively #7
+P_BB: Yount #2; Lively #2
+T: 1:35
+U: Bammert
+
+---
+
+date: 1908-08-11
+number: 0
+league: Cotton States
+away: Monroe
+home: Jackson
+source: (Memphis) Commercial Appeal, August 12, 1908
+
+Monroe:		ab r h po a e
+Carroll @ rf:	3 0 1 0 0 0
+Add'gton @ 3b:	4 0 1 1 0 0
+Northern @ cf:	4 0 0 2 0 0
+Dobard @ 2b:	4 0 0 3 5 0
+Kitchens @ c:	4 0 0 5 2 0
+Hoffman @ 1b:	3 0 0 10 1 0
+Reagan @ ss:	3 0 1 3 3 0
+Fisher @ lf:	3 0 0 0 0 0
+Frickie @ p:	3 0 0 0 1 0
+TOTALS:		31 0 3 24 12 0
+
+note: correction - box has a '4' listed under error column for Reagan - however, box lists 0 total errors by Jackson, and recap states that Lloyd committed the only miscue of the game, so Reagan's error total is corrected here to 0.
+
+Jackson:	ab r h po a e
+Taylor @ lf:	4 0 0 4 0 0
+Ott @ c:	3 0 0 7 1 0
+Claire @ ss:	4 0 1 1 1 0
+Saillard @ 1b:	4 1 1 11 0 0
+Kline @ cf:	3 2 2 2 0 0
+Blackburn @ 3b:	1 0 1 1 3 0
+Lloyd @ rf:	2 1 0 1 0 1
+Pickens @ 2b:	3 0 2 0 2 0
+Barber @ p:	3 0 0 0 3 0
+TOTALS:		27 4 7 27 10 1
+
+line: Monroe: 0 0 0 0 0 0 0 0 0 - 0
+line: Jackson: 0 3 0 0 0 1 0 0 x - 4
+
+B_2B: Kline
+B_SB: Blackburn; Lloyd
+P_BB: Barber #1; Frickie #2
+P_SO: Barber #4; Frickie #3
+B_SH: Blackburn
+F_DP: Dobard, Reagan, Hoffman; Reagan, Dobard, Hoffman
+T: 1:17
+U: Larocque
+
+---
+
+date: 1908-08-11
+number: 0
+league: Cotton States
+away: Vicksburg
+home: Columbus
+source: (Memphis) Commercial Appeal, August 12, 1908
+
+Vicksburg:	ab r h po a e
+Manush, G. @ rf:	4 0 0 2 0 0
+Herold @ ss:	5 0 1 2 6 0
+Boyd @ cf:	5 0 0 0 0 0
+Klawitter @ lf:	5 0 1 3 0 0
+Sample @ 1b:	4 0 0 19 0 0
+Dorsey @ 2b:	4 0 0 5 2 1
+Lagrove @ 3b:	4 0 0 2 4 1
+Dudley @ c:	4 0 1 1 0 0
+Robb @ p:	4 1 2 0 8 0
+TOTALS:		39 1 5 34 20 2
+
+outsatend: 1
+
+Columbus:	ab r h po a e
+Marshall @ rf:	5 0 2 2 0 0
+Ollre @ lf:	2 1 0 3 0 0
+Demaree @ lf:	1 0 1 0 0 0
+Manush @ 3b:	4 0 1 0 2 1
+Durmeyer @ ss:	5 0 0 7 3 0
+Geiser @ cf:	4 0 1 1 2 0
+Downing @ c:	1 0 0 1 0 0
+Hall @ 1b:	4 0 1 9 0 0
+Ling @ 1b-c:	5 1 2 10 2 0
+Corbett @ 2b:	4 0 1 3 7 0
+Allison @ p:	4 0 2 0 3 1
+TOTALS:		39 2 11 36 19 2
+
+line: Vicksburg: 0 0 1 0 0 0 0 0 0 0 0 0 - 1
+line: Columbus: 0 0 0 0 0 0 0 0 1 0 0 1 - 2
+
+B_3B: Corbett
+B_SH: Ollre #2; Geiser; Corbett; G. Manush
+B_SB: Ling; G. Manush; Boyd
+F_DP: Corbett, Durmeyer, Hall; Corbett, Durmeyer; Herold, Lagrove
+P_SO: Allison #9
+P_BB: Allison #1
+T: 1:50
+U: Matthews
+
+---
+
+date: 1908-08-11
+number: 0
+league: Cotton States
+away: Gulfport-Biloxi
+home: Meridian
+source: (Memphis) Commercial Appeal, August 12, 1908
+
+Gulfport-Biloxi:	ab r h po a e
+Evans @ 2b:	3 0 0 3 3 0
+Murch @ 3b:	4 0 1 2 2 0
+Holland @ cf:	3 0 0 1 0 0
+Blan'hf'd @ rf:	4 0 0 0 0 0
+Gilks @ 1b:	3 0 0 8 2 0
+Lively @ lf:	4 0 0 2 2 1
+Graffius @ c:	4 0 0 6 3 0
+Krebs @ ss:	4 0 0 2 0 2
+Schulz @ p:	3 0 0 0 2 0
+TOTALS:		32 0 1 24 14 3
+
+Meridian:	ab r h po a e
+Moulton @ 2b:	4 1 2 2 7 2
+Fuller @ c:	2 1 1 4 2 0
+Robb @ cf:	4 0 3 3 0 0
+Welch @ 3b:	4 0 0 0 1 0
+Dobard @ ss:	4 1 2 0 3 2
+Ellinor @ rf:	4 0 0 0 0 0
+Carnes @ 1b:	3 0 0 16 0 0
+Anderson @ lf:	3 0 1 2 0 1
+Phillips @ p:	3 0 1 0 4 0
+TOTALS:		31 3 10 27 17 5
+
+line: Gulfport-Biloxi: 0 0 0 0 0 0 0 0 0 - 0
+line: Meridian: 0 3 0 0 0 1 0 0 x - 4
+
+B_3B: Robb
+B_SH: Fuller #2; Holland; Schulz
+B_SB: Fuller; Robb
+B_HP: Evans
+P_SO: Phillips #2; Schulz #5
+P_BB: Phillips #2; Schulz #2
+F_PB: Graffius
+F_DP: Evans, Krebs; Fuller, Carnes
+T: 1:40
+U: Dammert
+
+---
+
+date: 1908-08-12
+number: 0
+league: Cotton States
+away: Monroe
+home: Jackson
+source: (Memphis) Commercial Appeal, August 13, 1908
+
+Monroe:		ab r h po a e
+Carroll @ cf:	6 0 0 3 0 0
+Add'gton @ 3b:	5 0 0 0 4 0
+Dobard @ 2b:	4 0 1 3 0 0
+Kitchens @ c:	3 0 0 6 0 0
+Reagan @ ss:	4 0 2 1 9 1
+Hoffman @ 1b:	4 0 1 18 1 0
+Brazelle @ rf:	5 0 0 1 0 0
+Fisher @ lf:	4 0 3 2 0 0
+Ford @ p:	4 0 0 0 5 0
+TOTALS:		39 0 7 34 19 1
+
+outsatend: 1
+note: correction - box lists 30 total Monroe ABs, but player totals add up to 39 - it is apparent that the total AB figure is a misprint, so it is corrected here
+
+Jackson:	ab r h po a e
+Taylor @ lf:	5 0 2 1 0 0
+Ott @ c:	4 0 2 9 2 0
+Claire @ ss:	5 0 1 4 6 2
+Saillard @ 1b:	4 1 0 16 1 0
+Kline @ cf:	4 0 0 2 0 0
+Bl'kburn @ 3b:	5 0 2 0 4 0
+Lloyd @ rf:	4 0 0 1 0 0
+M'gomery @ rf:	0 0 0 0 0 0
+Pickens @ 2b:	4 0 0 3 3 0
+Blakeney @ p:	4 0 1 0 2 0
+Barber @ p:	0 0 0 0 0 0
+TOTALS:		39 1 8 36 18 2
+
+line: Monroe: 0 0 0 0 0 0 0 0 0 0 0 0 - 0
+line: Jackson: 0 0 0 0 0 0 0 0 0 0 0 1 - 1
+
+B_2B: Fisher #2
+B_SB: Dobard; Claire
+P_BB: Ford #1; Blakeney #5
+P_SO: Ford #6; Blakeney #4; Barber #2
+B_SH: Dobard; Ott
+F_DP: Pickens, Ott, Saillard
+T: 2:00
+P_IP: Blakeney #10.1; Barber #1.2
+note: addition - P_IP not in summary, but taken from recap
+U: Larocque
+
+---
+
+date: 1908-08-12
+number: 0
+league: Cotton States
+away: Vicksburg
+home: Columbus
+source: (Memphis) Commercial Appeal, August 13, 1908
+
+Vicksburg:	ab r h po a e
+Manush, G. @ rf:	5 0 3 2 0 1
+Herold @ ss:	5 0 0 0 3 0
+Boyd @ cf:	4 1 1 1 0 0
+Maender @ lf:	4 0 0 2 0 0
+Sample @ 1b:	4 0 2 9 0 1
+Dorsey @ 2b:	4 0 1 3 3 0
+Klawitter @ p:	4 1 1 0 4 0
+Lagrove @ 3b:	4 1 1 4 3 2
+Dudley @ c:	4 0 0 3 1 1
+TOTALS:		38 3 9 24 14 5
+
+note: correction - box identifies Manush as 'M. Manush', but this has been corrected here as summary includes tallies by both 'G. Manush' and "F. Manush', and George Manush is with Vicksburg
+
+Columbus:	ab r h po a e
+Marshall @ rf-1b:	3 0 1 3 0 1
+Ollrie @ lf:	4 1 1 3 0 0
+Manush, F. @ 3b:	5 0 1 2 3 0
+Durmeyer @ ss:	3 1 2 1 1 1
+Geiser @ cf:	3 1 1 4 0 0
+Hall @ 1b-p:	3 1 0 3 0 0
+Ling @ c:	4 0 2 9 1 0
+Corbett @ 2b:	3 0 0 2 2 1
+May @ p-rf:	4 1 2 0 1 0
+TOTALS:		32 5 10 27 8 3
+
+note: correction - box identifies Manush as 'Manush', but this has been corrected here as summary includes tallies by both 'G. Manush' and 'F. Manush', and Frank Manush is with Columbus
+
+line: Vicksburg: 0 0 0 1 0 0 2 0 0 - 3
+line: Columbus: 1 0 3 0 0 0 0 1 x - 5
+
+B_2B: F. Manush; Ling
+B_3B: Boyd
+B_SH: Marshall; Corbett
+B_SB: Marshall; Durmeyer #2; G. Manush
+P_SO: May #6; Hall #1; Klawitter #1
+P_BB: Klawitter #6
+note: per recap, Hall relieved May during the 7th inning
+T: 1:40
+U: Matthews
+
+---
+
+date: 1908-08-12
+number: 0
+league: Cotton States
+away: Gulfport-Biloxi
+home: Meridian
+source: (Memphis) Commercial Appeal, August 13, 1908
+
+Gulfport-Biloxi:	ab r h po a e
+Evans @ 2b:	4 0 1 3 4 0
+Murch @ 3b:	4 0 1 2 1 1
+Holland @ cf:	2 1 1 3 1 1
+Blanchfield @ rf:	2 1 0 2 0 0
+Gilks @ 1b:	4 0 0 8 0 1
+Lively @ lf:	4 1 1 2 0 1
+Graffius @ c:	4 1 1 6 1 0
+Krebs @ ss:	4 0 2 1 1 0
+Burkett @ p:	4 0 1 0 4 0
+TOTALS:		32 4 8 27 12 4
+
+Meridian:	ab r h po a e
+Moulton @ 2b:	3 1 2 1 2 0
+Fuller @ c:	4 0 0 6 2 0
+Robb @ cf:	3 0 1 2 0 0
+Welsh @ 3b:	4 1 1 2 1 0
+Dobard @ ss:	4 0 1 1 3 0
+Phillips @ rf:	4 1 0 3 1 0
+Carnes @ 1b:	4 0 1 11 0 0
+Anderson @ lf:	3 0 0 1 0 0
+Peaster @ p:	4 0 0 0 2 1
+*Ellinor @ ph:	1 0 0 0 0 0
+TOTALS:		34 3 6 27 11 1
+
+*: batted for Peaster in 9th inning
+
+line: Gulfport-Biloxi: 0 0 0 4 0 0 0 0 0 - 4
+line: Meridian: 1 0 0 0 0 0 0 0 2 - 3
+
+B_2B: Moulton #2; Graffius
+B_SH: Blanchfield #2
+B_SB: Krebs
+P_SO: Burkett #6; Peaster #3
+P_BB: Burkett #2; Peaster #2
+F_DP: Murch, Evans, Gilks
+T: 1:35
+U: Bammert
+
+---
+
+date: 1908-08-13
+number: 0
+league: Cotton States
+away: Vicksburg
+home: Jackson
+source: (Memphis) Commercial Appeal, August 14, 1908
+
+Vicksburg:	ab r h po a e
+Manush @ rf:	1 0 0 3 0 0
+Herold @ ss:	3 0 0 2 2 0
+Boyd @ cf:	4 0 1 4 0 0
+Maender @ lf:	3 0 0 0 0 0
+Sample @ p:	4 0 2 1 2 0
+Dorsey @ 2b:	3 0 0 1 2 0
+Klawitter @ 1b:	3 0 1 9 1 0
+Lagrove @ 3b:	2 0 0 0 1 0
+Dudley @ c:	3 0 1 4 1 0
+TOTALS:		26 0 5 24 9 0
+
+Jackson:	ab r h po a e
+Taylor @ lf: 	3 0 0 2 0 0
+Ott @ c:	3 1 1 8 1 0
+M'gomery @ rf:	3 0 0 1 0 0
+Claire @ ss:	3 1 1 1 3 0
+Saillard @ 1b:	3 0 2 10 0 0
+Kline @ cf:	3 0 0 2 1 0
+B'ckburn @ 3b:	3 0 0 1 1 0
+Pickens @ 2b:	3 0 0 2 0 0
+Veazey @ p:	3 0 0 0 5 0
+TOTALS:		27 2 4 27 11 0
+
+line: Vicksburg: 0 0 0 0 0 0 0 0 0 - 0
+line: Jackson: 0 0 0 0 0 0 2 0 x - 2
+
+B_2B: Sample
+B_SB: Ott; Claire
+P_BB: Veazey #2
+P_SO: Veazey #7; Sample #4
+B_HP: Maender; Lagrove
+B_SH: Herold; Manush; Dorsey
+B_LOB: Jackson #1; Vicksburg #5
+note: addition - B_LOB not in summary, but taken from recap
+T: 1:20
+U: Larocque
+
+---
+
+date: 1908-08-13
+number: 0
+league: Cotton States
+away: Columbus
+home: Meridian
+source: (Memphis) Commercial Appeal, August 14, 1908
+
+note: 'amateur backstop' Hopkins played in place of manager Fuller, who was sick
+
+Columbus:	ab r h po a e
+Marshall @ rf-1b:	3 0 1 5 0 0
+Ollrie @ lf:	2 0 1 3 1 0
+Manush @ 3b:	2 0 0 3 2 0
+Durmeyer @ ss:	2 0 0 5 4 0
+Geiser @ cf:	3 0 0 2 0 0
+Corbett @ 2b:	4 0 0 2 3 1
+Ling @ c:	1 0 0 0 0 1
+Downing @ c:	2 0 0 1 0 0
+Hall @ 1b-p:	3 0 0 3 0 1
+Demaree @ p:	2 0 0 0 3 0
+Allison @ rf:	1 0 0 0 0 0
+TOTALS:		25 0 2 24 13 3
+
+Meridian:	ab r h po a e
+Moulton @ 2b:	3 1 0 2 4 1
+Dobard @ ss:	3 0 1 1 4 0
+Robb @ cf:	3 0 0 4 0 0
+Welch @ 3b:	3 0 0 2 0 0
+Phillips @ lf:	3 0 1 3 0 0
+Carnes @ 1b:	4 2 1 10 0 0
+Yount @ rf:	4 0 1 3 0 0
+Ellinor @ p:	3 0 1 0 3 0
+Hopkins @ c:	4 1 2 2 2 0
+TOTALS:		30 4 7 27 13 1
+
+line: Columbus: 0 0 0 0 0 0 0 0 0 - 0
+line: Meridian: 0 0 2 1 0 1 0 0 x - 4
+
+B_3B: Hopkins
+B_SH: Ollrie; Durmeyer; Ellinor
+B_SB: Robb; Moulton; Yount; Demaree
+B_HP: Manush #2; Robb; Carnes
+P_HP: Ellinor #2; Hall #1; Demaree #1
+note: addition - P_HP not specified - text of summary is 'hit by pitcher - Manush 2, Robb, Carnes (by Demaree)' - assumption is made that Hall hit Robb with a pitch
+P_SO: Ellinor #2
+P_BB: Demaree #2; Hall #2; Ellinor #2
+F_DP: Corbett, Durmeyer, Hall
+T: 1:35
+U: Bammert
+
+---
+
+date: 1908-08-13
+number: 0
+league: Cotton States
+site: Gulfport
+away: Monroe
+home: Gulfport-Biloxi
+source: (Memphis) Commercial Appeal, August 14, 1908
+
+Monroe:		ab r h po a e
+Carroll @ c:	3 0 2 5 0 0
+Add'gton @ 3b:	4 0 0 1 0 0
+Dobard @ cf-p:	4 0 0 3 0 0
+Kitchens @ 2b:	4 0 0 2 4 0
+Reagan @ ss-lf:	4 0 3 2 3 0
+Hoffman @ 1b:	4 0 1 8 0 1
+Fisher @ lf-ss:	4 0 0 2 0 1
+Ford @ rf:	3 0 1 1 0 0
+Lusk @ p:	3 0 0 0 2 2
+TOTALS:		33 0 7 24 9 4
+
+note: missing data - Dobard is only player in lineup listed in CF - if there were no other substitutions, Lusk would have had to take another position after being relieved by Dobard
+
+Gulfport-Biloxi:	ab r h po a e
+Evans @ 2b:	5 2 0 2 0 0
+Murch @ 3b:	4 1 0 0 3 0
+Holland @ 1b:	4 1 1 6 0 0
+Blanchfield @ rf:	5 2 3 4 0 0
+Lively @ lf:	4 2 1 2 0 0
+Krebs @ ss-cf:	5 2 1 2 2 0
+Graffius @ c:	5 1 2 7 0 0
+Burkett @ cf-ss:	5 1 3 4 1 0
+Bruner @ p:	3 1 0 0 2 0
+TOTALS:		40 13 11 27 8 0
+
+line: Monroe: 0 0 0 0 0 0 0 0 0 - 0
+line: Gulfport-Biloxi: 6 0 0 0 0 5 0 2 x - 13
+
+B_2B: Burkett
+B_HR: Blanchfield
+F_PB: Carroll
+B_SB: Lively; Graffius; Krebs #2
+P_BB: Bruner #1; Lusk #1; Dobard #1
+P_SO: Bruner #7; Lusk #1; Dobard #2
+P_HP: Lusk #2
+B_HP: Lively; Holland
+F_DP: Krebs, Holland
+T: 1:30
+U: Frickie
+
+---
+
+date: 1908-08-14
+number: 0
+league: Cotton States
+away: Vicksburg
+home: Jackson
+source: (Memphis) Commercial Appeal, August 15, 1908
+
+Vicksburg:	ab r h po a e
+Manush @ rf:	5 2 2 3 0 0
+Herold @ ss:	4 0 2 0 6 0
+Boyd @ cf:	4 0 2 4 0 0
+Maender @ lf:	5 0 0 2 0 1
+Klawitter @ 1b:	2 0 1 4 0 0
+Sample @ 1b:	1 0 0 3 0 0
+Dorsey @ 2b:	3 0 2 5 3 0
+Lagrove @ 3b:	3 0 0 2 0 0
+Robb @ p:	4 0 0 0 3 0
+Dudley @ c:	4 1 1 1 1 0
+TOTALS:		35 3 10 24 13 1
+
+Jackson:	ab r h po a e
+Taylor @ lf:	3 1 1 2 0 0
+Ott @ c:	3 1 2 9 0 0
+M'gomery @ rf:	4 1 1 2 0 0
+Claire @ ss:	4 1 2 1 5 0
+Saillard @ 1b:	3 1 2 7 0 0
+Kline @ cf:	4 1 2 3 1 1
+B'kburn @ 3b:	4 0 1 0 2 0
+Pickens @ 2b:	4 0 1 2 2 0
+Barber @ p:	3 0 0 0 0 0
+Blakeney @ p:	1 0 0 1 1 0
+TOTALS:		33 6 12 27 11 1
+
+line: Vicksburg: 0 0 0 0 1 0 2 0 0 - 3
+line: Jackson: 1 0 0 0 1 1 3 0 x - 6
+
+B_2B: Sample; Klawitter; Herold
+note: discrepancy - Sample is not credited with a hit in the box - this may be a mis-print and another player should be assigned the 2B - the recap states that the home team (Jackson) made a two-bagger in the 7th inning, but no Jackson player is credited with a 2B here
+B_3B: Kline
+P_WP: Robb; Blakeney
+F_PB: Dudley
+P_BB: Robb #1; Blakeney #2; Barber #1
+P_SO: Barber #6; Robb #1
+P_HP: Blakeney
+B_HP: Boyd
+B_SH: Lagrove; Ott
+B_SB: Manush; Dorsey; Taylor; Ott; Pickens
+F_DP: Claire, Saillard
+T: 1:35
+U: Larocque
+
+---
+
+date: 1908-08-14
+number: 0
+league: Cotton States
+away: Columbus
+home: Meridian
+source: (Memphis) Commercial Appeal, August 15, 1908
+
+note: recap states that after tomorrow's game, the park at Meridian will be demolished to make way for building lots
+
+Columbus:	ab r h po a e
+Marshall @ 1b:	3 0 1 14 2 0
+Ollrie @ lf:	3 0 0 4 0 0
+Manush @ 3b:	4 0 0 0 3 0
+Durmeyer @ ss:	3 1 2 2 1 0
+Geiser @ cf:	3 0 0 0 0 0
+Corbett @ c:	4 0 1 2 0 0
+Hall @ 2b:	2 0 0 0 3 0
+Demaree @ rf:	4 0 0 0 0 0
+Allison @ p:	3 0 1 3 7 0
+TOTALS:		29 1 5 25 16 0
+
+outsatend: 1
+
+Meridian:	ab r h po a e
+Moulton @ 3b:	3 0 1 1 1 0
+Dobard @ ss:	4 0 0 4 4 0
+Robb @ cf:	4 1 1 3 0 0
+Welch @ c:	4 0 1 5 1 1
+Phillips @ 2b:	3 1 1 0 3 0
+Carnes @ 1b:	3 0 1 12 0 0
+Ellinor @ lf:	2 0 0 0 0 0
+Peaster @ rf:	3 0 0 2 1 0
+Yount @ p:	3 0 0 0 4 1
+TOTALS:		29 2 5 27 14 2
+
+line: Columbus: 0 0 0 1 0 0 0 0 0 - 1
+line: Meridian: 0 0 0 0 0 0 1 0 1 - 2
+
+B_SH: Ollrie; Geiser
+B_SB: Marshall; Hall; Durmeyer; Phillips; Robb
+B_HP: Hall
+P_SO: Allison #2; Yount #4
+P_BB: Allison #2; Yount #3
+F_PB: Welch
+F_DP: Peaster, Carnes
+T: 1:50
+U: Bammert
+
+---
+
+date: 1908-08-14
+number: 0
+league: Cotton States
+site: Biloxi
+away: Monroe
+home: Gulfport-Biloxi
+source: (Memphis) Commercial Appeal, August 15, 1908
+
+note: recap notes that 3 G-B baserunners were thrown out at home plate by Monroe outfielders
+
+Monroe:		ab r h po a e
+Carroll @ rf:	4 1 0 1 1 0
+Add'gton @ 3b:	4 0 2 0 2 1
+Dobard @ 2b:	4 0 1 0 1 0
+Kitchens @ c:	3 0 1 7 1 0
+Reagan @ ss:	4 0 2 1 2 0
+Hoffman @ 1b:	4 0 0 12 0 0
+Fisher @ lf:	4 0 0 2 1 0
+Lusk @ cf:	4 0 1 1 1 0
+Frickie @ p:	3 0 0 0 2 0
+*Ford @ ph:	1 0 0 0 0 0
+TOTALS:		35 1 7 24 11 1
+
+*: batted for Frickie in 9th inning
+
+Gulfport-Biloxi:	ab r h po a e
+Evans @ 2b:	4 0 3 0 1 0
+Murch @ 3b:	5 0 0 2 7 0
+Holland @ cf:	5 0 0 1 0 0
+Blanchfield @ rf:	4 1 1 0 0 0
+Lively @ lf:	3 1 2 5 0 0
+Gilks @ 1b:	4 1 0 13 1 1
+Krebs @ ss:	3 0 1 1 2 2
+Graffius @ c:	3 1 2 3 1 0
+Burkett @ p:	4 1 3 2 3 0
+TOTALS:		35 5 12 27 15 3
+
+line: Monroe: 0 0 0 0 0 1 0 0 0 - 1
+line: Gulfport-Biloxi: 0 4 1 0 0 0 0 0 x - 5
+
+B_2B: Lively; Evans
+B_HR: Blanchfield
+B_SB: Holland; Krebs; Reagan
+P_BB: Frickie #2
+P_SO: Burkett #3; Frickie #5
+B_HP: Graffius
+B_SH: Evans
+F_PB: Kitchens
+T: 1:30
+U: Matthews
+
+---
+
+date: 1908-08-15
+number: 0
+league: Cotton States
+away: Columbus
+home: Meridian
+source: (Memphis) Commercial Appeal, August 16, 1908
+
+Columbus:	ab r h po a e
+Durmeyer @ ss:	5 2 3 1 1 1
+Marshall @ 1b:	4 1 0 12 0 0
+Manush @ 3b:	5 2 3 3 1 0
+Corbett @ c:	5 0 1 10 1 0
+Geiser @ cf:	5 1 2 0 0 0
+Ollrie @ lf:	4 1 2 0 0 0
+Hall @ 2b:	5 0 0 1 1 0
+Demaree @ p:	4 1 3 0 2 0
+Allison @ rf:	5 0 1 0 0 0
+TOTALS:		42 8 15 27 6 1
+
+Meridian:	ab r h po a e
+Moulton @ 2b:	4 0 0 1 4 0
+Dobard @ ss:	4 0 0 0 4 1
+Robb @ cf:	3 0 0 0 0 0
+Welch @ 3b:	4 0 0 1 5 0
+Phillips @ lf:	4 0 0 2 0 0
+Carnes @ 1b:	3 0 0 19 0 0
+Yount @ rf:	3 0 0 2 0 0
+Cox @ c:	3 0 0 2 1 0
+Peaster @ p:	2 0 0 0 3 1
+TOTALS:		30 0 0 27 17 2
+
+line: Columbus: 0 0 2 1 0 0 2 3 0 - 8
+line: Meridian: 0 0 0 0 0 0 0 0 0 - 0
+
+B_2B: Manush
+B_SH: Marshall; Ollrie
+B_SB: Robb; Ollrie; Corbett
+P_SO: Demaree #9; Peaster #2
+P_BB: Demaree #4
+F_PB: Corbett
+P_WP: Demaree
+T: 1:39
+U: Bammert
+
+---
+
+date: 1908-08-15
+number: 0
+league: Cotton States
+site: Gulfport
+away: Monroe
+home: Gulfport-Biloxi
+source: (Memphis) Commercial Appeal, August 16, 1908
+
+note: game called after bottom of 7th inning to allow Monroe to catch a train
+
+Monroe:		ab r h po a e
+Carroll @ c-lf:	3 0 0 1 0 0
+Add'gton @ 3b:	3 0 1 3 4 0
+Dobard @ 2b:	3 0 0 2 3 0
+Kitchens @ lf-c:	2 0 1 4 0 0
+Reagan @ ss:	3 0 1 0 5 0
+Hoffman @ 1b:	3 0 0 11 0 0
+Lusk @ rf:	3 0 1 0 0 0
+Frickie @ cf:	3 0 2 0 1 0
+Fisher @ p:	3 0 0 0 3 1
+TOTALS:		26 0 6 21 16 1
+
+Gulfport-Biloxi:	ab r h po a e
+Evans @ 2b:	1 2 1 3 1 0
+Murch @ 3b:	3 2 3 2 3 0
+Holland @ 1b:	5 1 2 11 0 0
+Blanchfield @ rf:	5 1 3 2 0 0
+Lively @ p:	4 0 0 0 5 0
+Gilks @ cf:	4 1 2 1 0 0
+Krebs @ ss:	4 1 2 0 2 0
+Burkett @ lf:	4 1 1 0 0 0
+Graffius @ c:	4 3 3 2 1 0
+TOTALS:		34 12 17 21 12 0
+
+line: Monroe: 0 0 0 0 0 0 0 - 0
+line: Gulfport-Biloxi: 4 0 0 3 4 0 1 - 12
+
+B_2B: Graffius #2; Gilks #2; Blanchfield; Holland
+B_SH: Evans #2; Murch
+P_BB: Lively #1; Fisher #3
+P_SO: Lively #2; Fisher #1
+F_PB: Carroll #2
+T: 1:20
+U: Matthews
+
+---
+
+date: 1908-08-15
+number: 0
+league: Cotton States
+away: Vicksburg
+home: Jackson
+source: (Memphis) Commercial Appeal, August 16, 1908
+
+note: game called after 12 innings due to darkness
+
+Vicksburg:	ab r h po a e
+Manush @ rf:	6 0 1 2 0 0
+Herold @ ss:	3 0 0 1 2 0
+Boyd @ cf:	5 0 1 2 0 0
+Maender @ lf:	3 0 0 5 1 0
+Sample @ p:	3 0 1 2 3 0
+Dorsey @ 2b:	4 1 1 5 1 0
+Klawitter @ 1b:	5 0 2 12 1 0
+Lagrove @ 3b:	5 0 0 2 5 0
+Dudley @ c:	5 0 1 4 1 0
+TOTALS:		39 1 7 35 14 0
+
+Jackson:	ab r h po a e
+Taylor @ lf:	5 0 1 1 1 0
+Ott @ c:	4 1 2 8 0 0
+Montgomery @ cf:	4 0 1 3 0 0
+Claire @ ss:	5 0 1 3 3 0
+Saillard @ 1b:	5 0 2 13 0 0
+Kline @ rf:	4 0 0 1 0 0
+B'kburn @ 3b:	5 0 1 2 2 0
+Pickens @ 2b:	4 0 0 3 4 1
+Miller @ p:	4 0 1 2 2 0
+TOTALS:		40 1 9 36 12 1
+
+B_XO: Claire, out for interference
+
+line: Vicksburg: 0 0 0 0 0 0 0 0 1 0 0 0 - 1
+line: Jackson: 0 0 0 0 0 0 0 0 1 0 0 0 - 1
+
+B_2B: Ott
+F_PB: Ott
+B_SB: Montgomery #2; Claire; Kline; Manush
+P_BB: Miller #4; Sample #1
+P_SO: Sample #4; Miller #8
+B_HP: Herold
+B_SH: Ott; Montgomery; Pickens; Sample; Dorsey
+F_DP: Miller, Ott, Saillard; Maender
+T: 1:55
+U: Larocque
+
+---
+
+date: 1908-08-16
+number: 0
+league: Cotton States
+away: Monroe
+home: Vicksburg
+source: (Memphis) Commercial Appeal, August 17, 1908
+
+Monroe:		ab r h po a e
+Carroll @ cf:	4 1 0 2 0 0
+Add'gton @ 3b:	4 1 1 0 0 0
+Dobard @ 2b:	4 0 2 2 2 0
+Kitchens @ c:	4 0 1 5 1 0
+Reagan @ ss:	3 0 1 5 7 1
+Hoffman @ 1b:	4 0 0 10 0 1
+Fisher @ lf:	4 0 0 0 0 0
+Lusk @ rf:	3 0 0 2 1 0
+Ford @ p:	3 1 2 1 3 0
+TOTALS:		33 3 7 27 14 2
+
+Vicksburg:	ab r h po a e
+Manush @ rf:	4 0 1 1 0 0
+Herold @ ss:	4 0 1 2 0 2
+Boyd @ cf:	4 0 0 1 0 0
+Maender @ lf:	4 0 1 1 0 0
+Sample @ 1b:	4 0 0 11 1 0
+Dorsey @ 2b:	3 0 2 4 2 0
+Klawitter @ p:	4 0 0 1 3 0
+Lagrove @ 3b:	4 1 1 2 5 0
+Dudley @ c:	3 0 2 4 2 0
+TOTALS:		34 1 8 27 13 2
+
+line: Monroe: 0 0 2 0 0 0 0 1 0 - 3
+line: Vicksburg: 0 0 0 0 0 0 0 1 0 - 1
+
+B_2B: Ford; Kitchens
+F_DP: Ford, Reagan, Hoffman; Ford, Reagan, Hoffman; Dobard, Reagan, Hoffman
+P_SO: Klawitter #5; Ford #4
+P_BB: Klawitter #1; Ford #1
+B_SB: Boyd #2; Dorsey; Reagan
+F_PB: Dudley
+T: 1:40
+U: Bammert
+
+
