@@ -108,7 +108,7 @@ TOTALS:		31 6 8 24 12 2 2
 
 Winnipeg:	ab r h po a e di
 Bemis @ cf:	5 1 1 2 0 0 0
-Curtis @ lf:	5 1 1 2 0 0 2
+Curtis [a] @ lf:	5 1 1 2 0 0 2
 Jude @ rf:	3 0 0 3 0 0 1
 Baker @ 2b:	4 2 1 1 1 3 0
 Kline @ 3b:	4 1 1 1 5 2 0
@@ -124,8 +124,8 @@ line: Winnipeg: 0 0 0 0 0 0 1 6 x - 7
 B_LOB: Duluth #8; Winnipeg #7
 B_2B: Sweeley; Bemis; Collins
 B_3B: Ford
-B_SB: Williams; Croake; Jude; Wolfe; Curtis; O'Donnell; Dean
-B_SH: Croake; Williams; Ford; Curtis
+B_SB: Williams; Croake; Jude; Wolfe; Curtis [a]; O'Donnell; Dean
+B_SH: Croake; Williams; Ford; Curtis [a]
 P_BB: Patterson #2; Cadreau #1
 P_SO: Patterson #5; Boley #5; Cadreau #1
 P_H:  Boley #5; Cadreau #5
@@ -441,7 +441,7 @@ source: Winnipeg Tribune, May 12, 1915
 Superior:	ab r h po a e 
 Burgwald @ 3b:	6 0 1 1 2 0
 McGee @ 2b:	5 2 2 3 4 0
-Curtis [Sup] @ 1b:	4 1 0 11 2 0
+Curtis [SUP] @ 1b:	4 1 0 11 2 0
 Swalm @ lf:	2 1 0 3 0 0
 Glass @ rf:	5 2 3 1 0 0
 Bassey @ cf:	5 3 3 1 0 0
@@ -454,7 +454,7 @@ TOTALS:		39 10 14 27 15 3
 
 Winnipeg:	ab r h po a e 
 Bemis @ cf:	5 0 1 3 1 1
-Curtis [Win] @ lf:	0 0 0 1 0 0
+Curtis [WIN] @ lf:	0 0 0 1 0 0
 Cline, C. @ lf:	3 3 1 4 0 0
 Jude @ rf:	5 0 1 1 0 0
 Baker @ 2b:	3 0 2 1 1 0
@@ -473,7 +473,7 @@ line: Winnipeg: 0 0 1 1 1 0 1 1 0 - 5
 B_LOB: Superior #9; Winnipeg #11
 B_2B: McGee; Glass
 B_3B: Glass; Bassey
-B_SB: Curtis [Sup]; McGee; Curtis [Win]; Bassey; Swalm; Berger; Branon; Hennessey
+B_SB: Curtis [SUP]; McGee; Curtis [WIN]; Bassey; Swalm; Berger; Branon; Hennessey
 B_SF: Swalm; Kline
 P_BB: Leon #6; Branon #5; Snyder #5
 P_SO: Leon #1; Branon #5; Snyder #7
@@ -481,7 +481,7 @@ P_H:  Leon #1; Branon #5
 P_IP: Leon #3; Branon #6
 P_HP: Snyder; Branon
 P_WP: Branon
-F_DP: Burgwald, Curtis [Sup], Berger
+F_DP: Burgwald, Curtis [SUP], Berger
 F_PB: O'Donnell #3; Berger
 T: 2:25
 U: Carney

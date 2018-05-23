@@ -56,7 +56,7 @@ Baker @ 2b:	5 0 0 1 0 0
 Mitchell @ 3b:	4 0 1 2 1 0
 Kline @ 1b:	4 0 1 9 0 0
 Jude @ rf:	3 0 1 2 0 0
-Curtis @ ss:	1 1 0 1 1 0
+Curtis [a] @ ss:	1 1 0 1 1 0
 Wilson @ c:	4 0 1 5 1 1
 Thomas @ p:	3 0 0 0 8 0
 TOTALS:		32 1 7 24 11 1
@@ -81,11 +81,11 @@ B_2B: Bemis; H. Miller #2; Jude
 B_3B: H. Miller
 B_SH: Pickering; Murphy
 B_SF: Murphy
-B_HP: Curtis
+B_HP: Curtis [a]
 P_BB: Thomas #2 
 P_SO: Thomas #5; Stevenson #4
 P_HP: Stevenson
-F_DP: Thomas, Curtis, Kline 
+F_DP: Thomas, Curtis [a], Kline 
 T: 1:40
 U: Kennedy
 
@@ -105,7 +105,7 @@ Baker @ 2b:	5 0 1 1 2 0
 Mitchell @ 3b:	4 1 1 0 2 1
 Kline @ 1b:	5 0 1 12 0 0
 Jude @ rf:	3 2 2 2 0 0
-Curtis @ ss:	5 1 3 3 2 0
+Curtis [a] @ ss:	5 1 3 3 2 0
 Wilson @ c:	4 2 1 7 1 0
 Shirley @ p:	4 1 2 0 4 0
 Gervais @ p:	1 0 0 0 2 1
@@ -128,7 +128,7 @@ line: Winnipeg:     1 0 0 7 1 0 1 0 0 - 10
 line: St. Boniface: 0 0 0 0 0 2 4 0 1 - 7
 
 B_LOB: Winnipeg #8; St. Boniface #7
-B_2B: Lane #2; Jude; Curtis #2; Shirley
+B_2B: Lane #2; Jude; Curtis [a] #2; Shirley
 B_3B: Spellman; Lane #2
 B_SH: Mitchell; Wilson; Adams; Nagle
 B_SF: Spellman
@@ -136,7 +136,7 @@ P_BB: Blum #5; Shirley #7
 P_SO: Blum #5; E. Miller #2
 P_H: Blum #12; E. Miller #1; Shirley #7; Gervais #1
 P_IP: Blum #8; E. Miller #1; Shirley #7.1; Gervais #1.2
-F_DP: Mitchell, Baker, Kline; Gervais, Curtis, Kline  
+F_DP: Mitchell, Baker, Kline; Gervais, Curtis [a], Kline  
 F_PB: Mueller
 T: 2:05
 U: Kennedy
@@ -211,7 +211,7 @@ Baker @ 2b:	5 1 1 2 5 0 0
 Mitchell @ 3b:	3 0 0 0 0 0 0
 Kline @ 1b:	5 0 2 11 1 0 1
 Jude @ rf:	4 0 1 3 0 0 0
-Curtis @ ss:	3 1 1 3 1 1 0
+Curtis [a] @ ss:	3 1 1 3 1 1 0
 Wilson @ c:	4 0 1 7 0 0 0
 Patterson @ p:	4 0 1 1 7 0 1
 TOTALS:		37 2 11 30 15 1 2
@@ -220,8 +220,8 @@ line: St. Boniface: 0 1 0 0 0 0 0 0 0 0 - 1
 line: Winnipeg:     0 0 0 0 0 0 1 0 0 1 - 2
 
 B_LOB: Winnipeg #10; St. Boniface #2
-B_2B: Curtis; Bemis
-B_SB: Curtis; Baker; Jude
+B_2B: Curtis [a]; Bemis
+B_SB: Curtis [a]; Baker; Jude
 B_SH: Mitchell; Pickering
 P_BB: Boardman #1; E. Miller #1 
 P_SO: Boardman #4; Patterson #4; E. Miller #1
@@ -260,7 +260,7 @@ Baker @ 2b:	4 0 1 3 3 0 0
 Mitchell @ 3b:	3 0 1 0 0 0 0
 Kline @ 1b:	4 1 1 10 2 0 0
 Jude @ rf:	4 1 2 0 0 0 0 
-Curtis @ ss:	3 0 0 1 1 0 1
+Curtis [a] @ ss:	3 0 0 1 1 0 1
 Wilson @ c:	4 0 2 4 1 0 1
 Gervais @ p:	4 1 1 0 6 0 0
 TOTALS:		32 4 11 21 13 0 3
@@ -271,7 +271,7 @@ line: Winnipeg:     0 0 0 1 0 2 1 - 4
 B_LOB: Winnipeg #8; St. Boniface #6
 B_2B: Miller; Mitchell
 B_SB: Pfeffer; Lane; Wilson
-B_SH: Pfeffer #2; Pickering; Curtis; Murphy
+B_SH: Pfeffer #2; Pickering; Curtis [a]; Murphy
 P_BB: Gervais #5; Culver #4 
 P_WP: Culver
 F_PB: Mueller #2

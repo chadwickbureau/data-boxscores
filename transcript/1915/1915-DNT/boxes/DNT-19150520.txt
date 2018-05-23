@@ -9,7 +9,7 @@ A:
 Duluth:		ab r h po a e
 Brammel @ rf:	4 0 3 1 1 0
 Croake @ 1b:	3 0 1 12 1 1 
-Wolfe @ ss:	4 1 1 4 3 0
+Wolfe [DUL] @ ss:	4 1 1 4 3 0
 Collins @ 3b:	3 2 2 3 0 0
 Williams @ lf:	4 0 1 2 0 0
 Ford @ cf:	4 0 1 0 0 0
@@ -27,7 +27,7 @@ Altman @ lf:	2 1 1 1 0 0
 Morse, [Pete] @ ss:	3 0 1 4 2 1
 Lennehan @ 1b:	4 0 1 7 1 0
 Anderson @ 3b:	3 0 1 2 2 0
-Wolfe @ c:	3 0 1 9 2 0
+Wolfe [GF] @ c:	3 0 1 9 2 0
 Ursella @ p:	4 0 2 0 3 1
 TOTALS:		29 4 10 27 14 2
 
@@ -37,17 +37,17 @@ line: Grand Forks: 0 0 3 0 0 0 1 0 0 - 4
 
 B_LOB: Grand Forks #6; Duluth #8
 B_ER: Grand Forks #2; Duluth #3
-B_2B: Bryant; Wolfe
+B_2B: Bryant; Wolfe [DUL]
 B_3B: Brammel
 B_SB: Croake; Altman
-B_SH: Croake; Fox; Anderson; Wolfe
+B_SH: Croake; Fox; Anderson; Wolfe [GF]
 B_HP: Croake; O'Brien; Fox #2
 P_BB: Bryant #2; Ursella #2 
 P_SO: Bryant #3; Boley #1; Ursella #8  
 P_H: Bryant #9; Boley #1
 P_IP: Bryant #6; Boley #3 
-F_DP: Anderson, Lennehan, Anderson; Croake, Wolfe; O'Brien, Wolfe, Croake
-F_PB: Wolfe #2
+F_DP: Anderson, Lennehan, Anderson; Croake, Wolfe [DUL]; O'Brien, Wolfe [DUL], Croake
+F_PB: Wolfe [GF] #2
 T: 2:00
 U: Jacobs
 
@@ -374,7 +374,7 @@ Glass @ rf:	4 0 0 2 1 0
 Bassey @ cf:	4 0 1 2 0 0
 Girth @ ss:	4 0 0 0 0 1
 Kurke @ c:	2 0 2 3 0 0
-Williams @ p:	2 0 0 1 6 0
+Williams [SUP] @ p:	2 0 0 1 6 0
 *Berger @ ph:	1 0 0 0 0 0
 TOTALS:		33 0 8 24 10 1
 
@@ -383,7 +383,7 @@ Brown @ 3b:	4 0 2 1 0 0
 Croake @ 1b:	3 0 1 8 0 0
 Wolfe @ ss:	3 0 0 2 4 1
 Collins @ cf:	4 0 0 2 0 0
-Williams @ lf:	3 0 0 3 1 0
+Williams [DUL] @ lf:	3 0 0 3 1 0
 Ford @ rf:	3 1 2 4 0 0
 O'Brien @ 2b:	3 1 2 3 5 0
 Sweeley @ c:	3 0 0 4 2 0
@@ -401,8 +401,8 @@ B_2B: O'Brien; Croake; Burgwald; Kurke
 B_SB: Ford
 B_SH: Croake; Wolfe
 P_BB: Hoffman #3
-P_SO: Hoffman #2; Williams #2
-F_DP: Williams, Curtis; O'Brien, Wolfe; Williams, Sweeley, Wolfe
+P_SO: Hoffman #2; Williams [SUP] #2
+F_DP: Williams [SUP], Curtis; O'Brien, Wolfe; Williams [DUL], Sweeley, Wolfe
 T: 1:28
 U: Carney
 

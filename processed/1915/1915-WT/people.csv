@@ -97,11 +97,10 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,Northern League,regular,P3385442,Culver,,Duluth,1915-08-10,1915-09-06,4,4,0,0,0,0,0,0,0,0,0,4
 1915,Northern League,regular,P0389976,Culver,,St. Boniface,1915-05-10,1915-08-05,31,29,0,0,0,0,3,2,0,1,0,29
 1915,Northern League,regular,P6114894,Curtis,,Superior,1915-05-08,1915-06-30,10,0,10,0,0,0,0,0,0,0,0,0
-1915,Northern League,regular,P4357526,Curtis,,Winnipeg,1915-05-08,1915-08-25,64,0,28,0,1,9,26,4,20,2,0,0
-1915,Northern League,regular,P1983294,Curtis [SUP],,Superior,1915-05-10,1915-05-10,1,0,1,0,0,0,0,0,0,0,0,0
-1915,Northern League,regular,P6760190,Curtis [Sup],,Superior,1915-05-11,1915-05-11,1,0,1,0,0,0,0,0,0,0,0,0
-1915,Northern League,regular,P0967612,Curtis [WIN],,Winnipeg,1915-05-10,1915-05-10,1,0,0,0,0,0,1,1,0,0,0,0
-1915,Northern League,regular,P5744508,Curtis [Win],,Winnipeg,1915-05-11,1915-05-11,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Northern League,regular,P4357526,Curtis,,Winnipeg,1915-07-09,1915-08-25,50,0,28,0,0,0,22,0,20,2,0,0
+1915,Northern League,regular,P1983294,Curtis [SUP],,Superior,1915-05-10,1915-05-11,2,0,2,0,0,0,0,0,0,0,0,0
+1915,Northern League,regular,P0967612,Curtis [WIN],,Winnipeg,1915-05-10,1915-05-11,2,0,0,0,0,0,2,2,0,0,0,0
+1915,Northern League,regular,P6771439,Curtis [a],,Winnipeg,1915-05-08,1915-06-12,14,0,0,0,1,9,4,4,0,0,0,0
 1915,Northern League,regular,P4927329,Dancey,,Fort William-Port Arthur,1915-05-14,1915-05-20,5,0,5,0,0,0,0,0,0,0,0,0
 1915,Northern League,regular,P7350012,Dancy,,Fort William-Port Arthur,1915-06-15,1915-09-03,40,0,40,0,0,0,0,0,0,0,0,0
 1915,Northern League,regular,P9743531,Darose,,Fort William-Port Arthur,1915-06-28,1915-06-28,1,0,0,0,0,0,1,0,0,1,0,0

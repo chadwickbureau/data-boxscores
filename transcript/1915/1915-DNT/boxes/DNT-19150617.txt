@@ -230,7 +230,7 @@ Flaherty @ rf:	5 0 1 3 0 0
 Morse, P. [Pete] @ ss:	4 1 2 1 1 0
 Altman @ lf:	4 1 1 4 0 0
 Anderson @ 3b:	5 1 0 0 4 0
-Wolfe @ c:	4 1 2 7 1 1
+Wolfe [GF] @ c:	4 1 2 7 1 1
 Hoffman @ p:	1 1 0 0 2 0
 TOTALS:		37 6 10 27 9 2
 
@@ -240,11 +240,10 @@ Croake @ 1b:	2 1 1 6 1 1
 Truman @ rf-2b:	4 0 0 6 1 1 
 Collins @ lf:	5 0 1 5 0 0
 Ford @ rf-cf:	4 1 0 2 0 0
-Wolfe @ ss:	4 0 0 2 0 0
+Wolfe [DUL] @ ss:	4 0 0 2 0 0
 O'Brien @ 2b:	3 0 0 1 5 0
 Sweeley @ c:	4 0 2 3 0 0
 Boley @ p:	1 0 0 0 0 0
-Sweeley @ c:	4 0 2 3 0 0
 Williams @ p-cf:	4 0 2 1 2 1
 TOTALS:		35 3 8 27 10 3
 
@@ -420,7 +419,7 @@ Flaherty @ rf:	3 0 2 1 0 0
 Morse, P. [Pete] @ ss:	3 0 0 1 5 1
 Altman @ lf:	3 0 0 1 0 0
 Anderson @ 3b:	4 0 0 1 4 1
-Wolfe @ c:	4 0 1 4 1 0
+Wolfe [GF] @ c:	4 0 1 4 1 0
 Brennan @ p:	3 0 1 0 3 0
 TOTALS:		32 3 9 24 16 3
 
@@ -430,7 +429,7 @@ Croake @ 1b:	4 1 1 7 1 0
 Collins @ lf:	4 0 1 0 0 0
 Williams @ cf:	3 0 0 4 0 0
 Sweeley @ c:	4 1 3 5 0 0
-Wolfe @ ss:	4 0 0 5 0 0 
+Wolfe [DUL] @ ss:	4 0 0 5 0 0 
 O'Brien @ 2b:	3 0 0 1 2 0
 Truman @ rf:	3 0 0 3 1 0
 Jackson @ p:	3 0 0 1 6 0
@@ -445,7 +444,7 @@ B_2B: Sweeley
 B_SB: Brown #3; Collins
 P_BB: Jackson #5; Brennan #3
 P_SO: Jackson #3; Brennan #2
-F_DP: Jackson, Wolfe 
+F_DP: Jackson, Wolfe [DUL]
 T: 1:28
 U: Landry
 
@@ -565,7 +564,7 @@ Schroeder @ 1b:	5 2 3 11 0 1
 Morse, Pete @ ss:	3 2 2 1 7 0
 Altman @ lf:	3 0 0 2 0 0
 Anderson @ 3b:	4 0 1 0 2 1
-Wolfe @ c:	4 0 0 7 0 0
+Wolfe [GF] @ c:	4 0 0 7 0 0
 Morse, Paul @ p:	4 1 1 0 4 0
 TOTALS:		35 8 11 27 16 2
 
@@ -576,7 +575,7 @@ Collins @ lf:	4 0 1 2 0 0
 Williams @ cf-p:	4 0 1 1 2 0
 Sweeley @ c:	3 0 0 3 0 0
 Bassey @ rf:	3 0 1 2 0 0
-Wolfe @ ss:	2 0 0 0 5 0
+Wolfe [DUL] @ ss:	2 0 0 0 5 0
 O'Brien @ 2b:	4 0 0 2 2 0
 Boley @ p:	1 0 0 0 2 0
 Turner @ p:	0 0 0 0 0 0
@@ -594,7 +593,7 @@ P_H:  Boley #9; Turner #2
 P_IP: Boley #3.1; Turner #.2; Williams #5
 P_HP: Paul Morse
 P_WP: Boley; Turner
-F_DP: Pete Morse, Fox, Schroeder; Wolfe, O'Brien, Croake
+F_DP: Pete Morse, Fox, Schroeder; Wolfe [DUL], O'Brien, Croake
 T: 1:40
 U: Landry
 
@@ -686,7 +685,7 @@ Schroeder @ 1b:	3 1 3 13 0 0
 Morse, P. [Pete] @ ss:	3 0 1 3 4 0
 Altman @ lf:	3 1 0 0 0 0
 Anderson @ 3b:	4 0 3 2 1 0
-Wolfe @ c:	4 0 2 3 1 1 
+Wolfe [GF] @ c:	4 0 2 3 1 1 
 Larson @ p:	3 0 0 1 5 0
 TOTALS:		32 4 10 24 14 2
 
@@ -696,7 +695,7 @@ Croake @ 1b:	5 1 1 8 1 0
 Collins @ lf:	5 0 1 2 1 0
 Bassey @ cf:	2 2 0 12 0 0
 Williams @ rf:	2 1 2 1 0 0
-Wolfe @ ss:	4 1 3 3 5 0
+Wolfe [DUL] @ ss:	4 1 3 3 5 0
 O'Brien @ 2b:	3 3 1 5 2 0
 Sweeley @ c:	4 1 2 6 1 0
 Blancke @ p:	4 0 1 0 3 0
@@ -707,11 +706,11 @@ line: Duluth:      0 0 0 1 2 2 0 4 x - 9
 
 B_LOB: Duluth #6; Grand Forks #7
 B_2B: Williams #2; Sweeley #2; Anderson
-B_SB: Brown; Croake; Bassey; Williams; Wolfe; Flaherty #2; Schroeder
+B_SB: Brown; Croake; Bassey; Williams; Wolfe [DUL]; Flaherty #2; Schroeder
 P_BB: Larson #4; Blancke #5
 P_SO: Larson #3; Blancke #5
 P_HP: Larson
-F_DP: Wolfe, O'Brien, Croake; P. [Pete] Morse, Fox, Schroeder
+F_DP: Wolfe [DUL], O'Brien, Croake; P. [Pete] Morse, Fox, Schroeder
 T: 1:50
 U: Landry
 
