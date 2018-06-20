@@ -63,7 +63,7 @@ source: Duluth News-Tribune, June 18, 1915
 
 Fargo-Moorhead: r
 Bell @ ?: x
-Patterson @ ?: x
+Patterson [2b] @ ?: x
 Smith @ ?: x
 Unglaub @ ?: x
 Rhodes @ p: x
@@ -82,7 +82,7 @@ line: Virginia:       0 0 0 5 0 0 0 1 x - 6
 
 B_LOB: Fargo-Moorhead #6; Virginia #6
 B_ER: Virginia #4; Fargo-Moorhead #1
-B_2B: Brokaw; Unglaub; Patterson
+B_2B: Brokaw; Unglaub; Patterson [2b]
 B_HR: Agnew
 B_SB: Sundheim
 B_SH: Bell; Cronin; Wright
@@ -958,7 +958,7 @@ Unglaub @ 1b:	3 0 0 7 0 1
 Pedone @ lf:	4 0 1 4 0 0
 Smith @ c:	4 0 0 10 1 0
 Fremer @ rf:	4 0 1 1 0 0
-Patterson @ 2b:	4 0 2 1 0 1
+Patterson [2b] @ 2b:	4 0 2 1 0 1
 Bell @ p:	4 0 0 0 1 0
 TOTALS:		32 3 9 27 7 2
 
