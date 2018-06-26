@@ -1,0 +1,735 @@
+date: 1909-04-15
+number: 0
+league: Southern Association
+away: Little Rock
+home: Memphis
+source: (Memphis) Commercial Appeal, April 16, 1909
+
+Little Rock:	ab r h po a e
+Collins @ lf:	4 0 0 5 0 0
+Boucher @ ss:	4 0 0 2 4 0
+Tarleton @ 1b:	4 1 0 14 0 0
+Sentz @ cf:	4 0 1 1 0 0
+Burg @ 2b:	4 0 1 2 3 0
+Perry @ 3b:	4 0 0 1 2 0
+Stark @ rf:	3 0 1 0 0 0
+Casey @ c:	2 0 0 2 0 0
+Connolly @ p:	3 0 1 0 2 0
+TOTALS:		32 1 4 27 11 0
+
+Memphis:	ab r h po a e
+Baerwald @ cf:	4 0 0 1 1 1
+Babb @ 3b:	3 0 0 2 2 1
+Stinson @ rf:	3 0 1 1 1 0
+Cranston @ 2b:	4 0 1 3 1 0
+Coulson @ lf:	4 0 1 2 0 0
+Carey @ 1b:	4 0 0 11 1 1
+Lindsay @ ss:	4 0 1 1 7 0
+Ludwig @ c:	2 0 1 5 0 0
+Queisser @ p:	3 0 1 1 5 0
+TOTALS:		31 0 6 27 18 3
+
+line: Little Rock: 0 0 0 1 0 0 0 0 0 - 1
+line: Memphis: 0 0 0 0 0 0 0 0 0 - 0
+
+B_3B: Sentz
+B_SH: Casey; Stinson; Ludwig
+B_SB: Tarleton; Perry
+P_SO: Connolly #2; Queisser #2
+P_BB: Connolly #1
+B_BB: Babb #1
+note: addition - B_BB not in summary, but taken from recap
+T: 1:30
+U: Rudderham
+
+---
+
+date: 1909-04-15
+number: 0
+league: Southern Association
+away: Montgomery
+home: Nashville
+source: (Memphis) Commercial Appeal, April 16, 1909
+
+Montgomery:	ab r h po a e
+Dailey @ lf:	5 1 2 2 0 0
+Persons @ cf:	5 0 1 0 0 0
+Kerwin @ rf:	5 1 0 2 1 0
+Greminger @ 1b:	2 0 0 7 1 0
+Manush @ 3b:	4 0 0 0 3 0
+Rockenfield @ 2b:	3 0 1 4 4 0
+Pepe @ ss:	4 0 0 3 1 2
+Shannon @ c:	4 0 1 3 1 0
+Lively @ p:	3 1 2 3 0 1
+TOTALS:		35 3 7 24 14 3
+
+note: correction - box lists 21 total Montgomery POs, but player totals add up to 24 and team should have 24 putouts in 8 innings, so this is corrected above
+note: discrepancy - box lists 14 total Montgomery assists, but player totals add up to 11
+
+Nashville:	ab r h po a e
+Bay @ lf:	3 2 0 2 0 0
+Wiseman @ rf:	4 0 1 1 0 0
+East @ 2b:	3 0 2 2 3 0
+Robertson @ 1b:	3 0 0 12 0 0
+Seigle @ cf:	4 0 1 2 0 1
+Butler @ ss:	4 0 1 2 3 0
+Noyes @ 3b:	3 1 0 1 2 1
+Seabough @ c:	3 1 1 4 1 0
+Gilroy @ p:	0 0 0 0 3 0
+Duggan @ p:	2 0 0 1 1 0
+TOTALS:		29 4 6 27 13 2
+
+line: Montgomery: 0 0 0 1 2 0 0 0 0 - 3
+line: Nashville: 0 0 0 0 0 1 3 0 x - 4
+
+P_SO: Gilroy #1; Lively #3; Duggan #3
+P_BB: Gilroy #2; Lively #3; Duggan #3
+B_SH: Robertson; Greminger
+B_HP: Noyes
+B_2B: Lively; Rockenfield; Dailey
+B_3B: Dailey
+F_DP: East, Robertson
+T: 1:50
+U: O'Brien; Pfenninger
+
+---
+
+date: 1909-04-15
+number: 0
+league: Southern Association
+away: Birmingham
+home: Atlanta
+source: (Memphis) Commercial Appeal, April 16, 1909
+
+Birmingham:	ab r h po a e
+Henline @ lf:	4 1 3 5 0 0
+Bowen @ 2b:	5 1 1 3 1 0
+Molesworth @ cf:	2 0 0 2 0 0
+M'Gilvray @ rf:	4 1 1 1 1 0
+Raftus @ 3b:	4 1 1 3 2 0
+Gygli @ 1b:	3 0 0 6 2 0
+Ellam @ ss:	2 0 0 2 2 1
+Kane @ c:	4 0 0 5 1 0
+Schopp @ p:	3 0 0 0 1 0
+TOTALS:		31 4 6 27 10 1
+
+Atlanta:	ab r h po a e
+Bayless @ cf:	3 1 0 1 0 0
+Jordan @ 2b:	4 1 0 3 4 1
+Smith @ c:	3 1 2 8 1 1
+Winters @ rf:	3 0 1 3 0 0
+Moran @ lf:	3 0 1 2 0 1
+Newton @ ss:	4 0 1 1 3 0
+Henn @ 1b:	3 0 0 7 1 0
+Hess @ 3b:	4 0 0 2 1 2
+Castleton @ p:	4 0 1 0 1 0
+TOTALS:		31 3 6 27 11 5
+
+line: Birmingham: 1 2 0 0 0 0 1 0 0 - 4
+line: Atlanta: 2 0 0 0 1 0 0 0 0 - 3
+
+B_2B: Raftus
+F_DP: Jordan, Newton, Henn; Jordan, Henn
+P_SO: Castleton #5; Schopp #3
+P_BB: Castleton #5; Schopp #5
+B_SH: Smith; Winters; Moran; Molesworth; Raftus; Ellam
+B_SB: Bowen; Henline
+B_HP: Winters; Henn
+T: 1:57
+U: Fitzsimmons; Moran
+
+---
+
+date: 1909-04-15
+number: 0
+league: Southern Association
+away: Mobile
+home: New Orleans
+source: (Memphis) Commercial Appeal, April 16, 1909
+
+Mobile:		ab r h po a e
+Wheat @ rf:	4 0 0 1 0 0
+Sentell @ ss:	4 0 1 1 2 1
+Rhoton @ 2b:	4 0 2 1 6 0
+Thornton @ lf:	3 0 0 0 0 0
+Sabrie @ 1b:	3 0 0 14 1 0
+Hopkins @ cf:	3 1 1 0 0 0
+Watson @ 3b:	4 1 2 1 2 0
+Hardy @ c:	3 0 1 6 1 0
+Petit @ c:	1 0 0 0 0 0
+Bittrolff @ p:	2 0 0 0 0 0
+Hixon @ p:	2 0 0 0 2 0
+TOTALS:		33 2 7 24 14 1
+
+New Orleans:	ab r h po a e
+Reagan @ cf:	4 1 1 1 0 1
+Rohe @ 3b:	4 1 3 1 0 0
+Weimer @ rf:	4 1 1 1 0 0
+Huelsman @ lf:	3 1 1 1 0 0
+Dexter @ 1b:	4 1 1 12 2 0
+Demont @ ss:	3 1 1 6 2 1
+Dundon @ 2b:	2 0 1 2 2 1
+Matthews @ c:	4 1 1 3 3 0
+Pruitt @ p:	4 1 1 0 3 0
+TOTALS:		32 8 11 27 12 3
+
+line: Mobile: 0 0 0 0 0 0 2 0 0 - 2
+line: New Orleans: 0 0 0 1 7 0 0 0 x - 8
+
+P_IP: Bittrolff #4.0; Hixon #4.0
+note: per recap, Bittrolff was the starting pitcher
+P_H: Bittrolff #9; Hixon #2
+P_R: Bittrolff #4; Hixon #4
+B_2B: Dundon; Huelsman; Matthews
+B_SB: Demont
+F_DP: Dundon, Dexter; Demont, Dexter
+P_SO: Pruitt #5; Bittrolff #2; Hixon #1
+P_BB: Pruitt #3; Hixon #1
+P_HP: Bittrolff
+B_HP: Rohe
+P_WP: Pruitt
+F_PB: Hardy
+T: 2:05
+U: Carpenter
+
+---
+
+date: 1909-04-16
+number: 0
+league: Southern Association
+away: Little Rock
+home: Memphis
+source: (Memphis) Commercial Appeal, April 17, 1909
+
+Little Rock:	ab r h po a e
+Collins @ lf:	5 0 1 4 0 0
+Boucher @ ss:	3 1 2 1 6 1
+Tarleton @ 1b:	2 0 0 12 0 0
+Sentz @ cf:	3 0 1 2 0 1
+Perry @ 3b:	4 0 0 2 2 1
+Burg @ 2b:	3 0 0 0 7 0
+Stark @ rf:	4 1 1 0 0 0
+Casey @ c:	4 1 2 3 1 0
+Girard @ p:	2 0 0 0 2 0
+Steiger @ p:	0 0 0 0 2 0
+*Connolly @ ph:	1 0 0 0 0 0
+TOTALS:		31 3 7 24 20 3
+
+*: batted for Steiger in 9th inning
+
+Memphis:	ab r h po a e
+Baerwald @ cf:	5 1 1 1 0 0
+Babb @ 3b:	4 2 0 0 0 0
+Woodruff @ rf:	4 2 1 3 0 0
+Cranston @ 2b:	3 1 1 2 4 0
+Coulson @ lf:	4 2 2 1 0 0
+Carey @ 1b:	4 1 3 12 2 0
+Lindsay @ ss:	4 0 1 1 5 0
+Ludwig @ c:	4 1 1 7 0 0
+Keiber @ p:	4 0 2 0 1 1
+TOTALS:		36 10 12 27 12 1
+
+line: Little Rock: 0 0 1 0 0 0 1 0 1 - 3
+line: Memphis: 0 0 0 1 0 4 4 1 x - 10
+
+B_2B: Stark; Casey
+P_H: Girard #8; Steiger #4
+P_IP: Girard #6.0; Steiger #2.0
+note: per recap, Girard faced 2 battters in the 7th inning
+P_R: Girard #5; Steiger #5
+B_HR: Boucher; Casey
+B_SH: Tarleton; Girard
+B_SB: Tarleton; Babb; Ludwig; Baerwald #2
+F_DP: Lindsay, Cranston, Carey
+P_WP: Keiber
+P_SO: Girard #2; Keiber #7
+P_BB: Girard #2; Keiber #3
+B_HP: Tarleton
+T: 1:45
+U: Rudderham
+
+---
+
+date: 1909-04-16
+number: 0
+league: Southern Association
+away: Birmingham
+home: Atlanta
+source: (Memphis) Commercial Appeal, April 17, 1909
+
+Birmingham:	ab r h po a e
+Henline @ lf:	5 0 2 3 0 0
+Bowen @ 2b:	4 0 1 3 2 0
+Molesw'h @ cf:	4 0 0 2 1 0
+M'Gilvray @ rf:	5 0 0 2 0 0
+Raftus @ 3b:	4 1 2 2 2 0
+Gygli @ 1b:	4 0 1 8 0 0
+Ellam @ ss:	4 0 1 2 5 1
+Kane @ c:	3 0 1 2 0 1
+Fleharty @ p:	4 0 1 0 1 1
+TOTALS:		37 1 9 24 11 3
+
+Atlanta:	ab r h po a e
+Bayless @ cf:	4 0 0 2 1 0
+Jordan @ 2b:	4 1 2 2 2 0
+Winters @ rf:	2 1 0 0 0 0
+Moran @ lf:	3 1 0 5 0 0
+Newton @ ss:	4 0 2 2 3 2
+Henn @ 1b:	4 1 1 7 0 0
+Hess @ 3b:	3 1 0 5 1 0
+McMurray @ c:	2 1 1 4 0 0
+Fisher @ p:	2 0 0 0 2 0
+TOTALS:		28 6 6 27 9 2
+
+line: Birmingham: 0 1 0 0 0 0 0 0 0 - 1
+line: Atlanta: 2 3 0 0 1 0 0 0 1 - 6
+
+B_SH: Fisher; Winters
+B_SB: Jordan; Moran #2; Raftus; Gygli; McMurray
+B_HP: Hess
+P_SO: Fisher #2; Fleharty #2
+P_BB: Fisher #3; Fleharty #3
+T: 1:32
+U: Moran; Fitzsimmons
+
+---
+
+date: 1909-04-16
+number: 0
+league: Southern Association
+away: Montgomery
+home: Nashville
+source: (Memphis) Commercial Appeal, April 17, 1909
+
+Montgomery:	ab r h po a e
+Dailey @ lf:	4 1 1 1 0 1
+Persons @ cf:	3 0 1 4 1 0
+Kerwin @ rf:	3 1 2 4 0 0
+Grem'ger @ 1b:	3 0 2 6 0 0
+Manush @ 3b:	4 0 0 2 1 0
+Rockenfield @ 2b:	3 0 0 4 2 1
+Pepe @ ss:	4 0 0 1 4 2
+Hart @ c:	3 0 0 2 3 0
+Guese @ p:	3 0 0 0 2 0
+TOTALS:		30 2 6 24 13 4
+
+Nashville:	ab r h po a e
+Bay @ lf:	4 1 1 3 0 0
+Wiseman @ rf:	3 0 0 0 0 0
+East @ 2b:	4 0 0 1 1 0
+Robertson @ 1b:	4 2 4 9 1 0
+Seigle @ cf:	4 1 1 2 0 0
+Butler @ ss:	4 0 0 2 3 1
+Noyes @ 3b:	3 1 1 1 0 0
+Seabough @ c:	4 0 1 9 1 0
+Perdue @ p:	2 0 0 0 3 0
+TOTALS:		32 5 8 27 9 1
+
+note: correction - box has '9' in run column for Butler - all 5 runs are accounted for by other players, so this is corrected above to '0'
+
+line: Montgomery: 1 0 0 0 0 0 0 1 0 - 2
+line: Nashville: 0 1 1 2 0 0 1 0 x - 5
+
+P_SO: Perdue #3; Guese #1
+P_BB: Perdue #1; Guese #1
+B_SH: Persons; Kerwin; Hart; Perdue
+B_SB: Robertson; Butler; Persons; Manush; Wiseman
+B_HP: Rockenfield; Noyes
+B_2B: Dailey; Robertson; Bay; Kerwin
+B_3B: Seigle; Noyes
+F_DP: Robertson, Butler
+T: 1:55
+U: O'Brien; Pfenninger
+
+---
+
+date: 1909-04-16
+number: 0
+league: Southern Association
+away: Mobile
+home: New Orleans
+source: (Memphis) Commercial Appeal, April 17, 1909
+
+Mobile:		ab r h po a e
+Wheat @ rf:	4 0 0 1 0 0
+Sentell @ ss:	3 0 1 0 6 0
+Rhoton @ 2b:	4 1 1 3 2 1
+Thornton @ lf:	4 0 0 1 0 0
+Sabrie @ 1b:	4 0 1 13 0 1
+Hopkins @ cf:	2 0 0 1 0 0
+Watson @ 3b:	2 0 1 0 2 0
+Hardy @ c:	3 0 1 5 0 0
+Beeker @ p:	1 0 0 0 1 0
+Torrey @ p:	2 0 0 0 3 0
+*Petit @ ph:	1 0 0 0 0 0
+TOTALS:		30 1 5 24 14 2
+
+*: batted for Torrey in 9th inning
+
+New Orleans:	ab r h po a e
+Reagan, S. @ cf:	4 0 0 2 0 0
+Rohe @ 3b:	4 0 0 2 2 0
+Weimer @ rf:	2 1 0 2 0 0
+Huelsman @ lf:	4 0 0 1 0 0
+Dexter @ 1b:	4 2 2 11 0 0
+Demont @ 2b:	3 0 1 2 8 0
+Reagan, E. @ ss:	4 0 0 1 3 0
+Matthews @ c:	2 1 2 5 0 0
+Bartley @ p:	4 0 2 1 1 0
+TOTALS:		31 4 7 27 14 0
+
+line: Mobile: 0 0 0 0 0 1 0 0 0 - 1
+line: New Orleans: 0 2 1 0 0 0 0 1 x - 4
+
+P_IP: Beeker #2.2; Torrey #5.1
+P_H: Beeker #4; Torrey #3
+P_R: Beeker #3; Torrey #1
+B_2B: Bartley; Rhoton
+B_SB: E. Reagan; Weimer; Hopkins
+B_SH: Demont
+F_DP: Demont, E. Reagan, Dexter
+P_SO: Bartley #5; Beeker #2; Torrey #2
+P_BB: Bartley #4; Beeker #2; Torrey #1
+F_PB: Hardy
+T: 2:00
+U: Carpenter
+
+---
+
+date: 1909-04-17
+number: 0
+league: Southern Association
+away: Little Rock
+home: Memphis
+source: (Memphis) Commercial Appeal, April 18, 1909
+
+Little Rock:	ab r h po a e
+Collins @ lf:	4 2 2 5 0 0
+Boucher @ ss:	5 1 0 0 4 0
+Tarleton @ 1b:	5 0 2 12 0 1
+Sentz @ cf:	4 2 1 2 0 0
+Perry @ 3b:	5 1 0 2 1 0
+Burg @ 2b:	2 1 0 1 4 0
+Flournoy @ rf:	1 0 0 1 0 0
+Casey @ c:	4 1 1 4 0 0
+Folbre @ p:	5 0 1 0 3 0
+TOTALS:		35 8 7 27 12 1
+
+Memphis:	ab r h po a e
+Baerwald @ cf:	4 0 0 2 0 0
+Babb @ 3b:	4 1 1 2 2 1
+Woodruff @ rf:	4 1 1 1 0 0
+Cranston @ 2b:	4 0 2 1 4 0
+Coulson @ lf:	4 0 1 1 0 0
+Carey @ 1b:	3 0 0 14 0 0
+Lindsay @ ss:	3 0 0 1 1 2
+*Wagner @ ph:	1 0 0 0 0 0
+Ludwig @ c:	4 0 0 5 2 0
+Emerson @ p:	2 0 1 0 3 2
+Dick @ p:	1 1 1 0 1 1
+TOTALS:		34 3 7 27 13 6
+
+*: batted for Lindsay in 9th inning
+
+line: Little Rock: 3 0 0 0 0 0 2 1 2 - 8
+line: Memphis: 0 0 0 0 0 0 0 3 0 - 3
+
+B_2B: Coulson; Dick; Woodruff; Collins; Tarleton
+P_H: Emerson #5; Dick #2
+P_IP: Emerson #7.0; Dick #2.0
+P_R: Emerson #5; Dick #3
+B_SH: Boucher; Flournoy
+B_SB: Collins; Tarleton; Sentz
+F_DP: Folbre, Burg, Tarleton; Lindsay, Carey
+P_WP: Folbre
+P_SO: Folbre #3; Emerson #4; Dick #1
+P_BB: Folbre #1; Emerson #8; Dick #2
+T: 2:00
+U: Rudderham
+
+---
+
+date: 1909-04-17
+number: 0
+league: Southern Association
+away: Montgomery
+home: Nashville
+source: (Memphis) Commercial Appeal, April 18, 1909
+
+Montgomery:	ab r h po a e
+Dailey @ lf:	4 1 1 0 0 0
+Persons @ cf:	4 1 0 2 0 0
+Kerwin @ rf:	4 1 1 2 0 0
+Greminger @ 1b:	3 1 1 11 2 1
+Manush @ 3b:	4 2 1 0 1 0
+R'kenfeld @ 2b:	2 0 0 4 3 2
+Pepe @ ss:	4 2 2 3 5 0
+Shannon @ c:	4 0 0 4 1 1
+Bliss @ p:	1 0 0 1 2 0
+Debalt @ p:	2 1 1 0 0 0
+TOTALS:		32 9 7 27 14 1
+
+note: discrepancy - box lists 1 total Montgomery error, but player totals add up to 4
+
+Nashville:	ab r h po a e
+Bay @ lf:	4 3 3 4 0 0
+Wiseman @ rf:	5 0 0 0 0 0
+East @ 2b:	4 1 2 2 1 0
+Robertson @ 1b:	4 0 1 14 0 0
+Seigle @ cf:	4 0 0 2 0 0
+Butler @ ss:	4 1 2 1 8 1
+Noyes @ 3b:	3 0 1 2 2 2
+Seabough @ c:	3 1 1 1 1 0
+Tonneman @ c:	1 0 0 1 1 1
+Case @ p:	2 1 0 0 2 0
+TOTALS:		34 7 10 27 15 4
+
+line: Montgomery: 0 2 0 1 0 5 0 1 0 - 9
+line: Nashville: 0 0 1 5 0 1 0 0 0 - 7
+
+B_2B: Debalt; Kerwin
+B_3B: Bay; East; Greminger
+P_SO: Case #2; Bliss #1; Debalt #3
+P_BB: Case #5; Bliss #4; Debalt #1
+B_SB: Pepe #3; Seigle; Dailey; Shannon; Robertson; Butler; East #2; Seabough; Kerwin
+B_SH: Noyes; Bliss; East
+B_HP: Shannon; Kerwin
+F_PB: Seabough
+T: 2:00
+U: O'Brien; Pfenninger
+
+---
+
+date: 1909-04-17
+number: 0
+league: Southern Association
+away: Birmingham
+home: Atlanta
+source: (Memphis) Commercial Appeal, April 18, 1909
+
+Birmingham:	ab r h po a e
+Henline @ lf:	5 0 2 3 0 0
+Bowen @ 2b:	4 0 0 3 4 0
+Molesworth @ cf:	3 0 0 2 0 0
+M'Gilvray @ rf:	4 0 1 1 0 1
+Raftis @ 3b:	4 0 0 1 2 1
+Gygli @ 1b:	3 0 1 11 0 0
+Ellam @ c:	2 0 0 1 1 2
+Kane @ c:	1 1 0 2 0 0
+Dickson @ p:	2 0 0 0 3 1
+TOTALS:		28 1 4 24 10 5
+
+Atlanta: 	ab r h po a e
+Bayless @ cf:	3 2 0 4 0 0
+Jordan @ 2b:	4 0 1 2 4 0
+Smith @ c:	4 1 1 5 1 0
+Winters @ rf:	2 1 1 0 0 0
+Moran @ lf:	3 1 0 4 0 0
+Newton @ ss:	4 0 2 1 1 1
+Henn @ 1b:	3 0 0 9 1 0
+Hess @ 3b:	4 1 1 1 2 0
+Atkins @ p:	4 1 2 1 2 0
+TOTALS:		31 7 8 27 11 1
+
+line: Birmingham: 0 0 1 0 0 0 0 0 0 - 1
+line: Atlanta: 3 0 0 4 0 0 0 0 x - 7
+
+B_HR: Smith
+B_3B: Atkins
+B_SH: Jordan; Dickson; Molesworth; Bayless
+F_DP: Bowen, Gygli
+B_SB: Moran; Newton; Henn; Gygli
+B_HP: Smith; Kane
+P_SO: Atkins #4; Dickson #2
+P_BB: Atkins #6; Dickson #4
+U: Moran; Fitzsimmons
+
+---
+
+date: 1909-04-17
+number: 0
+league: Southern Association
+away: Mobile
+home: New Orleans
+source: (Memphis) Commercial Appeal, April 18, 1909
+
+Mobile:		ab r h po a e
+Wheat @ rf:	2 0 0 5 0 0
+*Petit @ ph:	1 0 1 0 0 0
+Sentell @ ss:	2 0 0 0 5 0
+Rhoton @ 2b:	3 0 0 2 2 0
+Thornton @ lf:	3 0 0 0 0 0
+Sabrie @ 1b:	3 0 0 10 0 0
+Hopkins @ cf:	3 0 0 2 0 0
+Watson @ 3b:	3 0 0 0 2 0
+Hardy @ c:	2 0 0 5 0 0
+Hixon @ p:	3 0 0 0 2 0
+TOTALS:		25 0 1 24 11 0
+
+*: batted for Wheat in 9th inning
+
+New Orleans:	ab r h po a e
+Reagan, S. @ cf:	4 1 1 3 0 0
+Rohe @ 3b:	3 0 1 1 2 0
+Weimer @ rf:	2 0 0 2 0 0
+Muelsman @ lf:	4 0 1 3 0 0
+Dexter @ 1b:	4 0 0 8 2 0
+Demont @ 2b:	4 0 0 5 3 0
+Reagan, E. @ ss:	3 0 2 0 3 1
+Matthews @ c:	2 0 0 3 0 0
+Fritz @ p:	2 0 0 2 4 0
+TOTALS:		28 1 5 27 14 1
+
+line: Mobile: 0 0 0 0 0 0 0 0 0 - 0
+line: New Orleans: 1 0 0 0 0 0 0 0 x - 1
+
+note: correction: line score has '0' in 9th inning column for New Orleans, but New Orleans did not bat in the 9th (as Mobile had 24 total POs), so this is corrected above
+
+B_2B: S. Reagan; E. Reagan
+B_SB: Weimer; Rohe
+B_SH: Rohe; Rhoton; Sentell #2
+F_DP: Fritz, Dexter
+P_SO: Hixon #5; Fritz #3
+P_BB: Hixon #3; Fritz #1
+B_HP: Wheat; Hardy; Weimer
+T: 1:40
+U: Carpenter
+
+---
+
+date: 1909-04-18
+number: 0
+league: Southern Association
+away: Little Rock
+home: Memphis
+source: (Memphis) Commercial Appeal, April 19, 1909
+
+Little Rock:	ab r h po a e
+Collins @ lf:	4 0 0 3 0 0
+Boucher @ ss:	5 1 1 4 2 0
+Tarleton @ 1b:	4 2 1 8 0 0
+Sentz @ cf:	4 1 2 2 0 0
+Perry @ 3b:	4 0 1 0 3 1
+Berg @ 2b:	3 1 0 2 2 0
+Flournoy @ rf:	4 0 3 3 0 0
+Casey @ c:	3 0 0 5 1 1
+Buchanan @ p:	4 0 0 0 2 1
+TOTALS:		35 5 8 27 10 3
+
+Memphis:	ab r h po a e
+Babb @ 3b:	4 0 0 0 4 2
+Baerwald @ cf:	3 1 0 4 0 0
+Cranston @ 2b:	4 0 1 0 3 0
+Coulson @ lf:	4 0 1 0 0 1
+Wagner @ rf:	3 0 0 1 0 0
+Carey @ 1b:	4 0 0 17 0 0
+Lindsay @ ss:	4 0 1 1 6 0
+Ludwig @ c:	3 0 1 3 3 0
+Queisser @ p:	3 0 0 1 3 0
+TOTALS:		32 1 4 27 19 3
+
+line: Little Rock: 0 1 2 0 0 0 2 0 0 - 5
+line: Memphis: 0 0 0 0 0 1 0 0 0 - 1
+
+B_2B: Flournoy #2
+B_3B: Sentz #2
+B_SB: Boucher; Flournoy; Tarleton #3
+F_DP: Lindsay, Carey, Ludwig
+P_SO: Buchanan #4; Queisser #2
+P_BB: Buchanan #2; Queisser #3
+B_HP: Tarleton
+T: 1:35
+U: Rudderham
+
+---
+
+date: 1909-04-18
+number: 0
+league: Southern Association
+away: Mobile
+home: New Orleans
+source: (Memphis) Commercial Appeal, April 19, 1909
+
+Mobile:		ab r h po a e
+Wheat @ rf:	4 0 2 0 0 0
+Sentell @ ss:	4 0 1 2 3 0
+Rhoton @ 2b:	5 0 0 2 2 0
+Thornton @ lf:	5 1 1 3 1 0
+Sabrie @ 1b:	4 1 0 13 1 0
+Hopkins @ cf:	2 1 1 2 0 0
+Watson @ 3b:	4 1 0 2 3 1
+Hardy @ c:	3 0 1 2 1 0
+Hickman @ p:	4 1 1 1 2 0
+TOTALS:		35 5 7 27 13 1
+
+New Orleans:	ab r h po a e
+Reagan, S. @ cf:	4 1 1 1 0 0
+Rohe @ 3b:	4 0 2 1 4 0
+Weimer @ rf:	3 0 1 4 0 0
+Huelsm'n @ lf:	4 0 1 1 0 0
+Dexter @ 1b:	3 0 0 9 0 1
+Demont @ 2b:	4 0 1 2 3 0
+Reagan, E. @ ss:	3 0 1 1 1 3
+*Matthews @ ph:	1 0 0 0 0 0
+Schriver @ c:	4 0 2 7 1 0
+Hess @ p:	3 0 0 0 3 0
+TOTALS:		33 1 9 26 12 4
+
+*: batted for E. Reagan in 9th inning
+B_XO: Rhoton, hit by batted ball
+
+line: Mobile: 0 2 2 0 0 1 0 0 0 - 5
+line: New Orleans: 0 0 0 0 0 0 0 1 0 - 1
+
+B_SB: Hopkins
+B_SH: Sentell; Hess
+F_DP: Thornton, Rhoton; Watson, Sabrie
+P_SO: Hess #7; Hickman #2
+P_HP: Hess #2
+B_HP: Wheat; Hopkins
+P_WP: Hess
+T: 2:11
+U: Carpenter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
