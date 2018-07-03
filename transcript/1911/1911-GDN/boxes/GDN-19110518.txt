@@ -1,0 +1,60 @@
+---
+
+date: 1911-05-20
+number: 1
+league: Carolina Association
+away: Anderson
+home: Charlotte
+source: Greensboro Daily News, May 21, 1911
+A: 550
+
+Anderson:		ab r h po a e
+Kelly,W. @ ss:	5 0 1 1 3 0
+Corbett @ 2b:	5 0 2 4 3 0
+Brannon @ 3b:	5 1 2 1 2 0
+Kelly,J. @ rf:	4 1 1 0 0 0
+Fogarty @ 1b:	4 2 2 15 1 0
+Anthony @ cf:	4 0 1 1 0 0
+Bussey @ lf:	4 0 2 1 0 0
+Klock @ c:		2 0 1 3 1 0
+McCarthy @ p:	4 0 1 1 4 0
+TOTALS:			37 4 13 27 14 0
+
+Charlotte:		ab r h po a e
+Woodson @ rf:	4 0 0 2 0 0
+McMillan @ cf:	3 0 0 1 1 0
+Brandow @ 3b:	4 0 0 2 2 0
+Garman @ 1b:	4 0 0 7 2 0
+Cross @ 2b:		4 0 2 3 3 0
+Coutts @ lf:	4 0 1 3 0 0
+Weiser @ ss:	2 0 0 3 1 0
+Malcolmson @ c:	3 0 0 6 4 0
+Walters @ p:	2 0 1 0 0 0
+TOTALS:			30 0 4 27 15 0
+
+line: Anderson: 0 0 0 0 0 0 3 1 0 - 4
+line: Charlotte: 0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Anderson #8; Charlotte #5
+B_ROE: 
+B_ER: 
+B_2B: Cross; Coutts
+B_3B: 
+B_HR: 
+B_SB: Corbett; Brannon
+B_SH: 
+B_SF: 
+B_HP: Klock
+B_XO: 
+P_BB: McCarthy #3; Walters #1
+P_SO: McCarthy #3; Walters #6
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:30
+U: O'Brien
