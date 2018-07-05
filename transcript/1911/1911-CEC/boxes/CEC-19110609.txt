@@ -1,0 +1,59 @@
+date: 1911-06-09
+number: 0
+league: Carolina Association
+away: Winston-Salem
+home: Spartanburg
+source: The (Charlotte) Evening Chronicle, Jun 10, 1911
+A: 400
+
+Winston-Salem:		ab r h po a e
+O'Halloran @ cf:	4 1 1 1 2 0
+Gates @ 3b:			4 0 0 0 5 0
+Clancy @ ss:		5 0 0 0 1 1
+Shumaker @ 1b:		3 1 2 13 1 0
+Edwards @ c:		4 0 2 4 1 1
+Spencer @ rf:		4 0 0 1 0 0
+Clemens @ 2b:		3 1 3 4 0 0
+Boyle @ p:			4 1 1 0 2 0
+Mullin @ cf:		4 0 0 1 0 0
+TOTALS:				39 4 9 24 12 2
+
+Spartanburg:	ab r h po a e
+Kipp @ ss:		2 3 1 3 3 1
+Wideman @ 3b:	1 1 0 1 2 0
+Wagnon @ cf:	4 0 1 2 0 0
+Tatman @ lf:	4 0 2 5 0 0
+Williams @ 2b:	4 0 0 4 1 0
+Laval @ 1b:		4 1 3 5 4 0
+Westlake @ c:	2 0 0 5 3 0
+Moore @ rf:		4 0 0 1 0 0
+Wood @ p:		1 0 0 0 1 0
+Ferrall @ p:	2 0 0 1 1 1	
+TOTALS:			28 5 7 27 15 2
+
+line: Winston-Salem: 1 0 0 1 0 0 2 0 0 - 4
+line: Spartanburg: 1 0 2 0 1 0 0 1 x - 5
+
+B_LOB: Winston-Salem #8; Spartanburg #6
+B_ROE: Winston-Salem #2; Spartanburg #1
+B_ER: 
+B_2B: Laval
+B_3B: 
+B_HR: 
+B_SB: O'Halloran; Clemens; Kipp #3; Wideman; Wagnon #2; Tatman; Laval; Westlake
+B_SH: Gates; Wideman #2; Westlake #2
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Boyle #2; Ferrall #3
+P_SO: Boyle #4; Ferrall #4; Wood #1
+P_H: Wood #6; Ferrall #3
+P_IP: Wood #3.2; Ferrall #5.1
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:45
+U: Canny; O'Brien
