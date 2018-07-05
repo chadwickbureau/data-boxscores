@@ -1,26 +1,44 @@
 league.year,league.name,league.phase,person.ref,person.name.last,person.name.given,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G
 1911,Carolina Association,regular,P4838309,Blackstone,,Greenville,1911-05-02,1911-05-19,2,0,0,0,0,0,2,2,0,0,0,0
+1911,Carolina Association,regular,P9661189,Brandow,,Charlotte,1911-06-02,1911-06-02,1,0,0,1,0,0,0,0,0,0,0,0
+1911,Carolina Association,regular,P2650778,Brannon,,Anderson,1911-06-02,1911-06-02,1,0,0,0,0,0,0,0,0,0,1,0
 1911,Carolina Association,regular,P8461796,Cashion,,Greenville,1911-05-02,1911-05-02,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Carolina Association,regular,P0849055,Corbett,,Anderson,1911-06-02,1911-06-02,1,0,0,0,0,0,1,0,1,0,0,0
 1911,Carolina Association,regular,P2438922,Cothran,,Spartanburg,1911-05-19,1911-05-19,1,0,0,0,0,0,1,0,1,1,0,0
+1911,Carolina Association,regular,P2293178,Coutts,,Charlotte,1911-06-02,1911-06-02,1,0,0,0,0,0,1,1,0,0,0,0
+1911,Carolina Association,regular,P0878626,Cross,,Charlotte,1911-06-02,1911-06-02,1,0,0,0,1,0,0,0,0,0,0,0
 1911,Carolina Association,regular,P1564862,Doak,,Greenville,1911-05-02,1911-05-19,2,0,0,0,0,0,2,0,2,0,0,0
 1911,Carolina Association,regular,P0356651,Dubbs,,Spartanburg,1911-05-19,1911-05-19,1,0,0,0,0,1,0,0,0,0,0,0
+1911,Carolina Association,regular,P2738615,Dwyer,,Anderson,1911-06-02,1911-06-02,1,0,0,1,0,0,0,0,0,0,0,0
+1911,Carolina Association,regular,P4426504,Fogarty,,Anderson,1911-06-02,1911-06-02,1,0,1,0,0,0,0,0,0,0,0,0
+1911,Carolina Association,regular,P9679182,Garman,,Charlotte,1911-06-02,1911-06-02,1,0,1,0,0,0,0,0,0,0,0,0
 1911,Carolina Association,regular,P4392036,Goodman,,Greenville,1911-05-02,1911-05-19,2,0,0,0,0,2,0,0,0,0,0,0
 1911,Carolina Association,regular,P7020484,Griffin,,Greenville,1911-05-02,1911-05-19,2,1,0,0,0,0,1,0,0,1,0,1
+1911,Carolina Association,regular,P4368296,Hargrave,,Charlotte,1911-06-02,1911-06-02,1,0,0,0,0,0,1,0,0,1,0,0
 1911,Carolina Association,regular,P5641009,Jenkins,,Greenville,1911-05-02,1911-05-19,2,0,2,0,0,0,0,0,0,0,0,0
 1911,Carolina Association,regular,P2089274,Jones,,Spartanburg,1911-05-02,1911-05-02,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Carolina Association,regular,P9254533,Kelly,J.,Anderson,1911-06-02,1911-06-02,1,0,0,0,0,0,1,0,0,1,0,0
+1911,Carolina Association,regular,P7692370,Kelly,W.,Anderson,1911-06-02,1911-06-02,1,0,0,0,0,1,0,0,0,0,0,0
 1911,Carolina Association,regular,P5294668,Kite,,Greenville,1911-05-19,1911-05-19,1,0,0,0,0,0,0,0,0,0,1,0
 1911,Carolina Association,regular,P6993035,Laval,,Spartanburg,1911-05-02,1911-05-19,2,1,2,0,0,0,0,0,0,0,0,1
+1911,Carolina Association,regular,P9710223,Lowe,,Charlotte,1911-06-02,1911-06-02,1,0,0,0,0,0,1,0,1,0,0,0
+1911,Carolina Association,regular,P9880941,Malcolmson,,Charlotte,1911-06-02,1911-06-02,1,0,0,0,0,0,0,0,0,0,1,0
+1911,Carolina Association,regular,P5259463,McCarthy,,Anderson,1911-06-02,1911-06-02,1,0,0,0,1,0,0,0,0,0,0,0
 1911,Carolina Association,regular,P4814509,McCraney,,Spartanburg,1911-05-02,1911-05-02,1,0,0,0,0,0,1,0,1,0,0,0
 1911,Carolina Association,regular,P5580624,McDuff,,Spartanburg,1911-05-02,1911-05-02,1,0,0,0,0,1,0,0,0,0,0,0
 1911,Carolina Association,regular,P7147645,Moore,,Spartanburg,1911-05-02,1911-05-19,2,0,0,0,0,0,1,0,0,1,0,0
 1911,Carolina Association,regular,P3478220,Ochs,,Greenville,1911-05-02,1911-05-19,2,0,0,0,0,0,1,0,0,1,1,0
+1911,Carolina Association,regular,P3408378,Scanlon,,Anderson,1911-06-02,1911-06-02,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Carolina Association,regular,P8978461,Sharp,,Greenville,1911-05-02,1911-05-19,2,0,0,2,0,0,0,0,0,0,0,0
 1911,Carolina Association,regular,P9803716,Smith,,Greenville,1911-05-19,1911-05-19,1,0,0,0,1,0,0,0,0,0,0,0
 1911,Carolina Association,regular,P4428474,Smith [Gre],,Greenville,1911-05-02,1911-05-02,1,0,0,0,1,0,0,0,0,0,0,0
 1911,Carolina Association,regular,P9971932,Smith [Spa],,Spartanburg,1911-05-02,1911-05-02,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Carolina Association,regular,P5946962,Van Pelt,,Charlotte,1911-06-02,1911-06-02,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Carolina Association,regular,P5304408,Vickery,,Spartanburg,1911-05-19,1911-05-19,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Carolina Association,regular,P1594469,Wagnon,,Spartanburg,1911-05-02,1911-05-19,2,0,1,0,0,0,2,0,1,1,0,0
 1911,Carolina Association,regular,P7424065,Walker,,Spartanburg,1911-05-02,1911-05-19,2,0,0,0,0,0,2,2,0,0,0,0
+1911,Carolina Association,regular,P1064935,Weiser,,Charlotte,1911-06-02,1911-06-02,1,0,0,0,0,1,0,0,0,0,0,0
 1911,Carolina Association,regular,P9490555,Westlake,,Spartanburg,1911-05-02,1911-05-19,2,0,0,0,0,0,0,0,0,0,2,0
 1911,Carolina Association,regular,P8164093,Williams,,Spartanburg,1911-05-02,1911-05-19,2,0,0,0,2,0,0,0,0,0,0,0
 1911,Carolina Association,regular,P1701612,Wynne,,Spartanburg,1911-05-02,1911-05-19,2,0,0,2,0,0,0,0,0,0,0,0
+1911,Carolina Association,regular,P9912427,Yount,,Anderson,1911-06-02,1911-06-02,1,0,0,0,0,0,1,1,0,0,0,0

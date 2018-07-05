@@ -1,0 +1,58 @@
+date: 1911-06-02
+number: 0
+league: Carolina Association
+away: Anderson
+home: Charlotte
+source: The Greenville News, Jun 3, 1911
+A: 650
+
+Anderson:		ab r h po a e
+Kelly,W. @ ss:	6 1 1 3 3 0
+Corbett @ cf:	3 1 0 2 0 0
+McCarthy @ 3b:	5 1 2 1 1 0
+Kelly,J. @ rf:	5 2 4 4 0 0
+Fogarty @ 1b:	5 1 2 9 0 1
+Yount @ lf:		4 0 2 5 0 0
+Dwyer @ 2b:		4 1 1 1 0 0
+Brannon @ c:	4 0 2 0 0 0
+Scanlon @ p:	4 1 2 2 2 0
+TOTALS:			40 8 16 27 6 1
+
+Charlotte:		ab r h po a e
+Hargrave @ rf:	5 1 2 1 0 0
+Garman @ 1b:	5 1 1 7 1 0
+Cross @ 3b:		4 0 2 1 3 1
+Coutts @ lf:	5 0 0 1 0 0
+Weiser @ ss:	4 2 2 3 4 1
+Brandow @ 2b:	4 2 1 4 2 1
+Lowe @ cf:		4 0 2 3 0 1
+Malcolmson @ c:	4 0 2 6 2 1
+Van Pelt @ p:	4 0 0 0 2 0
+TOTALS:			39 6 12 26 14 5
+
+line: Anderson: 1 0 0 1 1 5 0 0 0 - 8
+line: Charlotte: 0 0 0 2 0 0 2 2 0 - 6
+
+B_LOB: Anderson #11; Charlotte #7
+B_ROE: Anderson #4
+B_ER: 
+B_2B: Cross; Weiser; Brandow
+B_3B: Fogarty
+B_HR: 
+B_SB: Corbett; J. Kelly; Fogarty; Scanlon; McCarthy #2
+B_SH: Corbett; Brannon
+B_SF: 
+B_HP: Dwyer
+B_XO: Dwyer, hit by batted ball
+P_BB: Scanlon #1; Van Pelt #2
+P_SO: Scanlon #0; Van Pelt #5
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: Van Pelt
+P_BK: 
+F_DP: Cross, Brandow, Garman
+F_PB: Malcolmson
+outsatend: 
+T: 2:03
+U: Canny; Leibrich
