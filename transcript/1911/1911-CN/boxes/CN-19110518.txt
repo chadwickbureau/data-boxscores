@@ -309,9 +309,7 @@ outsatend: 2
 T: 1:43
 U: Nugent
 
-
 ---
-
 date: 1911-05-19
 number: 0
 league: Carolina Association
@@ -372,7 +370,6 @@ F_PB: Cahill
 outsatend: 
 T: 1:32
 U: Reid
-
 
 ---
 
@@ -643,7 +640,7 @@ Coutts @ lf:	2 1 0 1 0 2
 Hargrave @ rf:	3 0 2 3 0 0
 Malcolmson @ c:	4 0 0 3 0 0
 Sheesley @ p:	9 0 0 0 1 0
-*Weiser @ ph:	1 1 1 0 0 0
+*Welser @ ph:	1 1 1 0 0 0
 TOTALS:			35 5 8 24 15 3
 
 Greensboro:		ab r h po a e
@@ -666,7 +663,7 @@ line: Greensboro: 3 1 1 0 3 0 2 1 x - 11
 B_LOB: Charlotte #8; Greensboro #7
 B_ROE: Charlotte #3; Greensboro #3
 B_ER: 
-B_2B: Rickard; Bentley; Clapp #2; Carroll; Wallace; Garman; Weiser; Brandow
+B_2B: Rickard; Bentley; Clapp #2; Carroll; Wallace; Garman; Welser; Brandow
 B_3B: Clapp
 B_HR: 
 B_SB: Rickard; Fuller; Doak; Carroll; Becker; Brandow; Coutts
@@ -935,4 +932,3 @@ F_PB:
 outsatend: 
 T: 1:40
 U: Canny
-
