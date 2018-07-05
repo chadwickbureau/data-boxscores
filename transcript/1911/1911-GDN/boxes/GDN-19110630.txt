@@ -1,0 +1,58 @@
+date: 1911-07-03
+number: 0
+league: Carolina Association
+away: Greensboro
+home: Winston-Salem
+source: Greensboro Daily News, Jul 4, 1911
+A: 800
+
+Greensboro:		ab r h po a e
+Rickard @ cf:	4 2 2 0 0 0
+Doyle @ 2b:		5 0 2 2 3 0
+Fuller @ 1b:	4 2 1 11 2 0
+Doak @ 3b:		5 0 3 1 0 0
+Clapp @ lf:		5 0 1 0 0 0
+Corwin @ rf:	4 1 2 2 0 0
+Carroll @ ss:	4 0 1 0 2 1
+Stuart @ c:		4 0 0 6 2 0
+Eldridge @ p:	4 0 1 2 2 0
+TOTALS:			39 5 13 24 11 1
+
+Winston-Salem:		ab r h po a e
+Clemens @ lf:		4 2 3 3 0 0
+O'Halloran @ 2b:	5 0 3 0 3 0
+Clancy @ ss:		4 1 2 6 1 1
+Shumaker @ cf:		4 1 1 0 0 0
+Gates @ 3b:			4 0 1 0 3 0
+Edwards @ 1b:		4 1 1 11 0 0
+Spencer @ rf:		4 0 0 0 1 1
+Dailey @ c:			3 1 1 6 2 0
+Swindell @ p:		4 1 1 1 1 0
+TOTALS:				36 7 13 27 11 2
+
+line: Greensboro: 2 0 0 0 0 0 1 1 1 - 5
+line: Winston-Salem: 2 1 0 3 0 1 0 0 x - 7
+
+B_LOB: Greensboro #11; Winston-Salem #7
+B_ROE: Greensboro #2; Winston-Salem #1
+B_ER: 
+B_2B: Clapp; Clancy; Dailey; Doak; O'Halloran #2; Corwin; Edwards; Carroll; Eldridge
+B_3B: Shumaker
+B_HR: 
+B_SB: Fuller
+B_SH: Carroll; Dailey
+B_SF: 
+B_HP: Corwin
+B_XO: 
+P_BB: Swindell #2; Eldridge #1
+P_SO: Swindell #6; Eldridge #6
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: Stuart
+outsatend: 
+T: 2:00
+U: Leibrich

@@ -1,0 +1,62 @@
+date: 1911-06-08
+number: 0
+league: Carolina Association
+away: Anderson
+home: Greensboro
+source: Greensboro Daily News, Jun 9, 1911
+A: 600
+
+Anderson:		ab r h po a e
+Kelly,W. @ ss:	4 0 2 2 3 1
+Corbett @ cf:	4 0 1 1 0 0
+McCarthy @ 3b:	4 0 0 2 3 1
+Kelly,J. @ rf:	4 0 0 1 0 0
+Fogarty @ 1b:	4 0 0 11 0 1
+Yount @ lf:		4 0 1 1 0 1
+Dwyer @ 2b:		4 0 0 0 1 1
+Brannon @ c:	3 1 1 3 1 0
+Wolfe @ p:		0 0 0 0 0 0
+Combs @ p:		3 0 1 3 6 1
+*Clark @ ph:	1 0 0 0 0 0
+TOTALS:			35 1 6 24 14 6
+
+Greensboro:		ab r h po a e
+Rickard @ cf:	4 1 0 6 0 0
+Doyle @ 2b:		5 1 2 0 4 1
+Fuller @ 1b:	5 2 1 11 0 0
+Clapp @ lf:		4 2 2 4 0 0
+Doak @ 3b:		5 1 1 2 2 0
+Corwin @ ss:	4 1 2 1 3 0
+Morrisey @ rf:	3 1 1 0 0 1
+Stewart @ c:	4 0 1 3 1 0
+Walters @ p:	2 1 0 0 1 0
+TOTALS:			38 10 10 27 11 2
+
+*: batted for Brannon in 9th
+
+line: Anderson: 0 0 0 0 1 0 0 0 0 - 1
+line: Greensboro: 7 0 0 0 1 0 0 2 x - 10
+
+B_LOB: Anderson #6; Greensboro #7
+B_ROE: Anderson #2; Greensboro #5
+B_ER: 
+B_2B: Clapp; Doak; Morrisey; W. Kelly; Brannon
+B_3B: 
+B_HR: 
+B_SB: Doyle #2; Corwin
+B_SH: Rickard
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Wolfe #2; Combs #2
+P_SO: Wolfe #1; Combs #2; Walters #1
+P_H: Wolfe #3; Combs #7
+P_IP: Wolfe #1; Combs #7
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Combs, McCarthy
+F_PB: Brannon
+outsatend: 
+T: 1:42
+U: Nugent
