@@ -7,9 +7,9 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Arkansas State League,regular,P4700066,Bakenfohe,,Alexandria,1909-04-28,1909-04-28,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P7090387,Bankhead,,Texarkana,1909-04-16,1909-05-02,14,0,0,0,0,0,10,0,0,10,5,0
 1909,Arkansas State League,regular,P5558726,Barnicle,,Fort Smith,1909-04-17,1909-04-23,2,2,0,0,0,0,0,0,0,0,0,2
-1909,Arkansas State League,regular,P8893067,Begley,,Helena,1909-04-15,1909-05-01,10,0,10,0,0,0,0,0,0,0,0,0
-1909,Arkansas State League,regular,P2896286,Benham,,Helena,1909-04-15,1909-05-01,11,0,0,0,0,0,11,0,0,11,0,0
-1909,Arkansas State League,regular,P7447963,Berry,,Hot Springs,1909-04-16,1909-05-01,12,0,0,0,0,0,6,6,0,0,6,0
+1909,Arkansas State League,regular,P8893067,Begley,,Helena,1909-04-15,1909-05-01,11,0,11,0,0,0,0,0,0,0,0,0
+1909,Arkansas State League,regular,P2896286,Benham,,Helena,1909-04-15,1909-05-01,12,0,0,0,0,0,12,0,0,12,0,0
+1909,Arkansas State League,regular,P7447963,Berry,,Hot Springs,1909-04-16,1909-05-01,13,0,0,0,0,0,6,6,0,0,7,0
 1909,Arkansas State League,regular,P4417623,Besse,,Texarkana,1909-04-17,1909-05-02,13,0,13,0,0,0,0,0,0,0,0,0
 1909,Arkansas State League,regular,P9592019,Beveridge,,Fort Smith,1909-04-29,1909-04-29,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P0832911,Bigley,,Helena,1909-04-23,1909-04-23,1,0,1,0,0,0,0,0,0,0,0,0
@@ -21,7 +21,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Arkansas State League,regular,P6243827,Bokenfehr,,Alexandria,1909-04-24,1909-04-24,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P2469117,Bokenfohr,,Alexandria,1909-04-17,1909-05-01,3,3,0,0,0,0,0,0,0,0,0,3
 1909,Arkansas State League,regular,P1743379,Brewster,,Texarkana,1909-04-16,1909-04-24,5,0,0,0,4,0,1,1,0,0,0,0
-1909,Arkansas State League,regular,P6738129,Bromley,,Hot Springs,1909-04-16,1909-05-01,14,0,0,0,6,0,8,0,7,1,0,0
+1909,Arkansas State League,regular,P6738129,Bromley,,Hot Springs,1909-04-16,1909-05-01,15,0,0,0,6,0,9,0,8,1,0,0
 1909,Arkansas State League,regular,P8078192,Brown,,Argenta,1909-04-29,1909-04-29,1,0,0,0,0,0,1,1,0,0,0,0
 1909,Arkansas State League,regular,P3197659,Brown,,Helena,1909-04-24,1909-04-27,4,0,0,0,0,0,0,0,0,0,4,0
 1909,Arkansas State League,regular,P8532447,Brown,,Hot Springs,1909-04-19,1909-04-21,3,0,0,0,3,0,0,0,0,0,0,0
@@ -40,6 +40,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Arkansas State League,regular,P1623680,Cowan,,Argenta,1909-04-15,1909-05-01,14,0,0,1,13,0,0,0,0,0,0,0
 1909,Arkansas State League,regular,P1313921,Coyle,,Texarkana,1909-04-16,1909-04-21,6,0,0,4,2,0,0,0,0,0,0,0
 1909,Arkansas State League,regular,P3693249,Crottey,,Hot Springs,1909-04-27,1909-04-27,1,0,0,0,1,0,0,0,0,0,0,0
+1909,Arkansas State League,regular,P0000988,Crotty,,Hot Springs,1909-04-27,1909-04-27,1,0,0,0,1,0,0,0,0,0,0,0
 1909,Arkansas State League,regular,P5060758,Dawkins,,Texarkana,1909-04-23,1909-05-02,8,0,0,0,8,0,0,0,0,0,0,0
 1909,Arkansas State League,regular,P1391218,Deardoff,,Jonesboro,1909-04-20,1909-04-23,2,2,0,0,0,0,0,0,0,0,0,2
 1909,Arkansas State League,regular,P6626244,Deardorff,,Jonesboro,1909-04-17,1909-05-01,4,4,0,0,0,0,0,0,0,0,0,4
@@ -60,7 +61,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Arkansas State League,regular,P1325420,Fullenweider,,Fort Smith,1909-04-16,1909-04-22,2,2,0,0,0,0,0,0,0,0,0,2
 1909,Arkansas State League,regular,P6544295,Fullenwider,,Fort Smith,1909-04-23,1909-04-23,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P3257598,Gallagher,,Hot Springs,1909-04-18,1909-04-18,1,1,0,0,0,0,0,0,0,0,0,1
-1909,Arkansas State League,regular,P7854982,Galligher,,Hot Springs,1909-04-24,1909-04-24,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Arkansas State League,regular,P7854982,Galligher,,Hot Springs,1909-04-24,1909-04-27,2,2,0,0,0,0,0,0,0,0,0,2
 1909,Arkansas State League,regular,P7799875,Gandolfi,,Alexandria,1909-04-24,1909-05-01,4,0,0,0,2,2,0,0,0,0,0,0
 1909,Arkansas State League,regular,P1740441,Gardner,,Monroe,1909-04-16,1909-05-02,14,0,9,0,0,0,6,5,0,1,0,0
 1909,Arkansas State League,regular,P5666945,Geiss,,Fort Smith,1909-04-16,1909-04-28,5,0,1,2,1,0,1,0,0,1,0,0
@@ -68,11 +69,12 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Arkansas State League,regular,P1824423,Gieste,,Fort Smith,1909-04-18,1909-04-18,1,0,0,1,0,0,0,0,0,0,0,0
 1909,Arkansas State League,regular,P0798801,Gondolfi,,Alexandria,1909-04-27,1909-04-28,2,0,0,0,1,1,0,0,0,0,0,0
 1909,Arkansas State League,regular,P8790267,Graves,,Helena,1909-04-15,1909-05-01,11,0,0,0,0,11,0,0,0,0,0,0
+1909,Arkansas State League,regular,P9430208,Greaves,,Helena,1909-04-27,1909-04-27,1,0,0,0,0,1,0,0,0,0,0,0
 1909,Arkansas State League,regular,P8568505,Green,,Argenta,1909-04-19,1909-05-01,9,0,0,0,0,0,9,0,1,8,0,0
 1909,Arkansas State League,regular,P6970910,Greene,,Argenta,1909-04-26,1909-04-29,2,0,0,0,0,0,2,0,1,1,0,0
 1909,Arkansas State League,regular,P4383871,Hancock,,Argenta,1909-04-21,1909-04-28,2,2,0,0,0,0,0,0,0,0,0,2
 1909,Arkansas State League,regular,P7666824,Hawkins,,Helena,1909-04-16,1909-04-23,2,2,0,0,0,0,0,0,0,0,0,2
-1909,Arkansas State League,regular,P2541536,Heigelfort,,Hot Springs,1909-04-16,1909-04-27,4,2,0,0,0,0,1,0,1,0,0,2
+1909,Arkansas State League,regular,P2541536,Heigelfort,,Hot Springs,1909-04-16,1909-04-27,5,2,0,0,0,0,2,1,1,0,0,2
 1909,Arkansas State League,regular,P1268288,Heiglefort,,Hot Springs,1909-04-19,1909-05-01,7,3,0,0,0,0,4,0,4,0,0,3
 1909,Arkansas State League,regular,P0432423,Heninger,,Jonesboro,1909-04-23,1909-04-24,2,0,0,0,0,0,0,0,0,0,2,0
 1909,Arkansas State League,regular,P7177013,Henninger,,Jonesboro,1909-04-20,1909-05-01,6,0,0,0,0,0,0,0,0,0,6,0
@@ -83,14 +85,15 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Arkansas State League,regular,P5327727,Hitchcock,,Alexandria,1909-04-18,1909-04-27,3,3,0,0,0,0,0,0,0,0,0,3
 1909,Arkansas State League,regular,P8189377,Hoeschelle,,Texarkana,1909-04-16,1909-05-01,4,4,0,0,0,0,0,0,0,0,0,4
 1909,Arkansas State League,regular,P1233566,Hoffman,,Alexandria,1909-04-16,1909-05-01,12,0,12,0,0,0,0,0,0,0,0,0
-1909,Arkansas State League,regular,P8081586,Hoffman,,Helena,1909-04-15,1909-05-01,11,0,0,0,0,0,11,11,0,0,0,0
+1909,Arkansas State League,regular,P8081586,Hoffman,,Helena,1909-04-15,1909-05-01,12,0,0,0,0,0,12,12,0,0,0,0
 1909,Arkansas State League,regular,P2348470,Horn,,Alexandria,1909-04-16,1909-05-01,12,0,0,0,0,0,12,10,1,2,0,0
 1909,Arkansas State League,regular,P3218733,Humphreys,,Argenta,1909-04-15,1909-04-15,1,0,0,0,0,1,0,0,0,0,0,0
 1909,Arkansas State League,regular,P2837021,Humphries,,Argenta,1909-04-16,1909-05-01,13,0,0,0,0,13,0,0,0,0,0,0
 1909,Arkansas State League,regular,P9366738,Hunt,,Helena,1909-04-25,1909-04-29,2,2,0,0,0,0,0,0,0,0,0,2
 1909,Arkansas State League,regular,P4041668,Jansen,,Texarkana,1909-04-28,1909-04-28,1,0,0,0,0,0,1,0,0,1,0,0
-1909,Arkansas State League,regular,P3234163,Jennings,,Hot Springs,1909-04-16,1909-05-01,12,0,0,5,1,0,7,6,0,1,0,0
+1909,Arkansas State League,regular,P3234163,Jennings,,Hot Springs,1909-04-16,1909-05-01,13,0,0,5,1,0,8,6,0,2,0,0
 1909,Arkansas State League,regular,P0093313,Jolly,,Jonesboro,1909-04-16,1909-05-01,15,0,0,1,0,0,14,0,14,0,0,0
+1909,Arkansas State League,regular,P0097174,Jones,,Hot Springs,1909-04-27,1909-04-27,1,0,0,0,1,0,0,0,0,0,0,0
 1909,Arkansas State League,regular,P6093766,Jost,,Fort Smith,1909-04-19,1909-05-01,5,5,0,0,0,0,0,0,0,0,0,5
 1909,Arkansas State League,regular,P5042707,Kennedy,,Texarkana,1909-04-16,1909-04-16,1,0,1,0,0,0,0,0,0,0,0,0
 1909,Arkansas State League,regular,P0046891,Ketchens,,Monroe,1909-04-24,1909-04-24,1,0,0,0,0,0,1,0,0,1,0,0
@@ -101,12 +104,13 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Arkansas State League,regular,P5497808,Knapp,,Monroe,1909-04-16,1909-04-18,3,0,0,0,0,0,0,0,0,0,3,0
 1909,Arkansas State League,regular,P5789829,Knaupp,,Monroe,1909-04-19,1909-05-02,12,0,0,0,0,0,2,0,0,2,10,0
 1909,Arkansas State League,regular,P7825849,Lannon,,Helena,1909-04-15,1909-05-01,10,0,0,0,0,0,10,0,10,0,0,0
-1909,Arkansas State League,regular,P9211307,Lanon,,Helena,1909-04-27,1909-04-27,1,0,0,0,0,0,1,0,1,0,0,0
+1909,Arkansas State League,regular,P9211307,Lanon,,Helena,1909-04-27,1909-04-27,2,0,0,0,0,0,2,0,2,0,0,0
 1909,Arkansas State League,regular,P4843414,Latham,,Alexandria,1909-04-28,1909-04-28,1,0,0,0,0,0,1,1,0,0,0,0
 1909,Arkansas State League,regular,P1088317,Latham,,Fort Smith,1909-04-29,1909-05-01,2,0,0,0,0,0,2,1,1,0,0,0
 1909,Arkansas State League,regular,P1644589,Leighton,,Helena,1909-04-15,1909-04-29,5,0,0,0,0,0,0,0,0,0,5,0
 1909,Arkansas State League,regular,P1090214,Leslie,,Argenta,1909-04-15,1909-05-01,14,0,0,0,0,0,14,0,10,4,0,0
 1909,Arkansas State League,regular,P6811494,Leverette,,Monroe,1909-04-17,1909-04-17,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Arkansas State League,regular,P8466504,Lighton,,Helena,1909-04-27,1909-04-27,1,0,0,0,0,0,0,0,0,0,1,0
 1909,Arkansas State League,regular,P6685728,Ling,,Monroe,1909-04-30,1909-05-02,3,0,3,0,0,0,0,0,0,0,0,0
 1909,Arkansas State League,regular,P2059156,Lingenfelder,,Texarkana,1909-04-17,1909-04-30,4,4,0,0,0,0,0,0,0,0,0,4
 1909,Arkansas State League,regular,P2174100,Ludwig,,Argenta,1909-04-17,1909-04-17,1,1,0,0,0,0,0,0,0,0,0,1
@@ -116,9 +120,9 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Arkansas State League,regular,P1223457,McMulty,,Monroe,1909-04-24,1909-04-24,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P4198659,McNaulty,,Monroe,1909-04-30,1909-04-30,1,0,0,0,0,0,1,0,0,1,0,0
 1909,Arkansas State League,regular,P4208418,McNulty,,Monroe,1909-04-26,1909-05-01,3,2,0,0,0,0,2,2,0,0,0,2
-1909,Arkansas State League,regular,P4064581,Merchant,,Helena,1909-04-15,1909-04-25,2,1,0,1,0,0,0,0,0,0,0,1
+1909,Arkansas State League,regular,P4064581,Merchant,,Helena,1909-04-15,1909-04-27,3,2,0,1,0,0,0,0,0,0,0,2
 1909,Arkansas State League,regular,P7971899,Meyers,,Fort Smith,1909-05-01,1909-05-01,1,0,0,0,0,0,0,0,0,0,1,0
-1909,Arkansas State League,regular,P1775164,Murphy,,Hot Springs,1909-04-16,1909-05-01,14,0,14,0,0,0,0,0,0,0,0,0
+1909,Arkansas State League,regular,P1775164,Murphy,,Hot Springs,1909-04-16,1909-05-01,15,0,15,0,0,0,0,0,0,0,0,0
 1909,Arkansas State League,regular,P3146742,Myers,,Fort Smith,1909-04-22,1909-04-29,4,0,0,0,0,0,0,0,0,0,4,0
 1909,Arkansas State League,regular,P3692364,Naylor,,Hot Springs,1909-04-16,1909-05-01,10,0,0,0,1,0,0,0,0,0,9,0
 1909,Arkansas State League,regular,P7548564,Noyes,,Fort Smith,1909-04-16,1909-04-27,9,1,0,0,0,0,1,0,0,1,7,1
@@ -154,7 +158,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Arkansas State League,regular,P7911656,Rives,,Alexandria,1909-04-17,1909-04-21,2,2,0,0,0,0,0,0,0,0,0,2
 1909,Arkansas State League,regular,P2318453,Robertson,,Jonesboro,1909-04-29,1909-04-29,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P2599169,Robinson,,Jonesboro,1909-04-16,1909-04-28,5,5,0,0,0,0,0,0,0,0,0,5
-1909,Arkansas State League,regular,P3466885,Rogers,,Helena,1909-04-15,1909-04-26,6,4,0,1,0,0,0,0,0,0,0,4
+1909,Arkansas State League,regular,P3466885,Rogers,,Helena,1909-04-15,1909-04-27,7,5,0,1,0,0,0,0,0,0,0,5
 1909,Arkansas State League,regular,P5391521,Russell,,Hot Springs,1909-04-16,1909-04-17,2,0,0,0,0,0,2,0,0,2,0,0
 1909,Arkansas State League,regular,P7889609,Schelnsker,,Jonesboro,1909-04-18,1909-04-18,1,0,0,0,0,0,1,0,0,1,0,0
 1909,Arkansas State League,regular,P5163289,Schlencker,,Jonesboro,1909-04-17,1909-04-17,1,0,0,0,0,0,1,0,0,1,0,0
@@ -162,7 +166,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Arkansas State League,regular,P1929403,Schlenski,,Jonesboro,1909-04-16,1909-04-16,1,0,0,0,0,0,1,1,0,0,0,0
 1909,Arkansas State League,regular,P6860077,Schlinsker,,Jonesboro,1909-04-19,1909-04-29,4,0,0,0,0,0,4,1,0,3,0,0
 1909,Arkansas State League,regular,P6701442,Shelton,,Texarkana,1909-04-19,1909-04-19,1,0,0,0,0,0,1,0,0,1,0,0
-1909,Arkansas State League,regular,P3038382,Smitheal,,Hot Springs,1909-04-16,1909-05-01,14,0,0,0,0,14,0,0,0,0,0,0
+1909,Arkansas State League,regular,P3038382,Smitheal,,Hot Springs,1909-04-16,1909-05-01,15,0,0,0,0,15,0,0,0,0,0,0
 1909,Arkansas State League,regular,P1913685,Spencer,,Texarkana,1909-04-17,1909-05-02,3,3,0,0,0,0,0,0,0,0,0,3
 1909,Arkansas State League,regular,P8349812,Sullivan,,Fort Smith,1909-04-27,1909-04-27,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P1923464,Sweeney,,Argenta,1909-04-15,1909-04-17,3,0,0,0,0,0,3,0,0,3,0,0
@@ -174,13 +178,14 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Arkansas State League,regular,P7104100,Tieman,,Fort Smith,1909-04-17,1909-04-24,4,0,0,0,3,1,0,0,0,0,0,0
 1909,Arkansas State League,regular,P8048616,Toepperwein,,Monroe,1909-04-22,1909-04-28,2,1,0,0,0,0,1,1,0,0,0,1
 1909,Arkansas State League,regular,P1185763,Topperwein,,Monroe,1909-04-19,1909-04-30,6,3,0,0,0,0,3,1,0,2,0,3
+1909,Arkansas State League,regular,P4890927,Van Dergrift,,Helena,1909-04-27,1909-04-27,1,0,0,1,0,0,0,0,0,0,0,0
 1909,Arkansas State League,regular,P1656345,Vandagrift,,Helena,1909-04-15,1909-05-01,3,0,0,3,0,1,0,0,0,0,0,0
 1909,Arkansas State League,regular,P5671197,Vandegrift,,Helena,1909-04-17,1909-04-29,8,0,0,8,0,0,0,0,0,0,0,0
 1909,Arkansas State League,regular,P2972797,Vitter,,Alexandria,1909-04-16,1909-04-25,8,0,0,0,0,0,8,0,7,1,0,0
 1909,Arkansas State League,regular,P3186826,Walters,,Argenta,1909-04-23,1909-05-01,3,3,0,0,0,0,0,0,0,0,0,3
-1909,Arkansas State League,regular,P2721990,Ware,,Hot Springs,1909-04-18,1909-04-29,10,0,0,10,0,0,0,0,0,0,0,0
+1909,Arkansas State League,regular,P2721990,Ware,,Hot Springs,1909-04-18,1909-04-29,11,0,0,11,0,0,0,0,0,0,0,0
 1909,Arkansas State League,regular,P5864778,Webber,,Helena,1909-04-19,1909-04-29,5,0,0,0,5,0,0,0,0,0,0,0
-1909,Arkansas State League,regular,P4233192,Weber,,Helena,1909-04-15,1909-05-01,6,0,0,0,6,0,0,0,0,0,0,0
+1909,Arkansas State League,regular,P4233192,Weber,,Helena,1909-04-15,1909-05-01,7,0,0,0,7,0,0,0,0,0,0,0
 1909,Arkansas State League,regular,P0712426,Welch,,Jonesboro,1909-04-16,1909-05-01,13,0,0,12,1,0,0,0,0,0,0,0
 1909,Arkansas State League,regular,P8454735,Welche,,Jonesboro,1909-04-19,1909-04-19,1,0,0,1,0,0,0,0,0,0,0,0
 1909,Arkansas State League,regular,P4953837,Wells,,Fort Smith,1909-04-16,1909-04-26,7,0,0,0,0,0,7,2,5,0,0,0
@@ -356,23 +361,3 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Southern Association,regular,P2321357,Wiseman,,Nashville,1909-04-15,1909-05-01,13,0,0,0,0,0,13,0,0,13,0,0
 1909,Southern Association,regular,P7301874,Woodruff,,Memphis,1909-04-16,1909-04-22,6,0,1,0,0,0,4,0,1,3,0,0
 1909,Southern Association,regular,P3667284,unknown,,Montgomery,1909-04-22,1909-04-22,1,0,0,0,1,0,0,0,0,0,0,0
-1909,college League,regular,P4572273,Begley,,Helena,1909-04-27,1909-04-27,1,0,1,0,0,0,0,0,0,0,0,0
-1909,college League,regular,P8575492,Benham,,Helena,1909-04-27,1909-04-27,1,0,0,0,0,0,1,0,0,1,0,0
-1909,college League,regular,P7106689,Berry,,Hot Springs,1909-04-27,1909-04-27,1,0,0,0,0,0,0,0,0,0,1,0
-1909,college League,regular,P5090743,Bromley,,Hot Springs,1909-04-27,1909-04-27,1,0,0,0,0,0,1,0,1,0,0,0
-1909,college League,regular,P8738946,Crotty,,Hot Springs,1909-04-27,1909-04-27,1,0,0,0,1,0,0,0,0,0,0,0
-1909,college League,regular,P3851628,Galligher,,Hot Springs,1909-04-27,1909-04-27,1,1,0,0,0,0,0,0,0,0,0,1
-1909,college League,regular,P6844006,Greaves,,Helena,1909-04-27,1909-04-27,1,0,0,0,0,1,0,0,0,0,0,0
-1909,college League,regular,P0430854,Heigelfort,,Hot Springs,1909-04-27,1909-04-27,1,0,0,0,0,0,1,1,0,0,0,0
-1909,college League,regular,P5495384,Hoffman,,Helena,1909-04-27,1909-04-27,1,0,0,0,0,0,1,1,0,0,0,0
-1909,college League,regular,P8870425,Jennings,,Hot Springs,1909-04-27,1909-04-27,1,0,0,0,0,0,1,0,0,1,0,0
-1909,college League,regular,P9755900,Jones,,Hot Springs,1909-04-27,1909-04-27,1,0,0,0,1,0,0,0,0,0,0,0
-1909,college League,regular,P4231889,Lanon,,Helena,1909-04-27,1909-04-27,1,0,0,0,0,0,1,0,1,0,0,0
-1909,college League,regular,P5880302,Lighton,,Helena,1909-04-27,1909-04-27,1,0,0,0,0,0,0,0,0,0,1,0
-1909,college League,regular,P8719915,Merchant,,Helena,1909-04-27,1909-04-27,1,1,0,0,0,0,0,0,0,0,0,1
-1909,college League,regular,P0513122,Murphy,,Hot Springs,1909-04-27,1909-04-27,1,0,1,0,0,0,0,0,0,0,0,0
-1909,college League,regular,P9146091,Rogers,,Helena,1909-04-27,1909-04-27,1,1,0,0,0,0,0,0,0,0,0,1
-1909,college League,regular,P8674644,Smitheal,,Hot Springs,1909-04-27,1909-04-27,1,0,0,0,0,1,0,0,0,0,0,0
-1909,college League,regular,P3243541,Van Dergrift,,Helena,1909-04-27,1909-04-27,1,0,0,1,0,0,0,0,0,0,0,0
-1909,college League,regular,P6348012,Ware,,Hot Springs,1909-04-27,1909-04-27,1,0,0,1,0,0,0,0,0,0,0,0
-1909,college League,regular,P9253774,Weber,,Helena,1909-04-27,1909-04-27,1,0,0,0,1,0,0,0,0,0,0,0
