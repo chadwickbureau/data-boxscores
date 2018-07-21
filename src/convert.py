@@ -1,10 +1,8 @@
 import os
 import glob
-import uuid
+import hashlib
 
 import pandas as pd
-
-import fuzzy
 
 def hash_djb2(s):
     hash = 5381
@@ -12,6 +10,16 @@ def hash_djb2(s):
         hash = (( hash << 5) + hash) + ord(x)
     return "P" + ("%d" % hash)[-7:]
 
+def int_to_base(n):
+    alphabet = "BCDFGHJKLMNPQRSTVWXYZ"
+    base = len(alphabet)
+    if n < base:
+        return alphabet[n]
+    else:
+        return int_to_base(n // base) + alphabet[n % base]
+                
+def generate_hash(s):
+    return int_to_base(int(hashlib.sha1(s).hexdigest(), 16))[-7:]
 
 class Game(object):
     _subskeys = [ "*", "+", "^", "&" ]
@@ -151,7 +159,7 @@ class Game(object):
         """Parse the game input text format."
         """
         self = cls()
-        self.metadata = { "key": uuid.uuid5(uuid.NAMESPACE_DNS, gametext),
+        self.metadata = { "key": generate_hash(gametext),
                           "filename": fn,
                           "phase": "regular" }
         self.playing = { }
