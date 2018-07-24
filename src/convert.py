@@ -22,7 +22,7 @@ def generate_hash(s):
     return int_to_base(int(hashlib.sha1(s).hexdigest(), 16))[-7:]
 
 class Game(object):
-    _subskeys = [ "*", "+", "^", "&" ]
+    _subskeys = [ "*", "+", "^", "&", "$" ]
     # "DI" is used sporadically in Winnipeg paper in 1915 - assuming it is RBI
     _categorymap = { "ab":   "B_AB",
                      "r":    "B_R",
