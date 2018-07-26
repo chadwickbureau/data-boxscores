@@ -1,3 +1,4 @@
+import sys
 import os
 import glob
 import hashlib
@@ -238,13 +239,13 @@ class Game(object):
                     self._parse_dptp(key, value)
         
             elif key == "U":
-                self.umpiring = [ { "game.key": self.metadata["key"],
-                                    "game.date": self.date,
-                                    "game.number": self.number,
-                                    "game.phase": self.phase,
-                                    "name.full": x }
-                                     for x in map(lambda x: x.strip(),
-                                                  value.split(";")) ]
+                self.umpiring = [{"game.key": self.metadata["key"],
+                                  "game.date": self.date,
+                                  "game.number": self.number,
+                                  "game.phase": self.phase,
+                                  "name.full": x }
+                                  for x in map(lambda x: x.strip(),
+                                               value.split(";")) ]
             elif key == "line":
                 self._process_linescore(value)
 
@@ -345,7 +346,7 @@ def compile_games(source, gamelist):
 def compile_umpiring(source, gamelist):
     df = pd.concat([ pd.DataFrame(g.umpiring) for g in gamelist ],
                    ignore_index=True)
-    columns = [ 'game.key', 'game.date', 'game.number', 'name.full' ]
+    columns = ['game.key', 'game.date', 'game.number', 'game.phase', 'name.full']
     df = df[columns].copy()
     df.to_csv("processed/%s/umpiring.csv" % source, index=False)
     return df
@@ -372,13 +373,6 @@ def compile_people(source, playing, games):
                   left_index=True, right_index=True)
     df.reset_index(inplace=True)
 
-    #df['metaphone'] = df['name.last'].apply(lambda x: fuzzy.DMetaphone()(x.split("[")[0])[0].ljust(4, 'Z'))
-    #df['metaseq'] = df.groupby([ 'year', 'league', 'metaphone' ]).cumcount() + 1
-    #df['metacount'] = df.groupby([ 'year', 'league', 'metaphone' ])['metaseq'].transform('count')
-    #df['person.ref'] = df.apply(lambda x: "%s%02d%02d" %
-    #                              (x.metaphone, x.metaseq, x.metacount),
-    #                              axis=1)
-
     df['person.ref'] = df.apply(lambda x:
                                 hash_djb2(source + "," +
                                           ",".join(x[['year', 'league',
@@ -402,6 +396,46 @@ def compile_people(source, playing, games):
     df.to_csv("processed/%s/people.csv" % source, index=False,
               float_format='%d')
 
+
+def compile_umpires(source, umpiring, games):
+    umpiring = pd.merge(umpiring, games[['key', 'league']],
+                        left_on='game.key', right_on='key')
+    umpiring['league'] = umpiring['league'].apply(lambda x: x + " League" if "League" not in x and "Association" not in x else x)
+    umpiring['year'] = umpiring['game.date'].str.split("-").str[0]
+    umpiring['U_G'] = 1
+    umpiring.rename(inplace=True, columns={'name.full': 'name.last'})
+    umpiring['name.first'] = ""
+    grouper = umpiring.groupby(['year', 'league', 'game.phase',
+                                'name.last', 'name.first'])
+    df = grouper.sum()
+    df = pd.merge(df,
+                  grouper[['game.date']].min().rename(columns={'game.date': 'S_FIRST'}),
+                  left_index=True, right_index=True)
+    df = pd.merge(df,
+                  grouper[['game.date']].max().rename(columns={'game.date': 'S_LAST'}),
+                  left_index=True, right_index=True)
+    df.reset_index(inplace=True)
+
+    df['club.name'] = "umpire"
+    df['person.ref'] = df.apply(lambda x:
+                                hash_djb2(source + "," +
+                                          ",".join(x[['year', 'league',
+                                                      'name.last', 'name.first',
+                                                      'club.name']])),
+                                axis=1)
+    del df['club.name']
+    df.rename(inplace=True,
+              columns={ 'name.last':  'person.name.last',
+                        'name.first': 'person.name.given',
+                        'year':       'league.year',
+                        'league':     'league.name',
+                        'game.phase': 'league.phase' })
+    df = df[['league.year', 'league.name', 'league.phase', 'person.ref',
+             'person.name.last', 'person.name.given',
+             'S_FIRST', 'S_LAST', 'U_G']]
+    df.to_csv("processed/%s/umpires.csv" % source, index=False,
+              float_format='%d')
+
     
 def process_files(source):
     fnlist = glob.glob("transcript/%s/boxes/*.txt" % source)
@@ -412,15 +446,11 @@ def process_files(source):
     umpiring = compile_umpiring(source, gamelist)
 
     compile_people(source, playing, games)
-                                  
+    compile_umpires(source, umpiring, games)
                                   
                                       
 if __name__ == '__main__':
-    import sys
-    import glob
-
     source = sys.argv[1]
-    
     process_files(source)
         
     

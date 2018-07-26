@@ -1,5 +1,5 @@
-game.key,game.date,game.number,name.full
-PLVSBJB,1911-05-02,0,Nugent
-RDRLMSW,1911-05-19,0,Nugent
-VLTNCKR,1911-06-02,0,Canny
-VLTNCKR,1911-06-02,0,Leibrich
+game.key,game.date,game.number,game.phase,name.full
+PLVSBJB,1911-05-02,0,regular,Nugent
+RDRLMSW,1911-05-19,0,regular,Nugent
+VLTNCKR,1911-06-02,0,regular,Canny
+VLTNCKR,1911-06-02,0,regular,Leibrich
