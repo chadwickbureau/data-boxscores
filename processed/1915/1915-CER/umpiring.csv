@@ -1,10 +1,10 @@
-game.key,league.year,league.name,game.date,game.number,game.phase,name.full
-HMJFPCZ,1915,Buckeye League,1915-05-19,0,regular,Pastorius
-WTWXMWB,1915,Buckeye League,1915-05-21,0,regular,Pastorius
-FNQQNVD,1915,Buckeye League,1915-05-22,0,regular,Pastorius
-SPLSTXJ,1915,Buckeye League,1915-05-23,0,regular,Pastorius
-XYJFSZT,1915,Buckeye League,1915-05-25,0,regular,Taylor
-QBHKBPM,1915,Buckeye League,1915-05-27,0,regular,Peterman
-FSHXBJP,1915,Buckeye League,1915-05-28,0,regular,Peterman
-KVJCXKW,1915,Buckeye League,1915-05-31,1,regular,Pastorius
-NVBSXZG,1915,Buckeye League,1915-05-31,2,regular,Pastorius
+game.key,league.year,league.name,game.date,game.number,game.phase,name.last,name.first
+HMJFPCZ,1915,Buckeye League,1915-05-19,0,regular,Pastorius,
+WTWXMWB,1915,Buckeye League,1915-05-21,0,regular,Pastorius,
+FNQQNVD,1915,Buckeye League,1915-05-22,0,regular,Pastorius,
+SPLSTXJ,1915,Buckeye League,1915-05-23,0,regular,Pastorius,
+XYJFSZT,1915,Buckeye League,1915-05-25,0,regular,Taylor,
+QBHKBPM,1915,Buckeye League,1915-05-27,0,regular,Peterman,
+FSHXBJP,1915,Buckeye League,1915-05-28,0,regular,Peterman,
+KVJCXKW,1915,Buckeye League,1915-05-31,1,regular,Pastorius,
+NVBSXZG,1915,Buckeye League,1915-05-31,2,regular,Pastorius,

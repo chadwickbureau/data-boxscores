@@ -132,7 +132,19 @@ class Game(object):
                     print "  No match on name '%s' in '%s'" % (name, key)
                     continue
                 playing[key] = str(int(playing.get(key, 0)) + int(count))
-            
+
+    def _parse_umpire(self, value):
+        if "," in value:
+            name_last, name_first = map(lambda x: x.strip(), value.split(","))
+        else:
+            name_last, name_first = value, None
+        return {"game.key": self.metadata["key"],
+                "game.date": self.date,
+                "game.number": self.number,
+                "game.phase": self.phase,
+                "name.last": name_last,
+                "name.first": name_first}
+
     def _process_linescore(self, value):
         try:
             club, score = map(lambda x: x.strip(), value.split(":"))
@@ -239,13 +251,10 @@ class Game(object):
                     self._parse_dptp(key, value)
         
             elif key == "U":
-                self.umpiring = [{"game.key": self.metadata["key"],
-                                  "game.date": self.date,
-                                  "game.number": self.number,
-                                  "game.phase": self.phase,
-                                  "name.full": x }
-                                  for x in map(lambda x: x.strip(),
-                                               value.split(";")) ]
+                self.umpiring = [self._parse_umpire(x)
+                                 for x in map(lambda x: x.strip(),
+                                              value.split(";")) ]
+
             elif key == "line":
                 self._process_linescore(value)
 
@@ -353,7 +362,7 @@ def compile_umpiring(source, games, gamelist):
     del df['key']
     del df['league']
     columns = ['game.key', 'league.year', 'league.name',
-               'game.date', 'game.number', 'game.phase', 'name.full']
+               'game.date', 'game.number', 'game.phase', 'name.last', 'name.first']
     df = df[columns].copy()
     df.to_csv("processed/%s/umpiring.csv" % source, index=False)
     return df
@@ -410,8 +419,7 @@ def compile_umpires(source, umpiring, games):
     umpiring['league'] = umpiring['league'].apply(lambda x: x + " League" if "League" not in x and "Association" not in x else x)
     umpiring['year'] = umpiring['game.date'].str.split("-").str[0]
     umpiring['U_G'] = 1
-    umpiring.rename(inplace=True, columns={'name.full': 'name.last'})
-    umpiring['name.first'] = ""
+    umpiring['name.first'] = umpiring['name.first'].fillna("")
     grouper = umpiring.groupby(['year', 'league', 'game.phase',
                                 'name.last', 'name.first'])
     df = grouper.sum()
