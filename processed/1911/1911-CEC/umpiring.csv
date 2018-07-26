@@ -1,15 +1,15 @@
-game.key,game.date,game.number,game.phase,name.full
-DWXMCXB,1911-05-01,0,regular,Nugent
-RPPQKRX,1911-05-01,0,regular,O'Brien
-XFSSWSR,1911-05-01,0,regular,Shea
-RPWKXLW,1911-05-22,0,regular,Canny
-FFDRRPT,1911-05-23,0,regular,Canny
-NJKWCKS,1911-05-23,0,regular,O'Brien
-JPRSWHS,1911-05-27,0,regular,Nugent
-PBKLZKB,1911-05-27,0,regular,Canny
-CKNHLSC,1911-06-09,0,regular,Canny
-CKNHLSC,1911-06-09,0,regular,O'Brien
-BDHTQDT,1911-07-29,0,regular,Robinson
-VBMNBJZ,1911-07-29,0,regular,O'Brien
-LHFPKWK,1911-07-29,0,regular,Nugent
-NTFCYHJ,1911-09-02,0,regular,O'Brien
+game.key,league.year,league.name,game.date,game.number,game.phase,name.full
+DWXMCXB,1911,Carolina Association,1911-05-01,0,regular,Nugent
+RPPQKRX,1911,Carolina Association,1911-05-01,0,regular,O'Brien
+XFSSWSR,1911,Carolina Association,1911-05-01,0,regular,Shea
+RPWKXLW,1911,Carolina Association,1911-05-22,0,regular,Canny
+FFDRRPT,1911,Carolina Association,1911-05-23,0,regular,Canny
+NJKWCKS,1911,Carolina Association,1911-05-23,0,regular,O'Brien
+JPRSWHS,1911,Carolina Association,1911-05-27,0,regular,Nugent
+PBKLZKB,1911,Carolina Association,1911-05-27,0,regular,Canny
+CKNHLSC,1911,Carolina Association,1911-06-09,0,regular,Canny
+CKNHLSC,1911,Carolina Association,1911-06-09,0,regular,O'Brien
+BDHTQDT,1911,Carolina Association,1911-07-29,0,regular,Robinson
+VBMNBJZ,1911,Carolina Association,1911-07-29,0,regular,O'Brien
+LHFPKWK,1911,Carolina Association,1911-07-29,0,regular,Nugent
+NTFCYHJ,1911,Carolina Association,1911-09-02,0,regular,O'Brien

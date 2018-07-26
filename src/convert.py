@@ -343,10 +343,17 @@ def compile_games(source, gamelist):
     df.to_csv("processed/%s/games.csv" % source, index=False)
     return df
 
-def compile_umpiring(source, gamelist):
+def compile_umpiring(source, games, gamelist):
     df = pd.concat([ pd.DataFrame(g.umpiring) for g in gamelist ],
                    ignore_index=True)
-    columns = ['game.key', 'game.date', 'game.number', 'game.phase', 'name.full']
+    df = pd.merge(df, games[[ 'key', 'league' ]],
+                  left_on='game.key', right_on='key')
+    df['league.name'] = df['league'].apply(lambda x: x + " League" if "League" not in x and "Association" not in x else x)
+    df['league.year'] = df['game.date'].str.split("-").str[0]
+    del df['key']
+    del df['league']
+    columns = ['game.key', 'league.year', 'league.name',
+               'game.date', 'game.number', 'game.phase', 'name.full']
     df = df[columns].copy()
     df.to_csv("processed/%s/umpiring.csv" % source, index=False)
     return df
@@ -443,7 +450,7 @@ def process_files(source):
                  for fn in fnlist for g in iterate_games(fn) ]
     games = compile_games(source, gamelist)
     playing = compile_playing(source, games, gamelist)
-    umpiring = compile_umpiring(source, gamelist)
+    umpiring = compile_umpiring(source, games, gamelist)
 
     compile_people(source, playing, games)
     compile_umpires(source, umpiring, games)

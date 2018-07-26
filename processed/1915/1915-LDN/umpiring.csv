@@ -1,52 +1,52 @@
-game.key,game.date,game.number,game.phase,name.full
-QDXXCQV,1915-05-19,0,regular,Taylor
-WCTJDLG,1915-05-19,0,regular,Pastorius
-HLBHGLZ,1915-05-21,0,regular,Taylor
-TLWDTXR,1915-05-21,0,regular,Pastorius
-BTBYDVP,1915-05-22,0,regular,Taylor
-MPKJXTS,1915-05-23,0,regular,Peterman
-GQVQFXQ,1915-05-27,0,regular,Peterman
-PDDKRHY,1915-05-27,0,regular,Pastorious
-VNHVBPJ,1915-05-28,0,regular,Peterman
-XNHBKPW,1915-05-28,0,regular,Pastorious
-TBMMLBZ,1915-05-31,0,regular,Taylor
-KVZWKJZ,1915-06-01,0,regular,Pierce
-KVZWKJZ,1915-06-01,0,regular,Wratten
-NGMXZBG,1915-06-04,0,regular,Berthaume
-XWKGDCJ,1915-06-05,1,regular,Taylor
-PNMZXKD,1915-06-05,2,regular,Taylor
-DYGJSVP,1915-06-06,0,regular,Hart
-DYGJSVP,1915-06-06,0,regular,Clark
-LCXNGPY,1915-06-06,2,regular,Taylor
-JLGCZFB,1915-06-10,0,regular,Pastorius
-HHXDWCZ,1915-06-11,0,regular,Pastorious
-XSYMYZP,1915-06-12,0,regular,Pastorious
-FJFCRYY,1915-06-14,0,regular,Taylor
-KLVYDMC,1915-06-15,0,regular,Taylor
-LFRKRKS,1915-06-16,0,regular,Taylor
-QCHNVNS,1915-06-17,0,regular,Pastorious
-VHGJHNQ,1915-06-17,0,regular,Taylor
-KBGDNKQ,1915-06-18,0,regular,O'Neill
-KTVNDDH,1915-06-19,0,regular,O'Neill
-XWCVZHQ,1915-06-20,1,regular,Taylor
-VSPSYMK,1915-06-20,2,regular,Taylor
-GTCTVLW,1915-06-20,1,regular,O'Neil
-GTCTVLW,1915-06-20,1,regular,Pastorious
-ZGVGKWS,1915-06-20,2,regular,O'Neil
-ZGVGKWS,1915-06-20,2,regular,Pastorious
-BDXGLXY,1915-06-22,0,regular,Pastorious
-VDKRMZG,1915-06-23,0,regular,Pastorious
-MKBRMNR,1915-06-25,0,regular,Pastorious
-FYMPKYR,1915-06-26,1,regular,Pastorious
-XRKHSNJ,1915-06-26,2,regular,Pastorious
-VNNPMWJ,1915-06-27,1,regular,Schultz
-VNNPMWJ,1915-06-27,1,regular,Clark
-WMKCKQP,1915-06-27,2,regular,Schnitzer
-WMKCKQP,1915-06-27,2,regular,Black
-YTSVSWG,1915-06-27,1,regular,Pastorious
-FQRDQMX,1915-06-28,0,regular,Berthaume
-SSLHHXK,1915-06-29,0,regular,Pastorious
-VQQQRKP,1915-06-30,0,regular,Pastorious
-PKCTFMC,1915-07-01,0,regular,Pastorious
-DKSPDXQ,1915-07-02,0,regular,Pastorious
-RKCNZHF,1915-07-04,0,regular,Willett
+game.key,league.year,league.name,game.date,game.number,game.phase,name.full
+QDXXCQV,1915,Buckeye League,1915-05-19,0,regular,Taylor
+WCTJDLG,1915,Buckeye League,1915-05-19,0,regular,Pastorius
+HLBHGLZ,1915,Buckeye League,1915-05-21,0,regular,Taylor
+TLWDTXR,1915,Buckeye League,1915-05-21,0,regular,Pastorius
+BTBYDVP,1915,Buckeye League,1915-05-22,0,regular,Taylor
+MPKJXTS,1915,Buckeye League,1915-05-23,0,regular,Peterman
+GQVQFXQ,1915,Buckeye League,1915-05-27,0,regular,Peterman
+PDDKRHY,1915,Buckeye League,1915-05-27,0,regular,Pastorious
+VNHVBPJ,1915,Buckeye League,1915-05-28,0,regular,Peterman
+XNHBKPW,1915,Buckeye League,1915-05-28,0,regular,Pastorious
+TBMMLBZ,1915,Buckeye League,1915-05-31,0,regular,Taylor
+KVZWKJZ,1915,Buckeye League,1915-06-01,0,regular,Pierce
+KVZWKJZ,1915,Buckeye League,1915-06-01,0,regular,Wratten
+NGMXZBG,1915,Buckeye League,1915-06-04,0,regular,Berthaume
+XWKGDCJ,1915,Buckeye League,1915-06-05,1,regular,Taylor
+PNMZXKD,1915,Buckeye League,1915-06-05,2,regular,Taylor
+DYGJSVP,1915,Buckeye League,1915-06-06,0,regular,Hart
+DYGJSVP,1915,Buckeye League,1915-06-06,0,regular,Clark
+LCXNGPY,1915,Buckeye League,1915-06-06,2,regular,Taylor
+JLGCZFB,1915,Buckeye League,1915-06-10,0,regular,Pastorius
+HHXDWCZ,1915,Buckeye League,1915-06-11,0,regular,Pastorious
+XSYMYZP,1915,Buckeye League,1915-06-12,0,regular,Pastorious
+FJFCRYY,1915,Buckeye League,1915-06-14,0,regular,Taylor
+KLVYDMC,1915,Buckeye League,1915-06-15,0,regular,Taylor
+LFRKRKS,1915,Buckeye League,1915-06-16,0,regular,Taylor
+QCHNVNS,1915,Buckeye League,1915-06-17,0,regular,Pastorious
+VHGJHNQ,1915,Buckeye League,1915-06-17,0,regular,Taylor
+KBGDNKQ,1915,Buckeye League,1915-06-18,0,regular,O'Neill
+KTVNDDH,1915,Buckeye League,1915-06-19,0,regular,O'Neill
+XWCVZHQ,1915,Buckeye League,1915-06-20,1,regular,Taylor
+VSPSYMK,1915,Buckeye League,1915-06-20,2,regular,Taylor
+GTCTVLW,1915,Buckeye League,1915-06-20,1,regular,O'Neil
+GTCTVLW,1915,Buckeye League,1915-06-20,1,regular,Pastorious
+ZGVGKWS,1915,Buckeye League,1915-06-20,2,regular,O'Neil
+ZGVGKWS,1915,Buckeye League,1915-06-20,2,regular,Pastorious
+BDXGLXY,1915,Buckeye League,1915-06-22,0,regular,Pastorious
+VDKRMZG,1915,Buckeye League,1915-06-23,0,regular,Pastorious
+MKBRMNR,1915,Buckeye League,1915-06-25,0,regular,Pastorious
+FYMPKYR,1915,Buckeye League,1915-06-26,1,regular,Pastorious
+XRKHSNJ,1915,Buckeye League,1915-06-26,2,regular,Pastorious
+VNNPMWJ,1915,Buckeye League,1915-06-27,1,regular,Schultz
+VNNPMWJ,1915,Buckeye League,1915-06-27,1,regular,Clark
+WMKCKQP,1915,Buckeye League,1915-06-27,2,regular,Schnitzer
+WMKCKQP,1915,Buckeye League,1915-06-27,2,regular,Black
+YTSVSWG,1915,Buckeye League,1915-06-27,1,regular,Pastorious
+FQRDQMX,1915,Buckeye League,1915-06-28,0,regular,Berthaume
+SSLHHXK,1915,Buckeye League,1915-06-29,0,regular,Pastorious
+VQQQRKP,1915,Buckeye League,1915-06-30,0,regular,Pastorious
+PKCTFMC,1915,Buckeye League,1915-07-01,0,regular,Pastorious
+DKSPDXQ,1915,Buckeye League,1915-07-02,0,regular,Pastorious
+RKCNZHF,1915,Buckeye League,1915-07-04,0,regular,Willett

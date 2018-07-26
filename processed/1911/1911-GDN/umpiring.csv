@@ -1,12 +1,12 @@
-game.key,game.date,game.number,game.phase,name.full
-JGTTNQG,1911-05-06,0,regular,Nugent
-XCXGRRF,1911-05-06,0,regular,Shea
-FBZWHYW,1911-05-09,1,regular,Nugent
-KLTWDNC,1911-05-09,2,regular,Nugent
-DVTHKWT,1911-05-20,1,regular,O'Brien
-QZKPLLB,1911-06-08,0,regular,Nugent
-MRJJWMN,1911-06-15,0,regular,O'Brien
-RZGFQHP,1911-06-17,0,regular,Liebrich
-PDQTXRV,1911-06-26,0,regular,Leibrich
-FZYKNRL,1911-06-27,0,regular,O'Brien
-VFLXLGZ,1911-07-03,0,regular,Leibrich
+game.key,league.year,league.name,game.date,game.number,game.phase,name.full
+JGTTNQG,1911,Carolina Association,1911-05-06,0,regular,Nugent
+XCXGRRF,1911,Carolina Association,1911-05-06,0,regular,Shea
+FBZWHYW,1911,Carolina Association,1911-05-09,1,regular,Nugent
+KLTWDNC,1911,Carolina Association,1911-05-09,2,regular,Nugent
+DVTHKWT,1911,Carolina Association,1911-05-20,1,regular,O'Brien
+QZKPLLB,1911,Carolina Association,1911-06-08,0,regular,Nugent
+MRJJWMN,1911,Carolina Association,1911-06-15,0,regular,O'Brien
+RZGFQHP,1911,Carolina Association,1911-06-17,0,regular,Liebrich
+PDQTXRV,1911,Carolina Association,1911-06-26,0,regular,Leibrich
+FZYKNRL,1911,Carolina Association,1911-06-27,0,regular,O'Brien
+VFLXLGZ,1911,Carolina Association,1911-07-03,0,regular,Leibrich
