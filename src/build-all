@@ -1,11 +1,13 @@
-#!/bin/sh
+#!/bin/bash
 
-for year in `ls transcript`
+for source in transcript/*/*
 do
-    for source in `ls transcript/${year}`
-    do
-	python src/convert.py ${year}/${source}
-    done
+    python src/convert.py ${source#transcript/}
+    if [ $? -ne 0 ]
+    then
+	break
+    fi
 done
+
 
 

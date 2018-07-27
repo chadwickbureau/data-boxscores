@@ -202,6 +202,10 @@ class Game(object):
                     if playing['name.full'] in self.playing:
                         print "In file %s,\n   game %s" % (self.metadata['filename'], self)
                         print "  Duplicated name '%s'" % (key)
+                    elif playing['name.full'] in [self.away, self.home]:
+                        print "In file %s,\n   game %s" % (self.metadata['filename'],
+                                                           self)
+                        print "  Player name '%s' clashes with club name" % (key)
                     else:
                         self.playing[playing["name.full"]] = playing
                 else:
