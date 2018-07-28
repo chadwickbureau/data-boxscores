@@ -2,7 +2,10 @@ import sys
 import os
 import glob
 import hashlib
+import argparse
+import warnings
 
+import colorama as clr
 import pandas as pd
 
 def person_hash(source, row):
@@ -33,6 +36,39 @@ def game_hash(s):
             return int_to_base(n // base) + alphabet[n % base]
     return int_to_base(int(hashlib.sha1(s).hexdigest(), 16))[-7:]
 
+
+class BoxscoreParserWarning(UserWarning):
+    pass
+
+class IdentificationWarning(BoxscoreParserWarning):
+    """A warning class on unidentified name.
+    """
+    def __init__(self, fn, game, message):
+        UserWarning.__init__(self,
+                             "In file %s,\n   game %s\n  %s" % 
+                             (fn, game, message))
+
+class MarkedIdentificationWarning(BoxscoreParserWarning):
+    """A warning class on unidentified name which is explicitly marked.
+    """
+    def __init__(self, fn, game, message):
+        UserWarning.__init__(self,
+                             "In file %s,\n   game %s\n  %s" % 
+                             (fn, game, message))
+
+        
+class DuplicatedNameWarning(BoxscoreParserWarning):
+    """A warning class for duplicated names.
+    """
+    def __init__(self, fn, game, message):
+        UserWarning.__init__(self,
+                             "In file %s,\n   game %s\n  %s" % 
+                             (fn, game, message))
+
+        
+def _formatwarning(msg, category, *args, **kwargs):
+    return str(msg) + '\n'
+warnings.formatwarning = _formatwarning
 
 
 class Game(object):
@@ -108,11 +144,20 @@ class Game(object):
                     return
             else:
                 name, count = entry, "1"
+            is_marked = name.startswith("??")
+            if is_marked:
+                name = name[2:]
             try:
                 self.playing[name][key] = count
             except KeyError:
-                print "In file %s,\n   game %s" % (self.metadata['filename'], self)
-                print "  No match on name '%s' in '%s'" % (name, key)
+                if is_marked:
+                    warnings.warn(MarkedIdentificationWarning(self.metadata['filename'],
+                                                        self,
+                                                        "No match on name '??%s' in '%s'" % (name, key)))
+                else:
+                    warnings.warn(IdentificationWarning(self.metadata['filename'],
+                                                        self,
+                                                        "No match on name '%s' in '%s'" % (name, key)))
 
     def _parse_details_XO(self, key, value):
         for entry in [x.strip() for x in value.split(";")]:
@@ -138,11 +183,20 @@ class Game(object):
             # TODO: Should do sanity check that all players are on same team!
             # Team should then be credited with a double play/triple play
             for name in map(lambda x: x.strip(), names.split(",")):
+                is_marked = name.startswith("??")
+                if is_marked:
+                    name = name[2:]
                 try:
                     playing = self.playing[name]
                 except KeyError:
-                    print "In file %s,\n   game %s" % (self.metadata['filename'], self)
-                    print "  No match on name '%s' in '%s'" % (name, key)
+                    if is_marked:
+                        warnings.warn(MarkedIdentificationWarning(self.metadata['filename'],
+                                                            self,
+                                                            "No match on name '??%s' in '%s'" % (name, key)))
+                    else:
+                        warnings.warn(IdentificationWarning(self.metadata['filename'],
+                                                            self,
+                                                            "No match on name '%s' in '%s'" % (name, key)))
                     continue
                 playing[key] = str(int(playing.get(key, 0)) + int(count))
 
@@ -216,9 +270,9 @@ class Game(object):
                         print "In file %s,\n   game %s" % (self.metadata['filename'], self)
                         print "  Duplicated name '%s'" % (key)
                     elif playing['name.full'] in [self.away, self.home]:
-                        print "In file %s,\n   game %s" % (self.metadata['filename'],
-                                                           self)
-                        print "  Player name '%s' clashes with club name" % (key)
+                        warnings.warn(DuplicatedNameWarning(self.metadata['filename'],
+                                                            self,
+                                                            "Player name '%s' clashes with club name" % key))
                     else:
                         self.playing[playing["name.full"]] = playing
                 else:
@@ -465,11 +519,35 @@ def process_files(source):
 
     compile_players(source, playing)
     compile_umpires(source, umpiring)
-                                  
-                                      
+
+
+def main():
+    parser = argparse.ArgumentParser(description='Parse boxscore files')
+    parser.add_argument('source', type=str,
+                        help='path to the source collection')
+    parser.add_argument('--no-duplicates', '-D', default=False,
+                        action='store_true',
+                        help='only warn on duplicate name in game (default is terminate)')
+    parser.add_argument('--warn-marked', '-M', default=False,
+                        action='store_true',
+                        help='warn on marked dubious names (default is ignore)')
+
+    args = parser.parse_args()
+    warnings.simplefilter('ignore', MarkedIdentificationWarning)
+    if args.no_duplicates:
+        warnings.simplefilter('error', DuplicatedNameWarning)
+    if args.warn_marked:
+        warnings.simplefilter('always', MarkedIdentificationWarning)
+        
+    try:
+        process_files(args.source)
+    except DuplicatedNameWarning as e:
+        print clr.Fore.RED + str(e) + clr.Fore.RESET
+        sys.exit(1)
+
+    
 if __name__ == '__main__':
-    source = sys.argv[1]
-    process_files(source)
+    main()
         
     
     

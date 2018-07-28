@@ -114,7 +114,7 @@ source: (Memphis) Commercial Appeal, September 15, 1908
 note: protest filed - per recap, Montgomery to protest entire series, claiming (as Atlanta did) that New Orleans is paying Huber as a 16th player on the roster, although he is in civilian clothes and traveling with the team
 
 New Orleans:	ab r h po a e
-Montgomery @ rf:	4 1 1 0 0 2
+Montgomery [NO] @ rf:	4 1 1 0 0 2
 Rohe @ 3b:	4 1 1 1 7 0
 Lord @ cf:	4 1 1 2 1 0
 Tarleton @ 1b:	4 0 2 9 1 1
@@ -143,7 +143,7 @@ line: Montgomery: 2 0 0 0 0 0 0 0 0 - 2
 
 B_2B: Rohe; Tarleton #2
 B_3B: Lord
-B_HR: Montgomery
+B_HR: Montgomery [NO]
 B_SB: Rickert; Greminger
 B_SH: Thomas
 F_DP: Shannon, Rockenfield; Pepe, Rockenfield, Greminger; Lord, Dundon
@@ -303,7 +303,7 @@ home: Montgomery
 source: (Memphis) Commercial Appeal, September 16, 1908
 
 New Orleans:	ab r h po a e
-Montgomery @ rf:	4 2 2 1 0 0
+Montgomery [NO] @ rf:	4 2 2 1 0 0
 Rohe @ 3b:	2 3 1 0 2 0
 Lord @ cf:	4 1 2 4 0 0
 Tarleton @ 1b:	4 0 0 12 0 0
@@ -329,7 +329,7 @@ TOTALS:		34 0 6 27 10 5
 line: New Orleans: 3 0 1 0 0 0 3 0 0 - 7
 line: Montgomery: 0 0 0 0 0 0 0 0 0 - 0
 
-B_3B: Montgomery; Krebs; Lord
+B_3B: Montgomery [NO]; Krebs; Lord
 B_HR: Rohe
 F_DP: Greminger
 P_BB: Guese #3; Breitenstein #1
@@ -502,7 +502,7 @@ home: Montgomery
 source: (Memphis) Commercial Appeal, September 17, 1908
 
 New Orleans:	ab r h po a e
-Montgomery @ rf:	3 1 1 0 0 1
+Montgomery [NO] @ rf:	3 1 1 0 0 1
 Rohe @ 3b:	4 0 1 3 1 0
 Lord @ cf:	5 2 2 2 0 0
 Tarleton @ 1b:	4 1 2 10 0 1
@@ -532,7 +532,7 @@ line: New Orleans: 0 0 1 0 1 3 2 0 1 - 8
 line: Montgomery: 0 0 0 0 0 1 0 0 2 - 3
 
 B_2B: Dundon; Lord
-B_3B: Montgomery
+B_3B: Montgomery [NO]
 B_SB: Dundon
 B_SH: Hopkins; Stratton; Rohe
 F_DP: Stratton, Dundon
