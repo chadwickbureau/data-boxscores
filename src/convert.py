@@ -388,7 +388,8 @@ def compile_umpiring(source, games, gamelist):
     df.to_csv("processed/%s/umpiring.csv" % source, index=False)
     return df
 
-def compile_people(source, playing):
+
+def compile_players(source, playing):
     playing['B_G'] = 1
     for pos in ['p', 'c', '1b', '2b', '3b', 'ss', 'lf', 'cf', 'rf']:
         playing['F_%s_G' % pos.upper()] = playing['pos'].apply(lambda x: (1 if pos in x.split("-") else 0) if not pd.isnull(x) else 0)
@@ -422,7 +423,7 @@ def compile_people(source, playing):
              'F_1B_G', 'F_2B_G', 'F_3B_G', 'F_SS_G',
              'F_OF_G', 'F_LF_G', 'F_CF_G', 'F_RF_G',
              'F_C_G', 'F_P_G']]
-    df.to_csv("processed/%s/people.csv" % source, index=False,
+    df.to_csv("processed/%s/players.csv" % source, index=False,
               float_format='%d')
 
 
@@ -462,7 +463,7 @@ def process_files(source):
     playing = compile_playing(source, games, gamelist)
     umpiring = compile_umpiring(source, games, gamelist)
 
-    compile_people(source, playing)
+    compile_players(source, playing)
     compile_umpires(source, umpiring)
                                   
                                       
