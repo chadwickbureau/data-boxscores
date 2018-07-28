@@ -604,7 +604,7 @@ B_SH: Morris; Deiters; Thackera; Hahn; Evans; Blake; Reynolds
 B_SB: Raley; West
 P_BB: Mace #1; Stecker #6
 P_SO: Mace #5; Stecker #3
-U: Tom McNamara
+U: McNamara, Tom
 
 ---
 
@@ -644,7 +644,7 @@ line: Akron: 3 1 0 1 0 0 1 0 1 - 7
 
 B_2B: Midkiff; Becker; Boyle
 B_HR: Tate
-B_SH: Miller
+B_SH: ??Miller
 B_SB: Clever; Midkiff
 F_DP: Gerber, Clever, Miller [1b]
 P_BB: Moyer #4

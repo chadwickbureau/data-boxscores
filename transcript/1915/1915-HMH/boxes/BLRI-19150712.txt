@@ -223,9 +223,9 @@ B_SB: Klein #2; Dunn
 B_HP: Klein
 P_BB: Stricker #3
 P_SO: Smith #6; Stricker #8
-F_DP: Moseley, Dunn, Moore
+F_DP: Moseley, Dunn, Snavely
 T: 1:55
-U: Hanks; Cleary
+U: Hanks, Eugene; Cleary
 
 --- 
 
@@ -374,7 +374,7 @@ P_SO: Mumford #5; Boyd #5
 P_WP: Mumford
 F_DP: Dean, Freeney
 F_PB: Smuck #2
-B_HP: Pinetree; Knode
+B_HP: Pinetree; ??Knode
 T: 2:00
 U: Cleary
 

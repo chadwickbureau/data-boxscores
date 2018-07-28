@@ -38,7 +38,7 @@ P_BB: Patterson #2; E. Smith #3
 P_SO: Patterson #4; E. Smith #5
 B_ROE: Terre Haute #1; South Bend I #1
 B_LOB: Terre Haute #6; South Bend I #7
-B_2B: Schmick; Wetzel; Smith
+B_2B: Schmick; Wetzel; ??Smith
 B_3B: Core
 T: 2:00
 U: Cleary
@@ -548,6 +548,7 @@ Gray @ rf:		4 1 2 1 0 0
 Craveck @ 3b:	4 0 2 2 4 0
 Kihm @ 1b:		3 1 1 10 0 1
 Parker @ c:		4 0 1 6 0 0
+Hale @ p:       0 0 0 0 0 0
 Shaffer @ p:	1 0 0 0 0 0
 Bemis @ p:		3 0 1 0 0 0
 TOTALS:			38 4 12 27 11 2

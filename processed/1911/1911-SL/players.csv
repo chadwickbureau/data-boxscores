@@ -98,7 +98,9 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1911,Central League,regular,P9496915,Dugger,,Evansville,1911-05-10,1911-07-22,11,1,2,0,0,0,5,5,0,0,1,1
 1911,Central League,regular,P7501847,Dugger,,Zanesville,1911-08-02,1911-09-01,18,1,0,11,0,0,1,0,1,0,0,1
 1911,Central League,regular,P9035283,Dur'r,,Wheeling,1911-06-29,1911-06-29,1,0,0,0,0,0,1,0,1,1,0,0
-1911,Central League,regular,P3110288,Durham,,Wheeling,1911-05-26,1911-09-01,94,0,0,0,0,0,94,7,11,76,0,0
+1911,Central League,regular,P3110288,Durham,,Wheeling,1911-05-26,1911-09-01,93,0,0,0,0,0,93,7,10,76,0,0
+1911,Central League,regular,P9404075,Durham [c],,Wheeling,1911-07-18,1911-07-18,1,0,0,0,0,0,0,0,0,0,1,0
+1911,Central League,regular,P3924017,Durham [cf],,Wheeling,1911-07-18,1911-07-18,1,0,0,0,0,0,1,0,1,0,0,0
 1911,Central League,regular,P3705151,Essick,,Grand Rapids II,1911-07-16,1911-09-08,15,14,0,0,0,0,0,0,0,0,0,14
 1911,Central League,regular,P2545395,Essick,,South Bend I,1911-06-03,1911-07-11,10,10,0,0,0,0,0,0,0,0,0,10
 1911,Central League,regular,P9365462,Essick,Bill,South Bend I,1911-06-25,1911-06-25,1,1,0,0,0,0,0,0,0,0,0,1
@@ -154,7 +156,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1911,Central League,regular,P5152979,Hafford,,Zanesville,1911-08-16,1911-08-23,9,0,0,0,9,0,0,0,0,0,0,0
 1911,Central League,regular,P3208273,Hailey,,Evansville,1911-06-01,1911-06-01,1,0,0,0,0,1,0,0,0,0,0,0
 1911,Central League,regular,P7272110,Hale,,Grand Rapids I,1911-04-26,1911-06-26,17,17,0,0,0,0,0,0,0,0,0,17
-1911,Central League,regular,P2045470,Hale,,Newark,1911-06-30,1911-09-10,17,17,0,0,0,0,0,0,0,0,0,17
+1911,Central League,regular,P2045470,Hale,,Newark,1911-06-30,1911-09-10,18,18,0,0,0,0,0,0,0,0,0,18
 1911,Central League,regular,P0044728,Hale,Roy,Newark,1911-08-23,1911-08-23,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Central League,regular,P2810677,Hall,,Grand Rapids I,1911-06-17,1911-06-17,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Central League,regular,P9378994,Hall,,South Bend I,1911-06-04,1911-06-09,2,0,0,0,0,0,2,0,0,2,0,0
@@ -306,13 +308,15 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1911,Central League,regular,P3328240,Morris'y,,Grand Rapids I,1911-05-30,1911-05-30,1,0,1,0,0,0,0,0,0,0,0,0
 1911,Central League,regular,P6457966,Morrisey,,Grand Rapids I,1911-05-29,1911-05-29,1,0,1,0,0,0,0,0,0,0,0,0
 1911,Central League,regular,P4086004,Murray,,Grand Rapids I,1911-04-26,1911-06-22,45,0,0,44,0,0,1,0,0,1,0,0
-1911,Central League,regular,P7071204,Murray,,Newark,1911-07-04,1911-09-10,61,0,0,60,0,0,1,0,1,0,0,0
+1911,Central League,regular,P7071204,Murray,,Newark,1911-07-04,1911-09-10,60,0,0,59,0,0,1,0,1,0,0,0
 1911,Central League,regular,P1024399,Murray,,Wheeling,1911-04-26,1911-09-07,76,0,0,0,0,0,16,6,5,5,53,0
 1911,Central League,regular,P6523136,Murray,C.,Wheeling,1911-07-25,1911-07-25,1,0,0,0,0,0,0,0,0,0,1,0
 1911,Central League,regular,P3374279,Murray,J.,Wheeling,1911-05-08,1911-05-25,5,0,0,0,0,0,2,2,0,0,3,0
 1911,Central League,regular,P6486453,Murray,S.,Grand Rapids I,1911-05-08,1911-05-26,6,0,0,6,0,0,0,0,0,0,0,0
 1911,Central League,regular,P3168293,Murray,S.,Newark,1911-07-25,1911-07-25,1,0,0,1,0,0,0,0,0,0,0,0
+1911,Central League,regular,P5274566,Murray [New],,Newark,1911-08-03,1911-08-03,1,0,0,1,0,0,0,0,0,0,0,0
 1911,Central League,regular,P7211212,Murray [Nwk],,Newark,1911-08-03,1911-08-03,1,0,0,1,0,0,0,0,0,0,0,0
+1911,Central League,regular,P2891211,Murray [Whe],,Wheeling,1911-08-03,1911-08-03,1,0,0,0,0,0,0,0,0,0,1,0
 1911,Central League,regular,P5548461,Myers,,Grand Rapids II,1911-07-14,1911-08-31,5,5,0,0,0,0,0,0,0,0,0,5
 1911,Central League,regular,P9765025,Myers,,South Bend I,1911-05-13,1911-07-09,10,9,0,0,0,0,1,0,0,1,0,9
 1911,Central League,regular,P7739877,Myers,,Terre Haute,1911-04-30,1911-06-04,12,0,12,0,0,0,0,0,0,0,0,0
@@ -322,14 +326,17 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1911,Central League,regular,P0221199,Neuschafer,,Dayton,1911-04-28,1911-04-28,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Central League,regular,P6184761,Neuschafer,,Terre Haute,1911-05-10,1911-05-19,3,3,0,0,0,0,0,0,0,0,0,3
 1911,Central League,regular,P1072350,Noojin,,South Bend I,1911-05-17,1911-05-20,4,0,0,0,0,0,4,4,0,0,0,0
-1911,Central League,regular,P9277211,O'Brien,,Evansville,1911-04-26,1911-08-12,75,0,0,0,0,0,0,0,0,0,75,0
+1911,Central League,regular,P9277211,O'Brien,,Evansville,1911-04-26,1911-08-12,73,0,0,0,0,0,0,0,0,0,73,0
 1911,Central League,regular,P2812160,O'Brien,,South Bend II,1911-08-13,1911-09-07,14,0,0,0,0,0,0,0,0,0,14,0
 1911,Central League,regular,P4847835,O'Brien,,Terre Haute,1911-07-14,1911-09-09,47,0,1,0,0,0,0,0,0,0,45,0
-1911,Central League,regular,P7282143,O'Brien,,Zanesville,1911-04-26,1911-07-08,57,0,0,0,0,0,0,0,0,0,57,0
+1911,Central League,regular,P7282143,O'Brien,,Zanesville,1911-04-26,1911-07-08,56,0,0,0,0,0,0,0,0,0,56,0
 1911,Central League,regular,P5314837,O'Brien,G.,South Bend II,1911-08-14,1911-09-04,5,0,0,0,0,0,0,0,0,0,5,0
 1911,Central League,regular,P8002806,O'Brien,M.,Terre Haute,1911-08-14,1911-09-04,5,0,0,0,0,0,0,0,0,0,5,0
 1911,Central League,regular,P9195930,O'Brien,M.,Zanesville,1911-06-07,1911-06-07,1,0,0,0,0,0,0,0,0,0,1,0
 1911,Central League,regular,P2085725,O'Brien,T.,Evansville,1911-06-07,1911-06-07,1,0,0,0,0,0,0,0,0,0,1,0
+1911,Central League,regular,P6697231,O'Brien [Eva],,Evansville,1911-06-06,1911-07-18,3,0,0,0,0,0,0,0,0,0,3,0
+1911,Central League,regular,P0153775,O'Brien [TH],,Terre Haute,1911-07-17,1911-07-18,2,0,0,0,0,0,0,0,0,0,2,0
+1911,Central League,regular,P3589920,O'Brien [Zan],,Zanesville,1911-06-06,1911-06-06,1,0,0,0,0,0,0,0,0,0,1,0
 1911,Central League,regular,P1561892,Olmstead,,Dayton,1911-07-31,1911-09-10,4,4,0,0,0,0,0,0,0,0,0,4
 1911,Central League,regular,P4764061,Onslow,,Fort Wayne,1911-04-26,1911-09-10,104,0,0,0,0,0,0,0,0,0,104,0
 1911,Central League,regular,P5027943,Osborne,,Wheeling,1911-04-27,1911-04-27,1,0,0,0,0,0,1,0,1,0,0,0
@@ -384,7 +391,9 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1911,Central League,regular,P0170089,Riley,,Newark,1911-08-01,1911-09-09,10,10,0,0,0,0,1,1,0,0,0,10
 1911,Central League,regular,P4836492,Riley,Bill,Newark,1911-08-30,1911-08-30,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Central League,regular,P6064911,Rodgers,,Zanesville,1911-06-21,1911-09-07,4,3,0,0,0,0,1,1,0,0,0,3
-1911,Central League,regular,P7730955,Rogers,,Zanesville,1911-04-29,1911-09-09,49,39,0,0,0,0,3,2,1,0,1,39
+1911,Central League,regular,P7730955,Rogers,,Zanesville,1911-04-29,1911-09-09,48,38,0,0,0,0,3,2,1,0,1,38
+1911,Central League,regular,P6242711,Rogers [GR],,Grand Rapids I,1911-05-22,1911-05-22,1,0,0,0,0,1,0,0,0,0,0,0
+1911,Central League,regular,P5692748,Rogers [Zan],,Zanesville,1911-05-22,1911-05-22,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Central League,regular,P5686813,Rohrer,,Dayton,1911-04-26,1911-09-10,50,0,0,0,0,0,0,0,0,0,42,0
 1911,Central League,regular,P6507846,Saeger,,Wheeling,1911-07-17,1911-08-14,2,0,0,0,2,0,0,0,0,0,0,0
 1911,Central League,regular,P8001831,Sager,,Evansville,1911-04-26,1911-05-24,13,0,0,0,13,0,0,0,0,0,0,0
@@ -424,7 +433,9 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1911,Central League,regular,P9291364,Some't,,Terre Haute,1911-06-30,1911-06-30,1,0,1,0,0,0,0,0,0,0,1,0
 1911,Central League,regular,P1180950,Somer't,,Terre Haute,1911-06-19,1911-07-05,4,0,4,0,0,0,0,0,0,0,0,0
 1911,Central League,regular,P0276546,Somerl't,,Terre Haute,1911-06-28,1911-09-03,15,0,15,0,0,0,0,0,0,0,0,0
-1911,Central League,regular,P5098634,Somerlot,,Terre Haute,1911-06-12,1911-09-04,50,0,49,0,0,1,0,0,0,0,0,0
+1911,Central League,regular,P5098634,Somerlot,,Terre Haute,1911-06-12,1911-09-04,49,0,48,0,0,1,0,0,0,0,0,0
+1911,Central League,regular,P4747541,Somerlot [1b],,Terre Haute,1911-06-22,1911-06-22,1,0,1,0,0,0,0,0,0,0,0,0
+1911,Central League,regular,P9301620,Somerlot [lf],,Terre Haute,1911-06-22,1911-06-22,1,0,0,0,0,0,1,1,0,0,0,0
 1911,Central League,regular,P9996318,Somerlott,,Terre Haute,1911-06-14,1911-08-25,18,0,18,0,0,0,0,0,0,0,0,0
 1911,Central League,regular,P0230404,Somers,,Dayton,1911-09-02,1911-09-05,2,2,0,0,0,0,0,0,0,0,0,2
 1911,Central League,regular,P2199521,Somm's,,Dayton,1911-08-06,1911-08-06,1,0,0,0,0,0,1,0,1,0,0,0

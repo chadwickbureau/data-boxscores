@@ -267,8 +267,9 @@ class Game(object):
                     playing['seq'] = str(seq)
                     seq += 1
                     if playing['name.full'] in self.playing:
-                        print "In file %s,\n   game %s" % (self.metadata['filename'], self)
-                        print "  Duplicated name '%s'" % (key)
+                        warnings.warn(DuplicatedNameWarning(self.metadata['filename'],
+                                                            self,
+                                                            "Duplicated name '%s'" % key))
                     elif playing['name.full'] in [self.away, self.home]:
                         warnings.warn(DuplicatedNameWarning(self.metadata['filename'],
                                                             self,
@@ -525,7 +526,7 @@ def main():
     parser = argparse.ArgumentParser(description='Parse boxscore files')
     parser.add_argument('source', type=str,
                         help='path to the source collection')
-    parser.add_argument('--no-duplicates', '-D', default=False,
+    parser.add_argument('--warn-duplicates', '-D', default=False,
                         action='store_true',
                         help='only warn on duplicate name in game (default is terminate)')
     parser.add_argument('--warn-marked', '-M', default=False,
@@ -533,9 +534,11 @@ def main():
                         help='warn on marked dubious names (default is ignore)')
 
     args = parser.parse_args()
+    warnings.simplefilter('error', DuplicatedNameWarning)
     warnings.simplefilter('ignore', MarkedIdentificationWarning)
-    if args.no_duplicates:
-        warnings.simplefilter('error', DuplicatedNameWarning)
+    #warnings.simplefilter('error', IdentificationWarning)
+    if args.warn_duplicates:
+        warnings.simplefilter('default', DuplicatedNameWarning)
     if args.warn_marked:
         warnings.simplefilter('always', MarkedIdentificationWarning)
         

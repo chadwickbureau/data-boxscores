@@ -35,7 +35,7 @@ line: Newark: 0 0 1 0 0 0 0 0 0 - 1
 line: Dayton: 0 0 0 1 7 0 0 0 x - 8
 
 B_2B: Benson; Dehaven; Pendry
-F_DP: Benson, Dobard, Cameron
+F_DP: Benson, Dobard, Herriott
 B_SB: Pendry
 P_IP: Gilbert #5; Sommers #6
 P_H: Gilbert #10; Sommers #2

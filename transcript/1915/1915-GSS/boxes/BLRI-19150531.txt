@@ -309,9 +309,9 @@ B_HR:
 B_SH: 
 B_SB: Mosely; Kline; Jacobs; Kelly
 B_HP: Plank 
-P_HP: Bitters
+P_HP: ??Bitters
 P_BK: 
-P_BB: Bitters #1; Stricker #2; Stair #3
+P_BB: ??Bitters #1; Stricker #2; Stair #3
 P_H: 
 P_IP: 
 P_R: 
@@ -430,11 +430,11 @@ source: Gettysburg Star and Sentinel, June 7, 1915
 
 Martinsburg:		r h e
 Hoeffecker @ p:	x x x
-Johnson @ c:	x x x
+Johnson [Mar] @ c:	x x x
 TOTALS:			3 6 4
 
 Hanover:		r h e
-Johnson @ p:	x x x
+Johnson [Han] @ p:	x x x
 Scherdel @ p:	x x x
 Steinbach @ c:	x x x
 TOTALS:			4 6 3

@@ -524,10 +524,10 @@ line: Waycross: 0 0 0 0 0 0 0 0 0 1 - 1
 
 B_2B: Jordan; Bales
 B_SB: F. Schwartz; Stewart; Riggins
-B_SH: Medlock #2; Riggins; Antley; Gardner
+B_SH: Medlock #2; Riggins; ??Antley; Gardner
 P_BB: Sloan #4; Gardner #1
 P_SO: Sloan #3; Gardner #6
-F_DP:  F. Schwartz, Jordan
+F_DP: F. Schwartz, Jordan
 F_PB: Clarke
 outsatend: 1
 T: 1:55
@@ -667,7 +667,7 @@ line: Thomasville: 1 0 0 0 2 3 1 0 1 - 9
 line: Dothan:      0 3 0 0 0 0 0 1 0 - 4
 
 B_2B: Parker; Burress; Parks
-B_SB: Turner; Burress; Parker; Pittman #2; Wicker #2; Nance #4
+B_SB: Turner; Burress; Parker; Pittman #2; Wicker #2; ??Nance #4
 B_SH: Poole 
 B_HP: Pittman
 B_XO: Paschal, out for interference

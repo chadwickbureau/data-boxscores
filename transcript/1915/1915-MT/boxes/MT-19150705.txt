@@ -792,7 +792,7 @@ line: Gainesville: 0 0 0 0 0 0 0 0 0 - 0
 line: Valdosta:    0 0 0 0 0 0 0 1 x - 1
 
 B_2B: Turner
-B_SB: Bales; McMillan; Mitternach #2; Shuman; Dunning
+B_SB: Bales; McMillan; Mitternach #2; ??Shuman; Dunning
 B_SH: Bales; McMillan
 B_HP: Dickerson
 P_BB: Baker #2; Dickerson #3

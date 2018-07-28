@@ -11,7 +11,7 @@ Wetzel @ 3b:	3 0 0 2 0 0
 Thoma @ cf:	4 0 1 2 0 0
 Bonin @ lf:	4 1 2 2 0 1
 Neer @ 1b:	2 0 1 6 1 0
-Price @ rf:	3 0 1 3 0 1
+Price [Mar] @ rf:	3 0 1 3 0 1
 Judge @ ss:	3 0 0 3 0 0
 Breymaier @ c:	2 0 0 7 1 0
 Hart @ p:	1 1 0 1 3 0
@@ -24,7 +24,7 @@ Humphreys @ 2b:	4 0 1 3 2 0
 Booie @ 1b:	4 0 1 9 0 0
 Hunt @ cf:	4 0 0 1 0 0
 McCullough @ rf:	4 0 1 0 0 0
-Price @ ss:	3 0 1 3 2 0
+Price [New] @ ss:	3 0 1 3 2 0
 Strawn @ c:	3 0 1 7 1 0
 Dillon @ p:	3 1 0 0 5 0
 Dougherty @ p:	0 0 0 0 0 0
@@ -36,7 +36,7 @@ line: Newark: 0 1 0 0 0 0 0 0 0 - 1
 B_SB: Bonin
 B_SH: Wetzel; Neer; Breymaier; Hart
 B_SF: Wetzel
-B_HP: Hart; Price
+B_HP: Hart; ??Price
 P_BB: Dillon #6
 P_SO: Dillon #3; Dougherty #1; Hart #6
 P_IP: Dillon #8.1; Dougherty #.2

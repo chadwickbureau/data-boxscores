@@ -39,7 +39,7 @@ B_ER:
 B_2B: Cross; Weiser; Brandow
 B_3B: Fogarty
 B_HR: 
-B_SB: Corbett; Kelly; Fogarty; Scanlon; McCarthy #2; Weiser; Brandow
+B_SB: Corbett; ??Kelly; Fogarty; Scanlon; McCarthy #2; Weiser; Brandow
 B_SH: Corbett; Brannon
 B_SF: 
 B_HP: Dwyer
@@ -161,8 +161,8 @@ B_ER:
 B_2B: Doak #2
 B_3B: Doyle; Bentley; Stewart [Gbo]
 B_HR: 
-B_SB: Rickard; Fuller; Bentley; Clapp; Carroll; Shumaker #2
-B_SH: Bentley; Edwards; Stewart; Mullin
+B_SB: Rickard; Fuller; Bentley; ??Clapp; Carroll; Shumaker #2
+B_SH: Bentley; Edwards; ??Stewart; Mullin
 B_SF: 
 B_HP: 
 B_XO: 
@@ -472,7 +472,7 @@ B_ROE: Greensboro #0; Greenville #3
 B_ER: 
 B_2B: Doyle; Redfern
 B_3B: 
-B_HR: Clapp
+B_HR: ??Clapp
 B_SB: Rickard; Fuller
 B_SH: C. Doak
 B_SF: 

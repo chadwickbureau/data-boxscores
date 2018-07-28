@@ -70,7 +70,7 @@ Rawling @ cf:	4 0 1 1 0 0
 Morris @ rf: 	2 0 2 3 0 0
 Johnson @ c: 	3 0 0 6 0 0
 Mumford @ p: 	3 0 0 0 4 1
-Kelley @ p: 	1 0 0 0 0 0
+Kelley [Mar] @ p: 	1 0 0 0 0 0
 Bauer @ 2b: 	2 0 1 2 0 0
 Hayes @ ss:	1 0 0 0 0 0
 TOTALS:		31 1 7 27 11 4
@@ -78,7 +78,7 @@ TOTALS:		31 1 7 27 11 4
 Gettysburg:	ab r h po a e
 Reeder @ rf:	4 1 0 0 0 0
 McDevitt @ 3b:	5 0 1 0 1 0
-Kelley @ cf:	3 1 0 2 0 0 
+Kelley [Get] @ cf:	3 1 0 2 0 0 
 Jarosick @ c:	4 1 2 5 0 0
 Kane @ 1b:	3 0 1 13 1 0
 Grove @ 2b:	3 0 0 0 4 0
@@ -92,10 +92,10 @@ B_LOB: Martinsburg #11; Gettysburg #8
 B_ROE: Martinsburg #1; Gettysburg #3
 B_SB: Reeder; Kane
 B_2B: Morris; Jarosick
-P_BB: Mumford #2; Kelley #1; Stair #2; Lower #2
+P_BB: Mumford #2; Kelley [Mar] #1; Stair #2; Lower #2
 P_WP: Mumford #2
 B_HP: Morris
-P_SO: Mumford #1; Kelley #3; Stair #1; Lower #3
+P_SO: Mumford #1; Kelley [Mar] #3; Stair #1; Lower #3
 F_DP: Stair, Kane
 T:  3:10
 U: Hanks

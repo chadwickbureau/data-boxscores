@@ -89,7 +89,7 @@ B_2B: Spellman; Lane
 B_3B: Miller; Lane
 B_HR: Miller; Mueller; Spellman
 B_SB: Spellman; Barrett
-B_SF: Murphy
+B_SF: ??Murphy
 P_BB: Boardman #5; Dumont #2 
 P_SO: Boardman #6; Dumont #10 
 P_HP: Dumont
@@ -264,7 +264,7 @@ line: Fargo-Moorhead: 0 0 0 0 0 0 3 3 1 - 7
 B_LOB: St. Boniface #6; Fargo-Moorhead #7 
 B_2B: Fremer #2; Spellman; Miller; Nagle
 B_3B: Barrett; Bell
-B_SB: Lane; Murphy; Spellman; Stevenson
+B_SB: Lane; ??Murphy; Spellman; Stevenson
 P_BB: Fait #2; Stevenson #1
 P_SO: Fait #7; Stevenson #3; Blum #1
 P_H: Stevenson #11; Blum #2
@@ -389,7 +389,7 @@ line: Fargo-Moorhead: 0 0 0 0 0 0 0 0 0 - 1
 
 B_LOB: St. Boniface #10; Fargo-Moorhead #6 
 B_2B: Miller; J. Murphy; Lane #2; Stevenson #2; Clymer
-B_SB: Nagle; Stevenson; Bell; Armor
+B_SB: Nagle; Stevenson; Bell; ??Armor
 B_SH: Nagle; Lane; J. Murphy
 B_HP: Spellman
 P_BB: Bell #6; Blum #3

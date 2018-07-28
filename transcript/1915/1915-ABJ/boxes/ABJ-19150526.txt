@@ -225,7 +225,7 @@ McClelland @ 1b:	5 1 2 0 1 0
 Crorin @ ss:	5 2 2 2 4 0
 Ward @ 3b:	5 1 2 0 0 0
 Maroney @ c:	3 0 1 12 1 0
-Clark @ p:	4 0 0 1 2 0
+Clark [Lim] @ p:	4 0 0 1 2 0
 TOTALS:		36 6 11 27 9 0
 
 Akron:		ab r h po a e
@@ -235,7 +235,7 @@ Jaekel @ 3b:	4 0 1 1 2 0
 Glennon @ lf:	4 0 1 2 0 0
 Talbott @ c:	4 0 0 5 2 0
 Fickel @ 1b:	2 0 0 7 1 0
-Clark @ 2b:	3 0 0 3 3 1
+Clark [Akr] @ 2b:	3 0 0 3 3 1
 Newnham @ ss:	3 0 0 4 2 1
 Hook @ p:	1 0 0 0 1 0
 Linne @ p:	2 0 0 0 1 0
@@ -249,8 +249,8 @@ B_HR: Schweitzer
 B_SB: Byatt; Matthews; Murray
 B_SH: Murray
 B_HP: Murray
-P_BB: Hook #3; Linne #2; Clark #1
-P_SO: Hook #2; Linne #2; Clark #12
+P_BB: Hook #3; Linne #2; Clark [Lim] #1
+P_SO: Hook #2; Linne #2; Clark [Lim] #12
 P_H:  Hook #7; Linne #4
 P_IP: Hook #3; Linne #6
 U: Pastorius

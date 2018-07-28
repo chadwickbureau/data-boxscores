@@ -666,13 +666,14 @@ TOTALS:		32 4 10 24 10 2
 line: Fargo-Moorhead: 2 2 1 0 1 4 0 1 - 11
 line: Virginia:       1 0 1 0 0 2 0 0 - 4
 
+note: box has Bell instead of Dumont in B_2B, P_BB, P_SO...
 B_LOB: Virginia #8; Fargo-Moorhead #8
 B_ER: Virginia #3; Fargo-Moorhead #4
-B_2B: Kernan; Bell; Clymer; Croake
+B_2B: Kernan; Dumont; Clymer; Croake
 B_HR: Unglaub 
 B_HP: Barrett; Nifnecker
-P_BB: Sorenson #6; Bell #3
-P_SO: Sorenson #7; Bell #8
+P_BB: Sorenson #6; Dumont #3
+P_SO: Sorenson #7; Dumont #8
 P_HP: Sorenson #2
 P_WP: Sorenson
 F_DP: Sundheim, Fortman, Croake; Hooper, Unglaub; Unglaub

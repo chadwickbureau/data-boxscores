@@ -388,7 +388,7 @@ Connell @ rf:	5 1 2 2 0 0
 Gillen @ rf:	0 0 0 0 1 0
 Swartling @ 1b:	5 1 1 12 0 2
 O'Brien @ c:	4 2 3 4 0 0
-Rogers @ p:		2 1 2 0 1 0
+Rogers [Zan] @ p:		2 1 2 0 1 0
 Beers @ p:		0 0 0 0 1 0
 *Raidy @ ph:	0 1 0 0 0 0
 TOTALS:			35 10 11 27 13 4
@@ -403,7 +403,7 @@ Pendry @ 3b:	4 0 2 2 4 0
 Gray @ 1b:		3 0 1 10 0 0
 Martin @ c:		4 0 1 4 0 1
 Parker, J. @ rf:	3 1 1 0 1 0
-Rogers @ ss:	3 1 0 2 3 1
+Rogers [GR] @ ss:	3 1 0 2 3 1
 Goldrich @ p:	2 1 1 0 0 1
 Hale @ p:		2 0 0 0 1 1 
 TOTALS:			35 6 9 24 14 4
@@ -411,7 +411,7 @@ TOTALS:			35 6 9 24 14 4
 line: Zanesville: 0 0 0 2 3 0 0 5 x - 10
 line: Grand Rapids I: 0 0 4 0 0 0 2 0 0 - 6
 
-B_SB: Crowder; O'Brien; Rogers; Wratten; Murray; Gray
+B_SB: Crowder; O'Brien; Rogers [Zan]; Wratten; Murray; Gray
 B_2B: Swartling; O'Brien; Gray; Core; Murray
 B_3B: O'Brien; Connell
 F_DP: Crowder
@@ -939,9 +939,9 @@ line: Wheeling: 0 0 1 2 0 0 1 0 0 - 4
 
 B_2B: Montgomery; J. Murray
 B_3B: Welsher; Parker; Wickland
-B_SH: Crane; Murray; Pendry; Gray; Parker; Goldrick
+B_SH: Crane; ??Murray; Pendry; Gray; Parker; Goldrick
 note: Possibly one name obscured in SH list
-B_SF: Montgomery; Murray; Kihm
+B_SF: Montgomery; ??Murray; Kihm
 B_SB: Jewell; Ragon; Pendry
 P_BB: McKenzie #4
 P_SO: Goldrick #3

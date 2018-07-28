@@ -229,7 +229,7 @@ Gettysburg:	r h
 Reeder @ 2b:	0 1
 Rudolph @ lf:	0 0
 Kelly @ cf:	1 2
-Plank @ 1b:	0 2
+Plank [Get] @ 1b:	0 2
 Oyler @ 3b:	0 0
 Jarosick @ c:	2 3
 Jones @ rf:	0 0
@@ -242,7 +242,7 @@ Hanover:	r h
 Starr @ 2b:	1 1
 Eline @ 2b:	0 1
 Coyle @ ss:	1 1
-Plank @ cf:	1 2
+Plank [Han] @ cf:	1 2
 Steinbach @ c:	0 1
 Hagey @ lf:	1 1
 Hostetter @ 1b:	 0 1
@@ -256,7 +256,7 @@ line: Gettysburg: 0 0 0 1 0 0 1 0 0 0 - 3
 line: Hanover: 0 2 0 0 0 1 0 0 0 1 - 4
 
 
-B_2B: Hagey; Plank; Reeder
+B_2B: Hagey; ??Plank; Reeder
 P_BB: Miller #3; Howard #5
 P_SO: Miller #12; Howard #12
 B_SB: Hanover #3

@@ -86,7 +86,9 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,Blue Ridge League,regular,P0506405,Jocks,,Hagerstown,1915-07-07,1915-07-07,1,0,0,0,0,0,0,0,0,0,1,0
 1915,Blue Ridge League,regular,P8177738,Johnson,,Hagerstown,1915-06-21,1915-07-05,3,3,0,0,0,0,0,0,0,0,0,3
 1915,Blue Ridge League,regular,P1740315,Johnson,,Hanover,1915-05-27,1915-05-31,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Blue Ridge League,regular,P7089174,Johnson,,Martinsburg,1915-05-27,1915-08-26,46,0,2,0,0,0,0,0,0,0,42,0
+1915,Blue Ridge League,regular,P7089174,Johnson,,Martinsburg,1915-05-27,1915-08-26,44,0,2,0,0,0,0,0,0,0,40,0
+1915,Blue Ridge League,regular,P7815762,Johnson [Hag],,Hagerstown,1915-06-23,1915-06-24,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Blue Ridge League,regular,P1662190,Johnson [Mar],,Martinsburg,1915-06-23,1915-06-24,2,0,0,0,0,0,0,0,0,0,2,0
 1915,Blue Ridge League,regular,P7163640,Kane,,Gettysburg,1915-05-31,1915-07-02,6,0,0,0,0,0,3,1,0,2,3,0
 1915,Blue Ridge League,regular,P0844609,Karosh,,Gettysburg,1915-06-21,1915-06-21,1,0,0,0,0,0,0,0,0,0,1,0
 1915,Blue Ridge League,regular,P4091513,Keef,,Chambersburg,1915-08-20,1915-08-20,1,0,0,0,0,1,0,0,0,0,0,0
@@ -135,10 +137,11 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,Blue Ridge League,regular,P1598391,Mosely,,Chambersburg,1915-07-27,1915-08-20,5,0,0,0,0,0,5,3,0,2,0,0
 1915,Blue Ridge League,regular,P9888465,Mumford,,Martinsburg,1915-06-19,1915-08-24,16,14,0,0,0,0,2,0,0,2,0,14
 1915,Blue Ridge League,regular,P5947873,Mumfort,,Martinsburg,1915-07-07,1915-07-07,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Blue Ridge League,regular,P0878542,Myers,,Chambersburg,1915-07-02,1915-08-20,8,0,0,0,7,0,1,0,0,1,0,0
-1915,Blue Ridge League,regular,P7257928,Myers,,Frederick,1915-08-03,1915-08-26,14,0,13,0,0,1,0,0,0,0,0,0
+1915,Blue Ridge League,regular,P0878542,Myers,,Chambersburg,1915-07-02,1915-08-18,7,0,0,0,7,0,0,0,0,0,0,0
+1915,Blue Ridge League,regular,P7257928,Myers,,Frederick,1915-08-03,1915-08-26,13,0,12,0,0,1,0,0,0,0,0,0
 1915,Blue Ridge League,regular,P5789132,Myers,,Hanover,1915-07-19,1915-07-19,1,0,0,0,0,1,0,0,0,0,0,0
-1915,Blue Ridge League,regular,P3073981,Myers [Fre],,Frederick,1915-08-18,1915-08-18,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Blue Ridge League,regular,P5386546,Myers [Cha],,Chambersburg,1915-08-18,1915-08-20,2,0,0,0,1,0,1,0,0,1,0,0
+1915,Blue Ridge League,regular,P3073981,Myers [Fre],,Frederick,1915-08-18,1915-08-20,3,0,3,0,0,0,0,0,0,0,0,0
 1915,Blue Ridge League,regular,P7779796,Newton,,Gettysburg,1915-07-09,1915-07-17,4,0,0,4,0,0,0,0,0,0,0,0
 1915,Blue Ridge League,regular,P4492248,Norton,,Frederick,1915-05-28,1915-07-08,10,10,0,0,0,0,1,0,0,1,0,10
 1915,Blue Ridge League,regular,P9246827,Norton,,Hagerstown,1915-07-22,1915-07-26,2,2,0,0,0,0,0,0,0,0,0,2

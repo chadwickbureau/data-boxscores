@@ -546,7 +546,7 @@ P_IP:
 P_HP: 
 P_WP: Wood #2
 P_BK: 
-F_DP: Walters, Doyle, Doak; Bubbs, Wynne, Cothran
+F_DP: Walters, Doyle, Doak; Dubbs, Wynne, Cothran
 F_PB: 
 outsatend: 
 T: 1:38
@@ -592,9 +592,9 @@ B_LOB: Winston-Salem #7; Charlotte #3
 B_ROE: Winston-Salem #5
 B_ER: 
 B_2B: Spencer
-B_3B: Clancy
+B_3B: ??Clancy
 B_HR: 
-B_SB: Spencer; Clancy #2; Hargrave
+B_SB: Spencer; ??Clancy #2; Hargrave
 B_SH: O'Halloran; Hargrave
 B_SF: 
 B_HP: 

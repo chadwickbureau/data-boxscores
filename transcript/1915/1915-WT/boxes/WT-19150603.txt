@@ -196,8 +196,8 @@ line: Fargo-Moorhead: 0 0 0 0 0 0 3 3 1 - 7
 B_LOB: Fargo-Moorhead #7; St. Boniface #6
 B_2B: Fremmer #2; Spellman; Miller; Nagel
 B_3B: Barrett; Bell
-B_SB: Lane; Murphy; Spellman; Stevenson
-B_SH: Murphy; Pfeffer
+B_SB: Lane; ??Murphy; Spellman; Stevenson
+B_SH: ??Murphy; Pfeffer
 P_BB: Fait #2; Stevenson #1
 P_H: Stevenson #11; Blum #2
 P_IP: Stevenson #7.2; Blum #.2 

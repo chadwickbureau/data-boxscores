@@ -53,7 +53,7 @@ P_IP:
 P_HP: 
 P_WP: 
 P_BK: 
-F_DP: Brannton, W. Kelly
+F_DP: ??Brannton, W. Kelly
 F_PB: 
 outsatend: 
 T: 1:35
@@ -291,10 +291,10 @@ B_SH: Doyle; Mullin
 B_SF: 
 B_HP: 
 B_XO: 
-P_BB: Morrisey #1; Swindell #1
-P_SO: Morrisey #1; Swindell #5
-P_H: Morrisey #6; Swindell #0
-P_IP: Morrisey #4; Swindell #5
+P_BB: Morrisey [WS] #1; Swindell #1
+P_SO: Morrisey [WS] #1; Swindell #5
+P_H: Morrisey [WS] #6; Swindell #0
+P_IP: Morrisey [WS] #4; Swindell #5
 P_HP: 
 P_WP: 
 P_BK: 

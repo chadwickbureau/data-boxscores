@@ -90,11 +90,12 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,Buckeye League,regular,P3575428,Pearce,,Newark,1915-05-31,1915-06-10,5,0,0,0,0,0,0,0,0,0,5,0
 1915,Buckeye League,regular,P8240371,Piert,,Canton,1915-06-05,1915-06-05,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Buckeye League,regular,P4002825,Plummer,,Akron,1915-06-08,1915-06-09,2,0,0,0,0,0,2,0,0,2,0,0
-1915,Buckeye League,regular,P9022309,Price,,Marion,1915-05-19,1915-05-31,5,0,0,0,0,0,4,3,0,1,0,0
+1915,Buckeye League,regular,P9022309,Price,,Marion,1915-05-23,1915-05-31,4,0,0,0,0,0,3,3,0,0,0,0
 1915,Buckeye League,regular,P3072455,Price,,Newark,1915-05-21,1915-05-22,2,0,0,0,0,2,0,0,0,0,0,0
 1915,Buckeye League,regular,P7875258,Price,E.,Newark,1915-05-31,1915-05-31,2,0,0,0,0,2,0,0,0,0,0,0
 1915,Buckeye League,regular,P1061594,Price,G.,Marion,1915-05-21,1915-05-21,1,0,0,0,0,0,1,1,0,0,0,0
-1915,Buckeye League,regular,P4859261,Price [Mar],,Marion,1915-05-31,1915-05-31,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Buckeye League,regular,P4859261,Price [Mar],,Marion,1915-05-19,1915-05-31,2,0,0,0,0,0,2,1,0,1,0,0
+1915,Buckeye League,regular,P5703785,Price [New],,Newark,1915-05-19,1915-05-19,1,0,0,0,0,1,0,0,0,0,0,0
 1915,Buckeye League,regular,P7632073,Prout,,Canton,1915-05-23,1915-05-25,2,0,0,2,0,0,0,0,0,0,0,0
 1915,Buckeye League,regular,P9414687,Reynolds,,Lima,1915-05-19,1915-06-05,6,6,0,0,0,0,0,0,0,0,0,6
 1915,Buckeye League,regular,P7495207,Richmond,,Findlay,1915-05-26,1915-06-06,4,4,0,0,0,0,0,0,0,0,0,4

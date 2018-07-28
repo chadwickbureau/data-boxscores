@@ -937,11 +937,11 @@ Terre Haute:	ab r h po a e
 Mahoney @ ss:	3 0 1 4 2 0
 Grogan @ 3b:	4 0 1 1 2 0
 Bates @ rf:		4 1 2 0 0 0
-Somerlot @ 1b:	4 1 0 11 2 0
+Somerlot [1b] @ 1b:	4 1 0 11 2 0
 Callahan @ cf:	4 0 2 1 0 0
 Kohl @ c:		4 0 0 0 2 0
 Wheeler @ 2b:	3 0 1 6 2 0
-Somerlot @ lf:	3 0 0 1 0 0
+Somerlot [lf] @ lf:	3 0 0 1 0 0
 Gwinn @ p:		3 0 1 1 3 0
 Alberts @ p:	0 0 0 0 0 0
 TOTALS:			32 2 8 25 13 0
@@ -966,7 +966,7 @@ line: Fort Wayne: 0 0 0 0 0 1 0 0 2 -
 B_HR: Bates
 B_2B: Young; Clancy
 B_SH: Mahoney; McLafferty
-B_SB: Somerlot; Callahan; Keener
+B_SB: Somerlot [1b]; Callahan; Keener
 P_SO: Pfeffer #9
 P_BB: Gwinn #3
 F_DP: Mahoney

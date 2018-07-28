@@ -55,7 +55,7 @@ league: Rio Grande Association
 away: Tucson
 home: Phoenix 
 source: El Paso Herald, May 5, 1915
-A: 1,200
+A: 1200
 
 Tucson:		ab r h po a e
 Stadelli @ lf:	3 0 1 2 0 0
@@ -547,7 +547,7 @@ home: Albuquerque
 source: El Paso Herald, May 10, 1915
 
 Douglas:	r h e
-Douglas @ p:	x x x
+Douglas [p] @ p:	x x x
 Ross @ p:	x x x 
 Fanning @ c:	x x x 
 TOTALS:		5 8 4
@@ -733,7 +733,7 @@ home: Albuquerque
 source: El Paso Herald, May 10, 1915
 
 Douglas:	r h e
-Douglas @ p:	x x x
+Douglas [p] @ p:	x x x
 McConnell @ p:	x x x 
 Kraft @ c:	x x x 
 TOTALS:		4 14 1
@@ -757,7 +757,7 @@ source: El Paso Herald, May 10, 1915
 note: game called after 5th
 
 Douglas:	r h e
-Douglas @ p:	x x x
+Douglas [p] @ p:	x x x
 McConnell @ p:	x x x 
 Kraft @ c:	x x x 
 TOTALS:		9 4 1
