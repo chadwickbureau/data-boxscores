@@ -5,22 +5,35 @@ import hashlib
 
 import pandas as pd
 
-def hash_djb2(s):
-    hash = 5381
-    for x in s:
-        hash = (( hash << 5) + hash) + ord(x)
-    return "P" + ("%d" % hash)[-7:]
-
-def int_to_base(n):
-    alphabet = "BCDFGHJKLMNPQRSTVWXYZ"
-    base = len(alphabet)
-    if n < base:
-        return alphabet[n]
-    else:
-        return int_to_base(n // base) + alphabet[n % base]
-                
-def generate_hash(s):
+def person_hash(source, row):
+    """Generate hash-based identifier for a person based on the source
+    and identifying elements of the person's record (season, name, club).
+    """
+    def hash_djb2(s):
+        hash = 5381
+        for x in s:
+            hash = (( hash << 5) + hash) + ord(x)
+        return "P" + ("%d" % hash)[-7:]
+    return hash_djb2(",".join([source,
+                               row['league.year'], row['league.name'],
+                               row['name.last'],
+                               row['name.first'] if not pd.isnull(row['name.first']) else "",
+                               row['club.name']]))
+  
+def game_hash(s):
+    """Generate hash-based identifier for a game account based on the
+    text of the game.
+    """
+    def int_to_base(n):
+        alphabet = "BCDFGHJKLMNPQRSTVWXYZ"
+        base = len(alphabet)
+        if n < base:
+            return alphabet[n]
+        else:
+            return int_to_base(n // base) + alphabet[n % base]
     return int_to_base(int(hashlib.sha1(s).hexdigest(), 16))[-7:]
+
+
 
 class Game(object):
     _subskeys = [ "*", "+", "^", "&", "$" ]
@@ -172,7 +185,7 @@ class Game(object):
         """Parse the game input text format."
         """
         self = cls()
-        self.metadata = { "key": generate_hash(gametext),
+        self.metadata = { "key": game_hash(gametext),
                           "filename": fn,
                           "phase": "regular" }
         self.playing = { }
@@ -291,7 +304,7 @@ def iterate_games(fn):
 def compile_playing(source, games, gamelist):
     df = pd.concat([ pd.DataFrame(g.playing.values()) for g in gamelist ],
                    ignore_index=True)
-    df = pd.merge(df, games[[ 'key', 'league' ]],
+    df = pd.merge(df, games[['key', 'league']],
                   left_on='game.key', right_on='key')
     del df['name.full']
     del df['substitute']
@@ -299,16 +312,17 @@ def compile_playing(source, games, gamelist):
     df['league.year'] = df['game.date'].str.split("-").str[0]
     del df['key']
     del df['league']
-    columns = [ 'game.key', 'league.year', 'league.name',
-                'game.date', 'game.number', 'game.phase',
-                'name.last', 'name.first', 'club.name',
-                'pos', 'seq',
-                'B_AB', 'B_R', 'B_ER', 'B_H', 'B_2B', 'B_3B', 'B_HR', 'B_RBI',
-                'B_BB', 'B_SO',
-                'B_HP', 'B_SH', 'B_SF', 'B_SB', 'B_XO', 'B_LOB', 'B_ROE',
-                'P_IP', 'P_TBF', 'P_R', 'P_ER', 'P_H', 
-                'P_BB', 'P_SO', 'P_HP', 'P_WP', 'P_BK',
-                'F_PO', 'F_A', 'F_E', 'F_DP', 'F_TP', 'F_PB', 'F_SB' ]
+    df['ref'] = df.loc[df['name.last']!='TOTALS'].apply(lambda x: person_hash(source, x), axis=1)
+    columns = ['game.key', 'league.year', 'league.name',
+               'game.date', 'game.number', 'game.phase',
+               'ref', 'name.last', 'name.first', 'club.name',
+               'pos', 'seq',
+               'B_AB', 'B_R', 'B_ER', 'B_H', 'B_2B', 'B_3B', 'B_HR', 'B_RBI',
+               'B_BB', 'B_SO',
+               'B_HP', 'B_SH', 'B_SF', 'B_SB', 'B_XO', 'B_LOB', 'B_ROE',
+               'P_IP', 'P_TBF', 'P_R', 'P_ER', 'P_H', 
+               'P_BB', 'P_SO', 'P_HP', 'P_WP', 'P_BK',
+               'F_PO', 'F_A', 'F_E', 'F_DP', 'F_TP', 'F_PB', 'F_SB' ]
     for col in columns:
         if col not in df:
             df[col] = None
@@ -365,67 +379,58 @@ def compile_umpiring(source, games, gamelist):
     df['league.year'] = df['game.date'].str.split("-").str[0]
     del df['key']
     del df['league']
+    df['club.name'] = 'umpire'
+    df['ref'] = df.apply(lambda x: person_hash(source, x), axis=1)
     columns = ['game.key', 'league.year', 'league.name',
-               'game.date', 'game.number', 'game.phase', 'name.last', 'name.first']
+               'game.date', 'game.number', 'game.phase',
+               'ref', 'name.last', 'name.first']
     df = df[columns].copy()
     df.to_csv("processed/%s/umpiring.csv" % source, index=False)
     return df
 
-def compile_people(source, playing, games):
-    playing = pd.merge(playing, games[[ 'key', 'league' ]],
-                       left_on='game.key', right_on='key')
-    playing['league'] = playing['league'].apply(lambda x: x + " League" if "League" not in x and "Association" not in x else x)
-    playing['year'] = playing['game.date'].str.split("-").str[0]
+def compile_people(source, playing):
     playing['B_G'] = 1
-    for pos in [ 'p', 'c', '1b', '2b', '3b', 'ss', 'lf', 'cf', 'rf' ]:
+    for pos in ['p', 'c', '1b', '2b', '3b', 'ss', 'lf', 'cf', 'rf']:
         playing['F_%s_G' % pos.upper()] = playing['pos'].apply(lambda x: (1 if pos in x.split("-") else 0) if not pd.isnull(x) else 0)
     playing['F_OF_G'] = playing['F_LF_G'] | playing['F_CF_G'] | \
                         playing['F_RF_G']
     playing['P_G'] = playing['F_P_G']
     playing['name.first'] = playing['name.first'].fillna("")
     playing = playing[playing['name.last']!="TOTALS"]
-    grouper = playing.groupby([ 'year', 'league', 'game.phase',
-                                'name.last', 'name.first', 'club.name' ])
+    grouper = playing.groupby(['league.year', 'league.name', 'game.phase',
+                               'name.last', 'name.first', 'club.name', 'ref'])
     df = grouper.sum()
-    df = pd.merge(df, grouper[[ 'game.date' ]].min().rename(columns={ 'game.date': 'S_FIRST' }),
+    df = pd.merge(df,
+                  grouper[['game.date']].min().rename(columns={'game.date': 'S_FIRST'}),
                   left_index=True, right_index=True)
-    df = pd.merge(df, grouper[[ 'game.date' ]].max().rename(columns={ 'game.date': 'S_LAST' }),
+    df = pd.merge(df,
+                  grouper[['game.date']].max().rename(columns={'game.date': 'S_LAST'}),
                   left_index=True, right_index=True)
     df.reset_index(inplace=True)
-
-    df['person.ref'] = df.apply(lambda x:
-                                hash_djb2(source + "," +
-                                          ",".join(x[['year', 'league',
-                                                      'name.last', 'name.first',
-                                                      'club.name']])),
-                                axis=1)
     
     df.rename(inplace=True,
-              columns={ 'name.last':  'person.name.last',
-                        'name.first': 'person.name.given',
-                        'club.name':  'entry.name',
-                        'year':       'league.year',
-                        'league':     'league.name',
-                        'game.phase':  'league.phase' })
-    df = df[[ 'league.year', 'league.name', 'league.phase', 'person.ref',
-              'person.name.last', 'person.name.given', 'entry.name',
-              'S_FIRST', 'S_LAST', 'B_G', 'P_G',
-              'F_1B_G', 'F_2B_G', 'F_3B_G', 'F_SS_G',
-              'F_OF_G', 'F_LF_G', 'F_CF_G', 'F_RF_G',
-              'F_C_G', 'F_P_G' ]]
+              columns={'ref':       'person.ref',
+                       'name.last':  'person.name.last',
+                       'name.first': 'person.name.given',
+                       'club.name':  'entry.name',
+                       'year':       'league.year',
+                       'league':     'league.name',
+                       'game.phase':  'league.phase'})
+    df = df[['league.year', 'league.name', 'league.phase', 'person.ref',
+             'person.name.last', 'person.name.given', 'entry.name',
+             'S_FIRST', 'S_LAST', 'B_G', 'P_G',
+             'F_1B_G', 'F_2B_G', 'F_3B_G', 'F_SS_G',
+             'F_OF_G', 'F_LF_G', 'F_CF_G', 'F_RF_G',
+             'F_C_G', 'F_P_G']]
     df.to_csv("processed/%s/people.csv" % source, index=False,
               float_format='%d')
 
 
-def compile_umpires(source, umpiring, games):
-    umpiring = pd.merge(umpiring, games[['key', 'league']],
-                        left_on='game.key', right_on='key')
-    umpiring['league'] = umpiring['league'].apply(lambda x: x + " League" if "League" not in x and "Association" not in x else x)
-    umpiring['year'] = umpiring['game.date'].str.split("-").str[0]
+def compile_umpires(source, umpiring):
     umpiring['U_G'] = 1
     umpiring['name.first'] = umpiring['name.first'].fillna("")
-    grouper = umpiring.groupby(['year', 'league', 'game.phase',
-                                'name.last', 'name.first'])
+    grouper = umpiring.groupby(['league.year', 'league.name', 'game.phase',
+                                'name.last', 'name.first', 'ref'])
     df = grouper.sum()
     df = pd.merge(df,
                   grouper[['game.date']].min().rename(columns={'game.date': 'S_FIRST'}),
@@ -435,20 +440,13 @@ def compile_umpires(source, umpiring, games):
                   left_index=True, right_index=True)
     df.reset_index(inplace=True)
 
-    df['club.name'] = "umpire"
-    df['person.ref'] = df.apply(lambda x:
-                                hash_djb2(source + "," +
-                                          ",".join(x[['year', 'league',
-                                                      'name.last', 'name.first',
-                                                      'club.name']])),
-                                axis=1)
-    del df['club.name']
     df.rename(inplace=True,
-              columns={ 'name.last':  'person.name.last',
-                        'name.first': 'person.name.given',
-                        'year':       'league.year',
-                        'league':     'league.name',
-                        'game.phase': 'league.phase' })
+              columns={'ref':        'person.ref',
+                       'name.last':  'person.name.last',
+                       'name.first': 'person.name.given',
+                       'year':       'league.year',
+                       'league':     'league.name',
+                       'game.phase': 'league.phase'})
     df = df[['league.year', 'league.name', 'league.phase', 'person.ref',
              'person.name.last', 'person.name.given',
              'S_FIRST', 'S_LAST', 'U_G']]
@@ -464,8 +462,8 @@ def process_files(source):
     playing = compile_playing(source, games, gamelist)
     umpiring = compile_umpiring(source, games, gamelist)
 
-    compile_people(source, playing, games)
-    compile_umpires(source, umpiring, games)
+    compile_people(source, playing)
+    compile_umpires(source, umpiring)
                                   
                                       
 if __name__ == '__main__':

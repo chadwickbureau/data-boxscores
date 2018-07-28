@@ -1,5 +1,5 @@
-game.key,league.year,league.name,game.date,game.number,game.phase,name.last,name.first
-PLVSBJB,1911,Carolina Association,1911-05-02,0,regular,Nugent,
-RDRLMSW,1911,Carolina Association,1911-05-19,0,regular,Nugent,
-VLTNCKR,1911,Carolina Association,1911-06-02,0,regular,Canny,
-VLTNCKR,1911,Carolina Association,1911-06-02,0,regular,Leibrich,
+game.key,league.year,league.name,game.date,game.number,game.phase,ref,name.last,name.first
+PLVSBJB,1911,Carolina Association,1911-05-02,0,regular,P9152181,Nugent,
+RDRLMSW,1911,Carolina Association,1911-05-19,0,regular,P9152181,Nugent,
+VLTNCKR,1911,Carolina Association,1911-06-02,0,regular,P8020669,Canny,
+VLTNCKR,1911,Carolina Association,1911-06-02,0,regular,P8532166,Leibrich,
