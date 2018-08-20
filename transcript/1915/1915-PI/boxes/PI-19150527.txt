@@ -1,0 +1,149 @@
+date: 1915-05-27
+number: 0
+league: Blue Ridge
+away: Hagerstown
+home: Chambersburg
+source: Philadelphia Inquirer, May 28, 1915
+
+Hagerstown:	r h po a e
+Walters @ cf:	0 0 1 0 0
+Dean @ 3b:	1 2 0 5 0
+Sharp @ 2b:	0 0 2 2 0
+Dolan @ 1b:	0 2 13 1 0
+La'lin @ c:	2 2 7 3 0
+H'ker @ rf:	0 2 0 0 0
+Shurey @ ss:	0 0 2 3 0
+Baley @ lf:	0 0 1 0 0
+Hevener @ p:	0 1 1 1 0
+TOTALS:		3 9 27 15 0
+
+Chambersburg:	r h po a e
+Snyder @ cf:	0 0 4 0 0
+Dunn @ 1b:	1 3 10 1 1
+Proster @ 2b:	0 0 0 0 1
+St'h, W. @ rf:	0 0 0 0 0
+St'h, G. @ c:	0 1 10 3 0
+Moore [lf] @ lf:	0 0 1 0 0
+Eilor @ 3b:	0 3 1 1 0
+Coune @ ss:	0 0 1 3 0
+Stricker @ p:	0 0 0 4 0
+TOTALS:		1 7 27 12 2
+
+line: Hagerstown:   0 1 0 0 1 0 0 1 0 - 3
+line: Chambersburg: 0 0 1 0 0 0 0 0 0 - 1
+
+B_2B: Dean; Dolan #2; La'lin
+P_BB: Stricker #1; Hevener #2
+P_SO: Stricker #11; Hevener #8
+P_WP: Hevener #2
+T: 2:05
+U: McAtee
+
+---
+
+date: 1915-05-27
+number: 0
+league: Blue Ridge
+away: Martinsburg
+home: Frederick
+source: Philadelphia Inquirer, May 28, 1915
+
+Martinsburg:	r h e
+Kelley @ p:	x x x
+Schauffle @ p:	x x x
+Zachery @ c:	x x x
+TOTALS:			3 6 4
+
+Frederick:	r h e 
+Stevens	@ p:	x x x
+Whalen @ c:	x x x
+TOTALS:		14 15 0
+
+
+---
+
+date: 1915-05-27
+number:0
+league: Blue Ridge
+away: Gettysburg 
+home:  Hanover
+source: Philadelphia Inquirer, May 28, 1915
+
+line: Gettysburg: 0 3 0 2 0 0 0 0 0 - 5
+line: Hanover:    0 0 0 0 0 0 0 0 0 - 0
+
+---
+
+date: 1915-05-28
+number:0
+league: Blue Ridge
+away: Hanover
+home: Gettysburg 
+source: Philadelphia Inquirer, May 29, 1915
+
+line: Hanover:    0 0 0 0 4 0 0 0 1 - 5
+line: Gettysburg: 0 0 1 0 0 0 0 0 0 - 1
+
+
+---
+
+date: 1915-05-29
+number: 0
+league: Blue Ridge
+away: Frederick
+home: Martinsburg
+source: Philadelphia Inquirer, May 30, 1915
+
+Frederick:	r h e 
+King @ p:	x x x
+Whalen @ c:	x x x
+TOTALS:		4 7 2
+
+Martinsburg:	r h e
+Kelly @ p:	x x x
+Zachary @ c:	x x x
+TOTALS:		3 5 2
+
+line: Frederick:   0 0 2 0 0 2 0 0 0 - 4
+line: Martinsburg: 0 0 3 0 0 0 0 0 0 - 3
+
+---
+
+date: 1915-05-29
+number: 0
+league: Blue Ridge
+away: Gettysburg
+home: Hanover
+source: Philadelphia Inquirer, May 30, 1915
+
+Gettysburg:	r h po a e
+Reeder @ 2b:	0 1 3 1 0
+Rudolph @ lf:	0 0 0 0 0
+Kelly @ cf:	1 2 0 0 1
+Plank @ 1b:	0 2 9 0 0 
+Oyler @ 3b:	0 0 2 0 2
+Jarosick @ c:	2 3 12 1 0
+Jones @ rf:	0 0 2 0 0
+Carroll @ ss:	0 0 1 3 0
+Howard @ p:	0 0 0 3 0
+Kane @ lf:	0 0 0 0 0 
+TOTALS:		3 8 29 10 3
+
+Hanover: 	r h po a e
+Starr @ 2b:	1 1 3 3 0
+Eline @ 3b:	0 1 1 0 0
+Coyle @ ss:	1 1 3 1 0
+Plunk @ cf:	1 2 0 0 0
+S'back @ c:	0 1 13 2 0
+Hagey @ lf:	1 1 0 0 0
+H'etter @ 1b:	0 1 0 0 1
+Hake @ p:	0 0 1 4 0
+Miller @ p:	0 0 1 4 0
+Raab @ rf:	0 0 0 0 0
+Howe @ rf:	0 0 0 0 1
+TOTALS:		4 9 30 10 2
+
+line: Gettysburg: 0 0 0 0 1 0 1 1 0 0 - 3
+line: Hanover:    2 0 0 0 1 0 0 0 0 1 - 4
+
+outsatend: 2

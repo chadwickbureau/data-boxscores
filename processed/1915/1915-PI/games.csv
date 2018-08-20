@@ -1,0 +1,17 @@
+key,date,number,league,phase,site,away,away.score,away.manager,home,home.score,home.manager,A,T,forfeit.to,status,status.reason,outsatend,filename,source,away.score.1,away.score.2,away.score.3,away.score.4,away.score.5,away.score.6,away.score.7,away.score.8,away.score.9,away.score.10,home.score.1,home.score.2,home.score.3,home.score.4,home.score.5,home.score.6,home.score.7,home.score.8,home.score.9,home.score.10
+PZLCCFJ,1915-05-27,0,Blue Ridge,regular,,Hagerstown,3,,Chambersburg,1,,,2:05,,,,,transcript/1915/1915-PI/boxes/PI-19150527.txt,"Philadelphia Inquirer, May 28, 1915",0,1,0,0,1,0,0,1,0,,0,0,1,0,0,0,0,0,0,
+BDLDJZF,1915-05-27,0,Blue Ridge,regular,,Martinsburg,,,Frederick,,,,,,,,,transcript/1915/1915-PI/boxes/PI-19150527.txt,"Philadelphia Inquirer, May 28, 1915",,,,,,,,,,,,,,,,,,,,
+HGLKJQX,1915-05-27,0,Blue Ridge,regular,,Gettysburg,5,,Hanover,0,,,,,,,,transcript/1915/1915-PI/boxes/PI-19150527.txt,"Philadelphia Inquirer, May 28, 1915",0,3,0,2,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,
+JMMRMMK,1915-05-28,0,Blue Ridge,regular,,Hanover,5,,Gettysburg,1,,,,,,,,transcript/1915/1915-PI/boxes/PI-19150527.txt,"Philadelphia Inquirer, May 29, 1915",0,0,0,0,4,0,0,0,1,,0,0,1,0,0,0,0,0,0,
+TMPGPVM,1915-05-29,0,Blue Ridge,regular,,Gettysburg,3,,Hanover,4,,,,,,,2,transcript/1915/1915-PI/boxes/PI-19150527.txt,"Philadelphia Inquirer, May 30, 1915",0,0,0,0,1,0,1,1,0,0,2,0,0,0,1,0,0,0,0,1
+GRNTGYT,1915-05-29,0,Blue Ridge,regular,,Frederick,4,,Martinsburg,3,,,,,,,,transcript/1915/1915-PI/boxes/PI-19150527.txt,"Philadelphia Inquirer, May 30, 1915",0,0,2,0,0,2,0,0,0,,0,0,3,0,0,0,0,0,0,
+ZWXVVTX,1915-05-31,2,Blue Ridge,regular,,Gettysburg,5,,Frederick,7,,,,,,,,transcript/1915/1915-PI/boxes/PI-19150531.txt,"Philadelphia Inquirer, June 1, 1915",0,0,0,0,3,1,0,1,0,,0,0,0,2,1,0,3,1,x,
+YJXNNQJ,1915-05-31,1,Blue Ridge,regular,,Martinsburg,2,,Hagerstown,3,,,,,,,,transcript/1915/1915-PI/boxes/PI-19150531.txt,"Philadelphia Inquirer, June 1, 1915",0,0,0,1,0,0,0,0,1,,1,0,0,0,0,0,0,1,1,
+MNMXWLP,1915-05-31,1,Blue Ridge,regular,,Chambersburg,2,,Hanover,8,,,,,,,,transcript/1915/1915-PI/boxes/PI-19150531.txt,"Philadelphia Inquirer, June 1, 1915",0,1,0,1,0,0,0,0,0,,0,0,0,1,5,0,2,0,x,
+RKZXBGP,1915-05-31,2,Blue Ridge,regular,,Chambersburg,3,,Hanover,2,,,,,,,,transcript/1915/1915-PI/boxes/PI-19150531.txt,"Philadelphia Inquirer, June 1, 1915",0,0,0,0,0,2,1,0,0,,0,1,1,0,0,0,0,0,0,
+ZLFQGXH,1915-06-04,0,Blue Ridge,regular,,Gettysburg,6,,Chambersburg,2,,,,,,,,transcript/1915/1915-PI/boxes/PI-19150531.txt,"Philadelphia Inquirer, June 5, 1915",0,1,0,0,4,0,0,1,0,,0,0,1,1,0,0,0,0,0,
+SWDJRMF,1915-06-04,0,Blue Ridge,regular,,Frederick,4,,Hagerstown,0,,,,,,,,transcript/1915/1915-PI/boxes/PI-19150531.txt,"Philadelphia Inquirer, June 5, 1915",0,2,1,0,0,0,1,0,0,,0,0,0,0,0,0,0,0,0,
+PFKWPPD,1915-06-04,0,Blue Ridge,regular,,Martinsburg,1,,Hanover,3,,,,,,,,transcript/1915/1915-PI/boxes/PI-19150531.txt,"Philadelphia Inquirer, June 5, 1915",0,0,0,1,0,0,0,0,0,,0,0,0,0,0,2,1,0,x,
+FGBPJBJ,1915-06-05,0,Blue Ridge,regular,,Gettysburg,8,,Chambersburg,3,,,,,,,,transcript/1915/1915-PI/boxes/PI-19150531.txt,"Philadelphia Inquirer, June 6, 1915",0,0,1,2,0,1,3,0,0,,1,0,1,0,0,0,1,0,0,
+JQYMPML,1915-06-05,0,Blue Ridge,regular,,Frederick,1,,Hagerstown,0,,,,,,,,transcript/1915/1915-PI/boxes/PI-19150531.txt,"Philadelphia Inquirer, June 6, 1915",0,0,0,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,
+JGSJVDY,1915-06-05,0,Blue Ridge,regular,,Martinsburg,3,,Hanover,4,,,,,,,,transcript/1915/1915-PI/boxes/PI-19150531.txt,"Philadelphia Inquirer, June 6, 1915",0,0,3,0,0,0,0,0,0,,0,0,0,3,0,0,1,0,x,
