@@ -12,7 +12,7 @@ Garman @ 1b:	2 0 0 10 0 0
 Cross @ 2b:		4 0 2 1 2 0
 Coutts @ lf:	4 0 1 0 0 0
 Weiser @ rf:	4 0 1 0 0 0
-McMillan @ cf:	3 0 1 0 0 1
+McMillan, [Apr] @ cf:	3 0 1 0 0 1
 Brandow @ 3b:	3 0 0 4 1 0
 Hargrave @ c:	2 0 0 8 2 1
 Bauswine @ p:	2 1 0 0 1 1
@@ -198,7 +198,7 @@ Garman @ 1b:	5 1 2 9 1 0
 Cross @ 2b:		3 0 0 0 1 0
 Coutts @ lf:	2 1 0 1 0 2
 Weiser @ rf:	4 0 1 2 1 0
-McMillan @ cf:	2 0 0 0 0 1
+McMillan, [Apr] @ cf:	2 0 0 0 0 1
 Brandow @ 3b:	2 0 0 1 3 0
 Malcolmson @ c:	3 0 0 6 2 0
 Hankie @ p:		3 0 0 0 3 1
@@ -226,7 +226,7 @@ B_2B: Garman
 B_3B: 
 B_HR: 
 B_SB: Smith; Coutts
-B_SH: Jenkins #2; McMillan; Brandow; Malcolmson
+B_SH: Jenkins #2; [Apr] McMillan; Brandow; Malcolmson
 B_SF: 
 B_HP: Cross; Brandow; Hankie; Cashion
 B_XO: 

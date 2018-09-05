@@ -138,7 +138,7 @@ Goodman @ rf:	4 0 2 4 0 0
 Doak @ cf:		3 0 1 1 0 0
 Edwards @ ss:	4 0 0 1 2 0
 Kite @ c:		4 0 1 2 1 0
-Watson @ p:		3 0 0 0 2 0
+Watson, [W.] @ p:		3 0 0 0 2 0
 *Bussey @ ph:	1 0 0 0 0 0
 TOTALS:			35 0 5 24 8 1
 
@@ -170,8 +170,8 @@ B_SH: O'Halloran
 B_SF: 
 B_HP: Doak
 B_XO: 
-P_BB: Watson #1
-P_SO: Watson #2; Swindell #5
+P_BB: [W.] Watson #1
+P_SO: [W.] Watson #2; Swindell #5
 P_H: 
 P_IP: 
 P_HP: 
@@ -508,7 +508,7 @@ Goodman @ rf:	4 0 2 3 0 0
 Doak @ cf:		4 0 2 0 0 0
 Edwards @ ss:	4 0 0 2 0 0
 Kite @ c:		3 0 0 5 0 0
-Watson @ p:		2 0 0 0 0 0
+Watson, [W.] @ p:		2 0 0 0 0 0
 TOTALS:			32 2 7 24 11 0
 
 Winston-Salem:		ab r h po a e
@@ -537,8 +537,8 @@ B_SH:
 B_SF: 
 B_HP: 
 B_XO: 
-P_BB: Watson #2; Swindell #1
-P_SO: Watson #4; Swindell #5
+P_BB: [W.] Watson #2; Swindell #1
+P_SO: [W.] Watson #4; Swindell #5
 P_H: 
 P_IP: 
 P_HP: 
@@ -984,8 +984,8 @@ Goodman @ rf:	3 0 0 1 1 0
 Doak @ cf:		3 1 1 1 2 0
 Edwards @ 3b:	4 0 1 1 0 0
 Kite @ c:		1 0 1 3 4 1
-Watson @ p:		2 1 1 0 2 0
-Griffin @ p:	2 0 0 0 1 1
+Watson, [W.] @ p:		2 1 1 0 2 0
+Griffin, [Aug] @ p:	2 0 0 0 1 1
 TOTALS:			31 2 7 24 14 3
 
 Charlotte:			ab r h po a e
@@ -1014,12 +1014,12 @@ B_SH: Sharp; Kite; McMillan; Agnew #2
 B_SF: 
 B_HP: Garman
 B_XO: 
-P_BB: Watson #3; Griffin #1; Bauswine #6
-P_SO: Watson #2; Bauswine #3; Garman #1
-P_H: Watson #10; Griffin #5; Bauswine #5; Garman #2
-P_IP: Watson #5; Griffin #3; Bauswine #7; Garman #2
-P_TBF: Watson #23; Griffin #10; Bauswine #24; Garman #7
-P_HP: Griffin
+P_BB: [W.] Watson #3; [Aug] Griffin #1; Bauswine #6
+P_SO: [W.] Watson #2; Bauswine #3; Garman #1
+P_H: [W.] Watson #10; [Aug] Griffin #5; Bauswine #5; Garman #2
+P_IP: [W.] Watson #5; [Aug] Griffin #3; Bauswine #7; Garman #2
+P_TBF: [W.] Watson #23; [Aug] Griffin #10; Bauswine #24; Garman #7
+P_HP: [Aug] Griffin
 P_WP: Bauswine #2
 P_BK: 
 F_DP: Goodman, Kite; Doak, Smith

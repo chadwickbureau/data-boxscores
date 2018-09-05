@@ -98,7 +98,8 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1911,Carolina Association,regular,P9506296,Golvin,,Winston-Salem,1911-05-03,1911-05-03,1,0,0,0,0,0,0,0,0,0,1,0
 1911,Carolina Association,regular,P8961994,Goodman,,Greenville,1911-04-27,1911-09-01,90,0,0,2,0,46,43,7,0,36,0,0
 1911,Carolina Association,regular,P9761282,Graham,,Anderson,1911-07-05,1911-07-10,2,2,0,0,0,0,0,0,0,0,0,2
-1911,Carolina Association,regular,P1590442,Griffin,,Greenville,1911-04-28,1911-08-31,21,16,0,0,0,0,5,1,1,3,0,16
+1911,Carolina Association,regular,P1590442,Griffin,,Greenville,1911-04-28,1911-06-21,15,11,0,0,0,0,3,0,0,3,0,11
+1911,Carolina Association,regular,P6081535,Griffin,[Aug],Greenville,1911-08-09,1911-08-31,6,5,0,0,0,0,2,1,1,0,0,5
 1911,Carolina Association,regular,P7053282,Hammett,,Anderson,1911-08-25,1911-08-25,1,0,0,0,0,0,1,1,0,0,0,0
 1911,Carolina Association,regular,P2168078,Hankie,,Charlotte,1911-04-27,1911-09-01,36,24,0,0,0,0,10,1,6,3,0,24
 1911,Carolina Association,regular,P6179524,Hannett,,Anderson,1911-08-24,1911-08-24,1,0,0,0,0,0,1,1,0,0,0,0
@@ -154,7 +155,8 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1911,Carolina Association,regular,P1498771,McCraney,,Spartanburg,1911-04-27,1911-05-15,7,0,0,0,0,1,6,0,5,1,1,0
 1911,Carolina Association,regular,P0150582,McDuff,,Spartanburg,1911-04-27,1911-05-08,6,0,0,0,0,6,0,0,0,0,0,0
 1911,Carolina Association,regular,P2616827,McEnroe,,Anderson,1911-04-27,1911-05-10,7,0,0,1,0,0,6,0,6,0,0,0
-1911,Carolina Association,regular,P1847403,McMillan,,Charlotte,1911-04-27,1911-09-01,85,0,0,0,18,0,67,0,67,0,0,0
+1911,Carolina Association,regular,P1847403,McMillan,,Charlotte,1911-06-16,1911-09-01,65,0,0,0,18,0,47,0,47,0,0,0
+1911,Carolina Association,regular,P2192070,McMillan,[Apr],Charlotte,1911-04-27,1911-05-26,20,0,0,0,0,0,20,0,20,0,0,0
 1911,Carolina Association,regular,P3629526,Meyers,,Spartanburg,1911-04-27,1911-05-04,2,2,0,0,0,0,0,0,0,0,0,2
 1911,Carolina Association,regular,P9710371,Moore,,Spartanburg,1911-04-27,1911-06-12,25,0,0,0,0,0,19,0,1,19,4,0
 1911,Carolina Association,regular,P2872424,Morrisey,,Greensboro,1911-04-28,1911-07-27,17,15,0,0,0,0,3,0,1,2,0,15
@@ -231,10 +233,11 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1911,Carolina Association,regular,P7927200,Walters,,Charlotte,1911-05-05,1911-05-15,3,3,0,0,0,0,0,0,0,0,0,3
 1911,Carolina Association,regular,P2438832,Walters,,Greensboro,1911-05-18,1911-08-31,29,29,0,0,0,0,0,0,0,0,0,29
 1911,Carolina Association,regular,P4013981,Ware,,Greensboro,1911-04-27,1911-09-01,21,0,0,0,0,0,0,0,0,0,21,0
-1911,Carolina Association,regular,P9691649,Watson,,Greenville,1911-06-26,1911-08-31,27,8,0,0,0,4,15,0,0,15,1,8
+1911,Carolina Association,regular,P9691649,Watson,,Greenville,1911-06-26,1911-08-01,19,0,0,0,0,4,15,0,0,15,1,0
 1911,Carolina Association,regular,P2024765,Watson,,Spartanburg,1911-08-07,1911-09-02,23,1,3,1,12,0,7,2,0,5,1,1
 1911,Carolina Association,regular,P1684016,Watson,A.,Greenville,1911-07-26,1911-08-04,3,0,0,0,0,0,3,0,0,3,0,0
 1911,Carolina Association,regular,P7353158,Watson,W.,Greenville,1911-07-26,1911-08-23,4,3,0,0,0,0,0,0,0,0,0,3
+1911,Carolina Association,regular,P4655806,Watson,[W.],Greenville,1911-08-07,1911-08-31,8,8,0,0,0,0,0,0,0,0,0,8
 1911,Carolina Association,regular,P4778957,Weiser,,Charlotte,1911-04-27,1911-09-01,62,0,0,0,3,20,35,5,20,10,5,0
 1911,Carolina Association,regular,P1137441,Weisert,,Charlotte,1911-08-26,1911-08-26,1,0,0,0,0,0,1,0,1,0,0,0
 1911,Carolina Association,regular,P6646544,Welser,,Charlotte,1911-05-22,1911-05-22,1,0,0,0,0,0,0,0,0,0,0,0

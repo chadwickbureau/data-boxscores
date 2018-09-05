@@ -145,7 +145,7 @@ Swindell @ p:		4 1 1 0 2 0
 TOTALS:				37 6 10 27 11 2
 
 Charlotte:		ab r h po a e
-McMillan @ cf:	4 0 0 0 1 1 
+McMillan, [Apr] @ cf:	4 0 0 0 1 1 
 Brandow @ 3b:	4 0 0 3 4 1
 Garman @ 1b:	4 0 1 10 0 0
 Cross @ 2b:		3 0 1 2 3 0
@@ -334,7 +334,7 @@ Boyle @ lf:			3 0 0 1 0 0
 TOTALS:				37 7 11 24 7 6
 
 Charlotte:		ab r h po a e
-McMillan @ cf:	5 1 0 2 0 1
+McMillan, [Apr] @ cf:	5 1 0 2 0 1
 Brandow @ 3b:	4 1 1 2 2 0
 Garman @ 1b:	3 1 0 12 1 0
 Cross @ 2b:		4 1 2 1 5 1
@@ -358,7 +358,7 @@ B_ER:
 B_2B: 
 B_3B: Stewart
 B_HR: Roth
-B_SB: Mullin #2; McMillan; Brandow; Weiser; Coutts #3
+B_SB: Mullin #2; [Apr] McMillan; Brandow; Weiser; Coutts #3
 B_SH: 
 B_SF: 
 B_HP: Mullin
@@ -386,7 +386,7 @@ home: Anderson
 source: The (Charlotte) Evening News, May 3, 1911
 
 Charlotte:		ab r h po a e
-McMillan @ cf:	4 0 0 1 0 0
+McMillan, [Apr] @ cf:	4 0 0 1 0 0
 Brandow @ 3b:	3 0 1 1 1 2
 Garman @ 1b:	4 0 1 6 1 0
 Cross @ 2b:		4 0 0 4 1 0
@@ -511,7 +511,7 @@ home: Anderson
 source: The (Charlotte) Evening News, May 4, 1911
 
 Charlotte:		ab r h po a e
-McMillan @ cf:	4 1 1 2 0 0
+McMillan, [Apr] @ cf:	4 1 1 2 0 0
 Brandow @ 3b:	4 1 0 0 3 0
 Garman @ 1b:	5 0 0 10 0 1
 Cross @ 3b:		2 0 0 2 4 0
@@ -541,7 +541,7 @@ line: Anderson: 0 0 0 0 0 3 4 4 x - 11
 B_LOB: Charlotte #9; Anderson #7
 B_ROE: 
 B_ER: 
-B_2B: McMillan; Canny; Anthony; Coombs
+B_2B: [Apr] McMillan; Canny; Anthony; Coombs
 B_3B: 
 B_HR: Coutts; Anthony
 B_SB: Canny; W. Kelly; McEnroe; McCarthy; Fogarty #4; Anthony; Hartley

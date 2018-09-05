@@ -8,7 +8,7 @@ A: 650
 
 Charlotte:		ab r h po a e
 Roth @ rf:		5 0 0 3 0 0
-McMillan @ cf:	3 1 1 1 1 0
+McMillan, [Apr] @ cf:	3 1 1 1 1 0
 Brandow @ 3b:	4 0 2 1 3 0
 Garman @ 1b:	4 0 0 11 1 0
 Cross @ 2b:		4 2 2 2 3 2
@@ -145,7 +145,7 @@ A: 700
 
 Charlotte:		ab r h po a e
 Roth @ rf:		4 0 2 0 0 0
-McMillan @ cf:	5 1 2 2 1 0
+McMillan, [Apr] @ cf:	5 1 2 2 1 0
 Brandow @ 3b:	4 0 1 2 2 0
 Garman @ 1b:	5 1 1 9 0 1
 Woodson @ 2b:	3 0 1 1 3 1
@@ -175,7 +175,7 @@ B_ROE: Charlotte #1; Spartanburg #2
 B_ER: 
 B_2B: 
 B_3B: Roth
-B_HR: McMillan; Wagnon
+B_HR: [Apr] McMillan; Wagnon
 B_SB: Garman; Wagnon; Wynne; Walker; Williams; Laval
 B_SH: Brandow; Wagnon; Dubbs
 B_SF: 
@@ -490,7 +490,7 @@ TOTALS:			38 16 15 27 9 4
 
 Charlotte:		ab r h po a e
 Woodson @ rf:	3 1 0 0 0 0
-McMillan @ cf:	5 0 1 7 1 0
+McMillan, [Apr] @ cf:	5 0 1 7 1 0
 Brandow @ 3b:	5 3 2 1 0 0
 Garman @ 1b:	4 1 1 10 1 1
 Cross @ 2b:		3 1 2 2 0 0
@@ -512,7 +512,7 @@ B_ER:
 B_2B: Doak; Fuller; Garman; Hargrave; Cross #2
 B_3B: Clapp; Stewart
 B_HR: 
-B_SB: Rickard #4; Bentley; Clapp; Woodson; McMillan
+B_SB: Rickard #4; Bentley; Clapp; Woodson; [Apr] McMillan
 B_SH: Clapp #2; Corwin; Nippert; Morrisey; Cross
 B_SF: 
 B_HP: Garman
@@ -524,7 +524,7 @@ P_IP: Fisher #3; Morrisey #6; Walters #1; Schaeffer #5; Van Pelt #3
 P_HP: 
 P_WP: Van Pelt
 P_BK: 
-F_DP: Weiser, Garman; McMillan, Garman
+F_DP: Weiser, Garman; [Apr] McMillan, Garman
 F_PB: 
 outsatend: 
 T: 2:05
@@ -683,7 +683,7 @@ TOTALS:			30 3 5 27 12 0
 
 Charlotte:		ab r h po a e
 Woodson @ rf:	4 0 0 0 0 0
-McMillan @ cf:	4 0 0 1 0 0
+McMillan, [Apr] @ cf:	4 0 0 1 0 0
 Brandow @ 3b:	4 0 0 1 1 0
 Garman @ 1b:	4 0 0 16 0 0
 Cross @ 2b:		4 0 1 1 3 1
@@ -927,7 +927,7 @@ TOTALS:			41 9 9 25 11 5
 
 Charlotte:		ab r h po a e
 Woodson @ rf:	5 1 1 2 0 0
-McMillan @ cf:	4 3 2 3 0 0
+McMillan, [Apr] @ cf:	4 3 2 3 0 0
 Brandow @ 3b:	3 2 0 1 0 1
 Garman @ 1b:	5 1 3 11 0 1
 Cross @ 2b:		2 0 1 2 7 1
@@ -946,7 +946,7 @@ B_ER:
 B_2B: Doyle; Stewart; Van Pelt
 B_3B: Garman
 B_HR: Weiser
-B_SB: Rickard; Doyle; Bentley; McMillan #2; Brandow; Garman; Coutts
+B_SB: Rickard; Doyle; Bentley; [Apr] McMillan #2; Brandow; Garman; Coutts
 B_SH: Rickard; Clapp; Brandow; Cross; Malcolmson
 B_SF: 
 B_HP: Brandow

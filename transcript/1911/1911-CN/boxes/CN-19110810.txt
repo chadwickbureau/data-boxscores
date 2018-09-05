@@ -280,7 +280,7 @@ Goodman @ rf:	4 0 0 0 0 0
 Doak @ cf:		3 0 1 1 1 0
 Edwards @ ss:	3 1 1 5 3 0
 Kite @ c:		4 0 0 3 2 0
-Watson @ p:		4 1 1 0 2 2
+Watson, [W.] @ p:		4 1 1 0 2 2
 TOTALS:			30 4 10 27 14 3
 
 line: Charlotte: 0 0 1 0 1 0 0 0 0 - 2
@@ -298,7 +298,7 @@ B_SF:
 B_HP: 
 B_XO: 
 P_BB: Hankie #3
-P_SO: Hankie #3; Watson #2
+P_SO: Hankie #3; [W.] Watson #2
 P_H: 
 P_IP: 
 P_HP: 
@@ -465,7 +465,7 @@ Bussey @ cf-p:	2 0 0 1 1 0
 Edwards @ ss:	4 0 0 2 4 2
 Kite @ c:		3 0 1 2 2 0
 Stouch @ 2b:	3 0 0 6 3 0
-Griffin @ p-cf:	3 0 1 0 1 0
+Griffin, [Aug] @ p-cf:	3 0 1 0 1 0
 TOTALS:			30 0 3 27 12 4
 
 line: Charlotte: 3 0 0 5 2 0 0 0 0 - 9
@@ -482,10 +482,10 @@ B_SH: Garman
 B_SF: 
 B_HP: Bussey
 B_XO: 
-P_BB: Sheesley #1; Griffin #2
-P_SO: Sheesley #1; Griffin #2
-P_H: Griffin #10; Bussey #1
-P_IP: Griffin #8; Bussey #1
+P_BB: Sheesley #1; [Aug] Griffin #2
+P_SO: Sheesley #1; [Aug] Griffin #2
+P_H: [Aug] Griffin #10; Bussey #1
+P_IP: [Aug] Griffin #8; Bussey #1
 P_HP: 
 P_WP: 
 P_BK: 
@@ -763,8 +763,8 @@ Goodman @ rf:	4 0 1 1 1 1
 Bussey @ cf:	4 0 0 2 0 3
 Edwards @ ss:	4 0 2 1 1 1
 Kite @ c:		4 1 2 3 5 1
-Watson @ p:		4 0 0 0 1 1
-Griffin @ lf:	4 0 1 2 0 0
+Watson, [W.] @ p:		4 0 0 0 1 1
+Griffin, [Aug] @ lf:	4 0 1 2 0 0
 TOTALS:			38 2 7 24 12 8
 
 Greensboro:		ab r h po a e
@@ -792,10 +792,10 @@ B_HR:
 B_SB: Rickard; Doyle; Carroll
 B_SH: Doyle; Doak
 B_SF: 
-B_HP: Griffin
+B_HP: [Aug] Griffin
 B_XO: 
-P_BB: Watson #2; Hauser #1
-P_SO: Watson #2; Walters #3; Hauser #2
+P_BB: [W.] Watson #2; Hauser #1
+P_SO: [W.] Watson #2; Walters #3; Hauser #2
 P_H: Walters #3; Hauser #4
 P_IP: Walters #5; Hauser #4
 P_HP: Walters
@@ -950,7 +950,7 @@ Bussey @ p:		4 0 0 0 1 0
 Edwards @ ss:	4 0 0 1 2 1
 Kite @ c:		4 1 0 4 0 0
 Stouch @ 2b:	4 2 2 4 3 0
-Griffin @ p:	4 1 2 4 0 0
+Griffin, [Aug] @ p:	4 1 2 4 0 0
 TOTALS:			36 6 11 27 8 1
 
 Greensboro:		ab r h po a e
@@ -1138,7 +1138,7 @@ Bussey @ cf:	3 0 1 6 0 2
 Edwards @ ss:	3 0 0 2 2 0
 Kite @ c:		3 0 0 3 1 1
 Stouch @ ss:	3 0 1 2 1 1
-Watson @ p:		3 0 0 0 0 0
+Watson, [W.] @ p:		3 0 0 0 0 0
 TOTALS:			30 1 6 24 7 4
 
 Greensboro:		ab r h po a e
@@ -1167,7 +1167,7 @@ B_SH: Hoey
 B_SF: 
 B_HP: 
 B_XO: 
-P_BB: Eldridge #0; Watson #1
+P_BB: Eldridge #0; [W.] Watson #1
 P_SO: Eldridge #7
 P_H: 
 P_IP: 
