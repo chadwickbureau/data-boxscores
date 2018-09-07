@@ -143,7 +143,7 @@ O'Halloran @ 2b:	4 1 1 2 4 0
 Spencer @ rf:		4 0 1 2 0 0
 Shumaker @ 1b:		4 1 1 13 1 0
 Stewart @ p:		4 0 0 0 4 0
-Brown @ 3b:			4 0 0 0 4 0
+Brown [3b] @ 3b:			4 0 0 0 4 0
 Clancy @ ss:		4 0 1 1 2 1
 Galvin @ c:			4 0 0 6 0 0
 TOTALS:				35 4 6 29 15 1
@@ -181,7 +181,7 @@ P_IP:
 P_HP: 
 P_WP: 
 P_BK: 
-F_DP: Clancy, O'Halloran, Shumaker; Brown, Galvin, Shumaker; Roth, Canny
+F_DP: Clancy, O'Halloran, Shumaker; Brown [3b], Galvin, Shumaker; Roth, Canny
 F_PB: Canny
 outsatend: 2
 T: 2:16

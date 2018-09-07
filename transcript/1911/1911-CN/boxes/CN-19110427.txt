@@ -468,7 +468,7 @@ O'Halloran @ 2b:	4 1 2 4 2 0
 Spencer @ rf:		3 1 1 1 0 0
 Shumaker @ 1b:		4 1 1 13 2 1
 Clancy @ ss:		4 1 3 0 2 0
-Brown @ 3b:			4 1 0 2 2 0
+Brown [3b] @ 3b:			4 1 0 2 2 0
 Galvin @ c:			3 1 0 4 0 0
 Bayle @ p:			4 1 2 0 5 0
 Swindell @ p:		0 0 0 0 0 0
@@ -483,7 +483,7 @@ B_ER:
 B_2B: Bentley; O'Halloran; Clancy
 B_3B: Bentley
 B_HR: 
-B_SB: Bentley; Corwin; Clancy; Brown
+B_SB: Bentley; Corwin; Clancy; Brown [3b]
 B_SH: Bentley; Corwin; Eldridge
 B_SF: 
 B_HP: Nippert
