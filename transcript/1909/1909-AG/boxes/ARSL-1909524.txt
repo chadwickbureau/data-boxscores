@@ -1,0 +1,1126 @@
+date: 1909-05-24
+number: 0
+league: Arkansas State
+away: Argenta
+home: Texarkana
+source: Arkansas Gazette, May 25, 1909
+
+Argenta:	ab r h po a e
+Reese @ cf:	4 0 0 0 0 0
+Brown @ lf:	4 0 1 2 0 0
+Leslie @ 2b:	4 1 2 1 3 0
+Jolly @ rf:	2 0 0 2 0 0
+Riggs @ rf:	1 0 0 0 0 0
+Dorsch @ 3b:	4 0 1 0 1 0
+Humphries @ ss:	4 0 1 4 2 0
+Bockewitz @ 1b:	4 0 2 11 0 0
+Ritter @ c:	3 0 1 3 0 1
+Hunt @ p:	3 0 0 1 6 0
+Straub @ p:	1 0 0 0 0 0
+TOTALS:		34 1 8 24 12 1
+
+Texarkana:	ab r h po a e
+Poindexter @ lf:	4 1 0 2 1 0
+Earthman @ 2b:	1 1 1 4 2 0
+Fenner @ cf:	4 2 1 2 0 1
+Besse @ 1b:	4 0 1 8 0 0
+Parrott @ c:	3 1 2 9 1 1
+Dawkins @ 3b:	3 0 1 0 0 1
+Bankhead @ rf:	3 0 0 0 0 0
+Pickens @ ss:	4 0 0 1 4 1
+Jones @ p:	3 1 2 1 4 0
+TOTALS:		29 6 8 27 12 4
+
+line: Argenta: 1 0 0 0 0 0 0 0 0 - 1
+line: Texarkana: 0 1 2 0 0 0 3 0 x - 6
+
+B_3B: Leslie
+B_HR: Parrott
+B_SH: Ritter; Earthman; Fenner #3
+note: discrepancy - B_SH transcribed as given - Fenner could not have 4 ABs and 3 SHs unless there was a scoring error
+P_BB: Hunt #4; Straub #1
+P_SO: Jones #9; Hunt #2
+B_HP: Riggs
+F_DP: Leslie, Humphries, Bockewitz
+T: 1:30
+U: McDonald
+
+---
+
+date: 1909-05-24
+number: 0
+league: Arkansas State
+away: Monroe
+home: Helena
+source: Arkansas Gazette, May 25, 1909
+status: postponed
+status-reason: rain
+
+---
+
+date: 1909-05-24
+number: 0
+league: Arkansas State
+away: Fort Smith
+home: Hot Springs
+source: Arkansas Gazette, May 25, 1909
+status: postponed
+status-reason: rain
+
+---
+
+date: 1909-05-24
+number: 0
+league: Arkansas State
+away: Alexandria
+home: Jonesboro
+source: Arkansas Gazette, May 25, 1909
+status: postponed
+status-reason: rain
+
+---
+
+date: 1909-05-25
+number: 0
+league: Arkansas State
+away: Argenta
+home: Texarkana
+source: Arkansas Gazette, May 26, 1909
+
+note: protest - manager Riggs of Argenta filed a protest, as player Jutsu had arrived to play with Argenta, but was taken by manager Shelton of Texarkana
+
+Argenta:	ab r h po a e
+Reese @ cf:	5 0 1 1 1 0
+Brown @ lf:	4 0 2 2 0 0
+Leslie @ 2b:	3 1 1 2 0 0
+Jolly @ rf:	3 0 1 1 0 0
+Dorsch @ 3b:	4 0 0 1 1 0
+Humphries @ ss:	4 0 0 1 1 0
+Bokowitz @ 1b:	4 1 1 10 0 0
+Ritter @ c:	4 1 1 7 2 1
+Walters @ p:	3 1 0 0 4 0
+Watt @ p:	0 0 0 0 0 0
+TOTALS:		34 4 8 25 13 1
+
+outsatend: 1
+note: addition - number of outs when winning run was scored is not recorded in summary, but taken from recap
+note: discrepancy -  box lists 8 total Argenta hits, but player totals add up to 7
+note: discrepancy - box lists 13 total Argenta assists, but player totals add up to 9
+
+Texarkana:	ab r h po a e
+Poindexter @ lf:	5 1 2 2 0 0
+Earthman @ 2b:	3 2 2 1 5 1
+Bankhead @ cf:	5 0 3 1 0 0
+Besse @ rf:	3 1 2 2 0 1
+Jutsu @ 1b:	4 0 1 10 0 0
+Parrot @ c:	4 0 1 7 3 0
+Dawkins @ 3b:	3 0 0 2 1 0
+Pickens @ ss:	4 0 1 2 0 0
+Lingenfelder @ p:	3 0 1 0 3 0
+*Fenner @ ph:	1 1 1 0 0 0
+TOTALS:		35 5 14 27 12 2
+
+*: batted for Lingenfelder in 9th inning
+
+line: Argenta: 0 0 1 0 2 0 0 1 0 - 4
+line: Texarkana: 2 0 0 0 0 0 1 0 2 - 5
+
+B_2B: Bankhead; Besse #2
+B_HR: Fenner
+B_SH: Earthman; Dawkins; Walters
+P_BB: Lingenfelder #3; Walters #2
+P_SO: Lingenfelder #6; Walters #2
+P_IP: Walters #8.0; Watt #0.1
+note: addition - P_IP not recorded in summary, but taken from recap
+P_H: Walters #13; Watt #1
+note: addition - P_H not recorded in summary, but taken from recap and calculated from total Texarkana hits recorded in box
+T: 1:55
+U: McDonald
+
+---
+
+date: 1909-05-25
+number: 0
+league: Arkansas State
+away: Fort Smith
+home: Hot Springs
+source: Arkansas Gazette, May 26, 1909
+
+note: Lloyd left game after being hit on the hand by a pitch in the bottom of the 8th inning (umpire refused Lloyd to take first base)
+
+Fort Smith:	ab r h po a e
+Meander @ cf:	5 0 0 0 0 0
+O'Hearn @ 3b:	4 0 1 1 3 0
+Vitter @ ss:	4 0 1 1 2 1
+Jeffries @ 1b:	4 2 0 9 0 0
+Ryan @ 2b:	4 0 1 0 1 0
+Carroll @ rf:	3 0 1 0 0 0
+Puckett @ c:	3 0 0 11 1 0
+Wells @ lf:	3 0 1 3 0 0
+Ray @ p:	3 0 0 0 2 0
+TOTALS:		33 2 5 25 9 1
+
+outsatend: 1
+
+Hot Springs:	ab r h po a e
+Bromley @ cf:	4 1 1 0 0 1
+Jennings @ rf:	2 0 1 1 0 0
+*Russell @ ph:	1 1 1 0 0 1
+Smitheal @ ss:	4 1 1 1 4 2
+Coyl @ 1b:	4 0 1 12 0 0
+Ware @ 2b:	4 0 0 2 2 0
+Naylor @ c:	4 0 1 8 1 0
+DeHavens @ 3b:	3 0 1 1 3 1
+Murphy @ lf:	3 0 1 2 0 0
+Lloyd @ p:	3 0 0 0 2 0
+Heiglefort @ p:	0 0 0 0 0 0
+TOTALS:		32 3 8 27 12 4
+
+*: batted for Jennings in 9th inning
+note: discrepancy - box lists 4 total Hot Springs errors, but player totals add up to 5
+
+line: Fort Smith: 0 0 0 1 0 0 0 1 0 - 2
+line: Hot Springs: 1 0 0 0 0 0 0 0 2 - 3
+
+P_IP: Lloyd #8.0; Heiglefort #1.0
+note: addition - summary records IP only for Lloyd
+P_H: Lloyd #5; Heiglefort #0
+note: addition - summary records H only for Lloyd
+B_SH: Jennings; Carroll; Wells; Ray
+B_SB: DeHavens; Murphy
+P_BB: Lloyd #1
+P_SO: Lloyd #5; Heiglefort #1; Ray #11
+F_PB: Jeffries
+P_WP: Lloyd
+T: 1:35
+U: Crotty
+
+---
+
+date: 1909-05-25
+number: 0
+league: Arkansas State
+away: Alexandria
+home: Jonesboro
+source: Arkansas Gazette, May 26, 1909
+
+note: game played 'in sea of mud'
+
+Alexandria:	ab r h po a e
+Reef @ 2b:	5 1 2 3 2 0
+Hoffman @ 1b:	5 1 1 13 0 0
+Blanchet @ rf:	4 0 0 0 0 0
+Horn @ lf:	3 2 1 1 0 0
+Braun @ c:	4 2 3 4 2 0
+Chastant @ cf:	4 0 1 0 1 0
+Goldolfi @ ss:	4 0 1 1 2 1
+Collins @ 3b:	4 0 2 1 2 0
+Luhrsen @ p:	3 0 0 1 5 1
+*Bauer @ ph:	1 0 0 0 0 0
+TOTALS:		37 6 11 24 14 2
+
+*: box does not record for whom or when Bauer appeared - Bauer's entry is prefixed by an 'x-'
+
+Jonesboro:	ab r h po a e
+Schlensker @ lf:	5 1 1 2 0 0
+Rainey @ 1b:	4 1 2 10 0 0
+Jolly @ cf:	5 0 4 2 3 0
+Welch @ 2b:	5 0 0 2 1 0
+Weiner @ rf:	3 2 2 0 0 1
+Van @ ss:	3 2 2 1 4 1
+McDonald @ 3b:	2 1 0 2 0 1
+Henninger @ c:	4 0 2 8 2 0
+Deardorf @ p:	4 0 0 0 5 0
+TOTALS:		35 7 13 27 15 3
+
+note: correction - Welch is listed in box as 'Blackly, Welch, 2b' - this is corrected to Welch above
+
+line: Alexandria: 4 0 1 0 0 0 0 1 0 - 6
+line: Jonesboro: 2 0 0 3 0 0 2 0 x - 7
+
+B_ER: Jonesboro #5; Alexandria #4
+B_2B: Weiner; Braun; Collins
+B_SH: McDonald; Van
+B_SB: Jolly; Luhrsen
+P_SO: Luhrsen #5; Deardorf #5
+P_BB: Deardorf #1; Luhrsen #3
+F_PB: Braun
+P_HP: Luhrsen #1; Deardorf #1
+B_HP: McDonald; Horn
+T: 1:55
+U: Smith
+
+---
+
+date: 1909-05-25
+number: 0
+league: Arkansas State
+away: Monroe
+home: Helena
+source: Arkansas Gazette, May 26, 1909
+status: postponed
+status-reason: rain
+
+---
+
+date: 1909-05-26
+number: 0
+league: Arkansas State
+away: Argenta
+home: Texarkana
+source: Arkansas Gazette, May 27, 1909
+
+home-batted: first
+
+Texarkana:	ab r h po a e
+Poindexter @ lf:	4 0 0 1 0 0
+Earthman @ 2b:	4 0 0 1 0 0
+Fenner @ cf:	4 0 1 2 0 0
+Besse @ 1b:	3 0 0 7 0 0
+Jutsie @ p:	3 0 0 1 2 1
+Parrott @ c:	3 0 1 5 0 0
+Dawkins @ 3b:	3 0 0 3 1 1
+Pickens @ ss:	3 0 1 3 3 0
+Shaw @ rf:	3 0 0 0 0 0
+TOTALS:		30 0 3 23 6 2
+
+note: summary includes note 'Ritter out on three foul strikes'
+
+Argenta:	ab r h po a e
+Reese @ cf:	4 1 1 3 0 0
+Brown @ lf:	4 0 0 0 0 0
+Leslie @ 2b:	2 1 0 4 4 0
+Jolly @ rf:	4 0 1 1 0 0
+Dorsch @ 3b:	4 0 0 1 2 0
+Humphries @ ss:	3 1 1 1 1 1
+Bockewitz @ 1b:	3 0 1 14 0 0
+Ritter @ c:	3 0 0 3 4 0
+Watt @ p:	2 0 0 0 4 0
+TOTALS:		29 3 4 27 15 1
+
+line: Texarkana: 0 0 0 0 0 0 0 0 0 - 0
+line: Argenta: 0 0 0 0 1 0 0 2 x - 3
+
+B_XO: Ritter, foul 3rd strike
+B_2B: Humphries
+P_BB: Jutsie #2
+P_SO: Watt #3; Jutsie #5
+B_HP: Leslie
+F_DP: Pickens, Besse
+T: 1:30
+U: McDonald
+
+---
+
+date: 1909-05-26
+number: 0
+league: Arkansas State
+away: Alexandria
+home: Jonesboro
+source: Arkansas Gazette, May 27, 1909
+
+note: game played in 'deep, sticky mud'
+
+Alexandria:	ab r h po a e
+Relf @ 2b:	3 0 0 2 5 0
+Hoffman @ 1b:	3 0 0 12 0 0
+Horn @ 1b:	3 0 1 1 0 0
+Braim @ c:	3 0 1 5 1 1
+Chastant @ cf:	3 0 0 1 0 1
+Gondolfi @ ss:	3 0 0 2 2 0
+Bauer @ rf:	3 0 0 0 0 0
+Collins @ 3b:	3 0 0 0 1 0
+Chellette @ p:	3 0 0 1 5 0
+TOTALS:		27 0 2 24 14 2
+
+note: discrepancy - box lists both Hoffman and Horn at 1B, with no LF in lineup - Hoffman is the regular 1B and is recorded with 12 putouts
+
+Jonesboro:	ab r h po a e
+Schlensker @ lf:	3 0 0 2 0 0
+Reiney @ 1b:	4 1 2 10 0 0
+Jolly @ cf:	4 0 2 1 0 0
+Welch @ 2b:	4 0 1 2 1 0
+Winger @ rf:	4 0 1 1 0 0
+Van @ ss:	2 0 0 1 1 0
+McDonald @ 3b:	3 0 0 0 1 0
+Henninger @ c:	3 0 1 10 1 0
+Rayburn @ p:	3 1 1 0 2 0
+TOTALS:		30 2 8 27 6 0
+
+line: Alexandria: 0 0 0 0 0 0 0 0 0 - 0
+line: Jonesboro: 0 0 0 0 0 0 0 2 x - 2
+
+B_ER: Jonesboro #2
+B_2B: Horn; Jolly; Braim
+B_SH: Schlensker; Van
+B_SB: Reiney
+P_SO: Rayburn #10; Chellette #4
+P_BB: Chellette #1
+P_HP: Rayburn
+B_HP: Relf
+F_DP: Reiney; Chellette, Gondolfi, Hoffman
+T: 1:15
+U: Smith
+
+---
+
+date: 1909-05-26
+number: 0
+league: Arkansas State
+away: Fort Smith
+home: Hot Springs
+source: Arkansas Gazette, May 27, 1909
+
+Fort Smith:	ab r h po a e
+Wells @ lf:	5 2 0 2 0 0
+Dillon @ ss-2b:	5 1 1 2 2 1
+Taylor @ 1b:	5 1 2 11 1 0
+Vetter @ 2b-rf:	2 0 1 4 3 0
+Jeffries @ c:	5 0 1 5 1 0
+Meander @ cf:	5 0 0 1 1 0
+Carroll @ rf:	2 0 0 0 0 0
+Crotty @ ss:	2 0 0 1 1 2
+O'Hearn @ 3b:	5 0 2 1 1 0
+Jost @ p:	1 0 0 0 2 0
+Fletcher @ p:	3 1 1 0 0 0
+TOTALS:		40 5 8 27 13 3
+
+Hot Springs:	ab r h po a e
+Bromley @ cf:	5 0 2 0 0 0
+Coyle @ 1b:	5 0 2 14 0 0
+Smitheal @ ss:	5 1 1 2 2 1
+Russell @ lf:	5 0 1 2 0 0
+Ware @ 2b:	3 2 2 1 4 2
+Naylor @ c:	2 0 2 6 0 2
+Dehaven @ 3b:	3 0 2 1 3 2
+Murphy @ rf:	4 0 0 1 0 0
+Toren @ p:	4 0 0 0 2 0
+TOTALS:		36 3 12 27 11 7
+
+line: Fort Smith: 0 0 0 0 2 1 0 2 0 - 5
+line: Hot Springs: 0 1 0 1 1 0 0 0 0 - 3
+
+P_H: Jost #6; Fletcher #6
+B_2B: Dehaven; Jeffries; Fletcher
+B_HR: Ware
+B_SH: Naylor; Dehaven
+B_SB: Taylor; Bromley; Crotty; Wells; Dillon #2
+P_BB: Jost #2; Toren #5
+P_SO: Toren #5; Jost #3; Fletcher #1
+P_HP: Toren
+B_HP: Crotty
+F_DP: Dillon, Vetter, Taylor
+T: 2:00
+U: Crotty
+---
+
+date: 1909-05-26
+number: 0
+league: Arkansas State
+away: Monroe
+home: Helena
+source: Arkansas Gazette, May 27, 1909
+status: postponed
+status-reason: wet grounds
+
+---
+
+date: 1909-05-27
+number: 0
+league: Arkansas State
+away: Fort Smith
+home: Argenta
+source: Arkansas Gazette, May 28, 1909
+
+Fort Smith:	ab r h po a e
+Wells @ lf:	5 0 2 1 0 0
+Dillon @ ss:	3 0 1 1 2 1
+Taylor @ 1b:	5 0 2 13 2 0
+Vitter @ 2b-p:	5 0 1 0 3 0
+Jeffries @ rf-2b:	4 0 1 2 3 0
+Maender @ cf:	4 0 3 2 1 0
+O'Hearn @ 3b:	4 1 1 2 4 2
+Puckett @ c-rf:	4 0 1 3 1 0
+Krutchen @ p:	2 0 0 0 1 1
+Carroll @ rf-c:	1 0 1 0 0 0
+TOTALS:		37 1 13 24 17 4
+
+Argenta:	ab r h po a e
+Green @ cf:	6 1 3 1 0 0
+Browne @ lf:	4 2 1 1 0 0
+Leslie @ 2b:	3 4 3 3 4 0
+Jolly @ rf:	5 2 2 1 0 1
+Dorsch @ 3b:	3 0 1 4 5 0
+Humphries @ ss:	3 2 0 2 1 0
+Bockewitz @ 1b:	5 2 3 12 0 0
+Ritter @ c:	5 3 2 3 0 0
+Reese @ p:	5 0 3 0 4 0
+TOTALS:		39 16 18 27 14 1
+
+note: correction - box lists 29 total Argenta ABs, but player totals add up to 39 - it is obvious that 29 is a misprint, and so this is corrected above
+
+line: Fort Smith: 0 1 0 0 0 0 0 0 0 - 1
+line: Argenta: 1 1 6 1 1 3 2 1 x - 16
+
+P_IP: Krutchen #3.0; Vitter #5.0
+P_H: Krutchen #9; Vitter #9
+B_2B: Browne; Jolly; Dorsch; Bockewitz; Dillon; Puckett
+B_SH: Dorsch #2; Humphries; Dillon
+B_SB: Ritter #3
+P_BB: Krutchen #3; Vitter #1; Reese #2
+P_SO: Krutchen #1; Vitter #1; Reese #1
+B_LOB: Argenta #6; Fort Smith #11
+F_PB: Puckett
+P_WP: Krutchen; Vitter
+F_DP: Dorsch, Bockewitz; O'Hearn, Taylor; Vitter, Jeffries, Taylor
+T: 7:50
+note: discrepancy - time transcribed as given
+U: McDonald; Wall
+
+---
+
+date: 1909-05-27
+number: 0
+league: Arkansas State
+away: Monroe
+home: Jonesboro
+source: Arkansas Gazette, May 28, 1909
+
+note: ejection - Wright ejected in unknown inning
+note: ejection - manager Blackburn of Monroe ejected in unknown inning
+
+Monroe:		ab r h po a e
+Dobard @ 2b:	4 0 1 0 0 0
+Patton @ lf-ss:	4 0 0 1 0 0
+Hewitt @ 3b:	4 0 0 1 3 0
+Wright @ ss-lf:	1 0 0 1 1 1
+McNulty @ lf:	2 0 0 0 0 0
+Blanchfield @ rf:	3 0 0 4 0 0
+Kitchens @ c:	4 0 1 4 1 0
+Pedrotti @ cf:	3 0 0 3 0 0
+Ling @ 1b:	3 0 1 10 0 0
+Casey @ p:	3 0 0 0 5 0
+TOTALS:		30 0 3 24 10 1
+
+note: discrepancy - box lists 30 total Monroe ABs, but player totals add up to 31
+
+Jonesboro:	ab r h po a e
+Schlensker @ lf:	2 0 0 1 0 0
+Reiney @ 1b:	4 1 0 11 0 0
+Jolley @ cf:	4 1 1 0 0 0
+Welch @ 2b:	4 0 1 3 1 0
+Winger @ rf:	4 1 1 1 0 0
+Van @ ss:	4 1 1 0 1 1
+McDonald @ 3b:	2 0 1 0 3 0
+Hinninger @ c:	3 0 1 11 0 0
+Robertson @ p:	3 0 0 0 3 0
+TOTALS:		30 4 6 27 8 1
+
+line: Monroe: 0 0 0 0 0 0 0 0 0 - 0
+line: Jonesboro: 3 0 0 1 0 0 0 0 x - 4
+
+B_ER: Jonesboro #2
+B_2B: Welch; Van; McDonald
+B_SB: Hinninger
+P_SO: Robertson #10; Casey #3
+P_BB: Robertson #2; Casey #3
+B_LOB: Jonesboro #5; Monroe #3
+T: 1:50
+U: Smith
+
+---
+
+date: 1909-05-27
+number: 0
+league: Arkansas State
+away: Alexandria
+home: Helena
+source: Arkansas Gazette, May 28, 1909
+
+note: Braun left game with a split finger in the bottom of the 1st inning
+
+Alexandria:	ab r h po a e
+Relf @ 2b:	4 0 0 1 3 0
+Hoffman @ 1b:	2 0 0 10 1 0
+Blanchet @ rf-c:	4 0 0 3 1 0
+Horn @ lf:	3 0 0 3 0 0
+Braun @ c:	0 0 0 0 0 0
+Bockenfohr @ rf:	0 0 0 0 0 0
+Luhrsen @ p:	3 0 0 0 4 0
+Chastain @ cf:	3 0 0 2 0 0
+Grandolfi @ ss:	3 0 2 1 0 1
+Collins @ 3b:	3 0 0 3 2 2
+Talliaferro @ p:	0 0 0 0 0 0
+Bauer @ p-rf:	0 0 0 1 0 1
+TOTALS:		25 0 2 24 11 4
+
+note: correction - box lists Blanchet only as RF - per recap, Blanchet replaced Braun as catcher in the 1st inning, so Blanchet's position assignment is corrected above
+note: correction - box lists Bauer only as P - per recap, Bockenfohr went into RF temporarily, 'being relieved by Bauer as soon as Luhrsen had warmed up to pitch' - Bauer's position assignment is corrected above
+note: discrepancy - Bauer is not recorded with any ABs, although conclusion is that Bauer played almost the entire game - also, recap states that Cook faced only 30 batters, and only 2 BB and 0 HP by Cook are recorded, so very likely there should be 28 total ABs by Alexandria
+
+Helena:		ab r h po a e
+Webber @ 3b:	3 1 0 3 0 0
+Graves @ ss:	3 2 0 1 4 0
+Vandagrift @ 2b:	3 1 2 1 3 0
+Begley @ 1b:	4 0 1 9 0 0
+Hofman @ lf:	5 0 0 1 0 0
+Lanon @ cf:	3 1 1 0 0 0
+Benham @ rf:	4 1 1 1 0 0
+Berry @ c:	3 0 1 11 1 0
+Cooke @ p:	3 0 0 0 1 0
+TOTALS:		31 6 6 27 9 0
+
+line: Alexandria: 0 0 0 0 0 0 0 0 0 - 0
+line: Helena: 5 0 0 0 0 0 0 1 x - 6
+
+P_H: Bauer #1; Luhrsen #5
+B_2B: Vandagrift; Begley
+B_SH: Berry
+B_SB: Webber
+P_BB: Talliaferro #2; Bauer #4; Luhrsen #2; Cooke #2
+note: discrepancy - per recap, Talliaferro walked the first 3 men he faced in the 1st inning, and was taken out for Bauer - recap also states that a total of six Helena players were walked in the 1st inning
+P_SO: Cooke #11; Bauer #1; Luhrsen #2
+P_HP: Luhrsen
+B_HP: Cooke
+B_ROE: Helena #3
+B_LOB: Helena #11; Alexandria #3
+F_PB: Blanchet
+P_WP: Luhrsen
+F_DP: Webber, Vandagrift, Begley
+T: 1:55
+U: Osborn
+
+---
+
+date: 1909-05-27
+number: 0
+league: Arkansas State
+away: Texarkana
+home: Hot Springs
+source: Arkansas Gazette, May 28, 1909
+
+Texarkana:	ab r h po a e
+Poindexter @ lf:	4 1 1 6 0 0
+Pickens @ ss:	3 0 0 1 4 0
+Fenner @ cf:	4 0 0 2 0 0
+Besse @ 1b:	4 0 2 10 0 0
+Jetze @ 2b:	3 0 0 2 1 0
+Dawkins @ 3b:	3 0 0 2 3 0
+Bankhead @ c:	3 0 1 1 1 0
+Shaw @ rf:	3 0 0 0 0 0
+Jones @ p:	3 1 1 0 0 0
+TOTALS:		30 2 5 24 9 0
+
+Hot Springs:	ab r h po a e
+Coyle @ 1b:	5 1 1 11 0 0
+Bromley @ cf:	4 0 1 2 0 0
+Smitheal @ ss:	4 2 2 2 7 2
+Russell @ lf:	4 1 1 2 0 0
+Ware @ 2b:	4 1 3 4 3 0
+Naylor @ c:	4 0 2 2 4 1
+Dehaven @ 3b:	4 0 0 1 2 0
+Murphy @ rf:	4 0 0 3 0 1
+Heigelfort @ p:	4 1 2 0 3 1
+TOTALS:		37 6 12 27 19 5
+
+line: Texarkana: 0 0 0 0 0 2 0 0 0 - 2
+line: Hot Springs: 0 0 0 2 4 0 0 0 x - 6
+
+B_2B: Coyle; Smitheal; Russell; Heigelfort; Naylor
+B_SH: Pickens
+B_SB: Bromley; Coyle; Smitheal
+P_BB: Heigelfort #1; Jones #1
+P_SO: Heigelfort #1; Jones #1
+F_PB: Naylor
+P_WP: Jones
+F_DP: Smitheal, Naylor; Dehaven, Naylor
+T: 1:35
+U: Crotty
+
+---
+
+date: 1909-05-28
+number: 0
+league: Arkansas State
+away: Fort Smith
+home: Argenta
+source: Arkansas Gazette, May 29, 1909
+
+note: Mercer left game after being hit on the band while batting in unknown inning - however this incident must have happened in the top of the 7th inning or later, as Mercer was still noted to be pitching in the scoring details of the bottom of the 6th inning
+
+Fort Smith:	ab r h po a e
+Wells @ lf:	5 0 2 2 0 0
+Dillon @ ss-p:	4 0 0 1 3 0
+Taylor @ 1b-p-c:	4 0 3 9 0 0
+Vitter @ 2b:	4 0 1 1 2 0
+Jeffries @ c-p-1b:	4 0 0 6 1 1
+Maender @ cf:	4 0 0 3 0 0
+O'Hearn @ 3b:	4 0 1 1 1 2
+Carroll @ rf-p-ss:	4 0 3 0 1 2
+Hunt @ p:	1 0 0 0 1 0
+Mercer @ p:	1 0 0 1 2 0
+Kutchen @ rf:	1 0 0 0 0 0
+TOTALS:		36 0 10 24 11 5
+
+note: discrepancy - player positions transcribed in order given - per recap, Dillon 'finished' the game at pitcher, but perhaps the writer left before the game's conclusion, as Taylor, Jeffries, and Carroll also took turns pitching - the only position issue is that someone else (probably Carroll) had to play catcher or first base while Taylor and Jeffries each pitched
+
+Argenta:	ab r h po a e
+Green @ lf:	3 2 2 4 0 0
+Browne @ lf:	5 3 3 3 1 0
+Leslie @ rf:	3 2 1 2 0 0
+Cowan @ 3b:	4 1 0 1 1 1
+Dursch @ 2b:	4 3 2 1 3 0
+Humphries @ ss:	5 1 2 5 0 0
+Bockewitz @ 1b:	2 0 1 4 0 0
+Jolly @ 1b:	2 0 1 2 1 0
+Ritter @ c:	4 0 0 5 0 0
+Walters @ p:	5 0 2 0 4 0
+TOTALS:		37 12 14 27 10 1
+
+line: Fort Smith: 0 0 0 0 0 0 0 0 0 - 0
+line: Argenta: 4 2 2 0 0 4 0 0 x - 12
+
+B_2B: Browne; Humphries
+B_SH: Green; Bockewitz
+B_SB: Browne; Leslie #3; Humphries
+P_BB: Hunt #2; Mercer #1; Dillon #2
+P_SO: Walters #3; Dillon #1; Mercer #1
+P_HP: Walters; Mercer
+B_HP: Mercer; Leslie
+P_WP: Dillon
+note: missing data - no P_IP recorded in summary - per recap, Hunt was replaced by Mercer in the 4th inning and Mercer was still on the mound in the bottom of the 6th inning
+F_DP: Mercer; Jeffries; Taylor
+U: Wall
+
+---
+
+date: 1909-05-28
+number: 0
+league: Arkansas State
+away: Alexandria
+home: Helena
+source: Arkansas Gazette, May 29, 1909
+
+note: ejection - Braun and Chastant were ejected in the 2nd inning for 'vigourous kicking' on a decision at the plate
+
+Alexandria:	ab r h po a e
+Relf @ 2b:	5 2 2 1 1 1
+Grandolfi @ ss:	3 1 0 3 3 1
+Hern @ lf:	5 0 2 0 0 0
+Braun @ c:	1 0 0 1 0 0
+Bauer @ c:	4 0 0 2 3 0
+Chastant @ cf:	1 0 1 0 0 0
+Challdte @ cf:	3 1 2 1 0 0
+Blanchett @ rf:	2 0 1 0 1 1
+Hofman [Alx] @ 1b:	3 0 1 13 3 0
+Collins @ 3b:	4 0 0 2 1 1
+Bockenfohr @ p:	4 0 0 1 6 0
+TOTALS:		35 4 9 24 18 4
+
+Helena:		ab r h po a e
+Webber @ 3b:	5 1 2 1 2 0
+Graves @ ss:	4 1 1 2 3 2
+Vandagrift @ 2b:	4 1 1 3 2 0
+Begley @ 1b:	3 3 0 9 1 0
+Hofman [Hel] @ lf:	4 2 3 2 0 0
+Lannon @ cf:	4 1 2 1 0 0
+Benham @ rf:	4 0 1 1 1 0
+Berry @ c:	3 1 1 7 2 0
+Rogers @ p:	4 0 1 0 3 0
+TOTALS:		35 10 12 27 14 2
+
+note: discrepancy - box lists 27 total Helena POs, but player totals add up to 26
+
+line: Alexandria: 1 0 0 0 2 0 0 1 0 - 4
+line: Helena: 0 2 3 0 0 1 3 1 x - 10
+
+B_2B: Lannon; Vandagrift; Relf
+B_HR: Relf
+B_SH: Vandagrift; Benham; Graves; Rogers
+B_SB: ??Hofman; Webber #2; Chastant; Relf
+P_BB: Rogers #5; Bockenfohr #2
+P_SO: Rogers #4; Bockenfohr #3
+P_HP: Bockenfohr
+B_HP: Graves
+B_ROE: Helena #2; Alexandria #2
+B_LOB: Helena #5; Alexandria #7
+F_DP: Bockenfohr, Grandolfi, Hofman [Alx]
+T: 1:50
+U: Osborne
+
+---
+
+date: 1909-05-28
+number: 0
+league: Arkansas State
+away: Monroe
+home: Jonesboro
+source: Arkansas Gazette, May 29, 1909
+
+Monroe:		ab r h po a e
+Dobard @ 2b:	4 0 1 3 4 0
+Patton @ ss:	4 0 0 1 5 2
+Hewitt @ 3b:	4 0 1 2 2 1
+Pedrotti @ cf:	4 0 1 1 1 0
+Blanchfield @ rf:	4 1 1 1 0 0
+Kitchens @ c:	4 0 2 3 0 0
+Topperwein @ lf:	3 0 0 3 1 1
+Ling @ 1b:	3 0 0 10 0 0
+McNulty @ p:	3 0 0 0 2 1
+TOTALS:		34 1 6 24 15 4
+
+note: discrepancy - box lists 34 total Monroe ABs, but player totals add up to 33
+note: discrepancy - box lists 4 total Monroe errors, but player totals add up to 5
+
+Jonesboro:	ab r h po a e
+Schlensker @ lf:	3 2 1 4 2 0
+Reiney @ 1b:	2 2 1 9 0 0
+Jolly @ cf:	4 1 2 1 0 0
+Welch @ 2b:	3 0 0 1 4 0
+Finger @ rf:	3 2 2 1 0 0
+Van @ ss:	4 0 1 1 2 1
+McDonald @ 3b:	3 0 0 1 0 0
+Henninger @ c:	4 1 1 9 1 0
+Kimbell @ p:	4 2 2 0 3 0
+TOTALS:		30 10 10 27 12 1
+
+line: Monroe: 0 0 0 1 0 0 0 0 0 - 1
+line: Jonesboro: 1 0 2 1 2 0 4 0 x - 10
+
+B_ER: Jonesboro #5; Monroe #1
+B_2B: Van; Kitchens; Hewitt
+B_SH: Schlensker #2; Reiney #2; Welch; McDonald
+B_SB: Pedrotti
+P_SO: Kimbell #9; McNulty #2
+P_BB: McNulty #2
+P_WP: McNulty
+T: 1:50
+U: Smith
+
+---
+
+date: 1909-05-28
+number: 0
+league: Arkansas State
+away: Texarkana
+home: Hot Springs
+source: Arkansas Gazette, May 29, 1909
+
+Texarkana:	ab r h po a e
+Poindexter @ lf:	5 1 1 1 0 0
+Earthman @ 2b:	3 2 1 2 3 1
+Fenner @ cf:	4 1 1 0 0 1
+Besse @ rf:	4 0 2 2 0 0
+Jutzi @ 1b:	4 0 1 15 1 0
+Dawkins @ 3b:	4 0 0 0 1 0
+Bankhead @ c:	3 0 0 5 1 1
+Pickens @ ss:	4 0 1 1 3 0
+Lingenfelder @ p:	4 0 0 1 5 0
+TOTALS:		35 4 7 27 14 3
+
+Hot Springs:	ab r h po a e
+Bromley @ cf:	5 0 0 1 0 0
+Coyle @ 1b:	5 1 2 7 1 0
+Smitheal @ ss:	3 1 2 2 0 0
+Russell @ lf:	4 0 1 3 0 0
+*Heigelfort @ ph:	1 0 0 0 0 0
+Ware @ 2b:	4 0 0 2 5 0
+Naylor @ c:	4 0 1 10 0 0
+Dehaven @ 3b:	2 1 1 0 1 1
+Murphy @ rf:	4 0 1 2 0 0
+Wright @ p:	3 0 0 0 2 0
+TOTALS:		35 3 8 27 9 1
+
+*: batted for Russell in 9th inning
+
+line: Texarkana: 2 0 0 0 2 0 0 0 0 - 4
+line: Hot Springs: 2 0 0 0 0 1 0 0 0 - 3
+
+B_2B: Poindexter; Besse
+B_3B: Jutzi; Smitheal
+B_SH: Smitheal; Pickens
+B_SB: Coyle; Smitheal #2; Russell; Dehaven #2; Murphy
+P_BB: Wright #2; Lingenfelder #3
+P_SO: Wright #9; Lingenfelder #4
+B_HP: Smitheal
+T: 2:00
+U: Crotty
+
+---
+
+date: 1909-05-29
+number: 0
+league: Arkansas State
+away: Fort Smith
+home: Argenta
+source: Arkansas Gazette, May 30, 1909
+
+Fort Smith:	ab r h po a e
+Wells @ lf:	4 0 3 1 0 1
+Dillon @ 3b:	4 0 0 0 0 0
+Taylor @ 1b:	4 0 1 9 0 0
+Vitter @ rf:	4 0 1 2 0 0
+Jeffries @ c:	4 0 1 2 3 0
+Maender @ cf:	4 0 0 2 0 0
+O'Hearn @ ss:	3 0 1 4 3 0
+Carroll @ 2b:	2 0 0 4 4 0
+Krutchen @ p:	2 0 0 0 4 1
+TOTALS:		31 0 7 24 14 2
+
+Argenta:	ab r h po a e
+Green @ rf:	4 0 1 2 0 0
+Browne @ lf:	4 0 2 3 0 0
+Leslie @ rf:	3 0 1 3 0 0
+Cowan @ 3b:	3 0 0 0 4 0
+Dorsch @ 2b:	3 0 0 2 2 0
+Humphries @ ss:	2 0 1 0 3 0
+Bockewitz @ 1b:	2 0 0 12 0 0
+Ritter @ c:	3 1 1 5 3 0
+Watt @ p:	3 0 1 0 2 0
+TOTALS:		27 1 7 27 14 0
+
+line: Fort Smith: 0 0 0 0 0 0 0 0 0 - 0
+line: Argenta: 0 1 0 0 0 0 0 0 x - 1
+
+B_2B: Vitter
+B_3B: Watt
+B_SH: Bockewitz; Krutchen
+B_SB: Green; Wells
+P_BB: Krutchen #3; Watt #1
+P_HP: Watt
+B_HP: Dillon
+F_DP: Krutchen, O'Hearn, Taylor; O'Hearn, Carroll, Taylor
+T: 1:20
+U: McDonald
+
+---
+
+date: 1909-05-29
+number: 0
+league: Arkansas State
+away: Alexandria
+home: Helena
+source: Arkansas Gazette, May 30, 1909
+
+Alexandria:	ab r h po a e
+Relf @ 2b:	5 0 0 3 1 0
+Gandolfi @ ss:	5 1 0 2 4 1
+Horn @ lf:	3 0 0 2 0 0
+Braun @ c:	3 1 0 6 1 0
+Chastant @ cf:	3 1 0 2 0 0
+Blanchette @ rf:	4 0 0 0 0 0
+Hoffman [Alx] @ 1b:	3 1 1 10 2 0
+Chelette @ p:	4 0 3 1 5 0
+Collins @ 3b:	4 0 1 1 1 0
+TOTALS:		34 4 5 27 14 1
+
+Helena:		ab r h po a e
+Webber @ 3b:	4 0 1 0 3 1
+Graves @ ss:	2 1 0 3 2 1
+Vandegrift @ 2b:	4 0 1 1 4 0
+Begley @ 1b:	4 0 0 13 0 1
+Hoffman [Hel] @ lf:	4 0 0 0 0 0
+Lannon @ cf:	4 0 1 1 0 0
+Benham @ rf:	4 0 1 0 0 0
+Berry @ c:	3 0 0 9 0 1
+Veasey @ p:	3 0 0 0 5 0
+TOTALS:		32 1 4 27 14 4
+
+line: Alexandria: 0 0 0 0 1 2 1 0 0 - 4
+line: Helena: 0 0 0 0 0 0 0 1 0 - 1
+
+B_2B: Benham; Chelette
+B_SH: Berry
+P_BB: Veasey #4; Chelette #2
+P_SO: Veasey #7; Chelette #5
+P_HP: Chelette
+B_HP: Graves
+B_ROE: Helena #1; Alexandria #2
+B_LOB: Helena #6; Alexandria #7
+T: 1:55
+U: Osborne
+
+---
+
+date: 1909-05-29
+number: 0
+league: Arkansas State
+away: Texarkana
+home: Hot Springs
+source: Arkansas Gazette, May 30, 1909
+
+note: game stopped after end of 11th inning to allow Texarkana club to catch train
+
+Texarkana:	ab r h po a e
+Poindexter @ lf:	5 1 2 3 1 0
+Earthman @ 2b:	6 1 3 4 3 0
+Fenner @ cf:	5 3 2 4 1 0
+Besse @ rf:	6 1 1 1 2 0
+Jutzi @ 1b:	6 0 1 9 1 1
+Dawkins @ 3b:	6 2 3 0 1 0
+Bankhead @ c:	6 1 3 9 1 0
+Pickens @ ss:	5 1 1 2 3 2
+Shaw @ p:	5 1 1 1 5 1
+TOTALS:		50 11 17 33 18 4
+
+Hot Springs:	ab r h po a e
+Bromley @ rf:	6 1 4 1 0 0
+Coyle @ 1b:	5 2 2 11 1 1
+Smitheal @ ss:	5 2 2 2 1 2
+Russell @ lf:	5 3 4 1 0 1
+Ware @ 2b:	3 1 1 2 4 1
+Naylor @ c:	6 0 3 11 2 0
+Dehaven @ 3b:	6 1 0 2 3 1
+Murphy @ cf:	5 0 2 1 1 0
+Lloyd @ p:	4 1 2 2 5 1
+Heigelfort @ p:	2 0 1 0 0 0
+TOTALS:		47 11 21 33 17 7
+
+line: Texarkana: 1 0 0 2 0 0 3 3 0 0 2 - 11
+line: Hot Springs: 0 1 2 2 1 0 2 0 1 0 2 - 11
+
+B_2B: Smitheal; Murphy; Earthman; Besse; Bankhead; Pickens
+B_3B: Fenner; Ware
+B_SH: Coyle; Ware #2; Murphy; Fenner
+B_SB: Coyle; Dehaven; Jutzi
+P_BB: Lloyd #1; Shaw #1
+P_SO: Lloyd #10; Shaw #5; Heigelfort #2
+P_HP: Shaw #3
+B_HP: Bromley; Smitheal; Russell
+F_PB: Naylor; Bankhead
+F_DP: Fenner, Pickens; Ware, Coyle
+T: 2:40
+U: Crotty
+
+---
+
+date: 1909-05-29
+number: 0
+league: Arkansas State
+away: Monroe
+home: Jonesboro
+source: Arkansas Gazette, May 30, 1909
+
+Monroe:		ab r h po a e
+Dobard @ 2b:	4 0 1 5 0 0
+Wing @ c-rf:	1 0 1 9 3 1
+Hewitt @ 3b:	4 0 0 2 4 2
+Pedrotti @ cf-p:	3 0 0 0 2 1
+Quick @ lf:	3 0 0 0 2 1
+Blanchfield @ rf:	3 0 0 3 0 0
+Kitchens @ 1b-c:	2 0 0 3 2 1
+Patton @ ss:	2 0 0 3 2 1
+Casey @ ss:	1 0 0 0 0 0
+Topperwein @ p:	3 0 1 0 0 1
+TOTALS:		29 0 3 24 13 7
+
+note: correction - box lists Pedrotti only in CF, but per summary, Pedrotti also pitched - the position assignment is corrected above
+note: discrepancy - box lists 29 total Monroe ABs, but player totals add up to 25 - it is likely that Wing (Ling) should be recorded with 4 ABs rather than 1, as Deardorf had no walks and just one HB, and Monroe had no SHs recorded
+note: discrepancy - box lists 24 total Monroe POs, but player totals add up to 25
+note: discrepancy - box lists 13 total Monroe assists and 7 total Monroe errors, but player totals add up to 15 and 8 respectively - Quick's fielding line duplicates Pedrotti's and it is more likely that Pedrotti had 2 assists (having moved to pitcher) than Quick in LF
+note: discrepancy - box lists only Pedrotti in CF, but another player (probably Blanchfield or Topperwein) had to go to CF when Pedrotti moved to the mound - if Blanchfield went to CF, then possibly Topperwein went to RF
+note: discrepancy - it is likely that Wing (Ling) did not go into RF when Kitchens moved to catcher - rathan, Wing (Ling) likely replaced Kitchens at 1B
+
+Jonesboro:	ab r h po a e
+Schlensker @ lf:	5 1 3 2 0 0
+Reiney @ 1b:	3 2 2 10 0 0
+Jolly @ cf:	3 2 3 0 0 0
+Welch @ 2b:	3 1 1 3 4 0
+Finger @ rf:	2 1 2 3 0 1
+Van @ ss:	5 1 0 0 1 0
+Henninger @ c:	3 2 2 8 0 0
+McDonald @ 3b:	4 2 1 0 2 0
+Kimbell @ rf:	1 0 0 0 0 0
+Deardorff @ p:	4 1 0 1 2 0
+TOTALS:		33 13 14 27 10 1
+
+note: discrepancy - box lists 10 total Jonesboro assists, but player totals add up to 9
+
+line: Monroe: 0 0 0 0 0 0 0 0 0 - 0
+line: Jonesboro: 0 0 3 0 7 0 3 0 x - 13
+
+B_ER: Jonesboro #6
+B_2B: Henninger
+B_SH: Reiney; Finger; Henninger; Deardorff
+B_SB: Jolly #3; Welch #2; Schlensker; Reiney
+P_SO: Deardorff #9; Topperwein #3; Pedrotti #1
+P_BB: Topperwein #2; Pedrotti #2
+B_LOB: Jonesboro #8; Monroe #2
+P_HP: Topperwein #1; Pedrotti #1; Deardorff #1
+B_HP: McDonald; Welch; Kitchens
+T: 2:15
+U: Smith
+
+---
+
+date: 1909-05-30
+number: 0
+league: Arkansas State
+site: Arkoma, OK
+away: Texarkana
+home: Fort Smith
+source: Arkansas Gazette, May 31, 1909
+
+note: addition - site of game not mentioned in recap or byline, but Sunday games would be played at the Arkoma ball park across the state line
+
+Texarkana:	ab r h po a e
+Poindexter @ rf:	4 0 0 0 0 0
+Earthman @ 2b:	4 0 0 2 3 1
+Fenner @ cf:	4 0 0 0 0 0
+Besse @ lf:	4 0 0 1 0 0
+Jutze @ 1b:	3 0 0 14 0 0
+Dawkins @ 3b:	3 0 0 0 4 0
+Gray @ c:	3 0 0 7 0 0
+Pickens @ ss:	3 0 1 0 1 0
+Jones @ p:	3 0 0 0 3 2
+TOTALS:		31 0 1 24 13 3
+
+note: discrepancy - box lists 13 total Texarkana assists, but player totals add up to 11
+
+Fort Smith:	ab r h po a e
+Wells @ lf:	4 1 0 1 0 0
+Dillon @ ss:	4 1 0 0 2 0
+Taylor @ 1b:	4 0 0 11 0 0
+Vitter @ rf:	3 0 1 0 0 0
+Jeffries @ c:	3 0 0 11 0 1
+Maender @ cf:	3 0 0 1 0 0
+O'Hern @ 3b:	3 0 2 0 5 0
+Carroll @ 2b:	3 0 1 2 2 0
+Ray @ p:	3 0 0 1 2 0
+TOTALS:		30 2 4 27 11 1
+
+line: Texarkana: 0 0 0 0 0 0 0 0 0 - 0
+line: Fort Smith: 0 0 0 2 0 0 0 0 x - 2
+
+B_SB: Poindexter; Jones; Vitter
+P_BB: Ray #2
+P_SO: Jones #6; Ray #11
+B_ROE: Fort Smith #2; Texarkana #1
+B_LOB: Fort Smith #4; Texarkana #3
+P_BK: Jones
+T: 1:35
+U: Smith
+
+---
+
+date: 1909-05-30
+number: 0
+league: Arkansas State
+away: Monroe
+home: Hot Springs
+source: Arkansas Gazette, May 31, 1909
+
+note: missing data - a few fans had gathered for the game during a break in the clouds, but a hard downpour drove everyone off - after the patrons had left, the rain receded enough to start the game - however no official scorer was named by the Hot Springs management and there were no newspaper men on-hand - so no official record of the game was generated
+note: game played in mud and drizzling rain
+
+Monroe:		r h e
+Quick @ p:	x x x
+TOTALS:		1 x x
+
+note: missing data - catcher's name for Monroe is obscured
+
+Hot Springs:	r h e
+Heigelfort @ p:	x x x
+Naylor @ c:	x x x
+TOTALS:		3 x x
+
