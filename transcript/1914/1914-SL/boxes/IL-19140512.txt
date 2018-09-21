@@ -1,0 +1,1175 @@
+date: 1914-05-12
+number: 0
+league: International
+away: Providence
+home: Montreal
+
+Providence:		ab r h po a e
+Platte @ rf:	5 0 2 0 0 0
+Shean @ 2b:		5 0 1 4 2 1 
+McIntyre @ lf:	4 0 0 4 0 0
+Bauman @ 3b:	4 0 0 1 1 0
+Tutwiler @ cf:	4 1 1 2 0 0
+Onslow, E. @ 1b:	4 0 0 9 2 0
+Fabrique @ ss:	3 2 2 1 4 0
+Onslow, J. @ c:		4 1 3 6 2 0 
+Bentley @ p:	3 1 2 0 1 0
+TOTALS:			36 5 11 27 12 1
+
+Montreal:		ab r h po a e
+Smith @ rf:		5 0 2 1 0 0
+Keller @ 3b:	4 0 1 1 5 0
+Whiteman @ cf:	2 1 1 3 0 0
+Kippert @ lf:	4 0 0 2 0 1
+Cunni'm @ 2b:	4 0 0 2 5 0
+Holstein @ 1b:	3 1 1 14 0 0
+Purtell @ ss:	2 1 0 2 2 1
+Malay @ ss:		2 0 0 0 0 0
+Madden @ c:		4 0 2 2 2 0
+Couchman @ p:	2 0 0 0 1 0
+Dale @ p:		0 0 0 0 0 0
+Mason @ p:		0 0 0 0 0 0
+*Deininger @ ph:	0 0 0 0 0 0
++Flynn @ ph:	1 1 1 0 0 0
+TOTALS:			33 4 8 27 15 0
+
+*: Batted for Couchman in 6th
++: Batted for Dale in 8th
+
+line: Providence: 0 2 0 0 0 1 1 0 1 - 5
+line: Montreal: 0 0 0 0 0 2 1 1 0 - 4
+
+B_2B: Bentley; Smith; Whiteman; Flynn
+B_SH: Bentley
+B_SB: J. Onslow; Whiteman
+B_LOB: Providence #5; Montreal #10
+P_BB: Bentley #9
+P_SO: Bentley #4; Couchman #1; Dale #1
+F_DP: Shean, J. Onslow, E. Onslow; Shean, E. Onslow
+B_ROE: Providence #1; Montreal #1
+P_HP: Mason #1; Bentley #1
+T: 1:50
+U: Halligan; Mullin
+
+---
+
+date: 1914-05-12
+number: 0
+league: International
+away: Newark
+home: Buffalo
+status: postponed
+
+---
+
+date: 1914-05-12
+number: 0
+league: International
+away: Jersey City
+home: Rochester
+status: postponed
+
+---
+
+date: 1914-05-12
+number: 0
+league: International
+away: Baltimore
+home: Toronto
+status: postponed
+
+---
+
+date: 1914-05-13
+number: 0
+league: International
+away: Providence
+home: Montreal
+
+Providence:		ab r h po a e
+Platte @ rf:	3 1 1 0 0 0
+Shean @ 2b:		4 1 2 4 3 0
+McIntyre @ lf:	5 2 2 1 0 0
+Bauman @ 3b:	5 2 2 2 3 0
+Tutwiler @ cf:	3 1 0 0 0 0
+Onslow, E. @ 1b:	4 0 2 8 1 0
+Fabrique @ ss:	5 0 0 3 4 1
+Kocher @ c:		4 0 0 8 1 0
+Mays @ p:		4 1 2 1 0 0
+TOTALS:			37 8 11 27 12 1
+
+Montreal:		ab r h po a e
+Smith, P. @ rf:		4 1 2 2 0 0
+Keller @ 3b:	4 0 0 0 1 0
+Whiteman @ cf:	4 0 1 1 0 0
+Kippert @ lf:	2 0 0 3 0 0
+Cunni'm @ 2b:	4 1 1 2 7 2
+Holstein @ 1b:	4 0 1 16 1 0
+Purtell @ ss:	3 0 0 1 1 0
+Smith, J. @ c:	3 0 1 2 1 0
+Dale @ p:		2 0 0 0 1 0
+Mattern @ p:	0 0 0 0 1 0
+Dowd @ p:		0 0 0 0 1 0
+*Deininger @ ph:	1 0 0 0 0 0
+TOTALS:			31 2 6 27 14 2
+
+*: Batted for Dale in 6th
+
+line: Providence: 3 0 0 0 0 1 3 0 1 - 8
+line: Montreal: 0 0 0 0 0 0 0 1 1 - 2
+
+B_2B: E. Onslow; P. Smith
+B_3B: Bauman
+B_HR: Bauman
+B_SH: Platte; Shean
+B_SF: Tutwiler
+B_LOB: Providence #6; Montreal #4
+P_BB: Mays #2; Dale #3
+P_SO: Mays #7; Dale #1; Mattern #2
+F_DP: E. Onslow, Shean
+B_ROE: Providence #2; Montreal #1
+P_H: Dale #9; Mattern #1; Dowd #1
+P_IP: Dale #6; Mattern #2; Dowd #1
+T: 1:35
+U: Halligan; Mullin
+
+---
+
+date: 1914-05-13
+number: 0
+league: International
+away: Newark
+home: Buffalo
+status: postponed
+status-reason: rain
+
+---
+
+date: 1914-05-13
+number: 0
+league: International
+away: Jersey City
+home: Rochester
+status: postponed
+status-reason: rain
+
+---
+
+date: 1914-05-13
+number: 0
+league: International
+away: Baltimore
+home: Toronto
+status: postponed
+status-reason: rain
+
+---
+
+date: 1914-05-14
+number: 1
+league: International
+away: Jersey City
+home: Rochester
+
+Rochester:		ab r h po a e
+McMillan @ ss:	3 2 0 3 0 0
+Spencer @ rf:	3 0 1 1 0 0
+Barrows @ cf:	4 2 1 6 0 0
+Priest @ 2b:	4 1 3 0 0 0
+Schultz @ 3b:	4 2 2 1 1 0
+Smith @ lf:		3 0 1 4 0 0
+Pipp @ 1b:		4 2 3 4 1 0
+Williams @ c:	4 0 1 8 1 0
+Hughes @ p:		4 0 0 0 2 0
+TOTALS:			33 9 12 27 5 0
+
+Jersey City:	ab r h po a e
+Eschen @ cf:	4 1 1 2 1 1
+Hulswitt @ 2b:	3 0 2 0 0 0
+Bues @ 3b:		4 0 1 3 0 0
+Strait @ rf:	3 0 0 3 0 0
+Fisher @ lf:	4 0 0 1 0 0
+Barry @ 1b:		4 0 0 8 1 0
+Murphy @ ss:	3 0 2 1 2 0
+Cotter @ c:		2 1 1 5 1 0
+Frill @ p:		2 0 0 0 0 0
+Shears @ p:		0 0 0 1 0 0
+*Pfyl @ ph:		1 0 0 0 0 0
+TOTALS:			30 2 7 24 8 1
+
+*: Batted for Frill in 8th
+
+line: Rochester: 1 0 2 1 0 2 3 0 x - 9
+line: Jersey City: 0 0 0 1 0 0 0 1 0 - 2
+
+B_2B: Cotter
+B_3B: Murphy; Schultz
+B_HR: Pipp
+B_SH: Smith
+B_SF: Strait
+B_SB: McMillan; Priest
+F_DP: Bues, Barry; Cotter, Barry; Pipp; Williams, McMillan
+B_ROE: Rochester #1
+P_BB: Hughes #2; Frill #3
+P_SO: Hughes #6; Frill #3; Shears #1
+B_LOB: Rochester #4; Jersey City #4
+P_WP: Frill
+U: Harrison; Finneran
+T: 1:37
+
+---
+
+date: 1914-05-14
+number: 2
+league: International
+away: Jersey City
+home: Rochester
+
+Rochester:		ab r h po a e
+McMillan @ ss:	4 1 2 4 4 0
+Spencer @ rf:	5 0 1 1 0 1
+Messen'r @ cf:	1 0 0 0 0 0
+Barrows @ cf:	3 1 1 0 0 0 
+Priest @ 2b:	4 1 1 2 2 0
+Schultz @ 3b:	3 0 1 0 0 0
+Smith @ lf:		4 1 1 1 0 0
+Pipp @ 1b:		4 1 1 13 2 1
+Williams @ c:	4 1 1 6 2 0
+Keefe @ p:		2 0 0 0 4 0
+*Walsh @ pr:	1 0 0 0 0 0
+TOTALS:			35 6 9 27 14 2
+
+Jersey City:	ab r h po a e
+Eschen @ cf:	5 1 1 1 1 0
+Hulswitt @ 2b:	5 1 4 2 3 0
+Kohler @ 2b:	0 0 0 0 0 0
+Bues @ 3b:		3 2 2 1 3 0
+Strait @ rf:	4 1 0 2 0 0
+Fisher @ lf:	5 2 1 2 0 0
+Pfyle @ 1b:		3 2 2 9 1 0
+Barry @ 1b:		1 0 0 6 0 0
+Murphy @ ss:	5 0 2 1 3 1
+Pearce @ c:		4 0 2 2 2 0
+Verbout @ p:	4 0 0 1 2 0
+TOTALS:			39 9 14 27 16 1
+
+*: Ran for Barrows in 8th
+
+line: Rochester: 0 0 0 0 2 1 0 1 2 - 6
+line: Jersey City: 0 0 2 0 0 0 0 3 4 - 9
+
+B_2B: Schultz; Barrows
+B_3B: Hulswitt
+B_SH: Bues
+B_SB: Bues #2; Fisher #2; Smith; McMillan #2
+B_ROE: Jersey City #1; Rochester #1
+P_BB: Keefe #3; Verbout #5
+P_SO: Keefe #5; Verbout #2
+B_LOB: Rochester #6; Jersey City #5
+P_BK: Keefe
+U: Finneran; Harrison
+T: 1:59
+
+---
+
+date: 1914-05-14
+number: 1
+league: International
+away: Newark
+home: Buffalo
+
+Buffalo:	ab r h po a e
+Gilholey @ cf:	3 2 2 3 0 0
+Vaughn @ 3b:	3 0 1 1 2 2
+Channell @ rf:	2 1 0 0 0 0
+Carlstrom @ 1b:	3 1 2 12 1 0
+Jackson @ lf:	3 0 0 1 0 0
+Roach @ ss:		2 0 0 2 4 0
+McCarthy @ 2b:	3 0 2 2 1 0
+Lalonge @ c:	3 0 0 5 1 0
+Fullenweider @ p:	4 0 0 1 5 1
+TOTALS:			26 4 7 27 14 3
+
+Newark:		ab r h po a e
+Mowe @ ss:		4 0 0 2 1 1
+Tooley @ 1b:	4 1 3 12 1 0
+Callahan @ rf:	3 0 1 0 0 0
+Meyers @ cf:	4 1 2 2 0 0
+Zim'n, W. @ lf:	3 1 0 3 0 0
+Zim'n, E. @ 3b:	3 0 0 0 3 0
+Getz @ 2b:		4 0 0 3 2 0
+Heckinger @ c:	3 0 0 2 2 0
+Holmquist @ p:	3 0 0 0 6 0
+TOTALS:			31 3 6 24 15 1
+
+line: Buffalo: 1 0 0 0 0 2 1 0 x - 4
+line: Newark: 0 0 1 1 0 0 0 1 0 - 3
+
+P_BB: Fullenweider #4; Holmquist #5
+P_SO: Fullenweider #5; Holmquist #1
+B_HR: Meyers
+B_2B: Tooley; Callahan; Carlstrom; McCarthy
+B_SF: Channell
+B_SH: McCarthy; Jackson; Vaughn
+B_ROE: Buffalo #1; Newark #1
+B_LOB: Buffalo #8; Newark #5
+F_DP: Vaughn, Carlstrom, McCarthy; Holmquist, Heckinger, Tooley; Fullenweider, Roach, Carlstrom
+P_HP: Holmquist #1
+P_WP: Fullenweider #1; Holmquist #1
+F_PB: Heckinger
+U: Carpenter; Nallon
+T: 1:42
+
+---
+
+date: 1914-05-14
+number: 2
+league: International
+away: Newark
+home: Buffalo
+
+Buffalo:	ab r h po a e
+Gilhooley @ cf:		3 0 0 3 0 0
+Vaughn @ 3b:		4 0 0 2 4 0
+Channell @ rf:		5 1 1 1 0 0
+Carlstrom @ 1b:		2 2 0 8 0 1
+Jackson @ lf:		4 1 1 2 0 0
+Roach @ ss:			4 0 4 2 5 0
+McCarthy @ 2b:		4 0 3 3 1 0
+Kritchell @ c:		2 0 0 6 3 0
+Brandom @ p:		3 0 1 0 3 0
+TOTALS:			31 4 10 27 16 1
+
+Newark:		ab r h po a e
+Mowe @ ss:		3 0 0 2 1 0
+Tooley @ 1b:	4 0 1 11 0 0
+Callahan @ rf:	3 0 1 0 0 0
+Meyers @ cf:	5 0 0 3 0 0
+Zim'n, W. @ lf:	4 0 1 0 0 0
+Zim'n, E. @ 3b:	4 0 0 1 2 1
+Getz @ 2b:		4 0 2 0 1 0
+Heckinger @ c:	2 2 0 7 1 0
+Curtis @ p:		1 0 1 0 4 0
+Schacht @ p:	1 1 1 0 0 0
+Bell @ p:		0 0 0 0 1 0
+*Collins @ ph:	1 0 1 0 0 0
++Witt'tter @ ph:	0 0 0 0 0 0
+TOTALS:			32 3 8 24 10 1
+
+*: Batted for Schacht in 7th
++: Batted for Bell in 9th
+
+line: Buffalo: 0 0 0 3 1 0 0 0 x - 4
+line: Newark: 0 0 0 0 2 0 1 0 0 - 3
+
+P_H: Curtis #6; Schacht #3; Bell #1
+P_IP: Curtis #3.1; Schacht #2.2; Bell #2
+P_BB: Brandom #7; Curtis #1; Schacht #3; Bell #1
+P_SO: Brandom #4; Curtis #1; Schacht #2; Bell #2
+B_2B: Curtis
+B_ROE: Buffalo #1; Newark #1
+B_SB: Kritchell #2; Carlstrom; McCarthy
+B_SH: Brandom; Kritchell; Gilhooley; Mowe
+B_LOB: Buffalo #11; Newark #10
+P_WP: Bell
+U: Carpenter; Nallin
+T: 2:00
+
+---
+
+date: 1914-05-14
+number: 0
+league: International
+away: Baltimore
+home: Toronto
+
+Toronto:		ab r h po a e
+Fitzpat'k @ 2b:	4 0 1 2 3 0
+O'Hara @ lf:	4 0 1 1 0 0
+Wilson @ cf:	5 0 0 5 0 0
+Jordan @ 1b:	5 1 2 6 0 1
+Snell @ c:		3 0 1 5 4 1
+McCarty @ c:	1 0 0 0 1 0
+Fisher @ ss:	4 1 1 1 1 0
+Pick @ 3b:		2 0 0 3 1 1
+Kroy @ rf:		3 0 1 4 1 0
+Hearne @ p:		1 0 0 0 0 0
+Johnson @ p:	1 0 0 0 0 0
+Graham @ p:		1 0 0 0 0 0
+*Sullivan @ ph:	0 0 0 0 0 0
+TOTALS:			34 2 7 27 11 3
+
+Baltimore:		ab r h po a e
+Twombly @ lf:	4 1 1 1 0 0 
+Dunn Jr, J. @ lf:	1 0 0 1 0 1
+Parent @ rf:	4 2 2 5 0 0
+Midkiff @ 3b:	4 2 2 2 0 0
+Cree @ cf:		5 2 1 1 0 0
+Derrick @ ss:	6 1 4 2 2 0
+Ball @ 2b:		5 1 2 4 3 0
+Gleichmann @ 1b:	5 2 4 8 0 0
+McAvoy @ c:		4 1 1 3 1 0
+Danforth @ p:	4 1 1 0 2 0
+TOTALS:			42 13 18 27 8 1
+
+*: Batted for Hearne in 4th
+
+line: Toronto: 0 1 0 0 1 0 0 0 0 - 2
+line: Baltimore: 0 1 2 3 3 0 0 4 0 - 13
+
+P_IP: Hearne #4; Johnson #3; Graham #2
+P_H: Hearne #8; Johnson #8; Graham #2
+P_BB: Danforth #6; Hearne #5; Johnson #3; Graham #1
+P_SO: Danforth #2; Hearne #3; Johnson #1
+F_PB: Snell #2; McAvoy
+B_SB: Midkiff; Cree; Derrick #2; Gleichmann #2; Parent
+B_SH: Pick; Parent
+P_BK: Graham
+F_DP: Derrick, Ball, Gleichmann
+B_LOB: Toronto #11; Baltimore #12
+T: 2:30
+U: Rorty; Hart
+
+---
+
+date: 1914-05-15
+number: 0
+league: International
+away: Baltimore
+home: Montreal
+
+Baltimore:	ab r h po a e
+Parent @ rf:	5 0 2 0 0 0
+Dunn, D. @ rf:	0 0 0 0 0 0
+Twombly @ lf:	5 0 3 1 0 0
+Midkiff @ 3b:	5 1 0 3 2 0
+Cree @ cf:		5 2 2 2 0 0
+Derrick @ ss:	5 1 1 2 5 1
+Ball @ 2b:		5 2 2 4 5 0
+Gleichman @ 1b:	5 1 3 10 0 0
+McAvoy @ c:		5 0 0 5 0 0
+Russell @ p:	4 2 1 0 0 0
+TOTALS:			44 9 14 27 12 1
+
+Montreal:		ab r h po a e
+Keller @ 3b:	5 0 0 2 3 1
+Whiteman @ cf:	5 0 0 3 0 0
+Kippert @ lf:	4 1 1 2 0 0
+Flynn @ 1b:		3 1 1 9 2 0
+Deininger @ rf:	4 0 1 0 0 1
+Cunni'm @ 2b:	3 0 0 3 0 1
+Purtell @ ss:	3 0 1 2 9 2
+Smith, J. @ c:	3 0 0 5 1 0
+Dowd @ p:		2 1 2 1 0 0
+Mattern @ p:	1 0 0 0 1 0
+Dale @ p:		0 0 0 0 0 0
+Smith, P. @ ph:	1 0 0 0 0 0
+TOTALS:			34 3 6 27 16 5
+
+*: Batted for Mattern in 8th
+
+line: Baltimore: 0 3 1 1 2 0 0 2 0 - 9
+line: Montreal: 0 0 1 0 1 0 0 0 1 - 3
+
+B_2B: Cree #2; Ball; Kippert
+B_3B: Deininger
+B_SB: Cree; Gleichman
+P_BB: Russell #8; Mattern #1
+P_SO: Russell #5; Dowd #1; Dale #1
+B_LOB: Baltimore #9; Montreal #9
+F_PB: J. Smith
+B_ROE: Baltimore #4; Montreal #1
+P_H: Dowd #11; Mattern #2; Dale #1
+P_IP: Dowd #5; Mattern #3; Dale #1
+T: 1:45
+U: Finneran; Harrison
+
+---
+
+date: 1914-05-15
+number: 0
+league: International
+away: Jersey City
+home: Buffalo
+
+Buffalo:	ab r h po a e
+Gilhooley @ cf:	4 2 2 2 0 0
+Vaughn @ 3b:	4 2 3 0 0 0
+Channell @ rf:	4 1 2 2 0 0
+Carlstrom @ 1b:	5 3 2 14 1 1
+Jackson @ lf:	4 2 4 1 0 0
+Roach @ ss:		4 1 1 1 6 2
+McCar'y @ 2b:	4 1 1 1 4 1
+Lalonge @ c:	3 1 1 4 1 0
+McConnell @ p:	3 0 0 2 6 0
+TOTALS:			35 13 16 27 18 4
+
+Jersey City:	ab r h po a e
+Eschen @ cf:	4 1 2 0 1 0
+Hulswitt @ 2b:	5 0 0 2 3 0
+Bues @ 3b:		5 1 1 0 3 0
+Strait @ rf:	4 1 0 1 1 0
+Fisher @ lf:	2 2 1 2 0 1
+Pfyl @ 1b:		2 0 0 15 0 0
+Murphy @ ss:	4 1 1 0 3 0
+Cotter @ c:		3 1 1 4 0 2
+Bruck @ p:		2 0 1 0 5 0
+Tuero @ p:		1 0 0 0 3 0
+*Barry @ ph:	1 0 0 0 0 0
+TOTALS:			33 7 7 24 19 3
+
+*: Batted for Bruck in 7th
+
+line: Buffalo: 3 0 0 0 4 1 3 2 x - 13
+line: Jersey City: 0 0 1 0 1 2 0 3 0 - 7
+
+P_H: Bruck #12; Tuero #4
+P_IP: Bruck #6; Tuero #2
+P_BB: McConnell #3; Tuero #2
+P_SO: McConnell #4; Bruck #1
+B_HR: Jackson; Murphy
+B_2B: Jackson #2; Roach; Eschen; Fisher; Bues
+B_SH: Channell; Fisher; Eschen; McConnell; Jackson; Vaughn
+B_ROE: Buffalo #1; Jersey City #3
+B_SB: Vaughn; Carlstrom
+B_SF: Pfyl; Lalonge
+B_LOB: Buffalo #5; Jersey City #4
+F_DP: McConnell, Roach, Carlstrom
+P_WP: McConnell
+F_PB: Cotter #2
+T: 1:45
+U: Hart; Rorty
+
+---
+
+date: 1914-05-15
+number: 0
+league: International
+away: Newark
+home: Toronto
+
+Newark:		ab r h po a e
+Mowe @ ss:	4 0 0 1 3 0
+Tooley @ 1b:	4 1 2 13 1 0
+Callahan @ rf:	4 1 2 1 0 0
+Meyers @ cf:	4 0 1 3 0 0
+Zim'n, W. @ lf:	4 0 0 1 1 1
+Zim'n, E. @ 3b:	4 0 0 1 1 2
+Getz @ 2b:		4 0 0 1 1 1
+O'Rourke @ c:	3 0 1 3 0 1
+Lee, Wyatt @ p:		0 0 0 0 1 0
+Enzmann @ p:	2 0 0 0 5 0
+*Earhardt @ pr:	0 0 0 0 0 0
++Wed'ater @ ph:	1 0 0 0 0 0
+^Smith @ ph:	1 0 0 0 0 0
+$Heckinger @ ph:	1 0 1 0 0 0
+TOTALS:			36 2 7 24 14 4
+
+Toronto:	ab r h po a e
+Fitzpatrick @ 2b:	4 1 0 4 4 0
+O'Hara @ lf:	3 2 3 1 0 0
+Wilson @ cf:	4 0 0 2 0 0
+Jordan @ 1b:	4 1 1 16 0 0
+Kelly @ c:		4 0 1 2 0 0
+Fisher @ ss:	3 0 0 1 6 4
+Pick @ 3b:		3 1 1 0 1 0
+Kroy @ rf:		2 0 0 1 0 0
+Rogge @ p:		2 1 0 0 4 0
+TOTALS:			29 6 6 27 15 4
+
+*: Ran for Wyatt Lee in 3rd
++: Batted for O'Rourke in 9th
+^: Batted for Enzmann in 9th
+$: Batted for Mowe in 9th
+
+line: Toronto: 1 3 0 0 2 0 0 0 x - 6
+line: Newark: 0 0 0 1 0 0 0 1 0 - 2
+
+B_HR: Callahan; Jordan
+B_3B: O'Hara
+B_2B: O'Hara
+P_BB: Rogge #1; Wyatt Lee #2; Enzmann #1
+B_SB: Getz
+F_DP: Fisher, Fitzpatrick, Jordan
+B_LOB: Toronto #3; Newark #9
+T: 1:40
+U: Mullin; Halligan
+
+---
+
+date: 1914-05-15
+number: 0
+league: International
+away: Providence
+home: Rochester
+
+Rochester:		ab r h po a e
+McMillan @ ss:	5 1 1 5 5 1
+Spencer @ rf:	4 1 0 3 0 0
+Barrows @ cf:	4 0 0 4 0 0
+Priest @ 2b:	6 0 1 2 1 0
+Schultz @ 3b:	5 1 2 2 2 0
+Smith @ lf:		6 0 1 1 0 0
+Pipp @ 1b:		4 0 3 12 1 1
+Williams @ c:	4 0 1 8 1 0
+Duchesnil @ p:	3 0 0 0 3 0
+*Meninger @ ph:	1 0 0 0 0 0
+Upham @ p:		1 0 0 2 2 0
+TOTALS:			43 3 9 39 15 2
+
+Providence:		ab r h po a e
+Platte @ rf:	7 0 0 2 0 0
+Shean @ 2b:		7 0 4 4 5 0
+McIntyre @ lf:	5 0 1 3 0 0
+Bauman @ 3b:	6 0 1 2 2 0
+Tutwiler @ cf:	5 1 2 2 0 0
+Onslow @ 1b:	6 1 2 13 0 0
+Fabrique @ ss:	3 1 1 2 1 0
+Kocher @ c:		6 0 3 11 2 1
+Comstock @ p:	3 0 0 0 5 0
++Mays @ ph:		1 1 1 0 0 0
+Bailey @ p:		0 0 0 0 0 0
+TOTALS:			49 4 15 39 15 1
+
+*: Batted for Duchesnil in 9th
++: Batted for Comstock in 13th
+
+line: Rochester: 2 0 0 0 0 0 0 0 1 0 0 0 0 - 3
+line: Providence: 0 1 0 0 0 1 0 1 0 0 0 0 1 - 4
+
+B_2B: Kocher
+B_3B: Kocher; Shean
+B_SH: Barrows; Fabrique #3; Comstock
+B_SF: Schultz
+B_SB: Pipp #2; McIntyre; Schultz; Onslow; McMillan #2; Spencer
+F_DP: Shean, Onslow; McMillan, Pipp; Upham, McMillan
+B_ROE: Providence
+P_BB: Duchesnil #3; Comstock #5
+P_HP: Duchesnil #1; Comstock #1
+P_SO: Duchesnil #5; Upham #3; Comstock #9; Bailey #1
+B_LOB: Providence #14; Rochester #9
+P_WP: Comstock #2
+T: 3:15
+U: Nallin; Carpenter
+
+---
+
+date: 1914-05-16
+number: 0
+league: International
+away: Providence
+home: Rochester
+
+Rochester:		ab r h po a e
+McMillan @ ss:		3 0 1 3 4 0
+Spencer @ rf:	2 0 0 0 0 0
+*Mcallister @ ph:	1 0 0 0 0 0
+Messenger @ rf:		1 0 0 1 0 0
+Barrows @ cf:		3 0 0 2 0 0
+Priest @ 2b:	4 0 0 2 6 0
+Schultz @ 3b:	4 0 0 1 2 1
+Smith @ lf:		4 0 1 2 0 0
+Pipp @ 1b:		3 0 0 12 0 0
+Williams @ c:	3 0 0 4 2 0
+Hoff @ p:		2 0 0 0 2 0
++Walsh @ ph:	0 0 0 0 0 0
+Meikle @ p:		0 0 0 0 0 0
+TOTALS:			30 0 2 27 16 1
+
+Providence:		ab r h po a e
+Platte @ rf:	4 0 1 0 0 0
+Shean @ 2b:		3 1 2 1 4 0
+McIntyre @ lf:	4 0 2 2 0 0
+Bauman @ 3b:	4 0 0 2 2 2
+Tutwiler @ cf:	4 1 1 4 0 0
+Owens @ 1b:		4 0 1 9 0 0
+Fabrique @ ss:	4 0 2 2 2 0
+Onslow, J. @ c:	4 1 1 7 1 0
+Bailey @ p:		3 0 0 0 1 0
+TOTALS:			34 3 10 27 10 2
+
+*: Batted for Spencer in 6th
++: Batted for Hoff in 8th
+
+line: Providence: 0 0 1 1 0 0 0 1 0 - 3
+line: Rochester: 0 0 0 0 0 0 0 0 0 - 0
+
+B_2B: Shean; Tutwiler
+B_SH: Bailey
+B_SB: Bauman
+F_DP: Priest, McMillan, Pipp
+P_BB: Hoff #1; Bailey #3
+B_ROE: Rochester #2; Providence #1
+P_SO: Hoff #3; Meikle #1; Bailey #6
+B_LOB: Rochester #5; Providence #7
+P_H: Hoff #9; Meikle #1
+P_IP: Hoff #8; Meikle #1
+P_R: Hoff #3; Meikle #0
+P_AB: Hoff #30; Meikle #4
+T: 1:17
+U: Carpenter; Nallin
+
+---
+
+date: 1914-05-16
+number: 0
+league: International
+away: Newark
+home: Toronto
+
+Toronto:	ab r h po a e
+Fitzpa'k @ 2b:	3 0 0 3 0 0
+Priest @ 2b:	2 1 1 0 1 0
+O'Hara @ lf:	5 1 3 3 0 0
+Wilson @ cf:	5 1 2 3 0 1
+Jordan @ 1b:	3 2 2 9 1 1
+Kelly @ c:		5 1 3 5 0 0
+Fisher @ ss:	4 0 1 0 4 0
+Pick @ 3b:		4 0 1 1 3 0
+Kroy @ rf:		4 0 1 2 1 0
+Gilbert @ p:	4 0 0 1 4 0
+TOTALS:		39 6 14 27 14 2
+
+Newark:		ab r h po a e
+Callahan @ rf:	4 1 1 3 0 0
+Mowe @ ss:		4 0 1 0 2 1
+Meyers @ cf:	5 1 2 1 0 0
+Tooley @ 1b:	3 1 0 7 2 0
+Zimmerman, W. @ lf:	3 0 0 2 0 0
+Zimmerman, Eddie @ 3b:	4 2 3 1 2 0
+Getz @ 2b:		3 0 1 3 4 1
+Heckinger @ c:	3 0 1 8 1 1 
+Smith, Sherrod @ p:	2 0 0 0 2 0
+Enzman @ p:		1 0 0 0 0 0
+TOTALS:			32 5 9 25 14 3
+
+outsatend: 1
+note: Writeup says Schacht succeeded Smith, but box has Enzman.
+
+line: Toronto: 0 0 0 2 2 0 0 0 2 - 6
+line: Newark: 0 0 1 0 0 3 0 1 0 - 5
+
+B_HR: Jordan
+B_3B: Eddie Zimmerman
+B_2B: Mowe; O'Hara
+P_BB: Gilbert #6; Sherrod Smith #1; Enzman #1
+P_SO: Gilbert #3; Sherrod Smith #3; Enzman #1
+P_WP: Enzman
+B_SB: Fisher; Meyers; Tooley; Mowe
+B_SH: W. Zimmerman
+B_SF: Getz
+F_PB: Kelly
+P_IP: Sherrod Smith #6.1; Enzman #2.2
+P_H: Sherrod Smith #11; Enzman #3
+P_R: Sherrod Smith #4; Enzman #2
+F_DP: Pick, Jordan
+T: 2:25
+U: Halligan; Mullen
+
+---
+
+date: 1914-05-16
+number: 0
+league: International
+away: Baltimore
+home: Montreal
+
+Montreal:	ab r h po a e
+Keller @ 3b:	3 2 0 2 2 0
+Whitman @ cf:	4 1 1 3 0 0
+Kippert @ lf:	4 1 2 0 0 0
+Flynn @ 1b:		4 0 1 11 1 1
+Deininger @ rf:	4 1 2 4 0 0
+Cunni'm @ 2b:	4 0 0 0 3 0
+Purtell @ ss:	4 0 3 2 3 0
+Smith @ c:		4 0 0 4 0 0
+Couchman @ p:	2 0 1 1 3 0
+TOTALS:			33 5 10 27 12 1
+
+Baltimore:		ab r h po a e
+Parent @ rf:	5 1 0 3 0 0
+Twombly @ lf:	4 0 0 2 1 0
+Midkiff @ 3b:	3 1 1 2 2 0
+Cree, Birdie @ cf:	4 0 3 1 0 0
+Derrick @ ss:	4 0 2 0 2 1
+Ball @ 2b:		4 0 0 1 3 1
+Gleich'n @ 1b:	2 0 0 10 1 0
+McAvoy @ c:		4 0 0 5 2 0
+Ruth @ p:		4 0 0 0 2 0
+TOTALS:			34 2 6 24 13 2
+
+line: Montreal: 2 0 0 0 2 0 0 1 x - 5
+line: Baltimore: 0 0 0 0 0 1 0 1 0 - 2
+
+B_2B: Kippert; Couchman
+B_SH: Couchman
+B_SB: Flynn; Derrick
+P_BB: Couchman #3; Ruth #3
+P_SO: Ruth #3; Couchman #4
+T: 1:40
+U: Finneran; Harrison
+
+---
+
+date: 1914-05-16
+number: 1
+league: International
+away: Jersey City
+home: Buffalo
+
+Buffalo:	ab r h po a e
+Gilhooley @ cf:	2 1 0 2 0 0
+Vaughn @ 3b:	4 0 1 0 1 0
+Channell @ rf:	4 1 3 2 0 0
+Carlstrom @ 1b:	3 1 1 9 0 0
+Jackson @ lf:	3 0 1 2 0 0
+Roach @ ss:		3 1 2 4 5 1
+McCar'y @ 2b:	3 0 1 5 1 0
+Stephens @ c:	3 0 0 3 3 0
+Bader @ p:		3 0 0 0 3 0
+TOTALS:		28 4 9 27 13 1
+
+Jersey City:	ab r h po a e
+Eschen @ cf:	3 0 0 0 0 0 
+Hulswitt @ 2b:	4 0 0 5 2 0
+Bues @ 3b:		4 0 0 2 4 1
+Strait @ rf:	3 0 0 2 0 0
+Fisher @ lf:	4 1 1 1 0 0
+Pfyl @ 1b:		3 0 0 9 1 0
+Murphy @ ss:	3 0 0 2 2 1
+Pearce @ c:		3 0 2 2 3 1
+Thompson, C. @ p:	2 0 1 0 3 0
+Taylor @ p:		0 0 0 1 0 1
+*Wells @ ph:	0 0 0 0 0 0
+TOTALS:			29 1 4 24 15 4
+
+*: Batted for C. Thompson in 8th
+
+line: Buffalo: 0 1 0 2 0 0 0 1 x - 4
+line: Jersey City: 0 0 0 0 1 0 0 0 0 - 1
+
+P_H: C. Thompson #8; Taylor #1
+P_R: C. Thompson #3; Taylor #1
+P_IP: C. Thompson #7; Taylor #1
+B_ER: Buffalo #2
+P_BB: Bader #2; C. Thompson #1; Taylor #1
+P_SO: Bader #3; C. Thompson #1; Taylor #1
+B_2B: Jackson; Roach; Channell #2
+B_SH: Jackson; Carlstrom; Eschen
+B_LOB: Buffalo #4; Jersey City #5
+F_DP: Bues, Hulswitt, Pfyl
+P_HP: Bader #1
+F_PB: Pearce
+T: 1:35
+U: Rorty; Hart
+
+---
+
+date: 1914-05-16
+number: 2
+league: International
+away: Jersey City
+home: Buffalo
+
+Buffalo:	ab r h po a e
+Gilhooley @ cf:		3 0 0 4 0 0
+Vaughn @ 3b:	4 0 0 0 2 0
+Channell @ rf:	2 0 0 2 1 1
+Carlst'm @ 1b:	4 0 0 10 0 0
+Wright @ lf:	3 1 1 0 0 0 
+Roach @ ss:		4 0 1 3 3 0
+McCar'y @ 2b:	4 1 2 4 2 0
+Kritchell @ c:	3 1 2 4 3 0
+Beebe @ p:		3 0 1 0 4 0
+TOTALS:			30 3 7 27 15 1
+
+Jersey City:	ab r h po a e
+Eschen @ cf:	4 0 0 4 0 0
+Hulswitt @ 2b:	4 0 2 2 2 0
+Bues @ 3b:		4 0 0 1 3 0
+Strait @ rf:	3 0 1 2 0 1
+Fisher @ lf:	3 0 1 1 0 0
+Pfyl @ 1b:		3 0 0 8 1 0
+Murphy @ ss:	3 1 1 1 5 3
+Pearce @ c:		2 1 1 4 1 1
+Thompson @ p:	0 0 0 1 0 0
+Taylor @ p:		2 0 0 0 0 0
+*Cooper @ pr:	0 0 0 0 0 0
+TOTALS:			28 2 6 24 12 5
+
+*: Ran for Hulswitt in 9th
+
+line: Buffalo: 0 3 0 0 0 0 0 0 x - 3
+line: Jersey City: 0 0 2 0 0 0 0 0 0 - 2
+
+P_H: Thompson #2; Taylor #5
+P_R: Thompson #2; Taylor #1
+P_IP: Thompson #1.1; Taylor #6.2
+P_BB: Beebe #1; Taylor #1; Thompson #3
+P_SO: Beebe #4; Taylor #2
+B_ER: Jersey City #2
+B_HR: Pearce
+B_SH: Beebe
+B_LOB: Jersey City #1; Buffalo #6
+F_DP: Murphy, Hulswitt, Pfyl
+T: 1:30
+U: Rorty; Hart
+
+---
+
+date: 1914-05-17
+number: 0
+league: International
+away: Baltimore
+home: Montreal
+
+Baltimore:	ab r h po a e
+Parent @ rf:	5 1 2 1 0 0
+Twombly @ lf:	3 2 1 1 0 0
+Dunn Jr., J. @ rf:	1 1 1 0 0 0
+Midkiff @ 3b:	3 3 3 1 2 0
+Cree @ cf:		4 2 3 1 0 0
+Derrick @ ss:	5 0 2 0 4 0
+Ball @ 2b:		4 0 0 2 3 0
+Gleichman @ 1b:	4 0 0 11 0 0
+McAvoy @ c:		3 0 0 10 0 0
+Cottrell @ p:	4 2 2 0 2 0
+TOTALS:			36 11 14 27 11 0
+
+Montreal:	ab r h po a e
+Keller @ 3b:	4 0 0 0 1 0
+Whiteman @ cf:	3 0 0 1 1 0
+Kippert @ lf:	3 1 1 6 1 0
+Flynn @ 1b:		4 1 1 7 1 0
+Deininger @ rf:	3 0 1 0 0 1
+Cunningham @ 2b:	3 0 0 1 1 0
+Purtell @ ss:	2 0 0 3 4 0
+Smith @ c:		3 0 0 8 2 1
+Dale @ p:		2 0 0 1 3 0
+Mattern @ p:	1 0 0 0 1 0
+TOTALS:			28 2 3 27 15 2
+
+line: Baltimore: 2 0 0 0 2 0 4 0 3 - 11
+line: Montreal: 0 0 0 2 0 0 0 0 0 - 2
+
+B_3B: Flynn
+B_2B: Cree; Midkiff; Parent
+B_SF: Ball
+B_SH: Midkiff; McAvoy; Cunningham
+F_DP: Derrick, Ball, Gleichman
+B_LOB: Baltimore #4; Montreal #4
+B_SB: Flynn
+P_H: Dale #10; Mattern #4
+P_IP: Dale #6.1; Mattern #2.2
+P_BB: Cottrell #5; Dale #3
+P_HP: Dale #3
+P_SO: Cottrell #9; Dale #4; Mattern #4
+T: 1:55
+U: Harrison; Finneran
+
+---
+
+date: 1914-05-18
+number: 0
+league: International
+away: Jersey City
+home: Buffalo
+
+Buffalo:	ab r h po a e
+Gilhooley @ cf:		4 2 3 4 1 0
+Vaughn @ 3b:	4 1 2 1 1 0
+Channell @ rf:	2 1 2 1 0 0
+Carlstrom @ 1b:	4 0 1 9 0 0
+Wright @ lf:	4 0 0 1 0 0
+Roach @ ss:		4 0 0 2 3 0
+McCarthy @ 2b:	4 0 1 5 4 0
+Lalonge @ c:	3 0 1 4 1 0
+Fullenweider @ p:	3 1 0 0 2 0
+TOTALS:			32 5 10 27 12 0
+
+Jersey City:	ab r h po a e
+Cooper @ rf:	3 0 1 1 0 0
+Hulswitt @ 2b:	4 0 0 1 2 0
+Bues @ 3b:		4 0 1 1 1 0
+Eschen @ cf:	3 1 0 4 1 0
+Fisher @ lf:	4 0 1 4 0 0
+Pfyl @ 1b:		4 1 2 8 0 0
+Murphy @ ss:	3 0 1 1 2 0
+Pearce @ c:		3 0 0 4 1 0
+Verbout @ p:	2 0 0 0 1 0
+TOTALS:			30 2 6 24 8 0
+
+line: Buffalo: 1 0 1 0 2 0 1 0 x - 5
+line: Jersey City: 0 0 0 0 2 0 0 0 0 - 2
+
+B_ER: Buffalo #4; Jersey City #0
+P_BB: Fullenweider #2; Verbout #1
+P_SO: Fullenweider #2; Verbout #3
+B_2B: Fisher; McCarthy; Gilhooley; Channell; Bues
+B_SF: Channell
+B_SB: Gilhooley; Vaughn; Channell; Eschen
+B_LOB: Buffalo #5; Jersey City #4
+F_DP: Roach, McCarthy, Carlstrom
+P_HP: Fullenweider #1
+U: Rorty; Hart
+T: 1:18
+
+---
+
+date: 1914-05-18
+number: 0
+league: International
+away: Providence
+home: Rochester
+
+Rochester:		ab r h po a e
+McMillan @ ss:	3 0 0 4 5 0
+Spencer @ rf:	3 1 1 0 0 0
+Walsh @ cf:		0 0 0 0 0 0
+Barrows @ cf:	4 0 1 1 0 0
+Priest @ 2b:	4 0 0 4 5 0
+Schultz @ 3b:	3 1 1 1 0 0 
+Smith @ lf:		4 0 2 0 0 0
+Pipp @ 1b:		3 0 1 14 2 1
+Williams @ c:	3 0 0 3 5 0
+Meikle @ p:		2 0 0 0 2 0
+*Messenger @ ph:	0 0 0 0 0 0
+Upham @ p:		0 0 0 0 1 0
+TOTALS:			29 2 6 27 20 1
+
+Providence:		ab r h po a e
+Platte @ rf:	4 0 1 1 0 0
+Shean @ 2b:		4 0 2 1 3 0
+McIntyre @ lf:	4 0 0 3 0 0
+Bauman @ 3b:	4 1 2 0 0 0
+Tutweiler @ cf:	2 2 2 4 0 0
+Onslow, E. @ 1b:	4 0 2 9 0 0
+Fabrique @ ss:	4 0 0 4 4 0
+Kocher @ c:		3 0 1 4 3 0
+Schulz @ p:		3 1 1 1 1 0
+TOTALS:			32 4 11 27 11 0
+
+*: Batted for Barrows in 7th
+
+line: Rochester: 0 0 0 0 2 0 0 0 0 - 2
+line: Providence: 0 0 1 1 0 0 1 0 1 - 4
+
+B_2B: Kocher; Smith; Barrows
+B_3B: Schultz
+B_HR: Spencer
+B_SH: Tutweiler #2
+B_SB: Messenger
+F_DP: Schulz, Fabrique
+B_ROE: Providence #1
+P_BB: Schulz #5
+P_SO: Schulz #3; Meikle #3
+B_LOB: Providence #3; Rochester #5
+U: Nallin; Carpenter
+T: 1:40
+
+---
+
+date: 1914-05-18
+number: 0
+league: International
+away: Baltimore
+home: Montreal
+
+Baltimore:		ab r h po a e
+Parent @ rf:	5 0 0 0 0 0
+Twombley @ lf:	3 1 1 1 0 0
+Capron @ lf:	2 0 0 2 0 0
+Midkiff @ 3b:	5 1 1 4 1 0
+Cree @ cf:		4 1 2 1 0 0
+Derrick @ ss:	4 2 2 2 5 2
+Ball @ 2b:		4 0 2 5 3 0
+Gleichmann @ 1b:	3 0 1 11 1 0
+McAvoy @ c:		4 0 2 1 4 0
+Danforth @ p:	3 0 0 0 2 1
+TOTALS:			37 5 11 27 16 3
+
+Montreal:		ab r h po a e
+Keller @ 3b:	4 1 1 1 0 0
+White'n @ cf:	4 1 1 1 0 0
+Kippert @ lf:	2 0 0 3 0 0
+Flynn @ 1b:		4 0 1 11 1 0
+Deininger @ rf:	4 0 0 1 0 0
+Cunni'm @ 2b:	4 1 2 1 4 0
+Purtell @ ss:	1 0 0 1 1 0
+Madden @ c:		3 1 1 7 0 1
+Mason @ p:		3 0 2 1 1 0
+*Halstein @ ph:	1 0 0 0 0 0
++Maley @ ph:	0 0 0 0 0 0
+^McGrayner @ pr:	0 0 0 0 0 0
+TOTALS:			30 4 8 27 7 1
+
+*: Batted for Purtell in 9th
++: Batted for Mason in 9th
+^: Ran for Madden in 9th
+
+line: Baltimore: 0 1 1 0 0 0 0 3 0 - 5
+line: Montreal: 0 2 0 0 2 0 0 0 0 - 4
+
+B_2B: Keller; Mason; McAvoy
+B_SH: Kippert; Purtell #2; Danforth
+P_BB: Danforth #5; Mason #2
+P_SO: Danforth #1; Mason #7
+B_LOB: Baltimore #7; Montreal #7
+F_DP: Derrick, Ball, Gleichmann
+B_ROE: Montreal #1
+U: Finneran; Harrison
+T: 1:45
+
+---
+
+date: 1914-05-18
+number: 0
+league: International
+away: Newark
+home: Toronto
+
+Newark:		ab r h po a e
+Tooley @ 1b:	3 2 1 11 1 0
+Mowe @ ss:		4 1 1 2 7 0
+Meyers @ cf:	4 1 0 6 0 0
+Callahan @ rf:	3 2 2 0 0 0
+Getz @ 3b:		4 1 1 2 4 0
+Zimmerman, W. @ lf:	4 0 1 1 0 0 
+Zimmerman, E. @ 3b:	3 1 1 0 1 0
+Heckinger @ c:	3 0 0 4 1 0
+Curtis @ p:		4 0 0 1 3 0
+TOTALS:			32 8 7 27 17 0
+
+Toronto:	ab r h po a e
+Priest @ 2b-ss:	5 1 2 3 3 2
+O'Hara @ lf:	3 1 1 0 0 0 
+Wilson @ cf-2b:	4 0 0 3 1 0
+Jordan @ 1b:	3 0 2 9 1 0
+Kelly @ c:		0 0 0 2 0 1
+Sullivan @ p:	2 0 0 1 3 1
+Fisher @ ss:	3 0 0 3 3 0
+Gilbert @ cf:	0 0 0 0 0 0
+Pick @ 3b:		4 0 0 1 0 0
+Kroy @ rf:		4 0 0 3 0 0
+Herbert @ p:	1 0 0 0 1 0
+Snell @ c:		1 0 0 2 1 0
+TOTALS:			30 2 5 27 13 4
+
+line: Toronto: 0 0 1 0 0 0 0 1 0 - 2
+line: Newark: 1 0 3 1 2 0 0 1 0 - 8
+
+B_HR: Callahan
+B_2B: Priest
+P_BB: Herbert #3; Curtis #5
+P_HP: Herbert #7; Curtis #1
+P_SO: Herbert #2; Curtis #1; Sullivan #1
+B_SB: Pick; Mowe; E. Zimmerman
+B_SH: E. Zimmerman; Mowe
+B_SF: Meyers; Heckinger
+P_IP: Herbert #5; Sullivan #4
+P_H: Herbert #3; Sullivan #4
+P_R: Herbert #7; Sullivan #1
+F_DP: Fisher, Priest, Jordan
+B_LOB: Toronto #8; Newark #3
+T: 1:50
+U: Mullin; Halligan
