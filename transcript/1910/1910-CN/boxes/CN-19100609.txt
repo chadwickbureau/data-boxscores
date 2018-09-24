@@ -1,0 +1,80 @@
+date: 1910-06-13
+number: 0
+league: Carolina Association
+away: Charlotte
+home: Greenville
+source: The Charlotte News Jun 14, 1910
+A: 800
+
+Charlotte:		ab r h po a e
+Humphrey @ rf:	3 0 1 2 0 0
+McHugh @ cf:	3 0 2 0 0 0
+Garman @ 1b:	3 0 0 10 1 0
+Cross @ 3b:		3 0 0 0 4 1
+Coutts @ lf:	2 0 0 1 0 0
+Dobard @ ss:	3 0 0 3 2 0
+Williams @ 2b:	4 0 0 3 2 0
+Taxis @ c:		3 0 1 2 1 1
+Brazille @ p:	3 1 1 2 1 0
+TOTALS:			27 1 5 27 10 2
+
+Greenville:			ab r h po a e
+Workman @ 3b:		4 1 2 1 0 0
+Noojin @ cf:		3 1 1 1 0 1
+Derrick,F. @ 1b:	4 1 1 6 0 0
+Derrick,C. @ ss:	4 1 1 5 2 0
+Ochs @ rf:			3 0 0 0 0 0
+Blackstone @ lf:	4 0 2 3 0 0
+Wingo @ c:			3 0 0 6 2 0
+Stouch @ 2b:		3 0 0 5 1 0
+McFarlin @ p:		2 0 0 4 0 0
+TOTALS:				30 4 7 27 5 1
+
+line: Charlotte: 0 0 1 0 0 0 0 0 0 - 1
+line: Greenville: 0 0 0 0 0 0 0 4 x - 4
+
+B_LOB: Charlotte #6; Greenville #4
+B_ROE: 
+B_ER: Charlotte #1; Greenville #1
+B_2B: 
+B_3B: Blackstone
+B_HR: 
+B_SB: 
+B_SH: Humphrey; Garman; Dobard
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: McFarlin #4; Brazille #3
+P_SO: McFarlin #4; Brazille #2
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: C. Derrick, Stouch, F. Derrick
+F_PB: 
+outsatend: 
+T: 1:40
+U: Mackay
+
+---
+
+date: 1910-06-13
+number: 0
+league: Carolina Association
+away: Anderson
+home: Greenville
+source: The Charlotte News Jun 14, 1910
+status: postponed
+status-reason: rain
+
+---
+
+date: 1910-06-13
+number: 0
+league: Carolina Association
+away: Spartanburg
+home: Winston-Salem
+source: The Charlotte News Jun 14, 1910
+status: postponed
+status-reason: rain
