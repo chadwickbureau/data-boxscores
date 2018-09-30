@@ -115,8 +115,13 @@ class Game(object):
         else:
             subskey = None
         if "," in name:
-            name_last, name_first = map(lambda x: x.strip(), name.split(","))
-            name = name_first + " " + name_last
+            try:
+                name_last, name_first = map(lambda x: x.strip(), name.split(","))
+                name = name_first + " " + name_last
+            except ValueError:
+                print "In file %s,\n   game %s" % (self.metadata['filename'], self)
+                print "  Wrong number of names in '%s'" % (name)
+                name_last, name_first = name, None
         else:
             name_last, name_first = name, None
 
