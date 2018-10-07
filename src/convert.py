@@ -13,16 +13,16 @@ def person_hash(source, row):
     and identifying elements of the person's record (season, name, club).
     """
     def hash_djb2(s):
-        hash = 5381
+        hashval = 5381
         for x in s:
-            hash = (( hash << 5) + hash) + ord(x)
-        return "P" + ("%d" % hash)[-7:]
+            hashval = ((hashval << 5) + hashval) + ord(x)
+        return "P" + ("%d" % hashval)[-7:]
     return hash_djb2(",".join([source,
                                row['league.year'], row['league.name'],
                                row['name.last'],
                                row['name.first'] if not pd.isnull(row['name.first']) else "",
                                row['club.name']]))
-  
+
 def game_hash(s):
     """Generate hash-based identifier for a game account based on the
     text of the game.
@@ -32,8 +32,7 @@ def game_hash(s):
         base = len(alphabet)
         if n < base:
             return alphabet[n]
-        else:
-            return int_to_base(n // base) + alphabet[n % base]
+        return int_to_base(n // base) + alphabet[n % base]
     return int_to_base(int(hashlib.sha1(s).hexdigest(), 16))[-7:]
 
 
@@ -44,55 +43,56 @@ class IdentificationWarning(BoxscoreParserWarning):
     """A warning class on unidentified name.
     """
     def __init__(self, fn, game, message):
-        UserWarning.__init__(self,
-                             "In file %s,\n   game %s\n  %s" % 
-                             (fn, game, message))
+        super(IdentificationWarning, self).__init__(
+                                       "In file %s,\n   game %s\n  %s" %
+                                       (fn, game, message))
+
 
 class MarkedIdentificationWarning(BoxscoreParserWarning):
     """A warning class on unidentified name which is explicitly marked.
     """
     def __init__(self, fn, game, message):
-        UserWarning.__init__(self,
-                             "In file %s,\n   game %s\n  %s" % 
+        super(MarkedIdentificationWarning, self).__init__(
+                             "In file %s,\n   game %s\n  %s" %
                              (fn, game, message))
 
-        
+
 class DuplicatedNameWarning(BoxscoreParserWarning):
     """A warning class for duplicated names.
     """
     def __init__(self, fn, game, message):
-        UserWarning.__init__(self,
-                             "In file %s,\n   game %s\n  %s" % 
+        super(DuplicatedNameWarning, self).__init__(
+                             "In file %s,\n   game %s\n  %s" %
                              (fn, game, message))
 
-        
+
 def _formatwarning(msg, category, *args, **kwargs):
     return str(msg) + '\n'
 warnings.formatwarning = _formatwarning
 
 
 class Game(object):
-    _subskeys = [ "*", "+", "^", "&", "$" ]
+    _subskeys = ["*", "+", "^", "&", "$"]
     # "DI" is used sporadically in Winnipeg paper in 1915 - assuming it is RBI
-    _categorymap = { "ab":   "B_AB",
-                     "r":    "B_R",
-                     "h":    "B_H",
-                     "po":   "F_PO",
-                     "a":    "F_A",
-                     "e":    "F_E",
-                     "di":   "B_RBI",
-                     "rbi":  "B_RBI" }
-    
+    _categorymap = {"ab":   "B_AB",
+                    "r":    "B_R",
+                    "h":    "B_H",
+                    "po":   "F_PO",
+                    "a":    "F_A",
+                    "e":    "F_E",
+                    "di":   "B_RBI",
+                    "rbi":  "B_RBI"}
+
     @property
-    def date(self):  return self.metadata.get("date")
+    def date(self): return self.metadata.get("date")
     @property
     def number(self): return self.metadata.get("number")
     @property
-    def phase(self):  return self.metadata.get("phase")
+    def phase(self): return self.metadata.get("phase")
     @property
-    def away(self):  return self.metadata.get("away")
+    def away(self): return self.metadata.get("away")
     @property
-    def home(self):  return self.metadata.get("home")
+    def home(self): return self.metadata.get("home")
 
     def __str__(self):
         return "%s[%s]: %s at %s" % (self.date, self.number,
@@ -114,7 +114,7 @@ class Game(object):
             slot = slot.replace("~", "")
             slot, seq = slot.split(".")
             # TODO: Save slot information
-                
+
         if name[0] in Game._subskeys:
             subskey = name[0]
             name = name[1:]
@@ -131,16 +131,16 @@ class Game(object):
         else:
             name_last, name_first = name, None
 
-        playing = { "name.full": name, "name.last": name_last,
-                    "name.first": name_first, "pos": pos,
-                    "club.name": clubname, "substitute": subskey }
+        playing = {"name.full": name, "name.last": name_last,
+                   "name.first": name_first, "pos": pos,
+                   "club.name": clubname, "substitute": subskey}
         stats = filter(lambda x: x.strip() != "", value.split())
         if len(stats) != len(columns):
             print "In file %s,\n   game %s" % (self.metadata['filename'], self)
             print "  Incorrect number of categories in '%s: %s'" % (key, value)
         else:
             for (s, c) in zip(stats, columns):
-                if s not in [ "X", "x" ]:
+                if s not in ["X", "x"]:
                     playing[c] = s
         return playing
 
@@ -164,9 +164,12 @@ class Game(object):
                 self.playing[name][key] = count
             except KeyError:
                 if is_marked:
-                    warnings.warn(MarkedIdentificationWarning(self.metadata['filename'],
-                                                        self,
-                                                        "No match on name '??%s' in '%s'" % (name, key)))
+                    warnings.warn(
+                        MarkedIdentificationWarning(
+                                    self.metadata['filename'],
+                                    self,
+                                    "No match on name '??%s' in '%s'" %
+                                         (name, key)))
                 else:
                     warnings.warn(IdentificationWarning(self.metadata['filename'],
                                                         self,
@@ -185,7 +188,7 @@ class Game(object):
             except KeyError:
                 print "In file %s,\n   game %s" % (self.metadata['filename'], self)
                 print "  No match on name '%s' in '%s'" % (name, key)
-                
+
     def _parse_dptp(self, key, value):
         for entry in map(lambda x: x.strip(), value.split(";")):
             if "#" in entry:
@@ -232,7 +235,7 @@ class Game(object):
             print "In file %s,\n   game %s" % (self.metadata['filename'], self)
             print "  Ill-formed linescore string '%s'" % value
             return
-        
+
         if club == self.away:
             prefix = "away.score"
         elif club == self.home:
@@ -246,17 +249,17 @@ class Game(object):
         self.metadata[prefix] = total
         for (inning, s) in enumerate(byinning.split()):
             self.metadata['%s.%d' % (prefix, inning+1)] = s
-        
+
     @classmethod
     def fromtext(cls, gametext, fn):
         """Parse the game input text format."
         """
         self = cls()
-        self.metadata = { "key": game_hash(gametext),
-                          "filename": fn,
-                          "phase": "regular" }
-        self.playing = { }
-        self.umpiring = [ ]
+        self.metadata = {"key": game_hash(gametext),
+                         "filename": fn,
+                         "phase": "regular"}
+        self.playing = {}
+        self.umpiring = []
 
         clubname = None
         columns = None
@@ -268,8 +271,7 @@ class Game(object):
                 print "In file %s,\n   game %s" % (self.metadata['filename'], self)
                 print "  Invalid key-value pair '%s'" % line
                 continue
-                
-                
+
             if clubname is not None:
                 playing = self._parse_playing_value(key, value, clubname, columns)
                 playing['game.key'] = self.metadata["key"]
@@ -293,12 +295,12 @@ class Game(object):
                     self.playing[clubname] = playing
                     clubname = None
 
-            elif key in [ self.away, self.home ]:
+            elif key in [self.away, self.home]:
                 clubname = key
                 seq = 1
                 columns = filter(lambda x: x.strip() != "", value.split())
                 try:
-                    columns = [ self._categorymap[c] for c in columns ]
+                    columns = [self._categorymap[c] for c in columns]
                 except KeyError:
                     print "In file %s,\n   game %s" % (self.metadata['filename'], self)
                     print "  Unrecognised category line '%s'" % (value)
@@ -317,15 +319,15 @@ class Game(object):
             elif key in ["home-batted"]:
                 pass
                 
-            elif key in [ "B_ER", "B_2B", "B_3B", "B_HR", "B_BB", "B_SO",
-                          "B_SH", "B_HP",
-                          "B_SH", "B_SF", "B_SB",
-                          "B_LOB", "B_ROE",
-                          "P_GS", "P_GF", "P_W", "P_L", "P_SV",
-                          "P_IP", "P_AB", "P_R", "P_ER", "P_H",
-                          "P_HP", "P_BB", "P_SO",
-                          "P_TBF", "P_WP", "P_BK",
-                          "F_SB", "F_PB" ]:
+            elif key in ["B_ER", "B_2B", "B_3B", "B_HR", "B_BB", "B_SO",
+                         "B_SH", "B_HP",
+                         "B_SH", "B_SF", "B_SB",
+                         "B_LOB", "B_ROE",
+                         "P_GS", "P_GF", "P_W", "P_L", "P_SV",
+                         "P_IP", "P_AB", "P_R", "P_ER", "P_H",
+                         "P_HP", "P_BB", "P_SO",
+                         "P_TBF", "P_WP", "P_BK",
+                         "F_SB", "F_PB"]:
                 if value != "":
                     self._parse_details(key, value)
 
@@ -333,14 +335,14 @@ class Game(object):
                 if value != "":
                     self._parse_details_XO(key, value)
 
-            elif key in [ "F_DP", "F_TP" ]:
+            elif key in ["F_DP", "F_TP"]:
                 if value != "":
                     self._parse_dptp(key, value)
-        
+
             elif key == "U":
                 self.umpiring = [self._parse_umpire(x)
                                  for x in map(lambda x: x.strip(),
-                                              value.split(";")) ]
+                                              value.split(";"))]
 
             elif key == "line":
                 self._process_linescore(value)
@@ -349,7 +351,7 @@ class Game(object):
                 # TODO: process pinch-hitting
                 pass
 
-            elif key in [ "note" ]:
+            elif key == "note":
                 # TODO: process notes
                 pass
 
@@ -369,10 +371,10 @@ def iterate_games(fn):
     """
     return iter(filter(lambda x: x.strip() != "",
                        ("\n".join(filter(lambda x: x != "",
-                                         [ ' '.join(x.strip().split()) for x in open(fn).readlines() ]))).split("---\n")))
+                                         [' '.join(x.strip().split()) for x in open(fn).readlines()]))).split("---\n")))
 
 def compile_playing(source, games, gamelist):
-    df = pd.concat([ pd.DataFrame(g.playing.values()) for g in gamelist ],
+    df = pd.concat([pd.DataFrame(g.playing.values()) for g in gamelist],
                    ignore_index=True)
     df = pd.merge(df, games[['key', 'league']],
                   left_on='game.key', right_on='key')
@@ -382,7 +384,7 @@ def compile_playing(source, games, gamelist):
     df['league.year'] = df['game.date'].str.split("-").str[0]
     del df['key']
     del df['league']
-    df['ref'] = df.loc[df['name.last']!='TOTALS'].apply(lambda x: person_hash(source, x), axis=1)
+    df['ref'] = df.loc[df['name.last'] != 'TOTALS'].apply(lambda x: person_hash(source, x), axis=1)
     columns = ['game.key', 'league.year', 'league.name',
                'game.date', 'game.number', 'game.phase',
                'ref', 'name.last', 'name.first', 'club.name',
@@ -393,7 +395,7 @@ def compile_playing(source, games, gamelist):
                'P_GS', 'P_GF', 'P_W', 'P_L', 'P_SV',
                'P_IP', 'P_TBF', 'P_AB', 'P_R', 'P_ER', 'P_H', 
                'P_BB', 'P_SO', 'P_HP', 'P_WP', 'P_BK',
-               'F_PO', 'F_A', 'F_E', 'F_DP', 'F_TP', 'F_PB', 'F_SB' ]
+               'F_PO', 'F_A', 'F_E', 'F_DP', 'F_TP', 'F_PB', 'F_SB']
     for col in columns:
         if col not in df:
             df[col] = None
@@ -401,8 +403,8 @@ def compile_playing(source, games, gamelist):
         if col not in columns:
             print "WARNING: unexpected column %s in playing" % col
 
-    df.sort_values([ 'game.date', 'game.number', 'game.key',
-                     'club.name', 'seq' ], inplace=True)
+    df.sort_values(['game.date', 'game.number', 'game.key',
+                    'club.name', 'seq'], inplace=True)
     try:
         os.makedirs("data/boxscores/processed/%s" % source)
     except os.error:
@@ -412,18 +414,18 @@ def compile_playing(source, games, gamelist):
     return df
 
 def compile_games(source, gamelist):
-    df = pd.DataFrame([ g.metadata for g in gamelist ])
-    df.sort_values([ 'date', 'league', 'home', 'number' ], inplace=True)
+    df = pd.DataFrame([g.metadata for g in gamelist])
+    df.sort_values(['date', 'league', 'home', 'number'], inplace=True)
     df.rename(inplace=True,
-              columns={ "away-manager": "away.manager",
-                        "home-manager": "home.manager",
-                        "status-reason": "status.reason",
-                        "forfeit-to": "forfeit.to" })
-    columns = [ 'key', 'date', 'number', 'league', 'phase', 'site',
-                'away', 'away.score', 'away.manager',
-                'home', 'home.score', 'home.manager',
-                'A', 'T', 'forfeit.to',
-                'status', 'status.reason', 'outsatend', 'filename', 'source' ]
+              columns={"away-manager": "away.manager",
+                       "home-manager": "home.manager",
+                       "status-reason": "status.reason",
+                       "forfeit-to": "forfeit.to"})
+    columns = ['key', 'date', 'number', 'league', 'phase', 'site',
+               'away', 'away.score', 'away.manager',
+               'home', 'home.score', 'home.manager',
+               'A', 'T', 'forfeit.to',
+               'status', 'status.reason', 'outsatend', 'filename', 'source']
     for inning in xrange(100):
         if ('away.score.%d' % inning) in df.columns:
             columns.append('away.score.%d' % inning)
@@ -442,9 +444,9 @@ def compile_games(source, gamelist):
     return df
 
 def compile_umpiring(source, games, gamelist):
-    df = pd.concat([ pd.DataFrame(g.umpiring) for g in gamelist ],
+    df = pd.concat([pd.DataFrame(g.umpiring) for g in gamelist],
                    ignore_index=True)
-    df = pd.merge(df, games[[ 'key', 'league' ]],
+    df = pd.merge(df, games[['key', 'league']],
                   left_on='game.key', right_on='key')
     df['league.name'] = df['league'].apply(lambda x: x + " League" if "League" not in x and "Association" not in x else x)
     df['league.year'] = df['game.date'].str.split("-").str[0]
@@ -468,7 +470,7 @@ def compile_players(source, playing):
                         playing['F_RF_G']
     playing['P_G'] = playing['F_P_G']
     playing['name.first'] = playing['name.first'].fillna("")
-    playing = playing[playing['name.last']!="TOTALS"]
+    playing = playing[playing['name.last'] != "TOTALS"]
     grouper = playing.groupby(['league.year', 'league.name', 'game.phase',
                                'name.last', 'name.first', 'club.name', 'ref'])
     df = grouper.sum()
@@ -529,8 +531,8 @@ def compile_umpires(source, umpiring):
 def process_files(source):
     fnlist = [fn for fn in glob.glob("data/boxscores/transcript/%s/*.txt" % source)
               if "README.txt" not in fn]
-    gamelist = [ Game.fromtext(g, fn)
-                 for fn in fnlist for g in iterate_games(fn) ]
+    gamelist = [Game.fromtext(g, fn)
+                for fn in fnlist for g in iterate_games(fn)]
     games = compile_games(source, gamelist)
     playing = compile_playing(source, games, gamelist)
     umpiring = compile_umpiring(source, games, gamelist)
@@ -558,16 +560,13 @@ def main():
         warnings.simplefilter('default', DuplicatedNameWarning)
     if args.warn_marked:
         warnings.simplefilter('always', MarkedIdentificationWarning)
-        
+
     try:
         process_files(args.source)
-    except DuplicatedNameWarning as e:
-        print clr.Fore.RED + str(e) + clr.Fore.RESET
+    except DuplicatedNameWarning as exc:
+        print clr.Fore.RED + str(exc) + clr.Fore.RESET
         sys.exit(1)
 
-    
+
 if __name__ == '__main__':
     main()
-        
-    
-    
