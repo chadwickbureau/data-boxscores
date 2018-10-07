@@ -1,0 +1,1390 @@
+date: 1909-05-31
+number: 1
+league: Southern Association
+away: Memphis
+home: Nashville
+source: Arkansas Gazette, June 1, 1909
+status: unknown
+status-reason: unknown
+note: per May 31 Arkansas Gazette, a doubleheader was scheduled for June 1 - however, the June 1 Arkansas Gazette has no mention of a rainout of one of the games
+
+---
+
+date: 1909-05-31
+number: 2
+league: Southern Association
+away: Memphis
+home: Nashville
+source: Arkansas Gazette, June 1, 1909
+
+Memphis:	ab r h po a e
+Wheeler @ 3b:	4 0 0 2 1 0
+Baerwald @ rf:	4 0 2 1 1 0
+Cranston @ 2b:	3 0 0 2 2 0
+Coulson @ lf:	3 0 0 2 0 0
+Wagner @ cf:	3 0 0 4 0 0
+Morris @ ss:	4 0 1 0 5 0
+Carey @ 1b:	3 0 0 10 0 1
+O'Leary @ c:	3 0 1 3 0 0
+Keiber @ p:	1 0 0 0 4 0
+TOTALS:		28 0 4 24 13 1
+
+Nashville:	ab r h po a e
+Kellum @ lf:	4 0 1 0 0 0
+Wiseman @ rf:	3 0 1 3 0 0
+East @ 2b:	3 0 0 1 3 0
+Robertson @ 1b:	3 0 2 16 0 0
+Seigel @ cf:	3 0 0 2 0 0
+Butler @ ss:	3 1 1 2 5 0
+Noyes @ 3b:	4 0 2 0 2 0
+Seabaugh @ c:	3 0 0 2 1 0
+Case @ p:	3 0 0 1 4 0
+TOTALS:		29 1 7 27 15 0
+
+line: Memphis: 0 0 0 0 0 0 0 0 0 - 0
+line: Nashville: 0 0 0 1 0 0 0 0 x - 1
+
+P_SO: Case #2; Keiber #2
+P_BB: Keiber #2
+B_SH: Seigel; Wiseman
+B_2B: Noyes
+F_DP: Case, Robertson
+T: 1:25
+U: Rudderham
+
+---
+
+date: 1909-05-31
+number: 1
+league: Southern Association
+away: New Orleans
+home: Montgomery
+source: Arkansas Gazette, June 1, 1909
+status: postponed
+status-reason: wet grounds
+note: this was the morning game of a scheduled double-header
+
+---
+
+date: 1909-05-31
+number: 2
+league: Southern Association
+away: New Orleans
+home: Montgomery
+source: Arkansas Gazette, June 1, 1909
+
+New Orleans:	ab r h po a e
+Reagan @ cf:	4 1 0 0 1 0
+Rohe @ 3b:	4 0 2 2 1 2
+Weimer @ rf:	4 0 2 0 0 0
+Huelsman @ lf:	4 0 0 0 0 0
+Dexter @ 1b:	4 0 0 9 1 1
+Demont @ 2b:	2 0 0 3 4 0
+Matthews @ c:	3 1 0 8 2 1
+Lindsay @ ss:	1 0 0 1 3 2
+Hess @ p:	2 1 1 1 1 0
+TOTALS:		28 3 5 24 13 6
+
+Montgomery:	ab r h po a e
+Daley @ cf:	5 1 1 0 0 0
+Kerwin @ rf:	4 0 2 1 1 0
+Whiteman @ 3b:	3 0 0 1 3 0
+Rockenfield @ 2b:	4 0 2 3 3 0
+Persons @ lf:	4 1 1 0 0 0
+Greminger @ 1b:	4 1 1 10 1 0
+Osteen @ ss:	3 0 0 3 2 2
+Hart @ c:	3 1 0 8 2 0
+Lively @ p:	3 1 1 1 4 0
+TOTALS:		33 5 8 27 15 2
+
+note: discrepancy - box lists 15 total Montgomery assists, but player totals add up to 16
+
+line: New Orleans: 0 0 2 0 0 0 0 1 0 - 3
+line: Montgomery: 0 0 2 0 0 3 0 0 x - 5
+
+F_DP: Hart, Rockenfield; Whiteman, Rockenfield, Greminger
+P_BB: Hess #3; Lively #2
+P_SO: Hess #8; Lively #5
+B_HP: Matthews; Demont; Osteen
+P_WP: Hess
+B_SB: Daley
+B_SH: Lindsay; Demont
+T: 2:00
+U: Pfeninger; O'Brien
+
+---
+
+date: 1909-05-31
+number: 1
+league: Southern Association
+away: Mobile
+home: Atlanta
+source: Arkansas Gazette, June 1, 1909
+
+note: ejection - Smith of Atlanta (assuming player Smith) was ejected in unknown inning by Moran - Smith was not in the lineup
+
+Mobile:		ab r h po a e
+Wheat @ lf:	4 1 2 0 0 0
+Sentell @ ss:	3 2 2 5 0 1
+Rhoton @ 2b:	3 0 1 1 6 0
+Thornton @ cf:	3 0 0 4 0 0
+Sabrie @ 1b:	3 0 1 12 4 0
+Neighbors @ rf:	4 1 0 0 0 0
+Benson @ 3b:	4 0 0 2 4 1
+Ludwig @ c:	4 0 0 1 1 0
+Hickman @ p:	3 0 1 2 3 1
+TOTALS:		31 4 7 27 18 3
+
+Atlanta:	ab r h po a e
+Bayless @ cf:	3 0 0 2 1 0
+Newton @ ss:	4 0 1 2 1 0
+Winters @ rf:	4 0 0 1 0 0
+Moran @ lf:	1 1 1 1 0 0
+Rohn @ 1b:	3 0 1 9 0 0
+Jordan @ 2b:	3 0 0 5 3 0
+McMurray @ c:	4 0 0 5 0 0
+Walker @ 3b:	4 0 1 2 5 0
+Atkins @ p:	3 0 0 0 2 0
+TOTALS:		29 1 4 27 12 0
+
+line: Mobile: 0 1 0 0 0 0 0 0 0 - 1
+line: Atlanta: 1 0 0 0 0 3 0 0 0 - 4
+
+B_SH: Thornton; Rhoton
+B_SB: Neighbors; Moran
+F_DP: Jordan, Newton, Rohn; Benson, Sabrie
+B_HP: Moran; Sentell
+P_WP: Hickman
+P_SO: Atkins #4
+P_BB: Hickman #6; Atkins #1
+T: 2:00
+U: Carpenter; Moran
+
+---
+
+date: 1909-05-31
+number: 2
+league: Southern Association
+away: Mobile
+home: Atlanta
+source: Arkansas Gazette, June 1, 1909
+
+note: Smith left game in 2nd inning after spraining his back while running to 1st base
+note: game called after 6 1/2 innings on account of darkness
+
+Mobile:		ab r h po a e
+Wheat @ lf:	3 1 1 2 0 0
+Sentell @ ss:	4 1 2 3 2 1
+Rhoton @ 2b:	3 1 1 1 2 0
+Thornton @ cf:	3 1 1 3 2 0
+Sabrie @ 1b:	2 1 1 6 2 0
+Neighbors @ rf:	2 0 0 1 0 0
+Benson @ 3b:	3 0 0 0 0 1
+Hardy @ c:	2 0 0 1 3 0
+Bittrolff @ p:	1 0 0 0 1 0
+Hixon @ p:	1 0 0 1 0 0
+TOTALS:		24 5 6 18 12 2
+
+Atlanta:	ab r h po a e
+Bayless @ cf:	2 1 2 2 0 0
+Newton @ ss:	2 0 0 2 4 0
+Winters @ rf:	3 0 0 0 1 0
+Smith @ c:	1 0 1 0 0 0
+McMurray @ c:	2 0 0 1 0 0
+Moran @ lf:	3 1 1 3 0 0
+Rohn @ 1b:	2 1 1 7 1 0
+Jordan @ 2b:	3 1 2 3 3 0
+Walker @ 3b:	2 2 1 3 0 1
+Rogers @ p:	1 1 0 0 1 0
+Fisher @ p:	0 0 0 0 1 0
+TOTALS:		21 7 8 21 11 1
+
+line: Mobile: 0 0 0 0 0 5 0 - 5
+line: Atlanta: 1 1 0 0 5 0 x - 7
+
+P_IP: Rogers #5.1; Fisher #1.2; Bittrolff #5.0; Hixon #1.0
+P_SO: Fisher #1
+P_BB: Bittrolff #5; Hixon #1; Rogers #1
+P_HP: Rogers #2; Hixon #1; Bittrolff #1
+P_WP: Rogers
+B_3B: Bayless; Moran
+T: 1:30
+U: Moran; Carpenter
+
+P_GS: ~Rogers; ~Bittrolff
+P_GF: ~Fisher; ~Hixon
+P_W: ~Rogers
+P_L: ~Bittrolff
+
+---
+
+date: 1909-05-31
+number: 1
+league: Southern Association
+away: Little Rock
+home: Birmingham
+source: Arkansas Gazette, June 1, 1909
+
+Little Rock:	ab r h po a e
+Cocash @ rf:	4 1 1 0 0 0
+Flood @ 2b:	3 1 1 5 5 1
+Perry @ 3b:	3 0 0 1 7 0
+Sentz @ cf:	4 0 0 2 0 0
+Casey @ c:	4 0 0 7 1 0
+Collins @ lf:	4 0 1 0 0 0
+Boucher @ ss:	4 0 0 2 1 0
+Tarleton @ 1b:	4 0 1 10 0 0
+Folbre @ p:	1 0 0 0 1 1
+Compton @ p:	1 0 0 0 2 0
+TOTALS:		32 2 4 27 17 2
+
+Birmingham:	ab r h po a e
+Molesworth @ cf:	4 0 1 3 1 0
+Ellam @ ss:	4 0 1 1 0 0
+McGilvray @ rf:	3 1 2 0 0 0
+Raftis @ 3b:	3 0 0 1 1 2
+Gygli @ 1b:	4 0 1 12 1 0
+Henline @ lf:	3 0 0 3 0 0
+Kane @ c:	4 0 0 5 1 0
+Bowen @ 2b:	2 0 1 2 4 2
+Dickson @ p:	2 0 0 0 3 0
+*Raub @ ph:	1 0 1 0 0 0
+TOTALS:		30 1 7 27 11 4
+
+*: batted for Dickson in 9th inning
+
+line: Little Rock: 0 0 0 0 0 2 0 0 0 - 2
+line: Birmingham: 0 0 0 0 0 1 0 0 0 - 1
+
+B_SH: Perry; Folbre; Molesworth; Ellam; McGilvray; Dickson
+B_SB: Kane
+F_DP: Molesworth, Kane
+P_SO: Dickson #4; Folbre #3; Compton #4
+P_BB: Folbre #3
+P_HP: Dickson; Folbre; Compton
+note: correction - summary records 2 HBP by Folbre, Raftis and Bowen - per detailed recap for the 6th inning, Compton was the pitcher who hit Bowen - therefore this is corrected above
+B_HP: Flood; Raftis; Bowen
+P_H: Folbre #5; Compton #2
+P_IP: Folbre #5.0; Compton #4.0
+note: addition - P_IP not recorded in summary, but taken from recap - Folbre faced 3 batters in the 6th inning
+T: 1:55
+U: Fitzsimmons
+
+P_GS: ~Folbre
+P_GF: ~Compton
+P_W: ~Compton
+
+---
+
+date: 1909-05-31
+number: 2
+league: Southern Association
+away: Little Rock
+home: Birmingham
+source: Arkansas Gazette, June 1, 1909
+
+Little Rock:	ab r h po a e
+Cocash @ rf-2b:	4 0 2 0 0 0
+Flood @ 2b:	2 0 1 0 0 0
+Flournoy @ rf:	2 0 0 1 2 0
+Perry @ 3b:	4 0 0 1 2 0
+Sentz @ cf:	4 1 2 1 0 1
+Casey @ c:	4 0 0 7 1 0
+Collins @ lf:	4 0 0 1 0 0
+Boucher @ ss:	3 0 0 2 4 0
+Tarleton @ 1b:	3 0 0 11 0 1
+Fullenwider @ p:	3 0 0 0 2 2
+TOTALS:		33 1 5 24 11 4
+
+note: correction - box lists Cocash only in RF - per recap, Cocash took 2B position when Flood left the game, so this is corrected ablve
+
+Birmingham:	ab r h po a e
+Molesworth @ cf:	3 1 0 2 0 0
+Ellam @ ss:	4 1 1 1 3 0
+McGilvray @ rf:	4 0 2 4 0 0
+Raftis @ 3b:	4 0 0 4 3 1
+Gygli @ 1b:	4 2 2 9 0 0
+Henline @ lf:	3 0 0 2 0 0
+Raub @ c:	3 0 1 3 0 0
+Bowen @ 2b:	3 0 1 2 1 1
+Fleharty @ p:	3 1 0 0 2 0
+TOTALS:		31 5 7 27 9 2
+
+line: Little Rock: 0 0 0 0 0 1 0 0 0 - 1
+line: Birmingham: 0 0 3 1 0 1 0 0 x - 5
+
+B_2B: Ellam; McGilvray; Gygli
+B_SB: Boucher
+P_SO: Fleharty #3; Fullenwider #7
+P_BB: Fleharty #1; Fullenwider #1
+F_DP: Raftis, Gygli
+T: 2:00
+U: Fitzsimmons
+
+---
+
+date: 1909-06-01
+number: 0
+league: Southern Association
+away: Memphis
+home: Atlanta
+source: Arkansas Gazette, June 2, 1909
+
+Memphis:	ab r h po a e
+Wheeler @ 3b:	4 0 0 1 1 0
+Baerwald @ rf:	4 0 1 2 1 0
+Cranston @ 2b:	1 0 1 1 2 0
+Babb @ ss:	4 0 0 1 4 1
+Coulson @ lf:	1 0 0 1 1 0
+O'Leary @ cf:	1 0 0 0 0 0
+Wagner @ cf:	3 0 1 3 0 0
+Carey @ 1b:	3 0 0 10 2 0
+Hurlburt @ c:	3 0 0 4 0 0
+Dick @ p:	3 0 0 1 1 1
+TOTALS:		27 0 3 24 12 2
+
+note: discrepancy - box records O'Leary as playing CF, but no replacement LF is recorded after Coulson left game - it is likely that O'Leary went to LF instead
+
+Atlanta:	ab r h po a e
+Bayless @ cf:	3 1 1 2 0 0
+Newton @ ss:	3 1 1 4 1 0
+Winters @ rf:	4 0 1 0 0 0
+Moran @ lf:	3 0 0 0 0 0
+Rohn @ 1b:	2 0 0 11 1 0
+Jordan @ 2b:	2 0 0 3 3 0
+McMurray @ c:	2 0 1 4 1 0
+Walker @ 3b:	3 0 0 3 0 0
+Johns @ p:	3 0 0 0 5 0
+TOTALS:		25 2 4 27 11 0
+
+line: Memphis: 0 0 0 0 0 0 0 0 0 - 0
+line: Atlanta: 0 0 0 0 0 2 0 0 x - 2
+
+B_2B: McMurray; Bayless; Winters
+B_SH: Newton; Cranston; Jordan; McMurray
+F_DP: Baerwald, Carey
+B_SB: Rohn
+P_WP: Johns
+P_SO: Johns #3; Dick #2
+P_BB: Johns #2; Dick #1
+T: 1:35
+U: Moran
+
+---
+
+date: 1909-06-01
+number: 0
+league: Southern Association
+away: New Orleans
+home: Nashville
+source: Arkansas Gazette, June 2, 1909
+
+New Orleans:	ab r h po a e
+Reagan @ cf:	5 0 1 3 0 0
+Rohe @ 3b:	5 0 1 2 1 0
+Weimer @ rf:	5 2 2 1 0 0
+Huelsman @ lf:	4 1 2 1 0 0
+Dexter @ 1b:	5 2 2 13 0 0
+Demont @ 2b:	5 0 1 3 6 0
+Matthews @ c:	4 0 1 5 0 0
+Lindsey @ ss:	5 1 2 2 2 1
+Maxwell @ p:	3 0 0 0 3 0
+*Hess @ ph:	1 0 0 0 0 0
+Pruitt @ p:	0 0 0 0 0 0
+TOTALS:		42 6 12 30 12 1
+
+*: batted for Maxwell in 9th inning
+
+Nashville:	ab r h po a e
+Kellum @ lf:	5 0 0 2 1 0
+Wiseman @ rf:	5 1 2 1 0 0
+East @ 2b:	4 0 0 3 4 0
+Robertson @ 1b:	4 1 3 10 1 1
+Seigle @ cf:	4 0 0 4 0 0
+Butler @ ss:	4 1 0 2 3 0
+Noyes @ 3b:	3 0 0 3 4 0
+Viebahn @ p:	4 0 0 0 2 0
+Seabaugh @ c:	4 0 3 6 1 1
+TOTALS:		37 3 8 30 16 2
+
+note: discrepancy - box lists 30 total Nashville POs, but player totals add up to 31
+
+line: New Orleans: 0 0 1 0 0 1 0 0 1 3 - 6
+line: Nashville: 1 0 0 0 0 2 0 0 0 0 - 3
+
+P_SO: Viebahn #5; Maxwell #1; Pruitt #2
+P_BB: Viebahn #2; Maxwell #2
+P_IP: Maxwell #8.0; Pruitt #2.0
+note: addition - P_IP not recorded in summary, but inferred from pinch-hitting substitution for Maxwell
+B_SB: Wiseman; Weimer; Huelsman; Dexter
+P_WP: Viebahn
+B_HP: Noyes
+B_2B: Robertson; Reagan; Dexter
+B_3B: Weimer
+B_HR: Dexter
+F_DP: Rohe, Demont, Dexter
+T: 1:50
+U: Moran; Pfenninger
+
+P_GS: ~Maxwell
+P_GF: ~Pruitt
+P_W: ~Pruitt
+
+---
+
+date: 1909-06-01
+number: 0
+league: Southern Association
+away: Little Rock
+home: Montgomery
+source: Arkansas Gazette, June 2, 1909
+
+Little Rock:	ab r h po a e
+Cocash @ 2b:	5 1 1 1 4 1
+Boucher @ ss:	3 0 1 2 4 2
+Perry @ 3b:	3 0 1 0 2 0
+Sentz @ cf:	4 0 0 1 0 0
+Casey @ c:	4 0 0 4 0 0
+Collins @ lf:	4 1 3 2 0 0
+Tarleton @ 1b:	3 0 0 12 1 0
+Flournoy @ rf:	4 0 3 1 0 0
+Buchanan @ p:	3 0 0 1 2 0
+TOTALS:		34 2 9 24 13 3
+
+note: discrepancy - box lists 34 total Little Rock ABs, but player totals add up to 33
+
+Montgomery:	ab r h po a e
+Daley @ cf:	4 1 2 1 0 0
+Kerwin @ rf:	3 0 1 1 0 0
+Whiteman @ 3b:	4 0 1 2 4 0
+Rockenfield @ 2b:	4 0 0 8 1 2
+Persons @ lf:	4 1 1 2 0 0
+Greminger @ 1b:	4 1 0 9 0 0
+Osteen @ ss:	3 0 0 0 7 0
+Hart @ c:	3 1 2 3 2 0
+Thomas @ p:	3 0 1 1 0 0
+TOTALS:		32 4 8 27 14 2
+
+line: Little Rock: 1 0 0 1 0 0 0 0 0 - 2
+line: Montgomery: 0 0 0 3 0 0 1 0 x - 4
+
+B_SH: Osteen; Kerwin; Boucher; Tarleton
+B_SB: Sentz; Kerwin
+B_2B: Kerwin; Collins
+B_3B: Thomas; Whiteman
+F_DP: Whiteman, Greminger
+P_WP: Thomas
+note: discrepancy - per recap, Little Rock scored its first run on a 'passed ball' by Hart - the summary records no passed balls, and it is possible that this scorer recorded a wild pitch on the play
+P_SO: Thomas #3; Buchanan #4
+P_BB: Thomas #2
+T: 1:35
+U: Carpenter
+
+---
+
+date: 1909-06-01
+number: 0
+league: Southern Association
+away: Mobile
+home: Birmingham
+source: Arkansas Gazette, June 2, 1909
+
+Mobile:		ab r h po a e
+Wheat @ lf:	3 1 1 3 0 0
+Sentell @ ss:	4 2 1 2 2 1
+Rhoton @ 2b:	3 0 0 3 3 1
+Thornton @ cf:	4 0 1 4 0 0
+Sabrie @ 1b:	4 0 0 9 0 0
+Neighbors @ rf:	4 0 1 1 0 0
+Benson @ 3b:	4 0 2 0 4 0
+Hardy @ c:	3 0 0 4 1 0
+Stockdale @ p:	3 0 1 1 2 0
+TOTALS:		32 3 7 27 12 2
+
+Birmingham:	ab r h po a e
+Molesworth @ cf:	4 0 0 0 0 0
+Ellam @ ss:	2 1 1 4 3 1
+McGilvray @ rf:	4 0 0 1 0 1
+Raftis @ 3b:	4 0 1 0 3 0
+Gygli @ 1b:	4 0 1 16 0 0
+Henline @ lf:	4 0 0 3 0 0
+Kane @ c:	3 0 1 2 1 0
+Bowen @ 2b:	3 0 0 1 1 0
+Manuel @ p:	3 0 1 0 7 0
+TOTALS:		31 1 5 27 15 2
+
+line: Mobile: 1 0 0 0 0 0 0 2 0 - 3
+line: Birmingham: 1 0 0 0 0 0 0 0 0 - 1
+
+B_2B: Gygli
+B_SH: Rhoton
+B_SB: Ellam; Raftis; Sentell; Sabrie
+F_DP: Bowen, Ellam, Gygli; Sentell, Rhoton, Sabrie
+P_SO: Manuel #2; Stockdale #1
+P_BB: Manuel #2; Stockdale #3
+F_PB: Kane
+P_WP: Manuel
+T: 1:50
+U: Rudderham
+
+---
+
+date: 1909-06-02
+number: 0
+league: Southern Association
+away: Memphis
+home: Atlanta
+source: Arkansas Gazette, June 3, 1909
+
+Memphis:	ab r h po a e
+Baerwald @ rf:	5 1 2 0 0 0
+Babb @ ss:	5 1 1 2 7 0
+Coulson @ lf:	5 1 4 2 0 0
+Cranston @ 2b:	4 1 1 3 2 0
+Wheeler @ 3b:	4 0 2 0 2 1
+Wagner @ cf:	3 0 0 0 0 0
+Carey @ 1b:	4 0 0 15 1 0
+Hurlburt @ c:	4 1 2 5 1 0
+Quiesser @ p:	4 0 1 0 7 0
+TOTALS:		38 5 13 27 20 1
+
+Atlanta:	ab r h po a e
+Bayless @ cf:	3 2 0 1 0 0
+Newton @ ss:	2 0 0 4 4 1
+Winters @ rf:	2 0 1 1 0 0
+Moran @ lf:	3 0 1 0 0 0
+Rohn @ 1b:	3 0 0 9 2 0
+Jordan @ 2b:	3 0 1 6 7 0
+McMurray @ c:	2 0 0 4 3 0
+Walker @ 3b:	4 0 0 2 1 0
+Fisher @ p:	3 0 0 0 1 0
+TOTALS:		25 2 3 27 18 1
+
+line: Memphis: 0 0 2 0 2 0 0 0 1 - 5
+line: Atlanta: 1 0 0 0 1 0 0 0 0 - 2
+
+B_3B: Hurlburt
+B_2B: Coulson #3; Cranston
+B_SH: Moran; Wagner; McMurray; Newton #2; Jordan
+F_DP: Babb, Cranston, Carey
+P_SO: Quiesser #1
+P_BB: Quiesser #6
+T: 1:35
+U: Fitzsimmons; O'Brien
+
+---
+
+date: 1909-06-02
+number: 0
+league: Southern Association
+away: Mobile
+home: Birmingham
+source: Arkansas Gazette, June 3, 1909
+
+Mobile:		ab r h po a e
+Wheat @ lf:	3 1 1 1 0 0
+Sentell @ ss:	4 0 2 3 2 0
+Rhoton @ 2b:	2 0 0 0 5 0
+Thornton @ cf:	4 0 1 1 1 0
+Sabrie @ 1b:	4 0 0 11 1 0
+Neighbors @ rf:	3 0 0 1 0 0
+Benson @ 3b:	3 0 0 4 0 0
+Ludwig @ c:	3 0 1 6 5 0
+Bittrolff @ p:	4 0 1 0 5 0
+TOTALS:		30 1 6 27 20 0
+
+note: discrepancy - box lists 20 total Mobile assists, but player totals add up to 19
+
+Birmingham:	ab r h po a e
+Ellam @ ss:	5 0 1 3 1 0
+Molesworth @ cf:	3 0 1 2 0 0
+Raftis @ 3b:	4 0 1 0 0 0
+McGilvray @ rf:	2 0 0 1 0 0
+Gygli @ 1b:	2 0 0 10 0 0
+Henline @ lf:	2 0 0 1 0 0
+Kane @ c:	3 0 1 6 1 0
+Larsen @ 2b:	4 0 2 4 2 0
+Schopp @ p:	3 0 0 0 4 0
+*Manuel @ ph:	1 0 1 0 0 0
+TOTALS:		29 0 7 27 8 0
+
+*: batted for Schopp in 9th inning
+
+line: Mobile: 1 0 0 0 0 0 0 0 0 - 1
+line: Birmingham: 0 0 0 0 0 0 0 0 0 - 0
+
+B_2B: Raftis
+B_3B: Wheat
+B_SH: Benson; Rhoton #2; Molesworth; Kane
+B_SB: Ludwig
+P_BB: Schopp #1; Bittrolff #7
+P_SO: Schopp #4; Bittrolff #3
+B_HP: Neighbors; Wheat
+note: missing data - per recap, Bittrolff may have thrown a wild pitch in the 6th inning in part of an attempted Birmingham rally - no WP is recorded in the summary
+T: 1:54
+U: Rudderham
+
+---
+
+date: 1909-06-02
+number: 0
+league: Southern Association
+away: New Orleans
+home: Nashville
+source: Arkansas Gazette, June 3, 1909
+status: postponed
+status-reason: rain
+
+---
+
+date: 1909-06-02
+number: 0
+league: Southern Association
+away: Little Rock
+home: Montgomery
+source: Arkansas Gazette, June 3, 1909
+status: postponed
+status-reason: rain
+
+---
+
+date: 1909-06-03
+number: 0
+league: Southern Association
+away: Memphis
+home: Atlanta
+source: Arkansas Gazette, June 4, 1909
+status: postponed
+status-reason: rain
+
+---
+
+date: 1909-06-03
+number: 0
+league: Southern Association
+away: New Orleans
+home: Nashville
+source: Arkansas Gazette, June 4, 1909
+status: postponed
+status-reason: rain
+
+---
+
+date: 1909-06-03
+number: 0
+league: Southern Association
+away: Little Rock
+home: Montgomery
+source: Arkansas Gazette, June 4, 1909
+status: postponed
+status-reason: rain
+
+---
+
+date: 1909-06-03
+number: 0
+league: Southern Association
+away: Mobile
+home: Birmingham
+source: Arkansas Gazette, June 4, 1909
+status: postponed
+status-reason: rain
+
+---
+
+date: 1909-06-04
+number: 1
+league: Southern Association
+away: Memphis
+home: Atlanta
+source: Arkansas Gazette, June 5, 1909
+
+Memphis:	ab r h po a e
+Baerwald @ rf:	4 0 0 1 0 0
+Babb @ ss:	3 1 1 0 3 0
+Coulson @ lf:	4 0 1 1 0 1
+Cranston @ 2b:	4 1 1 1 4 0
+Wheeler @ 3b:	4 0 1 1 1 0
+Wagner @ cf:	3 1 0 2 0 0
+Carey @ 1b:	4 0 2 12 0 0
+Hurlburt @ c:	4 0 2 6 1 1
+Keiber @ p:	3 0 0 0 3 0
+TOTALS:		33 3 8 24 12 2
+
+Atlanta:	ab r h po a e
+Bayless @ cf:	4 1 1 2 0 0
+Newton @ ss:	4 1 1 1 3 0
+Winters @ rf:	3 0 0 4 0 0
+Smith @ c:	2 1 1 5 1 0
+Moran @ lf:	3 0 0 1 2 0
+Rohn @ 1b:	2 1 0 10 0 0
+Jordan @ 2b:	2 0 0 3 0 1
+Walker @ 3b:	3 0 0 1 1 0
+Bartley @ p:	3 0 0 0 5 0
+TOTALS:		26 4 3 27 11 1
+
+note: discrepancy - box lists 11 total Atlanta assists, but player totals add up to 12
+
+line: Memphis: 0 2 1 0 0 0 0 0 0 - 3
+line: Atlanta: 0 0 0 2 0 0 2 0 x - 4
+
+B_SH: Keiber; Coulson; Winters; Babb
+B_SB: Wheeler
+B_HP: Smith
+P_WP: Keiber
+P_SO: Keiber #5; Bartley #3
+P_BB: Bartley #4; Keiber #2
+T: 1:50
+U: O'Brien; Fitzsimmons
+
+---
+
+date: 1909-06-04
+number: 2
+league: Southern Association
+away: Memphis
+home: Atlanta
+source: Arkansas Gazette, June 5, 1909
+
+Memphis:	ab r h po a e
+Baerwald @ rf:	5 1 1 1 0 0
+Babb @ ss:	3 0 1 3 3 1
+Morris @ ss:	1 0 0 3 2 0
+Coulson @ lf:	5 0 0 1 1 0
+Cranston @ 2b:	4 0 1 3 3 0
+Wheeler @ 3b:	4 0 1 0 1 0
+Wagner @ cf:	2 2 0 2 0 0
+Carey @ 1b:	4 1 3 5 2 0
+Hurlburt @ c:	2 0 0 4 0 0
+O'Leary @ c:	2 0 0 2 1 1
+Schwenck @ p:	3 0 1 0 0 0
+TOTALS:		35 4 8 24 13 2
+
+Atlanta:	ab r h po a e
+Bayless @ cf:	4 1 2 4 0 0
+Newton @ ss:	4 0 1 3 1 1
+Winters @ rf:	3 0 1 0 0 1
+McMurray @ c:	3 0 1 6 0 0
+Moran @ lf:	3 1 0 0 0 0
+Rohn @ 1b:	3 1 0 9 0 1
+Walker @ 3b:	3 2 1 3 0 1
+Jordan @ 2b:	4 2 2 2 2 2
+Johns @ p:	2 1 0 0 5 1
+TOTALS:		29 8 8 27 8 7
+
+line: Memphis: 0 2 0 0 1 1 0 0 0 - 4
+line: Atlanta: 0 4 2 2 0 0 0 0 x - 8
+
+B_2B: Carey; Walker; Jordan; Baerwald
+B_SB: Wagner; McMurray; Moran
+F_DP: Babb, Cranston, Carey; Babb, Cranston, Carey; Newton, Rohn; Cranston, Morris, Carey
+B_HP: Wagner; Babb; Winters; Moran
+P_WP: Schwenck
+P_SO: Johns #5; Schwenck #3
+P_BB: Schwenck #8
+T: 1:52
+U: Fitzsimmons; O'Brien
+
+---
+
+date: 1909-06-04
+number: 1
+league: Southern Association
+away: Mobile
+home: Birmingham
+source: Arkansas Gazette, June 5, 1909
+
+Mobile:		ab r h po a e
+Wheat @ lf:	4 1 2 2 1 0
+Sentell @ ss:	4 1 3 1 1 0
+Rhoton @ 2b:	3 0 1 4 0 0
+Thornton @ cf:	4 0 2 2 0 1
+Sabrie @ 1b:	4 0 0 6 1 0
+Neighbors @ rf:	4 0 1 2 0 0
+Watson @ 3b:	3 0 1 1 6 0
+Hardy @ c:	3 0 0 4 0 1
+Ludwig @ c:	0 0 0 0 0 0
+Hickman @ p:	3 0 0 2 4 0
+Hixon @ p:	0 0 0 0 0 0
+*Stockdale @ ph:	1 0 0 0 0 0
+TOTALS:		33 2 10 24 13 2
+
+*: batted for Hixon in 9th inning
+
+Birmingham:	ab r h po a e
+Ellam @ ss:	4 0 1 2 5 0
+Molesworth @ cf:	4 0 0 3 0 0
+Raftis @ 3b:	4 0 0 3 0 0
+McGilvray @ rf:	2 0 1 1 1 0
+Gygli @ 1b:	4 0 0 12 0 0
+Henline @ lf:	3 1 1 4 0 0
+Kane @ c:	2 1 0 2 4 0
+Larsen @ 2b:	2 1 0 0 1 1
+Dickson @ p:	2 0 1 0 1 0
+TOTALS:		27 3 4 27 12 1
+
+line: Mobile: 1 0 1 0 0 0 0 0 0 - 2
+line: Birmingham: 0 0 0 0 0 0 0 3 x - 3
+
+B_2B: Sentell
+B_SH: Larsen; Rhoton
+B_SB: Sentell #2; Neighbors; McGilvray
+P_BB: Dickson #1; Hickman #2; Hixon #1
+P_SO: Dickson #3; Hickman #2; Hixon #2
+P_HP: Dickson
+B_HP: Hardy
+F_DP: Gygli; Hickman, Sabrie
+P_H: Hickman #4; Hixon #0
+note: addition - summary records P_H only for Hickman
+T: 2:00
+U: Rudderham
+
+P_GS: ~Hickman
+P_GF: ~Hixon
+P_L: ~Hickman
+
+---
+
+date: 1909-06-04
+number: 2
+league: Southern Association
+away: Mobile
+home: Birmingham
+source: Arkansas Gazette, June 5, 1909
+
+Mobile:		ab r h po a e
+Wheat @ lf:	5 2 3 0 0 0
+Sentell @ ss:	3 0 1 1 4 1
+Rhoton @ 2b:	5 0 1 4 4 0
+Thornton @ cf:	5 1 2 2 0 0
+Sabrie @ 1b:	4 1 0 12 1 0
+Neighbors @ rf:	4 2 1 1 0 0
+Watson @ 3b:	5 1 3 1 3 0
+Hardy @ c:	3 3 3 6 1 0
+Hixon @ p:	4 0 0 0 0 0
+TOTALS:		38 10 14 27 13 1
+
+Birmingham:	ab r h po a e
+Ellam @ ss:	4 0 0 2 5 2
+Molesworth @ cf:	5 0 3 2 0 0
+Raftis @ 3b:	5 0 0 1 2 2
+McGilvray @ rf:	3 0 0 2 0 0
+Gygli @ 1b:	4 1 1 9 1 2
+Henline @ lf:	4 0 1 1 2 0
+Kane @ c:	3 0 0 4 2 0
+Larsen @ 2b:	4 0 2 5 2 2
+Fleharty @ p:	0 0 0 0 2 1
+Manuel @ p:	3 0 1 1 4 1
+TOTALS:		35 1 8 27 20 10
+
+line: Mobile: 0 0 3 0 2 3 1 0 1 - 10
+line: Birmingham: 0 0 0 0 0 1 0 0 0 - 1
+
+B_2B: Molesworth; Gygli; Henline; Wheat; Watson
+B_SH: Sentell; Neighbors; Hardy
+B_SB: Ellam; Molesworth #2; Wheat; Sentell; Neighbors #2; Watson; Hardy
+P_SO: Manuel #2; Hixon #6
+P_BB: Fleharty #1; Manuel #3; Hixon #4
+P_HP: Fleharty
+B_HP: Sabrie
+P_IP: Fleharty #3.0; Manuel #6.0
+P_H: Fleharty #3; Manuel #11
+F_DP: Manuel, Gygli; Sentell, Rhoton, Sabrie
+T: 2:20
+U: Rudderham
+
+---
+
+date: 1909-06-04
+number: 1
+league: Southern Association
+away: New Orleans
+home: Nashville
+source: Arkansas Gazette, June 5, 1909
+
+New Orleans:	ab r h po a e
+Rohe @ 3b:	4 0 0 0 5 0
+Weimer @ rf:	4 0 1 1 0 0
+Huelsman @ lf:	4 0 0 0 0 1
+Dexter @ 1b:	4 0 0 8 1 0
+Demont @ 2b:	4 1 1 4 0 1
+Mathews @ c:	3 0 0 9 0 0
+Lindsey @ ss:	4 0 1 2 1 0
+Maxwell @ p:	3 1 1 0 3 0
+Breitenstein @ cf:	2 0 2 0 0 0
+*Hess @ ph:	1 0 1 0 0 0
+TOTALS:		33 2 7 24 10 2
+
+*: batted for Breitenstein in 9th inning
+
+Nashville:	ab r h po a e
+Bay @ lf:	3 0 0 3 0 0
+Wiseman @ rf:	4 0 0 1 0 0
+East @ 2b:	4 0 0 5 2 0
+Robertson @ 1b:	3 1 1 10 2 0
+Seigle @ cf:	3 1 0 0 0 0
+Butler @ ss:	3 0 0 1 5 1
+Noyes @ 3b:	2 1 0 0 3 0
+Seabaugh @ c:	3 0 2 7 0 0
+Duggan @ p:	1 0 0 0 0 0
+TOTALS:		26 3 3 27 13 1
+
+note: discrepancy - box lists 13 total Nashville assists, but player totals add up to 12
+
+line: New Orleans: 0 1 0 0 0 0 1 0 0 - 2
+line: Nashville: 0 1 0 1 0 0 1 0 x - 3
+
+P_SO: Maxwell #8; Duggan #6
+P_BB: Maxwell #2; Duggan #1
+B_SH: Duggan #2; Butler; Seigle; Breitenstein
+B_SB: Robertson
+P_HP: Maxwell
+B_HP: Robertson
+B_2B: Demont
+T: 1:35
+U: Pfenninger; Moran
+
+---
+
+date: 1909-06-04
+number: 2
+league: Southern Association
+away: New Orleans
+home: Nashville
+source: Arkansas Gazette, June 5, 1909
+
+New Orleans:	ab r h po a e
+Rohe @ 3b:	3 0 0 1 1 1
+Weimer @ rf:	4 0 0 1 0 0
+Huelsman @ lf:	4 0 0 0 0 0
+Dexter @ 1b:	4 0 2 9 2 0
+Demont @ 2b:	3 0 0 5 2 0
+Schreiver @ c:	4 0 0 4 2 0
+Lindsey @ ss:	3 0 0 1 0 1
+Pruitt @ p:	1 0 0 1 3 0
+Breitenstein @ p:	1 0 1 0 1 1
+Hess @ cf:	3 0 1 2 1 0
+TOTALS:		30 0 4 24 12 3
+
+Nashville:	ab r h po a e
+Bay @ lf:	4 1 2 5 0 0
+Wiseman @ rf:	3 0 1 0 0 0
+East @ 2b:	4 1 3 4 3 0
+Robertson @ 1b:	4 0 2 10 2 0
+Seigle @ cf:	4 1 1 2 0 0
+Butler @ ss:	4 2 2 3 5 0
+Noyes @ 3b:	3 0 1 1 1 1
+Seabaugh @ c:	4 0 0 2 1 0
+Perdue @ p:	3 0 0 0 1 1
+TOTALS:		33 5 12 27 13 2
+
+line: New Orleans: 0 0 0 0 0 0 0 0 0 - 0
+line: Nashville: 1 0 0 0 0 0 2 2 x - 5
+
+P_SO: Perdue #2; Pruitt #1; Breitenstein #2
+P_BB: Perdue #2; Pruitt #0; Breitenstein #0
+B_SH: Wiseman; Rohe; Demont; Noyes
+B_SB: East
+B_2B: Seigle; Noyes
+B_3B: East
+T: 1:40
+U: Moran; Pfenninger
+
+P_GS: ~Pruitt
+P_GF: ~Breitenstein
+P_L: ~Pruitt
+
+---
+
+date: 1909-06-04
+number: 1
+league: Southern Association
+away: Little Rock
+home: Montgomery
+source: Arkansas Gazette, June 5, 1909
+
+note: game called in bottom of 9th inning on account of rain - Montgomery had a runner on first with none out at the time - box includes statistics compiled in the top of the 9th inning and may include stats in the bottom of the 9th
+note: Davis replaced Sentz in the 7th inning
+
+Little Rock:	ab r h po a e
+Cocash @ rf:	4 1 1 1 0 0
+Boucher @ ss:	3 0 0 1 2 0
+Perry @ 3b:	4 0 1 4 4 0
+Sentz @ cf:	2 0 0 0 0 0
+Davis @ cf:	1 0 0 0 0 0
+Collins @ lf:	4 0 0 3 0 0
+Tarleton @ 1b:	3 0 1 9 1 0
+Flood @ 2b:	3 0 1 1 2 0
+Casey @ c:	3 0 0 4 2 0
+Hart [LR] @ p:	3 0 0 1 1 0
+TOTALS:		30 1 4 24 12 0
+
+Montgomery:	ab r h po a e
+Daley @ cf:	3 0 0 2 0 0
+Kerwin @ rf:	3 0 2 0 0 0
+Whiteman @ 3b:	3 0 0 2 3 0
+Rockenfield @ 2b:	4 0 1 1 1 0
+Greminger @ 1b:	3 0 1 12 0 0
+Persons @ lf:	4 0 1 3 0 1
+Osteen @ ss:	4 0 1 0 3 0
+Hart [Mon] @ c:	3 0 1 7 1 0
+Bliss @ p:	3 0 0 0 4 0
+TOTALS:		28 0 7 27 12 1
+
+note: discrepancy - box lists 28 total Montgomery ABs, but player totals add up to 30
+
+line: Little Rock: 1 0 0 0 0 0 0 0 0 - 1
+line: Montgomery: 0 0 0 0 0 0 0 0 x - 0
+
+B_SH: Boucher
+B_SB: Kerwin; Flood; Daley; Hart [Mon]
+B_2B: Greminger; Osteen
+P_SO: Bliss #6; Hart [LR] #4
+P_BB: Bliss #1; Hart [LR] #3
+T: 1:25
+U: Carpenter
+
+---
+
+date: 1909-06-04
+number: 2
+league: Southern Association
+away: Little Rock
+home: Montgomery
+source: Arkansas Gazette, June 5, 1909
+status: postponed
+status-reason: rain
+
+---
+
+date: 1909-06-05
+number: 0
+league: Southern Association
+away: Memphis
+home: Montgomery
+source: Arkansas Gazette, June 6, 1909
+
+note: game called after end of 9th inning so that clubs could catch train to Memphis for Sunday game
+
+Memphis:	ab r h po a e
+Baerwald @ rf:	4 0 0 3 1 0
+Babb @ ss-3b:	1 0 0 2 5 1
+Coulson @ lf:	3 0 0 3 0 0
+Cranston @ 2b:	4 0 1 3 6 0
+Wheeler @ ss:	1 0 0 0 0 0
+Morris @ 3b:	3 0 1 1 2 1
+Wagner @ cf:	4 0 2 0 0 0
+Carey @ 1b:	3 0 0 12 0 0
+Hurlburt @ c:	3 0 0 3 0 0
+Dick @ p:	1 1 1 0 0 1
+Quiesser @ p:	3 0 0 0 1 0
+TOTALS:		30 1 5 27 15 3
+
+Montgomery:	ab r h po a e
+Daly @ cf:	5 1 1 3 0 0
+Kerwin @ rf:	4 0 1 0 0 0
+Whiteman @ 3b:	3 0 0 1 1 1
+Rockenfield @ 2b:	3 0 2 2 0 0
+Persons @ lf:	3 0 0 2 0 1
+Greminger @ 1b:	3 0 1 8 1 0
+Osteen @ ss:	4 0 1 3 4 0
+Hart @ c:	4 0 1 8 2 0
+Guese @ p:	3 0 0 0 2 0
+TOTALS:		32 1 7 27 10 2
+
+note: addition - box does not list a position for Daly - all other positions except for CF are listed and Daly is the regular CF, so Daly is placed in CF above
+
+line: Memphis: 0 0 1 0 0 0 0 0 0 - 1
+line: Montgomery: 1 0 0 0 0 0 0 0 0 - 1
+
+B_3B: Greminger; Daly
+B_SH: Babb; Cranston; Coulson; Persons; Carey; Whiteman; Guese
+B_SB: Osteen; Kerwin; Wagner; Hart; Baerwald
+P_BB: Guese #2; Dick #1; Quiesser #1
+P_SO: Guese #6; Quiesser #2
+P_HP: Dick; Quiesser; Guese
+T: 1:45
+U: Fitzsimmons
+
+P_GS: ~Dick
+P_GF: ~Quiesser
+
+---
+
+date: 1909-06-05
+number: 0
+league: Southern Association
+away: Little Rock
+home: Atlanta
+source: Arkansas Gazette, June 6, 1909
+
+Little Rock:	ab r h po a e
+Cocash @ rf:	4 0 1 0 0 0
+Boucher @ ss:	3 1 1 1 5 2
+Perry @ 3b:	4 0 0 2 2 0
+Davis @ cf:	3 0 0 3 0 0
+Collins @ lf:	3 1 1 0 0 0
+Tarleton @ 1b:	2 0 0 13 0 0
+Flood @ 2b:	3 0 0 2 3 0
+Casey @ c:	3 0 0 3 0 0
+Milton @ p:	2 0 0 0 4 0
+TOTALS:		27 2 3 24 14 2
+
+Atlanta:	ab r h po a e
+Bayless @ cf:	3 1 1 3 2 0
+Newton @ ss:	1 0 0 0 5 0
+Winters @ rf:	4 0 1 1 0 0
+Smith @ c:	4 0 0 9 0 0
+Moran @ lf:	4 0 1 1 0 0
+Rohn @ 1b:	3 1 0 8 2 0
+Jordan @ 2b:	3 1 0 5 1 0
+Walker @ 3b:	3 0 1 0 0 2
+Atkins @ p:	2 0 1 0 2 0
+TOTALS:		27 3 5 27 12 2
+
+line: Little Rock: 0 1 0 0 0 0 0 1 0 - 2
+line: Atlanta: 1 0 0 0 0 0 2 0 x - 3
+
+B_2B: Bayless; Boucher
+B_3B: Moran
+B_SH: Newton #3; Milton; Jordan; Atkins
+note: missing data - per recap, Tarleton sacrificed Collins to second base in the 2nd inning - however, the summary does not record Tarleton with a SH
+B_SB: Tarleton; Collins; Flood #2
+P_BB: Atkins #4; Milton #2
+P_SO: Atkins #7; Milton #2
+B_HP: Tarleton
+F_DP: Boucher
+T: 1:45
+U: Rudderham
+
+---
+
+date: 1909-06-05
+number: 0
+league: Southern Association
+away: New Orleans
+home: Birmingham
+source: Arkansas Gazette, June 6, 1909
+
+note: ejection - Raftis ejected in 8th inning for disputing a decision
+note: umpire O'Brien had to be escorted by policeman off field following the game
+
+New Orleans:	ab r h po a e
+Demont @ ss:	5 0 0 2 2 1
+Rohe @ 3b:	4 1 1 0 5 0
+Weimer @ rf:	3 1 1 2 1 0
+Huelsman @ lf:	3 0 1 0 0 0
+Dexter @ 1b:	3 1 1 8 0 0
+Dundon @ 2b:	4 0 1 2 2 0
+Schreiver @ c:	3 0 0 10 2 0
+Breitenstein @ cf:	2 0 0 3 0 0
+Fritz @ p:	3 0 0 0 3 1
+TOTALS:		30 3 5 27 15 2
+
+Birmingham:	ab r h po a e
+Ellam @ ss:	5 0 1 1 2 0
+Molesworth @ cf:	3 0 1 3 0 0
+Raftis @ 3b:	4 0 1 2 3 0
+Manuel @ rf:	0 0 0 0 0 0
+McGilvray @ rf-1b:	4 0 0 5 0 0
+Gygli @ 1b-2b:	4 0 2 7 0 0
+Henline @ lf:	4 1 2 2 0 0
+Kane @ c:	4 0 1 6 2 0
+Larsen @ 2b-3b:	4 0 1 1 4 1
+Robinson @ p:	4 0 2 0 4 1
+TOTALS:		36 1 11 27 15 2
+
+line: New Orleans: 0 0 0 1 0 0 0 2 0 - 3
+line: Birmingham: 0 0 0 0 0 1 0 0 0 - 1
+
+B_2B: Weimer
+B_HR: Dexter
+B_SH: Molesworth; Weimer; Dexter; Schreiver; Fritz
+B_SB: Dundon
+P_BB: Robinson #3
+P_SO: Robinson #5; Fritz #7
+F_DP: Fritz, Schreiver, Rohe
+T: 1:50
+U: Pfenninger; O'Brien
+
+---
+
+date: 1909-06-05
+number: 0
+league: Southern Association
+away: Mobile
+home: Nashville
+source: Arkansas Gazette, June 6, 1909
+
+Mobile:		ab r h po a e
+Wheat @ lf:	5 1 2 1 0 0
+Sentell @ ss:	2 0 0 1 3 0
+Rhoton @ 2b:	4 1 1 4 3 0
+Thornton @ cf:	3 1 0 0 1 0
+Sabrie @ 1b:	4 1 1 10 2 0
+Neighbors @ rf:	3 0 1 2 0 0
+Watson @ 3b:	4 0 0 2 1 1
+Hardy @ c:	4 0 1 5 1 0
+Ludwig @ c:	0 0 0 1 0 0
+Lelivelt @ p:	4 0 1 1 1 0
+TOTALS:		33 4 7 27 12 1
+
+Nashville:	ab r h po a e
+Bay @ lf:	5 0 1 1 0 0
+Wiseman @ rf:	4 0 1 0 1 0
+East @ 2b:	4 0 1 2 3 1
+Seigle @ cf:	2 1 1 4 0 0
+Robertson @ 1b:	2 0 0 9 3 1
+Butler @ ss:	4 1 2 5 3 2
+Noyes @ 3b:	3 0 0 0 0 1
+Seabaugh @ c:	4 0 2 4 1 0
+Case @ p:	3 0 1 2 2 0
+*Tonneman @ ph:	1 0 0 0 0 0
+TOTALS:		34 2 9 27 13 5
+
+*: batted for Case in 9th inning
+note: discrepancy - box lists 34 total Nashville ABs, but player totals add up to 32
+
+line: Mobile: 4 0 0 0 0 0 0 0 0 - 4
+line: Nashville: 0 2 0 0 0 0 0 0 0 - 2
+
+B_2B: Neighbors
+B_SH: Sentell; Neighbors
+B_SB: Wheat; Sabrie; East
+P_BB: Case #2; Lelivelt #2
+P_SO: Case #4; Lelivelt #4
+F_DP: Robertson, Case
+T: 1:40
+U: Carpenter
+
+---
+
+date: 1909-06-06
+number: 0
+league: Southern Association
+away: Montgomery
+home: Memphis
+source: Arkansas Gazette, June 7, 1909
+
+note: ejection - Baerwald and Hurlburt both were ejected by Moran in the 2nd inning for arguing out ruling on Wagner because of interference by Hurlburt
+
+Montgomery:	ab r h po a e
+Persons @ lf:	5 0 0 0 0 0
+Kerkin @ rf:	2 1 0 2 0 0
+Daley @ cf:	5 0 1 1 0 0
+Rockenfield @ 2b:	5 1 2 6 2 0
+Whiteman @ 3b:	4 1 3 1 2 0
+Greminger @ 1b:	4 0 1 16 2 0
+Osteen @ ss:	5 0 2 1 5 1
+Hart @ c:	4 0 0 6 5 0
+Lively @ p:	5 0 1 0 6 0
+TOTALS:		39 3 10 33 22 1
+
+Memphis:	ab r h po a e
+Baerwald @ rf:	1 0 0 1 0 0
+Morris @ rf:	3 0 0 0 1 0
+Babb @ ss:	5 0 2 4 3 0
+Coulson @ lf:	4 0 2 3 0 0
+Cranston @ 2b:	5 1 1 7 3 0
+Wheeler @ 3b:	3 0 1 2 1 0
+Wagner @ cf:	4 0 2 0 1 0
+Carey @ 1b:	4 0 0 10 1 0
+Hurlburt @ c:	1 0 0 1 0 0
+O'Leary @ c:	3 0 1 5 1 0
+Dick @ p:	3 0 0 0 4 1
+*Schwenck @ ph:	1 0 0 0 0 0
+TOTALS:		35 1 9 33 13 1
+
+*: batted for Dick in 11th inning
+note: discrepancy - box lists 35 total Memphis ABs, but player totals add up to 37
+note: discrepancy - box lists 13 total Memphis assists, but player totals add up to 15
+
+line: Montgomery: 0 0 0 1 0 0 0 0 0 0 2 - 3
+line: Memphis: 0 1 0 0 0 0 0 0 0 0 0 - 1
+
+B_2B: Rockenfield
+B_SH: Coulson; Wheeler; Daley
+B_SB: Wagner
+F_DP: Lively, Hart; Lively, Osteen, Greminger
+P_SO: Lively #6; Dick #2
+P_BB: Lively #2; Dick #6
+T: 2:25
+U: Moran; Fitzsimmons
+
+---
+
+date: 1909-06-06
+number: 0
+league: Southern Association
+away: Birmingham
+home: New Orleans
+source: Arkansas Gazette, June 7, 1909
+
+Birmingham:	ab r h po a e
+Ellam @ ss:	3 0 0 1 2 0
+Molesworth @ cf:	3 0 0 0 0 0
+Raftis @ 3b:	3 0 0 1 2 0
+McGilvray @ rf:	4 0 0 2 0 0
+Gygli @ 1b:	2 2 1 11 1 0
+Henline @ lf:	4 0 2 1 0 0
+Kane @ c:	3 0 0 6 0 0
+Larsen @ 2b:	3 1 0 5 3 1
+Fleharty @ p:	3 1 1 0 2 0
+TOTALS:		28 4 4 27 10 1
+
+New Orleans:	ab r h po a e
+Demont @ ss:	3 1 2 1 1 0
+Rohe @ 3b:	3 1 1 1 2 2
+Weimer @ rf:	4 1 1 1 1 0
+Huelsman @ lf:	3 0 0 1 0 0
+Dexter @ 1b:	3 0 0 10 0 0
+*Matthews @ ph:	1 0 0 0 0 0
+Dundon @ 2b:	4 0 1 1 4 0
+Schriver @ c:	3 0 0 11 4 0
+Breitenstein @ cf:	3 0 0 1 0 1
+Hess @ p:	3 0 0 0 2 0
+TOTALS:		30 3 5 27 14 3
+
+*: batted for Dexter in 9th inning
+
+line: Birmingham: 0 3 1 0 0 0 0 0 0 - 4
+line: New Orleans: 0 0 0 0 0 0 0 0 3 - 3
+
+B_2B: Henline
+B_SB: Gygli; Larsen; Henline #2
+B_SH: Rohe; Fleharty
+P_SO: Hess #5; Fleharty #6
+P_BB: Hess #6; Fleharty #1
+P_HP: Fleharty
+B_HP: Huelsman
+F_PB: Schriver
+T: 1:40
+U: O'Brien; Pfenninger
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
