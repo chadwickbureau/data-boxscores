@@ -108,6 +108,12 @@ class Game(object):
                 print "In file %s,\n   game %s" % (self.metadata['filename'], self)
                 print "  Missing name or position in '%s'" % (key)
                 name, pos = key, None
+
+        if name[0] == '(':
+            slot, name = [x.strip() for x in name[1:].split(")")]
+            slot = slot.replace("~", "")
+            slot, seq = slot.split(".")
+            # TODO: Save slot information
                 
         if name[0] in Game._subskeys:
             subskey = name[0]
@@ -140,6 +146,8 @@ class Game(object):
 
     def _parse_details(self, key, value):
         for entry in [x.strip() for x in value.split(";")]:
+            if entry[0] == '~':
+                entry = entry[1:]
             if "#" in entry:
                 try:
                     name, count = [x.strip() for x in entry.split("#")]
@@ -313,6 +321,7 @@ class Game(object):
                           "B_SH", "B_HP",
                           "B_SH", "B_SF", "B_SB",
                           "B_LOB", "B_ROE",
+                          "P_GS", "P_GF", "P_W", "P_L", "P_SV",
                           "P_IP", "P_AB", "P_R", "P_ER", "P_H",
                           "P_HP", "P_BB", "P_SO",
                           "P_TBF", "P_WP", "P_BK",
@@ -381,6 +390,7 @@ def compile_playing(source, games, gamelist):
                'B_AB', 'B_R', 'B_ER', 'B_H', 'B_2B', 'B_3B', 'B_HR', 'B_RBI',
                'B_BB', 'B_SO',
                'B_HP', 'B_SH', 'B_SF', 'B_SB', 'B_XO', 'B_LOB', 'B_ROE',
+               'P_GS', 'P_GF', 'P_W', 'P_L', 'P_SV',
                'P_IP', 'P_TBF', 'P_AB', 'P_R', 'P_ER', 'P_H', 
                'P_BB', 'P_SO', 'P_HP', 'P_WP', 'P_BK',
                'F_PO', 'F_A', 'F_E', 'F_DP', 'F_TP', 'F_PB', 'F_SB' ]
@@ -517,7 +527,8 @@ def compile_umpires(source, umpiring):
 
     
 def process_files(source):
-    fnlist = glob.glob("transcript/%s/boxes/*.txt" % source)
+    fnlist = [fn for fn in glob.glob("transcript/%s/*.txt" % source)
+              if "README.txt" not in fn]
     gamelist = [ Game.fromtext(g, fn)
                  for fn in fnlist for g in iterate_games(fn) ]
     games = compile_games(source, gamelist)
