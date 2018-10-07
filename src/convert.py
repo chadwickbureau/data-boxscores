@@ -404,11 +404,11 @@ def compile_playing(source, games, gamelist):
     df.sort_values([ 'game.date', 'game.number', 'game.key',
                      'club.name', 'seq' ], inplace=True)
     try:
-        os.makedirs("processed/%s" % source)
+        os.makedirs("data/boxscores/processed/%s" % source)
     except os.error:
         pass
     df = df[columns].copy()
-    df.to_csv("processed/%s/playing.csv" % source, index=False)
+    df.to_csv("data/boxscores/processed/%s/playing.csv" % source, index=False)
     return df
 
 def compile_games(source, gamelist):
@@ -438,7 +438,7 @@ def compile_games(source, gamelist):
         if col not in columns:
             print "WARNING: unexpected column %s in games" % col
     df = df[columns].copy()
-    df.to_csv("processed/%s/games.csv" % source, index=False)
+    df.to_csv("data/boxscores/processed/%s/games.csv" % source, index=False)
     return df
 
 def compile_umpiring(source, games, gamelist):
@@ -456,7 +456,7 @@ def compile_umpiring(source, games, gamelist):
                'game.date', 'game.number', 'game.phase',
                'ref', 'name.last', 'name.first']
     df = df[columns].copy()
-    df.to_csv("processed/%s/umpiring.csv" % source, index=False)
+    df.to_csv("data/boxscores/processed/%s/umpiring.csv" % source, index=False)
     return df
 
 
@@ -494,7 +494,7 @@ def compile_players(source, playing):
              'F_1B_G', 'F_2B_G', 'F_3B_G', 'F_SS_G',
              'F_OF_G', 'F_LF_G', 'F_CF_G', 'F_RF_G',
              'F_C_G', 'F_P_G']]
-    df.to_csv("processed/%s/players.csv" % source, index=False,
+    df.to_csv("data/boxscores/processed/%s/players.csv" % source, index=False,
               float_format='%d')
 
 
@@ -522,12 +522,12 @@ def compile_umpires(source, umpiring):
     df = df[['league.year', 'league.name', 'league.phase', 'person.ref',
              'person.name.last', 'person.name.given',
              'S_FIRST', 'S_LAST', 'U_G']]
-    df.to_csv("processed/%s/umpires.csv" % source, index=False,
+    df.to_csv("data/boxscores/processed/%s/umpires.csv" % source, index=False,
               float_format='%d')
 
     
 def process_files(source):
-    fnlist = [fn for fn in glob.glob("transcript/%s/*.txt" % source)
+    fnlist = [fn for fn in glob.glob("data/boxscores/transcript/%s/*.txt" % source)
               if "README.txt" not in fn]
     gamelist = [ Game.fromtext(g, fn)
                  for fn in fnlist for g in iterate_games(fn) ]
