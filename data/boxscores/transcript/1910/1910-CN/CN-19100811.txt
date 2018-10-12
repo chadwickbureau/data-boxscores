@@ -1,0 +1,65 @@
+date: 1910-08-13
+number: 0
+league: Carolina Association
+away: Greensboro
+home: Charlotte
+source: The Charlotte News Aug 14, 1910
+A: 1200
+
+Greensboro:		ab r h po a e
+Rickard @ cf:	3 0 2 2 0 0
+Fuller @ 2b:	4 2 0 3 4 0
+Doak @ 3b:		5 1 3 1 4 0
+Bentley @ rf:	4 1 0 0 0 0
+Clapp @ lf:		3 0 0 5 0 0
+Hicks @ ss:		5 0 1 1 4 0
+Moran @ 1b:		4 0 0 10 0 0
+Beusse @ c:		3 1 0 5 0 0
+Walters @ p:	2 1 0 0 1 0
+TOTALS:			32 6 6 27 13 1
+
+Charlotte:		ab r h po a e
+McMillan @ cf:	5 0 0 5 1 0
+Garman @ 1b:	4 0 0 8 1 0
+Cross @ 3b:		3 0 0 1 2 0
+Taxis @ rf:		4 0 0 0 0 0
+Coutts @ lf:	3 1 1 0 0 0
+Dobard @ ss:	3 0 0 6 3 0
+Williams @ 2b:	3 0 0 1 3 4
+Hargraves @ c:	3 0 2 3 4 0
+Hanke @ p:		4 0 1 3 1 2
+TOTALS:			32 1 4 27 15 6
+
+line: Greensboro: 0 0 0 1 0 0 0 1 4 - 6
+line: Charlotte: 0 0 0 0 0 0 0 0 1 - 1
+
+B_LOB: Greensboro #9; Charlotte #9
+B_ROE: 
+B_ER: Charlotte #1; Greensboro #1
+B_2B: 
+B_3B: Coutts
+B_HR: 
+B_SB: Rickard; Dobard
+B_SH: Bentley; Walters
+B_SF: 
+B_HP: Beusse; Hargraves
+B_XO: 
+P_BB: Walters #4; Hanke #6
+P_SO: Walters #2; Hanke #2
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Hargraves, Cross; Williams, Garman; Dobard, Williams, Garman
+F_PB: 
+outsatend: 
+T: 1:35
+U: Rudderham
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+

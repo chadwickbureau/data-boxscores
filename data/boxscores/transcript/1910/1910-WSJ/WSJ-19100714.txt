@@ -1005,8 +1005,9 @@ league: Carolina Association
 away: Greensboro
 home: Spartanburg
 source: Winston-Salem Journal Jul 19,1910
-status: status
+status: abandoned
 status-reason: rain
+note: called in 3rd inning
 
 ---
 
