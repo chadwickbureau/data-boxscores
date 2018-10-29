@@ -146,7 +146,7 @@ class Game(object):
 
     def _parse_details(self, key, value):
         for entry in [x.strip() for x in value.split(";")]:
-            if entry[0] == '~':
+            if entry[:1] == '~':
                 entry = entry[1:]
             if "#" in entry:
                 try:
