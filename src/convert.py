@@ -319,7 +319,7 @@ class Game(object):
             elif key in ["home-batted"]:
                 pass
                 
-            elif key in ["B_ER", "B_2B", "B_3B", "B_HR", "B_BB", "B_SO",
+            elif key in ["B_ER", "B_R", "B_2B", "B_3B", "B_HR", "B_BB", "B_SO",
                          "B_SH", "B_HP",
                          "B_SH", "B_SF", "B_SB",
                          "B_LOB", "B_ROE",

@@ -1,0 +1,925 @@
+date: 1909-04-22
+number: 0
+league: Carolina Association
+away: Anderson
+home: Charlotte
+source: The Charlotte Observer Apr 23, 1909
+A: 2000
+
+Anderson:			ab r h po a e
+Meyers @ ss:		4 1 1 1 1 0
+Ochs @ lf:			3 1 0 1 0 0
+Kelly @ rf:			3 1 1 2 0 0
+Corrigan @ 2b:		3 0 1 2 3 0
+McLaughlin @ cf:	4 0 0 2 0 0
+Mosier @ 3b:		3 0 0 0 2 0
+Schmick @ 1b:		3 0 0 9 0 0
+Kloch @ c:			3 0 0 8 0 0
+McCarthy @ p:		2 0 0 0 1 0
+TOTALS:				28 3 3 27 9 0
+
+Charlotte:			ab r h po a e
+Linneborn @ ss:		4 0 1 0 1 0
+Brennen @ 2b:		4 0 1 2 1 0
+Blanchfield @ rf:	3 0 1 1 0 1
+Riley @ cf:			4 0 0 3 0 0
+Shumaker @ 1b:		4 0 0 5 0 1
+Baird @ 3b:			2 0 1 1 0 0
+Sharp @ lf:			4 0 1 1 0 0
+Warner @ c:			4 0 1 13 1 1
+(~9.1)Drumm @ p:	1 0 0 1 2 0
+(~9.2)Brazelle @ p:	2 0 0 0 1 0
+TOTALS:				32 0 6 27 5 3
+
+line: Anderson: 2 0 1 0 0 0 0 0 0 - 3
+line: Charlotte: 0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Anderson #4; Charlotte #8
+B_ROE: 
+B_ER: Anderson #1
+B_2B: Meyers; Sharp
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: Schmick
+B_XO: 
+P_BB: Drumm #1; Brazelle #2; McCarthy #3
+P_SO: Drumm #2; Brazelle #10; McCarthy #7
+P_H: Drumm #3; Brazelle #0; McCarthy #6
+P_IP: Drumm #2.1; Brazelle #6; McCarthy #9
+P_HP: Drumm #1
+P_WP: McCarthy
+P_BK: 
+F_DP: Corrigan, Schmick
+F_PB: Kloch
+outsatend: 
+T: 1:35
+U: Henderson
+
+P_GS: ~Drumm
+P_GF: ~Brazelle
+P_W: 
+P_L: ~Drumm
+P_SV: 
+
+---
+
+date: 1909-04-22
+number: 0
+league: Carolina Association
+away: Greenville
+home: Spartanburg
+source: The Charlotte Observer Apr 23, 1909
+A: 3000
+
+Greenville:			ab r h po a e
+Betcher @ 1b:		5 0 2 10 0 0
+Langroff @ ss:		5 0 1 2 4 0
+Beard @ cf:			4 1 2 2 0 0
+Touchstone @ p:		4 1 1 0 3 0
+Blackstone @ rf:	4 1 1 1 0 0
+Hoffman @ lf:		3 0 0 1 0 0
+Childs @ 2b:		4 1 3 2 2 0
+McLatchie @ 3b:		3 0 0 2 0 0
+Cote @ c:			2 1 0 7 1 1
+TOTALS:				34 5 10 27 10 1
+
+Spartanburg:		ab r h po a e
+Rickard @ cf:		4 0 0 3 1 1
+Ritter @ 2b:		4 1 1 4 1 1
+Dingle @ 3b:		3 1 0 0 3 0
+Lanham @ 1b:		2 0 1 8 0 1
+Buesse @ c:			3 0 2 8 3 1
+Martin @ ss:		2 0 0 3 1 0
+Cooper @ lf:		4 0 0 0 0 0
+Dickerson @ rf:		4 0 1 1 0 0
+(~9.1)Matney @ p:	1 1 1 0 3 0
+(~9.2)Abercrombie @ p:	1 0 1 0 0 0
+TOTALS:				28 3 7 27 12 4
+
+line: Greenville: 0 0 2 1 2 0 0 0 0 - 5
+line: Spartanburg: 0 0 0 1 2 0 0 0 0 - 3
+
+B_LOB: Greenville #8; Spartanburg #4
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: Betcher
+B_HR: Ritter
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Matney #2; Touchstone #2
+P_SO: Matney #4; Abercrombie #2; Touchstone #6
+P_H: 
+P_IP: 
+P_HP: Touchstone #1; Matney #1; Abercrombie #1
+P_WP: 
+P_BK: 
+F_DP: McLatchie, Childs, Betcher
+F_PB: 
+outsatend: 
+T: 2:00
+U: Mahoney
+
+P_GS: ~Matney
+P_GF: ~Abercrombie
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-04-22
+number: 0
+league: Carolina Association
+away: Winston-Salem
+home: Greensboro
+source: The Charlotte Observer Apr 23, 1909
+A: 2000
+
+Winston-Salem:		ab r h po a e
+Brent @ lf:			2 0 0 2 0 1
+Gilmore @ c:		0 1 1 0 1 0
+Snedden @ 3b:		5 1 3 0 0 0
+Fogarty @ 1b:		5 1 1 8 0 1
+Carter @ cf:		4 2 2 4 0 1
+Redmond @ 2b:		2 1 0 3 2 1
+Lovett @ ss:		4 1 1 5 2 0
+Woodard @ rf-lf:	4 1 1 0 0 0
+Schmidt @ c-rf:		4 1 0 3 0 0
+McGill @ p:			2 1 1 0 4 0
+Withers @ p:		1 1 0 2 1 0
+TOTALS:				33 11 10 27 10 4
+
+Greensboro:		ab r h po a e
+Anthony @ lf:	5 1 1 1 0 0
+Doak @ 3b:		5 1 1 2 2 0
+McKevitt @ 1b:	3 0 0 10 1 1
+Bentley @ rf:	3 2 1 2 2 0
+Hicks @ 2b:		4 1 0 2 4 1
+Sisson @ cf:	4 1 0 0 0 0
+Lynch @ ss:		4 1 2 2 1 3
+Walsh @ c:		4 0 0 5 4 0
+(~9.1)Hammersley @ p:	2 0 1 2 2 0
+(~9.2)Walters @ p:	1 0 0 1 2 0
+TOTALS:			35 7 6 27 18 5
+
+line: Winston-Salem: 0 0 0 0 0 1 5 2 3 - 11
+line: Greensboro: 0 1 0 0 0 6 0 0 0 - 7
+
+B_LOB: Winston-Salem #2; Greensboro #7
+B_ROE: 
+B_ER: Winston-Salem #6; Greensboro #2
+B_2B: Carter
+B_3B: Snedden; McGill
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: McKevitt; Hammersley
+B_XO: 
+P_BB: Withers #3; Hammersley #2; Walters #3
+P_SO: McGill #2; Hammersley #2
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: McKevitt
+F_PB: 
+outsatend: 
+T: 2:10
+U: Stanley; La Rouque
+
+P_GS: ~Hammersley
+P_GF: ~Walters
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-04-23
+number: 0
+league: Carolina Association
+away: Anderson
+home: Charlotte
+source: The Charlotte Observer Apr 24, 1909
+A: 700
+
+Anderson:			ab r h po a e
+Meyers @ ss:		4 0 1 4 1 0
+Ochs @ lf:			2 0 1 2 0 0
+Kelly @ rf:			3 1 1 1 0 0
+Miller @ 2b:		5 1 2 1 3 0
+McLaughlin @ cf:	5 0 0 1 0 0
+Mosier @ 3b:		5 0 2 0 3 1
+Schmick @ 1b:		5 2 3 11 0 0
+Klock @ c:			4 0 1 7 2 0
+Waters @ p:			3 0 0 0 2 0
+TOTALS:				36 4 11 27 11 1
+
+Charlotte:			ab r h po a e
+Linneborn @ ss:		4 1 1 2 5 2
+Brennen @ 2b:		4 0 1 2 1 1 
+Blanchfield @ rf:	2 0 1 0 0 0
+Riley @ cf:			3 0 0 1 0 0
+Shumaker @ 1b:		3 0 0 13 3 1
+Baird @ 3b:			3 0 0 2 3 0
+Sharp @ lf:			1 0 0 0 0 0
+Smith @ lf:			1 0 0 1 0 0
+Warner @ c:			3 0 0 6 1 0
+Finn @ p:			1 0 0 0 2 0
+Ford @ p:			1 0 0 0 0 0
+*Humphrey @ ph:		1 0 0 0 0 0
+TOTALS:				27 1 3 27 15 4
+
+*: batted for Ford in 9th
+
+line: Anderson: 0 1 0 0 0 1 2 0 0 - 4
+line: Charlotte: 1 0 0 0 0 0 0 0 0 - 1
+
+B_LOB: Anderson #13; Charlotte #1
+B_ROE: Anderson #1; Charlotte #1
+B_ER: Anderson #3; Charlotte #1
+B_2B: Kelly; Meyers
+B_3B: Schmick
+B_HR: 
+B_SB: Linneborn #2; Ochs; Schmick
+B_SH: Blanchfield; Ochs
+B_SF: 
+B_HP: Kelly
+B_XO: 
+P_BB: Finn #3; Ford #2; Waters #1
+P_SO: Finn #1; Ford #2; Waters #6
+P_H: 
+P_IP: ~Finn #4.1; ~Ford #4.2
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Miller, Schmick; McLaughlin, Meyers; Linneborn, Shumaker; Baird, Warner; Shumaker
+F_PB: 
+outsatend: 
+T: 1:40
+U: Henderson
+
+P_GS: ~Finn
+P_GF: ~Ford
+P_W: 
+P_L: ~Ford
+P_SV: 
+
+---
+
+date: 1909-04-23
+number: 0
+league: Carolina Association
+away: Greenville
+home: Spartanburg
+source: The Charlotte Observer Apr 24, 1909
+
+Greenville:			ab r h po a e
+Betcher @ 1b:		5 1 2 11 0 0
+Landgraff @ ss:		6 1 3 0 3 1
+Beard @ cf:			2 1 1 1 0 0
+Brazelle @ rf:		5 1 2 1 0 0
+Blackstone @ lf:	2 0 0 0 0 0
+Touchstone @ lf:	3 1 1 4 0 0
+Childs @ 2b:		4 3 4 4 2 0
+McLatchie @ 3b:		5 2 3 1 5 1
+Cote @ c:			4 0 1 6 3 0
+(~9.1)McFarland @ p:	1 0 0 0 4 0
+(~9.2)McCarthy @ p:	4 1 1 0 2 0
+TOTALS:				40 11 18 27 19 2
+
+Spartanburg:	ab r h po a e
+Rickard @ cf:	4 0 1 4 1 0
+Ritter @ 2b:	4 1 0 3 2 1
+Dingle @ 3b:	3 1 0 0 3 0
+Lanham @ 1b:	4 0 1 8 1 0
+Beusse @ c:		4 1 1 6 2 0
+Martin @ ss:	4 1 1 2 1 0
+Cooper @ lf:	4 0 0 2 0 0
+Dickerson @ rf:	4 0 1 1 0 0
+(~9.1)O'Mara @ p:	2 0 1 0 3 0
+(~9.2)Averett @ p:	1 0 1 1 2 0
+TOTALS:			34 4 7 27 15 1
+
+line: Greenville: 0 0 0 2 6 1 0 1 1 - 11
+line: Spartanburg: 2 0 0 0 0 0 0 0 2 - 4
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Landgraff #2
+B_3B: Lanham
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: O'Mara #4; McFarland #1; McCarthy #1
+P_SO: O'Mara #2; Averett #2; McCarthy #4
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: O'Mara, Beusse, Lanham
+F_PB: Beusse #2
+outsatend: 
+T: 2:05
+U: Mahoney
+
+P_GS: ~O'Mara; ~McFarland
+P_GF: ~Averett; ~McCarthy
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-04-23
+number: 0
+league: Carolina Association
+away: Winston-Salem
+home: Greensboro
+source: The Charlotte Observer Apr 24, 1909
+status: postponed
+status-reason: rain
+
+---
+
+date: 1909-04-24
+number: 0
+league: Carolina Association
+away: Anderson
+home: Charlotte
+source: The Charlotte Observer Apr 24, 1909
+A: 1200
+
+Anderson:			ab r h po a e
+Meyers @ ss:		5 2 3 1 1 1
+Ochs @ lf:			4 1 3 0 0 0
+Kelly @ rf:			4 0 1 1 0 0
+Miller @ 2b:		2 0 1 1 3 0
+Corrigan @ 2b:		2 0 1 2 1 0
+McLaughlin @ cf:	4 0 1 1 1 0
+Mosier @ 3b:		4 0 0 2 2 1
+Schmick @ 1b:		4 1 1 8 1 0
+Klock @ c:			4 0 0 7 3 0
+Lathrop @ p:		3 0 0 0 2 1
+*McMillan @ ph:		1 0 1 0 0 0
+TOTALS:				37 4 12 23 14 3
+
+Charlotte:		ab r h po a e
+Riley @ lf:		4 0 0 2 0 0
+Linneborn @ ss:	4 1 0 2 4 0
+Smith @ rf:		4 2 2 2 0 0
+Shumaker @ 1b:	4 1 1 8 0 0
+Brennen @ 2b:	3 1 3 8 1 0
+Sharp @ cf:		3 1 2 1 0 0
+Baird @ 3b:		4 0 3 2 3 1
+Warner @ c:		3 0 1 5 1 0
+Humphrey @ p:	4 0 1 0 3 0
+TOTALS:			33 6 13 27 12 1
+
+*: batted for Lathrop in 9th
+
+B_LOB: Anderson #7; Charlotte #6
+B_ROE: 
+B_ER: Anderson #4; Charlotte #5
+B_2B: Smith; Baird
+B_3B: 
+B_HR: 
+B_SB: Linneborn; Brennen; Ochs
+B_SH: Brennen; Warner
+B_SF: 
+B_HP: 
+B_XO: Baird, hit by batted ball
+P_BB: Lathrop #1
+P_SO: Humphrey #4; Lathrop #5
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Humphrey, Linneborn, Shumaker; Mosier, Schmick, Klock
+F_PB: 
+outsatend: 
+T: 1:40
+U: Henderson
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-04-24
+number: 0
+league: Carolina Association
+away: Winston-Salem
+home: Greensboro
+source: The Charlotte Observer Apr 25, 1909
+A: 1000
+
+Winston-Salem:	ab r h po a e
+Brent @ lf:		6 0 0 2 0 0
+Snedden @ 3b:	5 1 2 4 4 0
+Fogarty @ 1b:	4 0 1 19 0 1
+Carter @ cf:	6 1 5 3 0 0
+Redmond @ 2b:	6 1 1 4 4 0
+Lovett @ ss:	5 0 1 0 6 1
+Woodard @ rf:	5 1 1 2 0 0
+Schmidt @ c:	4 0 0 2 2 0
+Withers @ p:	5 0 2 0 3 1
+TOTALS:			46 4 13 36 19 3
+
+Greensboro:			ab r h po a e
+Anthony @ lf:		6 0 0 5 0 0
+Doak @ 3b:			5 0 1 1 2 1
+McKevitt @ 1b:		5 0 0 12 1 0
+Bentley @ rf:		4 1 2 1 1 0
+Hicks @ 2b:			5 1 1 2 2 0
+Sisson @ cf:		5 1 1 2 1 0
+Simmons @ ss:		5 1 1 2 5 1
+Walsh @ c:			4 0 0 9 1 0
+Fitzpatrick @ p:	4 0 1 1 1 0
+TOTALS:				43 4 7 35 14 2
+
+line: Winston-Salem: 0 0 0 0 1 0 1 1 1 0 0 0 - 4
+line: Greensboro: 0 0 0 0 4 0 0 0 0 0 0 0 - 4
+
+B_LOB: Winston-Salem #10; Greensboro #6
+B_ROE: 
+B_ER: Winston-Salem #2; Greensboro #4
+B_2B: Bentley #2; Carter #2; Fogarty; Woodard
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: Fogarty
+B_XO: 
+P_BB: Fitzpatrick #1; Withers #2
+P_SO: Fitzpatrick #6; Withers #1
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: Walsh
+outsatend: 
+T: 2:40
+U: Laroque
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+status: called
+status-reason: darkness
+
+---
+
+date: 1909-04-24
+number: 0
+league: Carolina Association
+away: Greenville
+home: Spartanburg
+source: The Charlotte Observer Apr 25, 1909
+A: 1500
+
+Greenville:			ab r h po a e
+Batcher @ 1b:		5 1 1 9 1 0
+Langraff @ ss:		4 1 1 1 2 0
+Beard @ cf:			3 0 1 4 0 0
+Touchstone @ lf:	5 1 1 2 0 0
+Childs @ 2b:		5 0 1 2 0 0
+McLatchie @ 3b:		2 2 0 2 1 0
+Bazell @ rf:		4 0 0 1 0 0
+Cote @ c:			3 0 0 4 1 0
+Laval @ p:			4 0 2 2 3 0
+TOTALS:				35 5 7 27 8 0
+
+Spartanburg:	ab r h po a e
+Rickard @ cf:	2 0 0 1 0 0
+Ritter @ 2b:	3 0 1 2 0 0
+Dingle @ 3b:	4 0 0 1 4 4
+Lanham @ 1b:	4 0 1 9 1 2
+Beusse @ rf:	4 0 2 3 1 0
+Martin @ ss:	3 0 1 3 1 1
+Springs @ lf:	4 0 0 2 0 0
+Dickenson @ c:	3 0 0 4 2 0
+Redfearn @ p:	1 0 0 1 6 1 
+*Cooper @ ph:	1 0 0 0 0 0
+TOTALS:			29 0 5 26 15 8
+
+*: batted for Redfearn in 9th
+
+B_LOB: Greenville #9; Spartanburg #8
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: Beard; Ritter; Martin
+B_SF: 
+B_HP: Langraff
+B_XO: 
+P_BB: Laval #5; Redfearn #4
+P_SO: Laval #4; Redfearn #3
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Lanham, Ritter; Beusse, Dickenson; Lanham
+F_PB: 
+outsatend: 
+T: 
+U: Mahoney
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-04-26
+number: 0
+league: Carolina Association
+away: Greensboro
+home: Greenville
+source: The Charlotte Observer Apr 27, 1909
+A: 2500
+
+Greensboro:		ab h po a e
+Anthony @ lf:	3 1 1 0 0
+Doak @ 3b:		4 1 0 2 0
+McKevitt @ 1b:	4 0 9 0 1
+Bentley @ rf:	3 0 1 0 0
+Hicks @ 2b:		3 0 2 4 0
+Tisson @ lf:	3 1 2 0 0
+Simmons @ ss:	3 0 3 0 2
+Walsh @ c:		3 0 5 1 0
+Mersman @ p:	3 1 0 1 0
+TOTALS:			29 4 23 10 3
+
+Greenville:		ab h po a e
+Betcher @ 1b:	3 0 8 1 0
+Landgraff @ ss:	3 1 2 3 1
+Beard @ cf:		3 1 0 0 0
+Touchstone @ p:	4 2 1 2 0
+Laval @ lf:		4 0 2 0 0
+Childs @ 2b:	4 2 5 3 0
+McLatchie @ 3b:	2 1 1 1 1
+Brazelle @ rf:	3 1 2 0 0
+Cote @ c:		2 0 6 2 0
+TOTALS:			28 8 27 12 1
+
+line: Greensboro: 0 0 0 0 0 0 0 0 0 - 0
+line: Greenville: 0 0 3 0 0 0 0 1 x - 4
+
+B_LOB: 
+B_ROE: 
+B_ER: Greenville #1
+B_2B: Touchstone; Doak
+B_3B: 
+B_HR: 
+B_SB: Brazelle; Simmons
+B_SH: Betcher; McLatchie; Beard
+B_SF: 
+B_HP: 
+B_XO: Landgraff, bunting third strike
+P_BB: Touchstone #1; Mersman #2
+P_SO: Touchstone #6; Mersman #4
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Cote, Landgraff; Walsh, McKevitt, Walsh
+F_PB: 
+outsatend: 
+T: 2:00
+U: Henderson
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-04-26
+number: 0
+league: Carolina Association
+away: Spartanburg
+home: Anderson
+source: The Charlotte Observer Apr 27, 1909
+
+Spartanburg:	ab h po a e
+Dingle @ 3b:	5 2 2 0 1
+Rickard @ cf:	3 0 1 0 0
+Ritter @ 2b:	4 1 2 1 0
+Lanham @ 1b:	5 0 6 0 0
+Beusse @ rf:	2 0 1 0 0
+Martin @ ss:	4 1 4 1 1
+Cooper @ lf:	3 0 1 1 0
+Dickenson @ c:	2 1 8 1 1
+Abercrombie @ p:	4 1 1 4 1
+TOTALS:			32 6 26 8 4
+
+Anderson:		ab h po a e
+Meyers @ ss:	5 1 2 4 1
+Ochs @ lf:		4 3 0 0 0
+Kelly @ rf:		4 2 2 0 0
+Miller @ 2b:	4 1 2 0 1
+McLaughlin @ cf:	3 2 0 0 0
+Mozier @ 3b:	4 0 3 4 1
+Schmick @ 1b:	4 2 13 1 0
+Klock @ c:		4 0 5 0 0
+McCarthy @ p:	3 0 0 4 1
+*McMillan @ ph:	1 0 0 0 0
+TOTALS:			36 11 27 13 4
+
+*: batted for McCarthy in 9th
+
+line: Spartanburg: 0 0 1 0 0 5 0 0 0 - 6
+line: Anderson: 0 0 0 2 3 0 0 0 2 - 7
+
+B_LOB: Spartanburg #7; Anderson #6
+B_ROE: Spartanburg #3; Anderson #3
+B_ER: 
+B_2B: Kelly
+B_3B: McLaughlin; Dickenson
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: McCarthy #4
+P_SO: McCarthy #2; Abercrombie #5
+P_H: 
+P_IP: 
+P_HP: McCarthy #2; Abercrombie #1
+P_WP: 
+P_BK: 
+F_DP: Meyers, Schmick, Klock
+F_PB: Dickenson
+outsatend: 2
+T: 1:50
+U: Mahoney
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-04-27
+number: 0
+league: Carolina Association
+away: Spartanburg
+home: Anderson
+source: The Charlotte Observer Apr 28, 1909
+status: postponed
+status-reason: rain
+
+---
+
+date: 1909-04-27
+number: 0
+league: Carolina Association
+away: Greensboro
+home: Greenville
+source: The Charlotte Observer Apr 28, 1909
+status: postponed
+status-reason: rain
+
+---
+
+date: 1909-04-28
+number: 0
+league: Carolina Association
+away: Spartanburg
+home: Anderson
+source: The Charlotte Observer Apr 29, 1909
+
+Spartanburg:	ab h po a e
+Dingle @ 3b:	5 2 1 4 1
+Rickard @ cf:	5 1 4 0 0
+Ritter @ 2b:	4 3 0 1 1
+Lanham @ 1b:	5 1 12 0 0
+Beusse @ c:		5 1 8 1 0
+Martin @ ss:	5 2 2 1 1
+Cooper @ lf:	4 0 0 0 0
+Dickenson @ rf:	5 1 3 0 0
+(~9.1)Matney @ p:	1 1 0 0 0
+(~9.2)Averett @ p:	3 1 0 3 0
+TOTALS:			42 13 30 10 3
+
+Anderson:		ab h po a e
+Meyers @ ss:	4 1 1 5 1
+Ochs @ lf-c:	5 1 4 2 2
+Kelly @ rf:		4 1 1 0 0
+Miller @ 2b:	5 1 3 3 0
+McLaughlin @ cf:	4 0 1 0 0
+Mosier @ 3b:	4 0 1 3 0
+Schm'k @ 1b:	4 1 12 1 0
+Klock @ c:		4 0 6 0 0
+Waters @ p:		4 1 1 4 0
+MacMillan @ ph:	0 0 0 0 0
+TOTALS:			38 6 30 18 3
+
+line: Spartanburg: 0 0 2 0 0 0 0 2 0 3 - 7
+line: Anderson: 2 1 1 0 0 0 0 0 0 0 - 4
+
+B_LOB: Spartanburg #7; Anderson #7
+B_ROE: 
+B_ER: 
+B_R: Dingle #2; Rickard; Ritter; Lanham; Martin; Matney; Meyers; Kelly; Miller; Klock
+B_2B: Waters
+B_3B: Martin
+B_HR: Ritter
+B_SB: Ochs; Lanham; Beusse; Martin
+B_SH: McLaughlin; Ritter
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Waters #1; Matney #1; Averett #1
+P_SO: Matney #1; Averett #6; Waters #5
+P_H: Matney #4; Averett #3
+P_IP: Matney #2; Averett #7
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 2:20
+U: Mahoney
+
+P_GS: ~Matney
+P_GF: ~Averett
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-04-28
+number: 1
+league: Carolina Association
+away: Greensboro
+home: Greenville
+source: The Charlotte Observer Apr 29, 1909
+A: 1500
+
+Greensboro:		ab h po a e
+Anthony @ lf:	3 1 2 0 0
+Doak @ 2b:		4 2 1 3 2
+McKevitt @ 1b:	4 1 8 0 0
+Bently @ rf:	5 2 3 2 0
+Hicks @ ss:		3 1 3 2 0
+Sisson @ cf:	3 2 5 0 0
+Jackson @ 2b:	4 2 0 0 0
+Walsh @ c:		4 1 5 0 0
+Walters @ p:	3 0 0 1 0
+TOTALS:			33 12 27 8 2
+
+Greenville:		ab h po a e
+Betcher @ 1b:	4 1 13 0 0
+Landgraff @ ss:	4 2 1 1 0
+Beard @ cf:		4 1 4 1 0
+Touchst'n @ rf:	4 2 3 0 0
+Laval @ lf:		4 0 0 0 0
+Childs @ 2b:	4 0 3 4 0
+M'L't'le @ 3b:	3 0 0 2 0
+Cote @ c:		3 0 1 4 1
+McFarland @ p:	1 0 0 1 0
+Blackstone @ p:	2 0 1 0 0
+TOTALS:			33 6 27 13 1
+
+line: Greensboro: 0 3 0 0 0 0 0 1 2 - 6
+line: Greenville: 0 0 0 0 0 2 0 0 0 - 2
+
+B_LOB: 
+B_ROE: 
+B_ER: Greensboro #6; Greenville #1
+B_R: Anthony #2; Doak; Bently #2; Hicks #2; Sisson; Jackson; Walters; Betcher; Landgraff
+B_2B: Landgraff; Bently; Sisson; Jackson
+B_3B: Jackson
+B_HR: 
+B_SB: Bently; Hicks
+B_SH: Sisson; McKevitt; Doak
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: McFarland #1; Blackstone #3
+P_SO: Walters #5
+P_H: McFarland #7; Blackstone #5; Walters #6
+P_IP: McFarland #3; Blackstone #6; Walters #9
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Bently, McKevitt #2
+F_PB: 
+outsatend: 
+T: 
+U: Henderson
+
+P_GS: ~McFarland
+P_GF: ~Blackstone
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-04-28
+number: 2
+league: Carolina Association
+away: Greensboro
+home: Greenville
+source: The Charlotte Observer Apr 29, 1909
+A: 2183
+
+Greensboro:		ab h po a e
+Anthony @ lf:	5 3 7 0 0
+Doak @ 3b:		4 1 0 1 0
+McKevitt @ 1b:	3 1 9 0 0
+Bently @ rf:	4 2 1 0 1
+Hicks @ ss:		4 1 2 2 1
+Sisson @ cf:	4 1 3 0 0
+Jackson @ 2b:	3 0 0 3 0
+Walsh @ c:		3 0 5 2 0
+Fitzpatrick @ p:	4 0 0 2 0
+TOTALS:			34 9 27 10 2
+
+Greenville:		ab h po a e
+Betcher @ 1b:	4 2 10 0 0
+Landgraff @ ss:	4 2 6 4 1
+Beard @ cf:		4 0 2 0 0
+Touchst'n @ rf:	4 0 0 0 1
+Laval @ lf:		4 1 2 1 1
+Childs @ 2b:	3 0 3 4 0
+M'L't'le @ 3b:	4 1 2 4 0
+Cote @ c:		3 0 2 1 0
+McCarthy @ p:	1 0 0 6 0
+Bl'kstone @ p:	1 0 0 0 0
+TOTALS:			32 6 20 20 3
+
+line: Greensboro: 1 0 0 0 2 0 0 0 0 - 3
+line: Greenville: 0 0 1 0 1 0 0 0 0 - 2
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_R: Anthony; McKevitt; Bently; Cote; McCarthy
+B_2B: Landgraff
+B_3B: Anthony
+B_HR: 
+B_SB: Anthony; Betcher; Landgraff
+B_SH: McKevitt; McCarthy
+B_SF: 
+B_HP: Jackson
+B_XO: 
+P_BB: Fitzpatrick #3; McCarthy #1
+P_SO: Fitzpatrick #5; McCarthy #2
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Laval, Betcher
+F_PB: 
+outsatend: 
+T: 
+U: Henderson
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
