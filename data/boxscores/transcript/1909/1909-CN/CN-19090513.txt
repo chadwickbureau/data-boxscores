@@ -1,0 +1,70 @@
+date: 1909-05-18
+number: 0
+league: Carolina Association
+away: Anderson
+home: Charlotte
+source: The Charlotte News May 19, 1909
+A: 1000
+
+Anderson:		ab h po a e
+Wetherell @ lf:	2 1 3 0 0
+McHugh @ rf:	3 0 2 0 0
+Meyers @ ss:	5 1 3 3 1
+Kelly @ cf:		5 2 1 0 0
+Miller @ 2b:	3 1 0 2 0
+McCarthy @ 2b:	2 0 0 0 0
+Schmick @ 1b:	5 3 11 1 0
+Klock @ c:		3 1 6 0 0
+Mosier @ 3b:	4 2 1 1 1
+Lathrop @ p:	4 1 0 6 0
+TOTALS:			36 12 27 13 2
+
+Charlotte:			ab h po a e
+Linneborn @ 3b:		5 0 1 1 1
+McLaughlin @ cf:	5 1 5 0 0
+Simmons @ ss:		4 0 3 3 1
+Humphrey @ rf:		5 2 1 0 0
+Brennen @ 2b:		3 0 3 0 1
+Moreland @ lf:		3 2 2 0 0
+Shumaker @ 1b:		4 2 7 1 0
+Sherrill @ c:		3 1 4 2 0
+Ellinor @ p:		2 1 1 2 1
+*Blanchfield @ ph:	1 0 0 0 0
+TOTALS:				36 9 27 9 4
+
+*: batted for Ellinor in 9th
+
+line: Anderson: 0 0 0 2 0 0 1 0 3 - 6
+line: Charlotte: 0 1 0 3 0 1 0 0 0 - 5
+
+B_LOB: 
+B_ROE: Anderson #3; Charlotte #2
+B_ER: Anderson #4; Charlotte #4
+B_R: Wetherell #2; Meyers; Miller; Schmick; Lathrop; Simmons; Humphrey #2; Moreland; Shumaker
+B_2B: 
+B_3B: Humphrey
+B_HR: Moreland
+B_SB: Linneborn; Wetherell
+B_SH: McHugh #2; Klock; Moreland
+B_SF: 
+B_HP: Sherrill
+B_XO: 
+P_BB: Ellinor #3; Lathrop #2
+P_SO: Ellinor #1; Lathrop #6
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Sherrill, Brennen
+F_PB: 
+outsatend: 
+T: 1:50
+U: Weeks
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
