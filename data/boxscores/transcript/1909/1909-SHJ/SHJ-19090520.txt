@@ -1,0 +1,97 @@
+date: 1909-05-20
+number: 0
+league: Carolina Association
+away: Anderson
+home: Spartanburg
+source: Spartanburg Herald-Journal May 21, 1909
+status: postponed
+status-reason: rain
+
+---
+
+date: 1909-05-20
+number: 0
+league: Carolina Association
+away: Greenville
+home: Winston-Salem
+source: Spartanburg Herald-Journal May 21, 1909
+status: postponed
+status-reason: rain
+
+---
+
+date: 1909-05-20
+number: 0
+league: Carolina Association
+away: Greensboro
+home: Charlotte
+source: Spartanburg Herald-Journal May 21, 1909
+status: postponed
+status-reason: rain
+
+---
+
+date: 1909-05-21
+number: 0
+league: Carolina Association
+away: Anderson
+home: Spartanburg
+source: Spartanburg Herald-Journal May 22, 1909
+
+Anderson:		ab r h po a e
+Weherell @ cf:	4 1 0 1 0 0
+Ochs @ lf:		5 0 1 2 0 0
+Meyers @ ss:	4 0 2 2 3 0
+Kelly @ 1b:		4 0 0 4 0 0
+McHugh @ rf:	4 0 1 2 0 0
+Wideman @ 2b:	4 0 1 1 2 1
+Schmick @ p:	3 0 0 1 4 0
+Klock @ c:		4 0 1 6 1 0
+Mosier @ 3b:	4 0 0 2 4 0
+TOTALS:			36 1 7 31 14 1
+
+Spartanburg:	ab r h po a e
+Dingle @ 3b:	5 1 2 1 4 0
+Springs @ lf:	4 0 0 2 0 0
+Lanham @ 2b:	5 1 2 13 1 0
+Buesse @ c:		5 0 1 9 3 0
+Martin @ ss:	3 0 0 1 5 0
+Ritter @ 2b:	3 0 0 4 0 0
+Dickinson @ rf:	3 0 0 1 0 0
+Rickard @ cf:	4 0 1 2 0 0
+Averett @ p:	4 0 1 0 1 0
+TOTALS:			36 2 7 33 14 0
+
+line: Anderson: 0 0 0 0 0 0 0 0 0 0 1 - 1
+line: Spartanburg: 0 0 0 0 0 0 0 0 0 0 2 - 2
+
+B_LOB: Spartanburg #7; Anderson #5
+B_ROE: 
+B_ER: 
+B_2B: Averett; Klock
+B_3B: 
+B_HR: 
+B_SB: Lanham #2; Weherell; Ochs
+B_SH: Springs; Kelly
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Averett #3; Schmick #2
+P_SO: Averett #7; Schmick #3
+P_H: Averett #6; Schmick #7
+P_IP: 
+P_HP: 
+P_WP: Averett #0; Schmick #1
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 2:00
+U: Lucid
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
