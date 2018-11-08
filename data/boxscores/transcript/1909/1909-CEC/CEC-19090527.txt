@@ -1,0 +1,213 @@
+date: 1909-06-01
+number: 0
+league: Carolina Association
+away: Greenville
+home: Anderson
+source: The Evening Chronicle Jun 2, 1909
+
+Greenville:			ab h po a e
+Rankin @ lf:		5 3 1 0 0
+Noojin @ cf:		3 0 1 2 0
+Landgraff @ ss:		2 0 3 2 2
+Betcher @ 3b:		4 1 2 2 0
+Touchstone @ rf-p:	4 0 1 0 0
+Rhynders @ 1b:		4 1 8 0 1
+Wingo @ c:			4 0 5 3 1
+Childs @ 2b:		4 1 2 5 0
+Thackham @ p:		2 1 0 1 0
+Beard @ rf:			2 1 0 0 0
+TOTALS:				34 8 23 15 4
+
+Anderson:		ab h po a e
+Weherell @ cf:	3 1 0 0 0
+Schmick @ 1b:	3 2 12 0 0
+Meyers @ ss:	3 3 3 2 1
+Miller @ 2b:	4 1 1 3 0
+Ochs @ lf:		4 1 0 0 0
+Kelly @ rf:		3 2 0 0 0
+Klock @ c:		3 1 11 1 0
+Corbett @ 3b:	4 0 0 2 0
+McCarthy @ p:	3 0 0 3 0
+TOTALS:			30 11 27 11 1
+
+line: Greenville: 0 0 2 0 0 1 1 0 0 - 4
+line: Anderson: 1 0 0 0 0 2 0 4 x - 7
+
+B_LOB: Greenville #5; Anderson #4
+B_ROE: 
+B_ER: Greenville #2; Anderson #4
+B_R: Weherell #3; Schmick #2; Meyers; Miller; Rankin; Landgraff; Childs; Thackham
+B_2B: Schmick; Kelly; Childs; Thackham
+B_3B: 
+B_HR: Miller
+B_SB: Meyers; Miller; Rankin; Landgraff
+B_SH: Kelly; Noojin
+B_SF: 
+B_HP: Klock
+B_XO: Ochs, hit by batted ball
+P_BB: McCarthy #2; Thackham #3
+P_SO: McCarthy #11; Thackham #2; Touchstone #1
+P_H: Thackham #5; Touchstone #6
+P_IP: Thackham #5.1; ~Touchstone #2.2
+P_HP: 
+P_WP: McCarthy
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 2:00
+U: Lucid
+
+P_GS: ~Thackham
+P_GF: ~Touchstone
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-06-02
+number: 0
+league: Carolina Association
+away: Charlotte
+home: Winston-Salem
+source: The Evening Chronicle Jun 3, 1909
+
+Charlotte:			ab h po a e
+Dobard @ ss:		3 0 0 2 2
+McLaughlin @ cf:	3 0 1 0 0
+Cosmo @ 3b:			3 2 0 5 1
+Humphrey @ rf-p:	3 0 1 1 0
+Brennen @ 2b:		3 1 0 3 0
+Finn @ rf-lf-p:		2 0 0 0 0
+Schumaker @ 1b:		2 0 13 0 1
+Wahl @ c:			2 1 2 1 0
+Hazleton @ p-lf:	2 0 1 1 0
+TOTALS:				23 4 18 13 4
+
+Winston-Salem:		ab h po a e
+Corrigan @ 3b:		5 1 0 3 0
+Schmidt @ c:		3 0 3 0 0
+Redmond @ 2b:		4 4 3 1 0
+Fogarty @ rf:		3 2 1 0 0
+Dolan @ 1b:			4 1 6 0 0
+Carter @ cf:		3 1 2 0 0
+McGill @ lf:		4 2 0 0 0
+Lovett @ ss:		4 2 3 2 1
+Withers @ p:		4 0 0 2 0
+TOTALS:				34 13 18 8 1
+
+line: Charlotte: 0 0 0 0 0 0 - 0
+line: Winston-Salem: 2 1 3 2 1 5 - 14
+
+B_LOB: Charlotte #5; Winston-Salem #6
+B_ROE: Charlotte #1; Winston-Salem #4
+B_ER: Winston-Salem #5
+B_2B: Lovett
+B_3B: Redmond; Fogarty
+B_HR: Redmond
+B_SB: Corrigan #2; Schmidt #2; McGill #2; Redmond; Dolan; Carter; Lovett
+B_SH: McGill; Lovett
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Hazleton #2; Humphrey #2; Withers #1
+P_SO: Hazleton #0; Finn #1; Humphrey #1; Withers #3
+P_H: 
+P_IP: Hazleton #1.2; Finn #1.1; Humphrey #3
+P_HP: 
+P_WP: Humphrey
+P_BK: 
+F_DP: 
+F_PB: Wahl #2
+outsatend: 
+T: 1:50
+U: Mahoney
+status: called after 6 innings
+status-reason: allow Winston-Salem to catch train
+
+P_GS: ~Hazleton
+P_GF: ~Humphrey
+P_W:~Hazleton 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-06-02
+number: 0
+league: Carolina Association
+away: Spartanburg
+home: Greensboro
+source: The Evening Chronicle Jun 3, 1909
+A: 1000
+
+Spartanburg:	ab h po a e
+Dingle @ 3b:	4 1 1 2 1
+Springs @ lf:	4 0 2 0 0
+Lanham @ 1b:	4 2 9 2 0
+Beusse @ c:		3 2 8 0 0
+Martin @ ss:	3 0 3 5 1
+Ritter @ 2b:	4 1 0 2 1
+Dickerson @ rf:	3 1 0 0 0
+Matney @ cf:	4 0 2 0 0
+Averett @ p:	3 0 2 0 0
+TOTALS:			31 7 27 1 3
+
+Greensboro:		ab h po a e
+Anthony @ lf:	4 0 3 0 0
+Jackson @ 2b:	4 0 2 4 0
+McKevitt @ 1b:	3 0 10 0 0
+Bentley @ c:	3 0 4 2 0
+Doak @ 3b:		4 1 0 1 0
+Hicks @ cf:		3 0 1 0 0
+Walters @ p:	1 0 0 0 0
+Lynch @ ss:		4 0 4 2 2
+Ridgeway @ rf:	3 1 2 0 0
+Mersman @ p:	3 0 1 6 0
+TOTALS:			32 2 27 15 2
+
+line: Spartanburg: 0 2 0 1 0 0 0 0 0 - 3
+line: Greensboro: 0 0 0 0 0 0 2 0 0 - 2
+
+B_LOB: Spartanburg #5; Greensboro #5
+B_ROE: 
+B_ER: Spartanburg #2
+B_R: Hicks; Lynch; Beusse; Martin; Ritter
+B_2B: Ritter
+B_3B: Ridgeway
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: Bentley
+B_XO: 
+P_BB: Averett #1; Mersman #2
+P_SO: Averett #5; Mersman #4
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: LaRocque
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-06-02
+number: 0
+league: Carolina Association
+away: Greenville
+home: Anderson
+source: The Evening Chronicle Jun 3, 1909
+status: postponed
+status-reason: rain
