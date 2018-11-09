@@ -5,12 +5,13 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Arkansas State League,regular,P0964016,Bagswell,,Monroe,1909-04-20,1909-04-20,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P7851677,Bagwell,,Monroe,1909-04-16,1909-05-02,5,5,0,0,0,0,0,0,0,0,0,5
 1909,Arkansas State League,regular,P3057732,Baker,,Monroe,1909-05-15,1909-05-15,1,0,0,0,0,0,0,0,0,0,1,0
-1909,Arkansas State League,regular,P2205532,Bankhead,,Texarkana,1909-04-16,1909-06-27,29,1,0,0,0,0,0,0,0,0,28,1
+1909,Arkansas State League,regular,P2205532,Bankhead,,Texarkana,1909-04-16,1909-07-04,36,1,0,0,0,0,0,0,0,0,35,1
 1909,Arkansas State League,regular,P4358511,Barnicle,,Fort Smith,1909-04-17,1909-04-17,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P5458519,Bauer,,Alexandria,1909-05-20,1909-05-31,3,3,0,0,0,0,0,0,0,0,0,3
-1909,Arkansas State League,regular,P4746976,Berry,,Helena,1909-05-19,1909-06-27,22,0,0,0,0,0,0,0,0,0,22,0
+1909,Arkansas State League,regular,P4746976,Berry,,Helena,1909-05-19,1909-07-03,25,0,0,0,0,0,0,0,0,0,25,0
 1909,Arkansas State League,regular,P8209028,Berry,,Hot Springs,1909-04-16,1909-05-13,11,0,0,0,0,0,0,0,0,0,11,0
 1909,Arkansas State League,regular,P5591187,Blackburn,,Monroe,1909-04-18,1909-06-19,6,6,0,0,0,0,0,0,0,0,0,6
+1909,Arkansas State League,regular,P5473668,Blackwood,,Texarkana,1909-06-28,1909-07-03,2,2,0,0,0,0,0,0,0,0,0,2
 1909,Arkansas State League,regular,P3288183,Blakenfohe,,Alexandria,1909-04-28,1909-04-28,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P8965869,Blanchard,,Texarkana,1909-06-21,1909-06-21,1,0,0,0,0,0,0,0,0,0,1,0
 1909,Arkansas State League,regular,P0702741,Blanche,,Alexandria,1909-05-05,1909-05-05,1,0,0,0,0,0,0,0,0,0,1,0
@@ -18,6 +19,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Arkansas State League,regular,P1536509,Blanchett,,Alexandria,1909-05-06,1909-05-06,1,0,0,0,0,0,0,0,0,0,1,0
 1909,Arkansas State League,regular,P7290722,Blanchette,,Alexandria,1909-04-27,1909-04-28,2,1,0,0,0,0,0,0,0,0,1,1
 1909,Arkansas State League,regular,P6051273,Bockenfohr,,Alexandria,1909-05-28,1909-05-28,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Arkansas State League,regular,P5460339,Bockerwitz,,Fort Smith,1909-07-04,1909-07-04,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P2862022,Bokenfohr,,Alexandria,1909-04-17,1909-05-31,10,10,0,0,0,0,0,0,0,0,0,10
 1909,Arkansas State League,regular,P9106925,Bokenfohr,,Fort Smith,1909-06-05,1909-06-08,2,2,0,0,0,0,0,0,0,0,0,2
 1909,Arkansas State League,regular,P9094659,Bokenfore,,Alexandria,1909-05-09,1909-05-09,1,1,0,0,0,0,0,0,0,0,0,1
@@ -32,6 +34,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Arkansas State League,regular,P4611364,Brown,,Helena,1909-04-24,1909-05-03,6,0,0,0,0,0,0,0,0,0,6,0
 1909,Arkansas State League,regular,P6523582,Carroll,,Fort Smith,1909-05-27,1909-06-08,2,0,0,0,0,0,0,0,0,0,2,0
 1909,Arkansas State League,regular,P8485972,Casey,,Monroe,1909-05-07,1909-06-25,15,15,0,0,0,0,0,0,0,0,0,15
+1909,Arkansas State League,regular,P4736023,Cella,,Newport-Batesville,1909-07-02,1909-07-02,1,0,0,0,0,0,0,0,0,0,1,0
 1909,Arkansas State League,regular,P7225054,Challette,,Alexandria,1909-04-21,1909-04-21,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P3531926,Chelette,,Alexandria,1909-04-16,1909-06-04,7,7,0,0,0,0,0,0,0,0,0,7
 1909,Arkansas State League,regular,P8081890,Chellette,,Alexandria,1909-05-16,1909-05-26,3,3,0,0,0,0,0,0,0,0,0,3
@@ -46,8 +49,9 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Arkansas State League,regular,P6506363,Deardoff,,Jonesboro,1909-04-20,1909-04-23,2,2,0,0,0,0,0,0,0,0,0,2
 1909,Arkansas State League,regular,P3381473,Deardofff,,Jonesboro,1909-04-17,1909-04-17,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P2325895,Deardorf,,Jonesboro,1909-05-08,1909-06-19,6,6,0,0,0,0,0,0,0,0,0,6
-1909,Arkansas State League,regular,P5426029,Deardorff,,Jonesboro,1909-04-28,1909-06-24,8,8,0,0,0,0,0,0,0,0,0,8
+1909,Arkansas State League,regular,P5426029,Deardorff,,Jonesboro,1909-04-28,1909-07-02,11,11,0,0,0,0,0,0,0,0,0,11
 1909,Arkansas State League,regular,P3451145,Dierdolf,,Jonesboro,1909-06-05,1909-06-05,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Arkansas State League,regular,P0152927,Dietser,,Fort Smith,1909-06-29,1909-06-29,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P0904049,Dillon,,Fort Smith,1909-05-10,1909-05-10,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P9131683,Dudley,,Helena,1909-04-19,1909-04-19,1,0,0,0,0,0,0,0,0,0,1,0
 1909,Arkansas State League,regular,P8501229,Duffy,,Fort Smith,1909-04-30,1909-04-30,1,1,0,0,0,0,0,0,0,0,0,1
@@ -66,18 +70,18 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Arkansas State League,regular,P2505538,Gray,,Fort Smith,1909-06-13,1909-06-13,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P5389537,Gray,,Texarkana,1909-05-30,1909-06-09,5,0,0,0,0,0,0,0,0,0,5,0
 1909,Arkansas State League,regular,P8700456,Hancock,,Argenta,1909-04-21,1909-04-28,2,2,0,0,0,0,0,0,0,0,0,2
-1909,Arkansas State League,regular,P2319760,Hastings,,Fort Smith,1909-06-18,1909-06-25,4,4,0,0,0,0,0,0,0,0,0,4
+1909,Arkansas State League,regular,P2319760,Hastings,,Fort Smith,1909-06-18,1909-07-02,6,6,0,0,0,0,0,0,0,0,0,6
 1909,Arkansas State League,regular,P5154557,Hastings,,Helena,1909-05-31,1909-06-12,3,3,0,0,0,0,0,0,0,0,0,3
 1909,Arkansas State League,regular,P7191569,Hawkins,,Helena,1909-04-16,1909-04-23,2,2,0,0,0,0,0,0,0,0,0,2
 1909,Arkansas State League,regular,P1544576,Hegelfort,,Hot Springs,1909-04-19,1909-04-19,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P4355673,Heigelford,,Hot Springs,1909-05-22,1909-05-22,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P0415081,Heigelfort,,Hot Springs,1909-04-16,1909-06-20,17,15,0,0,0,0,0,0,0,0,2,15
-1909,Arkansas State League,regular,P9141833,Heiglefort,,Hot Springs,1909-05-01,1909-06-27,3,3,0,0,0,0,0,0,0,0,0,3
+1909,Arkansas State League,regular,P9141833,Heiglefort,,Hot Springs,1909-05-01,1909-07-01,4,4,0,0,0,0,0,0,0,0,0,4
 1909,Arkansas State League,regular,P0698394,Hellgenfort,,Hot Springs,1909-05-19,1909-05-19,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P5547568,Heninger,,Jonesboro,1909-04-22,1909-06-08,3,0,0,0,0,0,0,0,0,0,3,0
 1909,Arkansas State League,regular,P3802970,Hennenger,,Jonesboro,1909-05-06,1909-05-06,1,0,0,0,0,0,0,0,0,0,1,0
 1909,Arkansas State League,regular,P5152208,Henniger,,Jonesboro,1909-06-02,1909-06-23,4,0,0,0,0,0,0,0,0,0,4,0
-1909,Arkansas State League,regular,P5976798,Henninger,,Jonesboro,1909-04-18,1909-06-24,34,0,0,0,0,0,0,0,0,0,34,0
+1909,Arkansas State League,regular,P5976798,Henninger,,Jonesboro,1909-04-18,1909-07-03,40,0,0,0,0,0,0,0,0,0,40,0
 1909,Arkansas State League,regular,P4770568,Hessinger,,Jonesboro,1909-05-10,1909-05-10,1,0,0,0,0,0,0,0,0,0,1,0
 1909,Arkansas State League,regular,P4709963,Higglefort,,Hot Springs,1909-05-13,1909-05-13,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P7306324,Higleford,,Hot Springs,1909-06-23,1909-06-23,1,1,0,0,0,0,0,0,0,0,0,1
@@ -94,8 +98,9 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Arkansas State League,regular,P8582282,Hoeschelle,,Texarkana,1909-04-16,1909-05-01,4,4,0,0,0,0,0,0,0,0,0,4
 1909,Arkansas State League,regular,P3071504,Hunt,,Argenta,1909-05-24,1909-05-28,2,1,0,0,0,0,0,0,0,0,1,1
 1909,Arkansas State League,regular,P4864123,Hunt,,Helena,1909-04-25,1909-05-05,3,3,0,0,0,0,0,0,0,0,0,3
-1909,Arkansas State League,regular,P7287549,Jeffries,,Fort Smith,1909-05-26,1909-06-08,11,1,0,0,0,0,0,0,0,0,10,1
-1909,Arkansas State League,regular,P7174573,Jones,,Texarkana,1909-05-19,1909-06-24,11,11,0,0,0,0,0,0,0,0,0,11
+1909,Arkansas State League,regular,P7287549,Jeffries,,Fort Smith,1909-05-26,1909-07-04,12,1,0,0,0,0,0,0,0,0,11,1
+1909,Arkansas State League,regular,P2494464,Jolly,,Newport-Batesville,1909-07-03,1909-07-03,1,0,0,0,0,0,0,0,0,0,1,0
+1909,Arkansas State League,regular,P7174573,Jones,,Texarkana,1909-05-19,1909-07-04,15,15,0,0,0,0,0,0,0,0,0,15
 1909,Arkansas State League,regular,P0410351,Jost,,Fort Smith,1909-04-19,1909-05-26,12,12,0,0,0,0,0,0,0,0,0,12
 1909,Arkansas State League,regular,P2080066,Josts,,Fort Smith,1909-05-08,1909-05-08,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P6453309,Jutsi,,Texarkana,1909-06-01,1909-06-01,1,1,0,0,0,0,0,0,0,0,0,1
@@ -104,15 +109,17 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Arkansas State League,regular,P1854454,Kertzer,,Fort Smith,1909-06-23,1909-06-23,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P3953601,Ketchen,,Monroe,1909-05-01,1909-05-01,1,0,0,0,0,0,0,0,0,0,1,0
 1909,Arkansas State League,regular,P4363476,Ketchens,,Monroe,1909-05-08,1909-05-08,1,0,0,0,0,0,0,0,0,0,1,0
-1909,Arkansas State League,regular,P1929628,Kimball,,Jonesboro,1909-04-16,1909-06-25,13,13,0,0,0,0,0,0,0,0,0,13
+1909,Arkansas State League,regular,P1731462,Kiester,,Fort Smith,1909-06-28,1909-06-28,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Arkansas State League,regular,P1929628,Kimball,,Jonesboro,1909-04-16,1909-06-30,14,14,0,0,0,0,0,0,0,0,0,14
 1909,Arkansas State League,regular,P5944480,Kimbell,,Jonesboro,1909-05-18,1909-05-23,2,2,0,0,0,0,0,0,0,0,0,2
 1909,Arkansas State League,regular,P7968453,Kitchen,,Monroe,1909-04-27,1909-04-27,1,0,0,0,0,0,0,0,0,0,1,0
-1909,Arkansas State League,regular,P6853592,Kitchens,,Monroe,1909-04-21,1909-06-25,34,2,0,0,0,0,0,0,0,0,32,2
+1909,Arkansas State League,regular,P6853592,Kitchens,,Monroe,1909-04-21,1909-06-28,35,2,0,0,0,0,0,0,0,0,33,2
+1909,Arkansas State League,regular,P7527311,Kitchens,,Newport-Batesville,1909-07-02,1909-07-02,1,1,0,0,0,0,0,0,0,0,1,1
 1909,Arkansas State League,regular,P2505996,Kitchens,F.,Monroe,1909-06-22,1909-06-22,1,0,0,0,0,0,0,0,0,0,1,0
 1909,Arkansas State League,regular,P9016093,Kitchens,W.,Monroe,1909-06-22,1909-06-26,2,0,0,0,0,0,0,0,0,0,2,0
 1909,Arkansas State League,regular,P6911513,Knapp,,Monroe,1909-04-16,1909-04-28,4,0,0,0,0,0,0,0,0,0,4,0
 1909,Arkansas State League,regular,P2442094,Knaupp,,Monroe,1909-04-19,1909-05-16,14,0,0,0,0,0,0,0,0,0,14,0
-1909,Arkansas State League,regular,P2432150,Kretzer,,Fort Smith,1909-06-12,1909-06-26,4,4,0,0,0,0,0,0,0,0,0,4
+1909,Arkansas State League,regular,P2432150,Kretzer,,Fort Smith,1909-06-12,1909-07-03,5,5,0,0,0,0,0,0,0,0,0,5
 1909,Arkansas State League,regular,P1889203,Krutchen,,Fort Smith,1909-05-27,1909-05-29,2,2,0,0,0,0,0,0,0,0,0,2
 1909,Arkansas State League,regular,P3829047,Krutcher,,Fort Smith,1909-06-01,1909-06-07,2,2,0,0,0,0,0,0,0,0,0,2
 1909,Arkansas State League,regular,P5961174,Leighton,,Helena,1909-04-15,1909-05-20,14,0,0,0,0,0,0,0,0,0,14,0
@@ -125,8 +132,8 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Arkansas State League,regular,P3690552,Ling,,Texarkana,1909-06-15,1909-06-15,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P6283355,Lingelfelder,,Texarkana,1909-05-22,1909-05-22,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P2542077,Lingeneflder,,Texarkana,1909-06-22,1909-06-22,1,1,0,0,0,0,0,0,0,0,0,1
-1909,Arkansas State League,regular,P9932701,Lingenfelder,,Texarkana,1909-04-17,1909-06-27,16,16,0,0,0,0,0,0,0,0,0,16
-1909,Arkansas State League,regular,P5348874,Lingfelder,,Texarkana,1909-06-19,1909-06-19,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Arkansas State League,regular,P9932701,Lingenfelder,,Texarkana,1909-04-17,1909-06-30,17,17,0,0,0,0,0,0,0,0,0,17
+1909,Arkansas State League,regular,P5348874,Lingfelder,,Texarkana,1909-06-19,1909-07-04,2,2,0,0,0,0,0,0,0,0,0,2
 1909,Arkansas State League,regular,P6656077,Link,,Monroe,1909-06-03,1909-06-03,1,0,0,0,0,0,0,0,0,0,1,0
 1909,Arkansas State League,regular,P6143684,Lloyd,,Hot Springs,1909-05-25,1909-06-06,4,4,0,0,0,0,0,0,0,0,0,4
 1909,Arkansas State League,regular,P1698845,Ludwig,,Argenta,1909-04-17,1909-04-17,1,1,0,0,0,0,0,0,0,0,0,1
@@ -138,12 +145,13 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Arkansas State League,regular,P5719026,Luhrsen,,Argenta,1909-04-16,1909-05-17,7,7,0,0,0,0,0,0,0,0,0,7
 1909,Arkansas State League,regular,P8363516,Luhrson,,Argenta,1909-05-09,1909-05-09,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P0892995,Marshall,,Fort Smith,1909-06-06,1909-06-06,1,1,0,0,0,0,0,0,0,0,0,1
-1909,Arkansas State League,regular,P3733163,McNulty,,Monroe,1909-04-24,1909-06-22,14,14,0,0,0,0,0,0,0,0,0,14
+1909,Arkansas State League,regular,P0409104,McGaughey,,Newport-Batesville,1909-07-02,1909-07-02,1,0,0,0,0,0,0,0,0,0,1,0
+1909,Arkansas State League,regular,P3733163,McNulty,,Monroe,1909-04-24,1909-06-28,15,15,0,0,0,0,0,0,0,0,0,15
 1909,Arkansas State League,regular,P0150477,Mercer,,Fort Smith,1909-05-28,1909-05-28,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P8381166,Merchant,,Helena,1909-04-25,1909-04-28,2,2,0,0,0,0,0,0,0,0,0,2
 1909,Arkansas State League,regular,P5594047,Myers,,Fort Smith,1909-04-22,1909-05-01,5,0,0,0,0,0,0,0,0,0,5,0
 1909,Arkansas State League,regular,P2582219,Nayler,,Hot Springs,1909-06-09,1909-06-09,1,0,0,0,0,0,0,0,0,0,1,0
-1909,Arkansas State League,regular,P8807509,Naylor,,Hot Springs,1909-04-17,1909-06-27,43,1,0,0,0,0,0,0,0,0,42,1
+1909,Arkansas State League,regular,P8807509,Naylor,,Hot Springs,1909-04-17,1909-07-03,47,1,0,0,0,0,0,0,0,0,46,1
 1909,Arkansas State League,regular,P0254111,Nicholas,,Texarkana,1909-05-21,1909-05-21,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P9995869,Noyes,,Fort Smith,1909-04-16,1909-04-27,9,1,0,0,0,0,0,0,0,0,8,1
 1909,Arkansas State League,regular,P2965196,Parratt,,Texarkana,1909-05-02,1909-05-02,1,0,0,0,0,0,0,0,0,0,1,0
@@ -160,23 +168,24 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Arkansas State League,regular,P2707996,Quick,,Monroe,1909-05-30,1909-06-14,2,2,0,0,0,0,0,0,0,0,0,2
 1909,Arkansas State League,regular,P2895195,Ray,,Fort Smith,1909-05-07,1909-06-16,8,8,0,0,0,0,0,0,0,0,0,8
 1909,Arkansas State League,regular,P6613466,Ray,,Texarkana,1909-04-18,1909-04-28,4,4,0,0,0,0,0,0,0,0,0,4
-1909,Arkansas State League,regular,P3188835,Rayburn,,Jonesboro,1909-04-21,1909-06-26,9,9,0,0,0,0,0,0,0,0,0,9
+1909,Arkansas State League,regular,P3188835,Rayburn,,Jonesboro,1909-04-21,1909-07-03,11,11,0,0,0,0,0,0,0,0,0,11
 1909,Arkansas State League,regular,P3512562,Redburn,,Jonesboro,1909-05-05,1909-05-05,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P9810645,Reece,,Argenta,1909-05-07,1909-05-11,2,2,0,0,0,0,0,0,0,0,0,2
 1909,Arkansas State League,regular,P5674400,Reece,,Helena,1909-06-24,1909-06-24,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P4041829,Reese,,Argenta,1909-04-15,1909-06-05,13,13,0,0,0,0,0,0,0,0,0,13
-1909,Arkansas State League,regular,P6105648,Reese,,Helena,1909-06-15,1909-06-18,2,2,0,0,0,0,0,0,0,0,0,2
+1909,Arkansas State League,regular,P6105648,Reese,,Helena,1909-06-15,1909-07-01,3,3,0,0,0,0,0,0,0,0,0,3
 1909,Arkansas State League,regular,P4925159,Reyburn,,Jonesboro,1909-04-18,1909-05-31,4,4,0,0,0,0,0,0,0,0,0,4
 1909,Arkansas State League,regular,P1889261,Riggs,,Argenta,1909-05-11,1909-05-16,3,0,0,0,0,0,0,0,0,0,3,0
 1909,Arkansas State League,regular,P7332075,Ritter,,Argenta,1909-04-15,1909-06-06,42,1,0,0,0,0,0,0,0,0,41,1
-1909,Arkansas State League,regular,P2680073,Ritter,,Fort Smith,1909-06-09,1909-06-27,17,0,0,0,0,0,0,0,0,0,17,0
+1909,Arkansas State League,regular,P2680073,Ritter,,Fort Smith,1909-06-09,1909-07-04,23,0,0,0,0,0,0,0,0,0,23,0
 1909,Arkansas State League,regular,P0358961,Rives,,Alexandria,1909-04-17,1909-04-21,2,2,0,0,0,0,0,0,0,0,0,2
-1909,Arkansas State League,regular,P1118238,Robertson,,Jonesboro,1909-04-29,1909-06-26,8,8,0,0,0,0,0,0,0,0,0,8
-1909,Arkansas State League,regular,P7714314,Robinson,,Jonesboro,1909-04-16,1909-06-23,12,12,0,0,0,0,0,0,0,0,0,12
-1909,Arkansas State League,regular,P0119150,Rogers,,Helena,1909-04-15,1909-06-27,18,18,0,0,0,0,0,0,0,0,0,18
+1909,Arkansas State League,regular,P1118238,Robertson,,Jonesboro,1909-04-29,1909-06-28,9,9,0,0,0,0,0,0,0,0,0,9
+1909,Arkansas State League,regular,P7714314,Robinson,,Jonesboro,1909-04-16,1909-07-03,14,14,0,0,0,0,0,0,0,0,0,14
+1909,Arkansas State League,regular,P0119150,Rogers,,Helena,1909-04-15,1909-07-03,19,19,0,0,0,0,0,0,0,0,0,19
+1909,Arkansas State League,regular,P0263668,Saener,,Newport-Batesville,1909-07-01,1909-07-01,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P5259279,Sanders,,Monroe,1909-06-24,1909-06-26,2,2,0,0,0,0,0,0,0,0,0,2
 1909,Arkansas State League,regular,P1377031,Shauer,,Monroe,1909-06-26,1909-06-26,1,1,0,0,0,0,0,0,0,0,0,1
-1909,Arkansas State League,regular,P0369121,Shaw,,Texarkana,1909-05-29,1909-06-25,7,7,0,0,0,0,0,0,0,0,0,7
+1909,Arkansas State League,regular,P0369121,Shaw,,Texarkana,1909-05-29,1909-07-02,8,8,0,0,0,0,0,0,0,0,0,8
 1909,Arkansas State League,regular,P7822755,Shay,,Texarkana,1909-05-23,1909-05-23,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P6981940,Sparks,,Jonesboro,1909-05-13,1909-05-13,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P2674750,Spencer,,Texarkana,1909-04-17,1909-05-12,7,7,0,0,0,0,0,0,0,0,0,7
@@ -185,15 +194,18 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Arkansas State League,regular,P7149597,Sullivan,,Fort Smith,1909-04-27,1909-04-27,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P4566545,Taliaferro,,Alexandria,1909-05-16,1909-05-27,2,2,0,0,0,0,0,0,0,0,0,2
 1909,Arkansas State League,regular,P5630954,Taylor,,Fort Smith,1909-04-27,1909-05-28,2,1,0,0,0,0,0,0,0,0,1,1
+1909,Arkansas State League,regular,P0092763,Taylor,,Hot Springs,1909-07-01,1909-07-01,1,0,0,0,0,0,0,0,0,0,1,0
 1909,Arkansas State League,regular,P2924908,Teopperwin,,Monroe,1909-04-17,1909-04-17,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P7127282,Tesrean,,Hot Springs,1909-06-25,1909-06-25,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Arkansas State League,regular,P6653273,Tesreau,,Hot Springs,1909-06-29,1909-07-03,2,2,0,0,0,0,0,0,0,0,0,2
+1909,Arkansas State League,regular,P4587354,Tesseau,,Hot Springs,1909-06-28,1909-06-28,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P5830471,Thompson,,Fort Smith,1909-05-10,1909-05-14,3,3,0,0,0,0,0,0,0,0,0,3
 1909,Arkansas State League,regular,P3163761,Toepperwein,,Monroe,1909-04-22,1909-04-26,2,2,0,0,0,0,0,0,0,0,0,2
 1909,Arkansas State League,regular,P1946828,Topperwein,,Monroe,1909-04-19,1909-06-06,8,8,0,0,0,0,0,0,0,0,0,8
-1909,Arkansas State League,regular,P8760232,Toren,,Hot Springs,1909-05-07,1909-06-24,10,10,0,0,0,0,0,0,0,0,0,10
+1909,Arkansas State League,regular,P8760232,Toren,,Hot Springs,1909-05-07,1909-06-28,11,11,0,0,0,0,0,0,0,0,0,11
 1909,Arkansas State League,regular,P6716303,Turner,,Fort Smith,1909-05-31,1909-05-31,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P0931033,Veahy,,Helena,1909-05-23,1909-05-23,1,1,0,0,0,0,0,0,0,0,0,1
-1909,Arkansas State League,regular,P0109833,Veasey,,Helena,1909-05-20,1909-06-23,7,7,0,0,0,0,0,0,0,0,0,7
+1909,Arkansas State League,regular,P0109833,Veasey,,Helena,1909-05-20,1909-07-03,9,9,0,0,0,0,0,0,0,0,0,9
 1909,Arkansas State League,regular,P6960976,Veazey,,Helena,1909-05-12,1909-05-12,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P2203968,Veazie,,Helena,1909-05-08,1909-05-08,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P8242441,Vetter,,Fort Smith,1909-05-14,1909-05-14,1,1,0,0,0,0,0,0,0,0,0,1
@@ -204,89 +216,95 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Arkansas State League,regular,P8535328,Walter,,Argenta,1909-04-23,1909-04-23,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P3983134,Walter,,Fort Smith,1909-06-24,1909-06-24,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P7503411,Walters,,Argenta,1909-04-27,1909-06-06,12,12,0,0,0,0,0,0,0,0,0,12
-1909,Arkansas State League,regular,P9981905,Walters,,Fort Smith,1909-06-09,1909-06-27,5,5,0,0,0,0,0,0,0,0,0,5
+1909,Arkansas State League,regular,P9981905,Walters,,Fort Smith,1909-06-09,1909-07-04,7,7,0,0,0,0,0,0,0,0,0,7
 1909,Arkansas State League,regular,P2526085,Waters,,Fort Smith,1909-06-22,1909-06-22,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P4896273,Watt,,Argenta,1909-05-19,1909-06-04,6,6,0,0,0,0,0,0,0,0,0,6
 1909,Arkansas State League,regular,P7414596,Watts,,Argenta,1909-06-01,1909-06-01,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P0986489,Weaver,,Fort Smith,1909-06-05,1909-06-05,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P2517043,Webber,,Helena,1909-05-21,1909-05-21,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P5646897,Weber,,Helena,1909-06-12,1909-06-12,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Arkansas State League,regular,P8822153,Welch,,Newport-Batesville,1909-07-02,1909-07-02,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Arkansas State League,regular,P5655688,Wenger,,Jonesboro,1909-07-02,1909-07-02,1,0,0,0,0,0,0,0,0,0,1,0
+1909,Arkansas State League,regular,P1522334,Wenger,,Newport-Batesville,1909-07-01,1909-07-01,1,0,0,0,0,0,0,0,0,0,1,0
 1909,Arkansas State League,regular,P7914232,Whipple,,Monroe,1909-04-17,1909-04-17,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P7051938,Williams,,Hot Springs,1909-04-18,1909-05-22,9,9,0,0,0,0,0,0,0,0,0,9
 1909,Arkansas State League,regular,P4901936,Windham,,Alexandria,1909-05-08,1909-05-08,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Arkansas State League,regular,P7829516,Winger,,Jonesboro,1909-05-29,1909-05-29,1,0,0,0,0,0,0,0,0,0,1,0
-1909,Arkansas State League,regular,P4741973,Wright,,Hot Springs,1909-04-17,1909-06-26,23,20,0,0,0,0,0,0,0,0,3,20
+1909,Arkansas State League,regular,P4741973,Wright,,Hot Springs,1909-04-17,1909-06-30,25,22,0,0,0,0,0,0,0,0,3,22
+1909,Arkansas State League,regular,P0725152,Zanor,,Newport-Batesville,1909-07-03,1909-07-03,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Southern Association,regular,P3351237,Allen,,Little Rock,1909-06-23,1909-06-23,1,1,0,0,0,0,0,0,0,0,0,1
-1909,Southern Association,regular,P3947595,Atkins,,Atlanta,1909-04-17,1909-06-22,14,14,0,0,0,0,0,0,0,0,0,14
+1909,Southern Association,regular,P3947595,Atkins,,Atlanta,1909-04-17,1909-07-03,17,17,0,0,0,0,0,0,0,0,0,17
 1909,Southern Association,regular,P1193586,B'rwald,,Memphis,1909-05-31,1909-05-31,1,0,0,0,0,0,1,0,0,1,0,0
 1909,Southern Association,regular,P3993711,B'teinst'n,,New Orleans,1909-06-05,1909-06-05,1,0,0,0,0,0,1,0,1,0,0,0
 1909,Southern Association,regular,P4406918,B'tenst'n,,New Orleans,1909-06-06,1909-06-06,1,0,0,0,0,0,1,0,1,0,0,0
-1909,Southern Association,regular,P1918550,Babb,,Memphis,1909-04-15,1909-06-27,60,0,0,0,33,26,0,0,0,0,0,0
+1909,Southern Association,regular,P1918550,Babb,,Memphis,1909-04-15,1909-07-04,65,0,0,0,33,31,0,0,0,0,0,0
 1909,Southern Association,regular,P2647968,Baerfald,,Memphis,1909-06-20,1909-06-20,1,0,0,0,0,0,1,0,0,1,0,0
 1909,Southern Association,regular,P0570187,Baerw'd,,Memphis,1909-04-19,1909-04-19,1,0,0,0,0,0,1,0,1,0,0,0
-1909,Southern Association,regular,P3392305,Baerwald,,Memphis,1909-04-15,1909-06-27,60,0,0,18,2,0,40,0,7,33,0,0
-1909,Southern Association,regular,P2627412,Bartley,,Atlanta,1909-05-29,1909-06-26,6,6,0,0,0,0,0,0,0,0,0,6
+1909,Southern Association,regular,P3392305,Baerwald,,Memphis,1909-04-15,1909-07-04,64,0,0,18,2,0,44,0,7,37,0,0
+1909,Southern Association,regular,P2284740,Baerwd,,Memphis,1909-06-29,1909-06-29,1,0,0,0,0,0,1,0,0,1,0,0
+1909,Southern Association,regular,P2627412,Bartley,,Atlanta,1909-05-29,1909-06-30,7,7,0,0,0,0,0,0,0,0,0,7
 1909,Southern Association,regular,P4488461,Bartley,,New Orleans,1909-04-16,1909-05-09,5,5,0,0,0,0,0,0,0,0,0,5
 1909,Southern Association,regular,P4867145,Bauer,,Birmingham,1909-04-22,1909-05-21,7,7,0,0,0,0,0,0,0,0,0,7
-1909,Southern Association,regular,P8657630,Bay,,Nashville,1909-04-15,1909-06-26,40,0,0,0,0,0,40,40,0,0,0,0
-1909,Southern Association,regular,P9476564,Bayless,,Atlanta,1909-04-15,1909-06-27,61,0,0,0,0,0,61,0,61,0,0,0
+1909,Southern Association,regular,P8657630,Bay,,Nashville,1909-04-15,1909-07-03,47,0,0,0,0,0,47,47,0,0,0,0
+1909,Southern Association,regular,P9476564,Bayless,,Atlanta,1909-04-15,1909-07-03,69,0,0,0,0,0,69,0,69,0,0,0
 1909,Southern Association,regular,P1973954,Beeker,,Mobile,1909-04-16,1909-04-29,2,2,0,0,0,0,0,0,0,0,0,2
 1909,Southern Association,regular,P7177465,Benson,,Mobile,1909-04-19,1909-06-02,38,0,0,0,38,0,0,0,0,0,0,0
 1909,Southern Association,regular,P3800313,Berg,,Little Rock,1909-04-18,1909-04-18,1,0,0,1,0,0,0,0,0,0,0,0
 1909,Southern Association,regular,P8229832,Bernhard,,Nashville,1909-04-19,1909-06-16,3,3,0,0,0,0,0,0,0,0,0,3
-1909,Southern Association,regular,P9377932,Bitrolff,,Mobile,1909-04-20,1909-05-01,2,2,0,0,0,0,0,0,0,0,0,2
+1909,Southern Association,regular,P9377932,Bitrolff,,Mobile,1909-04-20,1909-06-29,3,3,0,0,0,0,0,0,0,0,0,3
 1909,Southern Association,regular,P2321652,Bittroff,,Mobile,1909-04-30,1909-04-30,1,1,0,0,0,0,0,0,0,0,0,1
-1909,Southern Association,regular,P4175328,Bittrolff,,Mobile,1909-04-15,1909-06-24,12,12,0,0,0,0,0,0,0,0,0,12
-1909,Southern Association,regular,P5174634,Bliss,,Montgomery,1909-04-17,1909-06-27,19,13,5,0,0,0,0,0,0,0,0,13
-1909,Southern Association,regular,P9829537,Boucher,,Little Rock,1909-04-15,1909-06-25,47,0,0,0,0,47,0,0,0,0,0,0
-1909,Southern Association,regular,P1780757,Bowen,,Birmingham,1909-04-15,1909-06-25,53,0,0,53,0,0,0,0,0,0,0,0
+1909,Southern Association,regular,P4175328,Bittrolff,,Mobile,1909-04-15,1909-07-04,13,13,0,0,0,0,0,0,0,0,0,13
+1909,Southern Association,regular,P5174634,Bliss,,Montgomery,1909-04-17,1909-07-01,20,14,5,0,0,0,0,0,0,0,0,14
+1909,Southern Association,regular,P9829537,Boucher,,Little Rock,1909-04-15,1909-07-04,53,0,0,0,0,53,0,0,0,0,0,0
+1909,Southern Association,regular,P1780757,Bowen,,Birmingham,1909-04-15,1909-07-03,60,0,0,60,0,0,0,0,0,0,0,0
 1909,Southern Association,regular,P8827564,Br'tstein,,New Orleans,1909-06-11,1909-06-11,2,0,0,0,0,0,2,0,0,2,0,0
 1909,Southern Association,regular,P8132275,Breit'st'n,,New Orleans,1909-05-14,1909-05-14,1,0,0,0,0,0,1,0,1,0,0,0
-1909,Southern Association,regular,P1951302,Breitenstein,,New Orleans,1909-04-19,1909-06-26,12,11,0,0,0,0,1,0,1,0,0,11
-1909,Southern Association,regular,P9558073,Buchanan,,Little Rock,1909-04-18,1909-06-23,15,13,0,0,0,0,1,0,0,1,0,13
+1909,Southern Association,regular,P1951302,Breitenstein,,New Orleans,1909-04-19,1909-06-29,13,12,0,0,0,0,1,0,1,0,0,12
+1909,Southern Association,regular,P9558073,Buchanan,,Little Rock,1909-04-18,1909-07-01,17,15,0,0,0,0,1,0,0,1,0,15
 1909,Southern Association,regular,P2495625,Burg,,Little Rock,1909-04-15,1909-04-19,4,0,0,4,0,0,0,0,0,0,0,0
-1909,Southern Association,regular,P2882736,Butler,,Nashville,1909-04-15,1909-06-26,54,0,0,0,0,54,0,0,0,0,0,0
+1909,Southern Association,regular,P2882736,Butler,,Nashville,1909-04-15,1909-07-03,61,0,0,0,0,61,0,0,0,0,0,0
 1909,Southern Association,regular,P6404747,C'nston,,Memphis,1909-04-20,1909-04-20,1,0,0,1,0,0,0,0,0,0,0,0
-1909,Southern Association,regular,P6527277,Carey,,Little Rock,1909-06-14,1909-06-25,11,0,11,0,0,0,0,0,0,0,0,0
+1909,Southern Association,regular,P6527277,Carey,,Little Rock,1909-06-14,1909-07-04,17,0,17,0,0,0,0,0,0,0,0,0
 1909,Southern Association,regular,P5984451,Carey,,Memphis,1909-04-15,1909-06-09,45,0,45,0,0,0,0,0,0,0,0,0
-1909,Southern Association,regular,P9018206,Case,,Nashville,1909-04-17,1909-06-24,13,13,0,0,0,0,0,0,0,0,0,13
-1909,Southern Association,regular,P7070734,Casey,,Little Rock,1909-04-15,1909-06-25,55,0,0,0,0,0,0,0,0,0,55,0
+1909,Southern Association,regular,P9018206,Case,,Nashville,1909-04-17,1909-06-29,14,14,0,0,0,0,0,0,0,0,0,14
+1909,Southern Association,regular,P7070734,Casey,,Little Rock,1909-04-15,1909-07-04,61,0,0,0,0,0,0,0,0,0,61,0
 1909,Southern Association,regular,P6768526,Castleton,,Atlanta,1909-04-15,1909-05-07,5,5,0,0,0,0,0,0,0,0,0,5
 1909,Southern Association,regular,P2034634,Cefalu,,New Orleans,1909-04-24,1909-04-24,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Southern Association,regular,P7078949,Cobb,,Memphis,1909-05-16,1909-05-25,6,0,0,0,0,0,4,0,0,4,0,0
-1909,Southern Association,regular,P3735882,Cocash,,Little Rock,1909-04-20,1909-06-25,52,0,0,17,0,1,36,9,1,26,0,0
-1909,Southern Association,regular,P6533037,Collins,,Little Rock,1909-04-15,1909-06-25,57,0,1,0,1,10,46,46,0,0,0,0
+1909,Southern Association,regular,P3735882,Cocash,,Little Rock,1909-04-20,1909-07-04,58,0,0,17,0,1,42,9,1,32,0,0
+1909,Southern Association,regular,P2730794,Coliins,,Little Rock,1909-06-28,1909-06-28,1,0,0,0,0,0,1,1,0,0,0,0
+1909,Southern Association,regular,P6533037,Collins,,Little Rock,1909-04-15,1909-07-04,62,0,1,0,1,10,51,51,0,0,0,0
 1909,Southern Association,regular,P4176025,Compton,,Little Rock,1909-05-01,1909-06-11,6,6,0,0,0,0,1,0,0,1,0,6
 1909,Southern Association,regular,P4101511,Connolly,,Little Rock,1909-04-15,1909-05-15,8,7,0,0,0,0,0,0,0,0,0,7
 1909,Southern Association,regular,P4639583,Cote,,Mobile,1909-04-20,1909-04-22,2,0,0,0,0,0,2,0,2,0,0,0
-1909,Southern Association,regular,P6131282,Coulson,,Memphis,1909-04-15,1909-06-27,60,0,0,0,0,0,60,59,0,1,0,0
+1909,Southern Association,regular,P6131282,Coulson,,Memphis,1909-04-15,1909-07-04,65,0,0,0,0,0,65,64,0,1,0,0
 1909,Southern Association,regular,P3702415,Cranst'n,,Memphis,1909-05-31,1909-05-31,1,0,0,1,0,0,0,0,0,0,0,0
-1909,Southern Association,regular,P2742743,Cranston,,Memphis,1909-04-15,1909-06-27,46,0,0,45,0,1,0,0,0,0,0,0
+1909,Southern Association,regular,P2742743,Cranston,,Memphis,1909-04-15,1909-07-04,51,0,0,50,0,1,0,0,0,0,0,0
 1909,Southern Association,regular,P6782373,Dailey,,Montgomery,1909-04-15,1909-04-19,4,0,0,0,0,0,4,4,0,0,0,0
 1909,Southern Association,regular,P3448544,Daily,,Montgomery,1909-04-21,1909-04-21,1,0,0,0,0,0,1,1,0,0,0,0
-1909,Southern Association,regular,P5790140,Daley,,Montgomery,1909-04-20,1909-06-27,41,0,0,0,0,0,39,5,35,0,0,0
+1909,Southern Association,regular,P5790140,Daley,,Montgomery,1909-04-20,1909-07-03,49,0,0,0,0,0,47,5,43,0,0,0
 1909,Southern Association,regular,P0085143,Daly,,Montgomery,1909-04-22,1909-05-03,6,0,0,0,0,0,6,5,1,0,0,0
-1909,Southern Association,regular,P8139350,Daubert,,Memphis,1909-06-14,1909-06-27,12,0,12,0,0,0,0,0,0,0,0,0
+1909,Southern Association,regular,P8139350,Daubert,,Memphis,1909-06-14,1909-07-04,17,0,17,0,0,0,0,0,0,0,0,0
 1909,Southern Association,regular,P1993616,Davis,,Little Rock,1909-06-04,1909-06-14,6,0,0,0,0,0,5,3,2,0,0,0
 1909,Southern Association,regular,P2467865,Debalt,,Montgomery,1909-04-17,1909-05-01,4,4,0,0,0,0,0,0,0,0,0,4
-1909,Southern Association,regular,P8137153,Demont,,New Orleans,1909-04-15,1909-06-27,60,0,0,27,0,35,0,0,0,0,0,0
-1909,Southern Association,regular,P5519142,Dexter,,New Orleans,1909-04-15,1909-06-27,59,0,58,1,0,0,0,0,0,0,0,0
-1909,Southern Association,regular,P2585034,Dick,,Memphis,1909-04-17,1909-06-26,21,21,0,0,0,0,0,0,0,0,0,21
+1909,Southern Association,regular,P8137153,Demont,,New Orleans,1909-04-15,1909-07-04,65,0,0,32,0,35,0,0,0,0,0,0
+1909,Southern Association,regular,P5519142,Dexter,,New Orleans,1909-04-15,1909-07-04,64,0,63,1,0,1,0,0,0,0,0,0
+1909,Southern Association,regular,P2585034,Dick,,Memphis,1909-04-17,1909-06-30,22,22,0,0,0,0,0,0,0,0,0,22
 1909,Southern Association,regular,P5810418,Dickenson,,Mobile,1909-04-26,1909-04-26,1,1,0,0,0,0,0,0,0,0,0,1
-1909,Southern Association,regular,P4403269,Dickson,,Birmingham,1909-04-17,1909-06-18,13,13,0,0,0,0,0,0,0,0,0,13
-1909,Southern Association,regular,P1292344,Duggan,,Nashville,1909-04-15,1909-06-23,15,15,0,0,0,0,0,0,0,0,0,15
+1909,Southern Association,regular,P4403269,Dickson,,Birmingham,1909-04-17,1909-07-03,15,15,0,0,0,0,0,0,0,0,0,15
+1909,Southern Association,regular,P1292344,Duggan,,Nashville,1909-04-15,1909-07-01,17,17,0,0,0,0,0,0,0,0,0,17
 1909,Southern Association,regular,P8888226,Dundon,,New Orleans,1909-04-15,1909-06-09,33,0,0,33,0,0,0,0,0,0,0,0
-1909,Southern Association,regular,P6165519,East,,Nashville,1909-04-15,1909-06-26,54,0,0,54,0,0,0,0,0,0,0,0
-1909,Southern Association,regular,P0104997,Ellam,,Birmingham,1909-04-15,1909-06-25,61,0,0,0,0,60,0,0,0,0,1,0
+1909,Southern Association,regular,P6165519,East,,Nashville,1909-04-15,1909-07-03,61,0,0,61,0,0,0,0,0,0,0,0
+1909,Southern Association,regular,P0104997,Ellam,,Birmingham,1909-04-15,1909-07-03,68,0,0,0,0,67,0,0,0,0,1,0
 1909,Southern Association,regular,P7823496,Emerson,,Memphis,1909-04-17,1909-05-03,4,4,0,0,0,0,0,0,0,0,0,4
-1909,Southern Association,regular,P1890274,Fisher,,Atlanta,1909-04-16,1909-06-27,16,16,0,0,0,0,0,0,0,0,0,16
+1909,Southern Association,regular,P1890274,Fisher,,Atlanta,1909-04-16,1909-07-01,17,17,0,0,0,0,0,0,0,0,0,17
 1909,Southern Association,regular,P1997576,Fl'noy,,Little Rock,1909-04-25,1909-04-25,1,0,0,0,0,0,1,0,0,1,0,0
 1909,Southern Association,regular,P3161242,Fl'rnoy,,Little Rock,1909-04-19,1909-04-20,2,0,0,0,0,0,2,0,0,2,0,0
-1909,Southern Association,regular,P8509465,Fleharty,,Birmingham,1909-04-16,1909-06-24,17,17,0,0,0,0,0,0,0,0,0,17
-1909,Southern Association,regular,P5293133,Flood,,Little Rock,1909-05-10,1909-06-25,37,0,0,37,0,0,0,0,0,0,0,0
+1909,Southern Association,regular,P8509465,Fleharty,,Birmingham,1909-04-16,1909-07-02,19,19,0,0,0,0,0,0,0,0,0,19
+1909,Southern Association,regular,P5293133,Flood,,Little Rock,1909-05-10,1909-07-04,43,0,1,42,0,0,0,0,0,0,0,0
 1909,Southern Association,regular,P6233997,Flourney,,Little Rock,1909-05-17,1909-05-17,1,0,0,0,0,0,1,0,0,1,0,0
 1909,Southern Association,regular,P2459287,Flournoy,,Little Rock,1909-04-17,1909-06-01,26,0,0,0,0,0,26,0,0,26,0,0
-1909,Southern Association,regular,P0195027,Folbre,,Little Rock,1909-04-17,1909-06-21,12,10,0,0,0,0,0,0,0,0,0,10
+1909,Southern Association,regular,P0195027,Folbre,,Little Rock,1909-04-17,1909-06-29,13,11,0,0,0,0,0,0,0,0,0,11
 1909,Southern Association,regular,P8462693,Ford,,Birmingham,1909-04-19,1909-04-24,2,2,0,0,0,0,0,0,0,0,0,2
 1909,Southern Association,regular,P2067262,Fritz,,Memphis,1909-06-07,1909-06-27,6,6,0,0,0,0,0,0,0,0,0,6
 1909,Southern Association,regular,P6383881,Fritz,,New Orleans,1909-04-17,1909-06-05,10,10,0,0,0,0,0,0,0,0,0,10
@@ -297,101 +315,109 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Southern Association,regular,P8018514,Girard,,Little Rock,1909-04-16,1909-05-07,4,4,0,0,0,0,0,0,0,0,0,4
 1909,Southern Association,regular,P8002835,Gr'mgr,,Montgomery,1909-05-03,1909-05-03,1,0,1,0,0,0,0,0,0,0,0,0
 1909,Southern Association,regular,P7070369,Gr'mngr,,Montgomery,1909-04-26,1909-06-11,5,0,5,0,0,0,0,0,0,0,0,0
-1909,Southern Association,regular,P9478141,Grem'ger,,Montgomery,1909-04-16,1909-06-27,19,0,18,0,1,0,0,0,0,0,0,0
+1909,Southern Association,regular,P2247935,Grem'g'r,,Montgomery,1909-06-30,1909-06-30,1,0,1,0,0,0,0,0,0,0,0,0
+1909,Southern Association,regular,P9478141,Grem'ger,,Montgomery,1909-04-16,1909-07-01,21,0,20,0,1,0,0,0,0,0,0,0
 1909,Southern Association,regular,P0843270,Grem'ngr,,Montgomery,1909-06-10,1909-06-10,1,0,1,0,0,0,0,0,0,0,0,0
-1909,Southern Association,regular,P3088941,Greminger,,Montgomery,1909-04-15,1909-06-25,26,0,26,0,0,0,0,0,0,0,0,0
-1909,Southern Association,regular,P5456582,Guese,,Montgomery,1909-04-16,1909-06-21,14,14,0,0,0,0,0,0,0,0,0,14
-1909,Southern Association,regular,P1526454,Gygli,,Birmingham,1909-04-15,1909-06-25,61,0,61,1,0,0,0,0,0,0,0,0
+1909,Southern Association,regular,P3088941,Greminger,,Montgomery,1909-04-15,1909-07-03,31,0,31,0,0,0,0,0,0,0,0,0
+1909,Southern Association,regular,P5456582,Guese,,Montgomery,1909-04-16,1909-07-03,16,16,0,0,0,0,0,0,0,0,0,16
+1909,Southern Association,regular,P1526454,Gygli,,Birmingham,1909-04-15,1909-07-02,67,0,67,1,0,0,0,0,0,0,0,0
 1909,Southern Association,regular,P4001418,H'lsm'n,,New Orleans,1909-05-31,1909-05-31,1,0,0,0,0,0,1,1,0,0,0,0
 1909,Southern Association,regular,P0108100,H'lsman,,New Orleans,1909-05-05,1909-05-05,2,0,0,0,0,0,2,2,0,0,0,0
 1909,Southern Association,regular,P0645452,Hardy,,Mobile,1909-04-15,1909-06-25,41,1,0,0,0,0,0,0,0,0,35,1
-1909,Southern Association,regular,P9779240,Hart,,Little Rock,1909-04-25,1909-06-25,9,9,0,0,0,0,0,0,0,0,0,9
-1909,Southern Association,regular,P8356444,Hart,,Montgomery,1909-04-16,1909-06-27,33,0,0,0,0,0,0,0,0,0,33,0
+1909,Southern Association,regular,P9779240,Hart,,Little Rock,1909-04-25,1909-07-04,11,11,0,0,0,0,0,0,0,0,0,11
+1909,Southern Association,regular,P8356444,Hart,,Montgomery,1909-04-16,1909-07-03,37,0,0,0,0,0,0,0,0,0,36,0
 1909,Southern Association,regular,P2696350,Hart [LR],,Little Rock,1909-06-04,1909-06-04,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Southern Association,regular,P1315454,Hart [Mon],,Montgomery,1909-06-04,1909-06-04,1,0,0,0,0,0,0,0,0,0,1,0
 1909,Southern Association,regular,P0259422,Hart[lr],,Little Rock,1909-06-21,1909-06-21,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Southern Association,regular,P8957598,Hart[mon],,Montgomery,1909-06-21,1909-06-21,1,0,0,0,0,0,0,0,0,0,1,0
-1909,Southern Association,regular,P4186109,Henline,,Birmingham,1909-04-15,1909-06-25,61,0,0,0,0,0,61,61,0,0,0,0
+1909,Southern Association,regular,P4186109,Henline,,Birmingham,1909-04-15,1909-07-03,68,0,0,0,0,0,68,68,0,0,0,0
 1909,Southern Association,regular,P8429578,Henn,,Atlanta,1909-04-15,1909-05-15,17,0,16,0,0,0,0,0,0,0,0,0
 1909,Southern Association,regular,P6761588,Hess,,Atlanta,1909-04-15,1909-04-21,4,0,0,0,3,0,0,0,0,0,0,0
-1909,Southern Association,regular,P0624557,Hess,,New Orleans,1909-04-18,1909-06-27,23,16,1,0,0,0,3,0,2,1,0,16
-1909,Southern Association,regular,P9123023,Hickman,,Mobile,1909-04-18,1909-06-23,12,12,0,0,0,0,0,0,0,0,0,12
+1909,Southern Association,regular,P0624557,Hess,,New Orleans,1909-04-18,1909-07-04,26,18,1,0,0,0,3,0,2,1,0,18
+1909,Southern Association,regular,P9123023,Hickman,,Mobile,1909-04-18,1909-07-03,14,14,0,0,0,0,0,0,0,0,0,14
 1909,Southern Association,regular,P6799037,Hill,,Mobile,1909-06-10,1909-06-18,3,1,0,0,0,0,2,0,2,0,0,1
-1909,Southern Association,regular,P5667514,Hixon,,Mobile,1909-04-15,1909-06-25,14,14,0,0,0,0,0,0,0,0,0,14
+1909,Southern Association,regular,P8914691,Hill,,New Orleans,1909-06-29,1909-07-04,3,0,1,0,0,0,2,0,2,0,0,0
+1909,Southern Association,regular,P5667514,Hixon,,Mobile,1909-04-15,1909-06-30,15,15,0,0,0,0,0,0,0,0,0,15
 1909,Southern Association,regular,P8208592,Hopkins,,Mobile,1909-04-15,1909-05-13,24,0,0,0,0,0,23,0,15,8,0,0
+1909,Southern Association,regular,P5659184,Huels'n,,New Orleans,1909-06-29,1909-06-30,2,0,0,0,0,0,2,2,0,0,0,0
 1909,Southern Association,regular,P9642781,Huelsm'n,,New Orleans,1909-04-18,1909-04-20,3,0,0,0,0,0,3,3,0,0,0,0
-1909,Southern Association,regular,P5749463,Huelsman,,New Orleans,1909-04-15,1909-06-27,52,0,0,0,0,0,52,52,0,0,0,0
+1909,Southern Association,regular,P5749463,Huelsman,,New Orleans,1909-04-15,1909-07-04,55,0,0,0,0,0,55,55,0,0,0,0
 1909,Southern Association,regular,P9236214,Huelsmn,,New Orleans,1909-04-25,1909-04-25,1,0,0,0,0,0,1,1,0,0,0,0
 1909,Southern Association,regular,P2806631,Hurlburt,,Memphis,1909-05-23,1909-06-20,19,0,0,0,0,0,0,0,0,0,18,0
-1909,Southern Association,regular,P8697219,Johns,,Atlanta,1909-04-19,1909-06-11,10,10,0,0,0,0,0,0,0,0,0,10
-1909,Southern Association,regular,P8844831,Jordan,,Atlanta,1909-04-15,1909-06-27,61,0,0,61,0,0,0,0,0,0,0,0
-1909,Southern Association,regular,P3525389,Juul,,Montgomery,1909-06-17,1909-06-26,3,3,0,0,0,0,0,0,0,0,0,3
+1909,Southern Association,regular,P8697219,Johns,,Atlanta,1909-04-19,1909-07-03,13,13,0,0,0,0,0,0,0,0,0,13
+1909,Southern Association,regular,P8844831,Jordan,,Atlanta,1909-04-15,1909-07-03,69,0,0,69,0,0,0,0,0,0,0,0
+1909,Southern Association,regular,P3525389,Juul,,Montgomery,1909-06-17,1909-07-02,5,5,0,0,0,0,0,0,0,0,0,5
 1909,Southern Association,regular,P7604304,K'kptck,,Atlanta,1909-05-05,1909-05-05,1,0,0,0,1,0,0,0,0,0,0,0
 1909,Southern Association,regular,P7190753,K'patrick,,Atlanta,1909-04-21,1909-06-27,3,0,0,0,0,0,3,0,2,1,0,0
 1909,Southern Association,regular,P2891010,K'rkptck,,Atlanta,1909-06-11,1909-06-15,2,0,0,0,0,0,2,0,1,1,0,0
-1909,Southern Association,regular,P1434681,Kane,,Birmingham,1909-04-15,1909-06-25,37,0,0,0,0,0,0,0,0,0,35,0
-1909,Southern Association,regular,P1080385,Keiber,,Memphis,1909-04-16,1909-06-25,17,17,0,0,0,0,0,0,0,0,0,17
-1909,Southern Association,regular,P9739212,Kellum,,Nashville,1909-04-22,1909-06-22,15,8,0,0,0,0,7,7,0,0,0,8
-1909,Southern Association,regular,P4210621,Kerwin,,Montgomery,1909-04-15,1909-06-27,55,0,0,0,0,0,54,1,0,53,0,0
+1909,Southern Association,regular,P1434681,Kane,,Birmingham,1909-04-15,1909-07-01,39,0,0,0,0,0,0,0,0,0,37,0
+1909,Southern Association,regular,P1080385,Keiber,,Memphis,1909-04-16,1909-07-04,19,19,0,0,0,0,0,0,0,0,0,19
+1909,Southern Association,regular,P9739212,Kellum,,Nashville,1909-04-22,1909-07-02,17,10,0,0,0,0,7,7,0,0,0,10
+1909,Southern Association,regular,P4210621,Kerwin,,Montgomery,1909-04-15,1909-07-03,63,0,0,0,0,0,62,1,0,61,0,0
 1909,Southern Association,regular,P3155393,Kieber,,Memphis,1909-04-26,1909-04-26,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Southern Association,regular,P1794263,Kirkp'ck,,Atlanta,1909-05-07,1909-05-07,1,0,0,0,1,0,0,0,0,0,0,0
 1909,Southern Association,regular,P1366336,Kirkpatrick,,Atlanta,1909-04-19,1909-05-21,13,0,0,1,7,4,0,0,0,0,0,0
-1909,Southern Association,regular,P8031135,Larsen,,Birmingham,1909-05-01,1909-06-07,21,0,0,6,16,0,0,0,0,0,0,0
-1909,Southern Association,regular,P3731701,Lelivelt,,Mobile,1909-04-23,1909-06-26,10,9,0,0,0,0,1,0,0,1,0,9
+1909,Southern Association,regular,P8031135,Larsen,,Birmingham,1909-05-01,1909-07-03,23,0,0,6,17,0,1,0,0,1,0,0
+1909,Southern Association,regular,P3731701,Lelivelt,,Mobile,1909-04-23,1909-07-01,11,10,0,0,0,0,1,0,0,1,0,10
 1909,Southern Association,regular,P2866830,Lelivelty,,Mobile,1909-04-19,1909-04-19,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Southern Association,regular,P4281973,Lilevelt,,Mobile,1909-04-30,1909-04-30,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Southern Association,regular,P8600739,Lindsay,,Memphis,1909-04-15,1909-05-19,25,0,0,0,0,25,0,0,0,0,0,0
-1909,Southern Association,regular,P3961198,Lindsay,,New Orleans,1909-05-23,1909-06-27,20,0,0,0,0,20,0,0,0,0,0,0
+1909,Southern Association,regular,P3961198,Lindsay,,New Orleans,1909-05-23,1909-07-04,25,0,0,0,0,25,0,0,0,0,0,0
 1909,Southern Association,regular,P9658535,Lindsey,,Memphis,1909-04-27,1909-05-11,5,0,0,0,0,5,0,0,0,0,0,0
 1909,Southern Association,regular,P6451314,Lindsey,,New Orleans,1909-06-01,1909-06-12,4,0,0,0,0,4,0,0,0,0,0,0
-1909,Southern Association,regular,P7085634,Lively,,Montgomery,1909-04-15,1909-06-26,17,17,0,0,0,0,0,0,0,0,0,17
+1909,Southern Association,regular,P7085634,Lively,,Montgomery,1909-04-15,1909-07-03,19,19,0,0,0,0,0,0,0,0,0,19
 1909,Southern Association,regular,P3736987,Ludwig,,Memphis,1909-04-15,1909-05-18,25,0,1,0,0,0,0,0,0,0,22,0
-1909,Southern Association,regular,P7024192,Ludwig,,Mobile,1909-05-26,1909-06-26,22,0,0,0,0,0,0,0,0,0,22,0
+1909,Southern Association,regular,P7024192,Ludwig,,Mobile,1909-05-26,1909-07-04,24,0,0,0,0,0,0,0,0,0,24,0
 1909,Southern Association,regular,P4216585,M'G'lvry,,Birmingham,1909-05-24,1909-05-24,1,0,0,0,0,0,1,0,0,1,0,0
 1909,Southern Association,regular,P9953448,M'G'ray,,Birmingham,1909-04-20,1909-04-20,1,0,0,0,0,0,1,0,0,1,0,0
 1909,Southern Association,regular,P9228210,M'G'v'y,,Birmingham,1909-04-19,1909-04-19,1,0,0,0,0,0,1,0,0,1,0,0
 1909,Southern Association,regular,P0087456,M'Gilv'y,,Birmingham,1909-06-01,1909-06-01,1,0,0,0,0,0,1,0,0,1,0,0
-1909,Southern Association,regular,P0953036,M'Gilvray,,Birmingham,1909-04-15,1909-06-23,25,0,1,0,0,0,25,0,0,25,0,0
+1909,Southern Association,regular,P0953036,M'Gilvray,,Birmingham,1909-04-15,1909-06-28,26,0,1,0,0,0,26,0,0,26,0,0
 1909,Southern Association,regular,P4505218,M'Glvry,,Birmingham,1909-06-09,1909-06-12,4,0,0,0,0,0,4,0,0,4,0,0
 1909,Southern Association,regular,P5039419,M'Murr'y,,Atlanta,1909-05-04,1909-05-31,3,0,0,0,0,0,0,0,0,0,3,0
-1909,Southern Association,regular,P0377461,M'Murray,,Atlanta,1909-04-21,1909-06-25,8,0,0,0,0,0,0,0,0,0,7,0
+1909,Southern Association,regular,P0377461,M'Murray,,Atlanta,1909-04-21,1909-07-01,9,0,0,0,0,0,0,0,0,0,8,0
 1909,Southern Association,regular,P1422401,M'lsworth,,Birmingham,1909-06-15,1909-06-16,3,0,0,0,0,0,3,0,3,0,0,0
 1909,Southern Association,regular,P8756032,M'lswth,,Birmingham,1909-04-26,1909-06-11,6,0,0,0,0,0,6,0,6,0,0,0
 1909,Southern Association,regular,P0744450,M'worth,,Birmingham,1909-04-19,1909-06-01,3,0,0,0,0,0,3,0,3,0,0,0
-1909,Southern Association,regular,P2957116,Manuel,,Birmingham,1909-04-28,1909-06-25,18,13,0,0,0,0,3,0,1,2,0,13
+1909,Southern Association,regular,P2957116,Manuel,,Birmingham,1909-04-28,1909-07-01,19,14,0,0,0,0,3,0,1,2,0,14
 1909,Southern Association,regular,P9832121,Manush,,Montgomery,1909-04-15,1909-05-07,17,0,0,0,17,0,0,0,0,0,0,0
 1909,Southern Association,regular,P7065747,Mathews,,New Orleans,1909-06-04,1909-06-25,2,0,0,0,0,0,0,0,0,0,2,0
-1909,Southern Association,regular,P3141703,Matthews,,New Orleans,1909-04-15,1909-06-27,38,0,1,0,0,0,0,0,0,0,30,0
+1909,Southern Association,regular,P8318922,Matt's,,New Orleans,1909-06-29,1909-06-29,1,0,0,0,0,0,0,0,0,0,1,0
+1909,Southern Association,regular,P8580385,Matt'ws,,New Orleans,1909-06-30,1909-06-30,1,0,0,0,0,0,0,0,0,0,1,0
+1909,Southern Association,regular,P3141703,Matthews,,New Orleans,1909-04-15,1909-07-04,41,0,1,0,0,0,0,0,0,0,31,0
 1909,Southern Association,regular,P2120635,Maxwell,,Atlanta,1909-04-21,1909-05-12,4,4,0,0,0,0,0,0,0,0,0,4
-1909,Southern Association,regular,P7001844,Maxwell,,New Orleans,1909-05-15,1909-06-25,9,9,0,0,0,0,0,0,0,0,0,9
-1909,Southern Association,regular,P2388929,McCay,,Mobile,1909-06-19,1909-06-26,7,0,0,4,3,0,0,0,0,0,0,0
-1909,Southern Association,regular,P5086856,McGilvray,,Birmingham,1909-04-21,1909-06-25,28,0,0,0,0,0,28,0,0,28,0,0
-1909,Southern Association,regular,P2984881,McMurray,,Atlanta,1909-04-16,1909-06-27,24,0,0,0,0,0,0,0,0,0,24,0
+1909,Southern Association,regular,P7001844,Maxwell,,New Orleans,1909-05-15,1909-07-03,11,11,0,0,0,0,0,0,0,0,0,11
+1909,Southern Association,regular,P2388929,McCay,,Mobile,1909-06-19,1909-07-04,13,0,0,5,4,0,5,0,0,5,0,0
+1909,Southern Association,regular,P8351462,McGil'y,,Birmingham,1909-06-30,1909-06-30,1,0,0,0,0,0,1,0,0,1,0,0
+1909,Southern Association,regular,P5086856,McGilvray,,Birmingham,1909-04-21,1909-07-03,32,0,1,0,0,0,31,0,0,31,0,0
+1909,Southern Association,regular,P3717007,McGlr'y,,Birmingham,1909-06-29,1909-06-29,1,0,0,0,0,0,1,0,0,1,0,0
+1909,Southern Association,regular,P2984881,McMurray,,Atlanta,1909-04-16,1909-07-03,29,0,0,0,0,0,0,0,0,0,29,0
 1909,Southern Association,regular,P8806809,Miller,,Mobile,1909-04-27,1909-05-13,2,2,0,0,0,0,0,0,0,0,0,2
-1909,Southern Association,regular,P5194508,Milton,,Little Rock,1909-06-05,1909-06-24,6,5,1,0,0,0,0,0,0,0,0,5
+1909,Southern Association,regular,P5194508,Milton,,Little Rock,1909-06-05,1909-07-03,7,6,1,0,0,0,0,0,0,0,0,6
 1909,Southern Association,regular,P5052407,Mo'w'th,,Birmingham,1909-04-20,1909-04-20,1,0,0,0,0,0,1,0,1,0,0,0
 1909,Southern Association,regular,P7842351,Mol'swth,,Birmingham,1909-05-03,1909-05-03,1,0,0,0,0,0,1,0,1,0,0,0
+1909,Southern Association,regular,P5248073,Moles'h,,Birmingham,1909-06-30,1909-06-30,1,0,0,0,0,0,1,0,1,0,0,0
 1909,Southern Association,regular,P4969472,Molesw'h,,Birmingham,1909-04-16,1909-06-25,25,0,0,0,0,0,25,0,25,0,0,0
-1909,Southern Association,regular,P9704750,Molesworth,,Birmingham,1909-04-15,1909-06-21,22,0,0,0,0,0,22,0,22,0,0,0
+1909,Southern Association,regular,P9704750,Molesworth,,Birmingham,1909-04-15,1909-07-03,28,0,0,0,0,0,28,0,28,0,0,0
 1909,Southern Association,regular,P7759036,Moore,,Birmingham,1909-04-20,1909-04-20,1,1,0,0,0,0,0,0,0,0,0,1
-1909,Southern Association,regular,P1028926,Moran,,Atlanta,1909-04-15,1909-06-27,61,0,1,0,0,0,60,60,0,0,0,0
+1909,Southern Association,regular,P1028926,Moran,,Atlanta,1909-04-15,1909-07-03,69,0,1,1,0,0,67,67,0,0,0,0
 1909,Southern Association,regular,P9250070,Morris,,Birmingham,1909-05-11,1909-05-19,7,0,0,2,5,0,0,0,0,0,0,0
 1909,Southern Association,regular,P9316043,Morris,,Memphis,1909-05-21,1909-06-11,15,0,0,0,1,9,5,0,4,1,0,0
 1909,Southern Association,regular,P2117468,Muelsman,,New Orleans,1909-04-17,1909-04-17,1,0,0,0,0,0,1,1,0,0,0,0
 1909,Southern Association,regular,P3129741,Neighb'rs,,Mobile,1909-06-01,1909-06-01,1,0,0,0,0,0,1,0,0,1,0,0
-1909,Southern Association,regular,P2170069,Neighbors,,Mobile,1909-05-28,1909-06-26,25,0,0,0,0,0,25,0,0,25,0,0
+1909,Southern Association,regular,P2170069,Neighbors,,Mobile,1909-05-28,1909-07-04,31,0,0,0,0,0,27,0,0,27,5,0
 1909,Southern Association,regular,P3162246,Neighbrs,,Mobile,1909-05-26,1909-05-26,1,0,0,0,0,0,1,0,0,1,0,0
-1909,Southern Association,regular,P4553980,Newton,,Atlanta,1909-04-15,1909-06-27,58,0,0,0,0,58,0,0,0,0,0,0
-1909,Southern Association,regular,P6095600,Noyes,,Nashville,1909-04-15,1909-06-26,54,0,0,0,54,0,0,0,0,0,0,0
+1909,Southern Association,regular,P4553980,Newton,,Atlanta,1909-04-15,1909-07-03,66,0,0,0,0,66,0,0,0,0,0,0
+1909,Southern Association,regular,P6095600,Noyes,,Nashville,1909-04-15,1909-07-03,61,0,0,0,61,0,0,0,0,0,0,0
 1909,Southern Association,regular,P2138421,O'Brien,,Memphis,1909-06-04,1909-06-04,1,0,0,0,0,0,0,0,0,0,1,0
-1909,Southern Association,regular,P2532254,O'Connor,,Little Rock,1909-04-29,1909-05-26,5,0,0,0,0,0,0,0,0,0,4,0
-1909,Southern Association,regular,P5415842,O'Leary,,Memphis,1909-04-28,1909-06-27,40,0,5,1,0,0,3,2,0,1,29,0
-1909,Southern Association,regular,P8452987,Osteen,,Montgomery,1909-05-08,1909-06-27,40,0,0,0,8,34,0,0,0,0,0,0
+1909,Southern Association,regular,P2532254,O'Connor,,Little Rock,1909-04-29,1909-07-01,6,0,0,0,0,0,0,0,0,0,5,0
+1909,Southern Association,regular,P5415842,O'Leary,,Memphis,1909-04-28,1909-07-04,45,0,5,1,0,0,3,2,0,1,34,0
+1909,Southern Association,regular,P8452987,Osteen,,Montgomery,1909-05-08,1909-07-03,48,1,0,3,9,39,0,0,0,0,0,1
 1909,Southern Association,regular,P5785244,Peersons,,Montgomery,1909-06-22,1909-06-22,1,0,0,0,0,0,1,1,0,0,0,0
-1909,Southern Association,regular,P3412375,Pepe,,Montgomery,1909-04-15,1909-06-17,37,0,0,0,11,26,0,0,0,0,0,0
-1909,Southern Association,regular,P5300551,Perdue,,Nashville,1909-04-16,1909-06-25,16,16,0,0,0,0,0,0,0,0,0,16
-1909,Southern Association,regular,P0077227,Perry,,Little Rock,1909-04-15,1909-06-25,56,0,0,1,55,0,0,0,0,0,0,0
-1909,Southern Association,regular,P6727799,Persons,,Montgomery,1909-04-15,1909-06-27,55,0,0,0,0,0,54,43,10,1,0,0
+1909,Southern Association,regular,P3412375,Pepe,,Montgomery,1909-04-15,1909-07-03,42,0,0,0,11,31,0,0,0,0,0,0
+1909,Southern Association,regular,P5300551,Perdue,,Nashville,1909-04-16,1909-07-03,18,18,0,0,0,0,0,0,0,0,0,18
+1909,Southern Association,regular,P0077227,Perry,,Little Rock,1909-04-15,1909-07-04,62,0,0,1,61,0,0,0,0,0,0,0
+1909,Southern Association,regular,P6727799,Persons,,Montgomery,1909-04-15,1909-07-03,63,0,0,0,0,0,61,50,10,1,0,0
 1909,Southern Association,regular,P8879866,Petit,,Mobile,1909-04-15,1909-05-25,18,0,0,0,0,0,0,0,0,0,11,0
 1909,Southern Association,regular,P8308871,Pruiett,,New Orleans,1909-04-20,1909-04-20,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Southern Association,regular,P8375490,Pruitt,,New Orleans,1909-04-15,1909-06-23,14,14,0,0,0,0,0,0,0,0,0,14
@@ -400,47 +426,52 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Southern Association,regular,P4906849,R'btson,,Nashville,1909-05-03,1909-05-24,2,0,2,0,0,0,0,0,0,0,0,0
 1909,Southern Association,regular,P8070943,R'cknf'ld,,Montgomery,1909-06-07,1909-06-07,1,0,0,1,0,0,0,0,0,0,0,0
 1909,Southern Association,regular,P7352280,R'cknfld,,Montgomery,1909-05-04,1909-06-11,5,0,0,5,0,0,0,0,0,0,0,0
-1909,Southern Association,regular,P7588981,R'kenf'd,,Montgomery,1909-04-28,1909-06-26,4,0,0,4,0,0,0,0,0,0,0,0
-1909,Southern Association,regular,P8836577,R'kenf'ld,,Montgomery,1909-04-22,1909-06-25,11,0,0,11,0,0,0,0,0,0,0,0
+1909,Southern Association,regular,P7588981,R'kenf'd,,Montgomery,1909-04-28,1909-07-03,6,0,0,6,0,0,0,0,0,0,0,0
+1909,Southern Association,regular,P8836577,R'kenf'ld,,Montgomery,1909-04-22,1909-07-02,12,0,0,12,0,0,0,0,0,0,0,0
 1909,Southern Association,regular,P7433375,R'kenfeld,,Montgomery,1909-04-17,1909-04-17,1,0,0,1,0,0,0,0,0,0,0,0
+1909,Southern Association,regular,P1517704,R'kenfield,,Montgomery,1909-07-01,1909-07-01,1,0,0,0,0,0,0,0,0,0,0,0
 1909,Southern Association,regular,P2184924,R'knf'ld,,Montgomery,1909-06-14,1909-06-14,1,0,0,1,0,0,0,0,0,0,0,0
-1909,Southern Association,regular,P2019875,Raftis,,Birmingham,1909-04-17,1909-06-25,39,0,0,1,38,0,0,0,0,0,0,0
+1909,Southern Association,regular,P2019875,Raftis,,Birmingham,1909-04-17,1909-07-03,45,0,0,1,44,0,0,0,0,0,0,0
 1909,Southern Association,regular,P4064431,Raftus,,Birmingham,1909-04-15,1909-04-16,2,0,0,0,2,0,0,0,0,0,0,0
-1909,Southern Association,regular,P5809988,Raub,,Birmingham,1909-04-20,1909-06-23,31,0,0,0,0,0,0,0,0,0,29,0
-1909,Southern Association,regular,P2464296,Reagan,,New Orleans,1909-04-15,1909-06-27,46,0,0,0,0,0,46,0,46,0,0,0
+1909,Southern Association,regular,P5809988,Raub,,Birmingham,1909-04-20,1909-07-03,37,0,0,0,0,0,0,0,0,0,35,0
+1909,Southern Association,regular,P2464296,Reagan,,New Orleans,1909-04-15,1909-06-30,49,0,0,0,0,0,49,0,49,0,0,0
 1909,Southern Association,regular,P7456571,Reagan,E.,New Orleans,1909-04-16,1909-04-18,3,0,0,0,0,3,0,0,0,0,0,0
 1909,Southern Association,regular,P6508553,Reagan,S.,New Orleans,1909-04-16,1909-04-25,8,0,0,0,0,0,8,0,8,0,0,0
 1909,Southern Association,regular,P4942587,Reargan,S.,New Orleans,1909-04-26,1909-04-26,1,0,0,0,0,0,1,0,1,0,0,0
 1909,Southern Association,regular,P4724088,Rhon,,Atlanta,1909-06-04,1909-06-04,1,0,1,0,0,0,0,0,0,0,0,0
-1909,Southern Association,regular,P1183022,Rhoton,,Mobile,1909-04-15,1909-06-26,58,0,0,56,1,0,0,0,0,0,0,0
+1909,Southern Association,regular,P1183022,Rhoton,,Mobile,1909-04-15,1909-07-03,63,0,0,61,1,0,0,0,0,0,0,0
 1909,Southern Association,regular,P3223632,Rob'tson,,Nashville,1909-04-21,1909-06-26,10,0,10,0,0,0,0,0,0,0,0,0
-1909,Southern Association,regular,P8973312,Robertson,,Nashville,1909-04-15,1909-06-24,38,0,37,0,0,0,0,0,0,0,0,0
-1909,Southern Association,regular,P8773252,Robinson,,Birmingham,1909-06-05,1909-06-25,4,4,0,0,0,0,0,0,0,0,0,4
+1909,Southern Association,regular,P8973312,Robertson,,Nashville,1909-04-15,1909-07-01,43,0,42,0,0,0,0,0,0,0,0,0
+1909,Southern Association,regular,P8773252,Robinson,,Birmingham,1909-06-05,1909-06-30,5,5,0,0,0,0,0,0,0,0,0,5
 1909,Southern Association,regular,P3711776,Rock'f'ld,,Montgomery,1909-06-01,1909-06-01,1,0,0,1,0,0,0,0,0,0,0,0
+1909,Southern Association,regular,P4189881,Rock'fld,,Montgomery,1909-06-30,1909-06-30,1,0,0,1,0,0,0,0,0,0,0,0
 1909,Southern Association,regular,P7371274,Rockenfeld,,Montgomery,1909-06-27,1909-06-27,1,0,0,1,0,0,0,0,0,0,0,0
-1909,Southern Association,regular,P9468371,Rockenfield,,Montgomery,1909-04-15,1909-06-22,33,0,0,33,0,0,0,0,0,0,0,0
-1909,Southern Association,regular,P6222707,Rogers,,Atlanta,1909-05-11,1909-06-23,8,8,0,0,0,0,0,0,0,0,0,8
+1909,Southern Association,regular,P9468371,Rockenfield,,Montgomery,1909-04-15,1909-06-29,34,0,0,34,0,0,0,0,0,0,0,0
+1909,Southern Association,regular,P4659474,Rockfld,,Montgomery,1909-06-29,1909-06-29,1,0,0,1,0,0,0,0,0,0,0,0
+1909,Southern Association,regular,P6222707,Rogers,,Atlanta,1909-05-11,1909-07-03,10,10,0,0,0,0,0,0,0,0,0,10
 1909,Southern Association,regular,P4343087,Rohe,,Atlanta,1909-04-28,1909-04-28,1,0,1,0,0,0,0,0,0,0,0,0
-1909,Southern Association,regular,P9500136,Rohe,,New Orleans,1909-04-15,1909-06-27,60,0,0,0,60,0,0,0,0,0,0,0
-1909,Southern Association,regular,P3960664,Rohn,,Atlanta,1909-04-23,1909-06-27,43,0,43,0,0,0,0,0,0,0,0,0
+1909,Southern Association,regular,P9500136,Rohe,,New Orleans,1909-04-15,1909-07-04,65,0,0,0,65,0,0,0,0,0,0,0
+1909,Southern Association,regular,P3960664,Rohn,,Atlanta,1909-04-23,1909-07-03,51,0,51,0,0,0,0,0,0,0,0,0
 1909,Southern Association,regular,P4385713,S'bough,,Nashville,1909-05-31,1909-05-31,1,0,0,0,0,0,0,0,0,0,1,0
-1909,Southern Association,regular,P5838602,Sabrie,,Mobile,1909-04-15,1909-06-26,62,0,62,0,0,0,0,0,0,0,0,0
-1909,Southern Association,regular,P8258087,Schopp,,Birmingham,1909-04-15,1909-06-23,14,14,0,0,0,0,0,0,0,0,0,14
-1909,Southern Association,regular,P8164864,Schriver,,New Orleans,1909-04-18,1909-06-20,32,0,0,0,0,0,0,0,0,0,29,0
+1909,Southern Association,regular,P5838602,Sabrie,,Mobile,1909-04-15,1909-07-04,68,0,68,0,0,0,0,0,0,0,0,0
+1909,Southern Association,regular,P8258087,Schopp,,Birmingham,1909-04-15,1909-06-29,15,15,0,0,0,0,0,0,0,0,0,15
+1909,Southern Association,regular,P8164864,Schriver,,New Orleans,1909-04-18,1909-07-04,34,0,0,0,0,0,0,0,0,0,31,0
 1909,Southern Association,regular,P9300878,Schrivner,,New Orleans,1909-05-15,1909-05-15,1,0,0,0,0,0,0,0,0,0,1,0
 1909,Southern Association,regular,P4151693,Schulz,,Mobile,1909-04-19,1909-05-25,7,7,0,0,0,0,0,0,0,0,0,7
-1909,Southern Association,regular,P1897701,Schwenck,,Memphis,1909-06-04,1909-06-26,9,6,0,0,0,0,1,0,0,1,0,6
-1909,Southern Association,regular,P6975184,Seabough,,Nashville,1909-04-15,1909-06-25,40,0,0,0,0,0,0,0,0,0,40,0
+1909,Southern Association,regular,P1897701,Schwenck,,Memphis,1909-06-04,1909-07-03,12,9,0,0,0,0,1,0,0,1,0,9
+1909,Southern Association,regular,P6975184,Seabough,,Nashville,1909-04-15,1909-07-03,45,0,0,0,0,0,0,0,0,0,45,0
 1909,Southern Association,regular,P9627958,Seible,,Nashville,1909-06-01,1909-06-01,1,0,0,0,0,0,1,0,1,0,0,0
 1909,Southern Association,regular,P7339515,Seigel,,Nashville,1909-04-21,1909-06-26,7,0,0,0,0,0,7,0,7,0,0,0
-1909,Southern Association,regular,P2146523,Seigle,,Nashville,1909-04-15,1909-06-25,45,0,0,0,0,0,45,0,45,0,0,0
+1909,Southern Association,regular,P2146523,Seigle,,Nashville,1909-04-15,1909-07-03,49,0,0,0,0,0,49,0,49,0,0,0
 1909,Southern Association,regular,P0533364,Senta,,Little Rock,1909-04-30,1909-04-30,1,0,0,0,0,0,1,0,1,0,0,0
-1909,Southern Association,regular,P7401323,Sentell,,Mobile,1909-04-15,1909-06-26,62,0,0,0,0,62,0,0,0,0,0,0
-1909,Southern Association,regular,P3126189,Sentz,,Little Rock,1909-04-15,1909-06-25,55,0,0,0,0,0,55,0,53,2,0,0
-1909,Southern Association,regular,P8204162,Shannon,,Montgomery,1909-04-15,1909-06-25,29,0,2,0,0,0,0,0,0,0,25,0
+1909,Southern Association,regular,P7401323,Sentell,,Mobile,1909-04-15,1909-07-04,68,0,0,0,0,68,0,0,0,0,0,0
+1909,Southern Association,regular,P3126189,Sentz,,Little Rock,1909-04-15,1909-07-04,61,0,0,0,0,0,61,0,59,2,0,0
+1909,Southern Association,regular,P8204162,Shannon,,Montgomery,1909-04-15,1909-07-03,34,0,2,0,0,0,0,0,0,0,30,0
 1909,Southern Association,regular,P5542715,Shields,,Memphis,1909-04-19,1909-06-27,17,7,0,0,0,0,9,3,5,1,0,7
-1909,Southern Association,regular,P1830235,Siegle,,Nashville,1909-05-03,1909-05-03,1,0,0,0,0,0,1,0,1,0,0,0
-1909,Southern Association,regular,P6152742,Smith,,Atlanta,1909-04-15,1909-06-27,35,0,0,0,0,0,1,0,0,1,29,0
+1909,Southern Association,regular,P7023227,Siegel,,Nashville,1909-06-29,1909-06-29,1,0,0,0,0,0,1,0,1,0,0,0
+1909,Southern Association,regular,P2370144,Siegele,,Nashville,1909-06-30,1909-06-30,1,0,0,0,0,0,1,0,1,0,0,0
+1909,Southern Association,regular,P1830235,Siegle,,Nashville,1909-05-03,1909-06-29,2,0,0,0,0,0,2,0,2,0,0,0
+1909,Southern Association,regular,P6152742,Smith,,Atlanta,1909-04-15,1909-07-03,43,0,0,0,0,0,7,0,0,7,31,0
 1909,Southern Association,regular,P6271710,Stark,,Little Rock,1909-04-15,1909-04-16,2,0,0,0,0,0,2,0,0,2,0,0
 1909,Southern Association,regular,P8938092,Steiger,,Little Rock,1909-04-16,1909-04-29,3,3,0,0,0,0,0,0,0,0,0,3
 1909,Southern Association,regular,P2824277,Stins'n,,Memphis,1909-04-20,1909-04-20,1,0,1,0,0,0,0,0,0,0,0,0
@@ -454,37 +485,42 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Southern Association,regular,P3981273,Th'rntn,,Mobile,1909-06-15,1909-06-15,1,0,0,0,0,0,1,0,1,0,0,0
 1909,Southern Association,regular,P0704008,Th'rnton,,Mobile,1909-05-24,1909-05-24,1,0,0,0,0,0,1,0,1,0,0,0
 1909,Southern Association,regular,P9859624,Th'ton,,Mobile,1909-04-20,1909-04-20,1,0,0,0,0,0,1,1,0,0,0,0
-1909,Southern Association,regular,P3474361,Thomas,,Montgomery,1909-05-07,1909-06-25,13,13,0,0,0,0,0,0,0,0,0,13
-1909,Southern Association,regular,P6030728,Thornt'n,,Mobile,1909-05-05,1909-05-31,2,0,0,0,0,0,2,0,2,0,0,0
-1909,Southern Association,regular,P2971344,Thornton,,Mobile,1909-04-15,1909-06-26,52,0,0,0,0,1,52,13,39,0,0,0
+1909,Southern Association,regular,P3474361,Thomas,,Montgomery,1909-05-07,1909-07-02,15,15,0,0,0,0,0,0,0,0,0,15
+1909,Southern Association,regular,P1426721,Thor't'n,,Mobile,1909-06-30,1909-06-30,1,0,0,0,0,0,1,0,1,0,0,0
+1909,Southern Association,regular,P6030728,Thornt'n,,Mobile,1909-05-05,1909-06-29,3,0,0,0,0,0,3,0,3,0,0,0
+1909,Southern Association,regular,P2971344,Thornton,,Mobile,1909-04-15,1909-07-04,56,0,0,0,0,1,56,13,43,0,0,0
 1909,Southern Association,regular,P1534778,Thort'n,,Mobile,1909-05-26,1909-05-26,1,0,0,0,0,0,1,0,1,0,0,0
 1909,Southern Association,regular,P6711355,Ton'eman,,Nashville,1909-05-11,1909-05-23,5,0,0,0,0,0,5,3,0,2,0,0
 1909,Southern Association,regular,P3374874,Ton'emn,,Nashville,1909-06-16,1909-06-16,1,0,1,0,0,0,0,0,0,0,0,0
-1909,Southern Association,regular,P5585046,Ton'man,,Nashville,1909-06-26,1909-06-26,1,0,0,0,0,0,0,0,0,0,1,0
+1909,Southern Association,regular,P5585046,Ton'man,,Nashville,1909-06-26,1909-07-03,2,0,1,0,0,0,0,0,0,0,1,0
+1909,Southern Association,regular,P4524695,Tonn'an,,Nashville,1909-06-30,1909-06-30,1,0,0,0,0,0,0,0,0,0,1,0
 1909,Southern Association,regular,P2169064,Tonnem'n,,Nashville,1909-05-03,1909-06-10,3,0,0,0,0,0,0,0,0,0,3,0
-1909,Southern Association,regular,P5296802,Tonneman,,Nashville,1909-04-17,1909-06-23,15,0,0,0,0,0,2,2,0,0,11,0
+1909,Southern Association,regular,P5296802,Tonneman,,Nashville,1909-04-17,1909-07-02,17,0,1,0,0,0,2,2,0,0,12,0
 1909,Southern Association,regular,P0517849,Torrey,,Mobile,1909-04-16,1909-04-16,1,1,0,0,0,0,0,0,0,0,0,1
 1909,Southern Association,regular,P0576094,Viebahn,,Atlanta,1909-04-21,1909-05-14,5,5,0,0,0,0,0,0,0,0,0,5
-1909,Southern Association,regular,P2318175,Viebahn,,Nashville,1909-05-25,1909-06-26,5,5,0,0,0,0,0,0,0,0,0,5
+1909,Southern Association,regular,P2318175,Viebahn,,Nashville,1909-05-25,1909-06-30,6,6,0,0,0,0,0,0,0,0,0,6
 1909,Southern Association,regular,P0382948,W'druff,,Memphis,1909-04-19,1909-04-19,1,0,1,0,0,0,0,0,0,0,0,0
 1909,Southern Association,regular,P1119316,W'seman,,Nashville,1909-05-03,1909-05-03,1,0,0,0,0,0,1,0,0,1,0,0
-1909,Southern Association,regular,P3287763,Wagner,,Memphis,1909-04-17,1909-06-27,55,0,0,0,0,0,54,0,50,5,0,0
-1909,Southern Association,regular,P4729287,Walker,,Atlanta,1909-04-21,1909-06-27,52,0,0,0,51,0,0,0,0,0,0,0
-1909,Southern Association,regular,P6176496,Watson,,Mobile,1909-04-15,1909-06-23,38,0,0,1,22,0,11,0,0,11,0,0
+1909,Southern Association,regular,P3287763,Wagner,,Memphis,1909-04-17,1909-07-04,60,0,0,0,0,0,59,1,54,5,0,0
+1909,Southern Association,regular,P4729287,Walker,,Atlanta,1909-04-21,1909-07-03,60,0,0,0,59,0,0,0,0,0,0,0
+1909,Southern Association,regular,P6176496,Watson,,Mobile,1909-04-15,1909-07-04,44,0,0,1,28,0,11,0,0,11,0,0
 1909,Southern Association,regular,P4012204,Weaver,,Nashville,1909-04-19,1909-05-03,3,3,0,0,0,0,0,0,0,0,0,3
-1909,Southern Association,regular,P6773699,Weimer,,New Orleans,1909-04-15,1909-06-27,58,0,0,0,0,0,58,2,0,56,0,0
+1909,Southern Association,regular,P6773699,Weimer,,New Orleans,1909-04-15,1909-07-04,63,0,0,0,0,0,63,2,0,61,0,0
 1909,Southern Association,regular,P2470531,Wh'tman,,Montgomery,1909-05-24,1909-05-24,1,0,0,0,0,0,1,0,0,1,0,0
 1909,Southern Association,regular,P1296930,Wh'tmn,,Montgomery,1909-06-09,1909-06-09,1,0,0,0,1,0,0,0,0,0,0,0
-1909,Southern Association,regular,P6772685,Wheat,,Mobile,1909-04-15,1909-06-26,62,0,0,0,0,0,62,47,0,15,0,0
-1909,Southern Association,regular,P4564187,Wheeler,,Memphis,1909-05-25,1909-06-27,31,0,0,0,30,1,0,0,0,0,0,0
+1909,Southern Association,regular,P6772685,Wheat,,Mobile,1909-04-15,1909-07-04,68,0,0,0,0,0,68,53,0,15,0,0
+1909,Southern Association,regular,P4564187,Wheeler,,Memphis,1909-05-25,1909-07-04,36,0,0,0,34,1,1,0,1,0,0,0
 1909,Southern Association,regular,P4587403,Whit'mn,,Montgomery,1909-05-05,1909-06-10,3,0,0,0,2,0,1,0,1,0,0,0
+1909,Southern Association,regular,P7924291,White'n,,Montgomery,1909-06-29,1909-06-30,2,0,0,0,1,0,1,1,0,0,0,0
 1909,Southern Association,regular,P1535120,Whitem'n,,Montgomery,1909-05-04,1909-06-18,8,0,0,0,4,0,4,0,3,1,0,0
-1909,Southern Association,regular,P4750474,Whiteman,,Montgomery,1909-04-22,1909-06-23,22,0,0,0,12,0,9,0,6,3,0,0
+1909,Southern Association,regular,P4750474,Whiteman,,Montgomery,1909-04-22,1909-07-03,28,0,0,0,18,0,9,0,6,3,0,0
 1909,Southern Association,regular,P6119877,Whitman,,Montgomery,1909-04-28,1909-06-27,7,0,0,0,3,0,4,0,4,0,0,0
 1909,Southern Association,regular,P9207801,Winers,,Atlanta,1909-06-23,1909-06-23,1,0,0,0,0,0,1,0,0,1,0,0
-1909,Southern Association,regular,P0943789,Winters,,Atlanta,1909-04-15,1909-06-27,58,0,0,0,0,0,58,0,0,58,0,0
+1909,Southern Association,regular,P0943789,Winters,,Atlanta,1909-04-15,1909-06-28,60,0,0,0,0,0,60,0,0,60,0,0
+1909,Southern Association,regular,P2853583,Wise'n,,Nashville,1909-06-30,1909-06-30,1,0,0,0,0,0,1,0,0,1,0,0
 1909,Southern Association,regular,P1640924,Wisem'n,,Nashville,1909-04-19,1909-04-19,1,0,0,0,0,0,1,0,0,1,0,0
-1909,Southern Association,regular,P4768662,Wiseman,,Nashville,1909-04-15,1909-06-26,52,0,0,0,0,0,52,2,0,50,0,0
+1909,Southern Association,regular,P4768662,Wiseman,,Nashville,1909-04-15,1909-07-03,57,0,0,0,0,0,57,2,0,55,0,0
+1909,Southern Association,regular,P1800853,Wisemn,,Nashville,1909-06-29,1909-06-29,1,0,0,0,0,0,1,0,0,1,0,0
 1909,Southern Association,regular,P1618459,Woodruff,,Memphis,1909-04-16,1909-05-03,6,0,0,0,0,0,4,0,1,3,0,0
 1909,Southern Association,regular,P4428349,unknown,,Montgomery,1909-04-19,1909-04-19,1,0,0,0,1,0,0,0,0,0,0,0
 1909,Southern Association,regular,P1408925,unknown[1b],,Nashville,1909-06-22,1909-06-22,1,0,1,0,0,0,0,0,0,0,0,0

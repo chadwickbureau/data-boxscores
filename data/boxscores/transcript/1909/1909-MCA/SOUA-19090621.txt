@@ -1026,7 +1026,7 @@ line: Montgomery: 1 0 0 0 0 1 2 2 0 - 6
 line: Memphis: 0 0 0 0 0 1 0 1 0 - 2
 
 B_2B: Whitman; Baerwald; Daubert; Wheeler
-B_SH: Persons; Kerwin #2; Whitman; Rockenfield; Cranston
+B_SH: Persons; Kerwin #2; Whitman; Rockenfeld; Cranston
 B_SB: Persons; Wagner
 F_DP: Daubert, Babb, Daubert
 P_H: Fritz #8
