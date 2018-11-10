@@ -1,7 +1,9 @@
 league.year,league.name,league.phase,person.ref,person.name.last,person.name.given,S_FIRST,S_LAST,U_G
-1915,New York State League,regular,P2555708,Dougherty,,1915-05-06,1915-07-07,42
-1915,New York State League,regular,P5768128,Johnson,,1915-05-06,1915-07-07,43
-1915,New York State League,regular,P3671799,Kuhn,,1915-05-06,1915-07-07,46
-1915,New York State League,regular,P8439767,McBride,,1915-05-06,1915-07-06,43
-1915,New York State League,regular,P2977222,O'Connor,,1915-05-06,1915-07-06,45
-1915,New York State League,regular,P5854591,Pender,,1915-05-06,1915-07-07,44
+1915,New York State League,regular,P2555708,Dougherty,,1915-05-06,1915-07-14,46
+1915,New York State League,regular,P5698010,Frill,,1915-07-12,1915-07-12,1
+1915,New York State League,regular,P5768128,Johnson,,1915-05-06,1915-07-14,48
+1915,New York State League,regular,P3671799,Kuhn,,1915-05-06,1915-07-14,51
+1915,New York State League,regular,P8439767,McBride,,1915-05-06,1915-07-14,48
+1915,New York State League,regular,P2977222,O'Connor,,1915-05-06,1915-07-14,49
+1915,New York State League,regular,P5854591,Pender,,1915-05-06,1915-07-14,48
+1915,New York State League,regular,P6922644,Rapp,,1915-07-12,1915-07-12,1
