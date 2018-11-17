@@ -1,0 +1,5 @@
+#!/bin/bash
+
+git add data/boxscores/transcript/${1}/*.txt
+git add data/boxscores/processed/${1}/*.csv
+git status

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+open -a bbedit data/boxscores/transcript/${1}/*.txt

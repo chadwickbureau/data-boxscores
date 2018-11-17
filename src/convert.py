@@ -375,7 +375,7 @@ def iterate_games(fn):
 
 def compile_playing(source, games, gamelist):
     df = pd.concat([pd.DataFrame(g.playing.values()) for g in gamelist],
-                   ignore_index=True)
+                   sort=False, ignore_index=True)
     df = pd.merge(df, games[['key', 'league']],
                   left_on='game.key', right_on='key')
     del df['name.full']
@@ -445,7 +445,7 @@ def compile_games(source, gamelist):
 
 def compile_umpiring(source, games, gamelist):
     df = pd.concat([pd.DataFrame(g.umpiring) for g in gamelist],
-                   ignore_index=True)
+                   sort=False, ignore_index=True)
     df = pd.merge(df, games[['key', 'league']],
                   left_on='game.key', right_on='key')
     df['league.name'] = df['league'].apply(lambda x: x + " League" if "League" not in x and "Association" not in x else x)
