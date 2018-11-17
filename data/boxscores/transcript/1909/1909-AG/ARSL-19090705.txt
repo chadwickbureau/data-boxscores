@@ -1,0 +1,633 @@
+---
+
+date: 1909-07-05
+number: 1
+league: Arkansas State
+away: Hot Springs
+home: Jonesboro
+source: Arkansas Gazette, July 6, 1909
+
+note: morning game of holiday doubleheader
+note: per recap details, attendance was about 1,400
+
+Hot Springs:	ab r h po a e
+Coyle @ 1b:	3 1 1 11 1 1
+Ware @ 2b:	4 1 1 2 1 0
+Smitheal @ ss:	4 0 0 1 2 0
+Tesrean @ cf:	4 0 0 2 0 0
+Russell @ rf:	4 1 3 0 0 0
+Davis @ lf:	4 1 0 1 0 0
+Naylor @ c:	3 0 0 4 3 0
+Dehaven @ 3b:	4 0 0 3 5 1
+Heiglefort @ p:	4 1 1 0 4 0
+TOTALS:		34 4 6 24 16 4
+
+note: discrepancy - box lists 4 total Hot Springs runs, but player totals add up to 5
+note: discrepancy - box lists 4 total Hot Springs errors, but player totals add up to 2
+
+Jonesboro:	ab r h po a e
+Jolly @ cf:	4 2 2 2 0 0
+Van @ ss:	3 0 1 4 0 1
+Welch @ 2b:	3 1 1 1 4 0
+Jackson @ 1b:	3 2 1 12 0 0
+Winger @ lf:	4 0 2 4 0 0
+McDonald @ 3b:	4 0 1 1 1 0
+Henninger @ c:	4 1 2 1 1 0
+Brown @ rf:	3 1 1 2 0 0
+Deardorff @ p:	4 1 0 0 6 2
+TOTALS:		32 8 11 27 12 3
+
+line: Hot Springs: 0 0 0 2 1 0 0 0 1 - 4
+line: Jonesboro: 2 5 0 0 0 1 0 0 x - 8
+
+B_ER: Jonesboro #5; Hot Springs #3
+B_3B: Jackson
+B_2B: Winger; Henninger #2; Russell #2
+B_SH: Van; Welch; Brown; Naylor
+B_SB: Van #2; Welch; Jackson; Brown
+note: missing data - the summary is missing a printed line - the line following the record of SBs ending with 'Jack-' is an apparent record of pitcher strikeouts
+note: addition - per recap details, Brown stole a base in the 1st game, so that entry ia added above
+P_SO: Deardorff #2; Heiglefort #4
+note: addition - see above note on missing data - there is no header for the pitcher strikeout entry but assumption is made that strikouts are being recorded
+P_BB: Deardorff #1; Heiglefort #1
+B_LOB: Jonesboro #3; Hot Springs #4
+T: 1:35
+U: Ryan
+
+---
+
+date: 1909-07-05
+number: 2
+league: Arkansas State
+away: Hot Springs
+home: Jonesboro
+source: Arkansas Gazette, July 6, 1909
+
+note: per recap details, attendance was about 2,200 with 440 ladies present - also tickets were offered at $1.00 to support the local association
+
+Hot Springs:	ab r h po a e
+Coyle @ 1b:	5 0 2 10 0 1
+Ware @ 2b:	5 1 2 2 3 1
+Smitheal @ ss:	4 0 1 1 3 1
+Heiglefort @ cf:	3 0 1 1 0 0
+Russell @ rf:	3 1 1 1 0 0
+Davis @ lf:	3 0 1 1 0 0
+Naylor @ c:	4 1 2 4 2 0
+Dehaven @ 3b:	3 0 1 3 1 1
+Toren @ p:	3 0 0 0 6 0
+TOTALS:		33 3 11 23 15 4
+
+Jonesboro:	ab r h po a e
+Jolly @ cf:	3 1 1 1 0 0
+Van @ ss:	3 0 1 2 4 0
+Welch @ 2b:	3 1 1 1 3 0
+Jackson @ 1b:	3 0 1 15 0 0
+Winger @ lf:	3 1 1 2 1 0
+McDonald @ 3b:	3 1 2 1 1 0
+Henninger @ c:	4 1 0 4 2 0
+Brown @ rf:	4 0 1 1 0 0
+(~9.1)Robertson @ p:	3 0 0 0 4 0
+(~9.2)Kimball @ p:	1 0 0 0 1 0
+TOTALS:		30 5 8 27 16 0
+
+B_XO: Henninger, attempt to bunt 3rd strike
+
+line: Hot Springs: 0 1 0 0 0 0 1 1 0 - 3
+line: Jonesboro: 1 0 0 1 0 0 0 3 x - 5
+
+B_ER: Hot Springs #3; Jonesboro #4
+B_3B: Russell
+B_2B: Brown; McDonald; Heiglefort; Naylor; Ware
+B_SH: McDonald; Winger; Van; Russell; Davis; Dehaven; Toren
+B_SB: Smitheal; Russell; Davis; Jolly; Van; Welch; Jackson
+P_SO: Robertson #1; Kimball #3; Toren #3
+P_H: Robertson #9; Kimball #2
+P_IP: Robertson #7.1; Kimball #1.2
+note: correction - summary records P_IP as Robertson 7 1/4 and Kimball 1 2/3 - Robertson's entry is corrected above - per recap, 'Welch derricked Robertson in the eight, Kimball finishing strong'
+P_BB: Toren #3; Robertson #1
+F_DP: Toren, Ware, Coyle
+B_LOB: Jonesboro #3; Hot Springs #5
+T: 1:35
+U: Ryan
+
+P_GS: ~Robertson
+P_GF: ~Kimball
+P_R: ~Robertson #3; ~Kimball #0
+P_W: ~Kimball
+
+---
+
+date: 1909-07-05
+number: 1
+league: Arkansas State
+away: Newport-Batesville
+home: Helena
+source: Arkansas Gazette, July 6, 1909
+status: forfeit
+forfeit-to: home
+
+note: morning game of holiday doubleheader
+note: the Newport-Batesville club failed to arrive for the morning game - recap does not elaborate on reason
+
+---
+
+date: 1909-07-05
+number: 2
+league: Arkansas State
+away: Newport-Batesville
+home: Helena
+source: Arkansas Gazette, July 6, 1909
+
+Newport-Batesville:	ab r h po a e
+Rich @ ss:	3 0 1 1 1 1
+Laster @ lf:	4 0 0 3 0 0
+Hofman @ 1b:	4 0 1 9 1 0
+Kitchens @ 2b:	4 0 1 2 3 1
+Thrasher @ 3b:	4 1 2 3 3 0
+Harmon @ cf:	2 0 0 0 0 0
+Dardene @ rf:	4 0 1 0 0 0
+Jolly @ c:	4 0 2 6 1 2
+Martin @ p:	3 0 0 0 2 0
+TOTALS:		32 1 8 24 11 4
+
+note: correction - box lists 27 total N-B POs, but player totals add up to 24 and N-B played 8 innings on defense, so the total above is corrected to 24
+
+Helena:		ab r h po a e
+Webber @ 3b:	3 1 0 0 1 1
+Graves @ ss:	3 0 0 0 2 0
+Vandagrift @ 2b:	4 2 2 5 0 0
+Begley @ 1b:	4 1 3 8 1 0
+Hoffman @ rf:	4 0 0 1 0 0
+Benham @ rf:	2 0 0 1 1 0
+Davidson @ cf:	2 1 0 0 0 0
+Berry @ c:	3 0 0 11 2 0
+Cooke @ p:	2 0 0 1 1 0
+TOTALS:		27 5 5 27 8 1
+
+note: discrepancy - box lists both Hoffman and Benham in RF, with no LF in lineup - Benham is the regular RF
+
+line: Newport-Batesville: 0 0 0 0 1 0 0 0 0 - 1
+line: Helena: 1 0 0 0 1 0 0 3 x - 5
+
+B_ER: Helena #1
+B_2B: Begley #2; Thrasher; Jolly
+B_SH: Graves; Davidson; Cooke; Harmon
+B_SB: Vandagrift; Hofman; Rich; Kitchens
+P_BB: Cooke #1; Martin #4
+P_SO: Cooke #11; Martin #3
+P_HP: Cooke
+B_HP: Harmon
+B_ROE: Helena #3; Newport-Batesville #1
+B_LOB: Helena #6; Newport-Batesville #6
+T: 1:50
+U: McDonald
+
+---
+
+date: 1909-07-05
+number: 1
+league: Arkansas State
+away: Texarkana
+home: Fort Smith
+source: Arkansas Gazette, July 6, 1909
+
+note: the game was apparently limited to 7 innings (per the team putout record) - the recap does not elaborate
+
+Texarkana:	ab r h po a e
+Carter @ 2b:	3 0 0 3 1 0
+Leslie @ lf:	2 0 0 0 0 0
+Jutze @ 3b:	3 0 0 2 1 1
+Besse @ ?:	3 0 0 2 1 0
+Fenner @ c:	2 0 0 5 1 0
+Reiney @ 1b:	2 0 0 5 1 0
+Shaw @ cf:	2 0 0 0 0 0
+Pickens @ ss:	2 0 0 0 2 0
+Lingenfelder @ p:	2 0 1 0 1 0
+TOTALS:		21 0 1 17 8 1
+
+note: missing data - the box does not record Besse with a position - by process of elimination, Besse would have played RF
+note: missing data - there is no footnote which elaborates on nature of 18th putout
+
+Fort Smith:	ab r h po a e
+Bromley @ 3b:	3 1 1 0 3 0
+Kratzer @ cf:	2 0 1 1 0 0
+Humphries @ ss:	2 1 0 0 1 0
+Maender @ lf:	3 1 1 3 0 0
+Earthman @ 2b:	2 0 0 1 1 0
+Ritter @ c:	3 0 0 3 0 0
+Jeffries @ rf:	3 0 1 3 0 0
+Bockowitz @ 1b:	3 0 0 10 0 0
+Hastings @ p:	1 0 1 0 4 0
+TOTALS:		22 3 5 21 9 0
+
+line: Texarkana: 0 0 0 0 0 0 0 - 0
+line: Fort Smith: ? ? ? ? ? ? x - 3
+
+note: discrepancy - the line score for each team records 8 inning-by-inning totals, with Fort Smith is recorded with 1 run in the 3rd 'column" and 2 runs in the 'sixth' column - recap does not elaborate on innings when Fort Smith scored
+
+B_SH: Earthman; Kratzer
+B_SB: Bromley; Jeffries
+P_BB: Lingenfelder #4; Hastings #1
+P_SO: Lingenfelder #5; Hastings #3
+B_ROE: Fort Smith #1
+B_LOB: Fort Smith #7; Texarkana #1
+F_DP: Humphries, Earthman, Bockowitz
+T: 1:25
+U: Walters
+
+---
+
+date: 1909-07-05
+number: 2
+league: Arkansas State
+away: Texarkana
+home: Fort Smith
+source: Arkansas Gazette, July 6, 1909
+
+note: new umpire Wayman was rushed by both spectators and players
+note: ejection - Jutze ejected by Wayman in unknown inning and was removed from the grounds by the police
+note: ejection - Wells ejected by Wayman in unknown inning for rushing and striking Wayman after being called out at 2nd base - after being ejected, Wells again rushed and struck the umpire - Wayman 'suspended Wells for the balance of the season' per the recap details
+
+Texarkana:	ab r h po a e
+Coyle @ 2b:	3 0 0 5 2 0
+Leslie @ lf:	4 0 2 0 0 0
+(~3.1)Jutze @ 3b:	1 0 0 1 1 0
+(~3.2)Jones @ rf:	3 0 2 2 0 0
+Besse @ rf-3b:	4 0 1 1 1 2
+Fenner @ c:	4 0 0 7 1 0
+Reiney @ 1b:	4 0 1 6 4 1
+Shaw @ p:	3 0 2 0 2 0
+Pickens @ ss:	3 0 1 3 2 0
+Blackwood @ cf:	4 1 2 2 0 0
+TOTALS:		33 1 11 27 13 3
+
+Fort Smith:	ab r h po a e
+Bromley @ rf:	3 0 0 1 0 0
+(~2.1)Wells @ lf:	4 0 0 2 0 0
+Humphries @ ss:	4 0 2 1 3 1
+Maender @ cf:	3 0 1 1 0 0
+Cowan @ 3b:	4 0 0 0 3 0
+Earthman @ 2b:	4 0 1 4 1 0
+Ritter @ c:	4 0 2 11 1 0
+Bockowitz @ 1b:	3 0 0 6 3 1
+Kratzer @ p:	3 0 1 1 1 0
+(~2.2)Jeffries @ rf:	0 0 0 0 0 0
+TOTALS:		32 0 7 27 12 2
+
+note: discrepancy - Wells is the only LF listed in the box, but Wells was ejected in the game - it is likely that Bromley assumed LF after Wells' ejection
+
+line: Texarkana: 0 0 0 0 0 1 0 0 0 - 1
+line: Fort Smith: 0 0 0 0 0 0 0 0 0 - 0
+
+B_2B: Shaw
+B_SH: Bromley; Maender; Coyle; Shaw; Pickens
+B_SB: Pickens; Blackwood
+P_SO: Kratzer #9; Shaw #6
+B_ROE: Fort Smith #3; Texarkana #2
+B_LOB: Fort Smith #8; Texarkana #8
+F_PB: Fenner
+F_DP: Pickens, Coyle, Reiney; Humphries, Earthman; Bockowitz; Ritter, Earthman
+T: 1:55
+U: Wayman
+
+---
+
+date: 1909-07-06
+number: 0
+league: Arkansas State
+away: Hot Springs
+home: Jonesboro
+source: Arkansas Gazette, July 7, 1909
+
+Hot Springs:	ab r h po a e
+Coyle @ 1b:	4 0 3 10 1 0
+Ware @ 2b:	2 1 0 3 3 1
+Smitheal @ ss:	4 1 0 3 2 0
+Heiglefort @ cf:	5 0 1 0 0 0
+Russell @ rf:	4 0 2 1 0 0
+Davis @ lf:	4 0 0 1 0 0
+Wright @ c:	3 0 0 1 1 1
+Dehaven @ 3b:	4 2 1 5 2 1
+Tesreau @ p:	3 1 0 1 4 0
+TOTALS:		33 5 7 25 13 3
+
+outsatend: 1
+note: addition - there is no box footnote stating how many outs there were when the game ended, but the recap details that there was 1 out
+
+Jonesboro:	ab r h po a e
+Jolly @ cf:	5 2 3 2 0 0
+Vann @ ss:	3 1 1 2 2 0
+Welch @ 2b:	5 1 2 2 3 0
+Jackson @ 1b:	4 1 2 13 0 0
+Wenger @ lf:	5 0 3 1 0 0
+McDonald @ 3b:	4 1 1 3 3 0
+Henninger @ c:	4 0 0 3 4 0
+(~8.1)Warren @ rf:	3 0 0 1 0 0
+(~9.1)Robertson @ p:	1 0 0 0 0 1
+(~9.2)Deardorff @ p:	3 0 0 0 2 1
+(~8.2)Kimball @ rf:	1 0 0 0 0 0
+TOTALS:		38 6 12 27 14 2
+
+line: Hot Springs: 0 0 4 1 0 0 0 0 0 - 5
+line: Jonesboro: 0 0 2 0 1 0 0 1 2 - 6
+
+B_2B: Russell; McDonald
+P_H: Robertson #1; Deardorff #6
+P_IP: Robertson #2.1; Deardorff #6.2
+note: missing data - summary does not record any P_BB or P_SO
+F_DP: Dehaven, Ware, Coyle
+B_SH: Vann; Coyle; Ware; Tesreau
+B_LOB: Jonesboro #5; Hot Springs #6
+F_PB: Wright #2
+P_WP: Tesreau
+T: 1:50
+U: Ryan
+
+P_GS: ~Robertson
+P_GF: ~Deardorff
+P_W: ~Deardorff
+
+---
+
+date: 1909-07-06
+number: 0
+league: Arkansas State
+away: Newport-Batesville
+home: Helena
+source: Arkansas Gazette, July 7, 1909
+
+note: discrepancy - other sources list Webber and Saner first in the 'batteries' summary, which would imply that they started the game - the Gazette recap states that the Helena team '[drove] Dardene from the mound after the second inning, and [pounded] Saner to every corner of the lot during the remainder of the game' - also, the Helena substitutions would also make logical sense if Webber relieved Veasey, as Vandagrift and Webber would have started the game in their regular positions
+
+Newport-Batesville:	ab r h po a e
+Rich @ ss:	3 0 0 0 2 0
+Laster @ lf:	4 0 1 1 1 0
+Hoffman[n-b] @ 1b:	4 0 1 11 2 0
+Kitchens @ 2b:	4 0 1 2 5 2
+Thrasher @ 3b:	4 0 0 2 1 0
+Harmon @ cf:	3 0 0 2 0 0
+Dardene @ p-rf:	4 0 0 0 0 0
+Jolly @ c:	3 0 0 5 1 0
+(~9.1)Martin @ rf:	1 0 0 1 0 0
+(~9.2)Saner @ p:	2 0 1 0 3 0
+TOTALS:		32 0 4 24 15 2
+
+Helena:		ab r h po a e
+Webber @ 3b-p:	3 1 2 1 1 0
+Graves @ ss:	5 1 3 3 4 0
+Vandagrift @ 2b-3b:	4 1 2 0 2 1
+Begley @ 1b:	5 3 3 9 0 0
+Hoffman[hel] @ lf:	4 3 2 2 0 0
+Benham @ rf:	3 1 1 0 0 0
+Rogers @ cf-2b:	5 1 4 0 1 0
+Davidson @ c:	2 1 0 11 1 0
+Veasey @ p-cf:	2 1 1 1 2 1
+TOTALS:		33 13 18 27 11 2
+
+line: Newport-Batesville: 0 0 0 0 0 0 0 0 0 - 0
+line: Helena: 0 9 0 0 2 2 0 0 x - 13
+
+B_ER: Helena #8
+B_2B: Vandagrift #2; Begley #2
+B_SH: Webber; Davidson
+B_SB: Webber; ??Hoffman; Davidson
+note: missing data - no way to know with certainly which Hoffman should be recorded with the SB - but in a 13-0 game, it is more likely that Hoffman of Helena stole the base
+P_IP: Dardene #2.0
+note: addition - P_IP not recorded in summary, but taken from the recap details
+P_BB: Veasey #2; Dardene #1; Saner #2
+P_SO: Veasey #4; Webber #5; Saner #3
+P_HP: Dardene #2
+B_HP: Hoffman[hel]; Veasey
+B_ROE: Helena #1; Newport-Batesville #2
+B_LOB: Helena #1; Newport-Batesville #4
+F_PB: Jolly
+F_DP: Saner, Hoffman[n-b], Jolly
+T: 1:36
+U: McDonald
+
+P_GS: ~Dardene; ~Veasey
+P_GF: ~Saner; ~Webber
+P_R: ~Dardene #9; ~Saner #4
+P_W: ~Veasey
+P_L: ~Dardene
+
+---
+
+date: 1909-07-06
+number: 0
+league: Arkansas State
+away: Texarkana
+home: Fort Smith
+source: Arkansas Gazette, July 7, 1909
+
+Texarkana:	ab r h po a e
+Coyle @ 2b:	4 0 0 1 2 0
+Leslie @ lf:	2 0 1 1 0 0
+Jutze @ 3b:	4 0 1 1 2 0
+Besse @ rf-cf:	3 0 1 3 0 0
+Fenner @ c:	3 0 0 4 1 0
+Reiney @ 1b:	4 0 1 9 1 0
+Shaw @ cf-p:	4 0 0 0 1 0
+Pickens @ ss:	3 0 0 3 2 0
+(~9.1)Blackwood @ p:	2 0 1 1 3 0
+(~9.2)Jones @ rf:	1 0 0 1 0 0
+TOTALS:		30 0 5 24 12 0
+
+Fort Smith:	ab r h po a e
+Bromley @ lf:	4 2 3 1 0 0
+Cowan @ 3b:	2 1 1 2 2 0
+Humphries @ ss:	2 1 0 1 4 0
+Meander @ cf:	3 0 2 5 0 0
+Earthman @ 2b:	4 0 0 3 3 0
+Ritter @ c:	4 0 2 1 0 0
+Jeffries @ 1b:	3 0 0 12 0 1
+Bockowitz @ rf:	3 1 0 2 0 0
+Walters @ p:	3 0 1 0 4 0
+TOTALS:		28 5 9 27 13 1
+
+line: Texarkana: 0 0 0 0 0 0 0 0 0 - 0
+line: Fort Smith: 1 0 0 0 0 1 3 0 x - 5
+
+P_IP: Blackwood #6.1; Shaw #1.2
+P_H: Blackwood #8; Shaw #1
+B_2B: Cowan
+B_SH: Cowan; Meander; Leslie; Besse
+B_SB: Leslie #2; Jutze #1
+P_BB: Walters #1; Blackwood #3; Shaw #1
+P_SO: Walters #2; Blackwood #4; Shaw #1
+P_HP: Blackwood #2; Walters #1
+B_HP: Cowan; Bockowitz; Fenner
+B_ROE: Texarkana #1
+B_LOB: Fort Smith #7; Texarkana #7
+F_DP: Cowan, Jeffries
+T: 1:45
+U: Hastings
+
+---
+
+date: 1909-07-02
+number: 0
+league: Arkansas State
+away: Hot Springs
+home: Helena
+source: Arkansas Gazette, July 7, 1909
+status: thrown out
+status-reason: overruled by league
+U: Smith
+
+note: President Rider decided that this game, originally awarded to Helena by forfeit, will be thrown out and declared 'no game'
+
+---
+
+date: 1909-07-07
+number: 0
+league: Arkansas State
+away: Newport-Batesville
+home: Helena
+source: Arkansas Gazette, July 8, 1909
+
+Newport-Batesville:	ab r h po a e
+Rich @ ss-2b:	4 0 0 0 1 1
+Francis @ rf:	3 0 0 1 0 0
+Hofman[n-b] @ 1b:	4 0 1 5 0 0
+Kitchens @ 2b-ss:	4 0 0 8 2 1
+Thrasher @ 3b:	3 0 1 1 0 0
+Jolly @ c:	2 0 1 3 1 0
+Harmon @ cf:	3 0 0 1 0 0
+Dardene @ lf:	3 0 1 4 0 0
+Welch @ p:	3 0 0 1 1 0
+TOTALS:		29 0 4 24 5 2
+
+Helena:		ab r h po a e
+Webber @ 3b:	3 1 0 4 3 0
+Graves @ ss:	4 1 1 2 0 0
+Vandagrift @ 2b:	4 0 1 5 3 0
+Begley @ 1b:	3 2 0 8 1 0
+Hofman[hel] @ lf:	4 0 2 1 0 0
+Benham @ rf:	4 0 1 0 0 0
+Davidson @ cf:	4 0 1 3 0 0
+Berry @ c:	4 1 3 4 1 0
+Rogers @ p:	3 0 2 1 2 0
+TOTALS:		33 5 11 28 10 0
+
+note: discrepancy - box lists 28 total Helena POs, and player totals add up to 28 - Helena played 9 defensive innings, so of course total should be 27
+
+line: Newport-Batesville: 0 0 0 0 0 0 0 0 0 - 0
+line: Helena: 2 0 0 0 2 0 0 0 1 - 5
+
+note: discrepancy - line score tallies 1 run for Helena in bottom of 9th inning, but Helena should not be batting in this inning, having won the game
+
+B_ER: Helena #1
+B_2B: ??Hofman; Vandagrift; Rogers
+note: missing data - no way to know which Hofman hit the double, but it would more likely be Hofman [Hoffman] of Helena
+B_SH: Webber; Berry
+B_SB: Webber #2; Graves; Begley; Berry
+P_BB: Rogers #2; Welch #4
+P_SO: Rogers #4; Welch #1
+B_ROE: Helena #2
+B_LOB: Helena #9; Newport-Batesville #3
+T: 1:30
+U: McDonald
+
+---
+
+date: 1909-07-07
+number: 0
+league: Arkansas State
+away: Texarkana
+home: Fort Smith
+source: Arkansas Gazette, July 8, 1909
+
+Texarkana:	ab r h po a e
+Leslie @ cf:	4 0 0 2 0 0
+Coyle @ 2b:	4 1 1 3 1 0
+Besse @ lf:	4 0 3 2 0 0
+Reiney @ 1b:	4 0 0 8 1 1
+Pickens @ ss:	4 0 1 2 2 3
+Jutze @ 3b:	4 0 1 2 2 3
+Fenner @ c:	3 1 1 7 1 0
+Shaw @ rf:	4 0 1 1 0 0
+Jones @ p:	4 0 1 0 3 0
+TOTALS:		34 2 9 27 10 7
+
+note: discrepancy - box lists 34 total Texarkana ABs, but player totals add up to 35
+
+Fort Smith:	ab r h po a e
+Bromley @ lf:	4 0 1 5 0 0
+Cowan @ 3b:	4 0 1 1 3 0
+Humphries @ ss:	3 0 0 3 2 0
+Maender @ cf:	4 0 1 1 0 1
+Earthman @ 2b:	4 0 1 0 3 0
+Ritter @ c:	4 1 0 7 0 0
+Jeffries @ 1b:	4 0 0 9 0 1
+Bockewitz @ rf:	3 0 0 1 0 0
+Walters @ p:	3 0 0 0 2 0
+TOTALS:		33 1 4 27 10 2
+
+note: no line score given
+
+B_2B: Cowan; Pickens
+B_HR: Fenner
+B_SH: Fenner
+B_SB: Cowan #2; Humphries
+P_BB: Jones #1
+P_SO: Walters #6; Jones #7
+B_ROE: Fort Smith #5; Texarkana #1
+B_LOB: Fort Smith #6; Texarkana #6
+T: 1:55
+U: Hastings; Swartzel
+
+---
+
+date: 1909-07-07
+number: 0
+league: Arkansas State
+away: Hot Springs
+home: Jonesboro
+source: Arkansas Gazette, July 8, 1909
+
+Hot Springs:	ab r h po a e
+Coyle @ 1b:	5 1 1 10 0 1
+Smitheal @ ss:	5 1 0 1 3 1
+Ware @ 2b:	4 2 1 3 2 0
+Russell @ rf:	4 1 2 3 0 0
+Tesreau @ cf:	3 1 1 3 0 0
+Davis @ lf:	5 1 2 2 0 0
+Dehaven @ 3b:	4 1 2 1 2 0
+Heiglefort @ c:	5 2 3 4 2 0
+Wright @ p:	5 0 2 0 3 0
+TOTALS:		39 10 14 27 12 2
+
+note: discrepancy - box lists 39 total Hot Springs ABs, but player totals add up to 40
+
+Jonesboro:	ab r h po a e
+Jolly @ cf:	5 0 2 1 0 0
+Vann @ ss:	4 0 0 0 3 2
+Welch @ 2b:	3 0 1 1 1 0
+Jackson @ 1b:	4 0 0 8 2 0
+Wenger @ lf:	4 2 2 1 0 0
+McDonald @ 3b:	4 0 1 2 3 0
+Henninger @ c:	3 1 2 11 1 1
+Shammell @ p:	1 0 0 0 0 0
+Kimball @ p:	3 0 0 2 3 0
+Grogan @ rf:	4 0 0 1 0 1
+TOTALS:		35 3 8 27 13 4
+
+line: Hot Springs: 1 2 0 0 3 0 3 1 0 - 10
+line: Jonesboro: 0 1 0 0 0 1 0 0 1 - 3
+
+B_ER: Hot Springs #4; Jonesboro #2
+B_2B: Wenger; McDonald; Wright #2; Ware
+B_SH: Ware; Russell; Tesreau
+B_SB: Coyle #3; Heiglefort #2; Wright #2; Smitheal; Davis
+P_SO: Kimball #6; Shammell #2; Wright #5
+P_BB: Wright #2; Shammell #2; Kimball #2
+P_H: Shammell #2; Kimball #12
+F_PB: Heiglefort #3
+P_WP: Kimball #1
+B_LOB: Jonesboro #6; Hot Springs #6
+T: 2:00
+U: Ryan
+
+P_GS: ~Shammell
+P_GF: ~Kimball
+P_L: ~Shammell
