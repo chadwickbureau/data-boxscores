@@ -1,11 +1,11 @@
 league.year,league.name,league.phase,person.ref,person.name.last,person.name.given,S_FIRST,S_LAST,U_G
-1909,Carolina Association,regular,P6932544,,,1909-06-19,1909-07-20,5
+1909,Carolina Association,regular,P6932544,,,1909-06-19,1909-08-18,8
 1909,Carolina Association,regular,P6105563,Averett,,1909-05-13,1909-05-13,1
 1909,Carolina Association,regular,P4333122,Baird,,1909-05-14,1909-05-17,3
 1909,Carolina Association,regular,P2385294,Butler,,1909-07-08,1909-07-10,3
 1909,Carolina Association,regular,P2928998,C.E. Moss,,1909-07-26,1909-07-28,3
 1909,Carolina Association,regular,P7000051,Corbett,,1909-07-30,1909-07-30,1
-1909,Carolina Association,regular,P1101373,Evans,,1909-07-14,1909-08-11,26
+1909,Carolina Association,regular,P1101373,Evans,,1909-07-14,1909-08-18,33
 1909,Carolina Association,regular,P6734067,Gary,,1909-07-29,1909-07-29,1
 1909,Carolina Association,regular,P7475941,Hazelton,,1909-07-31,1909-07-31,1
 1909,Carolina Association,regular,P1427046,Henderson,,1909-04-22,1909-05-12,17
@@ -22,16 +22,20 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Carolina Association,regular,P7016226,Liebrich,,1909-07-03,1909-07-05,2
 1909,Carolina Association,regular,P6334288,Long,,1909-05-13,1909-05-13,1
 1909,Carolina Association,regular,P1572792,Lucas,,1909-05-14,1909-05-18,4
-1909,Carolina Association,regular,P7514801,Lucid,,1909-05-22,1909-08-11,39
+1909,Carolina Association,regular,P7514801,Lucid,,1909-05-22,1909-08-18,46
 1909,Carolina Association,regular,P3937588,Machoney,,1909-05-26,1909-05-26,1
-1909,Carolina Association,regular,P0326454,Mackay,,1909-08-11,1909-08-11,2
+1909,Carolina Association,regular,P0326454,Mackay,,1909-08-11,1909-08-18,9
 1909,Carolina Association,regular,P7934266,Mackey,,1909-08-04,1909-08-10,7
 1909,Carolina Association,regular,P7214321,Mahoney,,1909-04-22,1909-06-19,25
 1909,Carolina Association,regular,P5923332,McFarlan,,1909-06-04,1909-06-04,1
-1909,Carolina Association,regular,P5489762,Moss,,1909-07-29,1909-08-11,14
+1909,Carolina Association,regular,P1138956,McFarlin,,1909-08-18,1909-08-18,1
+1909,Carolina Association,regular,P0292069,Miller,,1909-08-18,1909-08-18,1
+1909,Carolina Association,regular,P5489762,Moss,,1909-07-29,1909-08-18,21
 1909,Carolina Association,regular,P7459827,Reis,,1909-05-13,1909-05-13,1
 1909,Carolina Association,regular,P6687884,Schmidt,,1909-06-04,1909-06-04,1
 1909,Carolina Association,regular,P7369600,Stanley,,1909-04-22,1909-04-22,1
+1909,Carolina Association,regular,P7579660,Touchstone,,1909-08-18,1909-08-18,1
+1909,Carolina Association,regular,P0306476,Wahl,,1909-08-18,1909-08-18,1
 1909,Carolina Association,regular,P2149442,Walters,,1909-07-28,1909-07-28,1
-1909,Carolina Association,regular,P3003763,Watts,,1909-08-04,1909-08-11,8
+1909,Carolina Association,regular,P3003763,Watts,,1909-08-04,1909-08-18,14
 1909,Carolina Association,regular,P2387194,Welsher,,1909-07-30,1909-07-30,1
