@@ -1,7 +1,14 @@
 league.year,league.name,league.phase,person.ref,person.name.last,person.name.given,S_FIRST,S_LAST,U_G
-1912,Carolina Association,regular,P4665268,Barr,,1912-05-10,1912-05-22,10
-1912,Carolina Association,regular,P5006836,Gallagher,,1912-04-25,1912-05-22,23
+1912,Carolina Association,regular,P4665268,Barr,,1912-05-10,1912-06-05,21
+1912,Carolina Association,regular,P0535755,Bauswein,,1912-06-01,1912-06-01,1
+1912,Carolina Association,regular,P1096063,Bowers,,1912-06-03,1912-06-05,3
+1912,Carolina Association,regular,P1238375,Bruings,,1912-06-04,1912-06-04,1
+1912,Carolina Association,regular,P6577419,Brung,,1912-06-04,1912-06-04,1
+1912,Carolina Association,regular,P6451963,Earle,Howard,1912-05-23,1912-05-23,1
+1912,Carolina Association,regular,P5006836,Gallagher,,1912-04-25,1912-05-31,31
+1912,Carolina Association,regular,P7617038,Galvin,,1912-05-23,1912-05-23,1
 1912,Carolina Association,regular,P1651299,Gilroy,,1912-05-22,1912-05-22,1
-1912,Carolina Association,regular,P0733909,Hauser,,1912-05-22,1912-05-22,1
+1912,Carolina Association,regular,P0733909,Hauser,,1912-05-22,1912-06-01,2
+1912,Carolina Association,regular,P5742986,Hickey,,1912-05-24,1912-06-03,9
 1912,Carolina Association,regular,P4643763,O'Brien,,1912-04-25,1912-05-21,22
 1912,Carolina Association,regular,P1694309,Pearson,,1912-04-25,1912-05-09,12
