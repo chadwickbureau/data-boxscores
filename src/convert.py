@@ -530,7 +530,7 @@ def compile_umpires(source, umpiring):
     
 def process_files(source):
     fnlist = [fn for fn in glob.glob("data/boxscores/transcript/%s/*.txt" % source)
-              if "README.txt" not in fn]
+              if "README.txt" not in fn and "notes.txt" not in fn]
     gamelist = [Game.fromtext(g, fn)
                 for fn in fnlist for g in iterate_games(fn)]
     games = compile_games(source, gamelist)
