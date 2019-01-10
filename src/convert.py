@@ -33,7 +33,7 @@ def game_hash(s):
         if n < base:
             return alphabet[n]
         return int_to_base(n // base) + alphabet[n % base]
-    return int_to_base(int(hashlib.sha1(s).hexdigest(), 16))[-7:]
+    return int_to_base(int(hashlib.sha1(s.encode('utf-8')).hexdigest(), 16))[-7:]
 
 
 class BoxscoreParserWarning(UserWarning):
@@ -105,8 +105,8 @@ class Game(object):
             try:
                 name, pos = map(lambda x: x.strip(), key.split("@"))
             except ValueError:
-                print "In file %s,\n   game %s" % (self.metadata['filename'], self)
-                print "  Missing name or position in '%s'" % (key)
+                print("In file %s,\n   game %s" % (self.metadata['filename'], self))
+                print("  Missing name or position in '%s'" % (key))
                 name, pos = key, None
 
         if name[0] == '(':
@@ -125,8 +125,8 @@ class Game(object):
                 name_last, name_first = map(lambda x: x.strip(), name.split(","))
                 name = name_first + " " + name_last
             except ValueError:
-                print "In file %s,\n   game %s" % (self.metadata['filename'], self)
-                print "  Wrong number of names in '%s'" % (name)
+                print("In file %s,\n   game %s" % (self.metadata['filename'], self))
+                print("  Wrong number of names in '%s'" % (name))
                 name_last, name_first = name, None
         else:
             name_last, name_first = name, None
@@ -134,10 +134,10 @@ class Game(object):
         playing = {"name.full": name, "name.last": name_last,
                    "name.first": name_first, "pos": pos,
                    "club.name": clubname, "substitute": subskey}
-        stats = filter(lambda x: x.strip() != "", value.split())
+        stats = [x for x in value.split() if x.strip() != ""]
         if len(stats) != len(columns):
-            print "In file %s,\n   game %s" % (self.metadata['filename'], self)
-            print "  Incorrect number of categories in '%s: %s'" % (key, value)
+            print("In file %s,\n   game %s" % (self.metadata['filename'], self))
+            print("  Incorrect number of categories in '%s: %s'" % (key, value))
         else:
             for (s, c) in zip(stats, columns):
                 if s not in ["X", "x"]:
@@ -152,8 +152,8 @@ class Game(object):
                 try:
                     name, count = [x.strip() for x in entry.split("#")]
                 except ValueError:
-                    print "In file %s,\n   game %s" % (self.metadata['filename'], self)
-                    print "  Ill-formed details string '%s'" % entry
+                    print("In file %s,\n   game %s" % (self.metadata['filename'], self))
+                    print("  Ill-formed details string '%s'" % entry)
                     return
             else:
                 name, count = entry, "1"
@@ -180,14 +180,14 @@ class Game(object):
             try:
                 name, reason = [x.strip() for x in entry.split(",")]
             except ValueError:
-                print "In file %s,\n   game %s" % (self.metadata['filename'], self)
-                print "  Ill-formed details string '%s'" % entry
+                print("In file %s,\n   game %s" % (self.metadata['filename'], self))
+                print("  Ill-formed details string '%s'" % entry)
                 return
             try:
                 self.playing[name]['B_XO'] = self.playing[name].get('B_XO', 0)+1
             except KeyError:
-                print "In file %s,\n   game %s" % (self.metadata['filename'], self)
-                print "  No match on name '%s' in '%s'" % (name, key)
+                print("In file %s,\n   game %s" % (self.metadata['filename'], self))
+                print("  No match on name '%s' in '%s'" % (name, key))
 
     def _parse_dptp(self, key, value):
         for entry in map(lambda x: x.strip(), value.split(";")):
@@ -232,8 +232,8 @@ class Game(object):
         try:
             club, score = map(lambda x: x.strip(), value.split(":"))
         except ValueError:
-            print "In file %s,\n   game %s" % (self.metadata['filename'], self)
-            print "  Ill-formed linescore string '%s'" % value
+            print("In file %s,\n   game %s" % (self.metadata['filename'], self))
+            print("  Ill-formed linescore string '%s'" % value)
             return
 
         if club == self.away:
@@ -241,8 +241,8 @@ class Game(object):
         elif club == self.home:
             prefix = "home.score"
         else:
-            print "In file %s,\n   game %s" % (self.metadata['filename'], self)
-            print "  No match on club name '%s'" % (club)
+            print("In file %s,\n   game %s" % (self.metadata['filename'], self))
+            print("  No match on club name '%s'" % (club))
             return
 
         byinning, total = map(lambda x: x.strip(), score.split("-"))
@@ -268,8 +268,8 @@ class Game(object):
             try:
                 key, value = map(lambda x: x.strip(), line.split(":", 1))
             except ValueError:
-                print "In file %s,\n   game %s" % (self.metadata['filename'], self)
-                print "  Invalid key-value pair '%s'" % line
+                print("In file %s,\n   game %s" % (self.metadata['filename'], self))
+                print("  Invalid key-value pair '%s'" % line)
                 continue
 
             if clubname is not None:
@@ -302,8 +302,8 @@ class Game(object):
                 try:
                     columns = [self._categorymap[c] for c in columns]
                 except KeyError:
-                    print "In file %s,\n   game %s" % (self.metadata['filename'], self)
-                    print "  Unrecognised category line '%s'" % (value)
+                    print("In file %s,\n   game %s" % (self.metadata['filename'], self))
+                    print("  Unrecognised category line '%s'" % (value))
                     columns = []
 
             elif key == "key":
@@ -356,13 +356,18 @@ class Game(object):
                 pass
 
             else:
-                print "In file %s,\n   game %s" % (self.metadata['filename'],
-                                                   self)
-                print "  Unknown record key '%s'" % key
+                print("In file %s,\n   game %s" % (self.metadata['filename'],
+                                                   self))
+                print("  Unknown record key '%s'" % key)
 
         return self
 
 
+def to_csv(df, *args, **kwargs):
+    """Pipe-able version of to_csv."""
+    df.to_csv(*args, **kwargs)
+    return df
+    
 def iterate_games(fn):
     """Return an iterator over the text of each individual game
     in file `fn'. All extra whitespace is removed within and at the end of
@@ -374,62 +379,56 @@ def iterate_games(fn):
                                          [' '.join(x.strip().split()) for x in open(fn).readlines()]))).split("---\n")))
 
 def compile_playing(source, games, gamelist):
-    df = pd.concat([pd.DataFrame(g.playing.values()) for g in gamelist],
-                   sort=False, ignore_index=True)
-    df = pd.merge(df, games[['key', 'league']],
-                  left_on='game.key', right_on='key')
-    del df['name.full']
-    del df['substitute']
+    df = pd.concat([pd.DataFrame(list(g.playing.values())) for g in gamelist],
+                   sort=False, ignore_index=True) \
+           .merge(games[['key', 'league']], left_on='game.key', right_on='key') \
+           .drop(columns=['name.full', 'substitute'])
     df['league.name'] = df['league'].apply(lambda x: x + " League" if "League" not in x and "Association" not in x else x)
-    df['league.year'] = df['game.date'].str.split("-").str[0]
-    del df['key']
-    del df['league']
+    df = df.assign(**{'league.year': df['game.date'].str.split("-").str[0]}) \
+           .drop(columns=['key', 'league']) 
     df['ref'] = df.loc[df['name.last'] != 'TOTALS'].apply(lambda x: person_hash(source, x), axis=1)
-    columns = ['game.key', 'league.year', 'league.name',
-               'game.date', 'game.number', 'game.phase',
-               'ref', 'name.last', 'name.first', 'club.name',
-               'pos', 'seq',
-               'B_AB', 'B_R', 'B_ER', 'B_H', 'B_2B', 'B_3B', 'B_HR', 'B_RBI',
-               'B_BB', 'B_SO',
-               'B_HP', 'B_SH', 'B_SF', 'B_SB', 'B_XO', 'B_LOB', 'B_ROE',
-               'P_GS', 'P_GF', 'P_W', 'P_L', 'P_SV',
-               'P_IP', 'P_TBF', 'P_AB', 'P_R', 'P_ER', 'P_H', 
-               'P_BB', 'P_SO', 'P_HP', 'P_WP', 'P_BK',
-               'F_PO', 'F_A', 'F_E', 'F_DP', 'F_TP', 'F_PB', 'F_SB']
-    for col in columns:
-        if col not in df:
-            df[col] = None
+    columns = pd.Index(['game.key', 'league.year', 'league.name',
+                        'game.date', 'game.number', 'game.phase',
+                        'ref', 'name.last', 'name.first', 'club.name',
+                        'pos', 'seq',
+                        'B_AB', 'B_R', 'B_ER', 'B_H', 'B_2B', 'B_3B', 'B_HR', 'B_RBI',
+                        'B_BB', 'B_SO',
+                        'B_HP', 'B_SH', 'B_SF', 'B_SB', 'B_XO', 'B_LOB', 'B_ROE',
+                        'P_GS', 'P_GF', 'P_W', 'P_L', 'P_SV',
+                        'P_IP', 'P_TBF', 'P_AB', 'P_R', 'P_ER', 'P_H', 
+                        'P_BB', 'P_SO', 'P_HP', 'P_WP', 'P_BK',
+                        'F_PO', 'F_A', 'F_E', 'F_DP', 'F_TP', 'F_PB', 'F_SB'])
+    df = df.reindex(pd.Index(columns).union(df.columns), axis=1) \
+           .sort_values(['game.date', 'game.number', 'game.key',
+                         'club.name', 'seq'])
     for col in df:
         if col not in columns:
-            print "WARNING: unexpected column %s in playing" % col
+            print("WARNING: unexpected column %s in playing" % col)
 
-    df.sort_values(['game.date', 'game.number', 'game.key',
-                    'club.name', 'seq'], inplace=True)
     try:
         os.makedirs("data/boxscores/processed/%s" % source)
     except os.error:
         pass
-    df = df[columns].copy()
-    df.to_csv("data/boxscores/processed/%s/playing.csv" % source, index=False)
-    return df
+    return df[columns].pipe(to_csv,
+                            "data/boxscores/processed/%s/playing.csv" % source,
+                            index=False)
 
 def compile_games(source, gamelist):
-    df = pd.DataFrame([g.metadata for g in gamelist])
-    df.sort_values(['date', 'league', 'home', 'number'], inplace=True)
-    df.rename(inplace=True,
-              columns={"away-manager": "away.manager",
-                       "home-manager": "home.manager",
-                       "status-reason": "status.reason",
-                       "forfeit-to": "forfeit.to"})
+    df = pd.DataFrame([g.metadata for g in gamelist]) \
+           .sort_values(['date', 'league', 'home', 'number']) \
+           .rename(columns={"away-manager": "away.manager",
+                            "home-manager": "home.manager",
+                            "status-reason": "status.reason",
+                            "forfeit-to": "forfeit.to"})
     columns = ['key', 'date', 'number', 'league', 'phase', 'site',
                'away', 'away.score', 'away.manager',
                'home', 'home.score', 'home.manager',
                'A', 'T', 'forfeit.to',
                'status', 'status.reason', 'outsatend', 'filename', 'source']
-    for inning in xrange(100):
+    for inning in range(100):
         if ('away.score.%d' % inning) in df.columns:
             columns.append('away.score.%d' % inning)
-    for inning in xrange(100):
+    for inning in range(100):
         if ('home.score.%d' % inning) in df.columns:
             columns.append('home.score.%d' % inning)
 
@@ -438,10 +437,9 @@ def compile_games(source, gamelist):
             df[col] = None
     for col in df:
         if col not in columns:
-            print "WARNING: unexpected column %s in games" % col
-    df = df[columns].copy()
-    df.to_csv("data/boxscores/processed/%s/games.csv" % source, index=False)
-    return df
+            print("WARNING: unexpected column %s in games" % col)
+    return df[columns].pipe(to_csv, "data/boxscores/processed/%s/games.csv" % source,
+                            index=False)
 
 def compile_umpiring(source, games, gamelist):
     df = pd.concat([pd.DataFrame(g.umpiring) for g in gamelist],
@@ -450,16 +448,15 @@ def compile_umpiring(source, games, gamelist):
                   left_on='game.key', right_on='key')
     df['league.name'] = df['league'].apply(lambda x: x + " League" if "League" not in x and "Association" not in x else x)
     df['league.year'] = df['game.date'].str.split("-").str[0]
-    del df['key']
-    del df['league']
+    df = df.drop(columns=['key', 'league'])
     df['club.name'] = 'umpire'
     df['ref'] = df.apply(lambda x: person_hash(source, x), axis=1)
     columns = ['game.key', 'league.year', 'league.name',
                'game.date', 'game.number', 'game.phase',
                'ref', 'name.last', 'name.first']
-    df = df[columns].copy()
-    df.to_csv("data/boxscores/processed/%s/umpiring.csv" % source, index=False)
-    return df
+    return df[columns].pipe(to_csv,
+                            "data/boxscores/processed/%s/umpiring.csv" % source,
+                            index=False)
 
 
 def compile_players(source, playing):
@@ -474,22 +471,16 @@ def compile_players(source, playing):
     grouper = playing.groupby(['league.year', 'league.name', 'game.phase',
                                'name.last', 'name.first', 'club.name', 'ref'])
     df = grouper.sum()
-    df = pd.merge(df,
-                  grouper[['game.date']].min().rename(columns={'game.date': 'S_FIRST'}),
-                  left_index=True, right_index=True)
-    df = pd.merge(df,
-                  grouper[['game.date']].max().rename(columns={'game.date': 'S_LAST'}),
-                  left_index=True, right_index=True)
-    df.reset_index(inplace=True)
-    
-    df.rename(inplace=True,
-              columns={'ref':       'person.ref',
-                       'name.last':  'person.name.last',
-                       'name.first': 'person.name.given',
-                       'club.name':  'entry.name',
-                       'year':       'league.year',
-                       'league':     'league.name',
-                       'game.phase':  'league.phase'})
+    df = df.join(grouper[['game.date']].min().rename(columns={'game.date': 'S_FIRST'})) \
+           .join(grouper[['game.date']].max().rename(columns={'game.date': 'S_LAST'})) \
+           .reset_index() \
+           .rename(columns={'ref':       'person.ref',
+                            'name.last':  'person.name.last',
+                            'name.first': 'person.name.given',
+                            'club.name':  'entry.name',
+                            'year':       'league.year',
+                            'league':     'league.name',
+                            'game.phase':  'league.phase'})
     df = df[['league.year', 'league.name', 'league.phase', 'person.ref',
              'person.name.last', 'person.name.given', 'entry.name',
              'S_FIRST', 'S_LAST', 'B_G', 'P_G',
@@ -506,21 +497,15 @@ def compile_umpires(source, umpiring):
     grouper = umpiring.groupby(['league.year', 'league.name', 'game.phase',
                                 'name.last', 'name.first', 'ref'])
     df = grouper.sum()
-    df = pd.merge(df,
-                  grouper[['game.date']].min().rename(columns={'game.date': 'S_FIRST'}),
-                  left_index=True, right_index=True)
-    df = pd.merge(df,
-                  grouper[['game.date']].max().rename(columns={'game.date': 'S_LAST'}),
-                  left_index=True, right_index=True)
-    df.reset_index(inplace=True)
-
-    df.rename(inplace=True,
-              columns={'ref':        'person.ref',
-                       'name.last':  'person.name.last',
-                       'name.first': 'person.name.given',
-                       'year':       'league.year',
-                       'league':     'league.name',
-                       'game.phase': 'league.phase'})
+    df = df.join(grouper[['game.date']].min().rename(columns={'game.date': 'S_FIRST'})) \
+           .join(grouper[['game.date']].max().rename(columns={'game.date': 'S_LAST'})) \
+           .reset_index() \
+           .rename(columns={'ref':        'person.ref',
+                            'name.last':  'person.name.last',
+                            'name.first': 'person.name.given',
+                            'year':       'league.year',
+                            'league':     'league.name',
+                            'game.phase': 'league.phase'})
     df = df[['league.year', 'league.name', 'league.phase', 'person.ref',
              'person.name.last', 'person.name.given',
              'S_FIRST', 'S_LAST', 'U_G']]
@@ -564,7 +549,7 @@ def main():
     try:
         process_files(args.source)
     except DuplicatedNameWarning as exc:
-        print clr.Fore.RED + str(exc) + clr.Fore.RESET
+        print(clr.Fore.RED + str(exc) + clr.Fore.RESET)
         sys.exit(1)
 
 
