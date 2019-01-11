@@ -35,12 +35,9 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1912,Carolina Association,regular,P2209999,Cleveland,,Charlotte,1912-04-25,1912-06-08,27,0,1,1,0,0,6,0,3,3,19,0
 1912,Carolina Association,regular,P1074081,Colby,,Greenville,1912-07-11,1912-07-24,10,0,0,0,0,0,0,0,0,0,10,0
 1912,Carolina Association,regular,P1515316,Cook,,Greenville,1912-04-25,1912-05-08,4,4,0,0,0,0,0,0,0,0,0,4
-1912,Carolina Association,regular,P0852087,Corbett,,Spartanburg,1912-05-30,1912-07-24,46,0,3,42,1,0,0,0,0,0,1,0
-1912,Carolina Association,regular,P9717151,Corbett,,Winston-Salem,1912-07-11,1912-07-11,1,0,0,1,0,0,0,0,0,0,0,0
-1912,Carolina Association,regular,P1427270,Coutts,,Spartanburg,1912-07-11,1912-07-11,1,0,0,0,0,0,1,1,0,0,0,0
-1912,Carolina Association,regular,P6091438,Coutts,,Winston-Salem,1912-05-17,1912-07-24,57,0,0,1,0,0,57,55,0,2,0,0
-1912,Carolina Association,regular,P0024765,Coveney,,Spartanburg,1912-04-25,1912-07-24,63,1,0,0,0,0,7,2,0,5,53,1
-1912,Carolina Association,regular,P8763493,Coveney,,Winston-Salem,1912-07-11,1912-07-11,1,0,0,0,0,0,0,0,0,0,1,0
+1912,Carolina Association,regular,P0852087,Corbett,,Spartanburg,1912-05-30,1912-07-24,47,0,3,43,1,0,0,0,0,0,1,0
+1912,Carolina Association,regular,P6091438,Coutts,,Winston-Salem,1912-05-17,1912-07-24,58,0,0,1,0,0,58,56,0,2,0,0
+1912,Carolina Association,regular,P0024765,Coveney,,Spartanburg,1912-04-25,1912-07-24,64,1,0,0,0,0,7,2,0,5,54,1
 1912,Carolina Association,regular,P8496600,Coveny,,Spartanburg,1912-04-27,1912-04-30,2,0,0,0,0,0,0,0,0,0,2,0
 1912,Carolina Association,regular,P3357012,Cover,,Anderson,1912-05-02,1912-06-03,5,4,0,0,0,0,0,0,0,0,0,4
 1912,Carolina Association,regular,P6583616,Cowan,,Greenville,1912-06-25,1912-06-26,2,0,0,1,0,0,0,0,0,0,1,0
@@ -50,8 +47,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1912,Carolina Association,regular,P7482116,Dailey,,Winston-Salem,1912-05-23,1912-06-24,28,0,0,0,0,0,0,0,0,0,28,0
 1912,Carolina Association,regular,P5435432,Davis,,Greensboro,1912-05-27,1912-05-29,3,0,0,0,0,3,0,0,0,0,0,0
 1912,Carolina Association,regular,P9200944,Doak,,Greensboro,1912-04-25,1912-07-24,58,1,0,3,55,0,0,0,0,0,0,1
-1912,Carolina Association,regular,P1424451,Doak,,Spartanburg,1912-04-25,1912-07-24,59,1,0,0,0,0,59,25,34,0,0,1
-1912,Carolina Association,regular,P3021547,Doak,,Winston-Salem,1912-07-11,1912-07-11,1,0,0,0,0,0,1,0,1,0,0,0
+1912,Carolina Association,regular,P1424451,Doak,,Spartanburg,1912-04-25,1912-07-24,60,1,0,0,0,0,60,25,35,0,0,1
 1912,Carolina Association,regular,P4037729,Doak,C.,Greensboro,1912-05-02,1912-05-11,3,0,0,0,2,0,1,0,1,0,0,0
 1912,Carolina Association,regular,P8045782,Doak,E.,Spartanburg,1912-05-02,1912-05-11,3,0,0,0,0,0,3,3,0,0,0,0
 1912,Carolina Association,regular,P7291481,Doak,[C.],Greensboro,1912-06-12,1912-06-12,1,0,0,0,1,0,0,0,0,0,0,0
@@ -74,8 +70,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1912,Carolina Association,regular,P1765598,Frey,,Greenville,1912-07-12,1912-07-23,3,3,0,0,0,0,0,0,0,0,0,3
 1912,Carolina Association,regular,P1950573,Galvin,,Winston-Salem,1912-04-25,1912-05-22,23,0,0,0,0,0,0,0,0,0,23,0
 1912,Carolina Association,regular,P7167418,Gashorn,,Greenville,1912-07-02,1912-07-06,2,0,0,1,0,0,0,0,0,0,0,0
-1912,Carolina Association,regular,P9059544,Gates,,Spartanburg,1912-07-11,1912-07-11,1,0,0,0,1,0,0,0,0,0,0,0
-1912,Carolina Association,regular,P7637824,Gates,,Winston-Salem,1912-04-25,1912-07-24,75,0,0,4,70,0,1,1,0,0,0,0
+1912,Carolina Association,regular,P7637824,Gates,,Winston-Salem,1912-04-25,1912-07-24,76,0,0,4,71,0,1,1,0,0,0,0
 1912,Carolina Association,regular,P9531870,Gilroy,,Greenville,1912-05-07,1912-07-24,38,15,10,0,0,0,5,1,2,2,0,15
 1912,Carolina Association,regular,P7659952,Gleischman,,Anderson,1912-04-25,1912-07-06,62,0,61,0,0,0,1,1,0,0,0,0
 1912,Carolina Association,regular,P2099629,Gleishman,,Anderson,1912-07-08,1912-07-24,7,0,7,0,0,0,0,0,0,0,0,0
@@ -107,15 +102,14 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1912,Carolina Association,regular,P7228152,James,,Greenville,1912-04-30,1912-05-03,5,0,0,5,0,0,0,0,0,0,0,0
 1912,Carolina Association,regular,P6968875,Jeter,,Greensboro,1912-05-09,1912-05-11,2,2,0,0,0,0,0,0,0,0,0,2
 1912,Carolina Association,regular,P6389366,Kelly,,Anderson,1912-04-25,1912-07-24,61,0,0,0,0,61,0,0,0,0,0,0
-1912,Carolina Association,regular,P9126885,Kelly,,Spartanburg,1912-04-25,1912-07-11,23,1,0,0,0,0,23,0,0,23,0,1
-1912,Carolina Association,regular,P0972173,Kelly,,Winston-Salem,1912-06-20,1912-07-24,22,0,0,0,0,0,22,0,0,22,0,0
+1912,Carolina Association,regular,P9126885,Kelly,,Spartanburg,1912-04-25,1912-05-28,22,1,0,0,0,0,22,0,0,22,0,1
+1912,Carolina Association,regular,P0972173,Kelly,,Winston-Salem,1912-06-20,1912-07-24,23,0,0,0,0,0,23,0,0,23,0,0
 1912,Carolina Association,regular,P8514973,Kelly,J.,Spartanburg,1912-04-30,1912-05-25,6,0,0,0,0,0,6,0,0,6,0,0
 1912,Carolina Association,regular,P4600005,Kelly,J.,Winston-Salem,1912-06-19,1912-06-26,3,0,0,0,0,0,3,0,0,3,0,0
 1912,Carolina Association,regular,P5276027,Kelly,W.,Anderson,1912-04-30,1912-06-26,11,0,0,0,0,11,0,0,0,0,0,0
 1912,Carolina Association,regular,P0973825,Kelly [And],,Anderson,1912-06-25,1912-07-20,4,0,0,0,0,4,0,0,0,0,0,0
 1912,Carolina Association,regular,P9843599,Kelly [WS],,Winston-Salem,1912-06-25,1912-07-20,4,0,0,0,0,0,4,0,0,4,0,0
-1912,Carolina Association,regular,P5558776,Kipp,,Spartanburg,1912-04-25,1912-07-24,74,0,0,33,3,38,0,0,0,0,0,0
-1912,Carolina Association,regular,P5301472,Kipp,,Winston-Salem,1912-07-11,1912-07-11,1,0,0,0,0,1,0,0,0,0,0,0
+1912,Carolina Association,regular,P5558776,Kipp,,Spartanburg,1912-04-25,1912-07-24,75,0,0,33,3,39,0,0,0,0,0,0
 1912,Carolina Association,regular,P3413829,Laval,,Anderson,1912-07-15,1912-07-24,8,0,5,0,0,0,3,0,0,3,0,0
 1912,Carolina Association,regular,P7253716,Laval,,Spartanburg,1912-04-25,1912-06-28,54,6,31,0,0,0,24,0,1,23,0,6
 1912,Carolina Association,regular,P6909021,Lenham,,Greenville,1912-06-28,1912-06-28,1,0,0,0,0,1,0,0,0,0,0,0
@@ -136,8 +130,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1912,Carolina Association,regular,P7974038,Malcolmson,,Charlotte,1912-04-25,1912-07-24,59,0,2,0,0,0,1,0,0,1,55,0
 1912,Carolina Association,regular,P3850364,Martin,,Greensboro,1912-04-27,1912-05-29,6,6,0,0,0,0,0,0,0,0,0,6
 1912,Carolina Association,regular,P7656211,Martin,,Greenville,1912-06-03,1912-06-28,9,9,0,0,0,0,0,0,0,0,0,9
-1912,Carolina Association,regular,P4855311,Martin,,Spartanburg,1912-04-25,1912-07-24,73,0,0,1,35,37,0,0,0,0,0,0
-1912,Carolina Association,regular,P9228087,Martin,,Winston-Salem,1912-07-11,1912-07-11,1,0,0,0,1,0,0,0,0,0,0,0
+1912,Carolina Association,regular,P4855311,Martin,,Spartanburg,1912-04-25,1912-07-24,74,0,0,1,36,37,0,0,0,0,0,0
 1912,Carolina Association,regular,P4931948,Martin [Gbo],,Greensboro,1912-05-02,1912-05-02,1,1,0,0,0,0,0,0,0,0,0,1
 1912,Carolina Association,regular,P5677236,Martin [Gvl],,Greenville,1912-06-13,1912-06-13,1,1,0,0,0,0,0,0,0,0,0,1
 1912,Carolina Association,regular,P4649547,Martin [Spa],,Spartanburg,1912-05-02,1912-06-13,2,0,0,0,1,1,0,0,0,0,0,0
@@ -147,8 +140,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1912,Carolina Association,regular,P2447315,McCcoy,,Anderson,1912-06-11,1912-06-11,1,0,0,0,0,0,1,0,0,1,0,0
 1912,Carolina Association,regular,P9424048,McCoy,,Anderson,1912-04-25,1912-07-22,69,0,1,0,0,0,65,1,0,64,2,0
 1912,Carolina Association,regular,P4877424,McFarland,,Greenville,1912-07-13,1912-07-13,1,1,0,0,0,0,0,0,0,0,0,1
-1912,Carolina Association,regular,P3155340,McFarland,,Spartanburg,1912-07-08,1912-07-13,6,0,0,0,0,0,6,5,0,1,0,0
-1912,Carolina Association,regular,P7959668,McFarland,,Winston-Salem,1912-07-11,1912-07-11,1,0,0,0,0,0,1,1,0,0,0,0
+1912,Carolina Association,regular,P3155340,McFarland,,Spartanburg,1912-07-08,1912-07-13,7,0,0,0,0,0,7,6,0,1,0,0
 1912,Carolina Association,regular,P3729460,McFarlin,,Greenville,1912-05-09,1912-07-11,16,16,0,0,0,0,0,0,0,0,0,16
 1912,Carolina Association,regular,P2455321,McGinley,,Charlotte,1912-07-04,1912-07-08,4,0,1,0,0,0,0,0,0,0,3,0
 1912,Carolina Association,regular,P5672672,McGinley,,Greenville,1912-06-21,1912-06-28,3,0,0,0,0,0,0,0,0,0,3,0
@@ -157,8 +149,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1912,Carolina Association,regular,P2971364,McKinley,,Greenville,1912-06-14,1912-06-18,2,0,0,0,0,0,0,0,0,0,2,0
 1912,Carolina Association,regular,P5879918,McMillan,,Charlotte,1912-05-02,1912-07-24,33,0,0,0,0,0,31,0,28,3,1,0
 1912,Carolina Association,regular,P7816021,Menafee,,Spartanburg,1912-06-07,1912-06-18,9,0,0,0,0,0,2,0,0,2,6,0
-1912,Carolina Association,regular,P9552345,Menefee,,Spartanburg,1912-06-03,1912-07-15,19,0,2,0,0,0,3,1,0,2,14,0
-1912,Carolina Association,regular,P4298113,Menefee,,Winston-Salem,1912-07-11,1912-07-11,1,0,0,0,0,0,0,0,0,0,0,0
+1912,Carolina Association,regular,P9552345,Menefee,,Spartanburg,1912-06-03,1912-07-15,20,0,2,0,0,0,3,1,0,2,14,0
 1912,Carolina Association,regular,P6340650,Midvail,,Spartanburg,1912-06-19,1912-06-19,1,1,0,0,0,0,0,0,0,0,0,1
 1912,Carolina Association,regular,P3823206,Miller,,Charlotte,1912-06-17,1912-07-20,7,6,0,0,0,0,0,0,0,0,0,6
 1912,Carolina Association,regular,P0829384,Milliman,,Anderson,1912-04-26,1912-07-24,72,0,0,0,0,0,2,1,1,0,71,0
@@ -173,8 +164,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1912,Carolina Association,regular,P9056854,Newnham,,Greenville,1912-07-03,1912-07-24,15,0,0,5,0,10,0,0,0,0,0,0
 1912,Carolina Association,regular,P2702357,Noojin,,Greenville,1912-05-18,1912-07-24,51,0,1,0,0,0,51,0,51,0,0,0
 1912,Carolina Association,regular,P9510898,O'Brien,,Winston-Salem,1912-04-27,1912-05-01,3,2,0,0,0,0,1,1,0,0,0,2
-1912,Carolina Association,regular,P7491243,O'Halloran,,Spartanburg,1912-07-11,1912-07-11,1,0,0,1,0,0,0,0,0,0,0,0
-1912,Carolina Association,regular,P9758035,O'Halloran,,Winston-Salem,1912-04-25,1912-07-24,66,0,0,66,0,0,0,0,0,0,0,0
+1912,Carolina Association,regular,P9758035,O'Halloran,,Winston-Salem,1912-04-25,1912-07-24,67,0,0,67,0,0,0,0,0,0,0,0
 1912,Carolina Association,regular,P5740825,Oglesby,,Spartanburg,1912-06-17,1912-06-19,3,0,0,0,3,0,0,0,0,0,0,0
 1912,Carolina Association,regular,P4038911,Oiez,,Greenville,1912-06-27,1912-06-27,1,0,0,0,0,0,1,0,1,1,0,0
 1912,Carolina Association,regular,P5672911,Osteen,,Charlotte,1912-04-25,1912-07-24,73,4,0,0,1,72,0,0,0,0,0,4
@@ -186,11 +176,9 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1912,Carolina Association,regular,P1013638,Pettit,,Winston-Salem,1912-04-30,1912-05-03,2,2,0,0,0,0,0,0,0,0,0,2
 1912,Carolina Association,regular,P4582368,Piez,,Greenville,1912-04-25,1912-07-24,75,0,0,1,0,0,74,0,3,71,0,0
 1912,Carolina Association,regular,P7127931,Powell,,Greenville,1912-04-27,1912-06-22,48,0,0,0,0,0,0,0,0,0,47,0
-1912,Carolina Association,regular,P7422071,Powell,,Spartanburg,1912-07-11,1912-07-11,1,0,0,0,0,0,0,0,0,0,1,0
-1912,Carolina Association,regular,P4429727,Powell,,Winston-Salem,1912-06-25,1912-07-24,24,0,0,0,0,0,0,0,0,0,24,0
+1912,Carolina Association,regular,P4429727,Powell,,Winston-Salem,1912-06-25,1912-07-24,25,0,0,0,0,0,0,0,0,0,25,0
 1912,Carolina Association,regular,P8118200,Pugh,,Spartanburg,1912-04-30,1912-05-02,3,0,1,0,0,0,2,1,0,1,0,0
-1912,Carolina Association,regular,P2875843,Radabaugh,,Spartanburg,1912-07-11,1912-07-11,1,1,0,0,0,0,0,0,0,0,0,1
-1912,Carolina Association,regular,P3587435,Radabaugh,,Winston-Salem,1912-06-22,1912-07-23,11,9,0,0,1,0,1,0,1,0,0,9
+1912,Carolina Association,regular,P3587435,Radabaugh,,Winston-Salem,1912-06-22,1912-07-23,12,10,0,0,1,0,1,0,1,0,0,10
 1912,Carolina Association,regular,P1566694,Ramsey,,Anderson,1912-04-26,1912-07-24,29,21,1,0,1,0,4,0,4,0,1,21
 1912,Carolina Association,regular,P6138968,Ray,,Winston-Salem,1912-04-26,1912-07-03,14,14,0,0,0,0,0,0,0,0,0,14
 1912,Carolina Association,regular,P0076951,Reis,,Spartanburg,1912-04-26,1912-05-13,6,6,0,0,0,0,0,0,0,0,0,6
@@ -204,12 +192,10 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1912,Carolina Association,regular,P4225712,Scurry,,Greenville,1912-07-18,1912-07-24,4,0,0,0,0,0,4,3,0,1,0,0
 1912,Carolina Association,regular,P8474707,Seigfired,,Charlotte,1912-04-25,1912-04-25,1,0,0,0,0,1,0,0,0,0,0,0
 1912,Carolina Association,regular,P3600762,Seigfried,,Greenville,1912-06-13,1912-06-18,5,0,0,0,0,5,0,0,0,0,0,0
-1912,Carolina Association,regular,P1025494,Seigfried,,Spartanburg,1912-07-11,1912-07-11,1,0,0,0,0,1,0,0,0,0,0,0
-1912,Carolina Association,regular,P8557374,Seigfried,,Winston-Salem,1912-06-22,1912-07-18,21,0,0,0,0,21,0,0,0,0,0,0
+1912,Carolina Association,regular,P8557374,Seigfried,,Winston-Salem,1912-06-22,1912-07-18,22,0,0,0,0,22,0,0,0,0,0,0
 1912,Carolina Association,regular,P1825187,Sheesley,,Charlotte,1912-04-25,1912-07-03,15,15,0,0,0,0,0,0,0,0,0,15
 1912,Carolina Association,regular,P7643630,Sheesley,,Winston-Salem,1912-07-06,1912-07-24,8,8,0,0,0,0,0,0,0,0,0,8
-1912,Carolina Association,regular,P8324420,Shumaker,,Spartanburg,1912-07-11,1912-07-11,1,0,1,0,0,0,0,0,0,0,0,0
-1912,Carolina Association,regular,P7087788,Shumaker,,Winston-Salem,1912-04-25,1912-07-24,74,0,55,0,0,0,19,0,19,0,0,0
+1912,Carolina Association,regular,P7087788,Shumaker,,Winston-Salem,1912-04-25,1912-07-24,75,0,56,0,0,0,19,0,19,0,0,0
 1912,Carolina Association,regular,P0759516,Slater,,Greensboro,1912-04-25,1912-06-24,46,0,0,0,0,0,46,45,1,0,0,0
 1912,Carolina Association,regular,P8870918,Smith,,Charlotte,1912-04-26,1912-07-23,21,20,0,0,0,0,0,0,0,0,0,20
 1912,Carolina Association,regular,P5983657,Smith,,Spartanburg,1912-04-27,1912-07-24,19,19,0,0,0,0,1,1,0,0,0,19
@@ -226,8 +212,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1912,Carolina Association,regular,P4748342,Spitznagle,,Anderson,1912-04-26,1912-05-03,6,0,0,1,4,0,1,0,0,1,0,0
 1912,Carolina Association,regular,P1532163,Stamers,,Spartanburg,1912-04-30,1912-04-30,1,1,0,0,0,0,0,0,0,0,0,1
 1912,Carolina Association,regular,P9466244,Staners,,Spartanburg,1912-05-03,1912-05-03,1,1,0,0,0,0,0,0,0,0,0,1
-1912,Carolina Association,regular,P4501550,Stewart,,Spartanburg,1912-07-11,1912-07-11,1,0,0,0,0,0,1,0,1,0,0,0
-1912,Carolina Association,regular,P3982358,Stewart,,Winston-Salem,1912-04-25,1912-07-24,64,10,0,0,0,0,58,6,18,35,0,10
+1912,Carolina Association,regular,P3982358,Stewart,,Winston-Salem,1912-04-25,1912-07-24,65,10,0,0,0,0,59,6,19,35,0,10
 1912,Carolina Association,regular,P9411902,Stouch,,Greenville,1912-04-25,1912-05-30,16,0,0,15,0,1,0,0,0,0,0,0
 1912,Carolina Association,regular,P2571960,Stowers,,Charlotte,1912-07-11,1912-07-24,3,3,0,0,0,0,0,0,0,0,0,3
 1912,Carolina Association,regular,P6418395,Stowers,,Spartanburg,1912-04-25,1912-05-13,5,4,0,0,0,0,0,0,0,0,0,4
@@ -235,8 +220,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1912,Carolina Association,regular,P6198468,Stuart [Gbo],,Greensboro,1912-04-27,1912-04-27,1,0,0,0,0,0,0,0,0,0,1,0
 1912,Carolina Association,regular,P8048081,Stuart [WS],,Winston-Salem,1912-04-27,1912-04-27,1,0,0,0,0,0,1,1,0,0,0,0
 1912,Carolina Association,regular,P2215011,Taylor,,Greenville,1912-06-22,1912-07-01,3,3,0,0,0,0,0,0,0,0,0,3
-1912,Carolina Association,regular,P5295711,Taylor,,Spartanburg,1912-07-06,1912-07-23,3,3,0,0,0,0,0,0,0,0,0,3
-1912,Carolina Association,regular,P8823687,Taylor,,Winston-Salem,1912-07-11,1912-07-11,1,1,0,0,0,0,0,0,0,0,0,1
+1912,Carolina Association,regular,P5295711,Taylor,,Spartanburg,1912-07-06,1912-07-23,4,4,0,0,0,0,0,0,0,0,0,4
 1912,Carolina Association,regular,P4089332,Titlow,,Greensboro,1912-04-25,1912-05-30,26,0,0,0,0,26,0,0,0,0,0,0
 1912,Carolina Association,regular,P3231850,Tittery,,Anderson,1912-06-03,1912-06-03,1,1,0,0,0,0,0,0,0,0,0,1
 1912,Carolina Association,regular,P0254579,Trammell,,Anderson,1912-05-01,1912-05-08,2,2,0,0,0,0,0,0,0,0,0,2
@@ -249,8 +233,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1912,Carolina Association,regular,P3862181,Wallace,,Winston-Salem,1912-06-22,1912-07-06,12,0,0,0,0,0,12,1,11,0,0,0
 1912,Carolina Association,regular,P7464576,Ware,,Greensboro,1912-04-25,1912-07-24,31,0,0,0,0,0,2,0,0,2,24,0
 1912,Carolina Association,regular,P6057280,Watson,,Spartanburg,1912-05-29,1912-05-30,2,0,0,0,2,0,0,0,0,0,0,0
-1912,Carolina Association,regular,P1243643,Weir,,Spartanburg,1912-07-11,1912-07-24,11,0,1,0,0,0,11,1,0,11,0,0
-1912,Carolina Association,regular,P6121635,Weir,,Winston-Salem,1912-07-11,1912-07-11,1,0,0,0,0,0,1,0,0,1,0,0
+1912,Carolina Association,regular,P1243643,Weir,,Spartanburg,1912-07-11,1912-07-24,12,0,1,0,0,0,12,1,0,12,0,0
 1912,Carolina Association,regular,P8648592,Weiser,,Charlotte,1912-04-25,1912-07-24,74,0,0,0,0,5,73,72,1,0,0,0
 1912,Carolina Association,regular,P9836752,Wesier,,Charlotte,1912-04-30,1912-04-30,1,0,0,0,0,0,1,1,0,0,0,0
 1912,Carolina Association,regular,P7451529,White,,Greenville,1912-06-10,1912-06-24,8,0,0,0,0,8,0,0,0,0,0,0
@@ -260,8 +243,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1912,Carolina Association,regular,P1246962,Wolfe,,Anderson,1912-04-25,1912-07-23,27,26,0,0,0,0,0,0,0,0,0,26
 1912,Carolina Association,regular,P6456695,Wollums,,Spartanburg,1912-06-22,1912-06-22,1,0,1,0,0,0,0,0,0,0,0,0
 1912,Carolina Association,regular,P1930714,Woolums,,Spartanburg,1912-06-24,1912-07-24,9,0,9,1,0,0,0,0,0,0,1,0
-1912,Carolina Association,regular,P6872809,Wullams,,Spartanburg,1912-07-11,1912-07-11,1,0,1,0,0,0,0,0,0,0,0,0
-1912,Carolina Association,regular,P6283409,Wullams,,Winston-Salem,1912-07-11,1912-07-11,1,0,1,0,0,0,0,0,0,0,0,0
+1912,Carolina Association,regular,P6872809,Wullams,,Spartanburg,1912-07-11,1912-07-11,2,0,2,0,0,0,0,0,0,0,0,0
 1912,Carolina Association,regular,P4481207,Wulloms,,Spartanburg,1912-06-21,1912-07-09,11,0,10,0,1,0,1,0,0,1,0,0
 1912,Carolina Association,regular,P8137940,Yount,,Anderson,1912-04-25,1912-07-20,71,1,0,0,0,0,70,64,6,0,0,1
 1912,Carolina Association,regular,P0033530,Zeiglar,,Winston-Salem,1912-05-31,1912-06-07,2,0,0,1,0,0,1,0,0,1,0,0
