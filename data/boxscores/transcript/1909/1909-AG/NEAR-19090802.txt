@@ -1,0 +1,637 @@
+---
+
+date: 1909-08-02
+number: 0
+league: Northeast Arkansas
+away: Newport
+home: Jonesboro
+source: Arkansas Gazette#, August 3, 1909
+
+note: Sam Jolly of Newport ejected in unknown inning
+
+Newport:	ab r h po a e
+Rogers @ ss:	5 1 2 1 1 2
+Thrasher @ 2b:	4 1 0 2 2 0
+Kinser @ cf:	5 1 2 1 1 0
+(~4.2)Saener @ rf:	3 1 2 2 1 0
+(~4.1)Jolly, Sam @ 1b:	3 1 1 6 2 0
+Riggs @ c:	5 0 2 4 0 0
+Herrod @ 3b:	6 1 1 6 2 2
+Dodge @ lf:	6 0 3 5 1 2
+Finger @ rf-1b:	5 0 0 5 0 0
+Campbell @ p:	5 0 1 1 7 0
+TOTALS:		47 6 14 33 17 6
+
+Jonesboro:	ab r h po a e
+Schlensker @ 3b:	3 1 0 1 2 0
+Jolly @ cf:	4 0 1 3 1 0
+Russell @ rf:	4 0 2 4 0 0
+Davis @ 1b:	5 0 1 9 0 0
+(~5.2)Winger @ lf:	1 0 0 0 0 0
+(~5.1)Grogan @ lf:	2 0 0 0 1 0
+Dunklin @ ss:	5 0 1 1 1 4
+Kee @ 2b:	4 1 2 4 3 0
+Yarber @ c:	5 0 1 10 1 0
+Allen @ p:	3 1 1 1 4 0
+TOTALS:		36 3 9 33 13 4
+
+line: Newport: 0 0 0 0 0 2 0 0 1 0 3 - 6
+line: Jonesboro: 1 0 0 0 0 1 0 1 0 0 0 - 3
+
+note: summary identifies Newport's Jolly as 'Sam Jolly'
+B_2B: Kee; Jolly; Allen
+B_SH: Thrasher; Schlensker; Jolly; Davis; Kee
+B_SB: Rogers; Thrasher #2; Kinser #2; Sam Jolly #2; Dodge #3
+F_DP: Herrod, Rogers; Saener, Finger
+F_PB: Yarber #2
+P_WP: Allen
+P_SO: Allen #6; Campbell #3
+P_BB: Allen #1; Campbell #7
+P_HP: Allen #2
+B_HP: Rogers; Kinser
+T: 2:30
+U: Smith
+
+---
+
+date: 1909-08-02
+number: 0
+league: Northeast Arkansas
+away: Marianna
+home: Paragould
+source: Arkansas Gazette#, August 3, 1909
+
+Marianna:	ab r h po a e
+Ray @ ss:	5 2 3 3 4 1
+Allen @ lf:	2 1 1 2 0 0
+Doty @ c:	4 1 2 5 1 2
+Bockewitz @ 1b:	5 2 3 8 0 1
+Griffith @ 2b:	4 1 1 1 3 1
+Garrison @ 3b:	5 1 3 3 1 0
+Francis @ rf:	5 2 1 2 1 0
+Hardin @ cf:	5 0 3 3 0 0
+Luhrsen @ p:	5 0 0 0 1 0
+TOTALS:		40 10 17 27 11 5
+
+Paragould:	ab r h po a e
+Taylor @ cf:	4 2 1 2 0 0
+Ware @ 2b:	3 0 0 3 6 0
+Michael @ ss:	3 0 0 2 2 0
+Davidson @ c:	4 1 2 5 1 1
+Gallagher @ 1b:	4 0 1 12 0 2
+Jones @ 3b:	4 0 0 0 3 2
+McDonald @ lf:	4 0 0 3 0 0
+Morse @ rf:	3 0 1 0 2 0
+Welch @ p:	3 1 1 0 4 0
+TOTALS:		32 4 6 27 18 5
+
+line: Marianna: 0 0 1 0 0 2 0 1 6 - 10
+line: Paragould: 0 0 0 2 0 0 0 x 0 - 4
+
+B_2B: Ray #2; Doty; Garrison; Francis; Davidson
+B_SH: Ware; Michael; Allen; Doty
+B_SB: Taylor #2; Michael; Morse; Francis #2
+F_DP: Ware, Michael, Gallagher; Ware, Michael
+P_SO: Welch #3; Luhrsen #4
+P_BB: Welch #3
+P_HP: Luhrsen
+B_HP: Taylor
+T: 2:00
+U: Dan Crotty
+
+---
+
+date: 1909-08-03
+number: 0
+league: Northeast Arkansas
+away: Marianna
+home: Paragould
+source: Arkansas Gazette, August 4, 1909
+
+Marianna:	ab r h po a e
+Ray @ ss:	5 1 3 2 2 0
+Allen @ lf:	5 1 1 3 0 0
+Doty @ c:	4 0 0 6 0 0
+Bockweitz @ 1b:	x 0 0 10 0 0
+Griffith @ 2b:	4 0 0 3 4 0
+Garrison @ 3b:	5 0 2 1 0 2
+Francis @ rf:	4 1 0 1 0 0
+Hardin @ cf:	4 2 0 3 0 1
+McAdams @ p:	3 0 0 3 4 1
+TOTALS:		39 5 6 32 10 4
+
+outsatend: 2
+note: missing data - the entry under the AB column for Bockewitz is blank
+
+Paragould:	ab r h po a e
+Taylor @ cf:	6 1 2 2 0 0
+Ware @ 2b:	6 2 3 2 3 0
+Michael @ ss:	4 0 1 3 2 1
+Davidson @ c:	5 0 1 10 2 0
+Jones @ 3b:	5 1 1 1 4 0
+Darling @ rf:	4 0 1 0 0 0
+Morse @ lf:	4 1 0 1 0 0
+McDonald @ p:	4 0 2 0 2 1
+*Welch @ ph-rf:	1 0 1 1 0 0
+unknown[1b] @ 1b:	x x x x x x
+TOTALS:		43 6 13 33 14 3
+
+*: batted for Darling in 10th inning
+note: missing data - the box for Paragold is missing an entry and stat line for a 1B - an entry for unknown player at 1B is appended to the box
+
+line: Marianna: 0 0 2 0 1 0 0 0 0 2 0 - 5
+line: Paragould: 2 0 0 0 0 0 1 0 0 2 1 - 6
+
+B_2B: Ware; Michael; Jones; Welch; Ray
+B_SH: McAdams; Michael; Morse; McDonald
+B_SB: Ware #2; Michael; Davidson #2; Ray #2; Allen; Doty; Hardin
+F_DP: Ray, Griffith, Bockweitz
+P_SO: McDonald #10; McAdams #6
+P_BB: McDonald #4; McAdams #1
+T: 2:00
+U: Dan Crotty
+
+---
+
+date: 1909-08-03
+number: 0
+league: Northeast Arkansas
+away: Newport
+home: Jonesboro
+source: Arkansas Gazette#, August 4, 1909
+
+Newport:	ab r h po a e
+Rogers @ rf:	2 1 0 0 0 0
+Thresher @ ss:	4 0 1 0 2 1
+Kinser @ lf:	4 0 0 0 0 1
+Jolly[new] @ 1b:	4 0 1 12 1 2
+Riggs @ c:	4 0 0 7 3 0
+Thebo @ 3b:	4 1 1 2 4 1
+Herrod @ 2b:	3 0 1 2 3 0
+McClendon @ cf:	3 0 0 0 1 0
+Finger @ p:	2 0 0 0 2 1
+TOTALS:		30 2 4 24 16 6
+
+Jonesboro:	ab r h po a e
+Schlensker @ 3b:	2 3 1 0 2 0
+Jolly[jon] @ cf:	4 2 1 3 0 0
+Russell @ rf:	2 0 1 1 0 0
+Davis @ 1b:	5 0 2 8 0 0
+Hearn @ ss:	4 0 1 3 3 0
+Grogan @ lf:	4 3 1 1 0 0
+Allen @ 2b:	2 0 2 2 2 0
+Young @ c:	5 2 1 8 0 0
+Ellis @ p:	5 1 2 0 2 0
+TOTALS:		33 11 12 26 9 0
+
+B_XO: Young, attempting to bunt third strike
+B_XO: Kinser, interference with Wilmer
+note: discrepancy - on the interference note above, there is no 'Wilmer' in the Jonesboro lineup
+
+line: Newport: 0 0 0 0 1 0 0 1 0 - 2
+line: Jonesboro: 2 0 0 0 0 4 4 1 x - 11
+
+B_2B: Davis; Schlensker; Grogan; Allen
+B_SH: Finger; Russell; Allen #2
+B_SB: Rogers #2; Thebo #2; Herrod #2
+P_SO: Ellis #9; Finger #5
+P_BB: Ellis #2; Finger #7
+P_HP: Ellis
+B_HP: Rogers
+T: 1:50
+U: Smith
+
+---
+
+date: 1909-08-04
+number: 0
+league: Northeast Arkansas
+away: Marianna
+home: Paragould
+source: Arkansas Gazette#, August 5, 1909
+
+Marianna:	ab r h po a e
+Bacon @ 3b:	5 1 1 2 2 0
+Ray @ ss:	5 0 2 3 1 1
+Allen @ lf:	4 0 0 3 0 0
+Dody @ c:	6 0 0 9 1 0
+Bockweitz @ 1b:	5 1 2 10 0 0
+Griffith @ 2b:	3 1 1 6 1 0
+Garrison @ rf:	5 0 1 3 1 1
+Hardin @ cf:	5 0 0 4 0 0
+Williamson @ p:	5 0 0 0 3 0
+TOTALS:		43 3 7 39 9 2
+
+note: discrepancy - box lists 39 total Marianna POs, but player totals add up to 40
+
+Paragould:	ab r h po a e
+Taylor @ ?:	5 0 1 3 0 1
+Ware @ 2b:	4 1 1 5 3 0
+Michael @ ss:	5 0 0 1 4 2
+Davidson @ c:	5 1 1 15 5 0
+Bevil @ 1b:	3 0 1 14 0 0
+McDonald @ lf-p:	4 0 0 0 2 0
+Jones @ 3b:	4 0 0 0 1 1
+(~8.1)Darling @ rf:	3 0 1 0 0 0
+Gallagher @ p-lf:	4 0 0 1 3 0
+(~8.2)Welch @ rf:	2 0 0 0 0 0
+TOTALS:		39 2 5 39 16 4
+
+note: missing data - Taylor is not listed with a position in the box - all positions but CF are assigned
+note: discrepancy - box lists 16 total Paragould assists, but player totals add up to 18
+
+line: Marianna: 0 1 1 0 0 0 0 0 0 0 0 0 1 - 3
+line: Paragould: 0 0 0 2 0 0 0 0 0 0 0 0 0 - 2
+
+B_2B: Bockweitz
+B_SH: Ray; Griffith; Ware; Bevil
+B_SB: Bacon; Griffith #2; Ware #2; Davidson
+F_DP: Garrison, Bockweitz; Ray
+P_SO: Gallagher #3; Williamson #6; McDonald #9
+P_BB: Gallagher #4; Williamson #4
+B_HP: Allen; Jones
+T: 1:45
+U: Crotty
+
+---
+
+date: 1909-08-04
+number: 0
+league: Northeast Arkansas
+away: Newport
+home: Jonesboro
+source: Arkansas Gazette#, August 5, 1909
+
+Newport:	ab r h po a e
+Rogers @ ss:	5 4 2 2 4 2
+Kinser @ cf:	5 2 2 3 2 0
+McClendon @ rf:	5 3 3 0 0 0
+Jolly[new] @ 1b:	5 3 3 13 0 0
+Riggs @ c:	6 4 5 3 0 0
+Theb @ 3b:	6 1 0 2 2 0
+Herrod @ 2b:	6 1 1 0 5 1
+Dodge @ lf:	5 1 2 3 0 0
+Sauer @ p:	5 1 2 1 2 0
+TOTALS:		48 20 20 27 15 3
+
+Jonesboro:	ab r h po a e
+Schlensker @ 3b:	4 0 0 1 2 1
+Jolly[jon] @ cf:	3 1 1 1 0 0
+Russell @ rf:	4 0 2 3 1 0
+(~4.2)Dunklin @ lf:	4 1 1 0 0 0
+(~4.1)Winger @ lf:	1 0 0 1 0 1
+Davis @ 1b:	4 0 1 8 0 2
+Hearn @ 3b:	4 0 2 3 1 0
+Elliott @ c:	4 0 0 7 0 1
+Allen @ 2b:	5 0 1 1 1 1
+(~9.2)Ellis @ p:	2 0 0 0 0 0
+(~9.1)Grogan @ p:	1 0 0 0 2 1
+TOTALS:		36 2 8 25 7 7
+
+B_XO: Rogers, hit by batted ball
+B_XO: Theb, attempt to bunt third strike
+note: discrepancy - both Schlensker and Hear [O'Hearn] are listed at 3B, with no SS in the lineup - Schlensker has been the regular at 3B this season
+
+line: Newport: 0 4 2 5 1 0 6 0 2 - 20
+line: Jonesboro: 0 0 0 2 0 0 0 0 0 - 2
+
+B_2B: Dodge; Ellis; McClendon; Riggs; Allen
+B_3B: Davis
+B_SH: Theb; Jolly[jon]
+B_SB: Rogers; Kinser #2; McClendon; Riggs; Theb; Dodge; Hearn
+F_PB: Elliott #2
+P_WP: Ellis
+P_SO: Sauer #2; Ellis #6
+P_BB: Grogan #1; Ellis #2
+B_HP: Schlensker; Kinser
+P_IP: Grogan #4.0
+note: addition - P_IP not recorded in summary, but taken from recap details
+P_H: Grogan #11
+note: addition - P_H not recorded in summary, but taken from recap details
+T: 1:45
+U: Smith
+
+P_GS: ~Grogan
+P_GF: ~Ellis
+P_R: ~Grogan #11; ~Ellis #9
+P_L: ~Grogan
+
+---
+
+date: 1909-08-05
+number: 0
+league: Northeast Arkansas
+away: Newport
+home: Paragould
+source: Arkansas Gazette#, August 6, 1909
+
+Newport:	ab r h po a e
+Dodge @ lf:	4 0 1 4 0 0
+Kinser @ cf:	5 0 0 1 0 0
+Thresher @ rf:	4 1 1 0 0 0
+Jolly @ 1b:	5 2 1 14 1 0
+Riggs @ c:	2 1 1 3 1 0
+Thebs @ 3b:	4 1 0 0 1 0
+O'Hern @ ss:	2 0 1 1 3 1
+Herrod @ 2b:	4 0 0 3 4 0
+McClendon @ p:	4 1 2 1 4 0
+TOTALS:		34 6 7 27 14 1
+
+Paragould:	ab r h po a e
+Taylor @ cf:	5 1 1 4 0 0
+Ware @ 2b:	4 1 1 4 2 0
+Michael @ ss:	5 1 3 2 4 2
+Davidson @ c:	4 0 1 5 2 1
+Bevil @ 3b:	4 1 2 0 2 3
+Jones @ lf:	4 0 0 1 0 0
+McDonald @ rf:	4 0 0 2 0 0
+Gallagher @ 1b:	4 0 2 9 1 0
+Welch @ p:	3 1 1 0 3 1
+Darling @ p:	1 0 0 0 0 0
+TOTALS:		38 5 11 27 14 7
+
+line: Newport: 0 0 1 1 0 2 2 0 0 - 6
+line: Paragould: 0 1 0 0 0 0 4 0 0 - 5
+
+B_2B: Michael; Bevil; Welch; Thresher
+B_SH: Dodge; Riggs; Thebs; O'Hern; McDonald
+B_SB: Ware; Davidson #2; Kinser; Jolly; Riggs
+F_DP: Michael, Ware
+F_PB: Riggs
+P_WP: Darling
+P_SO: Darling #4; McClendon #3
+P_BB: Darling #3; Welch #1; McClendon #1
+B_HP: Ware
+T: 1:50
+U: Ryan
+
+---
+
+date: 1909-08-05
+number: 0
+league: Northeast Arkansas
+away: Jonesboro
+home: Marianna
+source: Arkansas Gazette#, August 6, 1909
+
+Jonesboro:	ab r h po a e
+Schlensker @ 3b:	3 1 0 2 2 1
+Jolly @ cf:	4 3 3 1 0 0
+Russell @ 1b:	4 0 0 7 2 2
+Winger @ c:	4 0 2 4 2 0
+Grogan @ lf:	4 0 0 1 0 0
+Graves @ ss:	4 0 0 1 1 1
+Elliot @ 2b:	3 0 0 5 2 0
+Allen[jon] @ rf:	3 0 0 1 0 1
+Davis @ p:	3 0 0 1 2 0
+TOTALS:		32 4 5 23 11 5
+
+Marianna:	ab r h po a e
+Ray @ ss:	3 2 1 4 1 2
+Allen[mar] @ lf:	4 1 2 7 0 0
+Doty @ c:	5 2 2 6 2 0
+Bockewitz @ 1b:	4 2 2 4 0 0
+Griffith @ 2b:	4 0 1 0 0 0
+Garrison @ 3b:	3 0 0 0 0 0
+Hardin @ cf:	3 0 0 4 0 0
+Francis @ rf:	4 0 2 2 0 0
+Luhrsen @ p:	4 1 2 0 1 1
+TOTALS:		34 8 12 27 4 3
+
+B_XO: Hardin, hit by batted ball
+
+line: Jonesboro: 2 0 0 0 0 1 0 1 0 - 4
+line: Marianna: 1 0 2 1 0 4 0 0 x - 8
+
+B_3B: Bockewitz
+B_2B: Doty; Griffith
+B_SH: Allen[mar]; Ray
+note: missing data - sumamry does not indicate which Allen had the SH - reviewing the AB totals for each Allen and each team, the SH has been assigned above to Marianna's Allen
+B_SB: Jolly #3
+P_SO: Davis #2; Luhrsen #6
+P_BB: Davis #3; Luhrsen #1
+B_LOB: Jonesboro #3; Marianna #4
+T: 1:50
+U: Crotty
+
+---
+
+date: 1909-08-06
+number: 0
+league: Northeast Arkansas
+away: Newport
+home: Paragould
+source: Arkansas Gazette#, August 7, 1909
+
+Newport:	ab r h po a e
+O'Hern @ ss:	4 1 1 4 5 0
+Dodge @ lf:	5 1 1 1 0 0
+McLendon @ rf:	4 2 2 1 0 0
+Jolly @ 1b:	4 1 0 9 0 1
+Riggs @ c:	4 1 2 2 1 0
+Thebs @ 3b:	2 0 1 3 2 0
+Kinner @ cf:	4 0 0 4 1 0
+Herod @ 2b:	0 0 0 0 0 0
+(~9.1)Finger @ p:	2 0 0 0 1 0
+(~8.2)Thrasher @ 2b:	3 0 0 3 1 1
+(~9.2)Campbell @ p:	1 0 0 0 1 0
+TOTALS:		33 6 7 27 12 4
+
+note: box lists 4 total Newport errors, but player totals add up to 2
+
+Paragould:	ab r h po a e
+Taylor @ cf:	5 1 2 0 0 0
+Ware @ 2b:	3 1 0 4 3 0
+Michaels @ ss:	5 1 2 2 4 0
+Davidson @ c:	3 0 0 8 3 0
+Bevill @ lf:	2 2 0 0 0 0
+Sloan @ 3b:	3 0 0 0 1 1
+Liddell @ 1b:	2 0 1 12 0 0
+McDonald @ rf-p:	5 0 2 1 3 0
+(~9.1)Gallagher @ p:	0 0 0 0 0 0
+(~9.2)Clayton @ rf:	5 0 1 0 0 0
+TOTALS:		33 5 8 27 14 1
+
+line: Newport: 4 0 0 0 1 0 1 0 0 - 6
+line: Paragould: 0 0 0 0 0 1 4 0 0 - 5
+
+B_2B: Taylor; Michaels; Liddell; McLendon; Riggs #2
+B_SH: McLendon; Jolly; Liddell #2
+B_SB: Michaels #3; Davidson; Bevill; Jolly; Thebs
+F_DP: O'Hern
+P_WP: Finger
+P_SO: Campbell #1; McDonald #5
+P_BB: Finger #5; Gallagher #5; Campbell #2; McDonald #2
+P_HP: Gallagher
+B_HP: Thebs
+T: 1:40
+U: Ryan
+
+P_GS: ~Finger; ~Gallagher
+P_GF: ~Campbell; ~McDonald
+P_W: ~Finger
+P_L: ~Gallagher
+
+---
+
+date: 1909-08-06
+number: 0
+league: Northeast Arkansas
+away: Jonesboro
+home: Marianna
+source: Arkansas Gazette#, August 7, 1909
+
+Jonesboro:	ab r h po a e
+Schlensker @ 3b:	3 0 0 1 1 0
+Jolly @ cf:	4 0 1 1 0 0
+Russell @ rf:	3 0 0 1 0 0
+Winger @ c:	4 1 1 9 0 0
+Davis @ 1b:	4 1 0 9 0 0
+Graves @ ss:	3 2 2 2 2 0
+Elliott @ 2b:	4 0 0 2 2 1
+Allen[jon] @ lf:	4 0 1 2 0 0
+Grogan @ p:	4 1 1 0 2 0
+TOTALS:		33 5 6 27 7 1
+
+Marianna:	ab r h po a e
+Ray @ ss:	3 0 1 5 5 0
+Allen, C. @ lf:	3 0 0 2 0 0
+Doty @ c:	4 0 0 9 1 1
+Bockewitz @ 1b:	4 0 0 7 2 0
+Griffith @ 2b:	3 0 1 1 0 0
+(~6.2)Garrison @ 3b:	3 0 0 0 0 1
+(~6.1)Bacon @ 3b:	0 0 0 1 0 0
+Hardin @ cf:	3 0 0 2 0 1
+Francis @ rf:	3 0 0 0 0 0
+(~9.2)Swain @ p:	0 0 0 0 1 1
+(~9.1)McAdams @ p:	3 0 1 0 2 0
+TOTALS:		29 0 3 27 11 4
+
+line: Jonesboro: 0 2 0 0 0 0 0 3 0 - 5
+line: Marianna: 0 0 0 0 0 0 0 0 0 - 0
+
+B_2B: Winger
+B_SH: Russell
+B_SB: Graves; Grogan; Griffith
+P_SO: Grogan #9; McAdams #7
+P_BB: Grogan #1; McAdams #4
+B_LOB: Jonesboro #0; Marianna #5
+B_HP: Griffith; Jolly; Bacon
+P_H: Swain #2; McAdams #4
+T: 2:10
+U: Crotty
+P_IP: Swain #1.0
+
+P_GS: ~McAdams
+P_GF: ~Swain
+P_L: ~McAdams
+
+---
+
+date: 1909-08-07
+number: 0
+league: Northeast Arkansas
+away: Jonesboro
+home: Marianna
+source: Arkansas Gazette#, August 8, 1909
+
+Jonesboro:	ab r h po a e
+Schlensker @ 3b:	3 1 0 0 1 0
+Jolly @ cf:	4 1 1 1 0 0
+Russell @ rf:	3 0 2 2 0 0
+Winger @ c:	3 0 1 9 0 0
+Davis @ 1b:	4 0 1 8 0 1
+Graves @ ss:	4 1 1 2 3 1
+Grogan @ lf:	4 0 1 2 0 0
+Elliott @ 2b:	3 0 0 2 2 0
+Ellis @ p:	4 0 0 0 5 0
+TOTALS:		32 3 7 26 11 2
+
+outsatend: 2
+
+Marianna:	ab r h po a e
+Bacon @ 3b:	4 1 1 1 3 0
+Ray @ ss:	5 0 1 1 3 0
+Allen @ lf:	2 0 0 2 0 0
+Doty @ c:	4 0 1 11 0 1
+Bockewitz @ 1b:	3 1 0 8 0 2
+Griffith @ 2b:	4 0 2 0 0 0
+Luhrsen @ rf-p:	4 1 0 1 0 0
+Hardin @ cf:	3 0 0 2 1 0
+Francis @ p-rf:	4 1 1 1 2 0
+TOTALS:		33 4 6 27 9 3
+
+line: Jonesboro: 2 0 0 0 0 0 0 0 1 - 3
+line: Marianna: 0 2 0 0 0 0 0 1 1 - 4
+
+B_ER: Marianna #1
+B_HR: Francis
+B_SH: Russell; Hardin
+B_SB: Griffith; Winger; Graves
+P_SO: Ellis #7; Francis #1; Luhrsen #8
+P_BB: Ellis #7; Francis #2
+P_WP: Ellis
+B_LOB: Jonesboro #4; Marianna #10
+B_HP: Winger
+P_H: Francis #4; Luhrsen #3
+P_IP: Francis #3.0; Luhrsen #6.0
+T: 1:55
+U: Crotty
+
+P_GS: ~Francis
+P_GF: ~Luhrsen
+P_R: ~Francis #2; ~Luhrsen #1
+P_W: ~Luhrsen
+
+---
+
+date: 1909-08-07
+number: 0
+league: Northeast Arkansas
+away: Newport
+home: Paragould
+source: Arkansas Gazette#, August 8, 1909
+
+Newport:	ab r h po a e
+O'Hern @ ss:	4 3 1 1 1 0
+Dodge @ lf:	5 1 2 1 1 0
+McLendon @ rf:	4 1 1 2 1 0
+Jolly @ 1b:	4 0 1 12 1 0
+Riggs @ c:	5 0 1 4 2 0
+Thebes @ 3b:	4 0 1 1 0 0
+Kinser @ cf:	3 1 1 1 0 0
+Herod @ 2b:	3 0 0 2 1 1
+Finger @ p:	4 0 0 3 0 0
+TOTALS:		36 6 8 27 17 1
+
+note: discrepancy - box lists 17 total Newport assists, but player totals add up to 7
+
+Paragould:	ab r h po a e
+Taylor @ cf:	3 1 1 2 0 0
+Ware @ 2b:	4 1 2 2 1 0
+Michaels @ ss:	4 0 0 4 4 2
+Davidson @ c:	4 0 2 6 1 1
+Bevil @ lf:	3 0 0 1 0 1
+Filmore @ 3b:	3 0 0 0 8 0
+Marshall @ 1b:	4 0 0 12 0 0
+McDonald @ rf:	2 0 0 0 0 0
+Darling @ p:	4 0 1 0 0 1
+TOTALS:		31 2 6 27 14 5
+
+line: Newport: 1 0 0 0 2 0 1 1 1 - 6
+line: Paragould: 0 0 0 0 0 0 0 2 0 - 2
+
+B_2B: McLendon; Riggs; Taylor; Thebes; Ware
+B_SH: McLendon; Jolly; Kinser; Filmore
+B_SB: O'Hern; Jolly; McLendon; Kinser
+F_DP: O'Hern, Herod, Jolly
+F_PB: Riggs
+P_SO: Finger #2; Darling #6
+P_BB: Finger #3; Darling #2
+B_HP: Kinser; Herod; Bevil
+note: text of summary is 'Hit by Pitcher - Kinser, Herod; by Darling, Bevil'
+T: 1:40
+note: missing data - no umpire recorded in summary
+
+
+
