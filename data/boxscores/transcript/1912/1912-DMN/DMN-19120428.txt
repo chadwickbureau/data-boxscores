@@ -557,3 +557,127 @@ B_ROE: Cleburne #2; Longview #2
 B_LOB: Cleburne #6; Longview #6
 T: 2:05
 U: Bryan
+
+---
+
+date: 1912-04-27
+number: 0
+league: Dallas Commercial
+away: City National Bank
+home: Guaranty State Bank
+
+City National Bank:	ab r h po a e
+Berlew @ 1b:	7 3 1 5 0 1
+Darr @ 3b:		6 3 3 2 2 0
+Frey @ p:		7 1 3 1 3 0
+Rugel @ 2b:		7 1 2 2 2 0
+Tinnon @ c:		4 2 2 14 1 0
+Breg @ ss:		5 3 3 0 1 2
+Roberts @ lf:	6 3 2 3 0 0
+King @ cf:		4 4 3 0 0 0
+Bassett @ rf:	4 4 1 0 0 0
+Hern @ cf:		1 1 0 0 0 1
+TOTALS:			51 26 20 27 9 4
+
+Guaranty State Bank:	ab r h po a e
+Rogers @ 1b:	5 1 2 9 0 0
+Wag'ner @ ss-cf:	5 1 3 0 0 0
+Keith @ 2b:		5 1 1 3 1 1 
+Compere @ c:	3 2 0 4 4 2
+Ward @ 3b:		4 1 0 2 1 2
+Fullwood @ cf-ss:	4 0 1 3 1 5
+Crosswaite @ lf:	4 0 1 4 0 2 
+Yeargar @ rf:	3 0 0 0 0 0
+Ayers @ p-cf:	4 0 0 3 1 2
+Wright @ p:		1 0 0 0 0 0
+TOTALS:			38 6 8 27 8 14
+
+line: City National Bank: 0 2 1 3 13 1 0 2 4 - 26
+line: Guaranty State Bank: 0 0 0 2 0 0 0 2 2 - 6
+
+P_IP: Frey #9; Ayers #7; Wright #2
+P_R: Frey #6; Ayers #20; Wright #6
+B_2B: Frey; Darr; Breg; Fullwood
+B_3B: Rugel; Berlew
+B_HR: King
+B_SB: Berlew; Darr #2; Rugel; Tinnon; Breg #3; Roberts; King; Compere
+P_SO: Frey #13; Ayers #4
+P_BB: Frey #1; Ayers #6
+P_HP: Ayers #1
+B_ROE: City National Bank #8; Guaranty State Bank #3
+F_DP: Fullwood, Rogers
+P_WP: Frey
+F_PB: Compere #6; Tinnon #1
+U: Jordan
+
+---
+
+date: 1912-04-27
+number: 0
+league: Dallas Commercial
+away: Magnolia Petroleum
+home: Western Electric
+
+Western Electric:	ab r h po a e
+Smith @ c:		4 1 2 0 3 0
+Tobionsky @ lf:	3 2 3 5 0 1
+Schon @ ss:		4 3 1 0 2 1
+Shannon @ p:	3 4 2 9 4 0
+Horn @ rf:		5 3 2 0 0 0
+Hill @ cf:		5 3 2 0 0 1
+Whiteside @ 3b:	5 1 1 1 1 2
+Schmellfining @ 1b:	5 0 0 5 0 2
+Compion @ 2b:	4 1 1 7 0 1
+Layman @ 2b:	0 0 0 0 0 0
+TOTALS:			38 18 14 27 10 7
+
+Magnolia Petroleum: 	ab r h po a e
+Quaggles @ c:	3 0 1 2 3 0
+Thomas @ 3b:	3 0 1 2 0 2
+Hoskins @ cf:	4 0 0 1 0 4
+Dobbins @ p-ss:	3 1 1 4 2 4 
+Griffin @ ss-p:	4 0 0 9 0 3
+Gonish @ lf:	4 0 0 0 0 1
+Davis @ 1b:		3 0 0 4 4 0
+Hartman @ rf:	4 0 0 0 0 0
+Fitzpatrick @ 2b:	4 0 0 0 3 0
+TOTALS:			32 1 3 24 11 14
+
+note: Compion played 2b 8 innings, Layman 1 inning
+
+line: Western Electric: 0 0 1 4 5 2 4 2 x - 18
+line: Magnolia Petroleum: 0 0 0 0 0 0 0 0 1 - 1
+
+P_IP: Shannon #9; Griffin #4; Dobbins #5
+P_H: Shannon #3; Griffin #5; Dobbins #9
+B_3B: Horn; Tobionsky; Schon
+B_2B: Tobionsky
+B_SB: Tobionsky #3; Shannon; Compion; Hill; Smith
+B_SH: Shannon
+P_SO: Shannon #9; Griffin #4; Dobbins #2
+P_HP: Shannon #1; Griffin #3; Dobbins #2
+T: 2:00
+U: Pondrum
+
+---
+
+date: 1912-04-27
+number: 0
+league: Dallas Commercial
+away: Butler Brothers
+home: Southwestern Telephone
+note: home/away assignments inferred
+
+Butler Brothers: r
+Murray @ p:	x
+Clem @ c:	x
+TOTALS:	11
+
+Southwestern Telephone: r
+Williams @ p:	x
+Martin @ c:	x
+TOTALS:	10
+
+line: Butler Brothers: - 11
+line: Southwestern Telephone: - 10
+
