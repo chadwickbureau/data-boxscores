@@ -4,6 +4,7 @@ import glob
 import hashlib
 import argparse
 import warnings
+import pathlib
 
 import colorama as clr
 import pandas as pd
@@ -518,6 +519,9 @@ def process_files(source):
               if "README.txt" not in fn and "notes.txt" not in fn]
     gamelist = [Game.fromtext(g, fn)
                 for fn in fnlist for g in iterate_games(fn)]
+
+    (pathlib.Path("data/boxscores/processed")/source).mkdir(exist_ok=True)
+
     games = compile_games(source, gamelist)
     playing = compile_playing(source, games, gamelist)
     umpiring = compile_umpiring(source, games, gamelist)
