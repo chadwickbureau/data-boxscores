@@ -66,7 +66,16 @@ class DuplicatedNameWarning(BoxscoreParserWarning):
                              "In file %s,\n   game %s\n  %s" %
                              (fn, game, message))
 
+class DetailParseWarning(BoxscoreParserWarning):
+    """A warning class for parse errors in detail strings.
+    """
+    def __init__(self, fn, game, message):
+        super(DetailParseWarning, self).__init__(
+                             "In file %s,\n   game %s\n  %s" %
+                             (fn, game, message))
+    
 
+        
 def _formatwarning(msg, category, *args, **kwargs):
     return str(msg) + '\n'
 warnings.formatwarning = _formatwarning
@@ -74,15 +83,6 @@ warnings.formatwarning = _formatwarning
 
 class Game(object):
     _subskeys = ["*", "+", "^", "&", "$"]
-    # "DI" is used sporadically in Winnipeg paper in 1915 - assuming it is RBI
-    _categorymap = {"ab":   "B_AB",
-                    "r":    "B_R",
-                    "h":    "B_H",
-                    "po":   "F_PO",
-                    "a":    "F_A",
-                    "e":    "F_E",
-                    "di":   "B_RBI",
-                    "rbi":  "B_RBI"}
 
     @property
     def date(self): return self.metadata.get("date")
@@ -99,7 +99,186 @@ class Game(object):
         return "%s[%s]: %s at %s" % (self.date, self.number,
                                      self.away, self.home)
 
-    def _parse_playing_value(self, key, value, clubname, columns):
+    def _parse_details(self, key, value):
+        if value == "": return
+        for entry in [x.strip() for x in value.split(";")]:
+            if entry[:1] == '~':
+                entry = entry[1:]
+            if "#" in entry:
+                try:
+                    name, count = [x.strip() for x in entry.split("#")]
+                except ValueError:
+                    print("In file %s,\n   game %s" % (self.metadata['filename'], self))
+                    print("  Ill-formed details string '%s'" % entry)
+                    return
+            else:
+                name, count = entry, "1"
+            is_marked = name.startswith("??")
+            if is_marked:
+                name = name[2:]
+            try:
+                self.playing[name][key] = count
+            except KeyError:
+                if is_marked:
+                    warnings.warn(
+                        MarkedIdentificationWarning(
+                                    self.metadata['filename'],
+                                    self,
+                                    "No match on name '??%s' in '%s'" %
+                                         (name, key)))
+                else:
+                    warnings.warn(IdentificationWarning(self.metadata['filename'],
+                                                        self,
+                                                        "No match on name '%s' in '%s'" % (name, key)))
+
+    def _parse_details_XO(self, key, value):
+        if value == "": return
+        for entry in [x.strip() for x in value.split(";")]:
+            try:
+                name, reason = [x.strip() for x in entry.split(",")]
+            except ValueError:
+                warnings.warn(DetailParseWarning(
+                                  self.metadata['filename'],
+                                  self,
+                                  "Ill-formed details string '%s'" % entry))
+            try:
+                self.playing[name]['B_XO'] = self.playing[name].get('B_XO', 0)+1
+            except KeyError:
+                warnings.warn(IdentificationWarning(self.metadata['filename'],
+                                                    self,
+                                                    "No match on name '%s' in '%s'" % (name, key)))
+
+    def _parse_dptp(self, key, value):
+        if value == "":  return
+        for entry in map(lambda x: x.strip(), value.split(";")):
+            if "#" in entry:
+                names, count = map(lambda x: x.strip(), entry.split("#"))
+            else:
+                names, count = entry, 1
+
+            # TODO: Should do sanity check that all players are on same team!
+            # Team should then be credited with a double play/triple play
+            for name in map(lambda x: x.strip(), names.split(",")):
+                is_marked = name.startswith("??")
+                if is_marked:
+                    name = name[2:]
+                try:
+                    playing = self.playing[name]
+                except KeyError:
+                    if is_marked:
+                        warnings.warn(MarkedIdentificationWarning(self.metadata['filename'],
+                                                            self,
+                                                            "No match on name '??%s' in '%s'" % (name, key)))
+                    else:
+                        warnings.warn(IdentificationWarning(self.metadata['filename'],
+                                                            self,
+                                                            "No match on name '%s' in '%s'" % (name, key)))
+                    continue
+                playing[key] = str(int(playing.get(key, 0)) + int(count))
+
+    def _parse_umpire(self, value):
+        if "," in value:
+            name_last, name_first = map(lambda x: x.strip(), value.split(","))
+        else:
+            name_last, name_first = value, None
+        return {"game.key": self.metadata["key"],
+                "game.date": self.date,
+                "game.number": self.number,
+                "game.phase": self.phase,
+                "name.last": name_last,
+                "name.first": name_first}
+
+    def _parse_umpires(self, key, value):
+        self.umpiring = [self._parse_umpire(x)
+                         for x in map(lambda x: x.strip(),
+                                      value.split(";"))]
+        return True
+
+    def _process_linescore(self, value):
+        try:
+            club, score = map(lambda x: x.strip(), value.split(":"))
+        except ValueError:
+            print("In file %s,\n   game %s" % (self.metadata['filename'], self))
+            print("  Ill-formed linescore string '%s'" % value)
+            return
+
+        if club == self.away:
+            prefix = "away.score"
+        elif club == self.home:
+            prefix = "home.score"
+        else:
+            print("In file %s,\n   game %s" % (self.metadata['filename'], self))
+            print("  No match on club name '%s'" % (club))
+            return
+
+        byinning, total = map(lambda x: x.strip(), score.split("-"))
+        self.metadata[prefix] = total
+        for (inning, s) in enumerate(byinning.split()):
+            self.metadata['%s.%d' % (prefix, inning+1)] = s
+  
+
+    def update_metadata(self, key, value):  return self.metadata.update({key: value})
+    do_date = update_metadata
+    do_number = update_metadata
+    do_league = update_metadata
+    do_phase = update_metadata
+    do_away = update_metadata
+    do_home = update_metadata
+    do_site = update_metadata
+    do_source = update_metadata
+    do_A = update_metadata
+    do_T = update_metadata
+    do_status = update_metadata
+    do_status_reason = update_metadata
+    do_away_manager = update_metadata
+    do_home_manager = update_metadata
+    do_forfeit_to = update_metadata
+    do_outsatend = update_metadata
+    do_U = _parse_umpires
+    def do_home_batted(self, key, value):  return True
+
+    def do_line(self, key, value):   return self._process_linescore(value)
+
+    do_B_ER = _parse_details
+    do_B_R = _parse_details
+    do_B_2B = _parse_details
+    do_B_3B = _parse_details
+    do_B_HR = _parse_details
+    do_B_BB = _parse_details
+    do_B_SO = _parse_details
+    do_B_HP = _parse_details
+    do_B_SH = _parse_details
+    do_B_SF = _parse_details
+    do_B_SB = _parse_details
+    do_B_LOB = _parse_details
+    do_B_ROE = _parse_details
+    do_B_XO = _parse_details_XO
+
+    do_P_GS = _parse_details
+    do_P_GF = _parse_details
+    do_P_W = _parse_details
+    do_P_L = _parse_details
+    do_P_SV = _parse_details
+    do_P_IP = _parse_details
+    do_P_TBF = _parse_details
+    do_P_AB = _parse_details
+    do_P_R = _parse_details
+    do_P_ER = _parse_details
+    do_P_H = _parse_details
+    do_P_BB = _parse_details
+    do_P_SO = _parse_details
+    do_P_HP = _parse_details
+    do_P_WP = _parse_details
+    do_P_BK = _parse_details
+
+    do_F_SB = _parse_details
+    do_F_PB = _parse_details
+    do_F_DP = _parse_dptp
+    do_F_TP = _parse_dptp
+
+    def do_note(self, key, value):   return True
+
+    def parse_playing_value(self, key, value, clubname, columns):
         if key == "TOTALS":
             name, pos = "TOTALS", None
         else:
@@ -145,112 +324,56 @@ class Game(object):
                     playing[c] = s
         return playing
 
-    def _parse_details(self, key, value):
-        for entry in [x.strip() for x in value.split(";")]:
-            if entry[:1] == '~':
-                entry = entry[1:]
-            if "#" in entry:
-                try:
-                    name, count = [x.strip() for x in entry.split("#")]
-                except ValueError:
-                    print("In file %s,\n   game %s" % (self.metadata['filename'], self))
-                    print("  Ill-formed details string '%s'" % entry)
-                    return
-            else:
-                name, count = entry, "1"
-            is_marked = name.startswith("??")
-            if is_marked:
-                name = name[2:]
-            try:
-                self.playing[name][key] = count
-            except KeyError:
-                if is_marked:
-                    warnings.warn(
-                        MarkedIdentificationWarning(
-                                    self.metadata['filename'],
-                                    self,
-                                    "No match on name '??%s' in '%s'" %
-                                         (name, key)))
-                else:
-                    warnings.warn(IdentificationWarning(self.metadata['filename'],
-                                                        self,
-                                                        "No match on name '%s' in '%s'" % (name, key)))
+    def process_player_list(self, clubname, header, lines):
+        seq = 1
+        # "DI" is used sporadically in Winnipeg paper in 1915 - assuming it is RBI
+        categorymap = {"ab": "B_AB", "r": "B_R", "h": "B_H",
+                       "di": "B_RBI", "rbi": "B_RBI",
+                       "po": "F_PO", "a": "F_A", "e": "F_E"}
+        try:
+            columns = [categorymap[c]
+                       for c in [x for x in header.split() if x.strip() != ""]]
+        except KeyError:
+            print("In file %s,\n   game %s" % (self.metadata['filename'], self))
+            print("  Unrecognised category line '%s'" % (value))
+            columns = []
 
-    def _parse_details_XO(self, key, value):
-        for entry in [x.strip() for x in value.split(";")]:
+        while True:
             try:
-                name, reason = [x.strip() for x in entry.split(",")]
-            except ValueError:
+                line = next(lines)
+            except StopIteration:
                 print("In file %s,\n   game %s" % (self.metadata['filename'], self))
-                print("  Ill-formed details string '%s'" % entry)
+                print("  Unexpected end of game when parsing team '%s'" % clubname)
                 return
             try:
-                self.playing[name]['B_XO'] = self.playing[name].get('B_XO', 0)+1
-            except KeyError:
+                key, value = [x.strip() for x in line.split(":", 1)]
+            except ValueError:
                 print("In file %s,\n   game %s" % (self.metadata['filename'], self))
-                print("  No match on name '%s' in '%s'" % (name, key))
-
-    def _parse_dptp(self, key, value):
-        for entry in map(lambda x: x.strip(), value.split(";")):
-            if "#" in entry:
-                names, count = map(lambda x: x.strip(), entry.split("#"))
+                print("  Invalid key-value pair '%s'" % line)
+                continue
+            
+            playing = self.parse_playing_value(key, value, clubname, columns)
+            playing.update({'game.key':    self.metadata['key'],
+                            'game.date':   self.date,
+                            'game.number': self.number,
+                            'game.phase':  self.phase})
+            if key != "TOTALS":
+               playing['seq'] = str(seq)
+               seq += 1
+               if playing['name.full'] in self.playing:
+                   warnings.warn(DuplicatedNameWarning(self.metadata['filename'],
+                                                       self,
+                                                       "Duplicated name '%s'" % key))
+               elif playing['name.full'] in [self.away, self.home]:
+                   warnings.warn(DuplicatedNameWarning(self.metadata['filename'],
+                                                       self,
+                                                       "Player name '%s' clashes with club name" % key))
+               else:
+                   self.playing[playing["name.full"]] = playing
             else:
-                names, count = entry, 1
-
-            # TODO: Should do sanity check that all players are on same team!
-            # Team should then be credited with a double play/triple play
-            for name in map(lambda x: x.strip(), names.split(",")):
-                is_marked = name.startswith("??")
-                if is_marked:
-                    name = name[2:]
-                try:
-                    playing = self.playing[name]
-                except KeyError:
-                    if is_marked:
-                        warnings.warn(MarkedIdentificationWarning(self.metadata['filename'],
-                                                            self,
-                                                            "No match on name '??%s' in '%s'" % (name, key)))
-                    else:
-                        warnings.warn(IdentificationWarning(self.metadata['filename'],
-                                                            self,
-                                                            "No match on name '%s' in '%s'" % (name, key)))
-                    continue
-                playing[key] = str(int(playing.get(key, 0)) + int(count))
-
-    def _parse_umpire(self, value):
-        if "," in value:
-            name_last, name_first = map(lambda x: x.strip(), value.split(","))
-        else:
-            name_last, name_first = value, None
-        return {"game.key": self.metadata["key"],
-                "game.date": self.date,
-                "game.number": self.number,
-                "game.phase": self.phase,
-                "name.last": name_last,
-                "name.first": name_first}
-
-    def _process_linescore(self, value):
-        try:
-            club, score = map(lambda x: x.strip(), value.split(":"))
-        except ValueError:
-            print("In file %s,\n   game %s" % (self.metadata['filename'], self))
-            print("  Ill-formed linescore string '%s'" % value)
-            return
-
-        if club == self.away:
-            prefix = "away.score"
-        elif club == self.home:
-            prefix = "home.score"
-        else:
-            print("In file %s,\n   game %s" % (self.metadata['filename'], self))
-            print("  No match on club name '%s'" % (club))
-            return
-
-        byinning, total = map(lambda x: x.strip(), score.split("-"))
-        self.metadata[prefix] = total
-        for (inning, s) in enumerate(byinning.split()):
-            self.metadata['%s.%d' % (prefix, inning+1)] = s
-
+                self.playing[clubname] = playing
+                return
+            
     @classmethod
     def fromtext(cls, gametext, fn):
         """Parse the game input text format."
@@ -261,102 +384,35 @@ class Game(object):
                          "phase": "regular"}
         self.playing = {}
         self.umpiring = []
-
-        clubname = None
-        columns = None
-        seq = None
-        for line in filter(lambda x: x.strip() != "", gametext.split("\n")):
+        
+        lines = iter([x for x in gametext.split("\n") if x.strip() != ""])
+        while True:
             try:
-                key, value = map(lambda x: x.strip(), line.split(":", 1))
+                line = next(lines)
+            except StopIteration:
+                break
+            
+            try:
+                key, value = [x.strip() for x in line.split(":", 1)]
             except ValueError:
                 print("In file %s,\n   game %s" % (self.metadata['filename'], self))
                 print("  Invalid key-value pair '%s'" % line)
                 continue
 
-            if clubname is not None:
-                playing = self._parse_playing_value(key, value, clubname, columns)
-                playing['game.key'] = self.metadata["key"]
-                playing['game.date'] = self.date
-                playing['game.number'] = self.number
-                playing['game.phase'] = self.phase
-                if key != "TOTALS":
-                    playing['seq'] = str(seq)
-                    seq += 1
-                    if playing['name.full'] in self.playing:
-                        warnings.warn(DuplicatedNameWarning(self.metadata['filename'],
-                                                            self,
-                                                            "Duplicated name '%s'" % key))
-                    elif playing['name.full'] in [self.away, self.home]:
-                        warnings.warn(DuplicatedNameWarning(self.metadata['filename'],
-                                                            self,
-                                                            "Player name '%s' clashes with club name" % key))
-                    else:
-                        self.playing[playing["name.full"]] = playing
-                else:
-                    self.playing[clubname] = playing
-                    clubname = None
-
-            elif key in [self.away, self.home]:
-                clubname = key
-                seq = 1
-                columns = filter(lambda x: x.strip() != "", value.split())
-                try:
-                    columns = [self._categorymap[c] for c in columns]
-                except KeyError:
-                    print("In file %s,\n   game %s" % (self.metadata['filename'], self))
-                    print("  Unrecognised category line '%s'" % (value))
-                    columns = []
-
-            elif key in ["date", "number", "league", "away", "home", "site",
-                         "source", "A", "T", "status", "status-reason",
-                         "home-manager", "away-manager", "forfeit-to",
-                         "outsatend", "phase"]:
-                self.metadata[key] = value
-
-            elif key in ["home-batted"]:
-                pass
-                
-            elif key in ["B_ER", "B_R", "B_2B", "B_3B", "B_HR", "B_BB", "B_SO",
-                         "B_SH", "B_HP",
-                         "B_SH", "B_SF", "B_SB",
-                         "B_LOB", "B_ROE",
-                         "P_GS", "P_GF", "P_W", "P_L", "P_SV",
-                         "P_IP", "P_AB", "P_R", "P_ER", "P_H",
-                         "P_HP", "P_BB", "P_SO",
-                         "P_TBF", "P_WP", "P_BK",
-                         "F_SB", "F_PB"]:
-                if value != "":
-                    self._parse_details(key, value)
-
-            elif key == "B_XO":
-                if value != "":
-                    self._parse_details_XO(key, value)
-
-            elif key in ["F_DP", "F_TP"]:
-                if value != "":
-                    self._parse_dptp(key, value)
-
-            elif key == "U":
-                self.umpiring = [self._parse_umpire(x)
-                                 for x in map(lambda x: x.strip(),
-                                              value.split(";"))]
-
-            elif key == "line":
-                self._process_linescore(value)
-
+            if key in [self.away, self.home]:
+                self.process_player_list(key, value, lines)
             elif key in self._subskeys:
                 # TODO: process pinch-hitting
                 pass
-
-            elif key == "note":
-                # TODO: process notes
-                pass
-
             else:
-                print("In file %s,\n   game %s" % (self.metadata['filename'],
-                                                   self))
-                print("  Unknown record key '%s'" % key)
-
+                try:
+                    func = getattr(self, 'do_' + key.replace("-", "_"))
+                except AttributeError:
+                    print("In file %s,\n   game %s" % (self.metadata['filename'],
+                                                       self))
+                    print("  Unknown record key '%s'" % key)
+                    continue
+                func(key, value)
         return self
 
 
@@ -477,15 +533,15 @@ def compile_players(source, playing):
                             'club.name':  'entry.name',
                             'year':       'league.year',
                             'league':     'league.name',
-                            'game.phase':  'league.phase'})
-    df = df[['league.year', 'league.name', 'league.phase', 'person.ref',
+                            'game.phase':  'league.phase'}) \
+           [['league.year', 'league.name', 'league.phase', 'person.ref',
              'person.name.last', 'person.name.given', 'entry.name',
              'S_FIRST', 'S_LAST', 'B_G', 'P_G',
              'F_1B_G', 'F_2B_G', 'F_3B_G', 'F_SS_G',
              'F_OF_G', 'F_LF_G', 'F_CF_G', 'F_RF_G',
-             'F_C_G', 'F_P_G']]
-    df.to_csv("data/boxscores/processed/%s/players.csv" % source, index=False,
-              float_format='%d')
+             'F_C_G', 'F_P_G']] \
+           .to_csv("data/boxscores/processed/%s/players.csv" % source, index=False,
+                   float_format='%d')
 
 
 def compile_umpires(source, umpiring):
@@ -502,12 +558,12 @@ def compile_umpires(source, umpiring):
                             'name.first': 'person.name.given',
                             'year':       'league.year',
                             'league':     'league.name',
-                            'game.phase': 'league.phase'})
-    df = df[['league.year', 'league.name', 'league.phase', 'person.ref',
+                            'game.phase': 'league.phase'}) \
+           [['league.year', 'league.name', 'league.phase', 'person.ref',
              'person.name.last', 'person.name.given',
-             'S_FIRST', 'S_LAST', 'U_G']]
-    df.to_csv("data/boxscores/processed/%s/umpires.csv" % source, index=False,
-              float_format='%d')
+             'S_FIRST', 'S_LAST', 'U_G']] \
+           .to_csv("data/boxscores/processed/%s/umpires.csv" % source, index=False,
+                   float_format='%d')
 
     
 def process_files(source):
@@ -540,7 +596,7 @@ def main():
     args = parser.parse_args()
     warnings.simplefilter('error', DuplicatedNameWarning)
     warnings.simplefilter('ignore', MarkedIdentificationWarning)
-    #warnings.simplefilter('error', IdentificationWarning)
+    warnings.simplefilter('error', IdentificationWarning)
     if args.warn_duplicates:
         warnings.simplefilter('default', DuplicatedNameWarning)
     if args.warn_marked:
