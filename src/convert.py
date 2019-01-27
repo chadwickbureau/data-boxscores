@@ -307,10 +307,6 @@ class Game(object):
                     print("  Unrecognised category line '%s'" % (value))
                     columns = []
 
-            elif key == "key":
-                # Some files had manually set keys - we have deprecated these
-                pass
-            
             elif key in ["date", "number", "league", "away", "home", "site",
                          "source", "A", "T", "status", "status-reason",
                          "home-manager", "away-manager", "forfeit-to",
