@@ -81,6 +81,8 @@ def _formatwarning(msg, category, *args, **kwargs):
 warnings.formatwarning = _formatwarning
 
 
+
+
 class Game(object):
     _subskeys = ["*", "+", "^", "&", "$"]
 
@@ -340,18 +342,11 @@ class Game(object):
 
         while True:
             try:
-                line = next(lines)
+                key, value = next(lines)
             except StopIteration:
                 print("In file %s,\n   game %s" % (self.metadata['filename'], self))
                 print("  Unexpected end of game when parsing team '%s'" % clubname)
                 return
-            try:
-                key, value = [x.strip() for x in line.split(":", 1)]
-            except ValueError:
-                print("In file %s,\n   game %s" % (self.metadata['filename'], self))
-                print("  Invalid key-value pair '%s'" % line)
-                continue
-            
             playing = self.parse_playing_value(key, value, clubname, columns)
             playing.update({'game.key':    self.metadata['key'],
                             'game.date':   self.date,
@@ -374,6 +369,21 @@ class Game(object):
                 self.playing[clubname] = playing
                 return
             
+    def data_pairs(self, text):
+        """The data file is essentially a sequence of (key, value) pairs.
+        This implements a generator which extracts these.
+        """
+        for line in text.split("\n"):
+            line = line.strip()
+            if line == "": continue
+            try:
+                key, value = [x.strip() for x in line.split(":", 1)]
+                yield (key, value)
+            except ValueError:
+                print("In file %s,\n   game %s" % (self.metadata['filename'], self))
+                print("  Invalid key-value pair '%s'" % line)
+
+
     @classmethod
     def fromtext(cls, gametext, fn):
         """Parse the game input text format."
@@ -385,20 +395,12 @@ class Game(object):
         self.playing = {}
         self.umpiring = []
         
-        lines = iter([x for x in gametext.split("\n") if x.strip() != ""])
+        lines = self.data_pairs(gametext)
         while True:
             try:
-                line = next(lines)
+                key, value = next(lines)
             except StopIteration:
                 break
-            
-            try:
-                key, value = [x.strip() for x in line.split(":", 1)]
-            except ValueError:
-                print("In file %s,\n   game %s" % (self.metadata['filename'], self))
-                print("  Invalid key-value pair '%s'" % line)
-                continue
-
             if key in [self.away, self.home]:
                 self.process_player_list(key, value, lines)
             elif key in self._subskeys:
@@ -596,7 +598,7 @@ def main():
     args = parser.parse_args()
     warnings.simplefilter('error', DuplicatedNameWarning)
     warnings.simplefilter('ignore', MarkedIdentificationWarning)
-    warnings.simplefilter('error', IdentificationWarning)
+    #warnings.simplefilter('error', IdentificationWarning)
     if args.warn_duplicates:
         warnings.simplefilter('default', DuplicatedNameWarning)
     if args.warn_marked:
