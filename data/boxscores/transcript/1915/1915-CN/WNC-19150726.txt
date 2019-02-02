@@ -43,6 +43,7 @@ line: Morganton:   1 0 1 0 2 0 1 1 0 - 6
 ---
 
 date: 1915-07-27
+number: 0
 league: Western North Carolina
 away: Gastonia
 home: Lenoir 
@@ -86,6 +87,7 @@ line: Morganton:   4 0 1 2 0 0 0 0 x - 7
 ---
 
 date: 1915-07-28
+number: 0
 league: Western North Carolina
 away: Gastonia
 home: Lenoir 
