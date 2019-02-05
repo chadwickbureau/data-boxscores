@@ -1,0 +1,142 @@
+date: 1915-08-18
+number: 0
+league: Eastern North Carolina
+away: Lumberton 
+home: Red Springs
+source: Charlotte News, August 19, 1915
+
+Lumberton:	ab r h po a e
+Taguer @ 3b:	3 0 0 1 3 0
+Emery @ 2b:	3 1 0 3 2 0 
+Gaston @ rf:	3 1 1 1 0 0
+Bruce @ ss:	3 0 1 1 1 1
+Fox @ 1b:	4 0 1 12 1 0
+Person @ cf:	4 0 1 0 0 0
+Strain @ lf:	4 0 0 0 0 0
+Krebs @ c:	3 0 0 6 0 0
+Foster @ p:	3 0 0 0 2 0
+TOTALS:		30 2 4 24 9 1
+
+Red Springs:	ab r h po a e
+Utley @ 1b:	4 1 1 12 2 0
+Rowe @ ss:	4 0 1 2 1 2
+Heins @ cf:	4 0 1 1 0 0 
+Rowe, Buck @ 3b:	4 0 1 1 1 0	
+Hamilton @ rf:	3 1 1 0 0 0
+Turner @ 2b:	2 0 0 1 5 0
+Koehler @ c:	3 0 0 7 3 0
+Lee @ lf:	2 1 2 2 0 0
+Ingle @ p:	1 0 0 0 2 1
+Glazner @ p:	1 0 0 1 1 0
+TOTALS:		28 3 7 27 15 3
+
+line: Lumberton:   1 0 0 0 0 0 0 0 1 - 2
+line: Red Springs: 0 0 1 0 0 1 1 0 x - 3
+
+B_2B: Heins
+B_3B: Utley; Gaston
+P_SO: Ingle #4; Glazner #3; Foster #6
+U: Henderson
+
+---
+
+date: 1915-08-19
+number: 0
+league: Eastern North Carolina
+away: Lumberton 
+home: Albemarle
+source: Charlotte News, August 20, 1915
+A: 450
+
+Lumberton:	ab r h po a e
+Taguer @ 3b:	4 0 1 3 3 0
+Emery @ 2b:	4 0 3 2 3 1
+Gaston @ rf:	4 0 0 2 0 0
+Bruce @ ss:	4 1 0 1 1 0
+Fox @ 1b:	4 0 1 5 0 0
+Person @ cf:	4 0 1 1 0 0
+Strain @ lf:	4 1 1 0 0 0
+Krebs @ c:	4 1 1 13 0 0
+Poole @ p:	4 1 0 0 1 0
+TOTALS:		36 4 8 27 8 1
+
+Albemarle:	ab r h po a e
+Lynch @ 2b:	5 0 0 3 1 1
+Shannon @ c:	4 0 0 8 1 0
+Spence @ lf:	4 0 0 2 0 0
+Peeler @ p:	4 0 0 0 3 0
+Black @ 3b:	4 0 0 1 4 1
+Devane @ cf:	3 0 1 1 0 0 
+Morrow @ rf:	3 0 1 1 1 0 
+Cooper, D. @ ss:	3 0 0 1 4 1
+Cooper, L. @ 1b:	3 0 0 10 0 0
+TOTALS:		33 0 2 27 14 3
+
+line: Lumberton: 0 2 0 0 0 0 1 1 0 - 4
+line: Albemarle: 0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Albemarle #3; Lumberton #6
+B_ROE: Lumberton #2
+B_2B: Morrow
+B_3B: Taguer
+B_HP: Krebs
+P_BB: Poole #1
+P_SO: Poole #13; Peeler #5
+P_HP: Peeler 
+F_DP: Morrow, Shannon
+T: 1:50
+U: Blalock; McDonnah
+
+---
+
+date: 1915-08-20
+number: 0
+league: Eastern North Carolina
+away: Lumberton 
+home: Albemarle
+source: Charlotte News, August 21, 1915
+A: 400
+
+Lumberton:	ab r h po a e
+Taguer @ 3b:	5 0 4 0 1 1 
+Emery @ 2b:	5 0 0 3 3 0
+Gaston @ rf:	5 1 1 0 0 0
+Bruce @ ss:	5 1 1 1 2 0
+Fox @ 1b:	5 2 3 8 0 0
+Person @ cf:	5 0 0 1 0 0
+Strain @ lf:	5 1 2 1 0 0
+Krebs @ c:	5 0 1 15 1 0
+Currie @ p:	4 0 0 1 2 0
+Foster @ p:	0 0 0 0 0 0
+TOTALS:		44 5 12 30 9 1
+
+Albemarle:	ab r h po a e
+Lynch @ 2b:	4 0 0 0 2 0
+Shannon @ c:	4 0 1 6 0 0
+Spence @ lf:	4 0 0 3 0 1
+Peeler @ 1b:	4 1 1 14 0 2
+Black @ 3b:	4 1 1 0 4 0
+Devane @ cf:	4 1 1 1 0 0
+Lyerly @ ss:	4 1 2 3 4 0
+Morrow @ rf:	4 0 0 1 0 0 
+Gordon @ p:	4 0 1 2 5 0
+TOTALS:		36 4 7 30 15 3
+
+line: Lumberton: 0 0 0 0 0 3 0 0 1 1 - 5
+line: Albemarle: 0 0 1 0 0 0 0 0 3 0 - 4
+
+B_LOB: Albemarle #6; Lumberton #10
+B_2B: Taguer
+B_3B: Lyerly
+B_SB: Lyerly
+P_BB: Currie #11; Foster #2; Gordon #6
+P_H: Currie #7
+P_IP: Currie #8.2; Foster #1.1
+T: 2:10
+U: McDonnah; Blalock
+
+P_GS: ~Currie
+P_GF: ~Foster
+P_W: ~Foster
+P_R: ~Currie #4
+
