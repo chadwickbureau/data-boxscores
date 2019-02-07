@@ -2,10 +2,16 @@ import sys
 import os
 import glob
 import hashlib
-import argparse
 import warnings
-import pathlib
-
+try:
+    import pathlib
+except ImportError:
+    import pathlib2 as pathlib
+try:
+    import configparser
+except ImportError:
+    import ConfigParser as configparser
+    
 import colorama as clr
 import pandas as pd
 
@@ -390,7 +396,7 @@ class Game(object):
         """
         self = cls()
         self.metadata = {"key": game_hash(gametext),
-                         "filename": fn,
+                         "filename": "/".join(fn.parts[-3:]),
                          "phase": "regular"}
         self.playing = {}
         self.umpiring = []
@@ -433,7 +439,7 @@ def iterate_games(fn):
                        ("\n".join(filter(lambda x: x != "",
                                          [' '.join(x.strip().split()) for x in open(fn).readlines()]))).split("---\n")))
 
-def compile_playing(source, games, gamelist):
+def compile_playing(source, games, gamelist, outpath):
     df = pd.concat([pd.DataFrame(list(g.playing.values())) for g in gamelist],
                    sort=False, ignore_index=True) \
            .merge(games[['key', 'league']], left_on='game.key', right_on='key') \
@@ -460,15 +466,9 @@ def compile_playing(source, games, gamelist):
         if col not in columns:
             print("WARNING: unexpected column %s in playing" % col)
 
-    try:
-        os.makedirs("data/boxscores/processed/%s" % source)
-    except os.error:
-        pass
-    return df[columns].pipe(to_csv,
-                            "data/boxscores/processed/%s/playing.csv" % source,
-                            index=False)
+    return df[columns].pipe(to_csv, outpath/"playing.csv", index=False)
 
-def compile_games(source, gamelist):
+def compile_games(source, gamelist, outpath):
     df = pd.DataFrame([g.metadata for g in gamelist]) \
            .sort_values(['date', 'league', 'home', 'number']) \
            .rename(columns={"away-manager": "away.manager",
@@ -493,10 +493,9 @@ def compile_games(source, gamelist):
     for col in df:
         if col not in columns:
             print("WARNING: unexpected column %s in games" % col)
-    return df[columns].pipe(to_csv, "data/boxscores/processed/%s/games.csv" % source,
-                            index=False)
+    return df[columns].pipe(to_csv, outpath/"games.csv", index=False)
 
-def compile_umpiring(source, games, gamelist):
+def compile_umpiring(source, games, gamelist, outpath):
     df = pd.concat([pd.DataFrame(g.umpiring) for g in gamelist],
                    sort=False, ignore_index=True)
     df = pd.merge(df, games[['key', 'league']],
@@ -509,12 +508,10 @@ def compile_umpiring(source, games, gamelist):
     columns = ['game.key', 'league.year', 'league.name',
                'game.date', 'game.number', 'game.phase',
                'ref', 'name.last', 'name.first']
-    return df[columns].pipe(to_csv,
-                            "data/boxscores/processed/%s/umpiring.csv" % source,
-                            index=False)
+    return df[columns].pipe(to_csv, outpath/"umpiring.csv", index=False)
 
 
-def compile_players(source, playing):
+def compile_players(source, playing, outpath):
     playing['B_G'] = 1
     for pos in ['p', 'c', '1b', '2b', '3b', 'ss', 'lf', 'cf', 'rf']:
         playing['F_%s_G' % pos.upper()] = playing['pos'].apply(lambda x: (1 if pos in x.split("-") else 0) if not pd.isnull(x) else 0)
@@ -542,11 +539,10 @@ def compile_players(source, playing):
              'F_1B_G', 'F_2B_G', 'F_3B_G', 'F_SS_G',
              'F_OF_G', 'F_LF_G', 'F_CF_G', 'F_RF_G',
              'F_C_G', 'F_P_G']] \
-           .to_csv("data/boxscores/processed/%s/players.csv" % source, index=False,
-                   float_format='%d')
+           .to_csv(outpath/"players.csv", index=False, float_format='%d')
 
 
-def compile_umpires(source, umpiring):
+def compile_umpires(source, umpiring, outpath):
     umpiring['U_G'] = 1
     umpiring['name.first'] = umpiring['name.first'].fillna("")
     grouper = umpiring.groupby(['league.year', 'league.name', 'game.phase',
@@ -564,52 +560,54 @@ def compile_umpires(source, umpiring):
            [['league.year', 'league.name', 'league.phase', 'person.ref',
              'person.name.last', 'person.name.given',
              'S_FIRST', 'S_LAST', 'U_G']] \
-           .to_csv("data/boxscores/processed/%s/umpires.csv" % source, index=False,
-                   float_format='%d')
+           .to_csv(outpath/"umpires.csv", index=False, float_format='%d')
 
     
-def process_files(source):
-    fnlist = [fn for fn in glob.glob("data/boxscores/transcript/%s/*.txt" % source)
-              if "README.txt" not in fn and "notes.txt" not in fn]
+def process_files(source, inpath, outpath):
+    fnlist = [fn for fn in inpath.glob("*.txt")
+              if fn.name != "README.txt" and fn.name != "notes.txt"]
+    if len(fnlist) == 0:
+        print(clr.Fore.RED + ("No files found at '%s'" % inpath) +
+              clr.Fore.RESET)
+        sys.exit(1)
     gamelist = [Game.fromtext(g, fn)
                 for fn in fnlist for g in iterate_games(fn)]
 
-    (pathlib.Path("data/boxscores/processed")/source).mkdir(exist_ok=True)
-
-    games = compile_games(source, gamelist)
-    playing = compile_playing(source, games, gamelist)
-    umpiring = compile_umpiring(source, games, gamelist)
-
-    compile_players(source, playing)
-    compile_umpires(source, umpiring)
+    games = compile_games(source, gamelist, outpath)
+    playing = compile_playing(source, games, gamelist, outpath)
+    umpiring = compile_umpiring(source, games, gamelist, outpath)
+    compile_players(source, playing, outpath)
+    compile_umpires(source, umpiring, outpath)
 
 
-def main():
-    parser = argparse.ArgumentParser(description='Parse boxscore files')
-    parser.add_argument('source', type=str,
-                        help='path to the source collection')
-    parser.add_argument('--warn-duplicates', '-D', default=False,
-                        action='store_true',
-                        help='only warn on duplicate name in game (default is terminate)')
-    parser.add_argument('--warn-marked', '-M', default=False,
-                        action='store_true',
-                        help='warn on marked dubious names (default is ignore)')
-
-    args = parser.parse_args()
+def main(source, warn_duplicates, warn_marked):
     warnings.simplefilter('error', DuplicatedNameWarning)
     warnings.simplefilter('ignore', MarkedIdentificationWarning)
     #warnings.simplefilter('error', IdentificationWarning)
-    if args.warn_duplicates:
+    if warn_duplicates:
         warnings.simplefilter('default', DuplicatedNameWarning)
-    if args.warn_marked:
+    if warn_marked:
         warnings.simplefilter('always', MarkedIdentificationWarning)
 
     try:
-        process_files(args.source)
+        year, paper = source.split("-")
+    except ValueError:
+        print(clr.Fore.RED + ("Invalid source name '%s'" % source) + clr.Fore.RESET)
+        sys.exit(1)
+        
+    config = configparser.ConfigParser()
+    config.read(pathlib.Path("~/.hgamerc").expanduser())
+    inpath = pathlib.Path(config.get("boxscores", "data_path",
+                                     fallback="data/boxscores")) \
+                    .expanduser()/"transcript"
+    outpath = pathlib.Path(config.get("boxscores", "data_path",
+                                      fallback="data/boxscores")) \
+                    .expanduser()/"processed"
+    outpath.mkdir(exist_ok=True, parents=True)
+        
+    try:
+        process_files(year + "/" + source, inpath/year/source, outpath/year/source)
     except DuplicatedNameWarning as exc:
         print(clr.Fore.RED + str(exc) + clr.Fore.RESET)
         sys.exit(1)
 
-
-if __name__ == '__main__':
-    main()
