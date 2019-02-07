@@ -380,8 +380,8 @@ P_R: ~Watkins #5; ~Mohart #2
 date: 1915-08-26
 number: 0
 league: Western North Carolina
-away: Statesville
-home: Gastonia
+away: Gastonia 
+home: Statesville
 source: Charlotte News, August 27, 1915
 A: 523
 
@@ -559,8 +559,8 @@ B_SH: Brouthers; Bitting; Parker; Jackson; Watson
 date: 1915-08-28
 number: 1
 league: Western North Carolina
-away: Statesville
-home: Gastonia
+away: Gastonia 
+home: Statesville
 source: Charlotte News, August 29, 1915
 A: 425
 
@@ -610,8 +610,8 @@ U: Fox
 date: 1915-08-28
 number: 2
 league: Western North Carolina
-away: Statesville
-home: Gastonia
+away: Gastonia 
+home: Statesville
 source: Charlotte News, August 29, 1915
 A: 578
 
