@@ -1,0 +1,137 @@
+league.year,league.name,league.phase,person.ref,person.name.last,person.name.given,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G
+1908,Eastern Kansas League,regular,P6714797,ALimquist,,McPherson,1908-07-02,1908-07-02,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Eastern Kansas League,regular,P5631289,Abbott,,Salina,1908-06-22,1908-07-04,11,0,5,0,0,0,6,0,1,5,0,0
+1908,Eastern Kansas League,regular,P9537028,Almquist,,McPherson,1908-07-03,1908-07-03,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Eastern Kansas League,regular,P7515768,Arton,,McPherson,1908-06-22,1908-06-22,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Eastern Kansas League,regular,P5559262,Bacon,,Little River,1908-06-23,1908-07-04,8,0,0,0,3,5,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P8793183,Baird,,Salina,1908-06-22,1908-07-04,5,5,0,0,0,0,0,0,0,0,0,5
+1908,Eastern Kansas League,regular,P1967180,Becker,,Newton,1908-06-22,1908-07-04,9,0,9,0,0,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P7869435,Berker,,Newton,1908-06-25,1908-06-25,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P6055628,Bond,,Ellsworth,1908-06-22,1908-07-04,6,0,0,0,6,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P2264810,Bothwell,,Ellsworth,1908-06-22,1908-06-26,3,0,0,0,0,0,3,1,2,0,0,0
+1908,Eastern Kansas League,regular,P9784480,Bowan,,Ellsworth,1908-06-26,1908-06-26,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Eastern Kansas League,regular,P4351734,Bowen,,Little River,1908-07-01,1908-07-04,4,0,0,0,0,0,1,1,0,0,3,0
+1908,Eastern Kansas League,regular,P2728535,Briton,,Ellsworth,1908-06-25,1908-06-25,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P8620288,Brumley,,Newton,1908-06-22,1908-06-29,6,0,0,2,0,0,1,1,0,0,4,0
+1908,Eastern Kansas League,regular,P1662959,Burgess,,McPherson,1908-06-22,1908-06-29,5,2,0,0,0,0,3,0,0,3,0,2
+1908,Eastern Kansas League,regular,P5882395,Burgess,,Newton,1908-07-02,1908-07-04,3,1,0,0,0,0,2,0,1,1,0,1
+1908,Eastern Kansas League,regular,P9961667,Burton,,Ellsworth,1908-06-24,1908-07-04,5,0,0,0,0,5,1,0,0,1,0,0
+1908,Eastern Kansas League,regular,P8651738,Carson,,McPherson,1908-06-26,1908-06-26,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Eastern Kansas League,regular,P9092216,Cassel,,Salina,1908-06-22,1908-07-04,9,0,0,0,9,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P3522020,Cassell,,Salina,1908-06-30,1908-07-03,4,0,0,0,4,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P1915642,Citizen,,Minneapolis,1908-07-01,1908-07-04,4,0,0,0,4,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P1280651,Clawson,,McPherson,1908-06-23,1908-07-04,5,4,0,0,0,0,1,0,0,1,0,4
+1908,Eastern Kansas League,regular,P3069938,Clinton,,Little River,1908-06-23,1908-06-27,5,0,3,0,0,0,2,2,0,0,0,0
+1908,Eastern Kansas League,regular,P4498827,Coil,,Minneapolis,1908-06-24,1908-06-24,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Eastern Kansas League,regular,P3655523,Cole,,Newton,1908-06-25,1908-07-04,5,1,0,0,0,0,5,0,1,4,0,1
+1908,Eastern Kansas League,regular,P8489163,Connell,,Newton,1908-06-22,1908-07-04,8,0,0,0,0,0,8,0,8,0,0,0
+1908,Eastern Kansas League,regular,P4688156,Darling,,Little River,1908-06-23,1908-07-04,6,0,0,0,1,0,4,1,0,3,0,0
+1908,Eastern Kansas League,regular,P6587122,Davis,,Little River,1908-06-23,1908-07-04,9,0,0,0,3,1,5,0,5,0,0,0
+1908,Eastern Kansas League,regular,P2707010,Dewey,,Minneapolis,1908-06-26,1908-06-26,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Eastern Kansas League,regular,P3842263,Dotson,,Newton,1908-06-30,1908-06-30,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Eastern Kansas League,regular,P7356124,Freeland,,Little River,1908-06-23,1908-07-04,7,1,0,0,0,0,5,0,1,4,2,1
+1908,Eastern Kansas League,regular,P1111094,Funston,,Ellsworth,1908-06-22,1908-06-29,5,0,0,1,0,4,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P4074921,Garrison,,Minneapolis,1908-07-02,1908-07-02,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Eastern Kansas League,regular,P8795704,Garrison,A.,Minneapolis,1908-06-23,1908-06-26,3,0,0,0,0,0,3,0,0,3,0,0
+1908,Eastern Kansas League,regular,P8321695,Garrison,H.,Minneapolis,1908-06-23,1908-07-04,6,0,0,0,0,0,6,0,6,0,0,0
+1908,Eastern Kansas League,regular,P1990609,Gill,,Ellsworth,1908-06-24,1908-06-24,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Eastern Kansas League,regular,P3661084,Goldthwaite,,Newton,1908-06-30,1908-06-30,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Eastern Kansas League,regular,P8741976,Golthwaite,,Newton,1908-07-01,1908-07-04,4,0,0,0,0,0,0,0,0,0,4,0
+1908,Eastern Kansas League,regular,P4712277,Hall,,McPherson,1908-07-02,1908-07-04,4,0,0,0,0,0,4,0,4,0,0,0
+1908,Eastern Kansas League,regular,P2019572,Hamlin,,Little River,1908-06-27,1908-07-04,5,0,0,5,0,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P3428235,Harkins,,Little River,1908-06-25,1908-07-04,7,0,0,2,2,3,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P3188334,Hashley,,Newton,1908-06-22,1908-06-26,4,3,0,0,0,0,1,0,0,1,0,3
+1908,Eastern Kansas League,regular,P6528429,Hassler,,Little River,1908-06-25,1908-07-04,6,4,0,0,0,0,2,0,2,0,0,4
+1908,Eastern Kansas League,regular,P5596060,Havenor,,Ellsworth,1908-06-23,1908-06-23,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Eastern Kansas League,regular,P5145698,Hayden,,Ellsworth,1908-07-04,1908-07-04,2,0,0,2,0,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P4995308,Haydon,,Ellsworth,1908-06-25,1908-06-25,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Eastern Kansas League,regular,P2228440,Headon,,Ellsworth,1908-06-22,1908-07-03,6,0,0,1,1,0,1,0,0,1,3,0
+1908,Eastern Kansas League,regular,P8958263,Heavener,,Ellsworth,1908-06-26,1908-06-26,1,1,0,0,0,0,1,0,0,1,0,1
+1908,Eastern Kansas League,regular,P2724966,Hennessey,,McPherson,1908-07-04,1908-07-04,2,0,0,0,0,0,2,1,0,1,0,0
+1908,Eastern Kansas League,regular,P7203186,Heshley,,Newton,1908-06-29,1908-07-04,4,2,1,2,0,0,0,0,0,0,0,2
+1908,Eastern Kansas League,regular,P2613138,Hill,,Ellsworth,1908-06-22,1908-06-22,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Eastern Kansas League,regular,P0757450,Hinch,,Newton,1908-06-25,1908-06-25,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Eastern Kansas League,regular,P7822323,Hinchcliffe,,Newton,1908-06-24,1908-06-24,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Eastern Kansas League,regular,P1725410,Hoggatt,,McPherson,1908-06-22,1908-07-04,8,0,0,0,0,0,0,0,0,0,8,0
+1908,Eastern Kansas League,regular,P8327463,Horrel,,Little River,1908-07-03,1908-07-03,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P7984563,Horrell,,Little River,1908-06-26,1908-07-01,3,0,3,0,0,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P9720887,Horrill,,Little River,1908-07-04,1908-07-04,2,0,2,0,0,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P8836832,Jennings,,Minneapolis,1908-06-23,1908-07-04,7,0,0,0,0,7,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P6057043,Johnson,,McPherson,1908-06-22,1908-07-04,8,2,0,0,0,0,5,4,0,1,0,2
+1908,Eastern Kansas League,regular,P8301491,Jones,,McPherson,1908-06-22,1908-07-03,7,0,0,2,5,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P0271587,Jones,B.,McPherson,1908-07-04,1908-07-04,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P4740982,Jones,Bill,McPherson,1908-07-04,1908-07-04,2,0,0,2,0,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P8646642,Krepps,,Salina,1908-06-22,1908-07-04,13,0,0,10,0,0,3,0,0,3,0,0
+1908,Eastern Kansas League,regular,P8772232,Lewis,,Minneapolis,1908-06-23,1908-07-04,7,0,0,7,0,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P5534066,Lock,,Ellsworth,1908-06-26,1908-06-26,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Eastern Kansas League,regular,P3590212,Long,,McPherson,1908-06-22,1908-06-29,5,0,4,0,0,0,0,0,0,0,1,0
+1908,Eastern Kansas League,regular,P8905114,Ludes,,Salina,1908-06-22,1908-07-04,5,1,0,0,0,0,4,0,0,4,0,1
+1908,Eastern Kansas League,regular,P9839225,Mack,,Salina,1908-06-22,1908-07-04,13,0,0,0,0,0,0,0,0,0,13,0
+1908,Eastern Kansas League,regular,P8954689,McCandless,,Minneapolis,1908-06-24,1908-06-24,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Eastern Kansas League,regular,P2064637,McCanless,,Minneapolis,1908-07-01,1908-07-01,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Eastern Kansas League,regular,P8200348,McCarroll,,Salina,1908-06-26,1908-07-02,4,0,0,3,0,0,1,0,0,1,0,0
+1908,Eastern Kansas League,regular,P4780447,McElroy,,Minneapolis,1908-06-23,1908-07-04,5,4,0,0,0,0,1,0,0,1,0,4
+1908,Eastern Kansas League,regular,P5655522,McGrew,,Salina,1908-06-23,1908-06-30,2,2,0,0,0,0,0,0,0,0,0,2
+1908,Eastern Kansas League,regular,P0340626,McGrew,B.,Salina,1908-06-26,1908-07-04,9,0,7,0,0,0,2,1,0,1,0,0
+1908,Eastern Kansas League,regular,P7904795,McGrew,K.,Salina,1908-06-26,1908-07-04,3,2,0,0,0,0,0,0,0,0,0,2
+1908,Eastern Kansas League,regular,P0884380,Meade,,Newton,1908-06-22,1908-06-29,6,0,0,2,1,0,1,0,1,0,2,0
+1908,Eastern Kansas League,regular,P7106974,Misse,,Salina,1908-06-22,1908-07-04,13,0,0,0,0,13,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P7201150,Murdock,,Ellsworth,1908-06-24,1908-06-24,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Eastern Kansas League,regular,P4206703,Mye,,Minneapolis,1908-06-26,1908-06-26,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Eastern Kansas League,regular,P2318891,Myers,,Little River,1908-06-24,1908-06-24,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Eastern Kansas League,regular,P1438733,Neel,,Ellsworth,1908-06-22,1908-06-23,2,0,0,0,0,0,2,1,0,1,0,0
+1908,Eastern Kansas League,regular,P4750160,Nye,,Minneapolis,1908-07-02,1908-07-04,3,0,0,0,0,0,0,0,0,0,3,0
+1908,Eastern Kansas League,regular,P5384935,O'Neil,,Ellsworth,1908-06-29,1908-07-03,2,1,1,0,0,0,0,0,0,0,0,1
+1908,Eastern Kansas League,regular,P0401992,Pankey,,Newton,1908-06-22,1908-07-04,11,2,0,2,3,0,7,2,1,4,0,2
+1908,Eastern Kansas League,regular,P0506043,Patterson,,Little River,1908-06-23,1908-06-25,3,0,0,0,0,0,3,2,0,1,0,0
+1908,Eastern Kansas League,regular,P5485039,Penquite,,Minneapolis,1908-07-01,1908-07-04,3,0,0,0,0,0,3,3,0,0,0,0
+1908,Eastern Kansas League,regular,P0996178,Penquith,,Minneapolis,1908-07-02,1908-07-02,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Eastern Kansas League,regular,P8580992,Phillips,,Little River,1908-06-23,1908-07-03,7,0,0,1,0,0,2,2,0,0,4,0
+1908,Eastern Kansas League,regular,P0866196,Pinquot,,Minneapolis,1908-06-26,1908-06-26,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Eastern Kansas League,regular,P3811303,Pitizen,,Minneapolis,1908-06-23,1908-06-26,3,0,0,0,3,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P6525616,Putnam,,Little River,1908-06-23,1908-06-26,4,1,0,1,0,0,2,0,2,1,0,1
+1908,Eastern Kansas League,regular,P5874153,Putnam,,McPherson,1908-06-29,1908-06-29,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P9592211,Raymore,,McPherson,1908-06-22,1908-06-22,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P3289168,Reamer,,McPherson,1908-06-23,1908-06-24,2,0,1,0,0,0,1,0,0,1,0,0
+1908,Eastern Kansas League,regular,P3386427,Reed,,Little River,1908-06-23,1908-06-24,2,1,0,0,0,0,0,0,0,0,1,1
+1908,Eastern Kansas League,regular,P4243156,Reed,,McPherson,1908-06-22,1908-07-04,7,0,0,0,1,6,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P7797681,Reed [LR],,Little River,1908-07-04,1908-07-04,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Eastern Kansas League,regular,P3835148,Reed [McP],,McPherson,1908-07-04,1908-07-04,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P5511851,Salter,,Newton,1908-07-01,1908-07-04,3,2,0,0,0,0,1,0,1,0,0,2
+1908,Eastern Kansas League,regular,P8975331,Samuels,,Ellsworth,1908-06-23,1908-06-26,4,0,4,0,0,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P8401651,Sarver,,Newton,1908-06-22,1908-07-04,11,0,0,0,0,11,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P0270855,Schmidt,,Little River,1908-06-25,1908-07-04,5,3,1,0,0,0,2,1,0,1,0,3
+1908,Eastern Kansas League,regular,P8500930,Somers,,Ellsworth,1908-07-04,1908-07-04,2,0,0,0,0,0,0,0,0,0,2,0
+1908,Eastern Kansas League,regular,P2981999,Sommers,,Ellsworth,1908-06-23,1908-06-29,3,0,0,0,0,0,1,0,0,1,2,0
+1908,Eastern Kansas League,regular,P3820040,Sowder,,McPherson,1908-07-04,1908-07-04,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Eastern Kansas League,regular,P1356424,Sparks,,McPherson,1908-07-03,1908-07-04,3,0,0,0,1,2,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P5553663,Spear,,Minneapolis,1908-07-02,1908-07-02,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Eastern Kansas League,regular,P0759762,Spears,,Minneapolis,1908-07-01,1908-07-04,2,0,0,0,0,0,1,0,0,1,1,0
+1908,Eastern Kansas League,regular,P8043779,Speer,,Minneapolis,1908-06-23,1908-06-24,2,0,1,0,0,0,0,0,0,0,1,0
+1908,Eastern Kansas League,regular,P2933590,Speers,,Minneapolis,1908-07-04,1908-07-04,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Eastern Kansas League,regular,P9835849,Stanley,,Ellsworth,1908-06-22,1908-06-29,5,2,0,0,0,0,3,1,0,2,0,2
+1908,Eastern Kansas League,regular,P6275901,Stanley,F.,Ellsworth,1908-07-03,1908-07-04,2,0,1,0,1,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P3544071,Stanley,P.,Ellsworth,1908-07-03,1908-07-04,3,0,0,0,0,0,3,3,0,0,0,0
+1908,Eastern Kansas League,regular,P0230224,Stofer,,Salina,1908-06-24,1908-07-01,3,3,0,0,0,0,0,0,0,0,0,3
+1908,Eastern Kansas League,regular,P1581065,Strong,A.,Salina,1908-06-22,1908-07-04,12,0,0,0,0,0,12,0,12,0,0,0
+1908,Eastern Kansas League,regular,P1908752,Strong,H.,Salina,1908-06-22,1908-07-04,13,0,0,0,0,0,13,13,0,0,0,0
+1908,Eastern Kansas League,regular,P0586485,Summers,,Ellsworth,1908-07-03,1908-07-03,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Eastern Kansas League,regular,P3141252,Taylor,,Ellsworth,1908-06-25,1908-07-04,4,3,0,0,0,0,2,0,1,1,0,3
+1908,Eastern Kansas League,regular,P3270095,Taylor,,McPherson,1908-06-26,1908-07-04,5,0,4,0,0,0,2,0,1,1,1,0
+1908,Eastern Kansas League,regular,P5455289,Taylor [Ell],,Ellsworth,1908-06-22,1908-06-29,4,2,0,0,0,0,3,2,0,1,0,2
+1908,Eastern Kansas League,regular,P0452039,Taylor [McP],,McPherson,1908-06-22,1908-06-29,4,0,0,0,0,0,4,0,4,0,0,0
+1908,Eastern Kansas League,regular,P7497537,Thompson,,Ellsworth,1908-06-22,1908-07-04,8,0,0,4,1,0,3,0,0,3,0,0
+1908,Eastern Kansas League,regular,P6790454,Thompson [Ell],,Ellsworth,1908-06-29,1908-06-29,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P1787204,Thompson [McP],,McPherson,1908-06-29,1908-06-29,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Eastern Kansas League,regular,P5513761,Triplett,,Ellsworth,1908-06-29,1908-07-04,3,2,0,0,0,0,1,0,1,0,0,2
+1908,Eastern Kansas League,regular,P5246366,Voil,,Minneapolis,1908-06-23,1908-06-23,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Eastern Kansas League,regular,P9305924,Wagner,,Newton,1908-07-02,1908-07-04,3,0,0,3,0,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P8806465,Watkins,,Newton,1908-06-22,1908-07-04,9,0,0,0,9,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P8449573,Watson,,Ellsworth,1908-06-29,1908-07-04,4,0,2,0,0,0,2,0,2,0,0,0
+1908,Eastern Kansas League,regular,P1089141,White,,McPherson,1908-06-22,1908-07-02,6,0,0,4,1,1,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P4785666,Wilder,,Little River,1908-07-04,1908-07-04,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Eastern Kansas League,regular,P2645557,Wing,,Newton,1908-06-22,1908-07-02,8,0,0,0,0,0,8,8,0,0,0,0
+1908,Eastern Kansas League,regular,P2422188,Winger,,Newton,1908-06-23,1908-06-26,4,3,0,1,0,0,2,0,0,2,0,3
+1908,Eastern Kansas League,regular,P2113698,Wood,,Ellsworth,1908-06-22,1908-06-24,3,0,1,0,0,0,2,1,1,0,0,0
+1908,Eastern Kansas League,regular,P8165620,Woung,,Minneapolis,1908-06-23,1908-06-23,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Eastern Kansas League,regular,P1814966,Young,,Minneapolis,1908-06-24,1908-07-04,6,0,6,0,0,0,0,0,0,0,0,0

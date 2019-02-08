@@ -1,0 +1,4 @@
+key,date,number,league,phase,site,away,away.score,away.manager,home,home.score,home.manager,A,T,forfeit.to,status,status.reason,outsatend,filename,source,away.score.1,away.score.2,away.score.3,away.score.4,away.score.5,away.score.6,away.score.7,away.score.8,away.score.9,home.score.1,home.score.2,home.score.3,home.score.4,home.score.5,home.score.6,home.score.7,home.score.8,home.score.9
+VSKWGYL,1908-06-25,0,Eastern Kansas,regular,,Minneapolis,3,,McPherson,0,,,,,,,,1908/1908-MDR/MDR-19080622.txt,"The McPherson Daily Republican Jun 26, 1908",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+FMSVLZY,1908-06-30,0,Eastern Kansas,regular,,Ellsworth,4,,McPherson,6,,,1:35,,,,,1908/1908-MDR/MDR-19080629.txt,"The McPherson Daily Republican Jul 1, 1908",2,0,0,0,0,0,2,0,0,2,0,1,0,0,1,0,2,x
+GJGLTXG,1908-07-01,0,Eastern Kansas,regular,,Ellsworth,2,,McPherson,4,,,,,,,,1908/1908-MDR/MDR-19080629.txt,"The McPherson Daily Republican Jul 2, 1908",1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,x
