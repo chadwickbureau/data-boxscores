@@ -3,7 +3,7 @@
 for source in transcript/*/*
 do
     echo ${source}
-    python src/convert.py ${source#transcript/}
+    boxscore parse ${source#transcript/}
     if [ $? -ne 0 ]
     then
 	break

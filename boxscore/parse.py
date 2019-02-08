@@ -593,12 +593,12 @@ def main(source, warn_duplicates, warn_marked):
         print(clr.Fore.RED + ("Invalid source name '%s'" % source) + clr.Fore.RESET)
         sys.exit(1)
         
-    inpath = config.data_path/"transcript"
-    outpath = config.data_path/"processed"
+    inpath = config.data_path/"transcript"/year/source
+    outpath = config.data_path/"processed"/year/source
     outpath.mkdir(exist_ok=True, parents=True)
         
     try:
-        process_files(year + "/" + source, inpath/year/source, outpath/year/source)
+        process_files(year + "/" + source, inpath, outpath)
     except DuplicatedNameWarning as exc:
         print(clr.Fore.RED + str(exc) + clr.Fore.RESET)
         sys.exit(1)
