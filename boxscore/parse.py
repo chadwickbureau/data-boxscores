@@ -7,13 +7,11 @@ try:
     import pathlib
 except ImportError:
     import pathlib2 as pathlib
-try:
-    import configparser
-except ImportError:
-    import ConfigParser as configparser
     
 import colorama as clr
 import pandas as pd
+
+from . import config
 
 def person_hash(source, row):
     """Generate hash-based identifier for a person based on the source
@@ -595,14 +593,8 @@ def main(source, warn_duplicates, warn_marked):
         print(clr.Fore.RED + ("Invalid source name '%s'" % source) + clr.Fore.RESET)
         sys.exit(1)
         
-    config = configparser.ConfigParser()
-    config.read(pathlib.Path("~/.hgamerc").expanduser())
-    inpath = pathlib.Path(config.get("boxscores", "data_path",
-                                     fallback="data/boxscores")) \
-                    .expanduser()/"transcript"
-    outpath = pathlib.Path(config.get("boxscores", "data_path",
-                                      fallback="data/boxscores")) \
-                    .expanduser()/"processed"
+    inpath = config.data_path/"transcript"
+    outpath = config.data_path/"processed"
     outpath.mkdir(exist_ok=True, parents=True)
         
     try:
