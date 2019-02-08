@@ -48,5 +48,6 @@ def do_add(source):
     subprocess.call("cd %s && git add processed/%s/%s/*.csv" %
                     (config.data_path, year, source),
                     shell=True)
+    subprocess.call("cd %s && git status" % config.data_path, shell=True)
 
     

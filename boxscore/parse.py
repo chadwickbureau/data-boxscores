@@ -439,8 +439,10 @@ def iterate_games(fn):
 
 def compile_playing(source, games, gamelist, outpath):
     df = pd.concat([pd.DataFrame(list(g.playing.values())) for g in gamelist],
-                   sort=False, ignore_index=True) \
-           .merge(games[['key', 'league']], left_on='game.key', right_on='key') \
+                   sort=False, ignore_index=True)
+    if len(df) == 0:
+        return pd.DataFrame(columns=['game.key'])
+    df = df.merge(games[['key', 'league']], left_on='game.key', right_on='key') \
            .drop(columns=['name.full', 'substitute'])
     df['league.name'] = df['league'].apply(lambda x: x + " League" if "League" not in x and "Association" not in x else x)
     df = df.assign(**{'league.year': df['game.date'].str.split("-").str[0]}) \
@@ -496,6 +498,8 @@ def compile_games(source, gamelist, outpath):
 def compile_umpiring(source, games, gamelist, outpath):
     df = pd.concat([pd.DataFrame(g.umpiring) for g in gamelist],
                    sort=False, ignore_index=True)
+    if len(df) == 0:
+        return pd.DataFrame(columns=['game.key'])
     df = pd.merge(df, games[['key', 'league']],
                   left_on='game.key', right_on='key')
     df['league.name'] = df['league'].apply(lambda x: x + " League" if "League" not in x and "Association" not in x else x)
@@ -510,6 +514,8 @@ def compile_umpiring(source, games, gamelist, outpath):
 
 
 def compile_players(source, playing, outpath):
+    if len(playing) == 0:
+        return
     playing['B_G'] = 1
     for pos in ['p', 'c', '1b', '2b', '3b', 'ss', 'lf', 'cf', 'rf']:
         playing['F_%s_G' % pos.upper()] = playing['pos'].apply(lambda x: (1 if pos in x.split("-") else 0) if not pd.isnull(x) else 0)
@@ -541,6 +547,8 @@ def compile_players(source, playing, outpath):
 
 
 def compile_umpires(source, umpiring, outpath):
+    if len(umpiring) == 0:
+        return
     umpiring['U_G'] = 1
     umpiring['name.first'] = umpiring['name.first'].fillna("")
     grouper = umpiring.groupby(['league.year', 'league.name', 'game.phase',
