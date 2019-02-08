@@ -1,36 +1,36 @@
 league.year,league.name,league.phase,person.ref,person.name.last,person.name.given,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G
-1908,Eastern Kansas League,regular,P4418659,Bond,,Ellsworth,1908-06-30,1908-07-01,2,0,0,0,2,0,0,0,0,0,0,0
-1908,Eastern Kansas League,regular,P6351361,Bothwell,,Ellsworth,1908-06-30,1908-06-30,1,0,0,0,0,0,1,1,0,0,0,0
-1908,Eastern Kansas League,regular,P3908006,Burgess,,McPherson,1908-06-25,1908-06-30,2,0,0,0,0,0,2,0,0,2,0,0
-1908,Eastern Kansas League,regular,P7302426,Burton,,Ellsworth,1908-06-30,1908-07-01,2,0,0,0,0,2,0,0,0,0,0,0
-1908,Eastern Kansas League,regular,P3525698,Clawson,,McPherson,1908-06-25,1908-07-01,3,1,2,0,0,0,1,0,0,1,0,1
-1908,Eastern Kansas League,regular,P5444175,Garrison,A.,Minneapolis,1908-06-25,1908-06-25,1,0,0,0,0,0,1,0,0,1,0,0
-1908,Eastern Kansas League,regular,P4970166,Garrison,H.,Minneapolis,1908-06-25,1908-06-25,1,0,0,0,0,0,1,0,1,0,0,0
-1908,Eastern Kansas League,regular,P3075308,Hall,,McPherson,1908-06-30,1908-07-01,2,0,0,0,0,0,2,0,2,0,0,0
-1908,Eastern Kansas League,regular,P2486457,Hayden,,Ellsworth,1908-06-30,1908-07-01,2,0,0,0,0,0,1,0,1,0,1,0
-1908,Eastern Kansas League,regular,P3970457,Hoggatt,,McPherson,1908-07-01,1908-07-01,1,0,0,0,0,0,0,0,0,0,1,0
-1908,Eastern Kansas League,regular,P9090871,Jennings,,Minneapolis,1908-06-25,1908-06-25,1,0,0,0,0,1,0,0,0,0,0,0
-1908,Eastern Kansas League,regular,P8302090,Johnson,,McPherson,1908-06-25,1908-07-01,3,1,0,0,0,0,2,2,0,0,0,1
-1908,Eastern Kansas League,regular,P4281514,Jones,,McPherson,1908-06-25,1908-07-01,3,0,0,2,1,0,0,0,0,0,0,0
-1908,Eastern Kansas League,regular,P1017279,Lewis,,Minneapolis,1908-06-25,1908-06-25,1,0,0,1,0,0,0,0,0,0,0,0
-1908,Eastern Kansas League,regular,P1953243,Long,,McPherson,1908-06-25,1908-06-30,2,0,0,0,0,0,0,0,0,0,2,0
-1908,Eastern Kansas League,regular,P9636630,McElroy,,Minneapolis,1908-06-25,1908-06-25,1,1,0,0,0,0,0,0,0,0,0,1
-1908,Eastern Kansas League,regular,P0730183,Nye,,Minneapolis,1908-06-25,1908-06-25,1,0,0,0,0,0,0,0,0,0,1,0
-1908,Eastern Kansas League,regular,P2725694,O'Neil,,Ellsworth,1908-06-30,1908-06-30,1,0,1,0,0,0,0,0,0,0,0,0
-1908,Eastern Kansas League,regular,P9193587,O'Neil [Ell],,Ellsworth,1908-07-01,1908-07-01,1,0,1,0,0,0,0,0,0,0,0,0
-1908,Eastern Kansas League,regular,P4190337,O'Neil [McP],,McPherson,1908-07-01,1908-07-01,1,1,0,0,0,0,1,0,0,1,0,1
-1908,Eastern Kansas League,regular,P5996051,Penwright,,Minneapolis,1908-06-25,1908-06-25,1,0,0,0,0,0,1,1,0,0,0,0
-1908,Eastern Kansas League,regular,P3214912,Putnam,,McPherson,1908-06-30,1908-06-30,1,0,0,0,1,0,0,0,0,0,0,0
-1908,Eastern Kansas League,regular,P0629927,Reamer,,McPherson,1908-06-25,1908-06-25,1,0,1,0,0,0,0,0,0,0,0,0
-1908,Eastern Kansas League,regular,P2606187,Reed,,McPherson,1908-06-25,1908-06-25,1,0,0,0,0,1,0,0,0,0,0,0
-1908,Eastern Kansas League,regular,P2663466,Rimer,,McPherson,1908-07-01,1908-07-01,1,0,0,0,1,0,0,0,0,0,0,0
-1908,Eastern Kansas League,regular,P2080896,Stanley,,Ellsworth,1908-06-30,1908-06-30,1,0,0,0,0,0,1,0,0,1,0,0
-1908,Eastern Kansas League,regular,P8400254,Stanley,P.,Ellsworth,1908-07-01,1908-07-01,1,0,0,0,0,0,1,1,0,0,0,0
-1908,Eastern Kansas League,regular,P4487973,Stanley,W.,Ellsworth,1908-07-01,1908-07-01,1,1,0,0,0,0,0,0,0,0,0,1
-1908,Eastern Kansas League,regular,P0610854,Taylor,,McPherson,1908-06-25,1908-06-25,1,0,0,0,0,0,1,0,1,0,0,0
-1908,Eastern Kansas League,regular,P2103760,Taylor [Ell],,Ellsworth,1908-06-30,1908-07-01,2,1,0,1,0,0,0,0,0,0,0,1
-1908,Eastern Kansas League,regular,P7100510,Taylor [McP],,McPherson,1908-06-30,1908-07-01,2,1,1,0,0,0,1,1,0,0,0,1
-1908,Eastern Kansas League,regular,P1584088,Thompson,,Ellsworth,1908-06-30,1908-07-01,2,0,0,1,0,0,1,0,0,1,0,0
-1908,Eastern Kansas League,regular,P5790332,Watson,,Ellsworth,1908-06-30,1908-07-01,2,0,0,0,0,0,1,0,1,0,1,0
-1908,Eastern Kansas League,regular,P7069164,White,,McPherson,1908-06-25,1908-07-01,3,0,0,1,0,2,0,0,0,0,0,0
-1908,Eastern Kansas League,regular,P4060013,Young,,Minneapolis,1908-06-25,1908-06-25,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P5638586,Bond,,Ellsworth,1908-06-30,1908-07-01,2,0,0,0,2,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P3399128,Bothwell,,Ellsworth,1908-06-30,1908-06-30,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Central Kansas League,regular,P4424605,Burgess,,McPherson,1908-06-25,1908-06-30,2,0,0,0,0,0,2,0,0,2,0,0
+1908,Central Kansas League,regular,P5802929,Burton,,Ellsworth,1908-06-30,1908-07-01,2,0,0,0,0,2,0,0,0,0,0,0
+1908,Central Kansas League,regular,P4042297,Clawson,,McPherson,1908-06-25,1908-07-01,3,1,2,0,0,0,1,0,0,1,0,1
+1908,Central Kansas League,regular,P0332582,Garrison,A.,Minneapolis,1908-06-25,1908-06-25,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Central Kansas League,regular,P9858573,Garrison,H.,Minneapolis,1908-06-25,1908-06-25,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Central Kansas League,regular,P4295235,Hall,,McPherson,1908-06-30,1908-07-01,2,0,0,0,0,0,2,0,2,0,0,0
+1908,Central Kansas League,regular,P0986960,Hayden,,Ellsworth,1908-06-30,1908-07-01,2,0,0,0,0,0,1,0,1,0,1,0
+1908,Central Kansas League,regular,P4487056,Hoggatt,,McPherson,1908-07-01,1908-07-01,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Central Kansas League,regular,P4109134,Jennings,,Minneapolis,1908-06-25,1908-06-25,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Central Kansas League,regular,P8818689,Johnson,,McPherson,1908-06-25,1908-07-01,3,1,0,0,0,0,2,2,0,0,0,1
+1908,Central Kansas League,regular,P4539105,Jones,,McPherson,1908-06-25,1908-07-01,3,0,0,2,1,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P1533878,Lewis,,Minneapolis,1908-06-25,1908-06-25,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P3173170,Long,,McPherson,1908-06-25,1908-06-30,2,0,0,0,0,0,0,0,0,0,2,0
+1908,Central Kansas League,regular,P2212941,McElroy,,Minneapolis,1908-06-25,1908-06-25,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Central Kansas League,regular,P0987774,Nye,,Minneapolis,1908-06-25,1908-06-25,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Central Kansas League,regular,P1226197,O'Neil,,Ellsworth,1908-06-30,1908-06-30,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P4081994,O'Neil [Ell],,Ellsworth,1908-07-01,1908-07-01,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P9078744,O'Neil [McP],,McPherson,1908-07-01,1908-07-01,1,1,0,0,0,0,1,0,0,1,0,1
+1908,Central Kansas League,regular,P1598730,Penwright,,Minneapolis,1908-06-25,1908-06-25,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Central Kansas League,regular,P1715415,Putnam,,McPherson,1908-06-30,1908-06-30,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P9130430,Reamer,,McPherson,1908-06-25,1908-06-25,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P3826114,Reed,,McPherson,1908-06-25,1908-06-25,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Central Kansas League,regular,P2921057,Rimer,,McPherson,1908-07-01,1908-07-01,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P2597495,Stanley,,Ellsworth,1908-06-30,1908-06-30,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Central Kansas League,regular,P0976565,Stanley,P.,Ellsworth,1908-07-01,1908-07-01,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Central Kansas League,regular,P7064284,Stanley,W.,Ellsworth,1908-07-01,1908-07-01,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Central Kansas League,regular,P9111357,Taylor,,McPherson,1908-06-25,1908-06-25,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Central Kansas League,regular,P6992167,Taylor [Ell],,Ellsworth,1908-06-30,1908-07-01,2,1,0,1,0,0,0,0,0,0,0,1
+1908,Central Kansas League,regular,P1988917,Taylor [McP],,McPherson,1908-06-30,1908-07-01,2,1,1,0,0,0,1,1,0,0,0,1
+1908,Central Kansas League,regular,P8631855,Thompson,,Ellsworth,1908-06-30,1908-07-01,2,0,0,1,0,0,1,0,0,1,0,0
+1908,Central Kansas League,regular,P4290835,Watson,,Ellsworth,1908-06-30,1908-07-01,2,0,0,0,0,0,1,0,1,0,1,0
+1908,Central Kansas League,regular,P7326755,White,,McPherson,1908-06-25,1908-07-01,3,0,0,1,0,2,0,0,0,0,0,0
+1908,Central Kansas League,regular,P4576612,Young,,Minneapolis,1908-06-25,1908-06-25,1,0,1,0,0,0,0,0,0,0,0,0

@@ -1,19 +1,19 @@
 league.year,league.name,league.phase,person.ref,person.name.last,person.name.given,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G
-1908,Eastern Kansas League,regular,P0762764,Bacon,,Little River,1908-06-22,1908-06-22,1,0,0,0,0,1,0,0,0,0,0,0
-1908,Eastern Kansas League,regular,P3631208,Citizen,,Minneapolis,1908-06-22,1908-06-22,1,0,0,0,1,0,0,0,0,0,0,0
-1908,Eastern Kansas League,regular,P9683616,Clinton,,Little River,1908-06-22,1908-06-22,1,0,1,0,0,0,0,0,0,0,0,0
-1908,Eastern Kansas League,regular,P0776706,Corl,,Minneapolis,1908-06-22,1908-06-22,1,0,0,0,0,0,1,1,0,0,0,0
-1908,Eastern Kansas League,regular,P1301834,Darling,,Little River,1908-06-22,1908-06-22,1,0,0,0,0,0,1,1,0,0,0,0
-1908,Eastern Kansas League,regular,P1790624,Davis,,Little River,1908-06-22,1908-06-22,1,0,0,0,1,0,0,0,0,0,0,0
-1908,Eastern Kansas League,regular,P5607498,Freeland,,Little River,1908-06-22,1908-06-22,1,0,0,0,0,0,1,0,1,0,0,0
-1908,Eastern Kansas League,regular,P1091046,Garrison,A.,Minneapolis,1908-06-22,1908-06-22,1,0,0,0,0,0,1,0,0,1,0,0
-1908,Eastern Kansas League,regular,P0617037,Garrison,H.,Minneapolis,1908-06-22,1908-06-22,1,0,0,0,0,0,1,0,1,0,0,0
-1908,Eastern Kansas League,regular,P3142107,Hassler,,Little River,1908-06-22,1908-06-22,1,1,0,0,0,0,0,0,0,0,0,1
-1908,Eastern Kansas League,regular,P5450510,Jennings,,Minneapolis,1908-06-22,1908-06-22,1,0,0,0,0,1,0,0,0,0,0,0
-1908,Eastern Kansas League,regular,P1051126,Lewis,,Minneapolis,1908-06-22,1908-06-22,1,0,0,1,0,0,0,0,0,0,0,0
-1908,Eastern Kansas League,regular,P0316011,McCanless,,Minneapolis,1908-06-22,1908-06-22,1,1,0,0,0,0,0,0,0,0,0,1
-1908,Eastern Kansas League,regular,P2801385,Patterson,,Little River,1908-06-22,1908-06-22,1,0,0,0,0,0,1,0,0,1,0,0
-1908,Eastern Kansas League,regular,P5833248,Phillips,D.,Little River,1908-06-22,1908-06-22,1,0,0,1,0,0,0,0,0,0,0,0
-1908,Eastern Kansas League,regular,P0929630,Putman,,Little River,1908-06-22,1908-06-22,1,0,0,0,0,0,0,0,0,0,1,0
-1908,Eastern Kansas League,regular,P7832557,Spear,,Minneapolis,1908-06-22,1908-06-22,1,0,0,0,0,0,0,0,0,0,1,0
-1908,Eastern Kansas League,regular,P4093860,Young,,Minneapolis,1908-06-22,1908-06-22,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P7810531,Bacon,,Little River,1908-06-22,1908-06-22,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Central Kansas League,regular,P6207519,Citizen,,Minneapolis,1908-06-22,1908-06-22,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P4701879,Clinton,,Little River,1908-06-22,1908-06-22,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P9277209,Corl,,Minneapolis,1908-06-22,1908-06-22,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Central Kansas League,regular,P6320097,Darling,,Little River,1908-06-22,1908-06-22,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Central Kansas League,regular,P8838391,Davis,,Little River,1908-06-22,1908-06-22,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P1210177,Freeland,,Little River,1908-06-22,1908-06-22,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Central Kansas League,regular,P5979453,Garrison,A.,Minneapolis,1908-06-22,1908-06-22,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Central Kansas League,regular,P5505444,Garrison,H.,Minneapolis,1908-06-22,1908-06-22,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Central Kansas League,regular,P8160370,Hassler,,Little River,1908-06-22,1908-06-22,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Central Kansas League,regular,P0468773,Jennings,,Minneapolis,1908-06-22,1908-06-22,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Central Kansas League,regular,P1567725,Lewis,,Minneapolis,1908-06-22,1908-06-22,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P5918690,McCanless,,Minneapolis,1908-06-22,1908-06-22,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Central Kansas League,regular,P7689792,Patterson,,Little River,1908-06-22,1908-06-22,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Central Kansas League,regular,P7150679,Phillips,D.,Little River,1908-06-22,1908-06-22,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P3505941,Putman,,Little River,1908-06-22,1908-06-22,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Central Kansas League,regular,P8349156,Spear,,Minneapolis,1908-06-22,1908-06-22,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Central Kansas League,regular,P4610459,Young,,Minneapolis,1908-06-22,1908-06-22,1,0,1,0,0,0,0,0,0,0,0,0
