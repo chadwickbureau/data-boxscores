@@ -9,9 +9,9 @@ except ImportError:
 
 
 config = configparser.ConfigParser()
-config.read(pathlib.Path("~/.hgamerc").expanduser())
+config.read([str(pathlib.Path("~/.hgamerc").expanduser())])
 data_path = pathlib.Path(config.get("boxscores", "data_path",
-                                    fallback="data/boxscores")).expanduser()
+                                    vars={"data_path": "data/boxscores"})).expanduser()
 edit_command = config.get("boxscores", "edit_command")
 
 

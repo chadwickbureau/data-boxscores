@@ -435,7 +435,7 @@ def iterate_games(fn):
     """
     return iter(filter(lambda x: x.strip() != "",
                        ("\n".join(filter(lambda x: x != "",
-                                         [' '.join(x.strip().split()) for x in open(fn).readlines()]))).split("---\n")))
+                                         [' '.join(x.strip().split()) for x in fn.open().readlines()]))).split("---\n")))
 
 def compile_playing(source, games, gamelist, outpath):
     df = pd.concat([pd.DataFrame(list(g.playing.values())) for g in gamelist],
