@@ -1,0 +1,141 @@
+date: 1908-08-14
+number: 0
+league: Central Kansas
+away: McPherson
+home: Newton
+source: The Evening Kansan-Republican Aug 15, 1908
+
+McPherson:		ab r h po a e
+Hennessey @ lf:	3 0 0 0 0 0
+Jewell @ ss:	4 0 1 1 2 0
+Taylor @ cf:	4 0 0 2 1 0
+Mize @ rf:		4 0 1 2 0 0
+Cloherty @ c:	4 0 0 9 2 0
+Reed @ 3b:		4 0 0 2 2 0
+Sarver @ 3b:	3 0 0 1 0 0
+Sparks @ 1b:	3 0 1 7 1 0
+Clawson @ p:	3 0 0 0 2 0
+TOTALS:			32 0 3 24 10 0
+
+Newton:			ab r h po a e
+Wing @ lf:		2 1 0 2 0 0
+Pokorney @ ss:	4 0 1 1 3 1
+Pankey @ p: 	3 0 1 0 4 0
+Golthwaite @ c:	2 1 1 5 0 0
+Connell @ cf:	3 0 0 4 1 0
+Morgan @ 2b:	3 0 1 3 1 1
+Watkins @ 3b:	3 0 0 1 3 1
+Heshley @ 1b:	3 0 0 11 0 0
+Burgess @ rf:	3 0 1 0 0 0
+TOTALS:			26 2 5 27 12 3
+
+line: McPherson: 0 0 0 0 0 0 0 0 0 - 0
+line: Newton: 1 0 0 0 0 0 1 0 x - 2
+
+B_LOB: McPherson #6; Newton #3
+B_ROE: 
+B_ER: 
+B_2B: Mize
+B_3B: 
+B_HR: 
+B_SB: Wing; Pokorney; Golthwaite #3; Burgess; Mize; Cloherty
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Pankey #1; Clawson #3
+P_SO: 
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: Pankey; Clawson
+P_BK: 
+F_DP: Connell, Heshley
+F_PB: Cloherty #2
+outsatend: 
+T: 1:15
+U: Johnston
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1908-08-14
+number: 0
+league: Central Kansas
+away: Salina
+home: Little River
+source: The Evening Kansan-Republican Aug 15, 1908
+status: postponed
+status-reason: Salina failed to arrive on time
+
+---
+
+date: 1908-08-15
+number: 0
+league: Central Kansas
+away: McPherson
+home: Newton
+source: The Evening JKansan-Republican Aug 17, 1908
+
+McPherson:		ab r h po a e
+Hennessey @ lf:	4 0 0 1 0 0
+Jewell @ ss:	4 0 1 0 3 0
+Taylor @ 1b:	4 0 0 12 0 0
+Wright @ cf:	4 0 0 3 0 0
+Cloherty @ c:	4 0 1 13 0 0
+Reed @ 2b:		4 0 0 1 1 0
+Sarver @ 3b:	4 0 0 1 2 1
+Willis @ rf:	4 0 0 0 0 1
+Clawson @ p:	4 0 1 0 4 0
+TOTALS:			36 0 3 31 10 2
+
+Newton:			ab r h po a e
+Lancaster @ lf:	5 0 0 1 0 0
+Pokorney @ ss:	5 1 2 1 7 0
+Pankey @ 3b:	4 0 0 2 2 1
+Golthwaite @ c:	4 0 1 10 1 0
+Connell @ cf:	4 0 2 2 0 0
+Morgan @ p:		4 0 0 0 3 0
+Wing @ lf:		0 0 0 0 0 0
+Wagner @ 2b:	4 0 1 2 1 0
+Heshley @ 1b:	4 0 1 13 0 0
+Burgess @ rf:	4 0 0 2 0 0
+TOTALS:			38 1 7 33 13 1
+
+line: McPherson: 0 0 0 0 0 0 0 0 0 0 0 - 0
+line: Newton: 0 0 0 0 0 0 0 0 0 0 1 - 1
+
+B_LOB: McPherson #3; Newton #8
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: Pokorney; Pankey; Golthwaite #2; Connell #2; Wagner #2; Heshley #2
+B_SH: Pankey; Golthwaite
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: 
+P_SO: Morgan #8; Lancaster #1; Clawson #9
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 1
+T: 1:40
+U: Johnston
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 

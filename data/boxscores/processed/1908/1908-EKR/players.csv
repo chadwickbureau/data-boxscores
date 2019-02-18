@@ -1,21 +1,79 @@
 league.year,league.name,league.phase,person.ref,person.name.last,person.name.given,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G
-1908,Central Kansas League,regular,P7030297,Becker,,Newton,1908-07-03,1908-07-03,1,0,1,0,0,0,0,0,0,0,0,0
-1908,Central Kansas League,regular,P2965256,Burgess,,Newton,1908-07-03,1908-07-03,1,0,0,0,0,0,1,1,0,0,0,0
-1908,Central Kansas League,regular,P0715015,Citizen,,Minneapolis,1908-07-03,1908-07-03,1,0,0,0,1,0,0,0,0,0,0,0
-1908,Central Kansas League,regular,P5572024,Connell,,Newton,1908-07-03,1908-07-03,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Central Kansas League,regular,P7030297,Becker,,Newton,1908-07-03,1908-08-05,11,0,11,0,0,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P1361607,Benedix,,Little River,1908-07-27,1908-07-27,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P2433323,Bidwell,,Little River,1908-07-13,1908-07-15,2,0,2,0,0,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P3138489,Bond,,Ellsworth,1908-07-23,1908-07-25,3,0,0,0,3,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P7951715,Bowen,,Little River,1908-07-15,1908-07-15,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Central Kansas League,regular,P2965256,Burgess,,Newton,1908-07-03,1908-08-15,7,3,0,0,0,0,4,1,0,3,0,3
+1908,Central Kansas League,regular,P3197296,Burton,,Ellsworth,1908-07-23,1908-07-25,3,0,0,0,0,3,0,0,0,0,0,0
+1908,Central Kansas League,regular,P0715015,Citizen,,Minneapolis,1908-07-03,1908-08-05,4,0,0,0,4,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P8056408,Clawson,,McPherson,1908-07-07,1908-08-15,3,3,0,0,0,0,0,0,0,0,0,3
+1908,Central Kansas League,regular,P0448544,Clifton,,Minneapolis,1908-08-03,1908-08-04,2,0,0,0,0,0,0,0,0,0,2,0
+1908,Central Kansas League,regular,P4234272,Clifton,R.,Minneapolis,1908-08-05,1908-08-05,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Central Kansas League,regular,P2734475,Cloherty,,McPherson,1908-08-14,1908-08-15,2,0,0,0,0,0,0,0,0,0,2,0
+1908,Central Kansas League,regular,P5572024,Connell,,Newton,1908-07-03,1908-08-15,13,0,0,0,0,0,13,1,12,0,0,0
+1908,Central Kansas League,regular,P1925172,Cook,,Little River,1908-07-27,1908-07-27,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P6745411,Corderman,,Little River,1908-07-15,1908-07-15,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Central Kansas League,regular,P0187103,Davis,,Little River,1908-07-13,1908-07-27,3,0,0,0,0,0,3,0,3,0,0,0
 1908,Central Kansas League,regular,P9482767,Dewey,,Minneapolis,1908-07-03,1908-07-03,1,1,0,0,0,0,0,0,0,0,0,1
-1908,Central Kansas League,regular,P4454230,Garrison,,Minneapolis,1908-07-03,1908-07-03,1,0,0,0,0,0,1,0,1,0,0,0
-1908,Central Kansas League,regular,P5517733,Golthwaite,,Newton,1908-07-03,1908-07-03,1,0,0,0,0,0,0,0,0,0,1,0
-1908,Central Kansas League,regular,P4286047,Heshley,,Newton,1908-07-03,1908-07-03,1,1,0,0,0,0,0,0,0,0,0,1
-1908,Central Kansas League,regular,P9216141,Jennings,,Minneapolis,1908-07-03,1908-07-03,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Central Kansas League,regular,P9878780,Eddy,,Ellsworth,1908-07-23,1908-07-25,3,0,0,0,0,0,3,1,0,2,0,0
+1908,Central Kansas League,regular,P9873321,Freeland,,Little River,1908-07-13,1908-07-13,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Central Kansas League,regular,P4454230,Garrison,,Minneapolis,1908-07-03,1908-08-05,4,0,0,0,0,0,4,1,3,0,0,0
+1908,Central Kansas League,regular,P5517733,Golthwaite,,Newton,1908-07-03,1908-08-15,10,0,0,0,0,0,0,0,0,0,10,0
+1908,Central Kansas League,regular,P1795138,Hall,,McPherson,1908-07-07,1908-07-07,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Central Kansas League,regular,P0818945,Hamlin,,Little River,1908-07-13,1908-07-27,3,0,0,3,0,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P2008229,Harkin,,Little River,1908-07-15,1908-07-15,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Central Kansas League,regular,P3807544,Harkins,,Little River,1908-07-13,1908-07-27,2,0,0,0,0,2,0,0,0,0,0,0
+1908,Central Kansas League,regular,P6907738,Hassler,,Little River,1908-07-13,1908-07-15,2,1,0,0,0,0,1,0,0,1,0,1
+1908,Central Kansas League,regular,P2672354,Hayes,,Little River,1908-07-27,1908-07-27,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Central Kansas League,regular,P4695277,Henmon,,Little River,1908-07-13,1908-07-27,3,0,0,0,2,0,1,1,0,0,0,0
+1908,Central Kansas League,regular,P1524339,Hennessey,,McPherson,1908-08-14,1908-08-15,2,0,0,0,0,0,2,2,0,0,0,0
+1908,Central Kansas League,regular,P1878222,Hennessy,,McPherson,1908-07-07,1908-07-07,1,0,0,0,0,0,1,1,0,0,0,0
+1908,Central Kansas League,regular,P4286047,Heshley,,Newton,1908-07-03,1908-08-15,8,2,2,0,1,0,3,1,0,2,0,2
+1908,Central Kansas League,regular,P8501167,Hoggatt,,McPherson,1908-07-07,1908-07-07,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Central Kansas League,regular,P3712327,Hunt,,Little River,1908-07-27,1908-07-27,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Central Kansas League,regular,P9216141,Jennings,,Minneapolis,1908-07-03,1908-08-05,4,0,0,0,0,4,0,0,0,0,0,0
+1908,Central Kansas League,regular,P7251908,Jewell,,McPherson,1908-08-14,1908-08-15,2,0,0,0,0,2,0,0,0,0,0,0
+1908,Central Kansas League,regular,P5310501,Jones,W.,McPherson,1908-07-07,1908-07-07,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P5865706,Lancaster,,Newton,1908-08-15,1908-08-15,1,0,0,0,0,0,1,1,0,0,0,0
 1908,Central Kansas League,regular,P5547989,Lewis,,Minneapolis,1908-07-03,1908-07-03,1,0,0,1,0,0,0,0,0,0,0,0
-1908,Central Kansas League,regular,P2022190,McCandless,,Minneapolis,1908-07-03,1908-07-03,1,0,0,0,0,0,0,0,0,0,0,0
-1908,Central Kansas League,regular,P8484573,Nye,,Minneapolis,1908-07-03,1908-07-03,1,0,0,0,0,0,0,0,0,0,1,0
-1908,Central Kansas League,regular,P5465109,Pankey,,Newton,1908-07-03,1908-07-03,1,0,0,0,0,0,1,0,0,1,0,0
-1908,Central Kansas League,regular,P5864348,Penquite,,Minneapolis,1908-07-03,1908-07-03,1,0,0,0,0,0,1,1,0,0,0,0
-1908,Central Kansas League,regular,P3464768,Sarver,,Newton,1908-07-03,1908-07-03,1,0,0,0,0,1,0,0,0,0,0,0
+1908,Central Kansas League,regular,P5485321,Lewis,F.,Minneapolis,1908-08-03,1908-08-05,3,0,0,3,0,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P0048442,Lewis,W.,Minneapolis,1908-08-03,1908-08-05,3,0,0,0,0,0,3,0,0,3,0,0
+1908,Central Kansas League,regular,P2022190,McCandless,,Minneapolis,1908-07-03,1908-08-05,2,1,0,0,0,0,0,0,0,0,0,1
+1908,Central Kansas League,regular,P3579820,McElroy,,Minneapolis,1908-08-04,1908-08-04,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Central Kansas League,regular,P4008132,Mead,,Newton,1908-07-15,1908-08-03,3,0,0,1,0,0,0,0,0,0,2,0
+1908,Central Kansas League,regular,P2249929,Meade,,Newton,1908-08-04,1908-08-04,1,0,0,0,0,0,0,0,0,0,1,0
+1908,Central Kansas League,regular,P8639222,Mize,,McPherson,1908-08-14,1908-08-14,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Central Kansas League,regular,P3184433,Morgan,,Newton,1908-07-15,1908-08-15,9,4,0,5,0,0,0,0,0,0,0,4
+1908,Central Kansas League,regular,P8484573,Nye,,Minneapolis,1908-07-03,1908-08-05,3,0,0,0,0,0,0,0,0,0,3,0
+1908,Central Kansas League,regular,P7165929,Osborne,,Minneapolis,1908-08-03,1908-08-03,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Central Kansas League,regular,P5465109,Pankey,,Newton,1908-07-03,1908-08-15,12,1,0,2,2,0,7,0,0,7,0,1
+1908,Central Kansas League,regular,P0729558,Panley,,Newton,1908-07-23,1908-07-23,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Central Kansas League,regular,P8377015,Parks,,Ellsworth,1908-07-23,1908-07-25,3,0,0,0,0,0,3,0,3,0,0,0
+1908,Central Kansas League,regular,P5864348,Penquite,,Minneapolis,1908-07-03,1908-08-04,3,0,0,0,0,0,3,3,0,0,0,0
+1908,Central Kansas League,regular,P1098189,Phillips,,Little River,1908-07-13,1908-07-15,2,0,0,0,0,0,2,2,0,0,0,0
+1908,Central Kansas League,regular,P8925796,Pokorney,,Newton,1908-08-14,1908-08-15,2,0,0,0,0,2,0,0,0,0,0,0
+1908,Central Kansas League,regular,P1326017,Reed,,McPherson,1908-07-07,1908-08-15,3,0,0,1,1,1,0,0,0,0,0,0
+1908,Central Kansas League,regular,P9272617,Sarver,,Ellsworth,1908-07-25,1908-07-25,1,0,0,1,0,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P9401460,Sarver,,McPherson,1908-08-14,1908-08-15,2,0,0,0,2,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P3464768,Sarver,,Newton,1908-07-03,1908-07-13,3,0,0,0,0,3,0,0,0,0,0,0
+1908,Central Kansas League,regular,P0650164,Schmidt,,Little River,1908-07-13,1908-07-27,2,1,0,0,0,0,1,0,0,1,0,1
+1908,Central Kansas League,regular,P2364422,Solter,,Newton,1908-07-07,1908-07-27,4,2,0,1,0,0,1,0,0,1,0,2
+1908,Central Kansas League,regular,P1736559,Somers,,Ellsworth,1908-07-23,1908-07-25,3,0,0,0,0,0,1,0,0,1,2,0
+1908,Central Kansas League,regular,P4592053,Sparks,,McPherson,1908-07-07,1908-08-14,2,0,1,0,0,0,1,0,1,0,0,0
 1908,Central Kansas League,regular,P6533571,Speers,,Minneapolis,1908-07-03,1908-07-03,1,0,0,0,0,0,1,0,0,1,0,0
-1908,Central Kansas League,regular,P4369041,Wagner,,Newton,1908-07-03,1908-07-03,1,0,0,1,0,0,0,0,0,0,0,0
-1908,Central Kansas League,regular,P5889326,Watkins,,Newton,1908-07-03,1908-07-03,1,0,0,0,1,0,0,0,0,0,0,0
-1908,Central Kansas League,regular,P5414210,Wing,,Newton,1908-07-03,1908-07-03,1,0,0,0,0,0,1,1,0,0,0,0
-1908,Central Kansas League,regular,P8590723,Young,,Minneapolis,1908-07-03,1908-07-03,1,0,1,0,0,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P5075274,Stanley,F.,Ellsworth,1908-07-24,1908-07-24,1,1,0,0,1,0,0,0,0,0,0,1
+1908,Central Kansas League,regular,P2343444,Stanley,P.,Ellsworth,1908-07-23,1908-07-24,2,1,0,0,0,0,1,1,0,0,0,1
+1908,Central Kansas League,regular,P8390371,Swindell,,McPherson,1908-07-07,1908-07-07,1,0,0,0,1,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P6376881,Taylor,,Ellsworth,1908-07-24,1908-07-25,2,1,0,0,0,0,1,1,0,0,0,1
+1908,Central Kansas League,regular,P6505724,Taylor,,McPherson,1908-07-07,1908-08-15,3,0,2,0,0,0,1,0,1,0,0,0
+1908,Central Kansas League,regular,P1603858,Trippett,,Ellsworth,1908-07-23,1908-07-23,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Central Kansas League,regular,P7049161,Trippett,,Newton,1908-08-05,1908-08-05,1,1,0,0,0,0,0,0,0,0,0,1
+1908,Central Kansas League,regular,P4369041,Wagner,,Newton,1908-07-03,1908-08-15,11,0,0,4,0,7,0,0,0,0,0,0
+1908,Central Kansas League,regular,P5889326,Watkins,,Newton,1908-07-03,1908-08-14,12,0,0,1,10,1,0,0,0,0,0,0
+1908,Central Kansas League,regular,P1685202,Watson,,Ellsworth,1908-07-23,1908-07-25,3,0,0,2,0,0,0,0,0,0,1,0
+1908,Central Kansas League,regular,P4458744,Williams,,Ellsworth,1908-07-23,1908-07-25,3,0,3,0,0,0,0,0,0,0,0,0
+1908,Central Kansas League,regular,P2379797,Willis,,McPherson,1908-08-15,1908-08-15,1,0,0,0,0,0,1,0,0,1,0,0
+1908,Central Kansas League,regular,P5414210,Wing,,Newton,1908-07-03,1908-08-15,12,0,0,0,0,0,12,12,0,0,0,0
+1908,Central Kansas League,regular,P3626614,Wright,,McPherson,1908-08-15,1908-08-15,1,0,0,0,0,0,1,0,1,0,0,0
+1908,Central Kansas League,regular,P8590723,Young,,Minneapolis,1908-07-03,1908-08-05,4,0,4,0,0,0,0,0,0,0,0,0

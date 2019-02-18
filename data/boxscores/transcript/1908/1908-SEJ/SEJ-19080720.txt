@@ -1,0 +1,134 @@
+date: 1908-07-20
+number: 0
+league: Central Kansas
+away: Salina
+home: McPherson
+source: The Salina Evening Journal Jul 21, 1908
+
+Salina:			ab r h po a e
+Krepps @ 2b:	4 0 0 3 4 0
+Misse @ ss:		4 0 0 1 1 0
+Strong,A. @ cf:	3 0 1 1 0 0
+Horrill @ 1b:	3 0 1 15 0 1
+Strong,H. @ lf:	3 0 0 0 1 0
+Abbott @ c:		3 0 1 3 1 0
+Brown @ 3b:		3 0 0 0 1 0
+Cassell @ rf:	3 0 0 0 0 0
+Stoffer @ p:	3 0 0 1 5 2
+TOTALS:			9 0 3 24 13 3
+
+McPherson:		ab r h po a e
+Hennesy @ lf:	4 0 1 1 0 0
+Jones @ 2b:		3 0 1 4 4 0
+Taylor @ 1b:	3 0 0 12 0 0
+Reed @ rf:		3 0 0 0 0 0
+Hoggatt @ c:	3 1 0 4 1 0
+Jewell @ ss:	3 0 0 2 3 1
+Sparks @ cf:	1 0 0 4 0 0
+Clouberty @ 3b:	3 0 0 0 1 0
+Clawson @ p:	3 0 0 0 1 0
+TOTALS:			26 1 2 27 10 1
+
+line: Salina: 0 0 0 0 0 0 0 0 0 - 0
+line: McPherson: 0 1 0 0 0 0 0 0 x - 1
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: Hoggatt
+B_SH: Sparks
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Clawson #0; Stoffer #0
+P_SO: Clawson #4; Stoffer #3
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:15
+U: Shaw
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1908-07-21
+number: 0
+league: Central Kansas
+away: Salina
+home: McPherson
+source: The Salina Evening Journal Jul 22, 1908
+
+Salina:				ab r h po a e
+Krepps @ 2b:		4 0 0 1 2 0
+Misse @ ss:			4 0 2 1 2 0
+Strong,A. @ cf:		4 0 0 1 0 0
+Horrill @ 1b:		3 0 0 11 0 1
+Strong,H. @ lf:		4 0 2 2 0 0
+Mack @ c:			4 0 1 6 0 1
+Brown @ 3b:			3 0 1 0 2 1
+Cassell @ rf:		2 0 0 1 0 0
+Thorstenberg @ p:	3 1 2 1 3 1
+*Abbott @ ph:		1 0 0 0 0 0
++Stoffer @ ph:		1 0 0 0 0 0
+TOTALS:				33 1 8 24 9 4
+
+McPherson:		ab r h po a e
+Hennesy @ lf:	4 1 1 2 0 0
+Jones @ 2b:		4 1 1 0 2 0
+Taylor @ 1b:	4 1 1 10 0 0
+Reed @ rf:		4 0 2 1 0 0
+Hoggatt @ c:	4 0 0 11 3 0
+Jewell @ ss:	3 0 0 1 0 0
+Sparks @ cf:	3 0 0 1 0 0
+Cloherty @ 3b:	3 0 0 0 1 0
+Mize @ p:		3 1 1 0 4 2
+TOTALS:			32 4 6 26 10 2
+
+*: batted for Cassell in 9th
++: batted for Brown in 9th
+
+line: Salina: 0 0 0 0 0 0 0 1 0 - 1
+line: McPherson: 0 0 0 2 0 0 0 2 x - 4
+
+B_LOB: Salina #8; McPherson #4
+B_ROE: Salina #2; McPherson #2
+B_ER: Salina #1; McPherson #1
+B_2B: Mize; Reed
+B_3B: 
+B_HR: Thorstenberg
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: Cassell
+B_XO: Mack, out at third when coach, Horrill ran inside lines
+P_BB: 
+P_SO: Mize #6; Thorstenberg #6
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Mize, Hoggatt, Taylor
+F_PB: 
+outsatend: 
+T: 1:40
+U: Shaw
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
