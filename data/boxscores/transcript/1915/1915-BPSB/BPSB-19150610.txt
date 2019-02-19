@@ -1,0 +1,154 @@
+date: 1915-06-12
+number: 0
+league: New York State
+away: Troy
+home: Wilkes-Barre
+source: Binghamton Press & Sun-Bulletin, June 14, 1915
+
+Troy:		r h e
+Parsons @ p:	x x x
+Fitzgerald @ c:	x x x
+TOTALS:		2 10 0 
+
+Wilkes-Barre: 	r h e
+McGinley @ p:	x x x
+Briger @ c:	x x x
+TOTALS:		0 7 2
+
+line: Troy:         0 1 1 0 0 0 0 0 0 - 2
+line: Wilkes-Barre: 0 0 0 0 0 0 0 0 0 - 0
+
+---
+
+date: 1915-06-12
+number: 0
+league: New York State
+away: Albany
+home: Scranton
+source: Binghamton Press & Sun-Bulletin, June 14, 1915
+
+Albany:		r h e
+Weiss @ p:	x x x
+Clougher @ c:	x x x
+TOTALS:		4 7 0 
+
+Scranton: 	r h e
+Scull @ p:	x x x
+Duchesnil @ p:	x x x
+Miller @ c:	x x x
+TOTALS:		5 13 2
+
+line: Albany:   0 1 0 1 0 1 1 0 0 - 4
+line: Scranton: 0 3 0 0 0 0 0 2 x - 5
+
+---
+
+date: 1915-06-12
+number: 1
+league: New York State
+away: Binghamton
+home: Syracuse
+source: Binghamton Press & Sun-Bulletin, June 14, 1915
+
+Binghamton:	ab r h po a e
+Irving @ lf:	6 2 3 2 0 0
+Curry @ 2b:	6 2 1 1 2 0
+Miller @ cf:	6 1 1 7 0 0
+Kay @ rf:	5 2 3 0 0 0
+Peterson @ c:	6 0 4 5 2 0
+Pepe @ ss:	5 0 1 3 4 1
+Gonzales @ 3b:	5 0 1 0 1 0
+Calhoun @ 1b:	5 0 0 13 1 0
+Rapp @ p:	2 2 2 5 0 0 
+TOTALS:		46 9 14 33 15 1
+
+Syracuse:	ab r h po a e
+McConnell @ 2b:	5 0 0 3 5 0
+Marhefka @ ss:	4 1 2 0 3 1
+Russell @ 1b:	5 1 1 10 0 1
+O'Neill @ lf:	5 2 2 7 0 0
+Konnick @ 3b:	4 1 2 1 2 0
+Riley @ cf:	3 0 0 4 0 0
+Hewes @ rf:	5 0 0 1 0 0
+Tyler @ c:	4 1 1 6 0 1
+Barberich @ p:	4 0 0 0 2 0
+Cornwell @ p:	0 0 0 0 0 0
+TOTALS:		39 6 8 32 12 3
+
+line: Binghamton: 1 1 0 0 0 0 4 0 0 0 3 - 9
+line: Syracuse:   0 1 0 0 4 1 0 0 0 0 0 - 6
+
+B_LOB: Syracuse #5; Binghamton #9
+B_ROE: Syracuse #1; Binghamton #1
+B_2B: Kay; O'Neill
+B_3B: Irving; Russell; Konnick; Kay #2
+B_SB: Irving; Peterson; Pepe
+B_SH: Riley #2; Pepe; Russell
+B_XO: Gonzales, out for not touching second
+P_BB: Barberich #5; Rapp #3
+P_SO: Barberich #3; Rapp #2; Cornwell #2
+P_H: Barberich #12; Cornwell #2
+P_IP: Barberich #10.1; Cornwell #.2
+P_WP: Rapp
+F_PB: Tyler
+T: 2:10
+U: Kuhn; O'Connor
+
+P_GS: ~Barberich
+P_GF: ~Cornwell
+P_L: ~Barberich
+P_R: ~Barberich #9
+
+---
+
+date: 1915-06-12
+number: 2
+league: New York State
+away: Binghamton
+home: Syracuse
+source: Binghamton Press & Sun-Bulletin, June 14, 1915
+
+Binghamton:	ab r h po a e
+Irving @ lf:	4 0 0 3 1 0
+Curry @ 2b:	3 0 0 0 1 0
+Miller @ cf:	3 2 2 0 0 0
+Kay @ rf:	3 1 2 2 0 0
+Murphy @ c:	2 0 1 7 1 0
+Pepe @ ss:	2 0 0 2 0 0
+Gonzales @ 3b:	3 0 0 0 2 0
+Calhoun @ 1b:	3 0 0 7 0 0
+Sitton @ p:	2 1 0 0 2 0 
+TOTALS:		25 4 5 21 7 0
+
+Syracuse:	ab r h po a e
+McConnell @ 2b:	1 0 1 1 1 0
+Marhefka @ ss:	4 1 2 2 2 0
+Russell @ 1b:	3 0 1 6 1 1 
+O'Neill @ lf:	2 0 1 1 0 0
+Konnick @ 3b:	3 0 0 0 2 0
+Riley @ cf:	3 0 2 4 0 0
+Hewes @ rf:	3 0 0 2 0 0
+Tyler @ c:	3 0 0 3 1 0
+Frill @ p:	1 1 0 2 3 0
+*Kimball @ ph:	1 0 0 0 0 0
+TOTALS:		24 2 7 21 10 1
+
+*: batted for Frill in 7th
+
+line: Binghamton: 1 0 0 0 3 0 0 - 4
+line: Syracuse:   0 0 2 0 0 0 0 - 2
+
+B_LOB: Syracuse #7; Binghamton #3
+B_ROE: Binghamton #1
+B_2B: Miller #2; O'Neill; Riley #2; Marhefka
+B_SB: Kay #2; Russell
+B_SH: Miller; McConnell; Russell
+B_HP: McConnell
+P_BB: Sitton #3; Frill #4
+P_SO: Sitton #6; Frill #3
+P_HP: Sitton
+F_DP: Irving, Pepe
+T: 1:35
+U:  O'Connor; Kuhn
+
+

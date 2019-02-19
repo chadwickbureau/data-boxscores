@@ -1,0 +1,98 @@
+date: 1915-05-08
+number: 0
+league: New York State
+away: Syracuse
+home: Troy
+source: Binghamton Press & Sun-Bulletin, May 10, 1915
+
+Syracuse:	r h e
+Rawley @ p:	x x x
+Snell @ c:	x x x 
+TOTALS:		2 4 4 
+
+Troy:		r h e
+Buckels @ p:	x x x
+Fitzgerald @ c:	x x x
+TOTALS:		4 8 0 
+
+line: Syracuse: 0 0 0 0 0 0 0 2 0 - 2
+line: Troy:     2 0 0 0 0 0 0 2 x - 4
+
+---
+
+date: 1915-05-08
+number: 0
+league: New York State
+away: Utica
+home: Albany
+source: Binghamton Press & Sun-Bulletin, May 10, 1915
+
+Utica:		r h e
+Sherry @ p:	x x x
+Ahles @ c:	x x x
+TOTALS:		2 5 4
+
+Albany:		r h e
+Gaiser @ p:	x x x
+O'Connor @ c:	x x x
+TOTALS:		4 12 1
+
+line: Utica:  1 0 0 0 0 0 1 0 0 - 2
+line: Albany: 0 1 2 1 0 0 0 0 x - 4
+
+---
+
+date: 1915-05-08
+number: 0
+league: New York State
+away: Scranton
+home: Binghamton
+source: Binghamton Press & Sun-Bulletin, May 10, 1915
+
+Scranton:	ab r h po a e
+Murray @ 3b:	4 0 1 2 1 0
+Hartman @ ss:	4 0 3 1 1 0
+Corcoran @ lf:	4 0 0 1 0 0
+Mullen @ 2b:	4 0 0 1 2 0
+Strait @ rf:	4 0 1 3 1 0
+Maisel @ cf:	4 0 1 3 0 0 
+Cruickshank @ 1b:	3 0 1 8 0 0
+Miller @ c:	3 1 1 5 1 2
+Barton @ p:	1 1 0 0 2 0
+Hill @ p:	1 0 0 0 1 0
+TOTALS:		32 2 8 24 9 2
+
+Binghamton:	ab r h po a e
+Becker @ cf:	3 0 0 0 0 0 
+Irving @ lf:	5 0 2 2 0 0 
+Curry @ 2b:	3 1 1 1 5 0 
+Kay @ rf:	3 1 2 4 0 0
+Pepe @ ss:	3 1 1 6 2 0
+Gonzales @ 2b:	3 1 1 1 1 0
+Calhoun @ 1b:	4 1 2 8 0 0
+Peterson @ c:	3 0 1 5 3 0
+Rapp @ p:	3 1 1 0 2 0
+TOTALS:		30 6 11 27 13 0
+
+
+line: Scranton:   0 0 2 0 0 0 0 0 0 - 2
+line: Binghamton: 0 0 2 1 3 0 0 0 x - 6
+
+B_LOB: Scranton #3; Binghamton #9
+B_2B: Kay; Gonzales; Calhoun; Miller
+B_3B: Irving
+B_SB: Irving; Kay #2; Curry #2; Pepe
+B_SH: Becker #2; Peterson
+B_HP: Gonzales
+P_BB: Rapp #1; Barton #3; Hill #2
+P_SO: Rapp #3; Barton #1; Hill #1
+P_H: Barton #9; Hill #2
+P_IP: Barton #4.1; Hill #3.2
+P_HP: Hill
+T: 1:43
+U: McBride
+
+P_GS: ~Barton
+P_GF: ~Hill
+P_L: ~Hill
+P_R: ~Hill #6

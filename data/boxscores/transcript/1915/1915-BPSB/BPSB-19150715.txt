@@ -1,0 +1,187 @@
+date: 1915-07-17
+number: 1
+league: New York State
+away: Utica 
+home: Wilkes-Barre
+source: Binghamton Press & Sun-Bulletin, July 19, 1915
+
+Utica:		r h e
+Buck @ p:	x x x
+McDonough @ c:	x x x
+TOTALS:		1 8 0
+
+Wilkes-Barre: 	r h e
+Phillips @ p:	x x x
+Giddo @ c:	x x x
+TOTALS:		0 5 1
+
+line: Utica:        1 0 0 0 0 0 0 0 0 - 1
+line: Wilkes-Barre: 0 0 0 0 0 0 0 0 0 - 0
+
+---
+
+date: 1915-07-17
+number: 2
+league: New York State
+away: Utica 
+home: Wilkes-Barre
+source: Binghamton Press & Sun-Bulletin, July 19, 1915
+
+Utica:		r h e
+Sherry @ p:	x x x
+McDonough @ c:	x x x
+TOTALS:		6 10 1 
+
+Wilkes-Barre: 	r h e
+Beretski @ p:	x x x
+Giddo @ c:	x x x
+TOTALS:		1 3 1
+
+line: Utica:        0 2 3 0 0 0 1 - 6
+line: Wilkes-Barre: 0 0 0 0 0 1 0 - 1
+
+---
+
+date: 1915-07-17
+number: 1
+league: New York State
+away: Syracuse
+home: Scranton
+source: Binghamton Press & Sun-Bulletin, July 19, 1915
+
+Syracuse:	r h e
+Cornwall @ p:	x x x
+Tyler @ c:	x x x
+TOTALS:		0 8 3 
+
+Scranton: 	r h e
+Fox @ p:	x x x
+Winters @ p:	x x x
+Miller @ c:	x x x
+TOTALS:		6 13 0
+
+line: Syracuse: 0 0 0 0 0 0 0 0 0 - 0
+line: Scranton: 0 0 0 0 5 1 0 0 x - 6
+
+P_GS: ~Fox
+P_GF: ~Winters
+P_W: ~Winters
+
+---
+
+date: 1915-07-17
+number: 2
+league: New York State
+away: Syracuse
+home: Scranton
+source: Binghamton Press & Sun-Bulletin, July 19, 1915
+
+Syracuse:	r h e
+Reiger @ p:	x x x
+Tyler @ c:	x x x
+TOTALS:		3 6 3
+
+Scranton: 	r h e
+Winters @ p:	x x x
+Miller @ c:	x x x
+TOTALS:		4 4 4
+
+line: Syracuse: 0 0 0 0 0 0 3 0 - 3
+line: Scranton: 0 0 0 1 0 0 2 1 - 4
+
+---
+
+date: 1915-07-17
+number: 1
+league: New York State
+away: Troy
+home: Binghamton
+source: Binghamton Press & Sun-Bulletin, July 19, 1915
+
+Troy:		ab r h po a e
+Breckinridge @ cf:	3 0 0 3 0 0
+Tamsett @ ss:	4 0 0 1 1 0
+Gough @ rf:	4 0 0 2 0 1
+Cook @ 2b:	4 0 0 2 2 0
+Fitzgerald @ c:	4 0 1 7 1 0
+Reed @ 3b:	4 0 1 1 2 1
+Foley @ 1b:	4 0 0 8 0 0
+Jarmon @ lf:	2 1 1 2 1 0
+Matteson @ p:	3 0 1 0 2 0
+TOTALS:		32 1 4 26 9 2
+
+Binghamton:	ab r h po a e
+Irving @ lf:	4 1 2 1 0 0
+Miller @ cf:	3 0 1 4 0 0
+Curry @ 2b:	2 0 1 2 1 0
+Kay @ rf:	3 0 1 0 0 0
+Murphy @ 1b:	4 0 0 12 1 0
+Pepe @ ss:	4 0 0 1 2 1
+Gonzales @ 3b:	4 0 1 2 3 0
+Peterson @ c:	3 1 0 3 0 0
+Rapp @ p:	3 0 1 2 5 1
+TOTALS:		30 2 7 27 12 2
+
+line: Troy:       0 0 0 0 1 0 0 0 0 - 1
+line: Binghamton: 1 0 0 0 0 0 0 0 1 - 2
+
+B_LOB: Binghamton #9; Troy #6
+B_ROE: Binghamton #2; Troy #2
+B_3B: Curry
+B_SB: Irving #2; Miller; Kay; Gonzales
+B_SH: Curry #2; Rapp
+P_BB: Rapp #2; Matteson #4
+F_DP: Gonzales, Murphy
+T: 1:36
+U: O'Connor
+
+---
+
+
+date: 1915-07-17
+number: 2
+league: New York State
+away: Troy
+home: Binghamton
+source: Binghamton Press & Sun-Bulletin, July 19, 1915
+
+Troy:		ab r h po a e
+Breckinridge @ cf:	3 0 0 1 0 0
+Tamsett @ ss:	3 0 0 1 3 0
+Gough @ rf:	3 0 0 1 0 0
+Cook @ 2b:	2 1 1 1 2 0
+Fitzgerald @ c:	3 0 0 5 2 0
+Reed @ 3b:	3 0 2 1 2 0
+Foley @ 1b:	2 0 0 6 0 0
+Jarmon @ lf:	2 1 1 2 0 0
+Matteson @ p:	2 0 1 0 1 0
+*Buckels @ ph:	1 0 0 0 0 0
+TOTALS:		24 2 5 17 9 0
+
+Binghamton:	ab r h po a e
+Irving @ lf:	3 0 1 1 0 0
+Miller @ cf:	3 0 0 0 0 0
+Curry @ 2b:	2 1 1 0 4 1
+Kay @ rf:	3 1 2 1 0 0
+Murphy @ 1b-c:	3 1 2 8 2 0
+Pepe @ ss:	2 0 1 3 2 0
+Gonzales @ 3b:	2 0 0 1 0 1
+(~8.1)Peterson @ c:	1 0 0 2 1 0 
+Frock @ p:	2 0 0 0 2 0
+(~8.2)Calhoun @ 1b:	1 0 0 5 1 0	
+TOTALS:		22 3 7 21 12 2
+
+*: batted for Matteson in 7th
+
+line: Troy:       0 0 1 1 0 0 0 - 2
+line: Binghamton: 0 0 0 3 0 0 x - 3
+
+B_LOB: Binghamton #2; Troy #2
+B_ROE: Troy #1
+B_2B: Pepe; Cook; Jarmon
+B_3B: Irving
+B_SB: Kay
+P_BB: Frock #1; Matteson #1
+P_SO: Frock #5; Matteson #3
+T: 1:15
+U: O'Connor

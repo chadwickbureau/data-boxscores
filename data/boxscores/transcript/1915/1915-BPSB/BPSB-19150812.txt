@@ -1,0 +1,164 @@
+date: 1915-08-14
+number: 1
+league: New York State
+away: Scranton
+home: Utica
+source: Binghamton Press & Sun-Bulletin, August 16, 1915
+
+Scranton: 	r h e
+Fox @ p:	x x x
+Miller @ c:	x x x
+TOTALS:		1 6 1
+
+Utica:		r h e
+Sherry @ p:	x x x
+McDonough @ c:	x x x
+TOTALS:		2 10 1 
+
+line: Scranton: 0 0 0 0 0 0 0 0 1 - 1
+line: Utica:    1 0 0 0 1 0 0 0 x - 2
+
+---
+
+date: 1915-08-14
+number: 2
+league: New York State
+away: Scranton
+home: Utica
+source: Binghamton Press & Sun-Bulletin, August 16, 1915
+
+Scranton: 	r h e
+Hall @ p:	x x x
+Winters @ p:	x x x
+Miller @ c:	x x x
+TOTALS:		6 6 0
+
+Utica:		r h e
+Brower @ p:	x x x
+McDonough @ c:	x x x
+TOTALS:		3 5 3
+
+line: Scranton: 0 0 0 0 3 0 0 0 3 - 6
+line: Utica:    0 3 0 0 0 0 0 0 0 - 3
+
+---
+
+date: 1915-08-14
+number: 1
+league: New York State
+away: Albany
+home: Binghamton
+source: Binghamton Press & Sun-Bulletin, August 16, 1915
+
+Albany:		ab r h po a e
+Brackett @ rf:	4 0 2 1 0 1
+O'Rourke @ ss:	4 1 0 0 1 3
+Oakes @ lf:	4 0 0 5 1 0	
+Durgin @ 1b:	3 1 1 10 1 0
+Meyer @ cf:	4 0 0 2 1 0
+Hollander @ 2b:	4 1 1 1 2 1
+Gillespie @ 3b:	4 0 1 1 3 1
+Clougher @ c:	4 0 1 3 1 0
+Schmidt @ p:	3 0 1 0 1 0
+*Gerner @ ph:	1 0 1 0 0 0
+TOTALS:		35 3 8 24 11 6
+
+Binghamton:	ab r h po a e
+Irving @ lf:	4 0 0 2 0 1
+Blake @ cf:	4 0 1 5 0 0
+Curry @ 2b:	4 2 1 2 2 0
+Kay @ rf:	4 1 1 1 0 0
+Peterson @ c:	4 1 2 4 0 0
+Pepe @ ss:	3 1 1 3 3 0
+Gonzales @ 3b:	3 0 1 0 0 0
+Calhoun @ 1b:	3 0 0 9 1 0
+Sitton @ p:	3 0 0 1 3 0
+TOTALS:		32 5 7 27 9 1
+
+*: batted for Schmidt in 9th
+
+line: Albany:     1 0 0 0 0 0 0 0 2 - 3
+line: Binghamton: 4 0 0 0 0 0 0 1 x - 5
+
+B_LOB: Binghamton #3; Albany #7
+B_ROE: Binghamton #5 
+B_2B: Kay
+B_SB: Curry #2; Clougher
+P_BB: Sitton #2
+P_SO: Sitton #3; Schmidt #2
+F_DP: Meyer, Durgin
+F_PB: Clougher
+outsatend: 
+T: 1:10
+U: Kuhn
+
+---
+
+date: 1915-08-14
+number: 2
+league: New York State
+away: Albany
+home: Binghamton
+source: Binghamton Press & Sun-Bulletin, August 16, 1915
+
+Albany:		ab r h po a e
+Brackett @ rf:	2 0 0 1 0 0
+O'Rourke @ ss:	3 0 0 0 5 2
+Oakes @ lf:	3 0 1 4 0 0	
+Durgin @ 1b:	3 0 1 7 0 0
+Meyer @ cf:	2 0 0 0 0 0
+Hollander @ 2b:	3 0 1 1 0 1
+Gillespie @ 3b:	3 0 1 1 1 0
+Clougher @ c:	3 0 0 4 0 0
+Jacobs @ p:	2 0 0 0 1 0 
+TOTALS:		24 0 4 18 7 3
+
+Binghamton:	ab r h po a e
+Irving @ lf:	3 2 0 1 0 0
+Blake @ cf:	2 1 0 3 0 0
+Curry @ 2b:	3 2 3 2 4 0
+Kay @ rf:	3 2 2 1 0 0
+Murphy @ c:	3 1 1 3 1 0
+Pepe @ ss:	3 0 1 0 2 0
+Gonzales @ 3b:	3 0 0 0 2 0
+Calhoun @ 1b:	3 0 0 11 0 0
+Gaiser @ p:	3 1 1 0 2 0
+TOTALS:		26 9 8 21 11 0
+
+line: Albany:     0 0 0 0 0 1 0 0 0 - 1
+line: Binghamton: 1 0 0 1 0 0 0 2 x - 4
+
+B_LOB: Binghamton #4; Albany #5
+B_ROE: Binghamton #2 
+B_SB: Irving; Curry #2; Kay; Murphy; Pepe; Oakes
+B_SH: Blake #2
+B_HP: Irving
+P_BB: Gaiser #3; Jacobs #3
+P_SO: Gaiser #2; Jacobs #2
+P_HP: Jacobs
+P_WP: Gaiser
+F_DP: Pepe, Curry, Calhoun
+T: 1:12
+U: Kuhn
+
+---
+
+date: 1915-08-14
+number: 0
+league: New York State
+away: Wilkes-Barre
+home: Syracuse
+source: Binghamton Press & Sun-Bulletin, August 16, 1915
+
+Wilkes-Barre: 	r h e
+Beretski @ p:	x x x
+Brieger @ c:	x x x
+TOTALS:		2 5 1
+
+Syracuse:	r h e
+Rieger @ p:	x x x
+Tyler @ c:	x x x
+TOTALS:		4 4 2 
+
+line: Wilkes-Barre: 0 0 0 0 0 0 1 0 1 - 2
+line: Syracuse:     0 0 0 1 0 0 2 1 x - 4

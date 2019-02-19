@@ -1,0 +1,139 @@
+date: 1915-06-26
+number: 0
+league: New York State
+away: Wilkes-Barre
+home: Troy
+source: Binghamton Press & Sun-Bulletin, June 28, 1915
+
+Wilkes-Barre: 	r h e
+McGinley @ p:	x x x
+Brieger @ c:	x x x
+TOTALS:		4 8 1
+
+Troy:		r h e
+Buckles @ p:	x x x
+Bruggy @ c:	x x x
+TOTALS:		5 9 4
+
+line: Wilkes-Barre: 1 0 0 0 2 0 0 1 0 - 4
+line: Troy:         0 0 1 0 0 1 1 2 x - 5
+
+---
+
+date: 1915-06-26
+number: 0
+league: New York State
+away: Scranton
+home: Albany
+source: Binghamton Press & Sun-Bulletin, June 28, 1915
+
+Scranton: 	r h e
+Winters @ p:	x x x
+Miller @ c:	x x x
+TOTALS:		1 6 1
+
+Albany:		r h e
+Gerner @ p:	x x x
+Clougher @ c:	x x x
+TOTALS:		4 7 0 
+
+line: Scranton: 0 0 0 0 0 1 0 0 0 - 1
+line: Albany:   0 2 0 0 0 1 0 1 x - 4
+
+---
+
+date: 1915-06-26
+number: 1
+league: New York State
+away: Syracuse
+home: Binghamton
+source: Binghamton Press & Sun-Bulletin, June 28, 1915
+
+Syracuse:	ab r h po a e
+McConnell @ 2b:	4 0 0 5 3 0 
+Marhefka @ ss:	4 0 0 2 5 0
+O'Neill @ lf:	4 0 0 0 0 0
+Deininger @ 1b:	3 0 0 7 0 0
+Konnick @ 3b:	4 0 0 0 0 2
+Riley @ cf:	3 0 1 4 0 0
+Prieste @ rf:	3 1 1 0 0 0
+Tyler @ c:	3 0 0 5 1 2
+Hewes @ p:	2 0 0 1 0 1
+TOTALS:		30 1 2 24 9 5
+
+Binghamton:	ab r h po a e
+Irving @ lf:	5 1 2 5 0 0
+Curry @ 2b:	6 1 2 3 2 0
+Miller @ cf:	4 0 2 4 0 0
+Kay @ rf:	4 1 3 2 0 0
+Peterson @ c:	5 0 0 4 0 0
+Pepe @ ss:	4 1 1 0 3 1
+Gonzales @ 3b:	4 3 2 1 2 0
+Calhoun @ 1b:	5 2 1 7 1 0 
+Harned @ p:	5 2 4 1 1 0
+TOTALS:		42 11 17 27 9 1
+
+line: Syracuse:   0 0 0 0 0 0 0 1 0 - 1
+line: Binghamton: 0 2 0 1 1 2 3 2 x - 11
+
+B_LOB: Syracuse #4; Binghamton #12
+B_ROE: Binghamton #2
+B_2B: Kay; Pepe; Gonzales; Calhoun
+B_3B: Gonzales; Harned
+B_SB: Miller; Kay
+B_SH: Irving
+P_BB: Harned #2; Hewes #4
+P_SO: Harned #4
+F_PB: Tyler
+T: 2:07
+U: Johnson
+
+---
+
+date: 1915-06-26
+number: 2
+league: New York State
+away: Syracuse
+home: Binghamton
+source: Binghamton Press & Sun-Bulletin, June 28, 1915
+
+Syracuse:	ab r h po a e
+McConnell @ 2b:	4 1 2 2 0 0
+Marhefka @ ss:	2 0 1 2 2 1
+O'Neill @ lf:	3 0 1 0 0 0
+Deininger @ 1b:	3 0 1 4 1 0 
+Konnick @ 3b:	3 0 0 1 1 0
+Riley @ cf:	3 0 0 1 0 0
+Prieste @ rf:	3 0 0 5 0 0
+Tyler @ c:	3 1 1 3 2 0
+Kimball @ p:	3 0 0 0 3 1
+TOTALS:		27 2 6 18 9 2
+
+Binghamton:	ab r h po a e
+Irving @ lf:	3 1 1 0 0 0
+Curry @ 2b:	2 0 2 2 1 1
+Miller @ cf:	2 2 0 3 0 0
+Kay @ rf:	2 1 1 4 0 0
+Murphy @ c:	2 0 0 4 1 0
+Pepe @ ss:	3 1 2 1 2 0
+Gonzales @ 3b:	2 0 0 1 0 0
+Calhoun @ 1b:	3 0 0 5 1 0
+Frock @ p:	2 0 0 1 3 0
+TOTALS:		21 5 6 21 8 1
+
+line: Syracuse:   1 0 0 0 1 0 0 - 2
+line: Binghamton: 3 0 1 1 0 0 x - 5
+
+B_LOB: Syracuse #4; Binghamton #3
+B_ROE: Syracuse #1; Binghamton #1
+B_2B: Irving; Kay
+B_SB: Curry; Miller; Kay
+B_SH: Curry; Marhefka
+B_SF: Murphy
+B_HP: Gonzales
+P_BB: Kimball #2
+P_SO: Frock #1; Kimball #2
+P_HP: Kimball
+P_WP: Kimball
+T: 1:20
+U: Johnson

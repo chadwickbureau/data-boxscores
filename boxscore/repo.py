@@ -6,30 +6,31 @@ try:
 except ImportError:
     import pathlib2 as pathlib
 
-import colorama as clr
+import click
 
 from . import config
 
-def do_store(source, filename):
+def do_store(source, filenames):
     try:
         year, paper = source.split("-")
     except ValueError:
-        print(clr.Fore.RED + ("Invalid source name '%s'" % source) + clr.Fore.RESET)
+        click.secho("Invalid source name '%s'" % source, fg='red')
         sys.exit(1)
 
     path = config.data_path/"transcript"/year/source
     path.mkdir(exist_ok=True, parents=True)
 
-    if (path/pathlib.Path(filename).name).exists():
-        print(clr.Fore.RED + ("Target file already exists") + clr.Fore.RESET)
-        sys.exit(1)
-    shutil.copy(filename, str(path))
+    for fn in filenames:
+        if (path/pathlib.Path(fn).name).exists():
+            click.secho("Target file already exists", fg='red')
+            sys.exit(1)
+        shutil.copy(fn, str(path))
     
 def do_edit(source):
     try:
         year, paper = source.split("-")
     except ValueError:
-        print(clr.Fore.RED + ("Invalid source name '%s'" % source) + clr.Fore.RESET)
+        click.secho("Invalid source name '%s'" % source, fg='red')
         sys.exit(1)
 
     path = config.data_path/"transcript"/year/source
@@ -39,7 +40,7 @@ def do_add(source):
     try:
         year, paper = source.split("-")
     except ValueError:
-        print(clr.Fore.RED + ("Invalid source name '%s'" % source) + clr.Fore.RESET)
+        click.secho("Invalid source name '%s'" % source, fg='red')
         sys.exit(1)
 
     subprocess.call("cd %s && git add transcript/%s/%s/*.txt" %
