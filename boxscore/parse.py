@@ -147,6 +147,7 @@ class Game(object):
                                   self.metadata['filename'],
                                   self,
                                   "Ill-formed details string '%s'" % entry))
+                continue
             try:
                 self.playing[name]['B_XO'] = self.playing[name].get('B_XO', 0)+1
             except KeyError:
@@ -341,7 +342,7 @@ class Game(object):
                        for c in [x for x in header.split() if x.strip() != ""]]
         except KeyError:
             print("In file %s,\n   game %s" % (self.metadata['filename'], self))
-            print("  Unrecognised category line '%s'" % (value))
+            print("  Unrecognised category line '%s'" % (header))
             columns = []
 
         while True:
@@ -570,7 +571,7 @@ def compile_umpires(source, umpiring, outpath):
 
     
 def process_files(source, inpath, outpath):
-    fnlist = [fn for fn in inpath.glob("*.txt")
+    fnlist = [fn for fn in sorted(inpath.glob("*.txt"))
               if fn.name != "README.txt" and fn.name != "notes.txt"]
     if len(fnlist) == 0:
         print(clr.Fore.RED + ("No files found at '%s'" % inpath) +
