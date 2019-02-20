@@ -2,7 +2,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,Virginia League,regular,P3616280,Agnew,,Petersburg,1915-04-22,1915-04-28,4,0,0,4,0,0,0,0,0,0,0,0
 1915,Virginia League,regular,P6002089,Allen,,Suffolk,1915-04-26,1915-04-28,3,0,0,0,0,0,3,0,0,3,0,0
 1915,Virginia League,regular,P4743825,Alrich,,Rocky Mount,1915-04-22,1915-04-22,1,0,0,0,0,0,0,0,0,0,1,0
-1915,Virginia League,regular,P5237337,Applegate,,Petersburg,1915-04-24,1915-04-24,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Virginia League,regular,P8450129,Applegate,,Rocky Mount,1915-04-24,1915-04-24,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Virginia League,regular,P2626628,Barn't,,Petersburg,1915-04-28,1915-04-28,1,0,1,0,0,0,0,0,0,0,0,0
 1915,Virginia League,regular,P9284184,Barnes,,Suffolk,1915-04-24,1915-04-24,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Virginia League,regular,P6865174,Barnett,,Petersburg,1915-04-26,1915-04-26,1,0,1,0,0,0,0,0,0,0,0,0
@@ -50,8 +50,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,Virginia League,regular,P4563207,Hirsch,,Petersburg,1915-04-23,1915-04-28,2,2,0,0,0,0,0,0,0,0,0,2
 1915,Virginia League,regular,P6097783,Holmes,,Newport News,1915-04-22,1915-04-27,4,0,0,0,0,0,0,0,0,0,4,0
 1915,Virginia League,regular,P4481809,Hudgi's,,Petersburg,1915-04-27,1915-04-27,1,0,0,0,0,0,0,0,0,0,1,0
-1915,Virginia League,regular,P8245432,Hudgins,,Petersburg,1915-04-28,1915-04-28,1,0,0,0,0,0,0,0,0,0,1,0
-1915,Virginia League,regular,P7717264,Hudgins,,Rocky Mount,1915-04-24,1915-04-24,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Virginia League,regular,P8245432,Hudgins,,Petersburg,1915-04-24,1915-04-28,2,0,0,0,0,0,0,0,0,0,2,0
 1915,Virginia League,regular,P8983537,Hummell,,Suffolk,1915-04-26,1915-04-28,3,0,0,0,0,3,0,0,0,0,0,0
 1915,Virginia League,regular,P8062531,Humphreys,,Norfolk,1915-04-22,1915-04-26,3,3,0,0,0,0,0,0,0,0,0,3
 1915,Virginia League,regular,P6346816,Hurkey,,Portsmouth,1915-04-26,1915-04-26,1,0,1,0,0,0,0,0,0,0,0,0
@@ -60,7 +59,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,Virginia League,regular,P1280276,Irmsc'r,,Suffolk,1915-04-28,1915-04-28,1,0,0,0,1,0,0,0,0,0,0,0
 1915,Virginia League,regular,P2452718,Jamison,,Suffolk,1915-04-23,1915-04-23,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Virginia League,regular,P9908334,Johnson,,Newport News,1915-04-24,1915-04-28,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Virginia League,regular,P9287521,Kaufman,,Rocky Mount,1915-04-24,1915-04-24,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Virginia League,regular,P3747561,Kaufman,,Petersburg,1915-04-24,1915-04-24,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Virginia League,regular,P2678146,Knight,,Suffolk,1915-04-23,1915-04-23,1,0,0,0,0,0,0,0,0,0,1,0
 1915,Virginia League,regular,P9399828,Layton,,Suffolk,1915-04-23,1915-04-23,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Virginia League,regular,P6733940,Mace,,Norfolk,1915-04-23,1915-04-28,3,0,0,0,0,0,0,0,0,0,2,0
@@ -103,8 +102,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,Virginia League,regular,P9019492,Tee,,Petersburg,1915-04-22,1915-04-27,4,0,0,0,0,0,0,0,0,0,4,0
 1915,Virginia League,regular,P3439263,Thrasher,,Norfolk,1915-04-26,1915-04-28,3,0,0,0,0,0,3,0,3,0,0,0
 1915,Virginia League,regular,P1090806,Troy,,Portsmouth,1915-04-26,1915-04-28,3,0,0,3,0,0,0,0,0,0,0,0
-1915,Virginia League,regular,P5860909,Ulrich,,Petersburg,1915-04-24,1915-04-24,1,0,0,0,0,0,0,0,0,0,1,0
-1915,Virginia League,regular,P9028005,Ulrich,,Rocky Mount,1915-04-27,1915-04-27,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Virginia League,regular,P9028005,Ulrich,,Rocky Mount,1915-04-24,1915-04-27,2,0,0,0,0,0,0,0,0,0,2,0
 1915,Virginia League,regular,P8417911,Waite,,Suffolk,1915-04-27,1915-04-27,1,0,0,0,0,0,0,0,0,0,1,0
 1915,Virginia League,regular,P2641621,Walker,,Newport News,1915-04-26,1915-04-28,3,0,0,0,0,0,3,0,3,0,0,0
 1915,Virginia League,regular,P8971345,Walters,,Newport News,1915-04-26,1915-04-28,3,0,0,0,3,0,0,0,0,0,0,0
