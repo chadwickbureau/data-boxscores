@@ -170,6 +170,7 @@ league: New York State
 away: Syracuse
 home: Troy
 source: Elmira Star-Gazette, June 19, 1915
+note: Syracuse box had Friel listed as pitcher; changed to Frill
 
 Syracuse:	ab r h po a e
 McConnell @ 2b:	4 1 2 4 2 0
@@ -180,7 +181,7 @@ Konnick @ 3b:	4 1 1 0 3 0
 Riley @ cf:	3 0 0 2 0 0
 Hewes @ rf:	4 0 1 2 0 1
 Tyler @ c:	4 1 2 3 4 0
-Friel @ p:	4 0 0 0 1 0
+Frill @ p:	4 0 0 0 1 0
 TOTALS:		36 5 12 27 11 1
 
 Troy:		ab r h po a e
