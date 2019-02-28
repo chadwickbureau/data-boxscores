@@ -1,0 +1,49 @@
+date: 1915-06-12
+number: 0
+league: New York State
+away: Troy
+home: Wilkes-Barre
+source: Wilkes-Barre Record, June 14, 1915
+
+Troy:		ab r h po a e
+Gough @ rf:	4 1 2 1 0 0
+Cook @ 2b:	3 0 0 2 1 0
+Reed @ 3b:	4 0 1 1 2 0
+Bruggy @ 1b:	3 0 2 11 1 0
+Meara @ lf:	4 0 2 3 1 0
+Breckenridge @ cf:	4 0 0 1 0 0
+Tamsett @ ss:	4 1 1 3 8 0
+Fitzgerald @ c:	3 0 1 5 0 0
+Parsons @ p:	3 0 1 0 1 0
+TOTALS:		32 2 10 27 14 0
+
+Wilkes-Barre:	ab r h po a e
+Murray @ 2b:	4 0 1 1 3 0 
+Burke @ 3b:	4 0 2 0 2 1
+Brown @ cf:	3 0 0 3 1 0
+O'Rourke @ ss:	2 0 1 4 3 1
+DeGroff @ lf:	4 0 0 1 0 0
+Gido @ rf:	4 0 0 0 0 0 
+Briger @ c:	4 0 2 5 2 0
+Noonan @ 1b:	4 0 0 12 0 0
+McGinley @ p:	3 0 1 0 4 0
+*Phillips @ ph:	1 0 0 0 0 0
+TOTALS:		33 0 7 26 15 2
+
+*: batted for McGinley in 9th
+
+line: Troy:         0 1 1 0 0 0 0 0 0 - 2
+line: Wilkes-Barre: 0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Troy #5; Wilkes-Barre #2
+B_2B: Briger; Burke
+B_SB: Cook; O'Rourke
+B_SH: Cook
+B_HP: O'Rourke
+B_XO: Bruggy, hit by batted ball
+P_BB: Parsons #2; McGinley #1
+P_SO: Parsons #6; McGinley #4
+P_HP: Parsons
+F_DP: Brown, Noonan; Burke, Murray, Noonan
+T: 1:30
+U: McBride

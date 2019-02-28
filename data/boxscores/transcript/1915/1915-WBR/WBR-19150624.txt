@@ -1,0 +1,44 @@
+date: 1915-06-26
+number: 0
+league: New York State
+away: Wilkes-Barre
+home: Troy
+source: Wilkes-Barre Record, June 28, 1915
+
+Wilkes-Barre:	ab r h po a e
+Baxter @ ss:	3 2 1 2 2 0
+Burke @ 3b:	4 0 0 0 3 0
+Brown @ rf:	5 1 1 4 0 0
+O'Rourke @ 2b:	4 0 1 1 4 1
+DeGroff @ lf:	4 0 1 2 1 0
+Giddo @ 1b:	4 0 1 2 1 0
+Hoffman @ cf:	4 0 2 2 0 0
+Briger @ c:	2 0 1 1 2 0
+McGinley @ p:	4 0 1 0 0 0
+TOTALS:		34 4 8 24 12 1
+
+Troy:		ab r h po a e
+Gough @ rf:	4 0 1 1 0 0 
+Cook @ 2b:	4 0 1 1 4 0
+Reed @ 3b:	3 2 1 1 4 1
+Bruggy @ c:	3 0 1 7 2 0
+Meara @ lf:	2 1 1 1 0 0
+Breckenridge @ cf:	3 0 0 0 0 0
+Kelleher @ 1b:	3 0 0 6 0 3
+Tamsett @ ss:	4 1 2 0 4 0
+Buckels @ p:	4 1 2 0 2 0
+TOTALS:		30 5 9 27 15 4
+
+line: Wilkes-Barre: 1 0 0 0 2 0 0 1 0 - 4
+line: Troy:         0 0 1 0 0 1 1 2 x - 5
+
+B_LOB: Wilkes-Barre #12; Troy #7
+B_2B: Buckels
+B_3B: DeGroff; Buckels
+B_SB: Meara
+B_SH: Meara; Bruggy; Burke; Breckenridge; Briger #2; Hoffman
+P_BB: Buckels #5; McGinley #3 
+P_SO: Buckels #5; McGinley #1
+F_PB: Bruggy
+T: 1:40
+U: O'Connor; McBride

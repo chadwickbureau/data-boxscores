@@ -1,0 +1,93 @@
+date: 1915-07-03
+number: 1
+league: New York State
+away: Scranton
+home: Wilkes-Barre
+source: Wilkes-Barre Record, July 5, 1915
+
+Scranton:	ab r h po a e
+Murray @ 2b:	3 0 0 5 5 0
+Hartman @ ss:	4 0 2 2 2 0 
+Corcoran @ lf:	3 0 0 0 0 0
+Cruikshank @ cf:	4 0 0 0 0 0
+Maisel @ 3b:	4 0 0 0 1 0
+Strait @ lf:	3 0 0 1 0 0
+Slattery @ 1b:	2 0 1 10 0 0
+Miller @ c:	3 0 0 6 1 0
+Higgins @ p:	3 0 1 0 3 0
+TOTALS:		29 0 4 24 12 0
+
+Wilkes-Barre:	ab r h po a e
+Baxter @ ss:	3 0 0 1 2 2 
+Burke @ 3b:	4 0 1 1 1 0
+Brown @ rf:	3 0 0 1 0 0
+O'Rourke @ 2b:	3 1 1 5 3 0
+DeGroff @ lf:	3 1 2 4 0 0
+Gido @ 1b:	2 0 1 7 2 0
+Hoffman @ cf:	3 0 1 6 0 0
+Briger @ c:	3 0 1 1 0 0
+Meehan @ p:	3 0 1 1 3 0
+TOTALS:		27 2 8 27 11 2
+
+line: Scranton:     0 0 0 0 0 0 0 0 0 - 0
+line: Wilkes-Barre: 0 1 0 0 0 0 0 1 x - 2
+
+B_LOB: Scranton #6; Wilkes-Barre #4
+B_ROE: Scranton #2
+B_HR: O'Rourke
+B_SB: Cruikshank; Hoffman
+B_SH: Corcoran; Baxter; Slattery
+P_BB: Higgins #2; Meehan #2
+P_SO: Higgins #6; Meehan #5
+P_WP: Meehan
+F_DP: Murray, Slattery #2; Burke, O'Rourke, Gido
+T: 1:45
+U: Kuhn; Pender
+
+---
+
+date: 1915-07-03
+number: 2
+league: New York State
+away: Scranton
+home: Wilkes-Barre
+source: Wilkes-Barre Record, July 5, 1915
+
+Scranton:	ab r h po a e
+Murray @ 2b:	3 1 0 4 3 0
+Hartman @ ss:	3 2 1 2 2 0
+Corcoran @ lf:	4 0 2 0 0 1
+Strait @ lf:	3 1 1 3 0 0
+Maisel @ 3b:	3 0 0 0 1 0
+Cruikshank @ cf:	3 0 1 2 0 1
+Slattery @ 1b:	2 0 0 6 0 0
+Miller @ c:	2 0 0 4 1 0
+Hall @ p:	3 0 0 0 2 0
+TOTALS:		26 4 5 21 9 2
+
+Wilkes-Barre:	ab r h po a e
+Baxter @ ss:	4 0 1 1 0 1 
+Burke @ 3b:	2 0 0 2 1 1
+Brown @ rf:	3 0 1 2 0 0
+O'Rourke @ 2b:	3 0 0 3 1 0
+DeGroff @ lf:	3 0 0 0 0 1
+Gido @ 1b:	3 0 0 7 0 0
+Hoffman @ cf:	0 2 0 2 0 0
+Briger @ c:	2 0 1 4 2 0
+Myers @ p:	3 0 0 0 4 1
+TOTALS:		22 2 3 21 8 4
+
+line: Scranton:     3 0 0 1 0 0 0 - 4
+line: Wilkes-Barre: 0 0 0 0 1 0 1 - 2
+
+B_LOB: Scranton #6; Wilkes-Barre #5
+B_ROE: Scranton #4; Wilkes-Barre #2
+B_SB: DeGroff
+B_SH: Hartman; Maisel
+B_HP: Hoffman
+P_BB: Myers #4; Hall #5
+P_SO: Hall #4; Myers #3
+P_HP: Hall
+F_DP: Murray, Slattery; Hartman, Murray, Slattery
+T: 1:15
+U: Pender; Kuhn
