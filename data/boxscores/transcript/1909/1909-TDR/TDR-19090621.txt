@@ -1,0 +1,133 @@
+date: 1909-06-21
+number: 0
+league: Central Kansas
+away: Clay Center
+home: Minneapolis
+source: The Dispatch-Republican Jun 22, 1909
+
+Clay Center:		ab r h po a e
+Allingham @ c:		2 0 0 1 0 0
+Gramly @ 2b-1b:		3 0 0 7 1 0
+Myers @ cf:			3 0 1 1 0 0
+Parks @ lf:			3 0 1 2 0 0
+Strong @ 1b-c:		3 0 1 11 0 1
+Forsberg @ rf-p:	3 0 0 0 1 0
+Stewart @ 3b:		3 0 0 1 2 0
+Strohm @ ss:		3 0 0 0 7 0
+Witt @ p-rf:		3 0 0 0 2 0
+Lord @ ?:			2 0 1 1 0 0
+TOTALS:				28 0 4 24 13 1
+
+Minneapolis:		ab r h po a e
+Garrison @ cf:		4 0 1 1 0 0
+Young @ 1b:			4 1 2 5 0 0
+Jennigs @ ss:		4 0 0 1 2 0
+Thrailkill @ 3b:	2 1 0 4 2 0
+Abbott @ c:			4 0 0 10 2 0
+Osborn @ 2b:		4 1 2 3 1 0
+House @ rf:			3 1 3 1 0 0
+Williams @ lf:		3 0 1 1 0 0
+Miller @ p:			3 0 0 1 1 0
+TOTALS:				31 4 9 25 8 0
+
+line: Clay Center: 0 0 0 0 0 0 0 0 0 - 0
+line: Minneapolis: 0 0 0 0 0 0 3 1 0 - 4
+
+B_LOB: Clay Center #0; Minneapolis #4
+B_ROE: 
+B_ER: Minneapolis #2
+B_2B: House
+B_3B: 
+B_HR: 
+B_SB: Young; Thrailkill; House
+B_SH: 
+B_SF: 
+B_HP: Thrailkill
+B_XO: 
+P_BB: Forsberg #1
+P_SO: Miller #10; Forsberg #1
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Stewart, Gramly, Strong; Miller, Young; Gramly
+F_PB: 
+outsatend: 
+T: 1:00
+U: Hamlin
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-06-22
+number: 0
+league: Central Kansas
+away: Minneapolis
+home: Clay Center
+source: The Daily-Republican Jun 23, 1909
+
+Minneapolis:		ab r h po a e
+Garrison @ cf:		3 1 1 0 0 0
+Young @ 1b:			4 1 0 8 1 0
+Jennings @ ss:		4 0 3 5 2 0
+Thrailkill @ 3b:	4 0 1 0 1 0
+Abbott @ c:			4 1 2 10 1 0
+Osborn @ 2b:		3 0 1 2 1 0
+House @ rf:			4 0 0 0 0 1
+William @ lf:		3 0 1 1 0 0
+Bemaree @ p:		0 0 0 0 1 0
+Ormsby @ p:			3 0 1 1 2 0
+TOTALS:				32 3 10 27 9 7
+
+Clay Center:		ab r h po a e
+Allingham @ c:		3 0 0 5 0 0
+Gramly @ 2b:		4 0 1 2 2 0
+Myers @ cf:			4 0 0 0 0 0
+Sparks @ lf:		3 1 0 2 0 0
+Strong @ 1b:		1 0 0 8 1 0
+Day @ rf:			3 0 0 0 0 0
+Stewart @ 3b:		4 0 0 1 3 1
+Strohm @ ss:		3 0 0 2 1 1
+Stokesberry @ p:	3 0 0 3 3 1
+TOTALS:				28 1 1 23 10 3
+
+line: Minneapolis: 0 1 2 0 0 0 0 0 0 - 3
+line: Clay Center: 1 0 0 0 0 0 0 0 0 - 1
+
+B_LOB: Minneapolis #6; Clay Center #7
+B_ROE: Minneapolis #1; Clay Center #1
+B_ER: Minneapolis #1
+B_2B: Gramly
+B_3B: 
+B_HR: 
+B_SB: Allingham; Young
+B_SH: Osborn
+B_SF: 
+B_HP: Strohm
+B_XO: 
+P_BB: Bemaree #3; Ormsby #3; Stokesberry #1
+P_SO: Stokesberry #3; Bemaree #1; Osborn #1; Ormsby #6
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Stokesberry, Stewart
+F_TP: Stokesberry, Strong, Gramly
+F_PB: Allingham #2
+outsatend: 
+T: 1:30
+U: Hamlin
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+

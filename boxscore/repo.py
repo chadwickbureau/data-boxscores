@@ -10,7 +10,7 @@ import click
 
 from . import config
 
-def do_store(source, filenames):
+def do_store(source, filenames, overwrite):
     try:
         year, paper = source.split("-")
     except ValueError:
@@ -21,8 +21,9 @@ def do_store(source, filenames):
     path.mkdir(exist_ok=True, parents=True)
 
     for fn in filenames:
-        if (path/pathlib.Path(fn).name).exists():
-            click.secho("Target file already exists", fg='red')
+        target = path/pathlib.Path(fn).name
+        if target.exists() and not overwrite:
+            click.secho("Target file %s already exists" % target, fg='red')
             sys.exit(1)
         shutil.copy(fn, str(path))
     

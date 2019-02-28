@@ -1,0 +1,40 @@
+league.year,league.name,league.phase,person.ref,person.name.last,person.name.given,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G
+1909,Central Kansas League,regular,P7053874,Armin,,Beloit,1909-06-21,1909-06-26,3,0,0,0,3,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P5358621,Armstrong,,Ellsworth,1909-06-26,1909-06-26,1,0,1,0,0,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P0277531,Bond,,Manhattan,1909-06-21,1909-06-22,2,0,0,0,2,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P1775469,Brinker,,Ellsworth,1909-06-26,1909-06-26,1,0,0,1,0,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P5156688,Brooks,,Ellsworth,1909-06-26,1909-06-26,1,0,0,0,1,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P0567217,Calvert,,Ellsworth,1909-06-26,1909-06-26,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Central Kansas League,regular,P6292355,Coe,F.,Manhattan,1909-06-22,1909-06-22,1,0,0,0,0,0,0,0,0,0,1,0
+1909,Central Kansas League,regular,P9833708,Coe,O.,Manhattan,1909-06-21,1909-06-21,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Central Kansas League,regular,P6673420,Culver,,Beloit,1909-06-21,1909-06-21,1,0,0,0,0,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P3891754,Darrow,,Beloit,1909-06-21,1909-06-22,2,0,0,0,0,0,2,0,0,2,0,0
+1909,Central Kansas League,regular,P5944192,Ebright,,Beloit,1909-06-21,1909-06-22,2,0,0,2,0,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P0877821,Farmer,,Ellsworth,1909-06-26,1909-06-26,1,0,0,0,0,0,1,1,0,0,0,0
+1909,Central Kansas League,regular,P7922726,Foe,F.,Manhattan,1909-06-21,1909-06-21,1,0,0,0,0,0,0,0,0,0,1,0
+1909,Central Kansas League,regular,P5790882,Gibbs,,Beloit,1909-06-26,1909-06-26,1,0,0,1,0,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P5240236,Green,,Beloit,1909-06-26,1909-06-26,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Central Kansas League,regular,P3730481,Greene,,Beloit,1909-06-22,1909-06-22,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Central Kansas League,regular,P2631616,Griffin,,Beloit,1909-06-21,1909-06-26,3,0,0,0,0,0,3,2,1,0,0,0
+1909,Central Kansas League,regular,P3740801,Gundlach,,Beloit,1909-06-21,1909-06-26,3,0,3,0,0,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P1092183,Horrill,,Beloit,1909-06-26,1909-06-26,1,0,1,0,0,0,1,1,0,0,0,0
+1909,Central Kansas League,regular,P2051525,Howard,,Ellsworth,1909-06-26,1909-06-26,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Central Kansas League,regular,P1885798,Howell,,Beloit,1909-06-21,1909-06-26,3,0,0,0,0,0,3,0,3,0,0,0
+1909,Central Kansas League,regular,P0667194,Johnson,,Beloit,1909-06-21,1909-06-26,2,0,0,0,0,2,0,0,0,0,0,0
+1909,Central Kansas League,regular,P9233509,Johnson [Bel],,Beloit,1909-06-22,1909-06-22,1,0,0,0,0,1,0,0,0,0,0,0
+1909,Central Kansas League,regular,P4075019,Johnson [Man],,Manhattan,1909-06-22,1909-06-22,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Central Kansas League,regular,P9600770,Koehler,,Manhattan,1909-06-21,1909-06-22,2,0,0,0,0,0,2,2,0,0,0,0
+1909,Central Kansas League,regular,P0145272,Leach,,Beloit,1909-06-21,1909-06-21,1,0,0,0,0,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P4674724,Lewis,,Ellsworth,1909-06-26,1909-06-26,1,0,0,0,0,0,1,0,0,1,0,0
+1909,Central Kansas League,regular,P6978182,Martin,,Beloit,1909-06-26,1909-06-26,1,0,0,0,0,0,0,0,0,0,1,0
+1909,Central Kansas League,regular,P5694469,McKee,,Ellsworth,1909-06-26,1909-06-26,1,0,0,0,0,1,0,0,0,0,0,0
+1909,Central Kansas League,regular,P1844690,Mead,,Beloit,1909-06-21,1909-06-26,3,0,0,0,0,0,1,0,0,1,2,0
+1909,Central Kansas League,regular,P3571594,Mitchell,,Manhattan,1909-06-22,1909-06-22,1,0,0,0,0,0,1,0,0,1,0,0
+1909,Central Kansas League,regular,P1935512,Mitchell [Bel],,Beloit,1909-06-21,1909-06-21,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Central Kansas League,regular,P5956830,Mitchell [Man],,Manhattan,1909-06-21,1909-06-21,1,0,0,0,0,0,1,0,0,1,0,0
+1909,Central Kansas League,regular,P8415019,Price,,Manhattan,1909-06-21,1909-06-22,2,0,0,2,0,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P8817024,Shull,,Manhattan,1909-06-21,1909-06-22,2,0,0,0,0,2,0,0,0,0,0,0
+1909,Central Kansas League,regular,P2052998,Sommers,,Ellsworth,1909-06-26,1909-06-26,1,0,0,0,0,0,0,0,0,0,1,0
+1909,Central Kansas League,regular,P5923778,Stewart,,Manhattan,1909-06-21,1909-06-22,2,0,0,0,0,0,2,0,2,0,0,0
+1909,Central Kansas League,regular,P4127489,White,,Ellsworth,1909-06-26,1909-06-26,1,0,0,0,0,0,1,0,1,0,0,0
+1909,Central Kansas League,regular,P4945076,Wilson,,Manhattan,1909-06-21,1909-06-22,2,0,2,0,0,0,0,0,0,0,0,0

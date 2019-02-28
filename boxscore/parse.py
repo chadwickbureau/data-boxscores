@@ -336,6 +336,7 @@ class Game(object):
         # "DI" is used sporadically in Winnipeg paper in 1915 - assuming it is RBI
         categorymap = {"ab": "B_AB", "r": "B_R", "h": "B_H",
                        "di": "B_RBI", "rbi": "B_RBI",
+                       "sh": "B_SH", "sb": "B_SB",
                        "po": "F_PO", "a": "F_A", "e": "F_E"}
         try:
             columns = [categorymap[c]

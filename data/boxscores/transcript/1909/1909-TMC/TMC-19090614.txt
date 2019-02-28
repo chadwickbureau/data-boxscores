@@ -1,0 +1,408 @@
+date: 1909-06-14
+number: 0
+league: Central Kansas
+away: Salina
+home: Manhattan
+source: The Morning Chronicle Jun 15, 1909
+A: 2000
+
+Salina:			ab r h po a e sb sh
+Krepps @ lf:	5 2 1 1 0 0 0 0
+Quigley @ 2b:	5 1 2 0 2 1 0 0
+Strong @ cf:	4 0 1 2 0 0 0 0
+Horril @ 1b:	4 0 1 12 0 0 0 0
+Hefner @ 3b:	5 0 1 1 1 1 0 0
+Leonard @ rf:	3 0 0 1 0 0 0 0
+Misse @ ss:		2 1 0 0 2 0 0 0
+Lederer @ c:	3 1 1 10 2 1 0 0
+Williford @ p:	4 0 0 0 12 0 0 0
+TOTALS:			35 5 7 27 19 3 0 0
+
+Manhattan:		ab r h po a e sb sh
+Stewart @ cf:	4 0 0 4 0 0 0 0
+Coe @ c:		2 0 0 8 0 1 1 0
+Johnson @ rf:	3 0 1 1 0 0 0 0
+Wilson @ 1b:	3 0 0 8 2 0 0 0
+Koehler @ lf:	4 0 0 1 0 1 0 0
+Price @ ss:		4 0 0 1 4 0 0 0
+Faulkner @ 2b:	4 0 0 2 0 0 0 0
+Hyde @ 3b:		3 0 0 2 2 0 0 0
+Fisher @ p:		0 0 0 0 2 1 0 0
+Bryant @ p:		3 0 0 0 8 0 0 0
+TOTALS:			30 0 1 27 18 3 0 0
+
+line: Salina: 2 3 0 0 0 0 0 0 0 - 5
+line: Manhattan: 0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Salina #7; Manhattan #4
+B_ROE: Salina #2; Manhattan #2
+B_ER: 
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: Strong; Lederer
+B_XO: 
+P_BB: Fisher #1; Williford #4; Bryant #3
+P_SO: Williford #12; Bryant #7
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: Williford; Fisher; Bryant
+P_BK: 
+F_DP: 
+F_PB: Lederer
+outsatend: 
+T: 1:30
+U: Brumage
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-06-15
+number: 0
+league: Central Kansas
+away: Salina
+home: Manhattan
+source: The Morning Chronicle Jun 16, 1909
+
+Salina:			ab r h po a e sh
+Krepps @ lf:	4 1 0 3 0 0 0
+Quigley @ 2b:	3 0 1 4 2 0 1
+Grubbs @ 3b:	4 0 0 1 2 0 0
+Horril @ 1b:	4 0 1 8 0 0 0
+Masters @ c:	4 0 1 7 2 0 0
+Leonard @ rf:	4 0 1 1 0 0 0
+Misse @ ss:		4 1 1 1 4 0 0
+Morris @ cf:	2 0 0 2 0 0 0
+Furey @ p:		4 0 1 0 8 0 0
+TOTALS:			33 2 6 27 18 0 1
+
+Manhattan:		ab r h po a e sh
+Stewart @ cf:	4 0 1 2 0 0 0
+Coe @ c:		4 0 0 9 0 0 0
+Wilson @ 1b:	3 0 1 8 2 0 0 
+Koehler @ lf:	3 0 1 1 0 0 0
+Price @ 2b:		3 0 0 2 3 0 0
+Hyde @ 3b:		3 0 0 2 1 1 0
+Mitchell @ rf:	3 0 0 1 0 0 0
+Johnson @ p:	3 0 0 0 10 0 0
+Michael @ ss:	2 0 1 2 1 2 0
+*Bryant @ ph:	1 0 0 x x x x
+TOTALS:			29 0 4 27 17 3 0
+
+*: batted for Koehler in 9th
+
+line: Salina: 1 0 0 0 1 0 0 0 0 - 2
+line: Manhattan: 0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Salina #5; Manhattan #4
+B_ROE: Salina #2
+B_ER: 
+B_2B: Michael
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: Morris
+B_XO: 
+P_BB: Furey #2
+P_SO: Johnson #7; Furey #6
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: Furey
+P_BK: 
+F_DP: Michael, Price, Wilson; Wilson, Hyde
+F_PB: 
+outsatend: 
+T: 1:30
+U: Gramley
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-06-16
+number: 0
+league: Central Kansas
+away: Ellsworth
+home: Manhattan
+source: The Morning Chronicle Jun 17, 1909
+A: 600
+
+Ellsworth:		ab r h po a e sb sh
+White @ cf:		4 1 2 1 1 0 0 0
+Davis @ rf:		5 1 1 1 0 0 0 0
+Brinker @ 2b:	2 0 0 0 1 1 0 0
+Brooks @ ss:	3 1 1 0 5 0 0 0 
+McKee @ ss:		1 0 0 0 0 0 0 0
+Lewis @ lf:		4 0 1 1 0 0 0 1
+Farmer @ 3b:	4 1 0 1 3 1 0 1
+Armstrong @ 1b:	5 2 2 18 0 1 0 0
+Somners @ c:	3 2 1 5 0 1 1 0
+Woods @ p:		4 1 1 0 11 1 0 1
+TOTALS:			37 9 9 27 21 5 1 3
+
+Manhattan:		ab r h po a e sb sh
+Stewart @ cf:	5 1 1 0 0 0 0 0
+Coe [C] @ c:		4 1 0 6 1 1 0 0
+Wilson @ 1b:	4 0 0 17 0 1 0 0
+Johnson @ lf:	4 0 1 1 1 1 0 0
+Michaels @ ss:	4 1 1 1 1 2 0 0
+Price @ 2b:		4 2 2 2 2 0 0 0
+Mitchell @ rf:	3 0 0 0 0 0 0 1
+Hyde @ 3b:		3 0 0 0 4 1 0 1
+Coe [P] @ p:		1 0 0 0 7 2 0 1
+Bryant @ p:		2 0 1 0 3 0 0 0
+TOTALS:			34 5 6 27 19 8 0 3
+
+line: Ellsworth: 0 0 0 0 2 1 6 0 0 - 9
+line: Manhattan: 0 0 0 0 2 0 0 2 1 - 5
+
+B_LOB: Ellsworth #8; Manhattan #4
+B_ROE: Ellsworth #5; Manhattan #5
+B_ER: Ellsworth #1; Manhattan #2
+B_2B: Price; Johnson; Brooks; Armstrong
+B_3B: 
+B_HR: White
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Coe [P] #5; Bryant #2; Woods #0
+P_SO: Coe [P] #4; Bryant #1; Woods #5
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: Coe [P]; Woods
+P_BK: 
+F_DP: 
+F_PB: Wilson
+outsatend: 
+T: 1:55
+U: Brummage
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-06-17
+number: 0
+league: Central Kansas
+away: Ellsworth
+home: Manhattan
+source: The Morning Chronicle Jun 18, 1909
+
+Ellsworth:		ab r h po a e sb sh
+White @ cf:		4 1 2 0 1 0 0 0 
+Davis @ rf:		4 0 1 2 0 0 0 1
+Brinker @ 2b:	3 2 0 1 1 1 0 0
+McKee @ ss:		5 3 2 2 2 0 1 0
+Lewis @ lf:		2 2 1 1 1 0 0 1
+Brooks @ 3b:	2 0 0 1 2 0 0 0
+Farmer @ 3b:	2 0 0 0 0 0 0 1
+Armstrong @ 1b:	5 1 2 9 0 0 0 0
+Siegle @ c:		5 1 1 7 0 1 0 0
+Howard @ p:		3 1 2 1 8 0 0 1
+TOTALS:			35 11 11 27 15 2 1 4
+
+Manhattan:		ab r h po a e sb sh
+Stewart @ cf:	4 0 0 6 0 0 0 0
+Coe @ c:		3 0 1 1 2 0 0 0
+Wilson @ 1b:	4 0 0 12 2 0 0 0
+Johnson @ lf:	3 0 0 1 0 0 0 0
+Price @ 2b:		3 0 0 2 1 0 0 0
+Michaels @ ss:	3 0 1 2 1 1 1 0
+Hyde @ 3b:		3 0 0 1 5 4 0 0
+Mitchell @ rf:	3 0 0 1 0 0 0 0
+Le Frappe @ p:	1 0 0 0 2 0 0 0
+Bryant @ p:		2 0 0 1 3 0 x x
+TOTALS:			29 0 2 27 16 5 1 0
+
+line: Ellsworth: 3 0 1 0 3 3 1 0 0 - 11
+line: Manhattan: 0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Ellsworth #6; Manhattan #3
+B_ROE: Ellsworth #4; Manhattan #2
+B_ER: Ellsworth #4
+B_2B: McKee; White
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: ??Brummage; Coe
+B_XO: 
+P_BB: Le Frappe #4; Bryant #1
+P_SO: Howard #7
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:40
+U: Seigler; Brumage
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-06-18
+number: 0
+league: Central Kansas
+away: Manhattan
+home: Minneapolis
+source: The Morning Chronicle Jun 19, 1909
+A: 600
+
+Manhattan:		ab r h po a e sh
+Coe @ c:		5 0 2 4 2 0 0
+Stewart @ cf:	5 0 1 1 0 0 0
+Cave @ ss:		4 1 0 0 4 0 0
+Wilson @ 1b:	3 0 1 10 0 0 0
+Koehler @ lf:	4 0 0 0 0 0 0
+Price @ 2b:		4 1 2 8 2 0 0
+Mitchell @ rf:	4 0 2 1 0 0 0 
+Johnson @ p:	2 1 0 0 3 0 1
+Shull @ 3b:		4 0 0 0 4 1 0
+TOTALS:			33 3 8 24 16 1 1
+
+Minneapolis:		ab r h po a e sh
+Garrison @ cf:		4 0 1 2 0 0 0
+Young @ 1b:			2 1 0 9 0 0 1
+Jennings @ ss:		4 1 2 1 4 0 0
+Thrailkill @ 3b:	3 0 1 2 2 0 1
+Abbott @ c:			2 0 1 10 0 0 1
+Brown @ rf:			4 1 1 0 0 0 0
+House @ lf:			4 1 1 1 0 1 0
+Burke @ 2b:			3 0 1 1 3 0 1
+Osborne @ p:		2 0 1 1 1 2 0
+TOTALS:				28 4 9 27 10 3 4
+
+line: Manhattan: 0 0 0 0 0 1 0 0 2 - 3
+line: Minneapolis: 0 0 0 0 0 2 1 1 x - 4
+
+B_LOB: Manhattan #8; Minneapolis #7
+B_ROE: Manhattan #1; Minneapolis #1
+B_ER: Minneapolis #2
+B_2B: Stewart; Jennings; Coe
+B_3B: 
+B_HR: 
+B_SB: Brown
+B_SH: 
+B_SF: 
+B_HP: Abbott
+B_XO: 
+P_BB: Johnson #3; Osborne #2
+P_SO: Johnson #3; Osborne #9
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: Osborne
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:30
+U: Hamlin
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-06-19
+number: 0
+league: Central Kansas
+away: Manhattan
+home: Minneapolis
+source: The Morning Chronicle Jun 22, 1909
+A: 500
+
+Manhattan:		ab r h po a e sb sh
+Coe @ c:		5 0 1 7 1 1 0 0
+Stewart @ cf:	4 3 3 4 0 0 1 0
+Cave @ ss:		3 1 2 0 3 4 0 1
+Wilson @ 1b:	5 2 2 7 1 0 0 x
+Koehler @ lf:	5 1 1 3 0 0 0 0
+Price @ 2b:		5 1 1 3 1 0 0 0
+Mitchell @ rf:	4 1 1 0 0 0 0 1
+Bryant @ p:		2 0 0 0 0 0 0 0
+Shull @ 3b:		5 1 2 3 3 2 1 0
+Stack @ p:		1 1 1 0 1 0 0 1
+TOTALS:			39 11 14 27 10 8 2 3
+
+Minneapolis:		ab r h po a e sb sh
+Garrison @ cf:		3 0 0 1 1 0 0 0
+Burke @ cf:			3 1 0 1 0 0 0 0
+Young @ 1b:			5 2 2 15 0 1 0 0
+Jennings @ ss:		5 3 2 2 0 0 1 x
+Thrailkill @ 3b:	4 2 2 2 4 0 2 1
+Osborne @ 2b:		5 0 2 1 7 1 0 0
+House @ rf:			5 0 3 0 0 0 1 0
+Williams,S. @ lf:	4 0 1 1 0 0 0 0
+Martin @ c:			5 0 1 3 0 0 0 0
+Williams,A. @ p:	2 0 0 1 3 0 0 0
+Huseman @ p:		3 0 0 0 2 1 0 0
+TOTALS:				44 8 13 27 17 3 4 1
+
+line: Manhattan: 2 0 0 2 3 0 0 4 0 - 11
+line: Minneapolis: 3 0 2 2 0 0 0 1 0 - 8
+
+B_LOB: Manhattan #8; Minneapolis #11
+B_ROE: Manhattan #2; Minneapolis #7
+B_ER: Manhattan #8
+B_2B: Young; Jennings; Price; House; Shull
+B_3B: Mitchell
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: S. Williams; Coe; Stack
+B_XO: 
+P_BB: A. Williams #2
+P_SO: Bryant #4; Stack #3; A. Williams #1; Huseman #1
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: Coe
+outsatend: 
+T: 1:50
+U: Hamlin
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 

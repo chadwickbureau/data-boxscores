@@ -1,0 +1,8 @@
+key,date,number,league,phase,site,away,away.score,away.manager,home,home.score,home.manager,A,T,forfeit.to,status,status.reason,outsatend,filename,source,away.score.1,away.score.2,away.score.3,away.score.4,away.score.5,away.score.6,away.score.7,away.score.8,away.score.9,away.score.10,home.score.1,home.score.2,home.score.3,home.score.4,home.score.5,home.score.6,home.score.7,home.score.8,home.score.9,home.score.10
+DNTNFWP,1909-06-14,0,Central Kansas,regular,,Beloit,5,,Abilene,0,,,1:35,,,,,1909/1909-ADC/ADC-19090614.txt,"Abilene Daily Chronicle Jun 15, 1909",2,0,1,0,0,1,0,0,1,,0,0,0,0,0,0,0,0,0,
+XPKFHMH,1909-06-15,0,Central Kansas,regular,,Beloit,1,,Abilene,1,,,1:55,,called after 9 innings,darkness,,1909/1909-ADC/ADC-19090614.txt,"Abilene Daily Chronicle Jun 16, 1909",,,,,,,,,,,,,,,,,,,,
+NJMSKFK,1909-06-16,0,Central Kansas,regular,,Minneapolis,5,,Abilene,3,,,2:10,,,,,1909/1909-ADC/ADC-19090614.txt,"Abilene Daily Chronicle Jun 17, 1909",0,2,0,0,0,0,0,1,2,,0,0,0,0,0,0,0,3,0,
+RVLLSQT,1909-06-17,0,Central Kansas,regular,,Minneapolis,4,,Abilene,1,,,,,,,,1909/1909-ADC/ADC-19090614.txt,"Abilene Daily Chronicle Jun 18, 1909",0,0,0,3,0,0,1,0,0,,0,0,0,0,0,1,0,0,0,
+XWQPHCB,1909-06-19,0,Central Kansas,regular,,Abilene,3,,Ellsworth,5,,,,,,,,1909/1909-ADC/ADC-19090614.txt,"Abilene Daily Chronicle Jun 21, 1909",0,0,0,0,0,3,0,0,0,,0,0,4,0,0,1,0,0,0,
+VLHSTQF,1909-06-23,0,Central Kansas,regular,,Clay Center,1,,Abilene,3,,,1:35,,,,,1909/1909-ADC/ADC-19090621.txt,"Abilene Daily Chronicle Jun 24, 1909",1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,3,x,
+DXNFXXG,1909-06-24,0,Central Kansas,regular,,Clay Center,2,,Abilene,3,,,1:45,,,,,1909/1909-ADC/ADC-19090621.txt,"Abilene Daily Chronicle Jun 25, 1909",0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,1

@@ -1,0 +1,69 @@
+league.year,league.name,league.phase,person.ref,person.name.last,person.name.given,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G
+1909,Central Kansas League,regular,P6681394,Abbott,,Minneapolis,1909-06-18,1909-06-18,1,0,0,0,0,0,0,0,0,0,1,0
+1909,Central Kansas League,regular,P5381080,Armstrong,,Ellsworth,1909-06-16,1909-06-17,2,0,2,0,0,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P4601833,Bates,,Junction City,1909-06-26,1909-06-26,1,0,0,0,0,1,0,0,0,0,0,0
+1909,Central Kansas League,regular,P0501494,Bond,,Manhattan,1909-06-26,1909-06-26,1,0,0,0,1,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P0333800,Brinker,,Ellsworth,1909-06-16,1909-06-17,2,0,0,2,0,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P9052395,Brooks,,Ellsworth,1909-06-16,1909-06-17,2,0,0,0,1,1,0,0,0,0,0,0
+1909,Central Kansas League,regular,P3147070,Brown,,Minneapolis,1909-06-18,1909-06-18,1,0,0,0,0,0,1,0,0,1,0,0
+1909,Central Kansas League,regular,P1518179,Bryant,,Manhattan,1909-06-14,1909-06-19,5,4,0,0,0,0,0,0,0,0,0,4
+1909,Central Kansas League,regular,P4575919,Burke,,Minneapolis,1909-06-18,1909-06-19,2,0,0,1,0,0,1,0,1,0,0,0
+1909,Central Kansas League,regular,P5276826,Campbell,,Junction City,1909-06-26,1909-06-26,1,0,1,0,0,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P9678546,Cave,,Manhattan,1909-06-18,1909-06-19,2,0,0,0,0,2,0,0,0,0,0,0
+1909,Central Kansas League,regular,P4627338,Coe,,Manhattan,1909-06-14,1909-06-19,5,0,0,0,0,0,0,0,0,0,5,0
+1909,Central Kansas League,regular,P4424677,Coe [C],,Manhattan,1909-06-16,1909-06-26,2,0,0,0,0,0,0,0,0,0,2,0
+1909,Central Kansas League,regular,P3229170,Coe [P],,Manhattan,1909-06-16,1909-06-26,2,2,0,0,0,0,0,0,0,0,0,2
+1909,Central Kansas League,regular,P6724018,Davis,,Ellsworth,1909-06-16,1909-06-17,2,0,0,0,0,0,2,0,0,2,0,0
+1909,Central Kansas League,regular,P3329976,Dehaney,,Junction City,1909-06-26,1909-06-26,1,0,0,0,0,0,1,0,0,1,0,0
+1909,Central Kansas League,regular,P3232729,Doherty,,Junction City,1909-06-26,1909-06-26,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Central Kansas League,regular,P4849449,Dugan,,Junction City,1909-06-26,1909-06-26,1,0,0,0,0,0,1,1,0,0,0,0
+1909,Central Kansas League,regular,P0222532,Edwards,,Junction City,1909-06-26,1909-06-26,1,0,0,0,0,0,0,0,0,0,1,0
+1909,Central Kansas League,regular,P4773528,Farmer,,Ellsworth,1909-06-16,1909-06-17,2,0,0,0,2,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P2592043,Faulkner,,Manhattan,1909-06-14,1909-06-14,1,0,0,1,0,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P9835924,Fisher,,Manhattan,1909-06-14,1909-06-14,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Central Kansas League,regular,P0384890,Furey,,Salina,1909-06-15,1909-06-15,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Central Kansas League,regular,P9307131,Garrison,,Minneapolis,1909-06-18,1909-06-19,2,0,0,0,0,0,2,0,2,0,0,0
+1909,Central Kansas League,regular,P6758498,Gill,,Junction City,1909-06-26,1909-06-26,1,0,0,0,0,0,1,0,0,1,0,0
+1909,Central Kansas League,regular,P0198964,Grubbs,,Salina,1909-06-15,1909-06-15,1,0,0,0,1,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P1756935,Hefner,,Salina,1909-06-14,1909-06-14,1,0,0,0,1,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P3284511,Horril,,Salina,1909-06-14,1909-06-15,2,0,2,0,0,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P4530074,House,,Minneapolis,1909-06-18,1909-06-19,2,0,0,0,0,0,2,1,0,1,0,0
+1909,Central Kansas League,regular,P5947232,Howard,,Ellsworth,1909-06-17,1909-06-17,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Central Kansas League,regular,P5054951,Huseman,,Minneapolis,1909-06-19,1909-06-19,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Central Kansas League,regular,P3151005,Hyde,,Manhattan,1909-06-14,1909-06-17,4,0,0,0,4,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P4069042,Jennings,,Minneapolis,1909-06-18,1909-06-19,2,0,0,0,0,2,0,0,0,0,0,0
+1909,Central Kansas League,regular,P6168306,Johnson,,Manhattan,1909-06-14,1909-06-26,6,3,0,0,0,0,3,2,0,1,0,3
+1909,Central Kansas League,regular,P8159101,Koehler,,Manhattan,1909-06-14,1909-06-26,5,0,0,0,0,0,5,5,0,0,0,0
+1909,Central Kansas League,regular,P9914372,Krepps,,Salina,1909-06-14,1909-06-15,2,0,0,0,0,0,2,2,0,0,0,0
+1909,Central Kansas League,regular,P0781634,Le Frappe,,Manhattan,1909-06-17,1909-06-17,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Central Kansas League,regular,P7358482,Lederer,,Salina,1909-06-14,1909-06-14,1,0,0,0,0,0,0,0,0,0,1,0
+1909,Central Kansas League,regular,P0808788,Leonard,,Salina,1909-06-14,1909-06-15,2,0,0,0,0,0,2,0,0,2,0,0
+1909,Central Kansas League,regular,P2065503,Lewis,,Ellsworth,1909-06-16,1909-06-17,2,0,0,0,0,0,2,2,0,0,0,0
+1909,Central Kansas League,regular,P2324421,Martin,,Junction City,1909-06-26,1909-06-26,1,0,0,0,1,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P9219713,Martin,,Minneapolis,1909-06-19,1909-06-19,1,0,0,0,0,0,0,0,0,0,1,0
+1909,Central Kansas League,regular,P2048622,Masters,,Salina,1909-06-15,1909-06-15,1,0,0,0,0,0,0,0,0,0,1,0
+1909,Central Kansas League,regular,P9252527,McDill,,Junction City,1909-06-26,1909-06-26,1,0,0,1,0,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P3085248,McKee,,Ellsworth,1909-06-16,1909-06-17,2,0,0,0,0,2,0,0,0,0,0,0
+1909,Central Kansas League,regular,P7215302,Michael,,Manhattan,1909-06-15,1909-06-15,1,0,0,0,0,1,0,0,0,0,0,0
+1909,Central Kansas League,regular,P5564441,Michaels,,Manhattan,1909-06-16,1909-06-17,2,0,0,0,0,2,0,0,0,0,0,0
+1909,Central Kansas League,regular,P1084784,Misse,,Salina,1909-06-14,1909-06-15,2,0,0,0,0,2,0,0,0,0,0,0
+1909,Central Kansas League,regular,P5996517,Mitchell,,Manhattan,1909-06-15,1909-06-26,6,0,0,0,0,0,6,0,0,6,0,0
+1909,Central Kansas League,regular,P6130763,Morris,,Salina,1909-06-15,1909-06-15,1,0,0,0,0,0,1,0,1,0,0,0
+1909,Central Kansas League,regular,P6706926,Osborne,,Minneapolis,1909-06-18,1909-06-19,2,1,0,1,0,0,0,0,0,0,0,1
+1909,Central Kansas League,regular,P5805798,Price,,Manhattan,1909-06-14,1909-06-26,7,0,0,6,0,1,0,0,0,0,0,0
+1909,Central Kansas League,regular,P7649967,Quigley,,Salina,1909-06-14,1909-06-15,2,0,0,2,0,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P6207803,Shull,,Manhattan,1909-06-18,1909-06-26,3,0,0,0,2,1,0,0,0,0,0,0
+1909,Central Kansas League,regular,P5595188,Siegle,,Ellsworth,1909-06-17,1909-06-17,1,0,0,0,0,0,0,0,0,0,1,0
+1909,Central Kansas League,regular,P1233858,Somners,,Ellsworth,1909-06-16,1909-06-16,1,0,0,0,0,0,0,0,0,0,1,0
+1909,Central Kansas League,regular,P3012425,Stack,,Manhattan,1909-06-19,1909-06-26,2,1,0,0,0,0,0,0,0,0,0,1
+1909,Central Kansas League,regular,P4482109,Stewart,,Manhattan,1909-06-14,1909-06-26,7,0,0,0,0,0,7,0,7,0,0,0
+1909,Central Kansas League,regular,P4875372,Strong,,Salina,1909-06-14,1909-06-14,1,0,0,0,0,0,1,0,1,0,0,0
+1909,Central Kansas League,regular,P9377606,Thrailkill,,Minneapolis,1909-06-18,1909-06-19,2,0,0,0,2,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P3687961,Whelan,,Junction City,1909-06-26,1909-06-26,1,0,0,0,0,0,1,0,1,0,0,0
+1909,Central Kansas League,regular,P1518268,White,,Ellsworth,1909-06-16,1909-06-17,2,0,0,0,0,0,2,0,2,0,0,0
+1909,Central Kansas League,regular,P2076903,Williams,A.,Minneapolis,1909-06-19,1909-06-19,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Central Kansas League,regular,P5143737,Williams,S.,Minneapolis,1909-06-19,1909-06-19,1,0,0,0,0,0,1,1,0,0,0,0
+1909,Central Kansas League,regular,P4158779,Williford,,Salina,1909-06-14,1909-06-14,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Central Kansas League,regular,P8840783,Wilson,,Manhattan,1909-06-14,1909-06-26,7,0,7,0,0,0,0,0,0,0,0,0
+1909,Central Kansas League,regular,P1314311,Woods,,Ellsworth,1909-06-16,1909-06-16,1,1,0,0,0,0,0,0,0,0,0,1
+1909,Central Kansas League,regular,P9444296,Young,,Minneapolis,1909-06-18,1909-06-19,2,0,2,0,0,0,0,0,0,0,0,0

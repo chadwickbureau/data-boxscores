@@ -19,8 +19,9 @@ def do_parse(source, warn_duplicates, warn_marked):
 @cli.command("store")
 @click.argument("source")
 @click.argument("filenames", nargs=-1)
-def do_store(source, filenames):
-    repo.do_store(source, filenames)
+@click.option("--overwrite/--no-overwrite", default=False)
+def do_store(source, filenames, overwrite):
+    repo.do_store(source, filenames, overwrite)
 
 @cli.command("edit")
 @click.argument("source")

@@ -1,0 +1,57 @@
+date: 1909-06-19
+number: 0
+league: Central Kansas
+away: Manhattan
+home: Minneapolis
+source: Manhattan Mercury Jun 24, 1909
+A: 500
+
+Manhattan:		ab r h po a e
+Price @ ?:		x x x x x x
+Bryant @ p:		x x x x x x
+Stack @ p:		x x x x x x
+Coe @ c:		x x x x x x
+Shull @ ?:		x x x x x x
+TOTALS:			x x x x x x
+
+Minneapolis:		ab r h po a e
+Young @ ?:			x x x x x x
+Jennings @ ?:		x x x x x x
+House @ ?:			x x x x x x
+Williams,S. @ ?:	x x x x x x
+Huseman @ p:		x x x x x x
+Martin @ c:			x x x x x x
+TOTALS:				x x x x x x
+
+line: Manhattan: 2 0 0 2 3 0 0 4 0 - 11
+line: Minneapolis: 3 0 2 2 0 0 0 1 0 - 8
+
+B_LOB: Manhattan #8; Minneapolis #11
+B_ROE: Manhattan #2; Minneapolis #7
+B_ER: Manhattan #8
+B_2B: Young; Jennings; Price; House; Shull
+B_3B: Mitchell
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: S. Williams; Coe; Stack
+B_XO: 
+P_BB: S. Williams #2
+P_SO: Bryant #4; Stack #3; S. Williams #1; Huseman #1
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: Coe
+outsatend: 
+T: 1:50
+U: Hamlin
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
