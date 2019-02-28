@@ -1,0 +1,46 @@
+date: 1915-06-05
+number: 0
+league: New York State
+away: Utica 
+home: Scranton
+source: Scranton Republican, June 7, 1915
+
+Utica:		ab r h po a e
+Kroy @ rf:	3 0 0 2 0 0
+Evans @ 3b:	4 0 0 2 1 0
+Reichle @ cf:	4 0 2 1 0 0
+Wagner @ lf:	4 0 0 1 0 0
+Cranston @ 2b:	4 0 2 1 4 0
+Walsh @ 1b:	4 0 2 9 2 0
+O'Neill @ ss:	4 0 0 3 1 2
+McDonough @ c:	2 0 1 5 0 0
+Oberlin @ p:	3 0 1 0 2 0
+TOTALS:		32 0 8 24 11 2
+
+Scranton:	ab r h po a e
+Cruikschank @ cf:	4 0 0 2 0 0
+Hartman @ ss:	4 2 2 2 2 0
+Mullin @ 2b:	3 0 0 5 4 0
+Slattery @ 1b:	3 2 2 9 1 0
+Corcoran @ lf:	4 0 2 3 0 0
+Strait @ rf:	3 0 0 0 0 0
+Maisel @ 3b:	2 0 0 1 1 0
+Miller @ c:	3 0 0 5 2 0
+Higgins @ p:	3 0 0 0 2 0
+TOTALS:		29 4 6 27 10 0
+
+line: Utica:    0 0 0 0 0 0 0 0 0 - 0
+line: Scranton: 2 0 0 0 0 0 0 2 x - 4
+
+B_LOB: Utica #6; Scranton #5
+B_ER: Scranton #2
+B_2B: Reichle; Hartman; Corcoran
+B_3B: Reichle; Walsh; Slattery
+B_SB: Maisel #2; Slattery #2
+B_SH: Mullin; Maisel
+P_BB: Oberlin #1; Higgins #2
+P_SO: Oberlin #3; Higgins #1
+F_DP: Miller, Mullin; Oberlin, Walsh, Evans
+T: 1:30
+U: Dougherty; Pender
+

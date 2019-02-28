@@ -1,0 +1,49 @@
+date: 1915-06-26
+number: 0
+league: New York State
+away: Scranton
+home: Albany
+source: Scranton Republican, June 28, 1915
+
+Scranton:	ab r h po a e
+Murray @ 2b:	5 0 1 1 3 1
+Hartman @ ss:	3 0 1 1 4 0
+Corcoran @ rf:	3 1 0 0 0 0
+Cruikshank @ cf:	3 0 1 1 0 0 
+Maisel @ 3b:	3 0 1 0 1 0
+Strait @ lf:	4 0 0 4 1 0
+Miller @ c:	4 0 2 2 1 0
+Slattery @ 1b:	4 0 0 15 1 0
+Winters @ p:	2 0 0 0 5 0
+*Duchesnil @ ph:	1 0 0 0 0 0
+TOTALS:		32 1 6 24 16 1
+
+Albany:		ab r h po a e
+Brackett @ cf:	4 0 0 1 0 0
+O'Rourke @ 2b:	3 1 0 2 4 0
+Meyers @ rf:	4 1 2 0 0 0
+Durgin @ 1b:	3 1 2 10 0 0
+Oakes @ lf:	3 1 2 0 0 0
+Gillespie @ 3b:	2 0 0 0 4 0
+Turner @ ss:	2 0 1 2 4 0
+Clougher @ c:	2 0 0 4 0 0
+Gerner @ p:	3 0 0 0 4 0
+TOTALS:		26 4 7 27 16 0
+
+*: Batted for Winters in 9th
+
+line: Scranton: 0 0 0 0 0 1 0 0 0 - 1
+line: Albany:   0 2 0 0 0 1 0 1 x - 4
+
+B_LOB: Scranton #9; Albany #5
+B_ER:  Albany #3
+B_3B: Miller; Oakes
+B_SB: Durgin; Maisel
+B_SH: Hartman; Gillespie; Clougher; Durgin
+B_SF: Oakes
+B_HP: Cruikshank; Maisel
+P_BB: Gerner #2; Winters #3
+P_SO: Gerner #3; Winters #1
+P_HP: Gerner #2
+T: 1:30
+U: Dougherty
