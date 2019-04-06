@@ -1,0 +1,942 @@
+date: 1915-05-13
+number: 0
+league: Virginia
+away: Rocky Mount
+home: Suffolk
+source: Richmond Times-Dispatch, May 14, 1915
+A: 700
+
+Rocky Mount:	ab r h po a e
+Bittle @ lf:	3 0 0 2 0 0	
+Doyle @ 2b:	3 1 1 2 1 0
+Goosetree @ 1b:	3 0 1 9 0 0
+Gray @ rf:	4 0 4 2 2 0
+Eisel @ cf:	4 0 2 1 0 0 
+Parmalee @ 3b:	4 0 0 1 1 0
+Daubert @ ss:	4 0 2 1 1 0
+Ryan @ c:	3 0 0 8 2 0
+Pope @ p:	3 1 0 0 4 0
+TOTALS:		31 2 10 27 11 0
+
+Suffolk:	ab r h po a e
+Moran @ lf:	4 0 1 3 1 0
+Henry @ 1b:	2 0 0 7 0 0
+Goalby @ 2b:	3 0 0 5 0 0
+Hummel @ ss:	3 0 0 1 2 2
+Irmscher @ 3b:	2 0 1 3 3 0
+Allen @ rf:	4 0 1 2 0 0
+Cook @ cf:	4 0 2 4 1 0
+Welcher @ c:	2 0 0 2 3 0
+Efird @ p:	3 0 0 0 5 0
+TOTALS:		27 0 5 27 15 2 
+
+line: Rocky Mount: 1 0 0 0 0 0 0 1 0 - 2
+line: Suffolk:     0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Suffolk #7; Rocky Mount #7
+B_2B: Goosetree; Daubert; Cook
+B_SB: Welcher
+B_SH: Henry; Irmscher
+P_SO: Pope #8; Efird #1
+P_H: Pope #5; Efird #8
+T: 1:30
+U: McGowan
+
+---
+
+date: 1915-05-13
+number: 0
+league: Virginia
+away: Portsmouth
+home: Newport News
+source: Richmond Times-Dispatch, May 14, 1915
+
+Portsmouth:	ab r h po a e
+Fish @ c:	2 0 0 7 1 0
+Damrau @ 3b:	3 0 0 3 2 1
+Hurley @ 1b:	4 0 0 9 1 0
+St. Martin @ rf:	2 1 0 0 0 0
+Whitted @ cf:	4 0 1 2 0 0
+Teague @ 2b:	3 0 1 1 1 0
+Hopkins @ lf:	3 0 1 1 0 0
+Zeimer @ ss:	3 0 0 0 2 1
+Welsher @ p:	3 0 0 1 4 1
+TOTALS:		27 1 3 24 11 3
+
+Newport News:	ab r h po a e
+Berger @ lf:	4 1 0 0 0 0
+Bunting @ 2b:	4 1 1 2 4 0
+Crist @ ss:	3 0 0 3 1 0
+Smith @ rf:	3 0 0 2 0 0
+Walker @ cf:	4 1 1 3 0 0
+Walters @ 3b:	4 1 3 0 2 0
+Carnes @ 1b:	4 1 0 7 0 0
+Hasson @ c:	3 0 0 10 2 0
+Voltz @ p:	3 1 1 0 0 0
+TOTALS:		32 6 6 27 9 0
+
+line: Portsmouth:   0 0 0 0 0 0 1 0 0 - 1
+line: Newport News: 0 0 0 0 4 0 0 2 x - 6
+
+B_LOB: Newport News #3; Portsmouth #6
+B_ROE: Newport News #3
+B_2B: Hopkins; Walker
+B_HR: Walters
+B_SB: Smith; Walters
+P_BB: Voltz #7; Welsher #2
+P_SO: Voltz #11; Welsher #5
+F_DP: Walters, Bunting, Carnes; Crist, Bunting, Carnes
+T: 1:55
+U: Rossback; Bussey
+
+---
+
+date: 1915-05-13
+number: 0
+league: Virginia
+away: Petersburg
+home: Norfolk 
+source: Richmond Times-Dispatch, May 14, 1915
+
+Petersburg:	ab r h po a e
+Calder @ 3b:	5 0 2 1 0 1
+Simmons @ cf:	4 0 2 1 0 0
+Busch @ ss:	4 0 1 1 2 0
+(~4.1)Spencer @ rf:	2 1 0 1 0 0
+(~4.2)Donovan @ rf:	1 0 0 0 0 0
+Barnett @ 1b:	3 0 2 11 1 1
+Blackstone @ lf:	4 0 1 1 0 0
+Agnew @ 2b:	3 0 0 1 3 0
+Tee @ c:	4 0 0 7 0 0
+Kaufman @ p:	0 0 0 0 0 0
+Rice @ p:	4 1 2 0 2 0
+TOTALS:		34 2 10 24 8 2
+
+Norfolk:	ab r h po a e
+Cleveland @ 3b:	3 0 0 1 1 0	
+Steinbrenner @ 2b:	4 0 1 1 0 0
+Thrasher @ cf:	4 1 2 2 0 0
+Stewart, B. @ rf:	4 1 1 2 1 0
+McMahon @ ss:	4 1 2 2 1 0
+Foiles @ 1b:	3 0 1 8 0 0
+Clunk @ lf:	2 0 0 3 0 0
+Stewart, M. @ c:	4 0 0 8 3 0
+Weller @ p:	3 0 1 0 2 0
+Humphreys @ p:	0 0 0 0 2 0
+TOTALS:		32 3 8 27 10 0
+
+line: Petersburg: 0 0 0 1 0 0 1 0 0 - 2
+line: Norfolk:    3 0 0 0 0 0 0 0 x - 3
+
+B_LOB: Petersburg #10; Norfolk #8
+B_ROE: Petersburg #1; Norfolk #2
+B_2B: McMahon #2
+B_3B: Simmons
+B_SB: Busch; Spencer; Thrasher #2; Cleveland
+B_SH: Foiles
+P_H: Kaufman #7; Rice #1; Weller #7; Humphreys #3
+P_IP: Kaufman #1.1; Rice #6.2; Weller #7; Humphreys #2 
+F_DP: Busch, Agnew, Barnett; B. Stewart, M. Stewart; Humphreys, M. Stewart, Foiles
+T: 1:50
+U: Ryan
+
+P_GS: ~Kaufman; ~Weller
+P_GF: ~Rice; ~Humphreys
+P_W: ~Weller
+P_L: ~Kaufman
+P_SV: ~Humphreys
+P_R: ~Kaufman #3; ~Weller #2
+
+---
+
+date: 1915-05-14
+number: 0
+league: Virginia
+away: Portsmouth
+home: Newport News
+source: Richmond Times-Dispatch, May 15, 1915
+
+Portsmouth:	ab r h po a e
+Fish @ c:	4 0 0 6 1 1
+Damrau @ 3b:	4 1 2 1 3 0
+Hurley @ 1b:	4 0 0 11 1 1
+St. Martin @ rf:	4 2 2 2 0 0
+Whitted @ cf:	2 1 1 1 0 0
+Teaguer @ 2b:	2 0 0 5 2 0
+Hopkins @ lf:	4 0 2 1 0 0
+Zeimer @ ss:	3 0 0 0 7 0
+McCleary @ p:	3 0 0 0 0 0
+TOTALS:		30 4 7 27 14 2
+
+Newport News:	ab r h po a e
+Berger @ lf:	4 0 0 6 0 0
+Bunting @ 2b:	4 0 0 1 1 0
+Crist @ ss:	4 0 0 0 8 0
+Smith @ rf:	4 1 1 1 0 0
+Walker @ cf:	4 1 3 0 0 0
+Walters @ 3b:	4 0 1 2 2 0
+Carnes @ 1b:	4 0 1 15 1 0
+Hasson @ c:	3 0 1 2 0 0
+Mullin @ p:	2 0 1 0 6 1
+TOTALS:		33 2 8 27 18 1
+
+line: Portsmouth:   0 1 0 0 0 2 0 0 0 - 4
+line: Newport News: 0 0 0 2 0 0 0 0 0 - 2
+
+B_LOB: Newport News #7; Portsmouth #2
+B_ROE: Newport News #1; Portsmouth #1
+B_2B: St. Martin; Hasson; Hopkins; Whitted; Mullin
+B_SB: Bunting; Smith; Walker #2
+B_SH: Mullin; Whitted #2; Teaguer #2; McCleary
+P_BB: Mullin #2
+P_SO: Mullin #1; McCleary #5
+F_DP: Damrau, Teaguer, Hurley
+T: 1:40
+U: Bussey; Rossback
+
+---
+
+date: 1915-05-14
+number: 0
+league: Virginia
+away: Rocky Mount
+home: Suffolk
+source: Richmond Times-Dispatch, May 15, 1915
+A: 1,500
+
+Rocky Mount:	ab r h po a e
+Bittle @ lf:	3 0 0 3 0 0 	
+Doyle @ 2b:	3 1 1 1 1 0
+Goosetree @ 1b:	4 1 1 9 1 1
+Gray @ rf:	4 0 1 2 0 0
+Eisel @ cf:	4 0 1 0 0 0 
+Parmalee @ 3b:	3 0 0 2 2 0
+Daubert @ ss:	3 0 0 1 4 0
+Ulrich @ c:	3 0 1 5 1 0
+O'Brien @ p:	3 0 0 0 2 0
+Burge @ p:	0 0 0 1 0 0
+TOTALS:		30 2 5 24 11 1
+
+Suffolk:	ab r h po a e
+Moran @ lf:	2 0 0 3 0 0
+Henry @ 1b:	4 1 2 10 0 0
+Goalby @ 2b:	4 2 3 2 1 0
+Hummel @ ss:	4 2 2 1 3 0
+Irmscher @ 3b:	4 0 2 1 7 0
+Allen @ rf:	4 0 2 3 0 0
+Cook @ cf:	4 0 0 3 0 1
+Welcher @ c:	4 0 1 4 2 0
+Graham @ p:	3 0 0 0 2 0
+TOTALS:		33 6 12 27 15 1
+
+line: Rocky Mount: 0 0 0 0 0 2 0 0 0 - 2
+line: Suffolk:     1 0 0 0 0 2 0 3 x - 6
+
+B_LOB: Suffolk #5; Rocky Mount #3
+B_2B: Gray; Irmscher
+B_HR: Henry
+B_SB: Doyle
+P_BB: Graham #2
+P_SO: O'Brien #4; Graham #4
+P_H: O'Brien #11; Burge #1
+P_IP: O'Brien #7; Burge #1
+F_DP: Goosetree, Parmalee, Burge; Daubert, Doyle, Goosetree
+F_PB: Ulrich
+T: 1:35
+U: McGowan
+
+P_GS: ~O'Brien
+P_GF: ~Burge
+P_L: ~O'Brien
+P_R: ~O'Brien #6
+
+---
+
+date: 1915-05-14
+number: 0
+league: Virginia
+away: Petersburg
+home: Norfolk 
+source: Richmond Times-Dispatch, May 15, 1915
+
+Petersburg:	ab r h po a e
+Calder @ 3b:	5 0 0 1 0 1
+Simmons @ cf:	5 2 0 1 0 0
+Busch @ ss:	3 1 2 3 4 0
+Spencer @ rf:	3 1 2 2 1 0
+Barnett @ 1b:	4 1 1 10 0 0
+Blackstone @ lf:	4 1 2 1 0 0
+Agnew @ 2b:	4 0 0 3 2 0
+Francisco @ c:	2 1 0 3 2 0
+Richmond @ p:	4 0 0 3 3 0
+TOTALS:		34 7 7 27 12 1
+
+Norfolk:	ab r h po a e
+Cleveland @ 3b:	4 1 0 0 4 1	
+Steinbrenner @ 2b:	3 0 1 0 2 2 
+Thrasher @ cf:	4 0 2 0 0 0
+Stewart, B. @ rf:	4 0 0 2 0 0
+McMahon @ ss:	3 0 0 5 2 0
+Foiles @ 1b:	3 0 1 14 0 0
+Clunk @ lf:	2 0 0 0 0 0
+Stewart, M. @ c:	2 0 0 5 2 1
+Tignor @ c:	1 0 0 1 0 0
+(~9.1)Cochran @ p:	1 0 0 0 0 0
+(~9.3)Baumgardner @ p:	1 0 0 0 2 0
+(~9.2)*Mace @ ph:	1 0 0 0 0 0
+TOTALS:		29 1 4 27 12 4
+
+*: batted for Cochran in 6th
+
+line: Petersburg: 0 0 1 0 0 5 1 0 0 - 7
+line: Norfolk:    0 0 0 0 0 0 0 0 1 - 1
+
+B_LOB: Petersburg #5; Norfolk #3
+B_2B: Spencer; Thrasher
+B_SB: Simmons; Steinbrenner
+B_SH: Busch; Spencer
+B_HP: Busch
+P_BB: Richmond #2; Cochran #2
+P_SO: Richmond #3; Cochran #5; Baumgardner #1
+P_H: Cochran #6; Baumgardner #1
+P_IP: Cochran #6; Baumgardner #3
+P_HP: Cochran
+P_WP: Cochran
+F_DP: Spencer, Barnett
+T: 1:45
+U: Ryan
+
+P_GS: ~Cochran
+P_GF: ~Baumgardner
+P_L: ~Cochran
+P_R: ~Cochran #6; ~Baumgardner #1
+
+---
+
+date: 1915-05-15
+number: 0
+league: Virginia
+away: Rocky Mount
+home: Suffolk
+source: Richmond Times-Dispatch, May 16, 1915
+A: 1,200
+
+Rocky Mount:	ab r h po a e
+Bittle @ lf:	4 0 0 2 0 0	
+Doyle @ 2b:	4 0 0 2 2 0
+Goosetree @ 1b:	4 1 1 7 0 0
+Gray @ rf:	3 1 2 2 0 0
+Eisel @ cf:	5 0 2 3 0 0
+Parmalee @ 3b:	5 0 0 2 1 0
+Daubert @ ss:	5 2 4 1 1 0
+Ulrich @ c:	5 0 2 8 1 0
+Teague @ p:	4 0 1 0 3 0
+Applegate @ p:	0 0 0 0 0 0
+TOTALS:		39 4 12 26 8 0
+
+Suffolk:	ab r h po a e
+Moran @ lf:	4 0 0 0 0 0 
+Henry @ 1b:	4 0 1 17 0 0
+Goalby @ 2b:	2 0 0 1 0 1
+Hummel @ ss:	4 0 0 0 1 0
+Irmscher @ 3b:	4 1 1 4 3 0
+Allen @ rf:	4 1 1 1 0 0
+Cook @ cf:	3 2 2 1 1 0
+Welcher @ c:	3 1 1 3 0 0
+Poole @ p:	3 0 1 3 0 0 
+TOTALS:		31 5 7 27 15 1
+
+line: Rocky Mount: 1 0 0 1 0 0 0 1 1 - 4
+line: Suffolk:     0 2 0 0 0 0 0 0 3 - 5
+
+B_LOB: Suffolk #5; Rocky Mount #13
+B_2B: Goosetree; Eisel; Daubert; Cook
+B_3B: Cook
+B_HR: Daubert
+B_SB: Daubert; Irmscher; Welcher
+B_SH: Doyle; Goalby
+P_BB: Teague #3; Poole #2
+P_SO: Teague #4; Poole #3; Applegate #1
+P_H: Teague #5; Applegate #2
+P_IP: Teague #8.1; Applegate #.2
+P_HP: Teague
+F_PB: Ulrich #2
+outsatend: #2
+T: 1:50
+U: McGowan
+
+P_GS: ~Teague
+P_GF: ~Applegate
+P_L: ~Applegate
+P_R: ~Teague #4; Applegate #1
+
+---
+
+date: 1915-05-15
+number: 0
+league: Virginia
+away: Portsmouth
+home: Newport News
+source: Richmond Times-Dispatch, May 16, 1915
+
+Portsmouth:	ab r h po a e
+Taguer @ 2b:	5 1 2 4 2 0
+Hopkins @ lf:	4 1 2 2 1 0
+Hurley @ 1b:	5 1 2 10 1 0
+St. Martin @ rf:	5 0 0 3 1 0
+Whitted @ cf:	3 1 1 0 0 0
+Damrau @ 3b:	2 0 0 2 1 0
+Zeimer @ ss:	4 1 3 3 5 2
+Milliman @ c:	4 1 1 2 2 0
+McKeithan @ p:	1 0 0 0 1 0
+Schaefer @ p:	2 0 0 1 6 0
+TOTALS:		35 6 11 27 20 2
+
+Newport News:	ab r h po a e
+Smith @ rf:	4 0 2 1 0 0
+Bunting @ 2b:	5 0 1 2 2 0
+Crist @ ss:	4 1 0 2 1 0
+Walker @ cf:	3 0 1 4 0 0
+Berger @ lf:	4 1 2 2 0 0
+(~6.1)Walters @ 3b:	2 1 1 2 1 1
+(~6.2)Seiglie @ 3b:	1 0 0 0 0 0
+Carnes @ 1b:	3 1 1 4 1 0
+Hasson @ c:	3 0 0 10 3 1
+Voltz @ p:	4 0 0 0 1 0
+TOTALS:		33 4 9 27 9 2
+
+line: Portsmouth:   0 4 0 0 0 0 0 0 2 - 6
+line: Newport News: 0 2 1 0 0 0 0 1 0 - 4
+
+B_LOB: Newport News #4; Portsmouth #6
+B_ROE: Newport News #1 
+B_2B: Taguer; Smith
+B_3B: Zeimer
+B_HR: Hurley
+B_SB: Smith; Bunting; Berger #3; Hopkins #3; Hurley; Whitted
+B_SH: Damrau; Crist; Hasson
+P_BB: Voltz #4; McKeithan #2; Schaefer #2
+P_SO: McKeithan #1; Schaefer #1; Voltz #12
+P_H: McKeithan #5; Schaefer #5
+P_IP: McKeithan #2.1; Schaefer #6.2
+F_DP: Zeimer, Taguer, Hurley; St. Martin, Milliman; Bunting, Crist, Carnes
+T: 2:23
+U: Rossback; Bussey
+
+P_GS: ~McKeithan
+P_GF: ~Schaefer
+P_W: ~Schaefer
+P_R: ~McKeithan #3; ~Schaefer #1
+
+---
+
+date: 1915-05-15
+number: 0
+league: Virginia
+away: Petersburg
+home: Norfolk 
+source: Richmond Times-Dispatch, May 16, 1915
+
+Petersburg:	ab r h po a e
+Calder @ 3b:	4 0 0 1 1 1
+Simmons @ cf:	4 1 2 0 0 0
+Busch @ ss:	4 0 3 2 4 1
+Spencer @ rf:	4 0 0 1 0 0
+Barnett @ 1b:	4 0 0 12 0 0
+Blackstone @ lf:	3 0 2 1 0 0
+(~7.1)Agnew @ 2b:	2 0 1 4 7 0
+(~8.1)Francisco @ c:	2 0 0 2 4 2
+(~8.3)Tee @ c:	0 0 0 1 2 0
+Hersch @ p:	3 0 1 0 2 1
+(~8.2)*Donovan @ ph:	1 0 0 0 0 0	
+(~7.2)+Rice @ ph:	1 0 0 0 0 0
+TOTALS:		32 1 9 24 20 5
+
+Norfolk:	ab r h po a e
+Cleveland @ 3b:	3 2 0 1 1 0	
+Steinbrenner @ 2b:	3 2 1 1 1 0 
+Thrasher @ cf:	3 1 2 0 1 0
+Stewart, B. @ rf:	4 0 0 0 1 0
+McMahon @ ss:	4 0 1 3 1 0
+Foiles @ 1b:	2 0 1 9 1 2
+Clunk @ lf:	3 0 0 1 0 0
+Mace @ c:	3 0 0 11 3 0
+Humphreys @ p:	2 0 0 1 5 0
+TOTALS:		27 5 5 27 14 2
+
+*: batted for Francisco in 7th 
++: batted for Agnew in 9th
+
+line: Petersburg: 1 0 0 0 0 0 0 0 0 - 1
+line: Norfolk:    2 0 0 0 2 0 0 1 x - 5
+
+B_LOB: Petersburg #6; Norfolk #2
+B_2B: Busch; Foiles
+B_HR: Thrasher
+B_SB: McMahon; Steinbrenner; Cleveland
+B_SH: Spencer; Agnew; Steinbrenner; Thrasher
+P_BB: Hersch #3; Humphreys #1
+P_SO: Hersch #2; Humphreys #11
+P_WP: Hersch
+T: 1:45
+U: Ryan
+
+---
+
+date: 1915-05-17
+number: 0
+league: Virginia
+away: Suffolk 
+home: Rocky Mount
+source: Richmond Times-Dispatch, May 18, 1915
+A: 800
+
+Suffolk:	ab r h po a e
+Moran @ lf:	4 0 0 1 0 0
+Henry @ 1b:	4 0 1 12 0 1
+Goalby @ 2b:	4 0 1 2 2 0
+Hummel @ ss:	4 0 0 0 3 0
+Irmscher @ 3b:	4 0 0 1 1 0
+Allen @ rf:	4 0 0 1 0 0
+Cook @ cf:	2 0 0 3 0 1
+Waite @ c:	3 0 1 4 0 0
+Gaston @ p:	2 0 0 0 1 0
+Jamison @ p:	1 0 0 0 3 0
+TOTALS:		32 0 3 24 10 2
+
+Rocky Mount:	ab r h po a e
+Biddle @ lf:	3 2 3 2 0 0	
+Doyle @ 2b:	3 1 1 0 7 1
+Snyder @ 1b:	3 0 0 13 1 0
+Gray @ rf:	1 2 0 0 0 0 
+Eisel @ cf:	5 1 2 1 0 0
+Parmalee @ 3b:	4 0 1 3 2 0
+Daubert @ ss:	4 0 1 2 1 2
+Ulrich @ c:	4 1 0 4 0 0
+Applegate @ p:	4 0 0 2 3 0
+TOTALS:		31 8 8 27 14 3
+
+line: Suffolk:     0 0 0 0 0 0 0 0 0 - 0
+line: Rocky Mount: 0 1 0 0 3 0 3 1 x - 8
+
+B_LOB: Suffolk #6; Rocky Mount #6
+B_SB: Biddle; Ulrich; Parmalee
+B_SH: Snyder
+P_BB: Applegate #1; Gaston #3; Jamison #5
+P_SO: Applegate #3; Gaston #2; Jamison #1
+P_H: Gaston #5; Jamison #3
+P_IP: Gaston #5; Jamison #3
+T: 1:45
+U: Poole; O'Brien
+
+P_GS: ~Gaston
+P_GF: ~Jamison
+P_L: ~Gaston
+P_R: ~Gaston #4; ~Jamison #4
+
+---
+
+date: 1915-05-17
+number: 0
+league: Virginia
+away: Newport News
+home: Petersburg
+source: Richmond Times-Dispatch, May 18, 1915
+A: 500
+
+Newport News:	ab r h po a e
+Smith @ rf:	4 0 0 0 0 0
+Bunting @ 2b:	4 0 0 1 3 1
+Crist @ ss:	4 1 2 1 2 0
+Walker @ cf:	4 0 1 4 0 0
+Berger @ lf:	3 0 0 2 0 0
+Walters @ 3b:	3 0 0 1 0 0
+Carnes @ 1b:	3 0 1 11 0 0
+Hudgins @ c:	3 0 1 3 1 0
+Munford @ p:	3 0 0 1 4 0
+TOTALS:		31 1 5 24 10 1
+
+Petersburg:	ab r h po a e
+Long @ 3b:	3 0 1 0 1 1
+Simmons @ cf:	4 0 1 1 0 0
+Busch @ ss:	4 1 1 5 5 0
+Spencer @ rf:	3 2 1 1 0 0
+Barnett @ 1b:	3 1 1 13 1 0
+Blackstone @ lf:	4 0 1 0 0 0
+(~7.1)Calder @ 2b:	1 0 1 0 0 0
+(~7.2)Agnew @ 2b:	3 0 0 0 4 0
+Tee @ c:	2 1 1 6 1 0
+Rice @ p:	3 0 1 1 3 0
+TOTALS:		30 6 9 27 15 1
+
+line: Newport News: 0 0 0 1 0 0 0 0 0 - 1
+line: Petersburg:   0 4 0 0 2 0 0 0 x - 6
+
+B_LOB: Petersburg #4; Newport News #6
+B_2B: Barnett; Spencer; Hudgins
+B_SB: Simmons; Spencer
+B_SF: Barnett; Berger
+P_BB: Munford #3
+P_SO: Rice #4; Munford #1
+F_DP: Rice, Busch, Barnett
+F_PB: Hudgins
+T: 1:40
+U: Rossback; Cullen
+
+---
+
+date: 1915-05-17
+number: 0
+league: Virginia
+away: Norfolk 
+home: Portsmouth
+source: Richmond Times-Dispatch, May 18, 1915
+
+Norfolk:	ab r h po a e
+Cleveland @ 3b:	3 0 1 1 3 0	
+Steinbrenner @ 2b:	4 0 0 1 4 0 
+Thrasher @ cf:	4 0 1 0 0 0
+Stewart, B. @ rf:	4 0 1 2 0 0
+McMahon @ ss:	4 0 0 0 6 0
+Foiles @ 1b:	4 0 2 15 0 0
+Stewart, M. @ lf:	4 0 1 1 1 0
+Mace @ c:	3 1 3 4 1 0
+Barton @ p:	3 0 0 0 3 0
+TOTALS:		32 1 9 24 18 0
+
+Portsmouth:	ab r h po a e
+Tague @ 2b:	4 1 3 1 5 0
+Hopkins @ lf:	2 1 1 4 1 0
+Hurley @ 1b:	4 0 0 10 1 0
+St. Martin @ rf:	4 1 2 1 1 0
+Whitted @ cf:	4 1 1 3 0 0
+Damrau @ 3b:	4 1 1 3 2 0
+Zimmer @ ss:	4 1 2 3 2 0
+Fish @ c:	3 0 0 2 2 0
+Welcher @ p:	4 0 2 0 3 0
+TOTALS:		32 6 12 27 17 0
+
+line: Norfolk:    0 0 0 0 1 0 0 0 0 - 1
+line: Portsmouth: 1 0 0 0 0 0 0 5 x - 6
+
+B_LOB: Portsmouth #6; Norfolk #6
+B_3B: Zimmer
+B_HR: Tague; Mace
+B_SB: Whitted; Damrau
+B_SH: Barton
+P_BB: Barton #3; Welcher #1
+P_SO: Barton #3; Welcher #1
+P_WP: Barton
+F_DP: B. Stewart, Foiles; Tague, Zimmer
+T: 1:40
+U: Bussey; McGowan
+
+---
+
+date: 1915-05-18
+number: 0
+league: Virginia
+away: Suffolk 
+home: Rocky Mount
+source: Richmond Times-Dispatch, May 19, 1915
+A: 850
+
+Suffolk:	ab r h po a e
+Moran @ lf:	4 0 0 2 0 0
+Henry @ 1b:	4 0 0 9 0 0 
+Goalby @ 2b:	3 0 0 3 4 0
+Hummel @ ss:	5 0 1 1 2 0
+Irmscher @ 3b:	4 0 2 1 0 0
+Allen @ rf:	4 0 1 3 0 0
+Cook @ cf:	3 0 0 3 0 0
+Welcher @ c:	4 1 2 2 0 0
+Graham @ p:	3 0 0 0 2 0
+Efird @ p:	1 0 0 0 0 0
+TOTALS:		35 1 6 24 8 0
+
+Rocky Mount:	ab r h po a e
+Biddle @ lf:	4 0 1 1 0 0	
+Doyle @ 2b:	4 1 1 2 0 1
+Snyder @ 1b:	4 1 1 9 1 0
+Gray @ rf:	3 1 1 0 0 0
+Eisel @ cf:	4 0 1 1 1 0
+Parmalee @ 3b:	4 0 1 3 2 0
+Daubert @ ss:	2 0 0 4 4 3
+Ulrich @ c:	3 0 1 6 0 1
+Pope @ p:	3 0 2 1 2 0
+TOTALS:		31 3 9 27 10 5
+
+line: Suffolk:     0 0 0 1 0 0 0 0 0 - 1
+line: Rocky Mount: 0 0 0 0 0 3 0 0 x - 3
+
+B_LOB: Suffolk #11; Rocky Mount #6
+B_2B: Pope
+B_HR: Gray
+B_SB: Welcher
+B_SH: Henry; Daubert
+P_BB: Efird #1; Pope #5
+P_SO: Graham #1; Efird #1; Pope #6
+P_H: Graham #9
+P_IP: Graham #7; Efird #1
+F_DP: Hummel, Goalby, Henry
+T: 1:45
+U: McGowan
+
+P_GS: ~Graham
+P_GF: ~Efird
+P_L: ~Graham
+P_R: ~Graham #3
+
+---
+
+date: 1915-05-18
+number: 0
+league: Virginia
+away: Newport News
+home: Petersburg
+source: Richmond Times-Dispatch, May 19, 1915
+A: 500
+
+Newport News:	ab r h po a e
+Berger @ lf:	3 0 0 1 0 0 
+Bunting @ 2b:	3 1 2 0 2 0
+Crist @ ss:	4 0 0 0 3 0
+Smith @ rf:	4 0 1 0 0 0
+Carnes @ 1b:	3 0 0 13 0 1
+Walters @ 3b:	4 0 0 1 1 0
+Walker @ cf:	4 0 0 0 0 0 
+Hudgins @ c:	4 0 0 9 0 0
+Gardinier @ p:	3 0 2 0 4 0
+TOTALS:		32 1 5 24 10 1
+
+Petersburg:	ab r h po a e
+Long @ 3b:	3 0 0 1 3 0
+Simmons @ cf:	4 1 2 2 0 0
+Busch @ ss:	3 1 1 1 5 1
+Spencer @ rf:	4 0 0 3 0 0
+Barnett @ 1b:	3 0 0 10 2 0
+Blackstone @ lf:	3 0 1 2 0 0
+Agnew @ 2b:	3 1 1 3 1 1
+Francisco @ c:	3 0 0 3 1 0
+Richmond @ p:	3 0 0 2 1 0
+TOTALS:		29 3 5 27 13 2
+
+line: Newport News: 1 0 0 0 0 0 0 0 0 - 1
+line: Petersburg:   2 0 0 0 1 0 0 0 x - 3
+
+B_LOB: Petersburg #4; Newport News #7
+B_2B: Simmons
+B_3B: Smith
+B_SB: Bunting #2; Busch
+B_SH: Berger
+P_BB: Richmond #2; Gardinier #2
+P_SO: Richmond #3; Gardinier #7
+T: 1:30
+U: Cullen; Rossback
+
+---
+
+date: 1915-05-18
+number: 0
+league: Virginia
+away: Norfolk 
+home: Portsmouth
+source: Richmond Times-Dispatch, May 19, 1915
+A: 1,000
+
+Norfolk:	ab r h po a e
+Steinbrenner @ 2b:	5 0 1 3 5 0
+Stewart, B. @ rf:	2 0 0 1 0 0
+McMahon @ ss:	4 0 1 0 4 0
+Thrasher @ cf:	4 1 1 4 0 0
+Cleveland @ 3b:	4 3 2 0 2 0
+Foiles @ 1b:	4 2 0 11 0 0
+Stewart, M. @ lf:	3 0 2 1 1 0
+Mace @ c:	3 0 0 7 0 0
+Weller @ p:	3 0 1 0 2 0
+Cochran @ p:	1 0 0 0 0 0
+TOTALS:		33 6 8 27 14 0
+
+Portsmouth:	ab r h po a e
+Tague @ 2b:	5 0 0 3 4 2
+Hopkins @ lf:	4 1 2 1 0 0
+Hurley @ 1b:	4 1 1 8 1 0
+St. Martin @ rf:	4 0 1 3 0 1
+Whitted @ cf:	4 0 0 0 0 0
+Damrau @ 3b:	3 1 0 0 2 0
+Zeimer @ ss:	4 0 1 3 1 0
+Fish @ c:	3 0 2 9 2 1
+McKeithan @ p:	3 0 0 0 1 0
+*Milliman @ ph:	0 0 0 0 0 0
+TOTALS:		34 3 7 27 11 4
+
+*: batted for McKeithan in 9th
+
+line: Norfolk:    0 2 0 2 0 0 0 0 2 - 6
+line: Portsmouth: 0 0 0 0 0 0 1 2 0 - 3
+
+B_LOB: Portsmouth #6; Norfolk #3
+B_2B: Hopkins; Hurley
+B_SB: Steinbrenner; Thrasher; Cleveland #2
+B_SH: B. Stewart; M. Stewart; Mace
+P_BB: Weller #2; Cochran #1; McKeithan #1
+P_SO: Weller #2; Cochran #1; McKeithan #10
+P_H: Weller #7
+T: 1:45
+U: Bressney
+
+P_GS: ~Weller
+P_GF: ~Cochran
+P_W: ~Weller
+P_R: ~Weller #3
+
+---
+
+date: 1915-05-19
+number: 0
+league: Virginia
+away: Newport News
+home: Petersburg
+source: Richmond Times-Dispatch, May 20, 1915
+
+Newport News:	ab r h po a e
+Seiglie @ cf:	3 1 1 1 5 1
+Bunting @ 2b:	3 0 0 3 3 0
+Crist @ ss:	4 0 2 1 0 0
+Smith @ rf:	4 1 1 0 0 0
+Berger @ lf:	3 1 1 3 0 0 
+Walters @ 3b:	4 0 1 1 3 0
+Carnes @ 1b:	4 0 0 12 1 0
+Hasson @ c:	4 0 1 5 2 0
+Hamilton @ p:	3 0 0 1 2 0
+TOTALS:		32 3 7 27 16 1
+
+Petersburg:	ab r h po a e
+Long @ 3b:	4 0 0 0 2 0
+Donovan @ cf:	3 0 1 1 1 0
+Busch @ ss:	4 0 2 4 3 3 
+Spencer @ rf:	4 0 1 2 0 0
+Barnett @ 1b:	4 0 1 11 2 1
+Blackstone @ lf:	4 0 1 0 0 0
+Agnew @ 2b:	2 0 0 4 2 1
+Tee @ c:	4 1 0 5 3 0
+Hirsch @ p:	1 0 0 0 2 0
+*Rice @ ph:	1 0 0 0 0 0
+TOTALS:		31 1 6 27 15 5
+
+*: batted for Hirsch in 9th
+
+line: Newport News: 0 0 0 1 1 0 0 0 1 - 3
+line: Petersburg:   0 0 1 0 0 0 0 0 0 - 1
+
+B_LOB: Petersburg #7; Newport News #5
+B_2B: Spencer; Donovan; Smith
+B_SB: Bunting
+B_SH: Bunting; Berger
+B_HP: Hirsch
+P_BB: Hirsch #1; Hamilton #3
+P_SO: Hirsch #4; Hamilton #4
+P_HP: Hamilton
+F_DP: Agnew, Barnett; Bunting, Hasson
+T: 1:45
+U: Cullem; Rossback
+
+---
+
+date: 1915-05-19
+number: 0
+league: Virginia
+away: Norfolk 
+home: Portsmouth
+source: Richmond Times-Dispatch, May 20, 1915
+A: 1,000
+
+Norfolk:	ab r h po a e
+Steinbrenner @ 2b:	4 1 2 4 8 0
+Stewart, B. @ lf:	3 0 0 2 0 0
+McMahon @ ss:	4 1 2 2 6 0
+Thrasher @ cf:	4 1 1 1 0 0
+Cleveland @ 3b:	4 0 1 1 0 0
+Foiles @ 1b:	4 0 0 13 0 0
+Miller @ rf:	3 0 1 2 0 0
+(~8.1)Mace @ c:	3 0 0 1 0 0
+(~8.2)Stewart, M. @ c:	0 0 0 1 0 0 
+Cochran @ p:	3 0 0 0 1 0
+TOTALS:		32 3 7 27 15 0
+
+Portsmouth:	ab r h po a e
+Tague @ 2b:	4 0 1 0 3 1
+Hopkins @ lf:	4 0 1 2 0 0
+Hurley @ 1b:	4 0 0 15 0 0
+St. Martin @ rf:	4 0 2 0 0 0
+Whitted @ cf:	3 0 0 2 1 0
+Damrau @ 3b:	3 0 0 1 1 0
+Zeimer @ ss:	4 0 1 3 1 0
+Fish @ c:	4 0 1 2 4 0
+Schaefer @ p:	0 0 0 0 0 0
+McCleary @ p:	3 0 1 1 4 0
+TOTALS:		33 0 6 27 16 1
+
+line: Norfolk:    3 0 0 0 0 0 0 0 0 - 3
+line: Portsmouth: 0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Portsmouth #6; Norfolk #3
+B_2B: Thrasher; Miller
+B_SB: McMahon
+B_SH: B. Stewart
+P_BB: Cochran #2
+P_SO: McCleary #3; Cochran #2
+P_H: Schaefer #4; McCleary #3
+T: 1:45
+U: Bussey
+
+P_GS: ~Schaefer
+P_GF: ~McCleary
+P_L: ~Schaefer
+P_R: ~Schaefer #3
+
+---
+
+date: 1915-05-19
+number: 0
+league: Virginia
+away: Suffolk 
+home: Rocky Mount
+source: Richmond Times-Dispatch, May 20, 1915
+A: 700
+note: game called after 5th due to rain
+
+Suffolk:	ab r h po a e
+Goalby @ 2b:	2 1 2 1 2 0
+Moran @ lf:	3 1 1 0 0 0
+Irmscher @ 3b:	2 0 0 0 3 0
+Allen @ rf:	2 0 0 0 0 0
+Hummel @ ss:	2 0 1 2 1 0
+Cook @ cf:	2 0 0 2 0 0
+Welcher @ c:	1 1 0 6 0 0
+Henry @ 1b:	2 0 0 4 1 0 
+Pool @ p:	2 0 0 0 0 0
+TOTALS:		18 3 4 15 7 0
+
+Rocky Mount:	ab r h po a e
+Biddle @ lf:	2 1 2 2 0 0	
+Doyle @ 2b:	3 0 0 0 0 0
+Snyder @ 1b:	2 1 1 4 2 1
+Gray @ rf:	2 0 1 1 0 0
+Eisel @ cf:	2 0 1 0 0 0
+Parmalee @ 3b:	1 0 0 0 1 0
+Daubert @ ss:	2 0 0 4 1 0
+Ryan @ c:	2 0 0 3 1 1 
+O'Brien @ p:	2 0 0 1 2 0
+TOTALS:		18 2 5 15 7 2
+
+line: Suffolk:     2 1 0 0 0 - 3
+line: Rocky Mount: 2 0 0 0 0 - 2
+
+B_LOB: Suffolk #2; Rocky Mount #2
+B_2B: Gray; Snyder
+P_BB: Pool #2; O'Brien #2
+P_SO: Pool #5; O'Brien #3
+F_DP: Henry, Hummel, Henry
+T: :45
+U: McGowan
