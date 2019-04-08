@@ -573,7 +573,7 @@ def compile_umpires(source, umpiring, outpath):
     
 def process_files(source, inpath, outpath):
     fnlist = [fn for fn in sorted(inpath.glob("*.txt"))
-              if fn.name != "README.txt" and fn.name != "notes.txt"]
+              if fn.name.lower() not in ["readme.txt", "notes.txt"]]
     if len(fnlist) == 0:
         print(clr.Fore.RED + ("No files found at '%s'" % inpath) +
               clr.Fore.RESET)
