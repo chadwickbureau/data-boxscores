@@ -1,0 +1,44 @@
+date: 1915-08-23
+number: 0
+league: Blue Ridge
+away: Martinsburg
+home: Chambersburg
+source: Philadelphia Inquirer, August 24, 1915
+
+Martinsburg:	r h po a e
+Long @ 3b:	1 2 1 1 0
+Durborow @ cf:	1 1 0 0 0
+Morris @ 1b:	1 1 13 0 0
+Rawlings @ lf:	1 2 0 0 0
+Johnson @ c:	0 1 5 1 0
+Shipley @ 2b:	0 1 2 6 1
+Hayes @ ss:	1 0 4 5 1
+Westenhaver @ rf:	0 0 1 1 0
+Douglass @ p:	1 1 1 1 1
+TOTALS:		6 9 27 15 3
+
+Chambersburg:	r h po a e
+Keefe @ ss:	0 1 0 4 1
+Moseley @ lf:	0 0 2 0 0
+Snyder @ cf:	1 2 3 1 0
+Dunn @ 2b:	1 2 3 1 0
+Boyle @ 1b:	0 1 11 1 0
+Steinbach @ cf:	0 1 1 0 1
+Stewart @ rf:	0 2 0 0 0
+Myers @ 3b:	0 0 2 2 1
+Moore @ c:	0 0 4 1 0
+Stricker @ p:	0 0 1 0 0
+Lawrence @ p:	1 1 0 3 0
+TOTALS:		3 10 27 13 3
+
+line: Martinsburg:  1 1 0 1 0 1 0 0 2 - 6
+line: Chambersburg: 0 0 0 1 0 0 1 1 0 - 3
+
+B_LOB: Chambersburg #5; Martinsburg #11
+B_ER: Chambersburg #1; Martinsburg #2
+B_2B: Snyder; Lawrence
+B_HR: Long
+P_BB: Stricker #5
+P_SO: Stricker #2; Douglass #4
+T: 1:50
+U: Derr

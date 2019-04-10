@@ -1,0 +1,47 @@
+date: 1915-08-02
+number: 0
+league: Blue Ridge
+away: Chambersburg
+home: Martinsburg 
+source: Philadelphia Inquirer, August 3, 1915
+
+Chambersburg:	r h po a e
+Moseley @ rf:	0 2 3 0 0
+Steinbach @ 1b:	2 2 12 0 0
+Snyder @ cf:	1 1 2 0 0
+Dunn @ 2b:	1 3 1 3 0 
+Snaveley @ lf:	0 0 4 0 0
+Miller @ ss:	0 0 0 2 1
+Moore @ c:	0 0 1 1 0
+Masterson @ 3b:	0 0 1 2 0 
+Kloskie @ p:	0 0 0 0 0
+Stewart @ p:	0 0 0 4 0
+TOTALS:		4 8 24 12 1
+
+Martinsburg:	r h po a e
+Thompson @ 2b:	2 2 2 3 0
+(~2.1)Morris @ rf:	0 0 1 0 0	 
+(~2.2)Durburrow @ rf:	2 1 2 0 1
+(~2.3)Clark @ rf:	0 0 0 0 0
+Long @ 3b:	3 3 0 2 1
+Rawlings @ lf:	2 2 1 0 0
+Donnelly @ cf:	2 2 2 0 1
+Johnson @ c:	1 0 9 2 0
+Shipley @ 1b:	1 0 8 0 0
+Hayes @ ss:	0 0 2 1 0
+Mumford @ p:	0 2 0 1 0
+TOTALS:		13 12 27 9 3
+
+line: Chambersburg: 3 0 0 0 0 0 0 0 1 - 4
+line: Martinsburg:  6 4 0 3 0 0 0 0 x - 13
+
+B_LOB: Martinsburg #5; Chambersburg #9
+B_2B: Long
+B_3B: Donnelly
+B_SB: Moseley; Thompson; Donnelly #2
+B_SF: Johnson #2
+P_BB: Mumford #6; Kloskie #4
+P_SO: Mumford #5; Stewart #1
+F_DP: Mumford, Thompson, Shipley
+T: 1:45
+U: Stradford; Cleary
