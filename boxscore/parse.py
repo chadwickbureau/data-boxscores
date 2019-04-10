@@ -3,10 +3,7 @@ import os
 import glob
 import hashlib
 import warnings
-try:
-    import pathlib
-except ImportError:
-    import pathlib2 as pathlib
+import pathlib
     
 import colorama as clr
 import pandas as pd
