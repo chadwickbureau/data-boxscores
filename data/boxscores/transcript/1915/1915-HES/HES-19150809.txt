@@ -528,8 +528,7 @@ number: 0
 league: Blue Ridge
 away: Hagerstown
 home: Martinsburg
-status: postponed
-status-reason: rain
+status: abandoned, rain
 source: Hanover Evening Sun, August 13, 1915
 note: game called in 5th inning with score tied 3-3
 
@@ -761,7 +760,7 @@ TOTALS:		5 9 36 18 1
 line: Frederick:  0 1 0 2 1 0 0 0 0 0 0 0 - 4
 line: Hagerstown: 0 0 0 0 0 0 3 1 0 0 0 1 - 5
 
-outsatend: #2
+outsatend: 2
 
 ---
 

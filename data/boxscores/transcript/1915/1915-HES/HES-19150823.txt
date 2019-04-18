@@ -48,9 +48,8 @@ number: 1
 league: Blue Ridge
 away: Hagerstown
 home: Gettysburg
-status: postponed
-status-reason: rain
-source: Hanover Evening SUn, August 25, 1915
+status: postponed, rain
+source: Hanover Evening Sun, August 25, 1915
 
 ---
 
@@ -59,8 +58,7 @@ number: 2
 league: Blue Ridge
 away: Hagerstown
 home: Gettysburg
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Hanover Evening Sun, August 25, 1915
 
 ---
@@ -70,8 +68,7 @@ number: 0
 league: Blue Ridge
 away: Frederick
 home: Hanover
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Hanover Evening Sun, August 25, 1915
 
 ---

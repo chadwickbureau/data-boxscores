@@ -4,7 +4,7 @@ league: Blue Ridge
 away: Hanover
 home: Hagerstown 
 source: Hanover Evening Sun, August 3, 1915
-note: game called after six innings due to rain and darkness
+status: completed early, rain and darkness
 
 Hagerstown: 	ab r h po a e
 Walters @ cf:	3 0 0 1 0 0
@@ -50,8 +50,7 @@ number: 0
 league: Blue Ridge
 away: Frederick
 home: Gettysburg
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Hanover Evening Sun, August 3, 1915
 
 ---
@@ -399,8 +398,7 @@ number: 0
 league: Blue Ridge
 away: Hagerstown
 home: Chambersburg
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Hanover Evening Sun, August 6, 1915
 
 ---
@@ -410,8 +408,7 @@ number: 0
 league: Blue Ridge
 away: Frederick
 home: Martinsburg
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Hanover Evening Sun, August 6, 1915
 
 ---
@@ -421,8 +418,7 @@ number: 0
 league: Blue Ridge
 away: Hanover
 home: Gettysburg
-status: postponed
-status-reason: rain
+status: abandoned, rain
 source: Hanover Evening Sun, August 6, 1915
 note: game called at end of 4rd inning with score Hanover 4, Gettysburg 0
 
@@ -763,6 +759,5 @@ number: 0
 league: Blue Ridge
 away: Frederick
 home: Martinsburg
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Hanover Evening Sun, August 9, 1915

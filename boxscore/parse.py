@@ -232,8 +232,6 @@ class Game(object):
     do_source = update_metadata
     do_A = update_metadata
     do_T = update_metadata
-    do_status = update_metadata
-    do_status_reason = update_metadata
     do_away_manager = update_metadata
     do_home_manager = update_metadata
     do_forfeit_to = update_metadata
@@ -241,6 +239,15 @@ class Game(object):
     do_U = _parse_umpires
     def do_home_batted(self, key, value):  return True
 
+    def do_status(self, key, value):
+        if "," in value:
+            status, reason = (v.strip() for v in value.split(","))
+        else:
+            status, reason = value.strip(), None
+        self.metadata['status'] = status
+        self.metadata['status-reason'] = reason
+        
+        
     def do_line(self, key, value):   return self._process_linescore(value)
 
     do_B_ER = _parse_details

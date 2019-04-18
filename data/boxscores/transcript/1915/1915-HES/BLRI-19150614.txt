@@ -136,8 +136,7 @@ number: 0
 league: Blue Ridge
 away: Hagerstown
 home: Gettysburg
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Hanover Evening Sun, June 16, 1915
 
 
@@ -148,8 +147,7 @@ number: 0
 league: Blue Ridge
 away: Frederick
 home: Hanover
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Hanover Evening Sun, June 16, 1915
 
 ---
@@ -474,8 +472,7 @@ number: 0
 league: Blue Ridge
 away: Martinsburg
 home: Frederick
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Hanover Evening Sun, June 19, 1915
 
 ---

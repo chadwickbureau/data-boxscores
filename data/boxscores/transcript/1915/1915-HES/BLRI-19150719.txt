@@ -98,8 +98,7 @@ number: 0
 league: Blue Ridge
 away: Hagerstown
 home: Martinsburg
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Hanover Evening Sun, July 20, 1915
 
 ---
