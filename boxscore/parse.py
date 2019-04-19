@@ -301,11 +301,16 @@ class Game(object):
         else:
             try:
                 name, pos = map(lambda x: x.strip(), key.split("@"))
+                for p in pos.split("-"):
+                    if p not in ["p", "c", "1b", "2b", "3b", "ss", "lf", "cf", "rf",
+                                "ph", "pr", "?"]:
+                        print(f"In file {self.metadata['filename']},\n   game {self}")
+                        print(f"  Unknown position in '{key}'")
             except ValueError:
-                print("In file %s,\n   game %s" % (self.metadata['filename'], self))
-                print("  Missing name or position in '%s'" % (key))
+                print(f"In file {self.metadata['filename']},\n   game {self}")
+                print(f"  Missing name or position in '{key}'")
                 name, pos = key, None
-
+                
         if name[0] == '(':
             slot, name = [x.strip() for x in name[1:].split(")")]
             slot = slot.replace("~", "")
