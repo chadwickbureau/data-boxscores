@@ -54,8 +54,7 @@ number:0
 league: Buckeye
 away: Canton 
 home: Marion 
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Akron Beacon Journal, May 27, 1915
 
 ---
@@ -66,8 +65,7 @@ number: 0
 league: Buckeye
 away: Newark
 home: Lima
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Akron Beacon Journal, May 27, 1915
 
 ---
@@ -203,8 +201,7 @@ number:0
 league: Buckeye
 away: Lima
 home: Akron  
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Akron Beacon Journal, May 31, 1915
 
 ---

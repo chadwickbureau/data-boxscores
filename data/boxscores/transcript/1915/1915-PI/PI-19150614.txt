@@ -394,8 +394,7 @@ number: 0
 league: Blue Ridge
 away: Martinsburg
 home: Frederick
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Philadelphia Inquirer, June 19, 1915
 
 ---

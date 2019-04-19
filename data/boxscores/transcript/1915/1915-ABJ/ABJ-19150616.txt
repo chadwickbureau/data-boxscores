@@ -187,8 +187,7 @@ number: 0
 league: Buckeye
 away: Newark
 home: Findlay
-status: postponed
-status-reason: wet grounds
+status: postponed, wet grounds
 source: Akron Beacon Journal, June 19, 1915
 
 ---
@@ -270,8 +269,8 @@ number: 2
 league: Buckeye
 away: Newark
 home: Findlay
+status: completed early, called so teams could catch a train
 source: Akron Beacon Journal, June 21, 1915
-note: game called after 5th so teams could catch a train
 
 Newark:		r h e
 Pearce @ c:	x x x
@@ -476,8 +475,7 @@ number: 0
 league: Buckeye
 away: Findlay 
 home: Newark
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Akron Beacon Journal, June 23, 1915
 
 ---

@@ -244,8 +244,14 @@ class Game(object):
             status, reason = (v.strip() for v in value.split(","))
         else:
             status, reason = value.strip(), None
-        self.metadata['status'] = status
-        self.metadata['status-reason'] = reason
+        status = status.lower()
+        if status not in ['final', 'completed early', 'abandoned',
+                          'postponed']:
+            print(f"In file {self.metadata['filename']},\n   game {self}")
+            print(f"  Unknown status '{status}'")
+        else:
+            self.metadata['status'] = status
+            self.metadata['status-reason'] = reason
         
         
     def do_line(self, key, value):   return self._process_linescore(value)
@@ -401,7 +407,8 @@ class Game(object):
         self = cls()
         self.metadata = {"key": game_hash(gametext),
                          "filename": "/".join(fn.parts[-3:]),
-                         "phase": "regular"}
+                         "phase": "regular",
+                         "status": "final"}
         self.playing = {}
         self.umpiring = []
         

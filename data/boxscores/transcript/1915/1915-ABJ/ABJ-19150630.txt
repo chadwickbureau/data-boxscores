@@ -97,8 +97,7 @@ number: 0
 league: Buckeye
 away: Newark
 home: Findlay
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Akron Beacon Journal, July 2, 1915
 
 ---
@@ -154,8 +153,7 @@ number: 2
 league: Buckeye
 away: Newark
 home: Findlay
-status: postponed
-status-reason: rain
+status: abandoned, rain
 source: Akron Beacon Journal, July 3, 1915
 note: played four innings before called
 

@@ -100,8 +100,7 @@ number: 0
 league: Buckeye
 away: Akron
 home: Canton
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Akron Beacon Journal, May 21, 1915
 
 ---
@@ -111,8 +110,7 @@ number: 0
 league: Buckeye
 away: Findlay
 home: Lima
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Akron Beacon Journal, May 21, 1915
 
 ---
@@ -122,8 +120,7 @@ number: 0
 league: Buckeye
 away: Marion
 home: Newark
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Akron Beacon Journal, May 21, 1915
 
 ---
@@ -363,8 +360,7 @@ number: 0
 league: Buckeye
 away: Marion
 home: Canton
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Akron Beacon Journal, May 25, 1915
 
 ---
@@ -450,8 +446,8 @@ number: 0
 league: Buckeye
 away: Akron
 home: Findlay
+status: completed early, rain
 source: Akron Beacon Journal, May 26, 1915
-note: game called after 5th due to rain
 
 Akron:		ab r h po a e
 Plummer @ rf:	3 0 0 2 0 0

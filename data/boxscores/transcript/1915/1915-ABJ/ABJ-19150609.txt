@@ -268,9 +268,9 @@ date: 1915-06-13
 number: 0
 league: Buckeye
 away: Akron
-home: Newark 
+home: Newark
+status: completed early, rain
 source: Akron Beacon Journal, June 14, 1915
-note: rained stopped game after 7 innings
 
 Akron:		ab r h po a e
 Plummer @ rf:	3 0 1 0 0 0
@@ -319,8 +319,7 @@ number: 0
 league: Buckeye
 away: Findlay 
 home: Lima
-status: postponed
-status-reason: rain 
+status: postponed, rain
 source: Akron Beacon Journal, June 14, 1915
 
 ---
@@ -399,8 +398,7 @@ number: 0
 league: Buckeye
 away: Newark
 home: Akron 
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Akron Beacon Journal, June 16, 1915
 
 ---

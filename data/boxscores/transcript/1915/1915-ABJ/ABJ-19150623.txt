@@ -519,6 +519,5 @@ number: 0
 league: Buckeye
 away: Akron
 home: Newark
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Akron Beacon Journal, June 30, 1915
