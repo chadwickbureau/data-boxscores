@@ -1,0 +1,101 @@
+date: 1915-12-05
+number: 0
+league: California Winter
+away: Chicago
+home: Cline-Cline
+status: completed early, darkness
+source: San Bernardino News, December 6, 1915
+
+Chicago:	ab r h po a e
+Barber @ 3b:	5 4 4 0 0 1
+Hill @ cf:	4 2 2 1 0 0
+Duncan @ rf:	4 2 2 0 0 0
+Lloyd @ ss:	2 2 1 4 2 0
+McAdoo @ 1b:	3 1 1 9 0 0
+Gans @ lf:	2 1 2 1 0 0
+Bauchman @ 2b:	5 1 2 0 3 0
+Brazelton @ c:	4 2 2 3 3 0
+Wickware @ p:	3 2 1 0 2 1
+TOTALS:		32 17 17 18 10 2
+
+Cline-Cline:	ab r h po a e
+Meadows @ cf-p:	2 1 0 2 2 0
+French @ 2b:	2 1 1 0 1 0
+Goodman @ 3b:	3 1 1 0 1 0
+Meek @ 1b:	3 0 2 10 0 0
+Easterly @ c-cf:	3 0 2 2 2 0
+Rose @ lf:	3 0 0 1 0 0
+Meuser @ rf:	3 0 0 1 0 0
+Elliott @ ss:	1 1 0 2 1 1
+Fitchner @ p:	3 1 0 0 1 1 
+West @ p:	0 0 0 0 2 0
+Gomes @ c:	0 0 0 0 0 0 
+TOTALS:		23 5 6 18 10 2
+
+line: Chicago:     3 0 0 2 7 5 - 17
+line: Cline-Cline: 1 0 3 0 1 0 - 5 
+
+B_2B: Hill; Duncan; Brazelton; French
+B_3B: Barber
+B_SB: Hill
+B_SH: Lloyd; Gans; French
+P_BB: Fitchner #6; West #2; Wickware #3
+P_SO: Fitchner #1; Wickware #4
+P_H: Fitchner #6; West #5; Meadows #6
+P_IP: Fitchner #4; West #1; Meadows #1
+P_WP: Fitchner
+F_DP: Bauchman, Lloyd, McAdoo; Fitchner, Easterly, Meek
+F_PB: Easterly #2; Brazelton #2
+
+P_GS: ~Fitchner
+P_GF: ~Meadows
+P_L: ~Fitchner
+P_R: ~Fitchner #5; ~West #7; ~Meadows #5
+
+---
+
+date: 1915-12-05
+number: 0
+league: California Winter
+away: San Bernardino
+home: San Diego
+source: San Bernardino News, December 6, 1915
+
+San Bernardino:	ab r h po a e
+Bieloper @ 3b:	4 0 1 0 4 1
+Clipper @ ss:	3 1 0 1 6 0 
+Graves @ 1b:	3 1 1 13 0 0
+Hansen @ rf:	4 1 2 3 0 0
+Flick @ 2b:	2 1 2 3 2 0
+Bassler @ lf:	3 0 0 1 0 0
+Boles @ c:	3 1 1 6 1 0
+Larsen @ cf:	4 0 0 1 0 0
+Chech @ p:	3 1 1 0 2 1
+TOTALS:		29 6 7 27 15 2
+
+San Diego:	ab r h po a e
+Hosp @ lf:	4 0 0 2 0 0
+Bennett @ 2b:	3 0 0 2 1 0
+Berger @ ss:	3 0 0 2 4 0
+Bayless @ cf:	3 0 0 3 0 0
+Autrey @ 1b:	3 0 0 6 1 0
+Downey @ 3b:	3 0 0 6 2 0
+Litschi @ rf:	3 0 0 0 0 0
+Pike @ c:	3 0 0 5 2 0
+Killeen @ p:	3 0 0 1 4 0
+TOTALS:		28 0 0 27 14 0
+
+line: San Bernardino: 1 0 0 0 0 0 0 4 1 - 6
+line: San Diego:      0 0 0 0 0 0 0 0 0 - 0 
+
+B_LOB: San Bernardino #4; San Diego #1
+B_ROE: San Diego #2
+B_HR: Flick
+B_SB: Graves; Flick
+B_SH: Bieloper
+P_BB: Chech #1; Killeen #8
+P_SO: Chech #6; Killeen #4
+F_DP: Downey, Autrey
+T: 1:26
+U: Chandler
+

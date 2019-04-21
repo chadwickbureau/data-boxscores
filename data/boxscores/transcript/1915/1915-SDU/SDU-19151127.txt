@@ -1,0 +1,111 @@
+date: 1915-11-27
+number: 0
+league: California Winter
+away: Chicago
+home: San Diego
+source: San Diego Union, November 28, 1915
+
+Chicago:	ab r h po a e
+Barber @ 3b:	4 1 1 0 2 0
+Hill @ cf:	1 0 0 0 0 0
+Duncan @ rf:	3 0 1 1 0 0
+Lloyd @ ss:	4 0 1 2 2 0
+McAdoo @ 1b:	3 1 1 11 0 1
+Gans @ lf:	3 0 0 2 0 0
+Bachman @ 2b:	2 0 0 3 3 0 
+Petway @ c:	1 0 0 6 0 1
+Williams @ p:	3 1 1 1 3 0
+TOTALS:		24 3 5 26 10 2
+
+San Diego:	ab r h po a e
+Hosp @ lf:	4 0 2 4 1 0 
+Bennett @ 2b:	5 0 3 1 3 0
+Berger @ ss:	5 1 2 2 4 0 
+Bayless @ cf:	4 1 2 1 0 0
+Autrey @ 1b:	5 0 0 8 1 0
+Downey @ 3b:	4 0 3 1 1 0
+Litschi @ rf:	3 0 1 2 1 0
+Roche @ c:	3 0 0 5 0 0
+Bieloper @ c:	1 0 0 1 0 0
+Killeen @ p:	4 0 0 2 3 0
+TOTALS:		41 2 13 27 14 0
+
+line: Chicago: 0 0 0 0 0 1 1 1 0 - 3
+line: San Diego:       0 0 0 1 0 0 0 1 0 - 2
+
+B_LOB: Chicago #3; San Diego #9
+B_2B: Duncan
+B_3B: McAdoo; Bayless
+B_HR: Barber; Williams
+B_SB: Downey; Roche; Lloyd; Gans; Hosp
+B_SH: Duncan
+B_SF: Bachman
+B_HP: Petway
+P_BB: Williams #2; Killeen #6
+P_SO: Williams #6; Killeen #3
+P_HP: Killeen
+F_DP: Barber, Duncan, McAdoo; Berger, Autrey; Litschi, Roche; Autrey, Berger, Autrey
+F_PB: Roche
+T: 2:00
+U: Chandler
+
+---
+
+date: 1915-11-28
+number: 0
+league: California Winter
+away: Chicago
+home: San Diego
+source: San Diego Union, November 29, 1915
+
+Chicago:	ab r h po a e
+Barber @ 3b:	4 1 4 1 1 0
+Hill @ rf:	3 0 2 3 0 0
+Duncan @ lf:	3 0 0 0 0 0
+Lloyd @ ss:	4 0 0 0 3 0
+McAdoo @ 1b:	3 0 0 12 0 0
+Gans @ cf:	4 0 1 1 1 0
+Bachman @ 2b:	4 0 0 3 6 0
+(~8.1)Petway @ c:	2 1 0 4 1 0
+(~8.1)Brazelton @ c:	2 0 1 0 0 0
+Dixmude @ p:	1 0 0 0 1 0 
+Wickware @ p:	1 0 0 0 1 0
+*Williams @ ph:	1 0 0 0 0 0
+TOTALS:		32 2 8 24 14 0
+
+San Diego:	ab r h po a e
+Hosp @ lf:	3 1 0 5 0 0
+Bennett @ 2b:	4 1 2 0 2 1
+Berger @ ss:	4 0 0 1 5 0
+Bayless @ cf:	4 2 2 1 0 0
+Autrey @ 1b:	3 0 0 12 1 1
+Downey @ 3b:	2 0 0 1 1 0
+Litschi @ rf:	3 0 3 1 0 0
+Pike @ c:	3 0 0 5 1 0
+Schneider @ p:	3 0 0 0 1 0
+TOTALS:		29 4 7 26 11 2
+
+*: batted for Wickware in 9th
+
+line: Chicago: 1 0 0 2 0 0 3 1 0 - 7
+line: San Diego:       0 0 0 0 0 2 1 0 0 - 3
+
+B_LOB: Chicago #5; San Diego #4
+B_2B: Hill
+B_3B: Bayless
+B_HR: Bennett; Bayless
+B_SB: Barber; Brazelton
+B_SF: Hill; Downey
+B_XO: Dixmude, foul bunt on third strike
+P_BB: Dixmude #2; Schneider #2
+P_SO: Dixmude #2; Schneider #4
+P_H: Dixmude #4; Wickware #3
+P_IP: Dixmude #4; Wickware #5
+F_DP: Berger, Autrey
+T: 1:39
+U: Duffy Lewis; Chandler
+
+P_GS: ~Dixmude
+P_GF: ~Wickware
+P_W: ~Wickware
+P_R: ~Wickware #3

@@ -1,0 +1,107 @@
+date: 1915-11-06
+number: 0
+league: California Winter
+away: Chicago
+home: San Diego
+source: San Diego Union, November 7, 1915
+
+Chicago:	ab r h po a e
+Barber @ 3b:	4 1 0 0 1 0
+Hill @ cf:	3 1 1 1 0 0
+Duncan @ rf:	3 0 1 2 1 0
+Lloyd @ ss:	4 0 1 8 0 0
+McAdoo @ 1b:	4 0 0 5 1 0
+Gans @ lf:	3 1 0 3 0 1
+Bachman @ 2b:	4 0 1 2 4 0
+Petway @ c:	4 1 1 3 2 0
+Williams @ p:	3 0 0 0 3 0
+TOTALS:		32 4 5 24 11 1
+
+San Diego:	ab r h po a e
+Hosp @ lf:	4 1 3 3 0 0
+Bennett @ 2b:	4 0 1 1 5 0
+Berger @ ss:	5 1 2 0 6 0
+Bayless @ cf:	4 0 1 2 0 0
+Autrey @ 1b:	4 0 0 15 1 0
+Downey @ 3b:	4 1 1 0 3 1
+Litschi @ rf:	3 2 2 0 0 0
+Roche @ c:	3 1 1 6 2 3
+Hitt @ p:	4 1 3 0 2 0
+TOTALS:		35 7 14 27 19 4
+
+line: Chicago: 0 2 0 0 0 1 0 1 0 - 4
+line: San Diego:       0 1 1 2 1 1 0 1 x - 7
+
+B_2B: Bachman; Berger #2
+B_3B: Lloyd; Hitt; Litschi
+B_SB: Bennett; Downey; Roche
+B_SH: Bennett; Litschi; Duncan
+B_SF: Roche
+P_BB: Williams #2; Hitt #2
+P_SO: Williams #3; Hitt #6
+T: 1:35
+U: Brashear
+
+---
+
+date: 1915-11-07
+number: 0
+league: California Winter
+away: Chicago
+home: San Diego
+source: San Diego Union, November 8, 1915
+
+Chicago:	ab r h po a e
+Barber @ 3b:	4 0 0 4 1 2
+Hill @ cf:	5 0 2 0 0 0
+Duncan @ rf:	4 0 2 1 0 0
+Lloyd @ ss:	3 0 0 4 3 0
+McAdoo @ 1b:	4 0 1 8 0 0
+Gans @ lf:	3 0 0 0 0 0
+(~7.1)Bachman @ 2b:	3 0 0 0 2 0
+(~7.2)*Deakens @ ph:	1 1 0 0 0 0
+Petway @ c:	4 0 1 6 3 0
+Dixmude @ p:	0 1 0 0 1 0
+Wickware @ p:	2 0 1 1 2 0
++Clarkson @ ph:	0 0 0 0 0 0
+TOTALS:		37 2 7 24 12 2
+
+San Diego:	ab r h po a e
+Hosp @ lf:	3 0 0 3 1 0
+Bennett @ 2b:	4 0 0 2 3 0
+Berger @ ss:	4 0 1 4 5 0
+Bayless @ cf:	1 2 1 0 1 0
+Autrey @ 1b:	2 2 1 10 0 0
+Downey @ 3b:	4 0 1 1 1 0
+Litschi @ rf:	4 1 2 2 0 0
+Roche @ c:	4 1 1 5 0 0
+Schneider @ p:	4 0 1 0 5 0
+TOTALS:		30 6 8 27 16 0 
+
+*: batted for Bachman in 9th
++: batted for Wickware in 9th
+
+line: Chicago:   0 0 1 0 0 0 0 0 1 - 2
+line: San Diego: 0 4 2 0 0 0 0 0 x - 6
+
+B_LOB: Chicago #9; San Diego #6
+B_ROE: San Diego #2
+B_2B: Downey; Duncan #2
+B_3B: Roche; Litschi
+B_HR: Autrey
+B_SB: Gans; Bayless; Autrey
+B_HP: Autrey
+P_BB: Dixmude #1; Wickware #4; Schneider #5
+P_SO: Dixmude #1; Wickware #4; Schneider #4
+P_H: Dixmude #7; Wickware #1
+P_IP: Dixmude #3; Wickware #5
+P_HP: Wickware
+F_PB: Roche
+outsatend: 
+T: 1:42
+U: Brashear
+
+P_GS: ~Dixmude 
+P_GF: ~Wickware
+P_L: ~Dixmude
+P_R: ~Dixmude #6

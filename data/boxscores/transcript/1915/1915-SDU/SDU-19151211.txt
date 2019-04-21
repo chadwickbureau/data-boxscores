@@ -1,0 +1,98 @@
+date: 1915-12-11
+number: 0
+league: California Winter
+away: Cline-Cline
+home: San Diego
+source: San Diego Union, December 12, 1915
+
+Cline-Cline:	ab r h po a e
+Rose @ lf:	3 0 0 3 0 0
+Elliott @ ss:	3 0 0 4 3 0
+Meadows @ cf:	3 0 0 2 1 0
+Carlton @ rf:	4 0 1 0 0 0
+Hillyard @ 1b:	3 0 1 6 1 0
+French @ 2b:	1 0 0 2 3 0
+Gomes @ c:	4 1 1 2 2 0
+Mitchell @ 3b:	2 1 0 2 1 1
+Williams @ p:	3 0 1 1 3 0
+TOTALS:		27 2 4 24 14 1
+
+San Diego:	ab r h po a e
+Hosp @ lf:	4 1 2 3 1 0
+Bennett @ 2b:	3 0 0 1 0 0
+Berger @ ss:	4 0 1 4 3 0
+Bayless @ cf:	4 0 0 3 0 0
+Autrey @ 1b:	2 1 2 8 0 0
+Downey @ 3b:	4 0 0 1 5 1
+Litschi @ rf:	2 1 0 0 0 0
+Roche @ c:	0 0 0 1 1 0
+Pike @ c:	2 0 0 6 1 0
+Schneider @ p:	2 2 2 0 3 0
+TOTALS:		23 5 7 27 14 1
+
+line: Cline-Cline: 0 0 2 0 0 0 0 0 0 - 2
+line: San Diego:     1 0 1 0 0 1 2 0 x - 5
+
+B_LOB: Cline-Cline #7; San Diego #4
+B_ROE: Cline-Cline #1; San Diego #1
+B_ER:  Cline-Cline #1; San Diego #5
+B_3B: Hosp
+B_HR: Schneider #2; Autrey
+B_SB: Bennett; French
+B_SH: Pike; Schneider; Williams
+P_BB: Schneider #9; Williams #4
+P_SO: Schneider #5; Williams #1
+F_DP: Schneider, Berger, Autrey; Hosp, Pike; Williams, Elliott, Hillyard; Elliott, French, Hillyard
+T: 1:30
+U: Chandler
+
+---
+
+date: 1915-12-12
+number: 0
+league: California Winter
+away: Cline-Cline
+home: San Diego
+source: San Diego Union, December 13, 1915
+
+Cline-Cline:	ab r h po a e
+Rose @ lf:	5 1 1 1 0 0
+Elliott @ ss:	4 0 2 1 1 0
+Meadows @ cf:	3 1 1 3 0 0
+Carlton @ c:	4 0 1 7 1 0
+Hillyard @ 1b:	3 0 0 5 1 0
+Goodman @ 3b:	4 0 0 0 2 0
+French @ 2b:	2 0 0 4 3 0
+Mitchell @ rf:	3 0 0 1 0 0
+Fitchner @ p:	4 0 1 2 2 0
+TOTALS:		32 2 6 24 10 0
+
+San Diego:	ab r h po a e
+Hosp @ lf:	5 1 2 2 1 1
+Bennett @ 2b:	5 0 0 4 3 1
+Berger @ ss:	3 1 1 4 3 0
+Bayless @ cf:	2 1 1 0 0 0
+Autrey @ 1b:	4 1 1 9 0 1
+Downey @ 3b:	3 1 1 1 3 0
+Bieloper @ rf:	4 1 2 1 0 0
+Pike @ c:	3 0 2 6 4 0
+Killeen @ p:	4 1 1 0 2 0
+TOTALS:		33 7 11 27 16 3
+
+line: Cline-Cline: 2 0 0 0 0 0 0 0 0 - 2
+line: San Diego:     1 0 1 0 0 1 0 4 x - 7
+
+B_LOB: Cline-Cline #5; San Diego #7
+B_ROE: Cline-Cline #3
+B_2B: Berger; Hosp #2
+B_3B: Bieloper
+B_HR: Autrey; Killeen
+B_SB: Carlton
+B_SF: Pike
+B_HP: Mitchell; Bayless
+P_BB: Fitchner #3; Killeen #4
+P_SO: Fitchner #3; Killeen #6
+P_HP: Fitchner; Killeen
+P_WP: Killeen
+T: 1:24
+U: Chandler

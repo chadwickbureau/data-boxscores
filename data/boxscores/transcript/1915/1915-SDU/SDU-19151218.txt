@@ -1,0 +1,114 @@
+date: 1915-12-18
+number: 0
+league: California Winter
+away: Chicago
+home: San Diego
+source: San Diego Union, December 19, 1915
+
+Chicago:	ab r h po a e
+Barber @ 3b:	4 1 2 2 1 0
+Hill @ rf:	5 2 2 0 1 0
+Duncan @ lf:	3 1 1 1 0 0
+Lloyd @ ss:	3 0 0 5 1 0
+McAdoo @ 1b:	2 0 1 10 2 1
+Gans @ cf:	3 1 0 2 0 0
+Bachman @ 2b:	3 0 1 2 4 1
+Petway @ c:	2 1 0 5 3 0
+Dixmudes @ p:	2 0 0 0 3 0
+Wickware @ p:	0 1 0 0 1 0
+TOTALS:		28 7 7 27 15 2
+
+San Diego:	ab r h po a e
+Hosp @ lf:	4 0 0 3 0 0 
+Bennett @ 2b:	4 0 0 3 3 0
+Bieloper @ 3b:	3 1 1 3 3 0
+Bayless @ cf:	4 2 2 2 0 0
+Autrey @ 1b:	3 1 2 7 0 0
+Downey @ ss:	4 2 2 1 3 0
+Litschi @ rf:	4 0 2 2 3 1
+Pike @ c:	3 0 1 5 4 0
+Killeen @ p:	4 0 1 0 4 0
+TOTALS:		34 6 11 27 19 1
+
+line: Chicago: 0 1 2 0 3 0 0 2 0 - 7
+line: San Diego:       0 1 0 0 0 3 2 0 0 - 6
+
+B_LOB: Chicago #9; San Diego #6
+B_ER:  Chicago #5; San Diego #5
+B_2B: Litschi
+B_3B: Hill; Duncan
+B_SB: Barber
+B_SH: Petway; Duncan; Autrey
+P_BB: Dixmudes #3; Wickware #1; Killeen #8
+P_SO: Killeen #4; Dixmudes #2; Wickware #1
+P_H: Dixmudes #10; Wickware #1
+P_IP: Dixmudes #6; Wickware #3
+F_DP: Bachman, Lloyd
+T: 2:00
+U: Chandler
+
+P_GS: ~Dixmudes
+P_GF: ~Wickware
+P_W: ~Wickware
+P_R: ~Dixmudes #4; ~Wickware #2
+
+---
+
+date: 1915-12-19
+number: 0
+league: California Winter
+away: Chicago
+home: San Diego
+source: San Diego Union, December 20, 1915
+
+Chicago:	ab r h po a e
+Barber @ 3b:	5 1 1 5 1 0
+Hill @ rf:	5 1 2 3 1 0
+Duncan @ lf:	5 0 1 3 0 0
+Lloyd @ ss:	4 1 2 3 2 0
+McAdoo @ 1b:	5 0 2 3 0 0
+Gans @ cf:	3 0 0 1 0 0
+Bachman @ 2b:	4 3 3 2 2 1
+Petway @ c:	3 0 0 7 0 1
+Wickware @ p:	2 0 0 0 1 0
+Williams @ p:	2 1 1 0 0 0
+TOTALS:		33 7 12 27 7 2
+
+San Diego:	ab r h po a e
+Hosp @ lf:	4 0 1 2 0 0
+Bennett @ 2b:	3 0 1 2 4 0
+Bieloper @ 3b:	5 1 1 2 4 3
+Bayless @ cf:	2 0 0 0 0 0
+Autrey @ 1b:	4 0 0 10 1 0
+Downey @ ss:	5 1 2 3 4 0
+Litschi @ rf:	4 1 1 0 0 0
+Bliss @ c:	2 0 1 6 1 1
+Hitt @ p:	2 0 0 1 6 1
+TOTALS:		32 3 7 26 20 5
+
+line: Chicago: 1 0 0 2 0 0 3 1 0 - 7
+line: San Diego:       0 0 0 0 0 2 1 0 0 - 3
+
+B_LOB: Chicago #5; San Diego #11
+B_ROE: Chicago #3; San Diego #1
+B_2B: Lloyd; Litschi
+B_3B: Bieloper; Bachman
+B_HR: Bachman; Barber; Downey
+B_SB: Lloyd; Bayless; Litschi
+B_SH: Bennett; Gans
+B_SF: Hosp
+B_HP: Bayless
+P_BB: Wickware #6; Williams #1; Hitt #2
+P_SO: Wickware #3; Williams #3; Hitt #5
+P_H: Wickware #4; Williams #3
+P_IP: Wickware #6; Williams #3
+P_HP: Wickware
+P_WP: Williams; Hitt
+F_PB: Bliss
+T: 2:09
+U: Chandler
+
+P_GS: ~Wickware
+P_GF: ~Williams
+P_W: ~Wickware
+P_R: ~Wickware #2; ~Williams #1

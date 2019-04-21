@@ -1,0 +1,162 @@
+date: 1915-11-20
+number: 0
+league: California Winter
+away: Cline-Cline
+home: San Diego
+source: San Diego Union, November 21, 1915
+
+Cline-Cline:	ab r h po a e
+Springman @ cf:	4 0 0 4 0 0
+Mensor @ lf:	4 0 0 2 0 0
+Rose @ 3b:	5 0 1 3 1 0
+Meek @ 1b:	5 1 1 12 0 0
+Williams @ rf:	4 1 3 2 0 0
+French @ 2b:	4 2 3 4 5 0
+Elliott @ ss:	5 1 0 2 4 0
+Gomes @ c:	5 0 0 2 1 0
+West @ p:	2 0 0 0 1 0
+Fitchner @ p:	1 0 1 0 1 0
+TOTALS:		40 5 8 31 13 0
+
+San Diego:	ab r h po a e
+Hosp @ lf:	5 1 1 2 0 0
+Bennett @ 2b:	4 1 2 5 5 1
+(~3.1)Bieloper @ 3b:	4 1 2 1 3 0
+(~3.2)Berger @ ss:	1 0 0 0 1 0 
+Bayless @ cf:	3 1 2 3 0 0
+Autrey @ 1b:	3 1 1 11 0 1
+Downey @ 3b-ss:	3 1 0 0 2 0
+Litschi @ rf:	4 0 1 1 0 0
+Roche @ c:	4 0 2 10 4 0
+Killeen @ p:	4 0 0 0 1 2
+TOTALS:		35 6 11 33 16 4
+
+line: Cline-Cline: 0 3 1 0 0 0 0 0 1 0 0 - 5
+line: San Diego:     0 0 0 0 0 1 0 4 0 0 1 - 6
+
+B_LOB: Cline-Cline #6; San Diego #7
+B_3B: Bieloper; Autrey
+B_HR: Meek; Bennett
+B_SH: Bayless; Litschi; French
+B_SF: Downey; Springman
+B_HP: Autrey
+P_BB: Killeen #2; West #3; Fitchner #2
+P_SO: Killeen #11; West #2
+P_H: West #10; Fitchner #1
+P_IP: West #9; Fitchner #1.1
+P_HP: Fitchner
+P_WP: Fitchner
+outsatend: #1
+T: 2:07
+U: Chandler
+
+P_GS: ~West
+P_GF: ~Fitchner
+P_L: ~Fitchner
+P_R: ~West #5; ~Fitchner #1
+
+---
+
+date: 1915-11-21
+number: 0
+league: California Winter
+away: Cline-Cline
+home: San Diego
+source: San Diego Union, November 22, 1915
+
+Cline-Cline:	ab r h po a e
+Springman @ cf:	4 0 0 1 0 0
+Mensor @ lf-rf:	4 0 0 3 0 1
+Rose @ rf-lf:	3 0 1 2 0 0
+Meek @ 1b:	3 0 1 7 0 0
+Goodman @ 3b:	4 0 1 2 2 0
+French @ 2b:	4 0 1 2 1 1 
+Elliott @ ss:	4 0 1 2 2 1
+Gomes @ c:	4 0 0 4 1 0
+Fitchner @ p:	2 0 1 1 0 0
+Williams @ p:	2 0 0 0 0 0
+TOTALS:		33 0 6 24 6 2
+
+San Diego:	ab r h po a e
+Hosp @ lf:	1 0 0 3 0 0
+Bennett @ 2b:	5 0 0 3 2 0
+Bieloper @ 3b:	4 2 1 1 3 0
+Bayless @ cf:	4 2 2 4 0 0
+Autrey @ 1b:	5 1 2 8 0 0
+Downey @ ss:	4 1 1 3 1 0
+Litschi @ rf:	5 0 1 1 0 0
+Roche @ c:	2 2 1 4 0 0
+Schneider @ p:	4 0 1 0 3 0
+TOTALS:		34 9 10 27 9 0
+
+line: Cline-Cline: 0 0 0 0 0 0 0 0 0 - 0
+line: San Diego:   0 2 4 0 1 0 0 2 x - 9
+
+B_LOB: Cline-Cline #8; San Diego #10
+B_ROE: San Diego #1
+B_2B: Bayless
+B_3B: Roche; Schneider; Rose
+B_SB: Rose; Roche
+B_HP: Roche #2; Hosp
+P_BB: Fitchner #3; Williams #3; Schneider #3
+P_SO: Fitchner #3; Williams #1; Schneider #4
+P_H: Fitchner #5; Williams #5
+P_IP: Fitchner #3; Williams #5
+P_HP: Fitchner #3
+P_WP: Fitchner
+T: 1:37
+U: Chandler
+
+P_GS: ~Fitchner
+P_GF: ~Williams
+P_L: ~Fitchner
+P_R: ~Fitchner #6; ~Williams #3
+
+---
+
+date: 1915-11-25
+number: 0
+league: Southern California Winter
+away: Chicago
+home: San Diego
+source: San Diego Union, November 26, 1915
+
+Chicago:	ab r h po a e
+Barber @ 3b:	4 1 2 2 2 1
+Hill @ cf:	5 0 2 2 0 0
+Duncan @ rf:	4 1 1 3 0 0
+Lloyd @ ss:	3 0 2 2 2 0
+McAdoo @ 1b:	4 0 1 11 0 0
+Gans @ lf:	3 1 1 1 0 0
+Bachman @ 2b:	4 0 1 1 3 0
+Petway @ c:	4 1 1 5 0 0
+Wickware @ p:	4 0 0 0 1 1
+TOTALS:		35 4 11 27 8 2
+
+
+San Diego:	ab r h po a e
+Hosp @ lf:	4 0 0 2 0 0
+Bennett @ 2b:	4 0 0 4 2 1
+Berger @ ss:	3 0 0 3 6 0
+Bieloper @ 3b:	1 0 0 1 0 0
+Bayless @ cf:	4 0 1 2 0 0
+Autrey @ 1b:	3 0 0 11 0 0
+Downey @ 3b:	3 0 0 0 4 1
+Litschi @ rf:	2 0 0 1 0 0
+Roche @ c:	2 0 0 3 1 0
+Schneider @ p:	3 0 0 0 3 0
+TOTALS:		28 0 1 27 16 2
+
+line: Chicago: 0 0 3 1 0 0 0 0 0 - 4
+line: San Diego:       0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Chicago #7; San Diego #5
+B_ROE: Chicago #1; San Diego #2
+B_3B: Duncan; Gans
+B_SB: Hill; Duncan
+P_BB: Wickware #3; Schneider #3
+P_SO: Wickware #4; Schneider #3
+F_DP: Berger, Bennett, Autrey; Schneider, Berger, Autrey #2; Bachman, Lloyd, McAdoo
+F_PB: Petway
+T: 1:33
+U: Chandler
