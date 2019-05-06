@@ -1,6 +1,22 @@
-key,date,number,league,phase,site,away,away.score,away.manager,home,home.score,home.manager,A,T,forfeit.to,status,status.reason,outsatend,filename,source,away.score.1,away.score.2,away.score.3,away.score.4,away.score.5,away.score.6,away.score.7,away.score.8,away.score.9,home.score.1,home.score.2,home.score.3,home.score.4,home.score.5,home.score.6,home.score.7,home.score.8,home.score.9
-XTTRLFT,1909-06-21,0,Central Kansas,regular,,Manhattan,3,,Beloit,2,,,,,,,,1909/1909-BDC/BDC-19090621.txt,"The Beloit Daily Call Jun 22, 1909",0,0,0,0,0,0,0,3,0,1,0,0,0,1,0,0,0,0
-DFPPVZW,1909-06-22,0,Central Kansas,regular,,Manhattan,4,,Beloit,3,,,,,,,,1909/1909-BDC/BDC-19090621.txt,"The Beloit Daily Call Jun 23, 1909",0,0,1,2,0,0,1,0,0,0,0,2,1,0,0,0,0,0
-QTYLSMM,1909-06-26,0,Central Kansas,regular,,Beloit,2,,Ellsworth,3,,,,,,,,1909/1909-BDC/BDC-19090621.txt,"The Beloit Daily Call Jun 28, 1909",0,0,0,0,0,0,0,2,0,0,0,0,1,0,2,0,0,x
-TDMQZDZ,1909-07-03,1,Central Kansas,regular,,Minneapolis,6,,Beloit,1,,,,,,,,1909/1909-BDC/BDC-19090628.txt,"The Beloit Daily Call Jul 5, 1909",0,0,1,3,0,0,0,2,0,0,0,0,0,0,0,1,0,0
-LYXDQZQ,1909-07-03,2,Central Kansas,regular,,Minneapolis,1,,Beloit,2,,,,,,,,1909/1909-BDC/BDC-19090628.txt,"The Beloit Daily Call Jul 5, 1909",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,x
+key,date,number,league,phase,site,away,away.score,away.manager,home,home.score,home.manager,A,T,forfeit.to,status,status.reason,outsatend,filename,source,away.score.1,away.score.2,away.score.3,away.score.4,away.score.5,away.score.6,away.score.7,away.score.8,away.score.9,away.score.10,away.score.11,away.score.12,home.score.1,home.score.2,home.score.3,home.score.4,home.score.5,home.score.6,home.score.7,home.score.8,home.score.9,home.score.10,home.score.11,home.score.12
+XTTRLFT,1909-06-21,0,Central Kansas,regular,,Manhattan,3,,Beloit,2,,,,,final,,,1909/1909-BDC/BDC-19090621.txt,"The Beloit Daily Call Jun 22, 1909",0,0,0,0,0,0,0,3,0,,,,1,0,0,0,1,0,0,0,0,,,
+DFPPVZW,1909-06-22,0,Central Kansas,regular,,Manhattan,4,,Beloit,3,,,,,final,,,1909/1909-BDC/BDC-19090621.txt,"The Beloit Daily Call Jun 23, 1909",0,0,1,2,0,0,1,0,0,,,,0,0,2,1,0,0,0,0,0,,,
+QTYLSMM,1909-06-26,0,Central Kansas,regular,,Beloit,2,,Ellsworth,3,,,,,final,,,1909/1909-BDC/BDC-19090621.txt,"The Beloit Daily Call Jun 28, 1909",0,0,0,0,0,0,0,2,0,,,,0,0,0,1,0,2,0,0,x,,,
+TDMQZDZ,1909-07-03,1,Central Kansas,regular,,Minneapolis,6,,Beloit,1,,,,,final,,,1909/1909-BDC/BDC-19090628.txt,"The Beloit Daily Call Jul 5, 1909",0,0,1,3,0,0,0,2,0,,,,0,0,0,0,0,0,1,0,0,,,
+LYXDQZQ,1909-07-03,2,Central Kansas,regular,,Minneapolis,1,,Beloit,2,,,,,final,,,1909/1909-BDC/BDC-19090628.txt,"The Beloit Daily Call Jul 5, 1909",0,0,0,0,1,0,0,0,0,,,,0,0,0,0,0,0,0,2,x,,,
+ZKKDMQX,1909-07-05,0,Central Kansas,regular,,Beloit,6,,Minneapolis,7,,,,,final,,,1909/1909-BDC/BDC-19090705.txt,"The Beloit Daily Call Jul 6, 1909",0,0,0,2,0,3,1,0,0,0,0,0,5,0,0,0,0,0,0,1,0,0,0,1
+FPTKDFZ,1909-07-06,0,Central Kansas,regular,,Ellsworth,7,,Beloit,2,,,,,final,,,1909/1909-BDC/BDC-19090705.txt,"The Beloit Daily Call Jul 7, 1909",2,0,0,0,0,2,3,0,0,,,,0,1,0,0,1,0,0,0,0,,,
+ZDDWHLY,1909-07-07,0,Central Kansas,regular,,Ellsworth,0,,Beloit,6,,,,,final,,,1909/1909-BDC/BDC-19090705.txt,"The Beloit Daily Call Jul 8, 1909",0,0,0,0,0,0,0,0,0,,,,0,0,0,1,0,2,2,1,x,,,
+TYNYZWF,1909-07-10,0,Central Kansas,regular,,Junction City,10,,Beloit,4,,,,,final,,,1909/1909-BDC/BDC-19090705.txt,"The Beloit Daily Call Jul 12, 1909",0,0,1,1,0,0,3,5,0,,,,2,0,0,2,0,0,0,0,0,,,
+HWFZXXJ,1909-07-13,0,Central Kansas,regular,,Beloit,2,,Abilene,3,,,,,final,,,1909/1909-BDC/BDC-19090712.txt,"The Beloit Daily Call Jul 14, 1909",0,0,0,0,1,0,0,1,0,,,,0,2,0,0,0,0,0,1,0,,,
+GBSTPDZ,1909-07-14,0,Central Kansas,regular,,Beloit,2,,Abilene,1,,,,,final,,,1909/1909-BDC/BDC-19090712.txt,"The Beloit Daily Call Jul 15, 1909",0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+ZPGMPZK,1909-07-19,0,Central Kansas,regular,,Beloit,2,,Junction City,1,,,,,final,,,1909/1909-BDC/BDC-19090719.txt,"The Beloit Daily Call Jul 20, 1909",1,0,0,0,0,0,0,0,1,,,,0,0,0,0,0,0,0,0,1,,,
+HTGWCNQ,1909-07-22,0,Central Kansas,regular,,Beloit,7,,Minneapolis,1,,,,,final,,,1909/1909-BDC/BDC-19090719.txt,"The Beloit Daily Call Jul 23, 1909",0,2,1,0,2,0,1,0,1,,,,1,0,0,0,0,0,0,0,0,,,
+WZBDQCF,1909-07-24,2,Central Kansas,regular,,Beloit,4,,Manhattan,3,,,,,final,,,1909/1909-BDC/BDC-19090719.txt,"The Beloit Daily Call Jul 26, 1909",0,2,1,0,0,0,0,0,0,0,1,,3,0,0,0,0,0,0,0,0,0,0,
+MQFRPPC,1909-07-24,1,Central Kansas,regular,,Beloit,1,,Minneapolis,0,,,,,final,,,1909/1909-BDC/BDC-19090719.txt,"The Beloit Daily Call Jul 26, 1909",1,0,0,0,0,0,0,0,0,,,,0,0,0,0,0,0,0,0,0,,,
+KDPXNPJ,1909-07-29,0,Central Kansas,regular,,Clay Center,13,,Beloit,4,,,,,final,,,1909/1909-BDC/BDC-19090726.txt,"The Beloit Daily Call Jul 30, 1909",0,1,6,0,0,0,0,2,4,,,,1,0,0,0,0,0,0,0,3,,,
+LHFKCBW,1909-07-30,0,Central Kansas,regular,,Clay Center,1,,Beloit,2,,,1:20,,final,,,1909/1909-BDC/BDC-19090726.txt,"The Beloit Daily Call Jul 31, 1909",0,0,0,0,0,0,0,0,1,,,,0,1,0,1,0,0,0,0,x,,,
+ZFDDMPJ,1909-07-31,0,Central Kansas,regular,,Clay Center,2,,Beloit,3,,,,,final,,,1909/1909-BDC/BDC-19090726.txt,"The Beloit Daily Call Aug 2, 1909",0,1,0,0,0,1,0,0,0,,,,0,2,0,0,0,0,0,0,1,,,
+BNNCZQF,1909-08-02,0,Central Kansas,regular,,Manhattan,0,,Beloit,7,,,,,final,,,1909/1909-BDC/BDC-19090802.txt,"The Beloit Daily Call Aug 3, 1909",0,0,0,0,0,0,0,0,0,,,,1,5,0,0,0,0,1,0,x,,,
+DGWBFXS,1909-08-03,0,Central Kansas,regular,,Manhattan,3,,Beloit,11,,,,,final,,,1909/1909-BDC/BDC-19090802.txt,"The Beloit Daily Call Aug 4, 1909",1,0,0,2,0,0,0,0,0,,,,1,0,0,2,2,3,0,3,x,,,
+NJJMQRY,1909-08-04,0,Central Kansas,regular,,Manhattan,4,,Beloit,0,,,,,final,,,1909/1909-BDC/BDC-19090802.txt,"The Beloit Daily Call Aug 5, 1909",3,0,0,0,1,0,0,0,0,,,,0,0,0,0,0,0,0,0,0,,,

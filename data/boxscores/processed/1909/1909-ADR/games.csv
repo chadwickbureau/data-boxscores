@@ -1,0 +1,8 @@
+key,date,number,league,phase,site,away,away.score,away.manager,home,home.score,home.manager,A,T,forfeit.to,status,status.reason,outsatend,filename,source,away.score.1,away.score.2,away.score.3,away.score.4,away.score.5,away.score.6,away.score.7,away.score.8,away.score.9,home.score.1,home.score.2,home.score.3,home.score.4,home.score.5,home.score.6,home.score.7,home.score.8,home.score.9
+VQWQNFR,1909-07-06,0,Central Kansas,regular,,Manhattan,3,,Abilene,9,,,,,final,,,1909/1909-ADR/ADR-19090705.txt,"Abilene Daily Reflector Jul 7, 1909",1,1,1,0,0,0,0,0,,4,1,0,0,0,4,x,,
+YVTDHTB,1909-07-28,1,Central Kansas,regular,,Clay Center,9,,Abilene,1,,,,,final,,,1909/1909-ADR/ADR-19090726.txt,"Abilene Daily Reflector Jul 29, 1909",0,0,4,1,0,1,0,0,3,0,0,0,1,0,0,0,0,0
+LYVBTLY,1909-07-28,2,Central Kansas,regular,,Clay Center,6,,Abilene,8,,,,,completed early,darkness,,1909/1909-ADR/ADR-19090726.txt,"Abilene Daily Reflector Jul 29, 1909",0,5,0,0,1,,,,,0,1,0,0,7,,,,
+JMFCLYT,1909-07-30,0,Central Kansas,regular,,Ellsworth,4,,Abilene,2,,,,,final,,,1909/1909-ADR/ADR-19090726.txt,"Abilene Daily Reflector Jul 31, 1909",0,2,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,1
+CBQJHFQ,1909-08-05,0,Central Kansas,regular,,Abilene,0,,Junction City,5,,,,,final,,,1909/1909-ADR/ADR-19090802.txt,"Abilene Daily Reflector Aug 6, 1909",0,0,0,0,0,0,0,0,0,1,3,1,0,0,0,0,0,x
+HZGWHGP,1909-08-06,0,Central Kansas,regular,,Junction City,3,,Abilene,5,,,,,final,,,1909/1909-ADR/ADR-19090802.txt,"Abilene Daily Reflector Aug 7, 1909",1,0,0,0,0,0,0,1,1,1,0,0,0,0,2,0,0,2
+GJRKLZK,1909-08-07,0,Central Kansas,regular,,Abilene,3,,Junction City,6,,,,,final,,,1909/1909-ADR/ADR-19090802.txt,"Abilene Daily Reflector Aug 9, 1909",0,1,0,2,0,0,0,0,0,2,0,1,2,0,0,0,1,x

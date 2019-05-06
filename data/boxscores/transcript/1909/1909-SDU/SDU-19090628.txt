@@ -70,8 +70,7 @@ league: Central Kansas
 away: Ellsworth
 home: Junction City
 source: The Salina Daily Union Jun 29, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -221,8 +220,7 @@ league: Central Kansas
 away: Beloit
 home: Manhattan
 source: The Salina Daily Union Jul 2, 1909
-status: postponed
-status-reason: wet grounds
+status: postponed, wet grounds
 
 ---
 

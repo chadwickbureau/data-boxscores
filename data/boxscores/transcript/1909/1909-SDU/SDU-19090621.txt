@@ -56,8 +56,7 @@ F_PB:
 outsatend: 
 T: 
 U: McKee
-status: called after 8 innings
-status-reason: darkness
+status: completed early, darkness
 
 P_GS: 
 P_GF: 
@@ -141,8 +140,7 @@ league: Central Kansas
 away: Abilene
 home: Salina
 source: The Salina Daily Union Jun 23, 1909
-status: postponed
-status-reason: wet grounds
+status: postponed, wet grounds
 
 ---
 
@@ -483,8 +481,7 @@ F_PB:
 outsatend: 
 T: 2:00
 U: Hammond
-status: called after 7 innings
-status-reason: darkness
+status: completed early, darkness
 
 P_GS: 
 P_GF: 

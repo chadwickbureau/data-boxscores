@@ -131,8 +131,7 @@ F_PB:
 outsatend: 
 T: 1:55
 U: Hamlin
-status: called after 9 innings
-status-reason: darkness
+status: completed early, darkness
 
 P_GS: ~Leach
 P_GF: ~Culver

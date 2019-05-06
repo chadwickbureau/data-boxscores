@@ -256,6 +256,14 @@ class Game(object):
         
     def do_line(self, key, value):   return self._process_linescore(value)
 
+    def do_ejection(self, key, value):
+        # TODO: Process ejection records
+        pass
+
+    def do_protest(self, key, value):
+        # TODO: Process protest records
+        pass
+        
     do_B_ER = _parse_details
     do_B_R = _parse_details
     do_B_2B = _parse_details

@@ -1,0 +1,4 @@
+key,date,number,league,phase,site,away,away.score,away.manager,home,home.score,home.manager,A,T,forfeit.to,status,status.reason,outsatend,filename,source,away.score.1,away.score.2,away.score.3,away.score.4,away.score.5,away.score.6,away.score.7,away.score.8,away.score.9,home.score.1,home.score.2,home.score.3,home.score.4,home.score.5,home.score.6,home.score.7,home.score.8,home.score.9
+RVVKCMD,1909-08-06,0,Central Kansas,regular,,Ellsworth,4,,Minneapolis,9,,,,,final,,,1909/1909-MBW/MBW-19090802.txt,"Minneapolis Better Way Aug 12, 1909",2,0,1,0,0,0,0,0,1,1,0,1,1,3,0,3,0,x
+SCHHLML,1909-08-07,1,Central Kansas,regular,,Ellsworth,2,,Minneapolis,3,,,,,final,,,1909/1909-MBW/MBW-19090802.txt,"Minneapolis Better Way Aug 12, 1909",0,0,0,2,0,0,0,,,0,0,2,0,0,0,1,,
+SRJHNQW,1909-08-07,2,Central Kansas,regular,,Ellsworth,8,,Minneapolis,0,,,,,final,,,1909/1909-MBW/MBW-19090802.txt,"Minneapolis Better Way Aug 12, 1909",3,1,0,0,4,0,0,,,0,0,0,0,0,0,0,,
