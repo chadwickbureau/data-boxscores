@@ -177,8 +177,7 @@ number: 0
 league: Virginia
 away: Norfolk
 home: Rocky Mount
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Richmond Times-Dispatch, May 8, 1915
 
 ---
@@ -188,8 +187,7 @@ number: 0
 league: Virginia
 away: Suffolk
 home: Portsmouth
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Richmond Times-Dispatch, May 8, 1915
 
 ---
@@ -199,8 +197,7 @@ number: 0
 league: Virginia
 away: Petersburg
 home: Newport News
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Richmond Times-Dispatch, May 8, 1915
 
 ---
@@ -698,8 +695,7 @@ number: 0
 league: Virginia
 away: Newport News
 home: Suffolk
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Richmond Times-Dispatch, May 13, 1915
 
 ---
@@ -709,8 +705,7 @@ number: 0
 league: Virginia
 away: Portsmouth
 home: Petersburg
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Richmond Times-Dispatch, May 13, 1915
 
 ---
@@ -720,6 +715,5 @@ number: 0
 league: Virginia
 away: Rocky Mount
 home: Norfolk 
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Richmond Times-Dispatch, May 13, 1915

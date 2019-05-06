@@ -3,8 +3,7 @@ number: 0
 league: Virginia
 away: Newport News
 home: Norfolk
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Richmond Times-Dispatch, June 4, 1915
 
 ---
@@ -14,8 +13,7 @@ number: 0
 league: Virginia
 away: Rocky Mount
 home: Petersburg
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Richmond Times-Dispatch, June 4, 1915
 
 ---
@@ -25,8 +23,7 @@ number: 0
 league: Virginia
 away: Portsmouth 
 home: Suffolk
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Richmond Times-Dispatch, June 4, 1915
 
 ---
