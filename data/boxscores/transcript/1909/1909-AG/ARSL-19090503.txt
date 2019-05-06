@@ -276,8 +276,7 @@ league: Arkansas State
 away: Hot Springs
 home: Helena
 source: Arkansas Gazette, May 5, 1909
-status: postponed
-status-reason: wet grounds
+status: postponed, wet grounds
 
 ---
 

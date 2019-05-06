@@ -53,8 +53,7 @@ league: Arkansas State
 away: Monroe
 home: Helena
 source: Arkansas Gazette, May 25, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -64,8 +63,7 @@ league: Arkansas State
 away: Fort Smith
 home: Hot Springs
 source: Arkansas Gazette, May 25, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -75,8 +73,7 @@ league: Arkansas State
 away: Alexandria
 home: Jonesboro
 source: Arkansas Gazette, May 25, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -86,7 +83,7 @@ league: Arkansas State
 away: Argenta
 home: Texarkana
 source: Arkansas Gazette, May 26, 1909
-status: thrown-out
+protest: thrown-out
 
 note: protest - manager Riggs of Argenta filed a protest, as player Jutsu had arrived to play with Argenta, but was taken by manager Shelton of Texarkana
 note: protest upheld per AG, June 8, 1909, game 'would not be counted in the standings' per announcement by League President Hurst 1909-06-07
@@ -261,8 +258,7 @@ league: Arkansas State
 away: Monroe
 home: Helena
 source: Arkansas Gazette, May 26, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -423,8 +419,7 @@ league: Arkansas State
 away: Monroe
 home: Helena
 source: Arkansas Gazette, May 27, 1909
-status: postponed
-status-reason: wet grounds
+status: postponed, wet grounds
 
 ---
 

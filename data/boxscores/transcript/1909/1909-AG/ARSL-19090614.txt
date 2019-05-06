@@ -1,5 +1,3 @@
----
-
 date: 1909-06-14
 number: 0
 league: Arkansas State
@@ -103,8 +101,7 @@ league: Arkansas State
 away: Jonesboro
 home: Helena
 source: Arkansas Gazette, June 15, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 

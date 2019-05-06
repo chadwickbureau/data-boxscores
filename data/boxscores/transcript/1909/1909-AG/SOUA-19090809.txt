@@ -196,8 +196,7 @@ league: Southern Association
 away: New Orleans
 home: Memphis
 source: Arkansas Gazette, August 11, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -300,8 +299,7 @@ league: Southern Association
 away: New Orleans
 home: Memphis
 source: Arkansas Gazette, August 12, 1909
-status: postponed
-status-reason: wet grounds
+status: postponed, wet grounds
 
 ---
 
@@ -311,8 +309,7 @@ league: Southern Association
 away: New Orleans
 home: Memphis
 source: Arkansas Gazette, August 12, 1909
-status: postponed
-status-reason: wet ground
+status: postponed, wet grounds
 
 ---
 

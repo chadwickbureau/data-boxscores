@@ -135,8 +135,7 @@ league: Arkansas State
 away: Helena
 home: Monroe
 source: (Memphis) Commercial Appeal, June 30, 1909
-status: cancelled
-status-reason: failure of Monroe to pay guarantee in advance per Helena club's demand
+status: postponed, failure of Monroe to pay guarantee in advance per Helena club's demand
 
 ---
 
@@ -259,7 +258,6 @@ league: Arkansas State
 away: Hot Springs
 home: Helena
 source: (Memphis) Commercial Appeal, July 3, 1909
-status: forfeit
 forfeit-to: home
 U: Smith
 

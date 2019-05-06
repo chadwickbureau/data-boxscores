@@ -157,8 +157,7 @@ league: Southern Association
 away: Birmingham
 home: Mobile
 source: Arkansas Gazette#, June 15, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -259,8 +258,7 @@ league: Southern Association
 away: Birmingham
 home: Mobile
 source: Arkansas Gazette#, June 16, 1909
-
-note: game ended after 8 innings played per agreement
+status: completed early, agreement
 
 Birmingham:	ab r h po a e
 Ellam @ ss:	2 0 0 3 3 0
@@ -657,8 +655,7 @@ league: Southern Association
 away: Nashville
 home: Little Rock
 source: Arkansas Gazette#, June 18, 1909
-status: postponed
-status-reason: rain
+status: abandoned, rain
 note: game stopped in 2nd inning with Nashville up 1-0
 
 ---
@@ -872,8 +869,7 @@ league: Southern Association
 away: Nashville
 home: Little Rock
 source: Arkansas Gazette, June 19, 1909
-status: postponed
-status-reason: rain
+status: abandoned, rain
 note: game officially stopped in 3rd inning with no score
 
 ---
@@ -1086,8 +1082,7 @@ league: Southern Association
 away: Birmingham
 home: New Orleans
 source: Arkansas Gazette#, June 20, 1909
-status: postponed
-status-reason: wet grounds
+status: postponed, wet grounds
 
 ---
 
@@ -1150,8 +1145,8 @@ league: Southern Association
 away: Birmingham
 home: New Orleans
 source: Arkansas Gazette#, June 21, 1909
+status: completed early, rain
 
-note: game called after 8 innings on account of rain
 note: Schriver left the game due to a broken finger on a foul tip
 
 Birmingham:	ab r h po a e
@@ -1207,7 +1202,6 @@ league: Southern Association
 away: Birmingham
 home: New Orleans
 source: Arkansas Gazette#, June 21, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 

@@ -953,8 +953,7 @@ league: Southern Association
 away: Nashville
 home: Memphis
 source: Arkansas Gazette, May 16, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 

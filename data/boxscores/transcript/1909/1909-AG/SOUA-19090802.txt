@@ -1062,8 +1062,7 @@ league: Southern Association
 away: Nashville
 home: Montgomery
 source: Arkansas Gazette#, August 7, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -1173,8 +1172,7 @@ league: Southern Association
 away: Nashville
 home: Montgomery
 source: Arkansas Gazette#, August 8, 1909
-status: postponed
-status-reason: rain
+status: abandoned, rain
 note: game was called in the 2nd inning with score tied at 1-1
 
 ---

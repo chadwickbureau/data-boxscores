@@ -792,8 +792,7 @@ league: Southern Association
 away: Memphis
 home: Nashville
 source: Arkansas Gazette, July 30, 1909
-
-note: game limited to 7 innings per agreement
+status: completed early, agreement
 
 Memphis:	ab r h po a e
 Baerwald @ rf:	3 0 1 2 0 0
@@ -991,8 +990,7 @@ league: Southern Association
 away: Mobile
 home: Montgomery
 source: Arkansas Gazette, July 30, 1909
-
-note: game limited to 7 innings per agreement
+status: completed early, agreement
 
 Mobile:		ab r h po a e
 Wheat @ lf:	2 0 0 0 0 0
@@ -1043,8 +1041,7 @@ league: Southern Association
 away: Mobile
 home: Montgomery
 source: Arkansas Gazette, July 30, 1909
-status: postponed
-status-reason: rain
+status: abandoned, rain
 note: game called after the 2nd inning with score tied 2-2
 
 ---
@@ -1104,8 +1101,7 @@ league: Southern Association
 away: Mobile
 home: Montgomery
 source: Arkansas Gazette, July 31, 1909
-status: postponed
-status-reason: wet grounds
+status: postponed, wet groundsstatus-reason: wet grounds
 note: the second game of the double-header would be played
 
 ---
@@ -1178,8 +1174,7 @@ league: Southern Association
 away: New Orleans
 home: Atlanta
 source: Arkansas Gazette, July 31, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -1189,8 +1184,7 @@ league: Southern Association
 away: Little Rock
 home: Birmingham
 source: Arkansas Gazette, July 31, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 

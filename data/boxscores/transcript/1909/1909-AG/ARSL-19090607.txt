@@ -103,19 +103,6 @@ U: Smith
 
 ---
 
-date: 1909-05-25
-number: 0
-league: Arkansas State
-away: Argenta
-home: Texarkana
-status: thrown-out
-status-reason: Argenta protest upheld
-source: Arkansas Gazette, June 8, 1909
-
-note: protest - manager Riggs of Argenta filed a protest, as player Jutze had arrived to play with Argenta, but was taken by manager Shelton of Texarkana - game 'would not be counted in the standings' per announcement by League President Hurst 1909-06-07
-
----
-
 date: 1909-06-08
 number: 0
 league: Arkansas State
@@ -500,8 +487,7 @@ league: Arkansas State
 away: Helena
 home: Hot Springs
 source: Arkansas Gazette, June 12, 1909
-status: postponed
-status-reason: rain
+status: abandoned, rain
 note: game stopped at the end of the 2nd inning with Helena leading 2-0
 
 ---
@@ -512,8 +498,7 @@ league: Arkansas State
 away: Fort Smith
 home: Texarkana
 source: Arkansas Gazette, June 12, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -887,8 +872,7 @@ league: Arkansas State
 away: Jonesboro
 home: Monroe
 source: Arkansas Gazette, June 14, 1909
-status: postponed
-status-reason: rain
+status: abandoned, rain
 note: game called at end of 3rd inning with Jonesboro up 1-0
 
 

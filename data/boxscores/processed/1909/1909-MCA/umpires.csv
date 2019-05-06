@@ -23,35 +23,51 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1909,Arkansas State League,regular,P2344945,Swartze,,1909-07-07,1909-07-07,1
 1909,Arkansas State League,regular,P2850446,Wayman,,1909-07-03,1909-07-03,1
 1909,Northeast Arkansas League,regular,P0525150,Adams,,1909-08-11,1909-08-11,1
-1909,Northeast Arkansas League,regular,P5765853,Crotty,,1909-07-31,1909-08-21,18
+1909,Northeast Arkansas League,regular,P2706496,Aubrey,,1909-09-16,1909-09-16,1
+1909,Northeast Arkansas League,regular,P1886500,Brian,,1909-08-24,1909-08-24,1
+1909,Northeast Arkansas League,regular,P3513842,Brion,,1909-08-23,1909-08-23,1
+1909,Northeast Arkansas League,regular,P8440062,Browning,,1909-09-16,1909-09-16,1
+1909,Northeast Arkansas League,regular,P5765853,Crotty,,1909-07-31,1909-09-15,37
 1909,Northeast Arkansas League,regular,P6769502,Farabee,,1909-07-29,1909-07-29,1
+1909,Northeast Arkansas League,regular,P4606155,Griffith,,1909-08-30,1909-08-30,1
+1909,Northeast Arkansas League,regular,P7989943,Johnson,,1909-09-08,1909-09-20,12
+1909,Northeast Arkansas League,regular,P1606999,Jones,,1909-08-25,1909-08-25,1
+1909,Northeast Arkansas League,regular,P7031012,Laird,,1909-09-23,1909-09-23,1
+1909,Northeast Arkansas League,regular,P7567836,Law,,1909-08-27,1909-09-25,18
 1909,Northeast Arkansas League,regular,P1145017,Luhrsen,,1909-08-21,1909-08-21,1
 1909,Northeast Arkansas League,regular,P8766586,McDonald,,1909-08-11,1909-08-11,1
 1909,Northeast Arkansas League,regular,P0304194,Robinson,,1909-08-20,1909-08-20,1
 1909,Northeast Arkansas League,regular,P3013138,Ryan,,1909-08-05,1909-08-19,13
+1909,Northeast Arkansas League,regular,P6310912,Shaff,,1909-09-03,1909-09-03,1
 1909,Northeast Arkansas League,regular,P5506486,Shauver,,1909-07-30,1909-07-31,2
-1909,Northeast Arkansas League,regular,P5924413,Smith,,1909-07-26,1909-08-04,6
-1909,Northeast Arkansas League,regular,P4106758,Sullivan,,1909-07-29,1909-07-30,2
+1909,Northeast Arkansas League,regular,P5924413,Smith,,1909-07-26,1909-09-25,12
+1909,Northeast Arkansas League,regular,P4106758,Sullivan,,1909-07-29,1909-08-26,3
+1909,Northeast Arkansas League,regular,P6975152,Thompson,,1909-09-09,1909-09-09,1
 1909,Northeast Arkansas League,regular,P7075045,Wayman,,1909-07-27,1909-07-27,1
 1909,Northeast Arkansas League,regular,P3858781,Weimar,,1909-07-26,1909-07-26,1
 1909,Northeast Arkansas League,regular,P5045495,Williamson,,1909-08-11,1909-08-20,2
 1909,Northeast Arkansas League,regular,P1716196,Wyman,,1909-07-28,1909-07-28,1
-1909,Southern Association,regular,P4650258,Carpenter,,1909-04-15,1909-08-22,106
+1909,Southern Association,regular,P4650258,Carpenter,,1909-04-15,1909-09-18,131
+1909,Southern Association,regular,P3817965,Carpentr,,1909-08-24,1909-08-24,1
 1909,Southern Association,regular,P8665110,Cartenter,,1909-05-03,1909-05-03,1
 1909,Southern Association,regular,P9839575,Fitsimmons,,1909-07-06,1909-07-06,1
-1909,Southern Association,regular,P1022705,Fitzsimmons,,1909-04-15,1909-08-16,104
+1909,Southern Association,regular,P1022705,Fitzsimmons,,1909-04-15,1909-09-18,127
 1909,Southern Association,regular,P0862786,Flood,,1909-07-20,1909-07-20,1
 1909,Southern Association,regular,P0746776,Kellum,,1909-07-19,1909-07-20,2
+1909,Southern Association,regular,P1374400,Marcan,,1909-09-18,1909-09-18,1
 1909,Southern Association,regular,P3824315,Matthews,,1909-07-19,1909-08-14,6
-1909,Southern Association,regular,P3286379,Moran,,1909-04-15,1909-08-21,95
-1909,Southern Association,regular,P9916884,O'Brien,,1909-04-15,1909-08-22,108
+1909,Southern Association,regular,P3286379,Moran,,1909-04-15,1909-09-18,119
+1909,Southern Association,regular,P9916884,O'Brien,,1909-04-15,1909-09-18,131
 1909,Southern Association,regular,P6965488,O'Brien,Rudderham,1909-08-02,1909-08-18,2
 1909,Southern Association,regular,P8912300,Pfeninger,,1909-05-31,1909-05-31,1
-1909,Southern Association,regular,P6973690,Pfenninger,,1909-04-15,1909-08-21,109
-1909,Southern Association,regular,P4805514,Rudderham,,1909-04-15,1909-08-22,104
+1909,Southern Association,regular,P6973690,Pfenninger,,1909-04-15,1909-09-17,136
+1909,Southern Association,regular,P0143712,Pfenninger,O'Brien,1909-09-05,1909-09-05,1
+1909,Southern Association,regular,P4805514,Rudderham,,1909-04-15,1909-09-18,128
 1909,Southern Association,regular,P4692041,Rudderhm,,1909-04-22,1909-04-22,1
 1909,Southern Association,regular,P9746000,Rudderman,,1909-06-12,1909-06-12,1
+1909,Southern Association,regular,P4599999,Ruudderham,,1909-09-06,1909-09-06,1
 1909,Southern Association,regular,P3116643,Shannon,,1909-07-19,1909-07-20,2
 1909,Southern Association,regular,P7595802,Shields,,1909-08-12,1909-08-12,2
 1909,Southern Association,regular,P5662712,Stickney,,1909-07-21,1909-07-21,1
+1909,Southern Association,regular,P8294446,Watt,,1909-08-30,1909-08-30,1
 1909,Southern Association,regular,P3929786,Wheeler,,1909-08-14,1909-08-14,1

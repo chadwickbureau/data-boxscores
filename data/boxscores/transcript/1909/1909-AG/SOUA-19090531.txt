@@ -1,17 +1,5 @@
 date: 1909-05-31
-number: 1
-league: Southern Association
-away: Memphis
-home: Nashville
-source: Arkansas Gazette, June 1, 1909
-status: unknown
-status-reason: unknown
-note: per May 31 Arkansas Gazette, a doubleheader was scheduled for June 1 - however, the June 1 Arkansas Gazette has no mention of a rainout of one of the games
-
----
-
-date: 1909-05-31
-number: 2
+number: 0
 league: Southern Association
 away: Memphis
 home: Nashville
@@ -60,8 +48,7 @@ league: Southern Association
 away: New Orleans
 home: Montgomery
 source: Arkansas Gazette, June 1, 1909
-status: postponed
-status-reason: wet grounds
+status: postponed, wet grounds
 note: this was the morning game of a scheduled double-header
 
 ---
@@ -632,8 +619,7 @@ league: Southern Association
 away: New Orleans
 home: Nashville
 source: Arkansas Gazette, June 3, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -643,8 +629,7 @@ league: Southern Association
 away: Little Rock
 home: Montgomery
 source: Arkansas Gazette, June 3, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -654,8 +639,7 @@ league: Southern Association
 away: Memphis
 home: Atlanta
 source: Arkansas Gazette, June 4, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -665,8 +649,7 @@ league: Southern Association
 away: New Orleans
 home: Nashville
 source: Arkansas Gazette, June 4, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -676,8 +659,7 @@ league: Southern Association
 away: Little Rock
 home: Montgomery
 source: Arkansas Gazette, June 4, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -687,8 +669,7 @@ league: Southern Association
 away: Mobile
 home: Birmingham
 source: Arkansas Gazette, June 4, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -1052,8 +1033,7 @@ league: Southern Association
 away: Little Rock
 home: Montgomery
 source: Arkansas Gazette, June 5, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 

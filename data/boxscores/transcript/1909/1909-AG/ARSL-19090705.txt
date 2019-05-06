@@ -123,7 +123,6 @@ league: Arkansas State
 away: Newport-Batesville
 home: Helena
 source: Arkansas Gazette, July 6, 1909
-status: forfeit
 forfeit-to: home
 
 note: morning game of holiday doubleheader
@@ -461,20 +460,6 @@ B_LOB: Fort Smith #7; Texarkana #7
 F_DP: Cowan, Jeffries
 T: 1:45
 U: Hastings
-
----
-
-date: 1909-07-02
-number: 0
-league: Arkansas State
-away: Hot Springs
-home: Helena
-source: Arkansas Gazette, July 7, 1909
-status: thrown out
-status-reason: overruled by league
-U: Smith
-
-note: President Rider decided that this game, originally awarded to Helena by forfeit, will be thrown out and declared 'no game'
 
 ---
 

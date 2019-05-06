@@ -355,8 +355,7 @@ league: Southern Association
 away: New Orleans
 home: Little Rock
 source: Arkansas Gazette, May 5, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -1116,8 +1115,7 @@ league: Southern Association
 away: Little Rock
 home: Memphis
 source: Arkansas Gazette, May 10, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 

@@ -4,8 +4,7 @@ league: Arkansas State
 away: Argenta
 home: Monroe
 source: Arkansas Gazette, May 11, 1909
-status: postponed
-status-reason: travel delay - late train prevented Argenta from arriving
+status: postponed, late train prevented Argenta from arriving
 
 ---
 
@@ -118,8 +117,7 @@ league: Arkansas State
 away: Hot Springs
 home: Alexandria
 source: Arkansas Gazette, May 11, 1909
-status: postponed
-status-reason: travel delay - late train
+status: postponed, late train
 
 ---
 
@@ -1031,8 +1029,7 @@ league: Arkansas State
 away: Argenta
 home: Alexandria
 source: Arkansas Gazette, May 16, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -1042,8 +1039,7 @@ league: Arkansas State
 away: Texarkana
 home: Helena
 source: Arkansas Gazette, May 16, 1909
-status: postponed
-status-reason: rain
+status: abandoned, rain
 note: game stopped in 3rd inning with Texarkana up 3-0
 
 ---
@@ -1054,8 +1050,7 @@ league: Arkansas State
 away: Fort Smith
 home: Jonesboro
 source: Arkansas Gazette, May 16, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 

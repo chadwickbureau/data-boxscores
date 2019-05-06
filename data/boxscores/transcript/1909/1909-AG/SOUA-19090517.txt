@@ -550,8 +550,7 @@ league: Southern Association
 away: Nashville
 home: Little Rock
 source: Arkansas Gazette, May 20, 1909
-status: postponed
-status-reason: wet grounds
+status: postponed, wet grounds
 
 ---
 
@@ -561,8 +560,7 @@ league: Southern Association
 away: Atlanta
 home: Memphis
 source: Arkansas Gazette, May 21, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 note: per separate article at source, the managers agreed to reschedule this rainout for June 17
 
@@ -827,8 +825,7 @@ league: Southern Association
 away: Montgomery
 home: Little Rock
 source: Arkansas Gazette, May 22, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 note: game to be made up as first game of doubleheader 05-22
 
 ---

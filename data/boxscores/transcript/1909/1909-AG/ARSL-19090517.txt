@@ -1,5 +1,3 @@
----
-
 date: 1909-05-17
 number: 0
 league: Arkansas State
@@ -53,8 +51,7 @@ league: Arkansas State
 away: Jonesboro
 home: Alexandria
 source: Arkansas Gazette, May 18, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -64,8 +61,7 @@ league: Arkansas State
 away: Helena
 home: Monroe
 source: Arkansas Gazette, May 18, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -130,8 +126,7 @@ league: Arkansas State
 away: Argenta
 home: Texarkana
 source: Arkansas Gazette, May 19, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -141,8 +136,7 @@ league: Arkansas State
 away: Hot Springs
 home: Fort Smith
 source: Arkansas Gazette, May 19, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -152,8 +146,7 @@ league: Arkansas State
 away: Helena
 home: Monroe
 source: Arkansas Gazette, May 19, 1909
-status: postponed
-status-reason: rain
+status: abandoned, rain
 note: game called after 3 innings, with no score
 
 ---
@@ -184,7 +177,7 @@ Besse @ 1b:	4 1 0 12 0 1
 Parrott @ c:	4 1 1 6 1 0
 Dawkins @ 3b:	2 0 0 3 1 0
 Bankhead @ rf:	4 1 1 1 1 0
-Pickens @ sss:	4 1 2 0 3 0
+Pickens @ ss:	4 1 2 0 3 0
 Powers @ lf:	4 0 1 2 0 0
 Jones @ p:	3 0 0 1 2 0
 TOTALS:		33 6 7 27 10 2

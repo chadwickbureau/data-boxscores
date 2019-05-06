@@ -208,8 +208,7 @@ league: Southern Association
 away: Montgomery
 home: Memphis
 source: Arkansas Gazette, June 9, 1909
-status: postponed
-status-reason: reunion event
+status: postponed, reunion event
 
 ---
 
@@ -770,8 +769,7 @@ league: Southern Association
 away: New Orleans
 home: Atlanta
 source: Arkansas Gazette, June 11, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -1207,8 +1205,7 @@ league: Southern Association
 away: Little Rock
 home: Nashville
 source: Arkansas Gazette, June 13, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -1218,8 +1215,7 @@ league: Southern Association
 away: Mobile
 home: Montgomery
 source: Arkansas Gazette, June 13, 1909
-status: postponed
-status-reason: rain
+status: abandoned, rain
 U: Rudderman
 
 note: per article at source, Rudderham called the game in the 4th inning with Montgomery up 7-0, and a light drizzle falling at the time - the fans 'threw cushions' at the umpire and policeman had to prevent further disorder

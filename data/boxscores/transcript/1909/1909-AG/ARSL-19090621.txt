@@ -441,8 +441,7 @@ league: Arkansas State
 away: Monroe
 home: Texarkana
 source: Arkansas Gazette, June 24, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 

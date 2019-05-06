@@ -212,7 +212,6 @@ league: Southern Association
 away: New Orleans
 home: Mobile
 source: Arkansas Gazette, July 6, 1909
-status: forfeit
 forfeit-to: visitor
 U: Carpenter; Pfenninger
 
@@ -691,8 +690,7 @@ league: Southern Association
 away: Montgomery
 home: Nashville
 source: Arkansas Gazette, July 8, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -855,8 +853,7 @@ league: Southern Association
 away: Nashville
 home: Atlanta
 source: Arkansas Gazette, July 9, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -970,8 +967,7 @@ league: Southern Association
 away: Nashville
 home: Atlanta
 source: Arkansas Gazette, July 10, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 note: brief item in Gazette status there was to be a doubleheader 1909-07-09
 
@@ -983,8 +979,7 @@ league: Southern Association
 away: Nashville
 home: Atlanta
 source: Arkansas Gazette, July 10, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 note: brief item in Gazette status there was to be a doubleheader 1909-07-09
 
@@ -996,8 +991,7 @@ league: Southern Association
 away: Little Rock
 home: Mobile
 source: Arkansas Gazette, July 10, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 

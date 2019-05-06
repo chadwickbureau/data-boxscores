@@ -56,8 +56,7 @@ league: Southern Association
 away: Memphis
 home: Mobile
 source: Arkansas Gazette, July 13, 1909
-
-note: game limited to 7 innings by agreement
+status: completed early, agreement
 
 Memphis:	ab r h po a e
 Baerwald @ rf:	4 1 1 2 0 0
@@ -204,8 +203,7 @@ league: Southern Association
 away: Nashville
 home: Birmingham
 source: Arkansas Gazette, July 13, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -322,8 +320,7 @@ league: Southern Association
 away: Nashville
 home: Birmingham
 source: Arkansas Gazette, July 14, 1909
-
-note: game limited to 7 innings by prior agreement
+status: completed early, agreement
 
 Nashville:	ab r h po a e
 Bay @ lf:	4 0 0 4 0 1
@@ -429,8 +426,7 @@ league: Southern Association
 away: Atlanta
 home: Montgomery
 source: Arkansas Gazette, July 14, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -440,8 +436,7 @@ league: Southern Association
 away: Memphis
 home: Mobile
 source: Arkansas Gazette, July 15, 1909
-status: postponed
-status-reason: rain
+status: abandoned, rain
 note: rain stopped game in top of the 2nd inning with Memphis up 1-0 and two men on
 
 ---

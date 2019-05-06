@@ -357,8 +357,7 @@ league: Southern Association
 away: Atlanta
 home: Nashville
 source: Arkansas Gazette, April 21, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -1170,8 +1169,7 @@ league: Southern Association
 away: Memphis
 home: Mobile
 source: Arkansas Gazette, April 25, 1909
-status: postponed
-status-reason: rain
+status: abandoned, rain
 U: Carpenter
 note: game stopped in 2nd inning on account of darkness, with Mobile up 1-0 - per recap, 'a terrific rainstorm broke a few minutes later'
 
@@ -1183,8 +1181,7 @@ league: Southern Association
 away: Nashville
 home: Memphis
 source: Arkansas Gazette, April 25, 1909
-status: postponed
-status-reason: travel delay for Memphis club
+status: postponed, travel delay for Memphis club
 note: Memphis club stranded by freight train wreck enroute from Mobile to Memphis
 
 ---

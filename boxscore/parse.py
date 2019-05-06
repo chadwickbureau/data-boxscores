@@ -252,7 +252,9 @@ class Game(object):
         else:
             self.metadata['status'] = status
             self.metadata['status-reason'] = reason
-        
+
+    def do_status_reason(self, key, value):
+        self.metadata['status-reason'] = value
         
     def do_line(self, key, value):   return self._process_linescore(value)
 

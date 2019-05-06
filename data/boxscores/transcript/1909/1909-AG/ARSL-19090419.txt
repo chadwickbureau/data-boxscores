@@ -333,8 +333,7 @@ league: Arkansas State
 away: Helena
 home: Fort Smith
 source: Arkansas Gazette, April 21, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -504,8 +503,7 @@ league: Arkansas State
 away: Helena
 home: Fort Smith
 source: Arkansas Gazette, April 22, 1909
-status: postponed
-status-reason: wet grounds
+status: postponed, wet grounds
 
 ---
 

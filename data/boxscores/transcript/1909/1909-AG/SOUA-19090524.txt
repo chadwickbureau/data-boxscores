@@ -157,8 +157,7 @@ league: Southern Association
 away: Atlanta
 home: Little Rock
 source: Arkansas Gazette, May 25, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 note: game to be made up as part of double-header May 25
 
 ---
@@ -574,10 +573,7 @@ league: Southern Association
 away: Birmingham
 home: New Orleans
 source: Arkansas Gazette, May 27, 1909
-status: postponed
-status-reason: rain
-
-note: no Southen Association games scheduled for May 27
+status: postponed, rain
 
 ---
 
@@ -967,8 +963,7 @@ league: Southern Association
 away: Nashville
 home: Memphis
 source: Arkansas Gazette, May 31, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 note: game rescheduled per agreement for August 23
 
 ---

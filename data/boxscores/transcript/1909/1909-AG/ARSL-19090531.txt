@@ -125,7 +125,7 @@ Casey @ p:	4 0 1 1 5 0
 TOTALS:		33 2 5 24 16 4
 
 Hot Springs:	ab r h po a e
-Bromley @ ef:	5 1 0 1 0 0
+Bromley @ rf:	5 1 0 1 0 0
 Coyle @ 1b:	4 0 2 14 0 0
 Smitheal @ ss:	5 2 0 0 3 1
 Russell @ lf:	3 1 2 1 0 0
@@ -156,7 +156,6 @@ league: Arkansas State
 away: Texarkana
 home: Fort Smith
 source: Arkansas Gazette, June 1, 1909
-status: forfeit
 forfeit-to: visitor
 U: Smith
 
@@ -322,8 +321,7 @@ league: Arkansas State
 away: Jonesboro
 home: Helena
 source: Arkansas Gazette, June 2, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 

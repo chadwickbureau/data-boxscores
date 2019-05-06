@@ -276,8 +276,7 @@ league: Arkansas State
 away: Helena
 home: Monroe
 source: Arkansas Gazette, June 30, 1909
-status: cancelled
-status-reason: Monroe club was unable to come up with cash funds to pay guarantee money demanaded before game by Helena - manager Vandagrift refused to play game
+status: postponed, Monroe club was unable to come up with cash funds to pay guarantee money demanaded before game by Helena - manager Vandagrift refused to play game
 
 ---
 
@@ -483,8 +482,7 @@ league: Arkansas State
 away: Fort Smith
 home: Texarkana
 source: Arkansas Gazette, July 2, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -599,12 +597,12 @@ league: Arkansas State
 away: Hot Springs
 home: Helena
 source: Arkansas Gazette, July 3, 1909
-status: forfeit
 forfeit-to: home
 U: Smith
 
 note: ejection - Coyle ejected for arguing a 3rd strike call on him in the top of the 3rd inning - Coyle did not leave the grounds as fast as umpire thought he should, and umpire ruled a forfeit
 note: protest - Coyle gave notice of protest on the forfeit ruling, claiming that umpire did not call time for the required three minutes to allow Coyle to leave the grounds
+note: President Rider decided that this game, originally awarded to Helena by forfeit, will be thrown out and declared 'no game'
 
 ---
 

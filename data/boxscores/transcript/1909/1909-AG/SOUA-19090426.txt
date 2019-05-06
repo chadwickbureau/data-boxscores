@@ -375,8 +375,7 @@ league: Southern Association
 away: Montgomery
 home: Atlanta
 source: Arkansas Gazette, April 28, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -386,8 +385,7 @@ league: Southern Association
 away: Nashville
 home: Birmingham
 source: Arkansas Gazette, April 28, 1909
-status: postponed
-status-reason: wet grounds
+status: postponed, wet grounds
 
 ---
 
@@ -759,8 +757,7 @@ league: Southern Association
 away: New Orleans
 home: Memphis
 source: Arkansas Gazette, May 1, 1909
-status: postponed
-status-reason: wet grounds
+status: postponed, wet grounds
 
 ---
 
@@ -848,8 +845,7 @@ league: Southern Association
 away: Atlanta
 home: Birmingham
 source: Arkansas Gazette, May 1, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -917,7 +913,7 @@ Moran @ lf:	2 0 0 1 0 0
 Rohen @ 1b:	2 1 0 7 0 0
 Walker @ 3b:	3 0 0 2 1 0
 Castleton @ p:	3 0 2 0 5 0
-Kirkpatrick @ :	x x x x x x
+Kirkpatrick @ ?:	x x x x x x
 TOTALS:		30 3 5 30 12 0
 
 note: missing data - the box for Atlanta is missing an entry for player Kirkpatrick (who, per summary, was hit by a pitch) - Kirkpatrick's entry is appended at the end of the box

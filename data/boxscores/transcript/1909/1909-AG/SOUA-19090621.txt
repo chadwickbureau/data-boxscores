@@ -162,8 +162,7 @@ league: Southern Association
 away: Nashville
 home: New Orleans
 source: Arkansas Gazette, June 22, 1909
-status: postponed
-status-reason: wet grounds
+status: postponed, wet grounds
 
 ---
 
@@ -173,8 +172,7 @@ league: Southern Association
 away: Birmingham
 home: Memphis
 source: Arkansas Gazette, June 23, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
@@ -996,8 +994,7 @@ league: Southern Association
 away: Birmingham
 home: Little Rock
 source: Arkansas Gazette, June 27, 1909
-status: postponed
-status-reason: rain
+status: postponed, rain
 
 ---
 
