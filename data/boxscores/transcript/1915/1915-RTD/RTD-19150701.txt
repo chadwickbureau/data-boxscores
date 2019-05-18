@@ -1,0 +1,1000 @@
+date: 1915-07-01
+number: 0
+league: Virginia
+away: Norfolk
+home: Rocky Mount
+source: Richmond Times-Dispatch, July 2, 1915
+A: 468
+
+Norfolk:	ab r h po a e
+Cleveland @ 3b:	4 0 1 4 3 0
+Steinbrenner @ 2b:	4 0 1 1 2 0
+McMahon @ ss:	4 0 2 0 4 0
+Foster @ lf:	3 0 1 2 0 1
+Thrasher @ cf:	4 0 1 3 0 0
+Foiles @ rf:	4 0 0 1 0 1
+Stewart @ 1b:	3 1 2 8 0 0
+Mace @ c:	2 0 0 5 0 0	
+Humphreys @ p:	3 0 0 0 0 0
+TOTALS:		31 1 8 24 9 2
+
+Rocky Mount:	ab r h po a e
+Bittle @ lf:	4 0 0 3 0 0
+Goosetree @ 3b:	4 1 2 2 0 0 
+Edwards @ 2b:	4 0 1 3 3 0
+Gray @ rf:	4 1 1 0 0 0 
+Eisel @ cf:	3 0 0 4 0 0
+Ulrich @ c:	3 0 0 5 2 0
+Parmalee @ ss:	4 0 0 2 4 0
+Snyder @ 1b:	3 0 1 8 0 0 
+O'Brien @ p:	3 0 0 1 4 0
+TOTALS:		31 2 5 27 11 0
+
+line: Norfolk:     0 0 0 0 1 0 0 0 0 - 1
+line: Rocky Mount: 0 0 0 0 0 0 2 0 x - 2
+
+B_LOB: Norfolk #5; Rocky Mount #4
+B_2B: Steinbrenner; Foster; McMahon #2
+B_SF: Foster
+P_BB: O'Brien #1
+P_SO: Humphreys #4; O'Brien #4
+T: 1:35
+U: Bussey 
+
+---
+
+date: 1915-07-01
+number: 0
+league: Virginia
+away: Suffolk
+home: Petersburg
+source: Richmond Times-Dispatch, July 2, 1915
+A: 400
+
+Suffolk:	ab r h po a e
+Irmscher @ 3b:	4 0 1 0 5 0
+Stewart @ cf:	4 0 0 2 0 0
+Goalby @ 2b:	4 0 1 2 1 0 
+Allen @ lf:	4 0 0 2 0 0 
+Weir @ rf:	3 0 1 1 0 0
+Welcher @ c:	2 0 0 2 2 0
+Poh @ ss:	3 0 0 3 5 1
+Henry @ 1b:	2 0 1 12 0 0
+Efird @ p:	3 0 0 0 3 0
+TOTALS:		29 0 4 24 16 1
+
+Petersburg:	ab r h po a e
+Simmons @ rf:	4 0 2 2 0 0
+Spencer @ cf:	4 1 2 2 0 0
+Sharpe @ 2b:	3 0 1 2 1 0
+Donovan @ lf:	3 1 1 3 0 0
+Long @ 3b:	2 0 1 2 1 1
+Barnett @ 1b:	3 0 0 9 1 0
+Busch @ ss:	3 0 1 1 3 0
+Rice @ p:	3 0 1 1 0 0
+Francisco @ c:	3 1 0 5 4 0
+TOTALS:		28 3 9 27 10 1
+
+line: Suffolk:    0 0 0 0 0 0 0 0 0 - 0
+line: Petersburg: 0 1 0 0 0 0 1 1 x - 3
+
+B_LOB: Petersburg #3; Suffolk #4
+B_3B: Goalby
+B_SB: Henry; Simmons; Spencer
+B_SH: Long; Sharpe; Welcher
+B_HP: Henry
+P_SO: Rice #4; Efird #1
+P_HP: Rice
+F_DP: Poh, Goalby, Henry
+T: 1:10
+U: McGowan
+
+---
+
+date: 1915-07-01
+number: 0
+league: Virginia
+away: Newport News
+home: Portsmouth
+source: Richmond Times-Dispatch, July 2, 1915
+
+Newport News:	ab r h po a e
+Smith @ lf:	5 0 1 3 0 0
+Bunting @ 2b:	4 3 2 1 2 0
+Walker @ cf:	5 1 2 3 0 0
+Crist @ ss:	4 0 0 2 4 1
+Walters @ 3b:	3 0 0 1 2 0
+Voltz @ rf:	3 0 0 3 0 0
+Hudgins @ 1b:	3 1 2 9 0 2
+Hasson @ c:	3 0 1 1 1 0
+Gardinier @ p:	4 0 0 1 1 2
+TOTALS:		34 5 8 24 10 5
+
+Portsmouth:	ab r h po a e
+Hummel @ ss:	4 1 1 4 1 1
+Taguer @ 2b:	3 0 1 3 1 1  
+Hurley @ 1b:	5 1 0 8 0 1
+St. Martin @ rf:	5 1 3 0 0 0
+Damrau @ 3b:	3 0 1 2 5 1
+Whitted @ cf:	3 0 0 2 1 0
+McCleary @ lf:	4 0 2 2 0 0
+(~8.1)Garvin @ c:	3 1 2 4 1 0
+(~8.2)Waite @ c:	0 0 0 1 0 0
+Welcher @ p:	1 0 0 1 0 0 
+Strain @ p:	3 1 1 0 1 0
+TOTALS:		34 6 11 27 11 4
+
+line: Newport News: 1 0 2 1 0 0 1 0 0 - 5
+line: Portsmouth:   1 0 0 0 0 0 2 3 x - 6
+
+B_LOB: Newport News #6; Portsmouth #10
+B_2B: Smith; St. Martin
+B_HR: Walker; Hudgins
+B_SB: Bunting #2; Walker
+B_SH: Hudgins; Taguer
+P_BB: Gardinier #4; Welcher #2; Strain #2
+P_SO: Strain #4
+P_H: Welcher #5; Strain #3
+P_IP: Welcher #3.1; Strain #5.2
+P_WP: Gardinier
+F_DP: Whitted, Garvin; Walters, Crist, Hudgins
+T: 1:50
+U: Bigbie; Cullen
+
+P_GS: ~Welcher
+P_GF: ~Strain
+P_W: ~Strain
+P_R: ~Welcher #4; ~Strain #1
+
+---
+
+date: 1915-07-02
+number: 0
+league: Virginia
+away: Suffolk
+home: Petersburg
+source: Richmond Times-Dispatch, July 3, 1915
+A: 400
+
+Suffolk:	ab r h po a e
+Irmscher @ 3b:	4 1 1 1 6 0
+Allen @ lf:	4 0 1 1 0 0 
+Stewart @ cf:	4 0 0 0 0 0
+Goalby @ 2b:	4 0 1 3 3 1
+Weir @ rf:	3 0 0 1 0 1
+Poh @ ss:	4 0 1 0 1 0
+Henry @ 1b:	3 0 0 13 1 0
+Welcher @ c:	3 0 1 5 3 1
+Gaston @ p:	3 0 0 0 2 0
+TOTALS:		31 1 5 24 16 3
+
+Petersburg:	ab r h po a e
+Simmons @ rf:	3 0 0 2 0 0
+Spencer @ cf:	3 1 1 0 0 0
+Sharp @ 2b:	3 0 0 3 3 0
+Donovan @ lf:	4 1 1 3 0 0
+Long @ 3b:	3 1 2 1 3 0
+Barnett @ 1b:	3 0 1 11 0 0
+Busch @ ss:	3 0 0 1 2 0
+Hirsch @ p:	3 0 0 0 0 0
+Francisco @ c:	2 0 1 6 1 0
+TOTALS:		27 3 6 27 9 0
+
+line: Suffolk:    1 0 0 0 0 0 0 0 0 - 1
+line: Petersburg: 0 0 0 2 0 1 0 0 x - 3
+
+B_LOB: Petersburg #4; Suffolk #3
+B_2B: Allen
+B_SB: Simmons; Irmscher; Goalby
+B_SH: Sharp
+P_BB: Gaston #3
+P_SO: Hirsch #3; Gaston #4 
+F_DP: Long, Sharp, Barnett
+T: 1:30
+U: McGowan
+
+---
+
+date: 1915-07-02
+number: 0
+league: Virginia
+away: Norfolk
+home: Rocky Mount
+source: Richmond Times-Dispatch, July 3, 1915
+A: 575
+
+Norfolk:	ab r h po a e
+Cleveland @ 3b:	6 3 2 3 3 0
+Steinbrenner @ 2b:	4 1 0 2 4 0
+McMahon @ ss:	4 2 1 1 1 1
+Foster @ lf:	5 4 3 5 0 0
+Thrasher @ cf:	4 2 3 4 0 0 
+Foiles @ 1b:	4 1 2 7 0 0 
+Stewart @ rf:	3 0 2 1 1 0
+Mace @ c:	3 1 0 4 0 0 	
+Barton @ p:	1 1 1 0 1 0 
+Nicks @ p:	2 1 0 0 0 0
+TOTALS:		36 16 14 27 10 1
+
+Rocky Mount:	ab r h po a e
+Bittle @ lf:	4 2 2 1 0 0 
+Goosetree @ 3b-p:	5 1 2 0 5 2
+Edwards @ 2b:	4 0 2 2 4 0 
+Gray @ rf:	4 1 3 1 3 0
+Eisel @ cf:	4 0 0 3 0 0
+Parmalee @ ss:	4 0 0 3 2 2
+Snyder @ 1b:	3 1 1 13 0 0 
+Ryan @ c:	3 1 0 4 0 2
+Leake @ p:	2 1 1 0 1 1 
+O'Brien @ 3b:	2 0 0 0 3 0
+TOTALS:		35 7 11 27 18 7
+
+line: Norfolk:     0 0 6 3 0 4 0 2 1 - 16
+line: Rocky Mount: 2 3 0 1 0 0 0 1 0 - 7
+
+B_LOB: Norfolk #6; Rocky Mount #4
+B_2B: Cleveland; McMahon; Foiles; Thrasher; Gray
+B_3B: Bittle
+B_HR: Foster; Thrasher
+B_SB: Cleveland; Parmalee
+B_SH: Thrasher; Steinbrenner; Bittle
+B_SF: Foiles; Mace; McMahon; Nicks
+B_HP: Steinbrenner; Foster
+P_BB: Barton #2; Leake #3; Goosetree #2
+P_SO: Barton #1; Nicks #2; Leake #3; Goosetree #1
+P_H: Barton #6; Nicks #5; Leake #6; Goosetree #8
+P_IP: Barton #2; Nicks #7; Leake #4; Goosetree #5
+P_HP: Leake
+P_WP: Barton
+T: 2:00
+U: Bussey 
+
+P_GS: ~Barton; ~Leake
+P_GF: ~Nicks; ~Goosetree
+P_W: ~Nicks
+P_L: ~Leake
+P_R: ~Barton #5; ~Nicks #2; ~Leake #9; ~Goosetree #7
+
+---
+
+date: 1915-07-02
+number: 0
+league: Virginia
+away: Newport News
+home: Portsmouth
+source: Richmond Times-Dispatch, July 3, 1915
+
+Newport News:	ab r h po a e
+Bunting @ 2b:	3 0 0 3 1 0
+Walker @ cf:	4 0 0 3 1 0
+Crist @ ss:	3 0 1 5 2 1
+Smith @ lf:	3 0 0 0 0 0
+Hopkins @ rf:	4 0 1 0 0 0
+Walters @ 3b:	4 0 1 1 4 0
+Hudgins @ 1b:	4 0 1 4 2 2 
+Hasson @ c:	3 0 1 7 1 0
+Voltz @ p:	1 0 1 1 4 0
+Hamilton @ p:	0 0 0 0 0 0
+TOTALS:		29 0 6 24 15 3
+
+Portsmouth:	ab r h po a e
+Hummel @ ss:	5 0 2 2 6 0 
+Taguer @ 2b:	3 0 1 2 1 0  
+Hurley @ 1b:	2 1 2 9 0 0 
+St. Martin @ rf:	3 0 0 1 0 0
+Damrau @ 3b:	4 1 0 3 5 1
+Whitted @ cf:	2 1 1 2 0 0
+McCleary @ lf:	4 1 2 1 2 0
+Waite @ c:	3 0 1 7 0 0
+Craft @ p:	4 0 1 0 2 0 
+TOTALS:		30 4 10 27 16 1
+
+line: Newport News: 0 0 0 0 0 0 0 0 0 - 0
+line: Portsmouth:   0 0 2 0 0 0 0 2 x - 4
+
+B_LOB: Newport News #7; Portsmouth #10
+B_SB: Hummel; Taguer; St. Martin; Damrau; Whitted; Craft
+B_SH: Taguer; St. Martin
+B_HP: Waite; Whitted
+P_BB: Voltz #2; Hamilton #1; Craft #5
+P_SO: Voltz #5; Craft #6
+P_H: Voltz #7; Hamilton #3
+P_IP: Voltz #7; Hamilton #1
+P_HP: Voltz #2
+P_WP: Voltz
+F_DP: Walker, Crist; Hasson, Walters, Crist, Walters, Crist
+T: 2:15
+U: Bigbie; Cullen
+
+P_GS: ~Voltz
+P_GF: ~Hamilton
+P_L: ~Voltz
+P_R: ~Voltz #2; ~Hamilton #2
+
+---
+
+date: 1915-07-03
+number: 0
+league: Virginia
+away: Suffolk
+home: Petersburg
+source: Richmond Times-Dispatch, July 4, 1915
+A: 600
+
+Suffolk:	ab r h po a e
+Irmscher @ 3b:	3 1 2 3 0 0
+Allen @ lf:	3 0 1 0 0 0
+Stewart @ cf:	3 0 0 4 0 0
+Goalby @ 2b:	4 0 0 4 2 1
+Welcher @ rf:	4 0 0 4 0 0
+Poh @ ss:	4 0 1 0 2 1
+Henry @ 1b:	3 0 0 4 0 0
+Tignor @ c:	3 0 0 7 1 1 
+Graham @ p:	3 0 1 1 1 0
+TOTALS:		30 1 5 27 6 3
+
+Petersburg:	ab r h po a e
+Simmons @ rf:	4 0 0 0 0 0
+(~2.1)Spencer @ cf:	3 0 0 0 0 0
+Sharp @ 2b:	3 0 0 5 3 0
+Donovan @ lf:	4 0 0 1 0 0
+Long @ 3b:	3 0 0 1 0 0
+Barnett @ 1b:	3 0 0 8 1 0
+Busch @ ss:	3 0 1 2 3 1
+Liebs @ c:	3 0 0 10 3 0
+Porray @ p:	3 0 1 0 3 1
+(~2.2)*Richmond @ ph:	1 0 0 0 0 0
+TOTALS:		30 0 2 27 13 2
+
+*: batted for Spencer in 9th
+
+line: Suffolk:    1 0 0 0 0 0 0 0 0 - 1
+line: Petersburg: 0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Petersburg #3; Suffolk #4
+B_2B: Irmscher; Busch; Porray
+B_SB: Stewart; Poh
+B_SH: Irmscher; Allen
+P_BB: Porray #1; Graham #1
+P_SO: Porray #10; Graham #6
+F_DP: Goalby, Irmscher
+T: 1:30
+U: McGowan
+
+---
+
+date: 1915-07-03
+number: 0
+league: Virginia
+away: Newport News
+home: Portsmouth
+status: postponed
+status-reason: rain
+source: Richmond Times-Dispatch, July 4, 1915
+
+---
+
+date: 1915-07-03
+number: 0
+league: Virginia
+away: Norfolk
+home: Rocky Mount
+status: postponed
+status-reason: rain
+source: Richmond Times-Dispatch, July 4, 1915
+
+---
+
+date: 1915-07-05
+number: 1
+league: Virginia
+away: Rocky Mount
+home: Petersburg
+source: Richmond Times-Dispatch, July 6, 1915
+A: 1,200
+
+Rocky Mount:	ab r h po a e
+Bittle @ lf:	3 1 1 3 0 0 
+Goosetree @ 3b:	4 0 1 0 2 0
+Edwards @ 2b:	4 0 1 3 5 0 
+Gray @ rf:	4 0 2 2 1 0
+Eisel @ cf:	3 0 1 1 1 0
+Parmalee @ ss:	3 0 0 1 1 1
+Snyder @ 1b:	2 0 0 8 1 0
+Ryan @ c:	3 0 1 3 3 0
+Teague @ p:	2 0 0 0 3 0
+TOTALS:		28 1 7 24 17 1
+
+Petersburg:	ab r h po a e
+Simmons @ rf:	4 0 1 1 0 0
+Spencer @ cf:	3 0 1 1 1 0
+Sharpe @ 3b:	2 1 1 3 5 0
+Donovan @ lf:	2 1 0 0 0 0
+Long @ 2b:	4 1 1 3 1 0
+Barnett @ 1b:	4 1 1 14 0 0
+Busch @ ss:	1 0 1 1 1 1
+Rice @ p:	2 0 0 0 6 0
+Francisco @ c:	3 0 1 4 2 0
+TOTALS:		25 4 7 27 16 1
+
+line: Rocky Mount: 0 0 0 0 0 0 0 1 0 - 1
+line: Petersburg:  0 0 0 0 0 4 0 0 x - 4
+
+B_LOB: Petersburg #4; Rocky Mount #6
+B_2B: Barnett
+B_3B: Goosetree
+B_SH: Rice; Spencer; Bittle; Eisel; Parmalee
+B_HP: Teague; Busch #2
+P_BB: Rice #2; Teague #3
+P_SO: Rice #2; Teague #3
+P_HP: Teague #2; Rice
+F_DP: Rice, Busch, Barnett; Sharpe, Barnett
+T: 1:30
+U: Bigbie; McGowan
+
+---
+
+date: 1915-07-05
+number: 2
+league: Virginia
+away: Rocky Mount
+home: Petersburg
+source: Richmond Times-Dispatch, July 6, 1915
+
+Rocky Mount:	ab r h po a e
+Bittle @ lf:	3 1 1 5 0 0 
+Goosetree @ 3b:	4 1 1 2 1 0
+Edwards @ 2b:	4 0 3 2 2 0 
+Gray @ rf:	3 0 0 0 0 0
+Eisel @ cf:	4 0 2 0 0 0
+Ulrich @ c:	3 0 0 6 2 0
+Parmalee @ ss:	3 0 1 4 3 0
+Snyder @ 1b:	3 0 0 8 0 0
+Leake @ p:	3 0 0 0 3 0
+TOTALS:		30 2 8 27 11 0
+
+Petersburg:	ab r h po a e
+Simmons @ rf:	4 1 2 2 1 0
+Spencer @ cf:	3 0 0 1 0 0
+Sharpe @ 2b:	4 0 1 2 5 1
+Donovan @ lf:	3 0 0 3 0 0
+Long @ 3b:	3 0 0 3 2 0
+Barnett @ 1b:	4 0 0 11 0 0
+Busch @ ss:	2 0 0 2 4 0
+Hirsch @ p:	3 0 0 1 3 0
+Francisco @ c:	1 0 0 2 1 1
+*Lewis @ ph:	1 0 0 0 0 0 
+TOTALS:		28 1 3 27 16 2
+
+*: batted for Francisco in 9th
+
+line: Rocky Mount: 0 0 0 0 0 1 0 0 0 - 2
+line: Petersburg:  1 0 0 0 0 0 0 0 0 - 1
+
+B_LOB: Petersburg #3; Rocky Mount #4
+B_2B: Edwards #2; Simmons
+B_3B: Goosetree
+B_SB: Sharpe; Long
+B_HP: Long; Gray
+P_BB: Hirsch #1; Leake #5
+P_SO: Hirsch #2; Leake #6
+P_HP: Leake; Hirsch
+F_DP: Busch, Sharpe, Barnett #2; Simmons, Long; Parmalee, Edwards
+T: 1:30
+U: McGowan; Bigbie
+
+---
+
+date: 1915-07-05
+number: 1
+league: Virginia
+away: Suffolk
+home: Newport News
+source: Richmond Times-Dispatch, July 6, 1915
+
+Suffolk:	ab r h po a e
+Irmscher @ 3b:	4 0 0 1 2 0
+Welcher @ c:	4 0 0 7 0 0
+Goalby @ 2b:	4 0 0 5 3 0
+Stewart @ cf:	4 0 1 1 0 0
+Shoemaker @ rf:	4 0 1 1 0 0
+Allen @ lf:	3 0 1 1 0 1
+Poh @ ss:	3 0 0 0 2 1
+Henry @ 1b:	2 0 0 8 1 0
+Poole @ p:	3 0 0 0 3 0
+TOTALS:		31 0 3 24 11 2
+
+Newport News:	ab r h po a e
+Bunting @ 2b:	4 0 1 0 5 0
+Walker @ cf:	4 0 0 4 0 0
+Hopkins @ rf:	3 0 0 2 0 0
+Crist @ ss:	2 1 0 2 0 0
+Smith @ lf:	2 0 0 1 0 1
+Walters @ 3b:	2 0 0 0 2 0
+Dean @ 1b:	3 0 0 9 0 1
+Hudgins @ c:	2 0 0 8 0 0
+Mullen @ p:	3 0 0 1 3 0
+TOTALS:		25 1 1 27 10 2
+
+line: Suffolk:      0 0 0 0 0 0 0 0 0 - 0
+line: Newport News: 0 0 0 1 0 0 0 0 0 - 1
+
+B_LOB: Newport News #3; Suffolk #5
+B_ROE: Newport News #2; Suffolk #2
+B_SB: Walters; Allen
+P_BB: Poole #4; Mullen #1
+P_SO: Poole #6; Mullen #8
+F_DP: Mullen, Dean; Irmscher, Goalby, Henry
+T: 1:36
+U: Stradford
+
+---
+
+date: 1915-07-05
+number: 2
+league: Virginia
+away: Suffolk
+home: Newport News
+source: Richmond Times-Dispatch, July 6, 1915
+
+Suffolk:	ab r h po a e
+Irmscher @ 3b:	5 1 0 1 3 0
+Welcher @ c:	4 1 1 4 0 0
+Goalby @ 2b:	4 1 2 4 4 1
+Stewart @ cf:	5 0 2 3 0 0
+Shoemaker @ rf:	5 0 2 1 0 0
+Allen @ lf:	3 1 1 2 0 0
+Poh @ ss:	3 1 2 0 4 0
+Henry @ 1b:	3 0 1 11 1 0
+Efird @ p:	4 0 0 1 1 0
+TOTALS:		36 5 11 27 13 1
+
+Newport News:	ab r h po a e
+Bunting @ 2b:	4 0 1 2 2 0
+Walker @ cf:	4 0 0 4 0 1
+Hopkins @ rf:	4 0 0 1 0 0
+Crist @ ss:	3 0 1 2 3 2
+Smith @ lf:	3 0 1 2 0 0
+Walters @ 3b:	3 0 0 0 1 0
+Dean @ 1b:	3 0 0 6 2 0
+Hasson @ c:	3 0 0 9 2 0
+Hamilton @ p:	2 0 0 1 2 2
+*Gardinier @ ph:	1 0 0 0 0 0
+TOTALS:		30 0 3 27 13 5
+
+*: batted for Hamilton in 9th
+
+line: Suffolk:      1 0 0 0 0 1 2 1 0 - 5
+line: Newport News: 0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Newport News #2; Suffolk #7
+B_ROE: Newport News #1; Suffolk #4
+B_2B: Shoemaker
+B_3B: Henry; Bunting
+B_SB: Allen
+B_SH: Welcher; Poh
+P_BB: Hamilton #3
+P_SO: Hamilton #6; Efird #3
+F_DP: Poh, Goalby, Henry
+T: 1:42
+U: Stradford
+
+---
+
+date: 1915-07-05
+number: 1
+league: Virginia
+away: Norfolk
+home: Portsmouth
+source: Richmond Times-Dispatch, July 6, 1915
+
+Norfolk:	ab r h po a e
+Cleveland @ 3b:	4 0 1 2 1 0
+Steinbrenner @ 2b:	3 0 1 2 4 0
+McMahon @ ss:	3 0 0 3 1 0
+Foster @ lf:	4 0 2 1 0 0
+Thrasher @ cf:	3 0 1 3 0 0 
+Foiles @ 1b:	3 0 0 8 1 0 
+Mace @ c:	3 0 1 5 1 0 	
+Breen @ rf:	2 0 0 0 0 0 
+Barton @ p:	3 0 0 0 2 1 
+TOTALS:		28 0 5 24 10 1
+
+Portsmouth:	ab r h po a e
+Hummel @ ss:	4 0 1 1 2 0
+Taguer @ 2b:	2 1 1 4 5 1  
+Hurley @ 1b:	2 0 0 8 1 0 
+St. Martin @ rf:	4 0 1 1 0 0
+Damrau @ 3b:	4 1 1 2 1 0
+Whitted @ cf:	3 1 1 5 0 0
+Strain @ lf:	3 1 3 1 0 0
+Garvin @ c:	3 0 0 5 0 0
+McCleary @ p:	3 0 0 0 1 0
+TOTALS:		28 4 8 27 10 1
+
+line: Norfolk:    0 0 0 0 0 0 0 0 0 - 0
+line: Portsmouth: 0 2 0 0 0 0 1 1 x - 4
+
+B_LOB: Norfolk #7; Portsmouth #4
+B_2B: Whitted; Foster
+B_HR: Damrau; Strain
+B_SB: Steinbrenner; Taguer
+B_SH: Thrasher; Foiles; Hurley
+P_BB: Barton #3; McCleary #3
+P_SO: Barton #4; McCleary #5
+P_WP: McCleary
+F_DP: Hummel, Taguer, Hurley #2; Hurley, Hummel; McMahon, Steinbrenner, Foiles
+T: 1:40
+U: Bussey 
+
+---
+
+date: 1915-07-05
+number: 2
+league: Virginia
+away: Portsmouth 
+home: Norfolk 
+source: Richmond Times-Dispatch, July 6, 1915
+
+Portsmouth:	ab r h po a e
+Hummel @ ss:	4 0 0 3 4 1
+Taguer @ 2b:	4 1 1 2 4 0  
+Hurley @ 1b:	3 0 0 11 0 0
+St. Martin @ rf:	3 0 1 2 2 0
+Damrau @ 3b:	3 0 0 1 1 0
+Whitted @ cf:	3 0 0 0 0 0
+McCleary @ lf:	3 0 1 1 0 0
+Waite @ c:	3 0 0 3 0 0
+Strain @ p:	3 0 1 1 2 0
+TOTALS:		29 1 4 24 18 1
+
+Norfolk:	ab r h po a e
+Cleveland @ 3b:	4 1 2 1 3 0
+Steinbrenner @ 2b:	4 0 2 0 2 0
+McMahon @ ss:	4 0 0 3 2 0
+Foster @ lf:	4 0 2 3 0 0 
+Thrasher @ cf:	2 0 0 0 0 0 
+Foiles @ 1b:	3 0 0 9 1 0
+Weir @ rf:	2 0 0 1 0 0
+Stewart @ c:	3 1 1 9 2 0	
+Humphreys @ p:	3 0 0 1 0 0
+TOTALS:		29 2 7 27 10 0
+
+line: Portsmouth: 1 0 0 0 0 0 0 0 0 - 1
+line: Norfolk:    0 0 2 0 0 0 0 0 x - 2
+
+B_LOB: Norfolk #4; Portsmouth #2
+B_2B: Cleveland
+B_SB: Taguer; Stewart; Cleveland; Weir
+B_SH: Thrasher
+P_BB: Strain #1
+P_SO: Strain #3; Humphreys #7
+F_DP: St. Martin, Damrau
+T: 1:30
+U: Bussey 
+
+---
+
+date: 1915-07-06
+number: 0
+league: Virginia
+away: Rocky Mount
+home: Petersburg
+source: Richmond Times-Dispatch, July 7, 1915
+A: 500
+
+Rocky Mount:	ab r h po a e
+Bittle @ lf:	3 1 1 2 1 0 
+Goosetree @ 3b:	4 1 1 1 4 0
+Edwards @ 2b:	4 0 3 1 1 0
+Gray @ rf-p:	4 1 0 3 0 0
+Eisel @ cf:	3 1 1 0 0 0
+Ulrich @ c:	3 1 1 6 1 0
+Parmalee @ ss:	4 1 1 0 4 0
+Snyder @ 1b:	4 0 0 10 0 0
+Pope @ p:	3 0 0 1 1 0
+O'Brien @ rf:	1 0 0 0 0 0
+TOTALS:		33 6 8 24 12 0
+
+Petersburg:	ab r h po a e
+Rice @ rf:	4 2 4 3 0 0
+Spencer @ cf:	5 1 2 1 0 0
+Sharpe @ 2b:	4 0 2 2 4 1
+Donovan @ lf:	4 2 1 3 0 0
+Barnett @ 1b:	5 2 2 10 0 0
+Long @ 3b:	4 1 1 4 3 0
+Busch @ ss:	3 2 2 3 4 0
+(~8.1)Richmond @ p:	4 1 1 0 1 1
+Francisco @ c:	4 0 2 1 3 1
+(~8.2)Porray @ p:	1 0 0 0 0 0 
+TOTALS:		38 11 17 27 15 3
+
+line: Rocky Mount: 1 2 0 0 0 2 0 1 0 - 6
+line: Petersburg:  2 0 0 0 0 1 6 2 x - 11
+
+B_LOB: Petersburg #9; Rocky Mount #1
+B_2B: Spencer; Long; Rice; Parmalee; Ulrich; Edwards
+B_3B: Rice; Sharpe; Francisco; Barnett; Eisel
+B_SB: Spencer
+B_SH: Busch; Eisel; Ulrich
+B_HP: Bittle
+P_BB: Richmond #1; Pope #5; Gray #1
+P_SO: Pope #3
+P_H: Richmond #8; Pope #16; Gray #1
+P_IP: Richmond #7; Porray #2; Pope #7; Gray #1
+P_WP: Richmond
+F_DP: Richmond, Long, Barnett
+T: 1:45
+U: Bigbie; McGowan
+
+P_GS: ~Richmond; ~Pope
+P_GF: ~Porray; ~Gray
+P_W: ~Richmond
+P_L: ~Pope
+P_R: ~Pope #9; ~Gray #2; ~Richmond #5; ~Porray #1
+
+---
+
+date: 1915-07-06
+number: 0
+league: Virginia
+away: Portsmouth 
+home: Norfolk 
+source: Richmond Times-Dispatch, July 7, 1915
+
+Portsmouth:	ab r h po a e
+Hummel @ ss:	4 0 0 3 2 0
+Taguer @ 2b:	3 1 0 1 3 1  
+Hurley @ 1b:	4 2 1 13 2 1
+St. Martin @ rf:	5 1 2 0 0 0
+Damrau @ 3b:	3 2 2 0 3 0
+Whitted @ cf:	4 0 1 3 0 0
+McCleary @ lf:	4 1 2 0 0 0
+Garvin @ c:	4 0 2 5 1 0
+Craft @ p:	4 0 1 2 4 0
+Strain @ p:	0 0 0 0 0 0
+TOTALS:		35 7 11 27 15 2
+
+Norfolk:	ab r h po a e
+Cleveland @ 3b:	4 1 1 2 2 0
+Steinbrenner @ 2b:	4 1 1 2 1 0
+McMahon @ ss:	5 1 3 2 4 0
+Thrasher @ cf:	5 1 2 2 0 0
+Foster @ lf:	4 0 1 2 1 0
+Stewart @ c:	4 1 1 5 1 1	 
+Foiles @ 1b:	4 0 0 10 0 0
+Weir @ rf:	3 1 1 2 0 1
+Nicks @ p:	3 0 0 0 1 0
+TOTALS:		36 6 10 27 10 2
+
+line: Portsmouth: 2 0 0 1 2 0 0 2 0 - 7
+line: Norfolk:    2 0 0 1 2 0 0 1 0 - 6
+
+B_LOB: Norfolk #7; Portsmouth #6
+B_2B: St. Martin; Craft; Damrau; Whitted; Garvin; Steinbrenner; Stewart
+B_SB: McCleary; Thrasher; Weir; McMahon
+B_SH: Damrau; Taguer; Steinbrenner; Nicks
+P_BB: Craft #2; Nicks #2
+P_SO: Craft #4; Nicks #4
+P_H: Craft #10
+P_IP: Craft #8; Strain #1
+F_PB: Garvin; Stewart
+T: 1:45
+U: Bussey 
+
+P_GS: ~Craft
+P_GF: ~Strain
+P_W: ~Craft
+P_SV: ~Strain
+P_R: ~Craft #6
+
+---
+
+date: 1915-07-06
+number: 0
+league: Virginia
+away: Suffolk
+home: Newport News
+source: Richmond Times-Dispatch, July 7, 1915
+
+Suffolk:	ab r h po a e
+Irmscher @ 3b:	4 0 0 3 2 1
+Welcher @ c:	4 0 0 4 1 0
+Goalby @ 2b:	3 0 0 2 2 0
+Stewart @ cf:	3 1 2 3 0 0
+Poole @ rf:	4 0 1 1 0 0
+Allen @ lf:	4 0 3 1 0 1
+(~7.1)Poh @ ss:	3 0 0 1 3 0
+Henry @ 1b:	3 0 0 9 0 0
+Gaston @ p:	3 0 0 0 2 0
+(~7.2)*Shoemaker @ ph:	1 0 0 0 0 0
+TOTALS:		32 1 6 24 10 2
+
+Newport News:	ab r h po a e
+Bunting @ 2b:	4 1 1 4 0 0
+Walker @ cf:	4 0 1 3 0 0
+Hopkins @ rf:	3 1 1 2 0 0
+Crist @ ss:	3 1 2 0 2 0
+Smith @ lf:	3 1 1 1 0 0
+Walters @ 3b:	3 0 1 2 2 0
+Carnes @ 1b:	3 0 0 8 0 0
+Hudgins @ c:	3 0 0 6 2 0
+Gardinier @ p:	3 0 0 1 2 0
+TOTALS:		29 4 7 27 8 0
+
+*: batted for Poh in 9th
+
+line: Suffolk:      0 0 0 0 0 0 0 0 1 - 1
+line: Newport News: 1 0 0 2 0 0 0 1 x - 4
+
+B_LOB: Newport News #3; Suffolk #6
+B_ROE: Newport News #1
+B_2B: Walters; Smith; Allen; Stewart
+B_3B: Crist
+P_BB: Gardinier #2; Gaston #2
+P_SO: Gardinier #7; Gaston #3
+F_DP: Welcher, Goalby; Goalby, Poh, Henry; Irmscher, Henry
+T: 1:40
+U: Stradford
+
+---
+
+date: 1915-07-07
+number: 0
+league: Virginia
+away: Rocky Mount
+home: Petersburg
+source: Richmond Times-Dispatch, July 8, 1915
+A: 500
+
+Rocky Mount:	ab r h po a e
+Bittle @ lf:	5 1 1 2 0 0 
+Goosetree @ 3b:	5 2 3 2 1 0
+Edwards @ 2b:	5 1 2 1 3 1
+Gray @ rf:	3 1 2 1 1 0
+Eisel @ cf:	4 1 3 3 1 1
+Parmalee @ ss:	3 0 1 3 2 0
+Snyder @ 1b:	3 0 0 13 0 0
+Ryan @ c:	3 0 1 2 1 0
+O'Brien @ rf:	3 0 0 0 5 0
+TOTALS:		34 6 13 27 14 2
+
+Petersburg:	ab r h po a e
+Rice @ rf:	4 1 3 5 0 0
+Spencer @ cf:	4 1 1 2 1 0
+Sharpe @ 2b:	2 0 0 1 3 1
+Donovan @ lf:	4 0 0 3 1 0
+Barnett @ 1b:	4 1 2 7 0 0
+Long @ 3b:	3 0 0 0 0 0
+Busch @ ss:	3 0 2 1 1 0
+(~8.1)Porray @ p:	4 0 0 0 1 0
+Francisco @ c:	3 0 0 8 1 0
+(~8.2)*Lewis @ ph:	1 0 0 0 0 0 
+TOTALS:		32 3 8 27 8 1
+
+*: batted for Porray in 9th
+
+line: Rocky Mount: 2 0 0 0 0 1 0 0 3 - 6
+line: Petersburg:  2 0 0 1 0 0 0 0 0 - 3
+
+B_LOB: Petersburg #5; Rocky Mount #8
+B_2B: Barnett
+B_3B: Rice; Eisel
+B_SB: Busch
+B_SH: Sharpe; Long; Eisel; Parmalee
+B_HP: Gray
+P_BB: Porray #3; O'Brien #2
+P_SO: Porray #5; O'Brien #2
+P_HP: Porray
+F_DP: Gray, Snyder; Eisel, Snyder
+T: 1:45
+U: McGowan; Bigbie
+
+---
+
+date: 1915-07-07
+number: 0
+league: Virginia
+away: Suffolk
+home: Newport News
+source: Richmond Times-Dispatch, July 8, 1915
+
+Suffolk:	ab r h po a e
+Irmscher @ 3b:	4 0 0 1 1 0
+Shoemaker @ rf:	4 0 1 2 0 0
+Goalby @ 2b:	3 0 0 2 3 0
+Stewart @ cf:	4 0 0 1 0 0 
+Tignor @ c:	4 0 2 7 0 0
+Allen @ lf:	3 0 2 0 0 0
+(~7.1)Poh @ ss:	4 1 0 3 2 1
+Henry @ 1b:	3 0 0 8 1 0
+Graham @ p:	3 0 0 0 3 0
+(~7.2)*Welcher @ ph:	1 0 0 0 0 0
+TOTALS:		33 1 5 24 10 1
+
+Newport News:	ab r h po a e
+Bunting @ 2b:	3 0 0 3 3 1
+Walker @ cf:	3 0 1 3 0 0
+Hopkins @ rf:	4 1 2 1 0 0 
+Crist @ ss:	4 1 1 1 1 0
+Smith @ lf:	2 1 1 1 0 0
+Walters @ 3b:	3 0 1 0 0 1
+Carnes @ 1b:	2 0 0 10 0 0
+Hudgins @ c:	4 0 0 8 1 0
+Voltz @ p:	3 0 0 0 2 0
+TOTALS:		28 3 6 27 9 2
+
+*: batted for Poh in 9th
+
+line: Suffolk:      0 0 0 0 1 0 0 0 0 - 1
+line: Newport News: 0 0 0 0 0 3 0 0 x - 3
+
+B_LOB: Newport News #8; Suffolk #5
+B_2B: Walters; Allen
+B_3B: Crist
+B_SB: Goalby; Tignor; Allen; Poh; Hopkins
+B_SH: Walters; Carnes
+P_BB: Voltz #2; Graham #5
+P_SO: Voltz #8; Graham #6
+P_WP: Voltz; Graham
+F_DP: Walters, Bunting, Carnes
+F_PB: Hudgins
+T: 1:51
+U: Stradford
+
+---
+
+date: 1915-07-07
+number: 0
+league: Virginia
+away: Portsmouth 
+home: Norfolk 
+source: Richmond Times-Dispatch, July 8, 1915
+
+Portsmouth:	ab r h po a e
+Hummell @ ss:	4 0 0 4 2 1
+Taguer @ 2b:	4 1 1 1 5 0 
+Hurley @ 1b:	3 1 2 9 0 1
+St. Martin @ rf:	2 0 0 1 0 0
+Damrau @ 3b:	3 0 1 2 3 0
+Whitted @ cf:	3 0 0 2 0 0
+Strain @ lf:	4 0 1 2 0 0
+Waite @ c:	4 0 0 3 0 1
+Llewellyn @ p:	0 0 0 0 0 0
+McCleary @ p:	0 0 0 0 0 0
+Craft @ p:	4 0 0 0 2 0
+TOTALS:		31 2 5 24 13 3
+
+Norfolk:	ab r h po a e
+Cleveland @ 3b:	4 1 0 0 2 0
+Steinbrenner @ 2b:	3 1 0 2 3 0
+McMahon @ ss:	3 1 1 2 2 0
+Thrasher @ cf:	3 1 0 2 0 0 
+Foster @ lf:	2 1 0 2 0 0
+Stewart @ c:	3 1 2 9 1 0	 
+Foiles @ 1b:	3 0 1 7 1 0
+Weir @ rf:	3 0 0 2 0 0
+Weller @ p:	2 0 0 1 0 0
+TOTALS:		26 6 4 27 9 0
+
+line: Portsmouth: 0 0 0 0 2 0 0 0 0 - 2
+line: Norfolk:    5 1 0 0 0 0 0 0 x - 6
+
+B_LOB: Norfolk #1; Portsmouth #9
+B_2B: Stewart #2
+B_SB: Cleveland; McMahon; Foiles; Steinbrenner
+B_HP: Hummell; Whitted; Hurley; Weller
+P_BB: Llewellyn #3; Craft #1; Weller #4
+P_SO: Craft #2; Weller #9
+P_H: McCleary #2; Craft #2
+P_IP: Llewellyn #.1; Craft #7.2
+P_HP: Weller #3; Craft
+P_WP: Llewellyn; Weller
+T: 1:30
+U: Barton; Garvin 
+
+P_GS: ~Llewellyn
+P_GF: ~Craft
+P_L: ~Llewellyn
+P_R: ~Llewellyn #4; ~McCleary #1; ~Craft #1
+
