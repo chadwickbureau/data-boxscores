@@ -1,0 +1,224 @@
+date: 1909-08-22
+number: 0
+league: Central Kansas
+away: Ellsworth
+home: Junction City
+source: The Junction City Daily Union Aug 23, 1909
+note: forfeit to Ellsworth, Junction City refused to play with McKee umpiring
+
+line: Ellsworth: - 9
+line: Junction City: - 0
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: 
+P_SO: 
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: McKee
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-08-24
+number: 0
+league: Central Kansas
+away: Ellsworth
+home: Junction City
+source: The Junction City Daily Union Aug 25, 1909
+ejection: Poindexter by Ames for arguing balls and strikes; Delberts by Ames
+
+Ellsworth:			ab r h po a e
+Poindexter @ lf:	5 1 1 3 0 0
+Parm @ ?:			1 0 0 0 0 0
+Lewis @ rf:			5 1 1 0 0 0
+McKee @ ss:			5 0 2 2 5 1
+Brooks @ 2b:		5 1 2 1 2 0
+Cal @ cf:			5 1 0 3 0 0
+Farmer @ 3b:		4 0 1 1 1 2
+Armstrong @ 1b:		5 1 1 18 0 1
+Seigler @ c:		5 0 1 7 1 0
+Woods @ p:			4 0 0 0 7 0
+TOTALS:				44 4 9 35 16 4
+
+Junction City:		ab r h po a e
+Wells @ lf:			6 1 2 2 0 0
+Gallienne @ cf:		2 1 2 2 0 0
+Harris @ cf:		1 0 0 0 0 0
+Whelan @ 3b:		6 0 2 4 2 1
+Vitters @ 2b:		6 0 0 5 3 0
+Coe @ c:			6 0 3 5 6 1
+Vann @ ss:			4 0 1 0 1 1
+Pattyson @ rf:		5 0 0 17 0 1
+McKenzie @ rf:		3 0 0 0 0 0
+Hunt @ rf:			0 0 0 0 0 0
+Starr @ rf:			1 1 1 0 0 0 
+Masters @ rf:		1 0 0 0 0 0
+O'Neil @ p:			1 0 0 0 4 0
+Jepson @ p:			3 0 0 0 6 0
+*Campbell @ ph:		1 0 1 0 0 0
+TOTALS:				46 3 12 36 22 5
+
+*: batted for Gallienne in 9th
+
+line: Ellsworth: 0 1 0 0 0 0 2 0 0 0 0 1 - 4
+line: Junction City: 0 0 1 0 1 0 0 0 1 0 0 0 - 3
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: McKee
+B_3B: Whelan
+B_HR: 
+B_SB: Gallienne; Coe; Whelan; McKee #2; Brooks; Cal; Armstrong; Seigler; Woods
+B_SH: Lewis; Gallienne #2; Vann; O'Neil
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Jepson #4
+P_SO: Jepson #2; O'Neil #2; Woods #3
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Seigler, Armstrong
+F_PB: Coe #2
+outsatend: 
+T: 
+U: Ames; Sheridan
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-08-25
+number: 0
+league: Central Kansas
+away: Ellsworth
+home: Junction City
+source: The Junction City Daily Union Aug 26, 1909
+
+Ellsworth:		ab r h po a e
+McKee @ ?:		x x x x x x
+Cal @ ?:		x x x x x x
+Fulwider @ p:	x x x x x x
+Sommers @ p:	x x x x x x
+Seigle @ c:		x x x x x x
+TOTALS:			x 1 x x x x
+
+Junction City:	ab r h po a e
+Gallienne @ ?:	x x x x x x
+Whelan @ ?:		x x x x x x
+Jepson @ p:		x x x x x x
+~Coe @ ?:		x x x x x x
+TOTALS:			x 2 x x x x
+
+line: Ellsworth: 0 0 0 0 0 0 1 0 0 - 1
+line: Junction City: 1 0 0 1 0 0 0 0 x - 2
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: ~McKee
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: ~Cal
+B_HP: 
+B_XO: 
+P_BB: 
+P_SO: 
+P_H: 
+P_IP: ~Jepson #9
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: Ames; Sheridan
+
+P_GS: 
+P_GF: 
+P_W: ~Jepson
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-08-26
+number: 0
+league: Central Kansas
+away: Junction City
+home: Beloit
+source: The Junction City Daily Union Aug 27, 1909
+
+Junction City:	ab r h po a e
+Starr @ p:		x x x x x x
+O'Neill @ p:	x x x x x x
+Whelan @ ?:		x x x x x x
+TOTALS:			x x x x x x
+
+Beloit:		ab r h po a e
+TOTALS:		x x x x x x
+
+line: Junction City: 0 0 0 0 2 0 0 1 0 0 - 3
+line: Beloit: 0 0 0 2 0 0 1 0 0 1 - 4
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: 
+B_HR: ~Whelan
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: 
+P_SO: 
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: 
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
