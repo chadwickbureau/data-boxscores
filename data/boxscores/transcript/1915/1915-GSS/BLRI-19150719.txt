@@ -590,8 +590,7 @@ number: 0
 league: Blue Ridge
 away: Chambersburg
 home: Hanover
-status: thrown-out
-status-reason: Protest subsequently upheld
+note: Game thrown out, protest subsequently upheld
 source: Gettysburg Star and Sentinel, July 26, 1915
 
 Chambersburg:		r h e

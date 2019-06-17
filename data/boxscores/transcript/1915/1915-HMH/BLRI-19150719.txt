@@ -3,8 +3,7 @@ number: 0
 league: Blue Ridge
 away: Hagerstown
 home: Martinsburg
-status: postponed
-status-reason: rain
+status: postponed, rain
 source: Hagerstown Morning Herald, July 20, 1915
 
 ---
@@ -492,8 +491,7 @@ number: 0
 league: Blue Ridge
 away: Chambersburg
 home: Hanover
-status: thrown-out
-status-reason: Protest subsequently upheld
+note: Game thrown out; protest subsequently upheld
 source: Hagerstown Morning Herald, July 26, 1915
 
 Chambersburg:		r h e
