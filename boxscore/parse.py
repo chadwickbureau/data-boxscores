@@ -110,6 +110,8 @@ class Game(object):
             if "#" in entry:
                 try:
                     name, count = [x.strip() for x in entry.split("#")]
+                    # This will also trigger a value error if count not number
+                    float(count)
                 except ValueError:
                     print("In file %s,\n   game %s" % (self.metadata['filename'], self))
                     print("  Ill-formed details string '%s'" % entry)
