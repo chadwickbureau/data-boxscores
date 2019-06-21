@@ -373,7 +373,7 @@ line: New Orleans: 0 0 0 0 0 1 0 1 1 - 3
 line: Nashville: 0 0 0 0 0 0 0 0 0 - 0
 
 P_SO: Duggan #1; Maxwell #6
-P_BB: Duggan #?; Maxwell #2
+P_BB: Maxwell #2
 note: missing data - number of walks recorded for Duggan is badly struck type
 B_SH: Lindsay
 B_HP: Tonneman #2
