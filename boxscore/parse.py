@@ -218,6 +218,13 @@ class Game(object):
             return
 
         byinning, total = map(lambda x: x.strip(), score.split("-"))
+        try:
+            int(total)
+        except ValueError:
+            print("In file %s,\n   game %s" % (self.metadata['filename'], self))
+            print(f"  Invalid linescore total runs '{total}'")
+            total = ""
+            
         self.metadata[prefix] = total
         for (inning, s) in enumerate(byinning.split()):
             self.metadata['%s.%d' % (prefix, inning+1)] = s
