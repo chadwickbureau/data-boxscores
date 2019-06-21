@@ -8,7 +8,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1911,Carolina Association,regular,P5239388,Bauswine,,Charlotte,1911-05-25,1911-08-31,33,29,0,0,0,0,4,2,2,0,0,29
 1911,Carolina Association,regular,P6273878,Bayle,,Winston-Salem,1911-05-02,1911-05-02,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Carolina Association,regular,P6398378,Becker,,Charlotte,1911-05-22,1911-05-30,6,0,0,2,0,4,0,0,0,0,0,0
-1911,Carolina Association,regular,P2826497,Bentley,,Greensboro,1911-04-27,1911-06-06,27,0,0,0,0,0,24,0,0,24,3,0
+1911,Carolina Association,regular,P2826497,Bentley,,Greensboro,1911-04-27,1911-06-06,27,0,0,0,0,0,25,0,0,25,3,0
 1911,Carolina Association,regular,P3989212,Bently,,Greensboro,1911-05-16,1911-05-16,1,0,0,0,0,0,1,0,0,1,0,0
 1911,Carolina Association,regular,P5418955,Blackstone,,Greenville,1911-04-27,1911-07-12,59,4,0,0,0,1,56,56,0,0,0,4
 1911,Carolina Association,regular,P1013824,Blanton,,Anderson,1911-07-03,1911-07-06,3,3,0,0,0,0,0,0,0,0,0,3
@@ -66,7 +66,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1911,Carolina Association,regular,P2021496,Daley,,Winston-Salem,1911-06-19,1911-06-22,4,0,0,0,0,0,0,0,0,0,4,0
 1911,Carolina Association,regular,P8326899,Daly,,Winston-Salem,1911-07-22,1911-07-22,1,0,0,0,0,0,0,0,0,0,1,0
 1911,Carolina Association,regular,P5750349,Doak,,Greensboro,1911-05-03,1911-09-01,79,3,0,2,77,0,0,0,0,0,0,3
-1911,Carolina Association,regular,P9556196,Doak,,Greenville,1911-04-27,1911-09-01,78,0,0,0,0,0,77,1,76,0,0,0
+1911,Carolina Association,regular,P9556196,Doak,,Greenville,1911-04-27,1911-09-01,78,0,0,0,0,0,78,1,77,0,0,0
 1911,Carolina Association,regular,P6339774,Doak,C.,Greensboro,1911-05-04,1911-08-09,12,1,0,1,10,0,0,0,0,0,0,1
 1911,Carolina Association,regular,P6115543,Doak,E.,Greenville,1911-05-04,1911-08-09,12,0,0,0,0,0,12,0,12,0,0,0
 1911,Carolina Association,regular,P7904997,Doak,S.,Greenville,1911-06-06,1911-06-06,1,0,0,0,0,0,1,0,1,0,0,0
@@ -197,7 +197,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1911,Carolina Association,regular,P8622376,Sharpe,,Greenville,1911-05-22,1911-08-26,10,0,0,9,0,0,1,1,0,0,0,0
 1911,Carolina Association,regular,P5618844,Sheasley,,Charlotte,1911-06-09,1911-06-09,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Carolina Association,regular,P7792672,Sheesley,,Charlotte,1911-05-19,1911-09-01,24,23,0,0,0,0,1,0,0,1,0,23
-1911,Carolina Association,regular,P2866473,Shumaker,,Winston-Salem,1911-04-27,1911-09-02,104,0,85,3,2,1,14,0,14,0,3,0
+1911,Carolina Association,regular,P2866473,Shumaker,,Winston-Salem,1911-04-27,1911-09-02,104,0,85,4,2,1,14,0,14,0,3,0
 1911,Carolina Association,regular,P8029200,Siegfried,,Charlotte,1911-08-14,1911-08-15,2,0,0,0,0,2,0,0,0,0,0,0
 1911,Carolina Association,regular,P8222172,Slocum,,Winston-Salem,1911-08-19,1911-09-02,3,3,0,0,0,0,1,0,0,1,0,3
 1911,Carolina Association,regular,P3517738,Smith,,Greenville,1911-04-27,1911-09-01,93,0,0,4,68,15,6,5,0,1,0,0
