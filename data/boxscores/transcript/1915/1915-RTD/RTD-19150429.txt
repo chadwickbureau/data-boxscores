@@ -192,7 +192,8 @@ TOTALS:		31 7 10 27 10 1
 line: Norfolk:    1 0 0 0 0 2 0 0 0 - 3
 line: Petersburg: 1 0 3 0 1 0 2 0 x - 7
 
-B_LOB: Norfolk #3; Petersburg #x
+B_LOB: Norfolk #3
+note: Petersburg LOB total obscured
 B_2B: Donovan; Calder; Agnew
 P_WP: Rice
 U: Ruhland; McGowan
