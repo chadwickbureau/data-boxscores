@@ -1,0 +1,391 @@
+date: 1909-08-09
+number: 0
+league: Central Kansas
+away: Clay Center
+home: Manhattan
+source: The Morning Chronicle Aug 10, 1909
+
+Clay Center:	ab r h po a e
+Allingham @ c:	x x x x x x
+Brooks @ p:		x x x x x x
+TOTALS:			x 2 7 x x 3
+
+Manhattan:		ab r h po a e
+Parker @ c:		x x x x x x
+Murphy @ p:		x x x x x x
+TOTALS:			x 1 4 x x 4
+
+line: Clay Center: 0 0 0 0 0 1 1 0 0 - 2
+line: Manhattan: 0 0 0 0 1 0 0 0 0 - 1
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: 
+P_SO: 
+P_H: 
+P_IP: ~Brooks #9; ~Murphy #9
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:40
+U: Sigler
+
+P_GS: 
+P_GF: 
+P_W: ~Brooks
+P_L: ~Murphy
+P_SV: 
+
+---
+
+date: 1909-08-10
+number: 0
+league: Central Kansas
+away: Clay Center
+home: Manhattan
+source: The Morning Chronicle Aug 11, 1909
+
+Clay Center:		ab r h po a e
+Davis @ cf:			4 0 0 0 0 0
+Day @ rf:			4 1 3 0 0 0
+Gramley @ 2b:		3 1 0 2 1 0
+Parks @ lf:			4 1 1 3 0 0
+Allingham @ c:		4 0 0 8 1 0
+Strong @ 1b:		3 0 0 11 1 0
+Grubb @ 3b:			2 0 1 0 1 0
+Carhill @ ss:		3 0 0 0 1 1
+Stokesberry @ p:	3 0 0 3 3 0
+TOTALS:				30 3 5 27 8 1
+
+Manhattan:		ab r h po a e
+Fagan @ ss:		4 0 0 1 1 1
+Stewart @ cf-c:	4 0 0 4 0 1
+Wilson @ rf:	4 0 0 1 0 0
+Blakeley @ 2b:	3 0 1 1 3 2
+Barnes @ lf:	4 0 1 0 0 0
+Bryant @ cf:	0 0 0 2 0 0
+Parker @ c:		3 0 0 6 1 0
+Shull @ 3b:		2 0 1 2 3 0
+Ellison @ 1b:	3 0 0 9 1 0
+Coe @ p:		2 0 0 1 3 0
+TOTALS:			29 0 3 27 12 5
+
+line: Clay Center: 1 0 0 0 0 2 0 0 0 - 3
+line: Manhattan: 0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Manhattan #4; Clay Center #5
+B_ROE: Clay Center #3; Manhattan #1
+B_ER: 
+B_2B: Day
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: Shull; Coe
+B_XO: 
+P_BB: 
+P_SO: Coe #7; Stokesberry #8
+P_H: ~Coe #5; ~Stokesberry #3
+P_IP: ~Coe #9; ~Stokesberry #9
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: Sigler
+
+P_GS: 
+P_GF: 
+P_W: ~Stokesberry
+P_L: ~Coe
+P_SV: 
+
+---
+
+date: 1909-08-11
+number: 0
+league: Central Kansas
+away: Clay Center
+home: Manhattan
+source: The Morning Chronicle Aug 12, 1909
+
+Clay Center:		ab r h po a e
+Davis @ cf:			4 2 4 4 0 0
+Day @ 2b-rf:		4 1 0 0 1 0
+Parks @ lf:			5 1 1 0 0 0
+Allingham @ c-1b:	4 2 2 6 2 0
+Strong @ 1b-c:		4 0 1 9 0 0
+Grubb @ 3b:			4 0 2 1 3 1
+Carhill @ ss-2b:	4 0 0 3 2 1
+Gramley @ 2b-ss:	4 0 0 3 3 2
+Brooks @ rf:		0 0 0 0 0 0
+Johnson @ p:		4 1 0 1 1 0
+TOTALS:				37 7 9 27 12 4
+
+Manhattan:		ab r h po a e
+Wilson @ rf:	5 0 2 0 0 0
+Fagan @ ss:		4 0 0 0 1 0
+Blakeley @ 2b:	4 0 1 3 0 2
+Barnes @ lf:	3 0 0 4 0 0
+Bryant @ cf:	3 1 1 3 0 1
+Stewart @ c:	4 1 2 8 2 0
+Shull @ 3b:		4 1 0 1 3 1
+Ellison @ 1b:	4 1 1 6 0 1
+Oswalt @ p:		4 0 1 0 2 0
+TOTALS:			35 4 8 25 8 5
+
+line: Clay Center: 1 0 0 1 4 0 1 0 0 - 7
+line: Manhattan: 0 0 0 2 0 1 0 0 1 - 4
+
+B_LOB: Clay Center #6; Manhattan #7
+B_ROE: Clay Center #3; Manhattan #2
+B_ER: Clay Center #2
+B_2B: Allingham
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: Strong, bunted third strike; Parks, bunter third strike
+P_BB: Oswalt #1; Johnson #3
+P_SO: Oswalt #11; Johnson #6
+P_H: ~Oswalt #9; ~Johnson #8
+P_IP: ~Oswalt #9; ~Johnson #9
+P_HP: 
+P_WP: Johnson #2; Oswalt #1
+P_BK: 
+F_DP: 
+F_PB: Allingham #3; Stewart #5
+outsatend: 
+T: 
+U: Ahearn
+
+P_GS: 
+P_GF: 
+P_W: ~Johnson
+P_L: ~Oswalt
+P_SV: 
+
+---
+
+date: 1909-08-12
+number: 0
+league: Central Kansas
+away: Abilene
+home: Manhattan
+source: The Morning Chronicle Aug 13, 1909
+
+Abilene:		ab r h po a e
+Bechtold @ rf:	5 1 1 1 1 1
+Gardner @ lf:	5 0 2 5 1 0
+Monroe @ cf:	6 0 1 0 0 0
+Wilson [Abi] @ 1b:	4 2 2 12 0 1
+Ward @ ss:		4 2 0 2 3 1
+Ehrgot @ c:		4 1 1 9 2 0
+*Roots @ ph:	0 0 0 0 0 0
+Burton @ 2b:	4 1 1 2 4 1
+Britton @ 3b:	5 1 2 2 1 0
+Williams @ p:	2 0 1 0 2 0
+Mallon @ p:		3 0 1 0 3 0
+TOTALS:			40 8 12 33 22 4
+
+Manhattan:		ab r h po a e
+Stewart @ cf:	4 2 2 3 0 0
+Fagan @ ss:		6 0 2 1 5 3
+Wilson [Man] @ rf:	5 1 1 1 1 0
+Meyers @ 2b:	4 1 0 1 2 1
+Barnes @ lf:	4 0 2 0 0 0
+Shull @ 3b:		5 0 1 2 6 0
+Ellison @ 1b:	4 0 0 19 0 0
+Parker @ c:		2 1 1 1 0 0
+Cassell @ c:	3 0 0 5 0 1
+Murphy @ p:		1 0 0 0 2 0
+Bryant @ p:		4 1 1 0 5 0
+TOTALS:			42 6 10 33 21 5
+
+*: batted for Burton in 11th
+
+line: Abilene: 0 0 1 0 0 3 0 1 1 0 2 - 8
+line: Manhattan: 0 1 0 0 0 0 0 1 4 0 0 - 6
+
+B_LOB: Abilene #12; Manhattan #8
+B_ROE: Abilene #3
+B_ER: Abilene #2; Manhattan #4
+B_2B: Gardner; Williams; Shull
+B_3B: Wilson [Abi]
+B_HR: Wilson [Man]
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Bryant #5; Murphy #2; Mallon #4; Williams #1
+P_SO: Bryant #4; Mallon #4; Williams #4
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: Bryant
+P_BK: 
+F_DP: Fagan, Meyers, Ellison
+F_PB: Cassell
+outsatend: 
+T: 
+U: Flemming
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-08-13
+number: 1
+league: Central Kansas
+away: Abilene
+home: Manhattan
+source: The Morning Chronicle Aug 14, 1909
+
+Abilene:		ab r h po a e
+Roots @ rf:		1 0 1 0 0 0
+Bechtold @ rf:	2 1 0 1 0 0
+Ehrgot @ lf:	1 0 0 0 0 0
+Gardner @ lf:	4 1 1 3 0 0
+Monroe @ cf:	5 1 2 1 0 0
+Wilson [Abi] @ 1b:	3 1 1 5 0 0
+Bartley @ c:	3 0 1 13 0 0
+Ward @ ss:		4 0 1 0 1 0
+Burton @ 2b:	4 0 0 0 2 1
+Britton @ 3b:	3 1 1 1 2 0
+Williams @ p:	2 0 0 0 0 0
+Schmidt @ p:	2 0 0 0 1 0
+TOTALS:			34 5 8 24 6 1
+
+Manhattan:		ab r h po a e
+Stewart @ cf:	5 2 2 1 0 0
+Fagan @ ss:		4 1 1 2 1 3
+Wilson [Man] @ rf:	4 2 2 1 0 0
+Myers @ 2b:		3 0 1 4 0 0
+Barnes @ lf:	3 0 1 0 1 0
+Parker @ c:		4 0 1 9 2 0
+Shull @ 3b:		4 1 2 1 1 0
+Ellison @ 1b:	3 0 0 8 1 2
+Haag @ p:		4 0 0 1 4 1
+TOTALS:			34 6 10 27 10 6
+
+line: Abilene: 0 1 1 0 1 1 1 0 0 - 5
+line: Manhattan: 0 0 1 4 0 1 0 0 x - 6
+
+B_LOB: Abilene #7; Manhattan #7
+B_ROE: Abilene #4; Manhattan #1
+B_ER: Manhattan #4
+B_2B: Stewart; Britton; Bartley
+B_3B: Barnes
+B_HR: Wilson [Man] #2
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Haag #4; Schmidt #2
+P_SO: Haag #10; Stewart #4; Williams #7
+P_H: ~Haag #8
+P_IP: ~Haag #9
+P_HP: 
+P_WP: Schmidt; Williams
+P_BK: 
+F_DP: 
+F_PB: Bartley #1; Parker #1
+outsatend: 
+T: 
+U: Umphry; Fischer
+
+P_GS: 
+P_GF: 
+P_W: ~Haag
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-08-13
+number: 2
+league: Central Kansas
+away: Abilene
+home: Manhattan
+source: The Morning Chronicle Aug 14, 1909
+
+Abilene:		ab r h po a e
+Bechtold @ rf:	3 0 0 4 0 0
+Gardner @ lf:	4 1 1 1 2 0
+Monroe @ cf:	4 1 1 0 0 0
+Wilson [Abi] @ 1b:	4 0 0 11 0 1
+Ehrgot @ c:		2 0 0 3 1 1
+Ward @ ss:		4 0 0 1 2 1
+Bartley @ 2b:	1 0 0 0 0 0
+Burton @ 2b:	4 0 0 2 2 0
+Britton @ 3b:	3 0 0 2 2 2
+Roots @ p:		3 0 0 0 4 0
+TOTALS:			30 2 2 24 13 5
+
+Manhattan:		ab r h po a e
+Stewart @ cf:	2 1 0 1 1 0
+Fagan @ ss:		3 1 1 4 2 0
+Wilson [Man] @ rf:	3 1 2 0 0 0
+Meyers @ 2b:	4 0 1 0 4 1
+Barnes @ lf:	4 0 0 3 0 0
+Blain @ c:		2 0 0 4 0 0
+Parker @ c:		2 0 0 1 0 0
+Shull @ 3b:		1 1 0 13 0 2
+Murphy @ p:		3 0 0 0 2 0
+TOTALS:			28 4 4 27 13 3
+
+line: Abilene: 1 0 0 1 0 0 0 0 0 - 2
+line: Manhattan: 1 0 0 0 0 0 3 0 x - 4
+
+B_LOB: Abilene #6; Manhattan #6
+B_ROE: Abilene #3; Manhattan #3
+B_ER: Abilene #1; Manhattan #2
+B_2B: 
+B_3B: 
+B_HR: Monroe
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: Ehrgot
+B_XO: 
+P_BB: Murphy #3; Roots #6
+P_SO: Murphy #5; Roots #2
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: Murphy
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: Fischer; Umphry
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 

@@ -1,0 +1,173 @@
+date: 1909-08-09
+number: 0
+league: Central Kansas
+away: Junction City
+home: Abilene
+source: The Junction City Daily Union Aug 10, 1909
+
+Junction City:	ab r h po a e
+Whalen @ 3b:	4 0 1 1 1 0
+Gallienne @ cf:	3 0 0 3 0 0
+Dugan @ lf:		4 1 0 1 0 0
+Campbell @ 1b:	3 1 1 13 1 1
+Vitters @ 2b:	3 1 1 1 6 2
+Coe @ c:		4 0 1 7 1 0
+Vann @ ss:		2 1 0 0 3 0
+McKenzie @ ?:	4 0 1 0 1 0
+Jepson @ p:		3 0 1 1 4 0
+TOTALS:			30 4 6 27 17 3
+
+Abilene:		ab r h po a e
+Burton @ 2b:	3 0 0 2 1 0
+Ellis @ lf:		4 0 0 1 0 1
+Wilson @ 1b:	3 0 1 12 1 0
+Monroe @ cf:	4 0 0 2 0 0
+Ward @ ss:		4 0 0 1 2 0
+Ehrgott @ c:	4 0 1 5 1 0
+Burton [Britton] @ 3b:	3 1 1 3 1 0
+Root @ rf:		4 0 1 0 0 0
+Schmidt @ p:	3 0 0 1 5 2
+TOTALS:			32 1 4 27 11 3
+
+line: Junction City: 0 0 0 1 0 3 0 0 0 - 4
+line: Abilene: 0 0 0 0 0 0 0 0 1 - 1
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Coe
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: Campbell
+B_XO: 
+P_BB: Jepson #3; Schmidt #6
+P_SO: Jepson #6; Schmidt #5
+P_H: ~Jepson #4; ~Schmidt #6
+P_IP: ~Jepson #9; Schmidt #9
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: 
+
+P_GS: 
+P_GF: 
+P_W: ~Jepson
+P_L: ~Schmidt
+P_SV: 
+
+---
+
+date: 1909-08-10
+number: 0
+league: Central Kansas
+away: Junction City
+home: Abilene
+source: The Junction City Daily Union Aug 11, 1909
+status: completed early, umpire mercy
+
+Junction City:	ab r h po a e
+Whelan @ 3b:	4 0 1 1 1 2
+Gallienne @ cf:	4 0 2 3 1 0
+Dugan @ cf:		4 0 0 1 0 0
+Campbell @ 1b:	3 0 1 6 0 2
+Vitters @ 2b:	3 0 0 1 0 1
+Coe @ c:		3 0 0 1 1 0
+Vann @ ss:		3 0 0 5 3 3
+McKenzie @ rf:	3 1 2 0 0 0
+Gill @ p:		2 0 0 0 3 1
+TOTALS:			29 1 6 18 9 9
+
+Abilene:		ab r h po a e
+Burton @ 2b:	5 3 3 0 0 0
+Ellis @ lf:		4 3 2 1 2 0
+Wilson @ 1b:	4 0 2 10 1 0
+Monroe @ cf:	4 1 0 1 0 0
+Ehrgott @ c:	4 2 1 6 0 0
+Britton @ 3b:	2 2 1 0 3 0
+Mallon @ rf:	2 2 1 0 3 0
+Root @ p:		4 2 2 0 0 0
+TOTALS:			33 16 12 18 9 2
+
+line: Junction City: 0 1 0 0 0 0 - 1
+line: Abilene: 1 0 3 5 1 6 - 16
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: 
+P_SO: 
+P_H: ~Gill #12; ~Root #6
+P_IP: ~Gill #6; ~Root #6
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: 
+
+P_GS: 
+P_GF: 
+P_W: ~Root
+P_L: ~Gill
+P_SV: 
+
+---
+
+date: 1909-08-11
+number: 0
+league: Central Kansas
+away: Junction City
+home: Abilene
+source: The Junction City Daily Union Aug 12, 1909
+forfeit-to: home
+
+line: Junction City: - 0
+line: Abilene: - 9
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: 
+P_SO: 
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: Sigler
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
