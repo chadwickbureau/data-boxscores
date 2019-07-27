@@ -1,0 +1,338 @@
+date: 1910-06-21
+number: 0
+league: Central Kansas
+away: Abilene
+home: Concordia
+source: Concordia Daily Kansan Jun 22, 1910
+
+Abilene:		ab r h po a e
+Bechtold @ rf:	4 0 0 0 0 0
+Jennings @ ss:	3 1 1 2 1 2
+Monroe @ cf:	4 0 1 3 0 0
+Conley @ lf:	4 0 2 1 1 0
+Wilson @ 1b:	2 0 1 8 0 0
+Harrigan @ c:	3 0 0 8 2 0
+Ephling @ 2b:	2 0 0 2 2 1
+Britton @ 3b:	3 0 0 0 0 0
+Lahey @ p:		0 0 0 0 0 0
+Brown @ p:		3 0 0 0 4 0
+TOTALS:			29 1 5 24 10 3
+
+Concordia:		ab r h po a e
+Short @ 2b-3b:	4 1 2 0 3 0
+Webb @ ss:		2 1 0 1 5 1
+Johnson @ lf:	2 0 1 0 0 0
+Sutton @ 3b:	1 1 1 0 0 0
+Glynn @ 2b:		2 0 0 3 4 0
+Dail @ cf:		2 2 1 2 1 0
+Ramsey @ rf:	3 0 1 1 0 0
+Horrel @ 1b:	3 0 1 14 1 0
+Fowler,J. @ c:	4 1 0 5 0 0
+Haight @ p:		3 0 1 1 4 0
+TOTALS:			26 6 8 27 18 1
+
+line: Abilene: 0 0 0 0 0 1 0 0 0 - 1
+line: Concordia: 4 0 0 1 1 0 0 0 x - 6
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Wilson; Monroe
+B_3B: 
+B_HR: 
+B_SB: Webb; J. Fowler #2; Dail; Wilson; Ephling; Conley
+B_SH: Webb; Glynn; Harrigan
+B_SF: Johnson #2; Ramsey
+B_HP: Dail
+B_XO: 
+P_BB: Haight #3; Brown #3
+P_SO: Haight #7; Brown #7
+P_H: Haight #5; Lahey #3; Brown #5
+P_IP: Haight #9; Lahey #0.1; ~Brown #7.2
+P_HP: 
+P_WP: Haight
+P_BK: 
+F_DP: 
+F_PB: J. Fowler
+outsatend: 
+T: 
+U: 
+
+P_GS: 
+P_GF: 
+P_W: ~Haight
+P_L: ~Lahey
+P_SV: 
+
+---
+
+date: 1910-06-22
+number: 0
+league: Central Kansas
+away: Abilene
+home: Concordia
+source: Concordia Daily Kansan Jun 23, 1910
+
+Abilene:		ab r h po a e
+Bechtold @ rf:	2 1 1 1 0 0
+Jennings @ ss:	4 3 3 0 2 0
+Monroe @ cf:	3 0 2 3 0 0
+Conley @ lf:	4 1 1 0 0 0
+Wilson @ 1b:	2 0 1 9 0 1
+Harrigan @ c:	5 0 1 6 2 0
+Epling @ 2b:	2 0 0 5 0 0
+Britton @ 3b:	3 0 0 0 3 0
+Wheatley @ p:	2 0 0 0 2 1
+Zelinski @ p:	2 0 0 0 2 0
+TOTALS:			29 5 9 24 11 2
+
+Concordia:		ab r h po a e
+Short @ 3b:		3 1 0 2 4 1
+Webb @ ss:		2 2 1 1 5 0
+Johnson @ lf:	4 1 3 1 0 0
+Glynn @ 2b:		4 0 1 1 3 0
+Dail @ cf:		4 1 0 2 0 0
+Ramsey @ rf:	4 1 1 1 1 0
+Horrell @ 1b:	3 0 0 11 2 0
+Fowler,C. @ c:	1 0 1 0 0 0
+Fowler,J. @ c:	2 0 0 8 5 1
+Walker @ p:		0 0 0 0 0 0
+Hardin @ p:		1 0 0 0 1 0
+Fowler,S. @ p:	2 0 0 0 4 0
+TOTALS:			39 6 7 27 25 3
+
+line: Abilene: - 5
+line: Concordia: - 6
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Johnson; C. Fowler; Monroe; Harrigan
+B_3B: 
+B_HR: 
+B_SB: Webb; Dail; Short; Wilson; Harrigan; Bechtold; Jennings; Conley
+B_SH: Webb; Glynn; Wilson
+B_SF: Monroe
+B_HP: Epling; Horrell
+B_XO: 
+P_BB: Walker #1; Hardin #1; S. Fowler #6; Wheatley #1; Zelinski #2
+P_SO: S. Fowler #3; Wheatley #1; Zelinski #6
+P_H: Walker #1; Hardin #3; Wheatley #5; Zelinski #2
+P_IP: Walker #0.1; Hardin #2.2; Wheatley #3.1; Zelinski #5.1; ~S. Fowler #6
+P_HP: Hardin; Wheatley
+P_WP: Hardin; Zelinski
+P_BK: 
+F_DP: Ramsey, Short; Glynn, Horrell, J. Fowler; Webb, J. Fowler, Horrell; S. Fowler, J. Fowler, Horrell, J. Fowler
+F_PB: J. Fowler
+outsatend: 
+T: 2:25
+U: Hamlin
+
+P_GS: ~Walker; ~Wheatley
+P_GF: ~S. Fowler; ~Zelinski
+P_W: ~Zelinski
+P_L: ~Wheatley
+P_SV: 
+
+---
+
+date: 1910-06-23
+number: 0
+league: Central Kansas
+away: Junction City
+home: Concordia
+source: Concordia Daily Kansan Jun 24, 1910
+
+Junction City:	ab r h po a e
+Bashang @ cf:	4 0 0 3 0 0
+Whalen @ 1b:	4 0 0 8 0 1
+Weller @ rf:	3 1 1 0 0 0
+Vann @ 3b:		4 1 1 0 1 2
+Dugan @ lf:		2 0 1 2 0 0
+Mier @ ss:		4 0 1 2 2 1
+McKenzie @ 2b:	3 1 0 0 2 1
+*Bacon @ ph:	1 0 0 0 0 0
+Nelson @ c:		4 0 1 8 1 x
+Jepson @ p:		2 0 0 0 3 1
+McGrew @ p:		2 0 0 1 0 0
+TOTALS:			33 3 5 24 9 6
+
+Concordia:		ab r h po a e
+Short @ 3b:		4 1 1 0 4 0
+Johnson @ lf:	5 1 2 3 0 0
+Webb @ ss:		5 0 1 0 3 0
+Glynn @ 2b:		3 0 0 1 1 0
+Dail @ cf:		4 0 1 0 0 0
+Ramsey @ rf:	4 1 2 0 0 0
+Horrell @ 1b:	4 1 1 10 0 0
+Fowler,C. @ c:	3 2 1 13 0 0
+Walker @ p:		1 0 0 0 1 0
+Smith @ p:		1 0 0 0 0 1
+TOTALS:			34 6 9 27 9 2
+
+line: Junction City: 0 0 0 2 0 0 1 0 0 - 3
+line: Concordia: 0 0 0 3 1 1 0 1 x - 6
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: C. Fowler; Dail; Weller; Nelson
+B_3B: Horrell
+B_HR: 
+B_SB: Short #3; Johnson; Dugan; Bashang; Weller
+B_SH: Smith
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Walker #1; Smith #2; Jepson #3; McGrew #1
+P_SO: Walker #4; Smith #8; Jepson #6; McGrew #2
+P_H: Walker #4; Smith #1; Jepson #6; McGrew #3
+P_IP: Walker #4; Jepson #4; ~Smith #5; ~McGrew #4
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: 
+
+P_GS: ~Walker; ~Jepson
+P_GF: ~Smith; ~McGrew
+P_W: ~Smith
+P_L: ~Jepson
+P_SV: 
+
+---
+
+date: 1910-06-24
+number: 0
+league: Central Kansas
+away: Junction City
+home: Concordia
+source: Concordia Daily Kansan Jun 25, 1910
+
+Junction City:	ab r h po a e
+Bashang @ cf:	3 1 2 3 0 1
+Whalen @ 1b:	2 0 0 10 0 0
+Welles @ rf:	4 1 1 1 0 0
+Vann @ 3b:		4 0 0 0 1 1
+Dugan @ lf:		4 0 1 1 0 0
+Mier @ 2b:		3 1 0 0 5 0
+McKenzie @ ss:	2 0 0 1 1 0
+Nelson @ c:		2 0 0 10 0 0
+Jepson @ p:		4 0 0 1 3 0
+TOTALS:			28 3 4 27 10 x
+
+Concordia:		ab r h po a e
+Short @ 1b:		4 0 1 13 1 1
+Webb @ ss:		2 0 0 2 1 x
+Johnson @ lf:	4 0 0 0 0 0
+Sutton @ 3b:	4 0 0 0 2 0
+Dail @ cf:		3 0 0 1 0 0
+Ramsey @ rf:	3 0 0 3 0 1
+Glynn @ 2b:		3 0 0 1 3 1
+Fowler,J. @ c:	3 0 0 6 0 0
+Haight @ p:		3 0 0 1 6 0
+TOTALS:			29 0 1 27 13 4
+
+line: Junction City: 0 1 0 0 0 0 0 2 0 - 3
+line: Concordia: 0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: Short; Webb; Bashang #3; Mier #2; Welles
+B_SH: Webb; Whalen; Mier; Nelson
+B_SF: McKenzie
+B_HP: 
+B_XO: 
+P_BB: Haight #4; Jepson #1
+P_SO: Haight #5; Jepson #9
+P_H: ~Haight #4; ~Jepson #1
+P_IP: ~Haight #9; ~Jepson #9
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: Hamlin
+
+P_GS: 
+P_GF: 
+P_W: ~Jepson
+P_L: ~Haight
+P_SV: 
+
+---
+
+date: 1910-06-25
+number: 0
+league: Central Kansas
+away: Junction City
+home: Concordia
+source: Concordia Daily Kansan Jun 27, 1910
+
+Junction City:	ab r h po a e
+Bashang @ cf:	4 1 1 2 0 1
+Whalen @ 1b:	3 0 2 10 1 0
+Weller @ rf:	4 0 0 1 0 0
+vann @ 3b:		3 1 1 1 3 0
+Dugan @ lf:		2 0 0 1 0 0
+Mier @ 2b:		4 1 2 2 3 0
+Bacon @ ss:		3 1 1 1 1 1
+Nelson @ c:		3 0 0 8 1 0
+Finch @ p:		3 0 0 1 2 1
+TOTALS:			29 4 7 27 11 3
+
+Concordia:			ab r h po a e
+Short @ 1b-3b:		4 0 0 4 5 0
+Webb @ ss:			4 0 0 0 0 0
+Johnson @ lf:		4 0 1 1 0 0
+Sutton @ 3b:		1 0 0 1 0 0
+Walker @ 1b:		3 0 0 9 0 0
+Dail @ cf:			4 0 1 2 0 0
+Ramsey @ rf:		4 0 2 1 0 1
+Glynn @ 2b:			2 0 0 2 0 0
+Fowler,J. @ c:		3 0 0 7 1 0
+Hardin @ p:			0 0 0 0 3 0
+Fowler,S. @ p:		3 0 1 0 5 0
+TOTALS:				32 0 5 27 14 1
+
+line: Junction City: 0 3 0 0 1 0 0 0 0 - 4
+line: Concordia: 0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Mier; Bacon
+B_3B: 
+B_HR: 
+B_SB: Short; Bashang; Whalen; Finch
+B_SH: Glynn; Dugan #2; Bacon
+B_SF: 
+B_HP: Finch
+B_XO: 
+P_BB: Hardin #1; S. Fowler #1
+P_SO: Hardin #3; S. Fowler #4; Finch #8
+P_H: Hardin #4; S. Fowler #3; ~Finch #5
+P_IP: Hardin #2.1; S. Fowler #6.2; ~Finch #9
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: 
+
+P_GS: ~Hardin
+P_GF: ~S. Fowler
+P_W: ~Finch
+P_L: ~Hardin
+P_SV: 

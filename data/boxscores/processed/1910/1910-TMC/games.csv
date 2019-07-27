@@ -1,0 +1,5 @@
+key,date,number,league,phase,site,away,away.score,away.manager,home,home.score,home.manager,A,T,forfeit.to,status,status.reason,outsatend,filename,source,away.score.1,away.score.2,away.score.3,away.score.4,away.score.5,away.score.6,away.score.7,away.score.8,away.score.9,home.score.1,home.score.2,home.score.3,home.score.4,home.score.5,home.score.6,home.score.7,home.score.8,home.score.9
+VCCGBCV,1910-06-14,0,Central Kansas,regular,,Junction City,1,,Manhattan,5,,,1:22,,final,,,1910/1910-TMC/TMC-19100613.txt,"The Morning Chronicle Jun 15, 1910",0,1,0,0,0,0,0,0,0,1,2,0,0,0,1,0,1,x
+TYJBKLL,1910-06-16,0,Central Kansas,regular,,Manhattan,5,,Clay Center,9,,,1:30,,final,,,1910/1910-TMC/TMC-19100613.txt,"The Morning Chronicle Jun 17, 1910",,,,,,,,,,,,,,,,,,
+WYHCJKG,1910-06-17,0,Central Kansas,regular,,Manhattan,2,,Clay Center,6,,,1:35,,final,,,1910/1910-TMC/TMC-19100613.txt,"The Morning Chronicle Jun 18, 1910",0,0,0,0,0,0,1,0,1,0,3,1,0,0,0,0,2,x
+QWWVKRX,1910-06-18,0,Central Kansas,regular,,Manhattan,2,,Clay Center,3,,,1:30,,final,,,1910/1910-TMC/TMC-19100613.txt,"The Morning Chronicle Jun 20, 1910",0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,2,x

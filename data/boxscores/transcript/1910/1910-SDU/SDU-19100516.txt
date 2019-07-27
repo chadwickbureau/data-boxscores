@@ -1,0 +1,303 @@
+date: 1910-05-16
+number: 0
+league: Central Kansas
+away: Abilene
+home: Salina
+source: The Salina Daily Union May 17, 1910
+status: postponed, rain
+
+---
+
+date: 1910-05-16
+number: 0
+league: Central Kansas
+away: Manhattan
+home: Beloit
+source: The Salina Daily Union May 17, 1910
+status: postponed, rain
+
+---
+
+date: 1910-05-16
+number: 0
+league: Central Kansas
+away: Clay Center
+home: Concordia
+source: The Salina Daily Union May 17, 1910
+status: postponed, rain
+
+---
+
+date: 1910-05-17
+number: 0
+league: Central Kansas
+away: Abilene
+home: Salina
+source: The Salina Daily Union May 18, 1910
+
+Abilene:		ab r h po a e
+Bechtold @ rf:	5 0 0 1 0 1
+Jennings @ ss:	4 1 1 1 2 1
+Monroe @ cf:	4 1 2 1 0 0
+Conley @ lf:	4 1 3 3 0 1
+Wilson @ 1b:	3 2 3 12 1 0
+Ehrgott @ c:	4 1 2 5 3 1
+Britton @ 3b:	4 0 0 3 1 1
+Harris @ 2b:	3 0 0 0 1 0
+Zielinski @ p:	4 0 0 1 4 0
+TOTALS:			35 6 11 27 12 5
+
+Salina:				ab r h po a e
+Pulliam @ cf:		4 1 0 2 0 0
+Misse @ ss:			3 1 1 1 4 0
+Leonard @ lf-2b:	4 1 0 2 0 1
+Grady @ 1b:			4 0 2 14 1 0
+Hutchinson @ 3b:	3 1 2 0 1 0
+Maxey @ c:			4 1 2 7 2 1
+Mack @ rf:			3 0 1 0 0 0
+Epling @ 2b:			3 0 0 0 4 0
+Abbott @ lf:		1 0 0 1 0 0
+Killilay @ p:		3 0 0 0 4 1
+*House @ ph:		1 0 0 0 0 0
+TOTALS:				33 5 8 27 16 3
+
+line: Abilene: 1 0 0 2 1 1 0 1 0 - 6
+line: Salina: 0 0 0 1 0 1 0 1 2 - 5
+
+B_LOB: Abilene #3; Salina #8
+B_ROE: 
+B_ER: 
+B_2B: Mack; Grady; Misse
+B_3B: Hutchinson
+B_HR: 
+B_SB: Hutchinson; Maxey; Wilson #2; Jennings #2
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Zielinski #5; Killilay #1
+P_SO: Zielinski #5; Killilay #6
+P_H: ~Zielinski #8; ~Killilay #11
+P_IP: ~Zielinski #9; ~Killilay #9
+P_HP: Killilay #1
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 2:05
+U: 
+
+P_GS: 
+P_GF: 
+P_W: ~Zielinski
+P_L: ~Killilay
+P_SV: 
+
+---
+
+date: 1910-05-18
+number: 0
+league: Central Kansas
+away: Abilene
+home: Salina
+source: The Salina Daily Union May 19, 1910
+
+Abilene:		ab r h po a e
+Bechtold @ rf:	4 0 0 0 0 0
+Jennings @ ss:	3 1 1 1 3 0
+Monroe @ cf:	4 1 2 1 1 0
+Conley @ lf:	4 1 2 0 0 0
+Wilson @ 1b:	5 1 1 15 1 0
+Ehrgott @ c:	5 0 1 6 3 1
+Harris @ 2b:	3 0 1 1 0 2
+Leahey @ 2b:	1 0 0 0 4 0
+Britton @ 3b:	3 1 0 6 1 1
+Coleman @ p:	1 0 0 0 1 0
+Wheatley @ p:	3 0 0 0 1 0
+TOTALS:			36 5 8 30 15 4
+
+Salina:				ab r h po a e
+Pulliam @ cf:		4 1 0 2 1 0
+Misse @ ss:			3 1 0 5 4 0
+Leonard @ lf-2b:	3 1 2 1 0 0
+Grady @ 1b:			5 0 0 12 2 0
+Hutchinson @ 3b:	4 0 0 3 1 2
+Maxey @ c:			5 2 3 6 3 0
+Mack @ rf:			4 0 3 1 0 0
+Abbott @ lf:		1 0 0 0 0 0
+Epling @ 2b:		2 0 0 0 1 0
+House @ p:			2 0 0 0 1 1
+Fury @ p:			0 0 0 0 0 0
+*Meredith @ ph:		1 0 0 0 0 0
+Shearan @ p:		1 0 0 0 2 0
+TOTALS:				35 5 8 30 15 3
+
+*: batted for Fury in 6th
+
+line: Abilene: 2 0 0 0 1 2 0 0 0 0 - 5
+line: Salina: 0 1 0 0 2 1 0 1 0 0 - 5
+
+B_LOB: Abilene #6; Salina #8
+B_ROE: 
+B_ER: 
+B_2B: Jennings; Conley; Leonard; Mack
+B_3B: Mack
+B_HR: 
+B_SB: Pulliam #2; Leonard #2; Maxey #3; Mack; Abbott; Monroe
+B_SH: Leonard; Mack
+B_SF: 
+B_HP: Hutchinson; Britton
+B_XO: 
+P_BB: House #3; Coleman #1; Wheatley #4
+P_SO: House #4; Fury #1; Shearan #3; Coleman #2; Wheatley #3
+P_H: 
+P_IP: ~Shearan #4
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Grady, Misse, Grady
+F_PB: Maxey #1; Ehrgott #2
+outsatend: 
+T: 2:10
+U: Mythens
+
+P_GS: ~Coleman; ~House
+P_GF: ~Wheatley; ~Shearan
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1910-05-18
+number: 0
+league: Central Kansas
+away: Junction City
+home: Ellsworth
+source: The Salina Daily Union May 19, 1910
+
+Junction City:	ab r h po a e
+Meyer @ 2b:		4 1 1 2 6 0
+Jewell @ ss:	4 1 1 1 0 0
+Vann @ 3b:		2 0 1 3 5 1
+Bashing @ cf:	2 0 0 0 0 0
+Dugan @ lf:		4 0 0 1 0 0
+Ramsey @ rf:	3 0 0 0 0 0
+Sullivan @ 1b:	4 0 1 15 0 0
+Masters @ c:	3 0 0 5 0 0
+Hinton @ p:		3 1 0 0 4 0
+TOTALS:			29 3 4 27 15 1
+
+Ellsworth:			ab r h po a e
+Schlensker @ rf:	4 1 2 0 0 0
+Pickens @ ss:		3 1 2 2 1 0
+Poindexter @ lf:	4 0 2 1 0 1
+Bankhead @ c:		4 0 0 8 2 1
+White @ cf:			4 0 0 0 0 0
+Johns @ 3b:			4 0 1 1 2 0
+Reed @ 2b:			4 0 2 4 2 0
+Armstrong @ 1b:		4 0 0 11 2 0
+Taylor @ p:			3 0 0 0 4 1
+TOTALS:				36 2 9 27 13 3
+
+line: Junction City: 0 0 3 0 0 0 0 0 0 - 3
+line: Ellsworth: 0 0 2 0 0 0 0 0 0 - 2
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Pickens; Sullivan
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Taylor #3
+P_SO: Hinton #4; Taylor #9
+P_H: ~Hinton #9; ~Taylor #4
+P_IP: ~Hinton #9; ~Taylor #9
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:40
+U: Hamlin
+
+P_GS: 
+P_GF: 
+P_W: ~Hinton
+P_L: ~Taylor
+P_SV: 
+
+---
+
+date: 1910-05-19
+number: 0
+league: Central Kansas
+away: Salina
+home: Junction City
+source: The Salina Daily Union May 20, 1910
+
+Salina:				ab r h po a e
+Pulliam @ cf:		2 0 0 1 0 0
+Misse @ ss:			4 0 1 1 5 2
+Leonard @ lf:		4 0 0 1 0 0
+Grady @ 1b:			4 0 0 14 0 1
+Hutchinson @ 3b:	2 0 0 3 1 1
+Maxey @ c:			2 0 0 1 2 0
+Abbott @ c:			1 0 0 0 0 0
+Mack @ rf:			3 0 1 0 0 0
+Epling @ 2b:		3 0 0 3 2 0
+Fury @ p:			3 0 0 0 5 0
+TOTALS:				28 0 2 24 15 4
+
+Junction City:		ab r h po a e
+Mier @ 2b:			4 0 0 1 2 0
+Jewell @ ss:		2 1 1 6 1 1
+Vann @ 3b:			3 0 0 1 0 0
+Dugan @ lf:			4 0 1 0 0 0
+Bashang @ cf:		3 1 1 3 0 0
+McDonald @ rf:		4 1 0 1 0 0
+Sullivan @ 1b:		3 1 0 5 1 2
+Nelson @ c:			3 0 1 9 0 0
+Jepson @ p:			4 0 1 1 4 1
+TOTALS:				30 4 5 27 8 4
+
+line: Salina: 0 0 0 0 0 0 0 0 0 - 0
+line: Junction City: 0 2 0 1 1 0 0 0 x - 4
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Jepson #2; Fury #4
+P_SO: Jepson #9; Fury #1
+P_H: Jepson #2; Fury #5
+P_IP: ~Jepson #9; ~Fury #8
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Jepson, Sullivan; Sullivan, Vann; Jewell; McDonald, Jewell
+F_PB: Maxey #1
+outsatend: 
+T: 
+U: 
+
+P_GS: 
+P_GF: 
+P_W: ~Jepson
+P_L: ~Fury
+P_SV: 
+

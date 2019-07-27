@@ -1,0 +1,14 @@
+key,date,number,league,phase,site,away,away.score,away.manager,home,home.score,home.manager,A,T,forfeit.to,status,status.reason,outsatend,filename,source,away.score.1,away.score.2,away.score.3,away.score.4,away.score.5,away.score.6,away.score.7,away.score.8,away.score.9,home.score.1,home.score.2,home.score.3,home.score.4,home.score.5,home.score.6,home.score.7,home.score.8,home.score.9
+MCPKSGK,1910-05-17,0,Central Kansas,regular,,Manhattan,9,,Beloit,4,,,,,final,,,1910/1910-BDC/BDC-19100516.txt,"The Beloit Daily Call May 18, 1910",0,1,0,0,1,2,3,0,2,2,0,0,0,0,0,0,0,2
+DNGQFMS,1910-05-18,0,Central Kansas,regular,,Manhattan,4,,Beloit,5,,,,,final,,,1910/1910-BDC/BDC-19100516.txt,"The Beloit Daily Call May 19, 1910",0,0,3,1,0,0,0,0,0,0,0,1,1,1,2,0,0,0
+BKHWHBP,1910-05-19,0,Central Kansas,regular,,Clay Center,3,,Beloit,2,,,,,final,,,1910/1910-BDC/BDC-19100516.txt,"The Beloit Daily Call May 20, 1910",3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+DPGYYJX,1910-05-20,0,Central Kansas,regular,,Clay Center,13,,Beloit,1,,,,,final,,,1910/1910-BDC/BDC-19100516.txt,"The Beloit Daily Call May 21, 1910",2,0,1,2,0,2,4,0,2,1,0,0,0,0,0,0,0,0
+KXVFLXX,1910-05-21,0,Central Kansas,regular,,Clay Center,2,,Beloit,10,,,,,final,,,1910/1910-BDC/BDC-19100516.txt,"The Beloit Daily Call May 23, 1910",1,0,1,0,0,0,0,0,2,1,5,0,0,0,0,0,4,x
+GGDYKMX,1910-05-25,0,Central Kansas,regular,,Beloit,2,,Abilene,5,,,,,final,,,1910/1910-BDC/BDC-19100523.txt,"The Beloit Daily Call May 26, 1910",2,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,1,x
+TBSGLWY,1910-06-02,0,Central Kansas,regular,,Ellsworth,9,,Beloit,2,,,1:50,,final,,,1910/1910-BDC/BDC-19100530.txt,"The Beloit Daily Call Jun 3, 1910",0,1,0,3,2,0,0,0,3,0,1,0,0,0,0,0,1,0
+BNXTSLQ,1910-06-04,0,Central Kansas,regular,,Ellsworth,0,,Beloit,2,,,,,final,,,1910/1910-BDC/BDC-19100530.txt,"The Beloit Daily Call Jun 6, 1910",0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,x
+FXYJKZY,1910-06-13,0,Central Kansas,regular,,Beloit,4,,Ellsworth,2,,,1:30,,final,,,1910/1910-BDC/BDC-19100613.txt,"The Beloit Daily Call Jun 14, 1910",0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2
+FPBCYWB,1910-06-16,0,Central Kansas,regular,,Concordia,11,,Beloit,2,,,1:55,,final,,,1910/1910-BDC/BDC-19100613.txt,"The Beloit Daily Call Jun 17, 1910",4,0,0,0,0,0,2,1,4,1,1,0,0,0,0,0,0,0
+RXBQBMQ,1910-06-17,0,Central Kansas,regular,,Concordia,2,,Beloit,1,,,1:50,,final,,,1910/1910-BDC/BDC-19100613.txt,"The Beloit Daily Call Jun 18, 1910",0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0
+RYLMFZR,1910-06-18,0,Central Kansas,regular,,Concordia,2,,Beloit,4,,,1:40,,final,,,1910/1910-BDC/BDC-19100613.txt,"The Beloit Daily Call Jun 20, 1910",2,0,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,x
+JQPRGCH,1910-06-25,0,Central Kansas,regular,,Abilene,13,,Beloit,3,,,2:00,,final,,,1910/1910-BDC/BDC-19100620.txt,"The Beloit Daily Call Jun 27, 1910",2,0,0,0,0,0,0,1,10,0,0,0,0,0,2,0,0,1

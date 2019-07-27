@@ -1,0 +1,64 @@
+date: 1910-06-01
+number: 0
+league: Central Kansas
+away: Beloit
+home: Concordia
+source: Concordia Daily Kansan Jun 2, 1910
+
+Beloit:			ab r h po a e
+Martin @ rf:	4 0 0 0 0 0
+Peters @ c:		4 0 0 4 0 0
+Diamond @ 1b:	4 0 0 9 0 0
+Sackett @ 3b:	3 1 1 4 1 0
+Drumm @ lf:		3 0 0 3 0 0
+Williams @ cf:	3 0 0 2 0 0
+Kelly @ 2b:		3 0 0 1 2 1
+Carroll @ ss:	2 0 0 0 4 0
+Cobert @ p:		3 0 0 1 1 0
+TOTALS:			24 1 1 24 8 1
+
+Concordia:		ab r h po a e
+Walker,O. @ rf:	2 0 0 0 0 0
+Short @ ph-rf:	2 1 1 1 0 0
+Webb @ 2b:		4 1 2 1 1 0
+Johnson @ lf:	4 1 2 1 0 0
+Sutton @ 3b:	4 1 1 0 1 1
+Drew @ ss:		2 0 0 0 2 0
+Horril @ 1b:	4 0 1 11 0 0
+Clary @ cf:		4 0 0 4 0 0
+Keifer @ c:		2 1 0 9 2 0
+Haight @ p:		3 1 1 0 1 0
+TOTALS:			31 6 8 27 7 1
+
+line: Beloit: 0 1 0 0 0 0 0 0 0 - 1
+line: Concordia: 0 0 0 0 0 1 0 5 x - 6
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Sutton
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: Keifer
+B_XO: 
+P_BB: Haight #1; Cobert #1
+P_SO: Haight #10; Cobert #4
+P_H: ~Haight #1; ~Cobert #8
+P_IP: ~Haight #9; ~Cobert #8
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Carroll, Kelly, Diamond
+F_PB: Keifer #1; Peters #1
+outsatend: 
+T: 
+U: Mython
+
+P_GS: 
+P_GF: 
+P_W: ~Haight
+P_L: ~Cobert
+P_SV: 

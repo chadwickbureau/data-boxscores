@@ -1,0 +1,136 @@
+date: 1910-06-06
+number: 0
+league: Central Kansas
+away: Clay Center
+home: Junction City
+source: The Clay Center Dispatch Jun 7, 1910
+A: 400
+
+Clay Center:		ab r h po a e
+Beck @ 2b:			4 0 0 1 1 2
+Gramly @ 3b-ss:		4 0 0 1 2 1
+Murie @ 1b:			3 0 1 8 0 0
+Barnes @ lf:		4 0 0 3 1 0
+Southwick @ c:		3 0 0 7 0 0
+Strong @ cf:		2 0 1 3 0 0
+Grubbs @ ss-3b:		1 0 0 1 1 1
+Brooks @ rf:		3 0 0 0 0 0
+Stokesberry @ p:	3 0 0 0 10 0
+TOTALS:				27 0 2 24 15 4
+
+Junction City:		ab r h po a e
+Meier @ 2b:			3 1 1 0 4 0
+Jewell @ ss:		2 1 0 1 2 0
+Vann @ 3b:			4 0 0 2 3 1
+McDonald @ rf:		4 0 0 0 0 0
+Quigley @ 1b:		4 0 0 17 0 0
+Bashang @ lf:		3 1 1 0 0 0
+Nelson @ c:			3 0 0 7 0 0
+Masters @ cf:		3 0 0 0 0 0
+O'Neill @ p:		3 0 0 0 15 0
+TOTALS:				29 3 2 27 24 1
+
+line: Clay Center: 0 0 0 0 0 0 0 0 0 - 0
+line: Junction City: 1 0 0 0 0 0 1 1 0 - 3
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Murie
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: O'Neill #3; Stokesberry #1
+P_SO: O'Neill #7; Stokesberry #6
+P_H: ~O'Neill #2; ~Stokesberry #2
+P_IP: ~O'Neill #9; ~Stokesberry #8
+P_HP: O'Neill; Stokesberry
+P_WP: 
+P_BK: 
+F_DP: Vann, Quigley
+F_PB: 
+outsatend: 
+T: 1:30
+U: Hamlin
+
+P_GS: 
+P_GF: 
+P_W: ~O'Neill
+P_L: ~Stokesberry
+P_SV: 
+
+---
+
+date: 1910-06-09
+number: 0
+league: Central Kansas
+away: Junction City
+home: Clay Center
+source: The Clay Center Dispatch Jun 10, 1910
+A: 300
+
+Junction City:	ab r h po a e
+Miller @ 3b:	5 0 2 0 1 1
+Jewell @ ss:	5 0 0 0 1 0
+McDonald @ rf:	4 0 3 0 0 0
+Quigley @ 2b:	4 0 0 1 0 0
+O'Neil @ cf:	4 0 0 0 0 0
+Buschang @ lf:	3 0 0 1 0 0
+Nelson @ c:		4 0 1 6 1 0
+Wagner @ 1b:	4 1 1 15 0 0
+Jepson @ p:		3 0 1 1 10 1
+*Hinton @ ph:	x x x x x x 
+TOTALS:			36 1 8 24 13 2
+
+Clay Center:	ab r h po a e
+Southwick @ c:	4 0 1 4 0 0
+Gramly @ 2b:	3 1 1 1 2 0
+Murie @ 1b:		4 0 0 11 0 0
+Barnes @ lf:	3 1 3 4 0 0
+Strong @ 3b:	3 0 0 2 1 1
+Shimeall @ rf:	2 0 0 0 0 0
+Brooks @ rf:	2 0 0 1 0 0
+Wentz @ cf:		3 1 1 0 0 1
+Grubbs @ ss:	1 0 0 3 0 0
+Morehead @ p:	3 0 0 2 6 0
+TOTALS:			28 3 6 27 9 2
+
+*: batted for Jewell in 9th
+
+line: Junction City: 0 0 0 0 0 0 1 0 0 - 1
+line: Clay Center: 0 0 0 0 0 2 1 0 0 - 3
+
+B_LOB: Junction City #9; Clay Center #6
+B_ROE: 
+B_ER: Clay Center #1
+B_2B: Barnes; McDonald; Jepson
+B_3B: Barnes
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: Buschang; Barnes
+B_XO: 
+P_BB: Morehead #1; Jepson #2
+P_SO: Morehead #1; Jepson #6
+P_H: ~Morehead #8; ~Jepson #6
+P_IP: ~Morehead #9; ~Jepson #8
+P_HP: 
+P_WP: Morehead; Jepson
+P_BK: 
+F_DP: 
+F_PB: Southwick
+outsatend: 
+T: 1:30
+U: Weyman
+
+P_GS: 
+P_GF: 
+P_W: ~Morehead
+P_L: ~Jepson
+P_SV: 
+

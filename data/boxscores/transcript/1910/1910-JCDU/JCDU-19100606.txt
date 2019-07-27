@@ -1,0 +1,129 @@
+date: 1910-06-10
+number: 0
+league: Central Kansas
+away: Junction City
+home: Clay Center
+source: The Junction City Daily Union Jun 11, 1910
+
+Junction City:		ab r h po a e
+Weller @ ?:			5 1 1 0 1 0
+Jewell @ ?:			4 1 2 2 2 0
+McDonald @ ?:		5 0 1 1 0 0
+Quigley @ ?:		4 0 1 2 0 0
+Bashang @ ?:		4 1 1 2 0 0
+Nelson @ c:			3 1 2 10 0 0
+Wagner @ ?:			4 1 1 7 0 0
+Miller @ ?:			4 0 1 3 0 0
+Finch @ p:			4 0 0 0 4 0
+TOTALS:				37 5 10 27 7 0
+
+Clay Center:	ab r h po a e
+Southwick @ c:	3 0 0 6 0 0
+Gramley @ ?:	4 0 1 2 2 0
+Murie @ ?:		3 0 2 10 0 1
+Barnes @ ?:		3 0 0 1 0 1
+Strong @ ?:		3 0 0 1 3 0
+Shineall @ ?:	3 0 1 0 0 0
+Wentz @ ?:		3 0 1 4 0 1
+Grubbs @ ?:		3 0 0 3 4 1
+Brooks @ p:		3 0 1 0 4 0
+TOTALS:			28 1 6 27 13 4
+
+line: Junction City: 1 2 0 0 1 0 0 1 0 - 5
+line: Clay Center: 0 0 0 0 0 0 0 0 1 - 1
+
+B_LOB: 
+B_ROE: Junction City #3
+B_ER: Junction City #1
+B_2B: Murie; Gramley; Nelson
+B_3B: 
+B_HR: 
+B_SB: Gramley
+B_SH: Jewell
+B_SF: 
+B_HP: Quigley; Nelson
+B_XO: 
+P_BB: Finch #0; Brooks #0
+P_SO: Finch #5; Brooks #4
+P_H: ~Finch #6; ~Brooks #10
+P_IP: ~Finch #9; ~Brooks #9
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Gramley, Grubbs, Murie; Jewell, Wagner
+F_PB: Southwick
+outsatend: 
+T: 1:30
+U: Wayman
+
+P_GS: 
+P_GF: 
+P_W: ~Finch
+P_L: ~Brooks
+P_SV: 
+
+---
+
+date: 1910-06-11
+number: 0
+league: Central Kansas
+away: Junction City
+home: Clay Center
+source: The Junction City Daily Union Jun 13, 1910
+
+Junction City:	ab r h po a e
+Meier @ 2b:		4 0 0 2 3 0
+Jewell @ ss:	4 0 1 1 1 0
+Miller [3b] @ 3b:	4 0 1 0 2 1
+McDonald @ rf:	4 0 1 1 0 0
+Nelson @ c:		2 0 0 8 0 0
+Wagner @ 1b:	3 0 0 9 0 0
+Miller [lf] @ lf:	3 0 0 1 0 1
+Bashang @ lf:	3 0 0 2 0 1
+McGrew @ p:		3 0 0 0 3 0
+TOTALS:			23 0 3 24 9 3
+
+Clay Center:		ab r h po a e
+Gramley @ 2b:		4 1 1 1 2 0
+Southwick @ c:		3 1 0 8 0 0
+Murie @ 1b:			4 0 0 10 2 0
+Barnes @ lf:		4 0 2 2 0 0
+Strong @ 3b:		4 1 2 1 0 1
+Hamilton @ rf:		4 1 1 0 0 0
+Grubbs @ ss:		3 0 0 1 3 0
+Brooks @ cf:		4 0 0 2 0 0
+Stokesberry @ p:	2 0 1 2 3 0
+TOTALS:				32 4 7 28 10 1
+
+line: Junction City: 0 0 0 0 0 0 0 0 0 - 0
+line: Clay Center: 1 0 1 0 0 2 0 0 x - 4
+
+B_LOB: Junction City #4; Clay Center #7
+B_ROE: Junction City #1; Clay Center #3
+B_ER: Clay Center #1
+B_2B: Strong
+B_3B: 
+B_HR: 
+B_SB: Gramley
+B_SH: Southwick; Grubbs; Stokesberry
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Stokesberry #1
+P_SO: McGrew #8; Stokesberry #7
+P_H: ~Stokesberry #3; ~McGrew #7
+P_IP: ~Stokesberry #9; ~McGrew #8
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:28
+U: Wayman
+
+P_GS: 
+P_GF: 
+P_W: ~Stokesberry
+P_L: ~McGrew
+P_SV: 

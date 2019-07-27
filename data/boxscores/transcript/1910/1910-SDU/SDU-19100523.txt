@@ -1,0 +1,113 @@
+date: 1910-05-26
+number: 0
+league: Central Kansas
+away: Clay Center
+home: Salina
+source: The Salina Daily Union May 27, 1910
+
+Clay Center:		ab r h po a e
+Beck @ cf:			2 0 0 3 0 0 
+Gramley @ 2b:		2 0 0 1 0 0
+Murie @ 1b:			2 0 0 4 0 0
+Barnes @ lf:		2 0 0 2 0 0
+Southwick @ c:		2 0 0 4 0 0
+Shimeall @ rf:		2 0 0 0 0 0
+Wentz @ 3b:			2 0 1 0 1 0
+Grubbs @ ss:		2 0 0 3 0 0
+Stokesberry @ p:	2 0 0 0 3 0
+TOTALS:				18 0 1 17 4 0
+
+Salina:				ab r h po a e
+Pulliam @ cf:		2 1 0 1 0 0
+Misse @ ss:			2 0 0 1 2 0
+Leonard @ lf:		1 0 0 0 0 0
+Abbott @ c:			1 0 0 6 0 0
+Hutchinson @ 3b:	2 0 0 1 2 0
+Wunderly @ rf:		2 0 0 1 0 0
+Grady @ 1b:			2 0 0 8 0 0
+Epling @ 2b:		1 0 0 0 2 0
+Kililay @ p:		2 0 0 0 2 0
+TOTALS:				15 1 0 18 8 0
+
+line: Clay Center: 0 0 0 0 0 0 - 0
+line: Salina: 1 0 0 0 0 0 - 1
+
+B_LOB: Clay Center #2; Salina #2
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: Wentz
+B_SH: Leonard; Abbott; Gramley
+B_SF: 
+B_HP: Beck; Misse; Epling
+B_XO: 
+P_BB: Stokesberry #1
+P_SO: Kililay #6; Stokesberry #4
+P_H: ~Kililay #1; ~Stokesberry #0
+P_IP: ~Kililay #6; ~Stokesberry #6
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 2
+T: 
+U: Mython
+
+P_GS: 
+P_GF: 
+P_W: ~Kililay
+P_L: ~Stokesberry
+P_SV: 
+
+---
+
+date: 1910-05-26
+number: 0
+league: Central Kansas
+away: Ellsworth
+home: Manhattan
+source: The Salina Daily Union May 27, 1910
+status: postponed, rain
+
+---
+
+date: 1910-05-26
+number: 0
+league: Central Kansas
+away: Beloit
+home: Junction City
+source: The Salina Daily Union May 27, 1910
+status: postponed, rain and wet grounds
+
+---
+
+date: 1910-05-27
+number: 0
+league: Central Kansas
+away: Ellsworth
+home: Manhattan
+source: The Salina Daily Union May 28, 1910
+status: postponed, rain
+
+---
+
+date: 1910-05-27
+number: 0
+league: Central Kansas
+away: Junction City
+home: Beloit
+source: The Salina Daily Union May 28, 1910
+status: postponed, muddy grounds
+
+---
+
+date: 1910-05-27
+number: 0
+league: Central Kansas
+away: Clay Center
+home: Salina
+source: The Salina Daily Union May 28, 1910
+status: postponed, rain
