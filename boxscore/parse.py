@@ -255,7 +255,7 @@ class Game(object):
             status, reason = value.strip(), None
         status = status.lower()
         if status not in ['final', 'completed early', 'abandoned',
-                          'postponed']:
+                          'postponed', 'cancelled']:
             print(f"In file {self.metadata['filename']},\n   game {self}")
             print(f"  Unknown status '{status}'")
         else:
