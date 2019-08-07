@@ -130,8 +130,8 @@ line: Newport News: 0 0 0 0 0 0 0 0 0 - 0
 line: Portsmouth:   1 0 1 2 1 0 0 0 x - 5
 
 B_LOB: Portsmouth #8; Newport News #5
-B_2B: Teague
-B_HR: Hurley; Teague
+B_2B: Teague [Taguer]
+B_HR: Hurley; Teague [Taguer]
 B_SB: Seiglie #2; Bunting; Smith; Walters; Damrau
 P_BB: Voltz #4; Welcher #2
 P_SO: Voltz #9; Welcher #2
