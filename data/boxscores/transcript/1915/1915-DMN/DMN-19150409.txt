@@ -1,0 +1,218 @@
+date: 1915-04-09
+number: 0
+league: Texas
+away: Dallas
+home: Shreveport
+source: Dallas Morning News, April 10, 1915
+
+Dallas:		ab r h po a e
+Harber @ rf:	4 1 0 2 0 0
+Kellerman @ 2b:	4 0 0 1 3 0
+Ens @ 1b:	4 1 1 11 0 0
+Crouch @ lf:	3 0 1 0 0 0
+Storch @ cf:	2 1 2 1 1 0
+Brownlow @ 3b:	3 0 0 1 3 0
+Eunich @ ss:	4 0 1 0 1 1
+White @ c:	3 0 0 8 1 1	
+(~9.1)Mullens @ p:	2 0 0 0 1 0
+(~9.3)Frantz @ p:	0 0 0 0 0 0
+(~9.2)*Howard @ ph:	1 0 0 0 0 0
+TOTALS:		30 3 5 24 10 2
+
+Shreveport:	ab r h po a e
+Becker @ rf:	4 2 2 0 0 0
+Rollings @ 2b:	4 0 1 2 3 1
+McElveen @ 3b:	4 1 2 1 1 0
+Schrader @ 1b:	4 0 0 9 0 0
+Fuller @ lf:	4 0 2 1 0 0	
+Durkin @ ss:	4 0 0 0 1 0
+Clapp @ cf:	4 0 1 2 0 0 
+Toland @ c:	4 0 0 8 1 0 
+Chelette @ p:	2 1 1 1 1 0
+TOTALS:		34 4 9 24 10 1
+
+*: batted for Mullens
+
+line: Dallas:     1 0 0 0 1 0 0 1 0 - 3
+line: Shreveport: 0 0 2 0 0 1 1 0 x - 4
+
+B_LOB: Dallas #9; Shreveport #7
+B_2B: Rollings; Clapp
+B_3B: Ens
+B_SH: Kellerman
+B_SF: Crouch; White
+P_BB: Mullens #1; Chelette #4
+P_SO: Mullens #8; Chelette #8
+P_H: Mullens #9
+P_IP: Mullens #7; Frantz #1
+P_HP: Chelette #2
+F_DP: Storch, Ens
+F_PB: Toland
+T: 2:00
+U: Hayes; Aiken 
+
+P_GS: ~Mullens
+P_GF: ~Frantz
+P_L: ~Mullens
+P_R: ~Mullens #4
+
+---
+
+date: 1915-04-09
+number: 0
+league: Texas
+away: Fort Worth
+home: Waco
+source: Dallas Morning News, April 10, 1915
+
+Fort Worth:	ab r h po a e
+Harper @ cf:	2 0 0 2 0 0  
+Atz @ 2b:	3 0 1 0 4 0
+McIver @ rf:	4 0 1 2 0 0
+Hunter @ 1b:	3 0 0 11 0 0
+McChesney @ lf:	4 0 1 2 0 0
+Stow @ ss:	2 1 0 1 4 0
+McMurray @ c:	4 0 0 4 2 1
+Kneaves @ 3b:	3 0 1 2 3 0
+Speer @ p:	3 0 0 0 3 0
+TOTALS:		28 1 4 24 16 1
+
+Waco:	ab r h po a e
+Hickey @ lf:	3 1 0 0 0 0
+Malmquist @ 2b:	3 1 2 1 1 0
+Tanner @ ss:	4 1 2 4 4 1
+James @ rf:	3 2 1 1 0 1  
+Crichlow @ cf:	4 0 2 2 0 0	
+Wohlleben @ 1b:	3 0 0 11 1 0
+Grubb @ 3b:	3 0 0 1 0 0 
+Walters @ c:	3 0 0 8 3 0 
+Markle @ p:	3 0 0 1 6 0
+TOTALS:		29 5 7 27 15 2
+
+line: Fort Worth: 0 0 0 0 1 0 0 0 0 - 1
+line: Waco:       1 0 0 0 0 2 0 2 x - 5
+
+B_LOB: Fort Worth #6; Waco #3
+B_ROE: Fort Worth #1
+B_2B: Tanner; James; Crichlow
+B_3B: James
+B_HR: Malmquist
+B_SB: Stow
+P_BB: Markle #5; Speer #3
+P_SO: Markle #6; Speer #1
+P_HP: Markle
+F_DP: Walters, Tanner; Malmquist, Tanner, Wohlleben
+T: 1:46
+U: Wright
+
+---
+
+date: 1915-04-09
+number: 0
+league: Texas
+away: Galveston
+home: San Antonio
+source: Dallas Morning News, April 10, 1915
+
+Galveston:	ab r h po a e
+Madden @ rf:	3 0 0 3 0 0 
+Smith @ 3b:	3 0 1 1 3 0
+Tarleton @ 1b:	5 0 1 12 2 0
+Watson @ 2b:	5 1 1 3 2 0
+Johnson @ cf:	4 1 0 3 0 0
+Breaux @ lf:	3 1 0 2 0 0
+Stuart @ ss:	2 2 1 1 2 1
+Dilger @ c:	3 2 1 2 0 0
+Harbin @ p:	4 0 3 1 6 0
+TOTALS:		32 7 8 27 15 1
+
+San Antonio:	ab r h po a e
+Baggan @ rf:	5 1 2 5 0 0
+Balenti @ ss:	5 0 0 3 4 1
+Knaupp @ 2b:	5 1 2 0 3 0
+Snedecor @ 1b:	5 0 1 9 0 0  
+Barr @ cf:	3 1 0 2 0 0	
+Odell @ 3b:	3 2 2 1 3 0
+(~7.1)McGill @ lf:	1 0 0 2 0 0 
+Burch @ c:	4 0 1 5 2 1
+(~9.1)Crabble @ p:	1 0 1 0 1 0	
+(~9.2)Crum @ p:	2 0 0 0 0 0
+(~7.2)Allen @ lf:	1 0 1 0 0 0	
+(~9.3)*Love @ ph:	0 0 0 0 0 0
+(~9.4)Davenport @ p:	0 0 0 0 0 0
+TOTALS:		35 5 10 27 13 2
+
+*: batted for Crum in 8th
+
+line: Galveston:   0 3 0 2 2 0 0 0 0 - 7
+line: San Antonio: 3 0 0 0 0 1 0 1 0 - 5
+
+B_LOB: Galveston #6; San Antonio #8
+B_2B: Odell; Harbin
+B_3B: Baggan; Knaupp
+B_HR: Dilger
+B_SB: Barr; Johnson; Dilger; Burch 
+B_SH: Smith; McGill
+B_SF: Love
+B_HP: Crabble; Crum; Harbin
+P_BB: Harbin #2; Crabble #4; Crum #2
+P_SO: Harbin #2; Crum #3
+P_H: Crabble #5; Crum #2; Davenport #1
+P_IP: Crabble #3.1; Crum #4.2; Davenport #1
+F_DP: Smith, Watson, Tarleton; Odell, Balenti, Snedecor
+F_PB: Burch
+T: 2:10
+U: Miller
+
+P_GS: ~Crabble
+P_GF: ~Davenport
+P_L: ~Crabble
+P_R: ~Crabble #4; ~Crum #3
+
+---
+
+date: 1915-04-09
+number: 0
+league: Texas
+away: Houston
+home: Beaumont
+source: Dallas Morning News, April 10, 1915
+
+Houston:	ab r h po a e
+Mowry @ lf:	4 0 1 0 0 0 
+Seitz @ 2b:	5 0 0 1 2 0
+Davis @ rf:	4 0 0 1 1 0
+Hille @ ss:	2 0 2 0 3 0
+Howard @ cf:	3 0 1 1 0 1
+McDonald @ 3b:	4 0 0 0 1 0
+Newnam @ 1b:	4 1 2 9 2 0
+Allen @ c:	4 0 0 10 1 1
+Criss @ p:	3 0 1 2 3 0
+TOTALS:		33 1 7 24 13 2
+
+Beaumont:	ab r h po a e
+Bobo @ ss:	5 1 3 3 5 0
+Clark @ lf:	3 1 1 2 0 0
+Robinson @ rf:	4 0 2 1 0 0
+Dodd @ 2b:	4 1 1 0 0 0
+McMahon @ 3b:	4 1 2 0 1 0	
+Cooke @ 1b:	4 0 0 0 0 0
+Nixon @ cf:	4 1 1 3 0 0
+Carson @ c:	3 2 1 9 0 0
+Brant @ p:	2 0 0 0 2 0
+TOTALS:		33 7 11 27 8 0
+
+line: Houston:  0 0 0 0 0 0 1 0 0 - 1
+line: Beaumont: 0 0 0 0 1 0 0 6 x - 7
+
+B_LOB: Houston #10; Beaumont #9
+B_ROE: Beaumont #1
+B_2B: Newnam #2; Nixon; Robinson
+B_3B: Bobo
+B_SB: Clark #2; Bobo
+B_SH: Howard; Brant
+P_BB: Criss #3; Brant #4
+P_SO: Criss #9; Brant #6
+P_WP: Brant
+T: 2:10
+U: Arnold
