@@ -1,45 +1,45 @@
 league.year,league.name,league.phase,person.ref,person.name.last,person.name.given,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G
-1915,Dallas Bankers' League,regular,P6239365,Adams,,City Nationals,1915-04-10,1915-04-10,1,0,0,0,0,0,1,0,1,0,0,0
-1915,Dallas Bankers' League,regular,P0598324,Alexander,,American Exchange,1915-04-10,1915-04-10,1,1,0,0,0,0,1,0,1,0,0,1
-1915,Dallas Bankers' League,regular,P7651730,Allison,,American Exchange,1915-04-10,1915-04-10,1,0,1,0,0,0,0,0,0,0,0,0
-1915,Dallas Bankers' League,regular,P6445721,Anderson,,City Nationals,1915-04-10,1915-04-10,1,0,0,0,0,0,1,1,0,0,0,0
-1915,Dallas Bankers' League,regular,P7843269,Barnett,,Security,1915-04-10,1915-04-10,1,0,0,0,0,1,0,0,0,0,0,0
-1915,Dallas Bankers' League,regular,P9080214,Bedford,,American Exchange,1915-04-10,1915-04-10,1,0,0,0,0,0,1,1,0,0,0,0
-1915,Dallas Bankers' League,regular,P3956495,Belew,,American Exchange,1915-04-10,1915-04-10,1,0,0,0,0,0,0,0,0,0,1,0
-1915,Dallas Bankers' League,regular,P3683862,Bender,,First State,1915-04-10,1915-04-10,1,0,0,0,0,1,0,0,0,0,0,0
-1915,Dallas Bankers' League,regular,P8483317,Broyles,,Security,1915-04-10,1915-04-10,1,0,0,0,0,0,1,1,0,0,0,0
-1915,Dallas Bankers' League,regular,P4978160,Burlew,,City Nationals,1915-04-10,1915-04-10,1,0,0,0,0,0,0,0,0,0,1,0
-1915,Dallas Bankers' League,regular,P2603201,Bussye,,First State,1915-04-10,1915-04-10,1,0,1,0,0,0,0,0,0,0,0,0
-1915,Dallas Bankers' League,regular,P6408373,Carlisle,,First State,1915-04-10,1915-04-10,1,0,0,0,1,0,0,0,0,0,0,0
-1915,Dallas Bankers' League,regular,P1518746,Conner,,Security,1915-04-10,1915-04-10,1,0,0,0,0,0,1,0,0,1,0,0
-1915,Dallas Bankers' League,regular,P1016830,Dailey,,First State,1915-04-10,1915-04-10,1,0,0,1,0,0,0,0,0,0,0,0
-1915,Dallas Bankers' League,regular,P9035560,Ferguson,,City Nationals,1915-04-10,1915-04-10,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Dallas Bankers' League,regular,P4156029,Graves,,Security,1915-04-10,1915-04-10,1,0,0,0,1,0,0,0,0,0,0,0
-1915,Dallas Bankers' League,regular,P2627220,Hight,,American Exchange,1915-04-10,1915-04-10,1,0,0,0,0,0,1,0,0,1,0,0
-1915,Dallas Bankers' League,regular,P7186656,Ikard,,Security,1915-04-10,1915-04-10,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Dallas Bankers' League,regular,P0061304,Jack,,City Nationals,1915-04-10,1915-04-10,1,0,0,1,0,0,0,0,0,0,0,0
-1915,Dallas Bankers' League,regular,P6244041,Kettle,,American Exchange,1915-04-10,1915-04-10,1,0,0,0,0,0,1,0,1,0,0,0
-1915,Dallas Bankers' League,regular,P5720975,Kettle,,First State,1915-04-10,1915-04-10,1,0,0,0,0,0,1,1,0,0,0,0
-1915,Dallas Bankers' League,regular,P7073997,Lambert,,First State,1915-04-10,1915-04-10,1,0,0,0,0,0,0,0,0,0,1,0
-1915,Dallas Bankers' League,regular,P6731779,Lewis,,City Nationals,1915-04-10,1915-04-10,1,0,0,0,0,0,1,0,0,1,0,0
-1915,Dallas Bankers' League,regular,P7747962,McConnell,,City Nationals,1915-04-10,1915-04-10,1,0,0,0,0,0,1,0,0,1,0,0
-1915,Dallas Bankers' League,regular,P8528277,O'Con'll,,American Exchange,1915-04-10,1915-04-10,1,0,0,0,1,0,0,0,0,0,0,0
-1915,Dallas Bankers' League,regular,P3429684,Oldham,,City Nationals,1915-04-10,1915-04-10,1,0,0,0,0,1,0,0,0,0,0,0
-1915,Dallas Bankers' League,regular,P5383348,Parr,,City Nationals,1915-04-10,1915-04-10,1,0,0,1,0,0,0,0,0,0,0,0
-1915,Dallas Bankers' League,regular,P0025244,Payne,,City Nationals,1915-04-10,1915-04-10,1,0,0,0,1,0,0,0,0,0,0,0
-1915,Dallas Bankers' League,regular,P7631412,Pollard,,First State,1915-04-10,1915-04-10,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Dallas Bankers' League,regular,P0032032,Roberts,,City Nationals,1915-04-10,1915-04-10,1,0,0,0,0,0,1,1,0,0,0,0
-1915,Dallas Bankers' League,regular,P6993031,Rogers,,Security,1915-04-10,1915-04-10,1,0,0,0,0,0,1,0,1,0,0,0
-1915,Dallas Bankers' League,regular,P3211134,Rugel,,City Nationals,1915-04-10,1915-04-10,1,0,1,0,0,0,0,0,0,0,0,0
-1915,Dallas Bankers' League,regular,P7489833,Simms,,American Exchange,1915-04-10,1915-04-10,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Dallas Bankers' League,regular,P7980812,Thomas,,American Exchange,1915-04-10,1915-04-10,1,0,0,0,0,1,0,0,0,0,0,0
-1915,Dallas Bankers' League,regular,P3420662,Thompson [AE],,American Exchange,1915-04-10,1915-04-10,1,0,0,1,0,0,0,0,0,0,0,0
-1915,Dallas Bankers' League,regular,P5046080,Thompson [SEC],,Security,1915-04-10,1915-04-10,1,0,0,0,0,0,0,0,0,0,1,0
-1915,Dallas Bankers' League,regular,P9925866,Vanwinker,,Security,1915-04-10,1915-04-10,1,0,1,0,0,0,0,0,0,0,0,0
-1915,Dallas Bankers' League,regular,P1478496,Waggoner,,First State,1915-04-10,1915-04-10,1,0,0,0,0,0,1,0,0,1,0,0
-1915,Dallas Bankers' League,regular,P2434595,Ward,,Security,1915-04-10,1915-04-10,1,0,0,1,0,0,0,0,0,0,0,0
-1915,Dallas Bankers' League,regular,P2267592,Wisdom,,Security,1915-04-10,1915-04-10,1,0,0,0,0,0,1,0,0,1,0,0
-1915,Dallas Bankers' League,regular,P2737979,Wright,,First State,1915-04-10,1915-04-10,1,0,0,0,0,0,1,0,1,0,0,0
+1915,Dallas Bankers League,regular,P4402718,Adams,,City Nationals,1915-04-10,1915-04-10,1,0,0,0,0,0,1,0,1,0,0,0
+1915,Dallas Bankers League,regular,P2220205,Alexander,,American Exchange,1915-04-10,1915-04-10,1,1,0,0,0,0,1,0,1,0,0,1
+1915,Dallas Bankers League,regular,P5504459,Allison,,American Exchange,1915-04-10,1915-04-10,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Dallas Bankers League,regular,P2862482,Anderson,,City Nationals,1915-04-10,1915-04-10,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Dallas Bankers League,regular,P1012062,Barnett,,Security,1915-04-10,1915-04-10,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Dallas Bankers League,regular,P6932943,Bedford,,American Exchange,1915-04-10,1915-04-10,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Dallas Bankers League,regular,P0373256,Belew,,American Exchange,1915-04-10,1915-04-10,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Dallas Bankers League,regular,P4499439,Bender,,First State,1915-04-10,1915-04-10,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Dallas Bankers League,regular,P1652110,Broyles,,Security,1915-04-10,1915-04-10,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Dallas Bankers League,regular,P4368809,Burlew,,City Nationals,1915-04-10,1915-04-10,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Dallas Bankers League,regular,P3418778,Bussye,,First State,1915-04-10,1915-04-10,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Dallas Bankers League,regular,P4571726,Carlisle,,First State,1915-04-10,1915-04-10,1,0,0,0,1,0,0,0,0,0,0,0
+1915,Dallas Bankers League,regular,P8584467,Conner,,Security,1915-04-10,1915-04-10,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Dallas Bankers League,regular,P1832407,Dailey,,First State,1915-04-10,1915-04-10,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Dallas Bankers League,regular,P5452321,Ferguson,,City Nationals,1915-04-10,1915-04-10,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Dallas Bankers League,regular,P1221750,Graves,,Security,1915-04-10,1915-04-10,1,0,0,0,1,0,0,0,0,0,0,0
+1915,Dallas Bankers League,regular,P9043981,Hight,,American Exchange,1915-04-10,1915-04-10,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Dallas Bankers League,regular,P1643193,Ikard,,Security,1915-04-10,1915-04-10,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Dallas Bankers League,regular,P6975345,Jack,,City Nationals,1915-04-10,1915-04-10,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Dallas Bankers League,regular,P7997154,Kettle,,American Exchange,1915-04-10,1915-04-10,1,0,0,0,0,0,1,0,1,0,0,0
+1915,Dallas Bankers League,regular,P6536552,Kettle,,First State,1915-04-10,1915-04-10,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Dallas Bankers League,regular,P3988038,Lambert,,First State,1915-04-10,1915-04-10,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Dallas Bankers League,regular,P4895132,Lewis,,City Nationals,1915-04-10,1915-04-10,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Dallas Bankers League,regular,P9501075,McConnell,,City Nationals,1915-04-10,1915-04-10,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Dallas Bankers League,regular,P7668334,O'Con'll,,American Exchange,1915-04-10,1915-04-10,1,0,0,0,1,0,0,0,0,0,0,0
+1915,Dallas Bankers League,regular,P2820333,Oldham,,City Nationals,1915-04-10,1915-04-10,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Dallas Bankers League,regular,P2297389,Parr,,City Nationals,1915-04-10,1915-04-10,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Dallas Bankers League,regular,P8188597,Payne,,City Nationals,1915-04-10,1915-04-10,1,0,0,0,1,0,0,0,0,0,0,0
+1915,Dallas Bankers League,regular,P4545453,Pollard,,First State,1915-04-10,1915-04-10,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Dallas Bankers League,regular,P9923449,Roberts,,City Nationals,1915-04-10,1915-04-10,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Dallas Bankers League,regular,P4058752,Rogers,,Security,1915-04-10,1915-04-10,1,0,0,0,0,0,1,0,1,0,0,0
+1915,Dallas Bankers League,regular,P1374487,Rugel,,City Nationals,1915-04-10,1915-04-10,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Dallas Bankers League,regular,P3906594,Simms,,American Exchange,1915-04-10,1915-04-10,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Dallas Bankers League,regular,P9733925,Thomas,,American Exchange,1915-04-10,1915-04-10,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Dallas Bankers League,regular,P6158063,Thompson [AE],,American Exchange,1915-04-10,1915-04-10,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Dallas Bankers League,regular,P1462841,Thompson [SEC],,Security,1915-04-10,1915-04-10,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Dallas Bankers League,regular,P0741443,Vanwinker,,Security,1915-04-10,1915-04-10,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Dallas Bankers League,regular,P9641849,Waggoner,,First State,1915-04-10,1915-04-10,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Dallas Bankers League,regular,P4993884,Ward,,Security,1915-04-10,1915-04-10,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Dallas Bankers League,regular,P9333313,Wisdom,,Security,1915-04-10,1915-04-10,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Dallas Bankers League,regular,P3553556,Wright,,First State,1915-04-10,1915-04-10,1,0,0,0,0,0,1,0,1,0,0,0
 1915,Dallas Commercial League,regular,P3549888,Anderson,,Texas & Pacific,1915-04-10,1915-04-10,1,0,0,1,0,0,0,0,0,0,0,0
 1915,Dallas Commercial League,regular,P1228083,Appleby,,Texas & Pacific,1915-04-10,1915-04-10,1,0,0,0,0,0,1,0,0,1,0,0
 1915,Dallas Commercial League,regular,P5874466,Battle,,Texas & Pacific,1915-04-10,1915-04-10,1,0,1,0,0,0,0,0,0,0,0,0
