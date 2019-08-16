@@ -1,8 +1,8 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 
-setup(name='boxscore',
+setup(name='hgame-boxscore',
       version='0.1',
-      packages=find_packages(),
+      packages=['hgame.boxscore'],
       install_package_data=True,
       python_requires=">=3.7",
       install_requires=[
@@ -10,6 +10,6 @@ setup(name='boxscore',
       ],
       entry_points="""
          [console_scripts]
-         boxscore=boxscore.main:cli
+         hgame-boxscore=hgame.boxscore.main:cli
       """
       )
