@@ -62,8 +62,8 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,Middle Texas League,regular,P0997523,Albers,,Temple,1915-04-15,1915-04-15,1,0,0,0,1,0,0,0,0,0,0,0
 1915,Middle Texas League,regular,P2209281,Allen,,Schulenburg,1915-04-15,1915-04-15,1,0,0,0,0,0,1,0,1,0,0,0
 1915,Middle Texas League,regular,P0524748,Allison,,Temple,1915-04-15,1915-04-15,1,0,0,0,0,1,0,0,0,0,0,0
-1915,Middle Texas League,regular,P7110617,B'stwood,,Brenham,1915-04-15,1915-04-15,1,0,0,0,0,0,1,0,1,0,0,0
-1915,Middle Texas League,regular,P2230820,Barrett,,Brenham,1915-04-15,1915-04-15,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Middle Texas League,regular,P1274842,B'stwood,,Brenham [I],1915-04-15,1915-04-15,1,0,0,0,0,0,1,0,1,0,0,0
+1915,Middle Texas League,regular,P7536805,Barrett,,Brenham [I],1915-04-15,1915-04-15,1,0,0,0,0,1,0,0,0,0,0,0
 1915,Middle Texas League,regular,P5649014,Battle,,Temple,1915-04-15,1915-04-15,1,0,0,0,0,0,1,1,0,0,0,0
 1915,Middle Texas League,regular,P3814224,Bowen,,Schulenburg,1915-04-15,1915-04-15,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Middle Texas League,regular,P7102785,Boykin,,Schulenburg,1915-04-15,1915-04-15,1,0,0,0,0,0,1,0,0,1,0,0
@@ -80,7 +80,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,Middle Texas League,regular,P3409176,Deats,,Austin,1915-04-15,1915-04-15,1,0,0,0,0,0,1,1,0,0,0,0
 1915,Middle Texas League,regular,P3629656,Dennis,,Belton,1915-04-15,1915-04-15,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Middle Texas League,regular,P8946258,Durr,,Schulenburg,1915-04-15,1915-04-15,1,0,0,0,0,0,0,0,0,0,1,0
-1915,Middle Texas League,regular,P9124149,Erwin,,Brenham,1915-04-15,1915-04-15,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Middle Texas League,regular,P1157814,Erwin,,Brenham [I],1915-04-15,1915-04-15,1,0,0,0,0,0,1,0,0,1,0,0
 1915,Middle Texas League,regular,P9330212,Fagan,,Austin,1915-04-15,1915-04-15,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Middle Texas League,regular,P7723526,Fenner,C.,Belton,1915-04-15,1915-04-15,1,0,0,0,0,0,1,1,0,0,0,0
 1915,Middle Texas League,regular,P8051213,Fenner,J.,Belton,1915-04-15,1915-04-15,1,0,0,0,0,0,1,0,1,0,0,0
@@ -88,7 +88,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,Middle Texas League,regular,P9957561,Fucich,,Austin,1915-04-15,1915-04-15,1,0,0,0,0,0,0,0,0,0,0,0
 1915,Middle Texas League,regular,P1365796,Gober,,Bartlett,1915-04-15,1915-04-15,1,0,0,0,1,0,0,0,0,0,0,0
 1915,Middle Texas League,regular,P2659272,Green,,Belton,1915-04-15,1915-04-15,1,0,0,0,1,0,0,0,0,0,0,0
-1915,Middle Texas League,regular,P2514074,Haislip,,Brenham,1915-04-15,1915-04-15,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Middle Texas League,regular,P4403739,Haislip,,Brenham [I],1915-04-15,1915-04-15,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Middle Texas League,regular,P1546071,Harper,,Schulenburg,1915-04-15,1915-04-15,1,0,0,0,1,0,0,0,0,0,0,0
 1915,Middle Texas League,regular,P6722933,Hovel,,Belton,1915-04-15,1915-04-15,1,0,0,0,0,1,0,0,0,0,0,0
 1915,Middle Texas League,regular,P4969003,Huber,,Schulenburg,1915-04-15,1915-04-15,1,1,0,0,0,0,0,0,0,0,0,1
@@ -103,19 +103,19 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,Middle Texas League,regular,P3140414,Pendleton,,Bartlett,1915-04-15,1915-04-15,1,0,0,0,0,0,1,0,0,1,0,0
 1915,Middle Texas League,regular,P0720509,Rainey,,Schulenburg,1915-04-15,1915-04-15,1,0,0,0,0,1,0,0,0,0,0,0
 1915,Middle Texas League,regular,P6307693,Reinecke,,Austin,1915-04-15,1915-04-15,1,0,0,0,0,1,0,0,0,0,0,0
-1915,Middle Texas League,regular,P0729149,Roach,,Brenham,1915-04-15,1915-04-15,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Middle Texas League,regular,P4362814,Roach,,Brenham [I],1915-04-15,1915-04-15,1,0,0,0,0,0,1,1,0,0,0,0
 1915,Middle Texas League,regular,P0932849,Robison,,Schulenburg,1915-04-15,1915-04-15,1,0,0,0,0,0,1,1,0,0,0,0
 1915,Middle Texas League,regular,P3013047,Scoggins,,Temple,1915-04-15,1915-04-15,1,0,0,0,0,0,1,0,0,1,0,0
-1915,Middle Texas League,regular,P7907837,Scott,,Brenham,1915-04-15,1915-04-15,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Middle Texas League,regular,P1214462,Scott,,Brenham [I],1915-04-15,1915-04-15,1,0,0,0,0,0,0,0,0,0,1,0
 1915,Middle Texas League,regular,P5715993,Shaffer,,Temple,1915-04-15,1915-04-15,1,0,0,0,0,0,0,0,0,0,1,0
 1915,Middle Texas League,regular,P8839588,Slaughter,,Bartlett,1915-04-15,1915-04-15,1,0,0,0,0,0,0,0,0,0,1,0
 1915,Middle Texas League,regular,P9672762,Smith,,Schulenburg,1915-04-15,1915-04-15,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Middle Texas League,regular,P2110382,Wacey,,Bartlett,1915-04-15,1915-04-15,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Middle Texas League,regular,P7474650,Wende,,Austin,1915-04-15,1915-04-15,1,0,0,0,0,0,0,0,0,0,1,0
-1915,Middle Texas League,regular,P8457297,White,,Brenham,1915-04-15,1915-04-15,1,0,0,1,0,0,0,0,0,0,0,0
-1915,Middle Texas League,regular,P3328657,Wicks,,Brenham,1915-04-15,1915-04-15,1,0,0,0,1,0,0,0,0,0,0,0
+1915,Middle Texas League,regular,P7367122,White,,Brenham [I],1915-04-15,1915-04-15,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Middle Texas League,regular,P5489682,Wicks,,Brenham [I],1915-04-15,1915-04-15,1,0,0,0,1,0,0,0,0,0,0,0
 1915,Middle Texas League,regular,P3489078,Williamson,,Belton,1915-04-15,1915-04-15,1,0,0,0,0,0,1,0,0,1,0,0
-1915,Middle Texas League,regular,P8952294,Woessner,,Brenham,1915-04-15,1915-04-15,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Middle Texas League,regular,P4704359,Woessner,,Brenham [I],1915-04-15,1915-04-15,1,0,1,0,0,0,0,0,0,0,0,0
 1915,Middle Texas League,regular,P4917991,Young,,Bartlett,1915-04-15,1915-04-15,1,0,0,1,0,0,0,0,0,0,0,0
 1915,Middle Texas League,regular,P0771559,Young,,Schulenburg,1915-04-15,1915-04-15,1,0,1,0,0,0,0,0,0,0,0,0
 1915,Texas League,regular,P5381769,Akers,,Fort Worth,1915-04-10,1915-04-10,1,1,0,0,0,0,0,0,0,0,0,1
