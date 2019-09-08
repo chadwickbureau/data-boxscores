@@ -7,6 +7,7 @@ import click
 
 from . import config
 
+
 def do_store(source, filenames, overwrite):
     try:
         year, paper = source.split("-")
@@ -23,7 +24,8 @@ def do_store(source, filenames, overwrite):
             click.secho("Target file %s already exists" % target, fg='red')
             sys.exit(1)
         shutil.copy(fn, str(path))
-    
+
+
 def do_edit(source):
     try:
         year, paper = source.split("-")
@@ -32,8 +34,10 @@ def do_edit(source):
         sys.exit(1)
 
     path = config.data_path/"transcript"/year/source
-    subprocess.call(config.edit_command + " " + str(path) + "/*.txt", shell=True)
-    
+    subprocess.call(config.edit_command + " " + str(path) + "/*.txt",
+                    shell=True)
+
+
 def do_add(source):
     try:
         year, paper = source.split("-")
@@ -48,5 +52,3 @@ def do_add(source):
                     (config.data_path, year, source),
                     shell=True)
     subprocess.call("cd %s && git status" % config.data_path, shell=True)
-
-    

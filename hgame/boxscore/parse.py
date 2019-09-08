@@ -1,14 +1,12 @@
 import sys
-import os
-import glob
 import hashlib
 import warnings
-import pathlib
-    
+
 import colorama as clr
 import pandas as pd
 
 from . import config
+
 
 def person_hash(source, row):
     """Generate hash-based identifier for a person based on the source
@@ -22,8 +20,10 @@ def person_hash(source, row):
     return hash_djb2(",".join([source,
                                row['league.year'], row['league.name'],
                                row['name.last'],
-                               row['name.first'] if not pd.isnull(row['name.first']) else "",
+                               row['name.first']
+                               if not pd.isnull(row['name.first']) else "",
                                row['club.name']]))
+
 
 def game_hash(s):
     """Generate hash-based identifier for a game account based on the
@@ -35,11 +35,14 @@ def game_hash(s):
         if n < base:
             return alphabet[n]
         return int_to_base(n // base) + alphabet[n % base]
-    return int_to_base(int(hashlib.sha1(s.encode('utf-8')).hexdigest(), 16))[-7:]
+    return int_to_base(
+        int(hashlib.sha1(s.encode('utf-8')).hexdigest(), 16)
+        )[-7:]
 
 
 class BoxscoreParserWarning(UserWarning):
     pass
+
 
 class IdentificationWarning(BoxscoreParserWarning):
     """A warning class on unidentified name.
@@ -67,6 +70,7 @@ class DuplicatedNameWarning(BoxscoreParserWarning):
                              "In file %s,\n   game %s\n  %s" %
                              (fn, game, message))
 
+
 class DetailParseWarning(BoxscoreParserWarning):
     """A warning class for parse errors in detail strings.
     """
@@ -74,14 +78,13 @@ class DetailParseWarning(BoxscoreParserWarning):
         super(DetailParseWarning, self).__init__(
                              "In file %s,\n   game %s\n  %s" %
                              (fn, game, message))
-    
 
-        
+
 def _formatwarning(msg, category, *args, **kwargs):
     return str(msg) + '\n'
+
+
 warnings.formatwarning = _formatwarning
-
-
 
 
 class Game(object):
@@ -103,7 +106,8 @@ class Game(object):
                                      self.away, self.home)
 
     def _parse_details(self, key, value):
-        if value == "": return
+        if value == "":
+            return
         for entry in [x.strip() for x in value.split(";")]:
             if entry[:1] == '~':
                 entry = entry[1:]
@@ -113,7 +117,8 @@ class Game(object):
                     # This will also trigger a value error if count not number
                     float(count)
                 except ValueError:
-                    print("In file %s,\n   game %s" % (self.metadata['filename'], self))
+                    print("In file %s,\n   game %s" %
+                          (self.metadata['filename'], self))
                     print("  Ill-formed details string '%s'" % entry)
                     return
             else:
@@ -127,17 +132,24 @@ class Game(object):
                 if is_marked:
                     warnings.warn(
                         MarkedIdentificationWarning(
-                                    self.metadata['filename'],
-                                    self,
-                                    "No match on name '??%s' in '%s'" %
-                                         (name, key)))
+                            self.metadata['filename'],
+                            self,
+                            "No match on name '??%s' in '%s'" %
+                            (name, key)
+                        )
+                    )
                 else:
-                    warnings.warn(IdentificationWarning(self.metadata['filename'],
-                                                        self,
-                                                        "No match on name '%s' in '%s'" % (name, key)))
+                    warnings.warn(
+                        IdentificationWarning(
+                            self.metadata['filename'],
+                            self,
+                            "No match on name '%s' in '%s'" % (name, key)
+                        )
+                    )
 
     def _parse_details_XO(self, key, value):
-        if value == "": return
+        if value == "":
+            return
         for entry in [x.strip() for x in value.split(";")]:
             try:
                 name, reason = [x.strip() for x in entry.split(",")]
@@ -148,14 +160,20 @@ class Game(object):
                                   "Ill-formed details string '%s'" % entry))
                 continue
             try:
-                self.playing[name]['B_XO'] = self.playing[name].get('B_XO', 0)+1
+                self.playing[name]['B_XO'] = (
+                    self.playing[name].get('B_XO', 0) + 1
+                )
             except KeyError:
-                warnings.warn(IdentificationWarning(self.metadata['filename'],
-                                                    self,
-                                                    "No match on name '%s' in '%s'" % (name, key)))
+                warnings.warn(IdentificationWarning(
+                    self.metadata['filename'],
+                    self,
+                    "No match on name '%s' in '%s'" % (name, key)
+                    )
+                )
 
     def _parse_dptp(self, key, value):
-        if value == "":  return
+        if value == "":
+            return
         for entry in map(lambda x: x.strip(), value.split(";")):
             if "#" in entry:
                 names, count = map(lambda x: x.strip(), entry.split("#"))
@@ -172,13 +190,22 @@ class Game(object):
                     playing = self.playing[name]
                 except KeyError:
                     if is_marked:
-                        warnings.warn(MarkedIdentificationWarning(self.metadata['filename'],
-                                                            self,
-                                                            "No match on name '??%s' in '%s'" % (name, key)))
+                        warnings.warn(
+                            MarkedIdentificationWarning(
+                                self.metadata['filename'],
+                                self,
+                                "No match on name '??%s' in '%s'" %
+                                (name, key)
+                                )
+                            )
                     else:
-                        warnings.warn(IdentificationWarning(self.metadata['filename'],
-                                                            self,
-                                                            "No match on name '%s' in '%s'" % (name, key)))
+                        warnings.warn(
+                            IdentificationWarning(
+                                self.metadata['filename'],
+                                self,
+                                "No match on name '%s' in '%s'" % (name, key)
+                                )
+                            )
                     continue
                 playing[key] = str(int(playing.get(key, 0)) + int(count))
 
@@ -204,7 +231,8 @@ class Game(object):
         try:
             club, score = map(lambda x: x.strip(), value.split(":"))
         except ValueError:
-            print("In file %s,\n   game %s" % (self.metadata['filename'], self))
+            print("In file %s,\n   game %s" % (self.metadata['filename'],
+                                               self))
             print("  Ill-formed linescore string '%s'" % value)
             return
 
@@ -213,7 +241,8 @@ class Game(object):
         elif club == self.home:
             prefix = "home.score"
         else:
-            print("In file %s,\n   game %s" % (self.metadata['filename'], self))
+            print("In file %s,\n   game %s" % (self.metadata['filename'],
+                                               self))
             print("  No match on club name '%s'" % (club))
             return
 
@@ -221,16 +250,21 @@ class Game(object):
         try:
             int(total)
         except ValueError:
-            print("In file %s,\n   game %s" % (self.metadata['filename'], self))
-            print(f"  Invalid linescore total runs '{total}'")
+            print("\n".join([
+                f"In file {self.metadata['filename']},",
+                f"   game {self}",
+                f"  Invalid linescore total runs '{total}'"]
+                )
+            )
             total = ""
-            
+
         self.metadata[prefix] = total
         for (inning, s) in enumerate(byinning.split()):
             self.metadata['%s.%d' % (prefix, inning+1)] = s
-  
 
-    def update_metadata(self, key, value):  return self.metadata.update({key: value})
+    def update_metadata(self, key, value):
+        return self.metadata.update({key: value})
+
     do_date = update_metadata
     do_number = update_metadata
     do_league = update_metadata
@@ -246,7 +280,9 @@ class Game(object):
     do_forfeit_to = update_metadata
     do_outsatend = update_metadata
     do_U = _parse_umpires
-    def do_home_batted(self, key, value):  return True
+
+    def do_home_batted(self, key, value):
+        return True
 
     def do_status(self, key, value):
         if "," in value:
@@ -264,8 +300,9 @@ class Game(object):
 
     def do_status_reason(self, key, value):
         self.metadata['status-reason'] = value
-        
-    def do_line(self, key, value):   return self._process_linescore(value)
+
+    def do_line(self, key, value):
+        return self._process_linescore(value)
 
     def do_ejection(self, key, value):
         # TODO: Process ejection records
@@ -274,7 +311,7 @@ class Game(object):
     def do_protest(self, key, value):
         # TODO: Process protest records
         pass
-        
+
     do_B_ER = _parse_details
     do_B_R = _parse_details
     do_B_2B = _parse_details
@@ -312,7 +349,8 @@ class Game(object):
     do_F_DP = _parse_dptp
     do_F_TP = _parse_dptp
 
-    def do_note(self, key, value):   return True
+    def do_note(self, key, value):
+        return True
 
     def parse_playing_value(self, key, value, clubname, columns):
         if key == "TOTALS":
@@ -321,15 +359,19 @@ class Game(object):
             try:
                 name, pos = map(lambda x: x.strip(), key.split("@"))
                 for p in pos.split("-"):
-                    if p not in ["p", "c", "1b", "2b", "3b", "ss", "lf", "cf", "rf",
-                                "ph", "pr", "?"]:
-                        print(f"In file {self.metadata['filename']},\n   game {self}")
-                        print(f"  Unknown position in '{key}'")
+                    if p not in ["p", "c", "1b", "2b", "3b", "ss",
+                                 "lf", "cf", "rf", "ph", "pr", "?"]:
+                        print("\n".join([
+                            f"In file {self.metadata['filename']},",
+                            f"   game {self}",
+                            f"  Unknown position in '{key}'"]
+                            )
+                        )
             except ValueError:
                 print(f"In file {self.metadata['filename']},\n   game {self}")
                 print(f"  Missing name or position in '{key}'")
                 name, pos = key, None
-                
+
         if name[0] == '(':
             slot, name = [x.strip() for x in name[1:].split(")")]
             slot = slot.replace("~", "")
@@ -343,11 +385,16 @@ class Game(object):
             subskey = None
         if "," in name:
             try:
-                name_last, name_first = map(lambda x: x.strip(), name.split(","))
+                name_last, name_first = map(lambda x: x.strip(),
+                                            name.split(","))
                 name = name_first + " " + name_last
             except ValueError:
-                print("In file %s,\n   game %s" % (self.metadata['filename'], self))
-                print("  Wrong number of names in '%s'" % (name))
+                print("\n".join([
+                    f"In file {self.metadata['filename']},",
+                    f"   game {self}",
+                    f"  Wrong number of names in '{name}'"
+                    ])
+                )
                 name_last, name_first = name, None
         else:
             name_last, name_first = name, None
@@ -357,8 +404,12 @@ class Game(object):
                    "club.name": clubname, "substitute": subskey}
         stats = [x for x in value.split() if x.strip() != ""]
         if len(stats) != len(columns):
-            print("In file %s,\n   game %s" % (self.metadata['filename'], self))
-            print("  Incorrect number of categories in '%s: %s'" % (key, value))
+            print("\n".join([
+                f"In file {self.metadata['filename']},",
+                f"   game {self}",
+                f"  Incorrect number of categories in '{key}: {value}'"
+                ])
+            )
         else:
             for (s, c) in zip(stats, columns):
                 if s not in ["X", "x"]:
@@ -367,7 +418,8 @@ class Game(object):
 
     def process_player_list(self, clubname, header, lines):
         seq = 1
-        # "DI" is used sporadically in Winnipeg paper in 1915 - assuming it is RBI
+        # "DI" is used sporadically in Winnipeg paper in 1915;
+        # we assume it is RBI
         categorymap = {"ab": "B_AB", "r": "B_R", "h": "B_H",
                        "di": "B_RBI", "rbi": "B_RBI",
                        "sh": "B_SH", "sb": "B_SB",
@@ -376,16 +428,24 @@ class Game(object):
             columns = [categorymap[c]
                        for c in [x for x in header.split() if x.strip() != ""]]
         except KeyError:
-            print("In file %s,\n   game %s" % (self.metadata['filename'], self))
-            print("  Unrecognised category line '%s'" % (header))
+            print("\n".join([
+                f"In file {self.metadata['filename']},",
+                f"   game {self}",
+                f"  Unrecognised category line '{header}'"
+                ])
+            )
             columns = []
 
         while True:
             try:
                 key, value = next(lines)
             except StopIteration:
-                print("In file %s,\n   game %s" % (self.metadata['filename'], self))
-                print("  Unexpected end of game when parsing team '%s'" % clubname)
+                print("\n".join([
+                    f"In file {self.metadata['filename']},",
+                    f"   game {self}",
+                    f"  Unexpected end of game when parsing team '{clubname}'"
+                    ])
+                )
                 return
             playing = self.parse_playing_value(key, value, clubname, columns)
             playing.update({'game.key':    self.metadata['key'],
@@ -393,36 +453,45 @@ class Game(object):
                             'game.number': self.number,
                             'game.phase':  self.phase})
             if key != "TOTALS":
-               playing['seq'] = str(seq)
-               seq += 1
-               if playing['name.full'] in self.playing:
-                   warnings.warn(DuplicatedNameWarning(self.metadata['filename'],
-                                                       self,
-                                                       "Duplicated name '%s'" % key))
-               elif playing['name.full'] in [self.away, self.home]:
-                   warnings.warn(DuplicatedNameWarning(self.metadata['filename'],
-                                                       self,
-                                                       "Player name '%s' clashes with club name" % key))
-               else:
-                   self.playing[playing["name.full"]] = playing
+                playing['seq'] = str(seq)
+                seq += 1
+                if playing['name.full'] in self.playing:
+                    warnings.warn(
+                        DuplicatedNameWarning(
+                            self.metadata['filename'],
+                            self,
+                            f"Duplicated name '{key}'"
+                        )
+                    )
+                elif playing['name.full'] in [self.away, self.home]:
+                    warnings.warn(
+                        DuplicatedNameWarning(
+                            self.metadata['filename'],
+                            self,
+                            f"Player name '{key}' clashes with club name"
+                        )
+                    )
+                else:
+                    self.playing[playing["name.full"]] = playing
             else:
                 self.playing[clubname] = playing
                 return
-            
+
     def data_pairs(self, text):
         """The data file is essentially a sequence of (key, value) pairs.
         This implements a generator which extracts these.
         """
         for line in text.split("\n"):
             line = line.strip()
-            if line == "": continue
+            if line == "":
+                continue
             try:
                 key, value = [x.strip() for x in line.split(":", 1)]
                 yield (key, value)
             except ValueError:
-                print("In file %s,\n   game %s" % (self.metadata['filename'], self))
-                print("  Invalid key-value pair '%s'" % line)
-
+                print("\n".join([f"In file {self.metadata['file']},",
+                                 f"   game {self}",
+                                 f"  Invalid key-value pair '{line}'"]))
 
     @classmethod
     def fromtext(cls, gametext, fn):
@@ -435,7 +504,7 @@ class Game(object):
                          "status": "final"}
         self.playing = {}
         self.umpiring = []
-        
+
         lines = self.data_pairs(gametext)
         while True:
             try:
@@ -451,9 +520,9 @@ class Game(object):
                 try:
                     func = getattr(self, 'do_' + key.replace("-", "_"))
                 except AttributeError:
-                    print("In file %s,\n   game %s" % (self.metadata['filename'],
-                                                       self))
-                    print("  Unknown record key '%s'" % key)
+                    print("\n".join([f"In file {self.metadata['filename']},",
+                                     f"   game {self}"]))
+                    print(f"  Unknown record key '{key}'")
                     continue
                 func(key, value)
         return self
@@ -463,7 +532,8 @@ def to_csv(df, *args, **kwargs):
     """Pipe-able version of to_csv."""
     df.to_csv(*args, **kwargs)
     return df
-    
+
+
 def iterate_games(fn):
     """Return an iterator over the text of each individual game
     in file `fn'. All extra whitespace is removed within and at the end of
@@ -473,31 +543,49 @@ def iterate_games(fn):
     return iter(
         filter(
             lambda x: x.strip() != "",
-            ("\n".join(filter(lambda x: x != "",
-                                         [' '.join(x.strip().split()) for x in fn.open().readlines()]))).rstrip("-").split("---\n")
+            (
+                "\n".join(
+                    filter(
+                        lambda x: x != "",
+                        [' '.join(x.strip().split())
+                         for x in fn.open().readlines()]
+                        )
+                    )
+            ).rstrip("-").split("---\n")
             )
         )
+
 
 def compile_playing(source, games, gamelist, outpath):
     df = pd.concat([pd.DataFrame(list(g.playing.values())) for g in gamelist],
                    sort=False, ignore_index=True)
-    if len(df) == 0:
+    if df.empty:
         return pd.DataFrame(columns=['game.key'])
-    df = df.merge(games[['key', 'league']], left_on='game.key', right_on='key') \
+    df = df.merge(games[['key', 'league']],
+                  left_on='game.key', right_on='key') \
            .drop(columns=['name.full', 'substitute'])
-    df['league.name'] = df['league'].apply(lambda x: x + " League" if "League" not in x and "Association" not in x else x)
+    df['league.name'] = (
+        df['league'].apply(lambda x:
+                           x + " League"
+                           if "League" not in x and "Association" not in x
+                           else x)
+        )
     df = df.assign(**{'league.year': df['game.date'].str.split("-").str[0]}) \
-           .drop(columns=['key', 'league']) 
-    df['ref'] = df.loc[df['name.last'] != 'TOTALS'].apply(lambda x: person_hash(source, x), axis=1)
+           .drop(columns=['key', 'league'])
+    df['ref'] = (
+        df.loc[df['name.last'] != 'TOTALS']
+        .apply(lambda x: person_hash(source, x), axis=1)
+        )
     columns = pd.Index(['game.key', 'league.year', 'league.name',
                         'game.date', 'game.number', 'game.phase',
                         'ref', 'name.last', 'name.first', 'club.name',
                         'pos', 'seq',
-                        'B_AB', 'B_R', 'B_ER', 'B_H', 'B_2B', 'B_3B', 'B_HR', 'B_RBI',
-                        'B_BB', 'B_SO',
-                        'B_HP', 'B_SH', 'B_SF', 'B_SB', 'B_XO', 'B_LOB', 'B_ROE',
+                        'B_AB', 'B_R', 'B_ER', 'B_H',
+                        'B_2B', 'B_3B', 'B_HR', 'B_RBI',
+                        'B_BB', 'B_SO', 'B_HP', 'B_SH', 'B_SF',
+                        'B_SB', 'B_XO', 'B_LOB', 'B_ROE',
                         'P_GS', 'P_GF', 'P_W', 'P_L', 'P_SV',
-                        'P_IP', 'P_TBF', 'P_AB', 'P_R', 'P_ER', 'P_H', 
+                        'P_IP', 'P_TBF', 'P_AB', 'P_R', 'P_ER', 'P_H',
                         'P_BB', 'P_SO', 'P_HP', 'P_WP', 'P_BK',
                         'F_PO', 'F_A', 'F_E', 'F_DP', 'F_TP', 'F_PB', 'F_SB'])
     df = df.reindex(pd.Index(columns).union(df.columns), axis=1) \
@@ -508,6 +596,7 @@ def compile_playing(source, games, gamelist, outpath):
             print("WARNING: unexpected column %s in playing" % col)
 
     return df[columns].pipe(to_csv, outpath/"playing.csv", index=False)
+
 
 def compile_games(source, gamelist, outpath):
     df = pd.DataFrame([g.metadata for g in gamelist]) \
@@ -536,14 +625,20 @@ def compile_games(source, gamelist, outpath):
             print("WARNING: unexpected column %s in games" % col)
     return df[columns].pipe(to_csv, outpath/"games.csv", index=False)
 
+
 def compile_umpiring(source, games, gamelist, outpath):
     df = pd.concat([pd.DataFrame(g.umpiring) for g in gamelist],
                    sort=False, ignore_index=True)
-    if len(df) == 0:
+    if df.empty:
         return pd.DataFrame(columns=['game.key'])
     df = pd.merge(df, games[['key', 'league']],
                   left_on='game.key', right_on='key')
-    df['league.name'] = df['league'].apply(lambda x: x + " League" if "League" not in x and "Association" not in x else x)
+    df['league.name'] = (
+        df['league'].apply(lambda x:
+                           x + " League"
+                           if "League" not in x and "Association" not in x
+                           else x)
+        )
     df['league.year'] = df['game.date'].str.split("-").str[0]
     df = df.drop(columns=['key', 'league'])
     df['club.name'] = 'umpire'
@@ -555,61 +650,84 @@ def compile_umpiring(source, games, gamelist, outpath):
 
 
 def compile_players(source, playing, outpath):
-    if len(playing) == 0:
+    if playing.empty:
         return
     playing['B_G'] = 1
     for pos in ['p', 'c', '1b', '2b', '3b', 'ss', 'lf', 'cf', 'rf']:
-        playing['F_%s_G' % pos.upper()] = playing['pos'].apply(lambda x: (1 if pos in x.split("-") else 0) if not pd.isnull(x) else 0)
-    playing['F_OF_G'] = playing['F_LF_G'] | playing['F_CF_G'] | \
-                        playing['F_RF_G']
+        playing[f'F_{pos.upper()}_G'] = (
+            playing['pos'].apply(
+                lambda x:
+                (1 if pos in x.split("-") else 0)
+                if not pd.isnull(x) else 0
+                )
+            )
+    playing['F_OF_G'] = (
+        playing['F_LF_G'] | playing['F_CF_G'] | playing['F_RF_G']
+        )
     playing['P_G'] = playing['F_P_G']
     playing['name.first'] = playing['name.first'].fillna("")
     playing = playing[playing['name.last'] != "TOTALS"]
     grouper = playing.groupby(['league.year', 'league.name', 'game.phase',
                                'name.last', 'name.first', 'club.name', 'ref'])
     df = grouper.sum()
-    df = df.join(grouper[['game.date']].min().rename(columns={'game.date': 'S_FIRST'})) \
-           .join(grouper[['game.date']].max().rename(columns={'game.date': 'S_LAST'})) \
-           .reset_index() \
-           .rename(columns={'ref':       'person.ref',
-                            'name.last':  'person.name.last',
-                            'name.first': 'person.name.given',
-                            'club.name':  'entry.name',
-                            'year':       'league.year',
-                            'league':     'league.name',
-                            'game.phase':  'league.phase'}) \
-           [['league.year', 'league.name', 'league.phase', 'person.ref',
-             'person.name.last', 'person.name.given', 'entry.name',
-             'S_FIRST', 'S_LAST', 'B_G', 'P_G',
-             'F_1B_G', 'F_2B_G', 'F_3B_G', 'F_SS_G',
-             'F_OF_G', 'F_LF_G', 'F_CF_G', 'F_RF_G',
-             'F_C_G', 'F_P_G']] \
-           .to_csv(outpath/"players.csv", index=False, float_format='%d')
+    df = (
+        df.join(
+            grouper[['game.date']].min()
+            .rename(columns={'game.date': 'S_FIRST'})
+            )
+        .join(
+            grouper[['game.date']].max()
+            .rename(columns={'game.date': 'S_LAST'})
+            )
+        .reset_index()
+        .rename(columns={'ref':       'person.ref',
+                         'name.last':  'person.name.last',
+                         'name.first': 'person.name.given',
+                         'club.name':  'entry.name',
+                         'year':       'league.year',
+                         'league':     'league.name',
+                         'game.phase':  'league.phase'})
+        [['league.year', 'league.name', 'league.phase', 'person.ref',
+          'person.name.last', 'person.name.given', 'entry.name',
+          'S_FIRST', 'S_LAST', 'B_G', 'P_G',
+          'F_1B_G', 'F_2B_G', 'F_3B_G', 'F_SS_G',
+          'F_OF_G', 'F_LF_G', 'F_CF_G', 'F_RF_G',
+          'F_C_G', 'F_P_G']]
+        .to_csv(outpath/"players.csv", index=False, float_format='%d')
+        )
 
 
 def compile_umpires(source, umpiring, outpath):
-    if len(umpiring) == 0:
+    if umpiring.empty:
         return
     umpiring['U_G'] = 1
     umpiring['name.first'] = umpiring['name.first'].fillna("")
     grouper = umpiring.groupby(['league.year', 'league.name', 'game.phase',
                                 'name.last', 'name.first', 'ref'])
     df = grouper.sum()
-    df = df.join(grouper[['game.date']].min().rename(columns={'game.date': 'S_FIRST'})) \
-           .join(grouper[['game.date']].max().rename(columns={'game.date': 'S_LAST'})) \
-           .reset_index() \
-           .rename(columns={'ref':        'person.ref',
-                            'name.last':  'person.name.last',
-                            'name.first': 'person.name.given',
-                            'year':       'league.year',
-                            'league':     'league.name',
-                            'game.phase': 'league.phase'}) \
-           [['league.year', 'league.name', 'league.phase', 'person.ref',
-             'person.name.last', 'person.name.given',
-             'S_FIRST', 'S_LAST', 'U_G']] \
-           .to_csv(outpath/"umpires.csv", index=False, float_format='%d')
+    df = (
+        df.join(
+            grouper[['game.date']].min()
+            .rename(columns={'game.date': 'S_FIRST'})
+            )
+        .join(
+            grouper[['game.date']].max()
+            .rename(columns={'game.date': 'S_LAST'})
+            )
+        .reset_index()
+        .rename(columns={'ref':        'person.ref',
+                         'name.last':  'person.name.last',
+                         'name.first': 'person.name.given',
+                         'year':       'league.year',
+                         'league':     'league.name',
+                         'game.phase': 'league.phase'})
+        [['league.year', 'league.name', 'league.phase', 'person.ref',
+          'person.name.last', 'person.name.given',
+          'S_FIRST', 'S_LAST', 'U_G']]
+        .to_csv(outpath/"umpires.csv", index=False, float_format='%d')
+        )
 
-    
+
 def process_files(source, inpath, outpath):
     fnlist = [fn for fn in sorted(inpath.glob("*.txt"))
               if fn.name.lower() not in ["readme.txt", "notes.txt"]]
@@ -630,7 +748,6 @@ def process_files(source, inpath, outpath):
 def main(source, warn_duplicates, warn_marked):
     warnings.simplefilter('error', DuplicatedNameWarning)
     warnings.simplefilter('ignore', MarkedIdentificationWarning)
-    #warnings.simplefilter('error', IdentificationWarning)
     if warn_duplicates:
         warnings.simplefilter('default', DuplicatedNameWarning)
     if warn_marked:
@@ -639,16 +756,17 @@ def main(source, warn_duplicates, warn_marked):
     try:
         year, paper = source.split("-")
     except ValueError:
-        print(clr.Fore.RED + ("Invalid source name '%s'" % source) + clr.Fore.RESET)
+        print(clr.Fore.RED +
+              f"Invalid source name '{source}'" +
+              clr.Fore.RESET)
         sys.exit(1)
-        
+
     inpath = config.data_path/"transcript"/year/source
     outpath = config.data_path/"processed"/year/source
     outpath.mkdir(exist_ok=True, parents=True)
-        
+
     try:
         process_files(year + "/" + source, inpath, outpath)
     except DuplicatedNameWarning as exc:
         print(clr.Fore.RED + str(exc) + clr.Fore.RESET)
         sys.exit(1)
-
