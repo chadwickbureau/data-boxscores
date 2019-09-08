@@ -1,0 +1,610 @@
+date: 1910-07-18
+number: 0
+league: Central Kansas
+away: Salina
+home: Manhattan
+source: The Morning Chronicle Jul 19, 1910
+
+Salina:			ab r h po a e
+Misse @ ss:		3 1 1 2 2 1
+Pulliam @ cf:	2 0 0 1 0 0
+Leonard @ lf:	3 0 1 3 0 0
+Ludes @ 2b:		4 0 1 2 2 0
+House @ rf:		3 0 0 0 0 0
+Grady @ 1b:		4 0 0 8 0 0
+Runbeck @ 3b:	4 0 0 1 2 3
+Maxey @ c:		3 0 1 5 1 0
+Sheerin @ p:	3 0 0 1 4 0
+TOTALS:			29 1 4 23 11 4
+
+Manhattan:		ab r h po a e
+Strong @ cf:	4 1 1 2 0 0
+Pierce @ 2b:	3 0 0 6 2 0 
+Rennard @ rf:	3 0 0 0 1 0
+Murie @ 1b:		3 0 0 10 0 0
+Parks @ lf:		2 0 0 0 0 0
+Lindsley @ c:	3 1 1 8 4 0
+Bond @ 3b:		3 0 0 0 2 1
+Strohm @ ss:	2 0 0 1 2 1
+Davis @ p:		3 0 0 0 1 1
+TOTALS:			26 2 2 27 12 3
+
+line: Salina: 1 0 0 0 0 0 0 0 0 0 - 1
+line: Manhattan: 0 0 0 0 1 1 0 0 x - 2
+
+B_LOB: Salina #6; Manhattan #5
+B_ROE: Salina #2; Manhattan #2
+B_ER: Manhattan #1
+B_2B: Strong; Ludes
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: Leonard
+B_XO: Parks, hit by batted ball
+P_BB: Sheerin #2; Davis #3
+P_SO: Sheerin #5; Davis #7
+P_H: ~Sheerin #2; ~Davis #4
+P_IP: ~Sheerin #8; ~Davis #9
+P_HP: ~Davis
+P_WP: 
+P_BK: 
+F_DP: Strohm, Pierce, Murie
+F_PB: Lindsley #2
+outsatend: 
+T: 1:30
+U: Reilly
+ejection: Merideth by Reilly for arguing; Taylor by Reilly for arguing
+
+P_GS: 
+P_GF: 
+P_W: ~Davis
+P_L: ~Sheerin
+P_SV: 
+
+---
+
+date: 1910-07-19
+number: 0
+league: Central Kansas
+away: Salina
+home: Manhattan
+source: The Morning Chronicle Jul 20, 1910
+
+Salina:				ab r h po a e
+Pulliam @ cf:		5 0 2 1 0 0
+Misse @ ss:			4 0 1 1 2 0
+Leonard @ lf:		2 0 0 1 0 0
+Ludes @ 3b:			3 0 0 0 0 0
+Merideth @ rf-1b:	3 1 0 2 0 0
+Grady @ 1b:			3 1 1 9 1 0
+House @ rf:			1 0 0 0 0 0
+Runbeck @ 2b:		4 0 1 1 3 0
+Maxey @ c:			3 1 1 12 1 1
+Killilay @ p:		4 0 1 0 4 0
+TOTALS:				32 3 7 27 10 1
+
+Manhattan:		ab r h po a e
+Strong @ cf:	4 0 1 1 0 0
+Pierce @ 2b:	3 0 0 1 1 0
+Rennard @ rf:	3 0 0 1 0 0
+Murie @ 1b:		2 0 0 6 0 1
+Parks @ lf:		3 0 0 4 0 0
+Lindsley @ c:	3 0 1 8 3 0
+Bond @ 3b:		3 0 0 4 1 0
+Strohm @ ss:	2 0 0 1 0 0
+*Miller @ ph:	1 0 0 0 0 0
+Haag @ p:		2 0 0 0 1 1
++Gober @ ph:	1 0 0 0 1 1
+TOTALS:			27 0 2 26 6 2
+
+*: batted for Strohm
++: batted for Haag
+
+line: Salina: 0 0 1 2 0 0 0 0 0 - 3
+line: Manhattan: 0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Salina #7; Manhattan #1
+B_ROE: Salina #1
+B_ER: Salina #2
+B_2B: Misse
+B_3B: 
+B_HR: Grady
+B_SB: Merideth; Lindsley
+B_SH: Merideth
+B_SF: 
+B_HP: 
+B_XO: Misse, bunted third strike
+P_BB: Killilay #1; Haag #4
+P_SO: Killilay #11; Haag #6
+P_H: ~Killilay #2; ~Haag #7
+P_IP: ~Killilay #9; ~Haag #9
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:30
+U: Reilly
+
+P_GS: 
+P_GF: 
+P_W: ~Killilay
+P_L: ~Haag
+P_SV: 
+
+---
+
+date: 1910-07-20
+number: 0
+league: Central Kansas
+away: Salina
+home: Manhattan
+source: The Morning Chronicle Jul 21, 1910
+
+Salina:				ab r h po a e
+Pulliam @ cf:		5 1 3 2 0 0
+Misse @ ss:			4 1 1 1 3 0
+Leonard @ 2b-3b:	2 0 1 0 4 1
+Sheerin @ rf:		5 1 0 0 0 0
+Merideth @ 1b:		3 1 1 10 0 3
+House @ lf:			5 1 1 1 0 0
+Runbeck @ 2b-3b:	4 1 1 2 2 0
+Maxey @ c:			2 0 0 6 0 0
+Taylor @ p:			4 1 1 1 2 0
+TOTALS:				34 7 9 23 11 4
+
+Manhattan:		ab r h po a e
+Strong @ cf:	4 2 0 1 0 0
+Pierce @ 2b:	4 0 0 2 2 0
+Rennard @ rf:	4 1 1 3 0 0
+Murie @ 1b:		3 2 2 7 0 1
+Parks @ lf:		4 1 2 4 1 0
+Bond @ 3b:		3 0 1 3 1 0
+Strohm @ ss:	3 1 0 1 2 0
+Miller @ c:		4 1 2 6 2 3
+Baird @ p:		0 0 0 0 3 0
+Gober @ p:		3 0 1 0 1 0
+Patterson @ p:	1 0 0 0 1 0
+TOTALS:			33 8 9 27 13 4
+
+line: Salina: 0 0 1 0 1 0 1 4 0 - 7
+line: Manhattan: 1 0 0 5 0 0 2 0 x - 8
+
+B_LOB: Salina #12; Manhattan #5
+B_ROE: Salina #2; Manhattan #3
+B_ER: Salina #2; Manhattan #3
+B_2B: Pulliam
+B_3B: 
+B_HR: Murie
+B_SB: 
+B_SH: ~Leonard
+B_SF: 
+B_HP: Maxey
+B_XO: Murie, interfering
+P_BB: Taylor #3; Baird #2; Gober #2; Patterson #4
+P_SO: Taylor #4; Baird #1; Gober #4; Patterson #1
+P_H: ~Taylor #9
+P_IP: ~Taylor #8; Baird #2.2; ~Gober #4.1; Patterson #2
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Parks, Pierce; Misse, Runbeck
+F_PB: 
+outsatend: 
+T: 2:10
+U: Reilly
+
+P_GS: ~Baird
+P_GF: ~Patterson
+P_W: ~Gober
+P_L: ~Taylor
+P_SV: 
+
+---
+
+date: 1910-07-21
+number: 1
+league: Central Kansas
+away: Ellsworth
+home: Manhattan
+source: The Morning Chronicle Jul 22, 1910
+
+Ellsworth:			ab r h po a e
+Poindexter @ lf:	4 0 1 0 0 0
+Armstrong @ 1b:		3 1 0 13 0 0
+Bankhead @ c:		3 0 1 3 2 0
+Reed @ 2b:			4 1 1 3 1 0
+Pickens @ ss:		4 0 2 0 2 1
+McLain @ rf:		4 1 1 2 0 0
+Schleusker @ cf:	4 1 1 2 1 0
+Jewell @ 3b:		2 0 1 3 3 0
+Woods @ p:			3 0 1 0 10 0
+TOTALS:				32 4 9 26 19 1
+
+Manhattan:		ab r h po a e
+Strong @ cf:	2 1 1 2 0 0
+Pierce @ 2b:	4 1 2 5 4 0
+Rennard @ rf:	5 1 3 0 1 0
+Murie @ 1b:		4 1 2 9 0 0
+Parks @ lf:		4 0 2 2 0 0
+Bond @ 3b:		4 0 2 2 3 0
+Strohm @ ss:	3 0 0 1 1 1
+Miller @ c:		4 0 0 6 3 0
+Davis @ p:		4 1 1 0 1 0
+TOTALS:			34 5 13 27 13 1
+
+line: Ellsworth: - 4
+line: Manhattan: - 5
+
+B_LOB: Ellsworth #4; Manhattan #8
+B_ROE: 
+B_ER: Ellsworth #2; Manhattan #4
+B_2B: Parks; Rennard
+B_3B: 
+B_HR: 
+B_SB: Poindexter
+B_SH: Armstrong; Strong #2; Strohm
+B_SF: 
+B_HP: Jewell
+B_XO: 
+P_BB: Woods #2; Davis #2
+P_SO: Woods #1; Davis #5
+P_H: ~Woods #13; ~Davis #9
+P_IP: ~Woods #9; Davis #9
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: Reilly
+
+P_GS: 
+P_GF: 
+P_W: ~Davis
+P_L: ~Woods
+P_SV: 
+
+---
+
+date: 1910-07-21
+number: 2
+league: Central Kansas
+away: Ellsworth
+home: Manhattan
+source: The Morning Chronicle Jul 21, 1910
+
+Ellsworth:			ab r h po a e
+Poindexter @ lf:	4 1 1 1 0 0
+Armstrong @ 1b:		5 1 0 10 0 0
+Johns @ rf-3b:		5 2 1 1 1 0
+Reed @ 2b:			4 1 2 3 3 0
+Bankhead @ rf:		3 0 1 0 0 0
+Pickens @ ss:		1 0 0 1 1 0
+McLain @ c:			5 1 2 5 3 0
+Schleusker @ cf:	4 0 2 5 1 0
+Jewell @ 3b-ss:		5 0 0 1 3 2
+Peebles @ p:		5 1 1 0 0 0
+TOTALS:				41 7 10 27 12 2
+
+Manhattan:		ab r h po a e
+Strong @ cf:	3 0 0 8 0 0
+Pierce @ 2b:	4 1 2 2 3 1
+Rennard @ rf:	4 1 1 2 0 2
+Murie @ 1b:		3 0 1 7 0 1
+Parks @ lf:		4 0 2 1 0 0
+Lindley @ c:	4 1 1 3 0 2
+Bond @ 3b:		2 0 1 1 2 0
+Strohm @ ss:	2 0 0 1 1 4
+Patterson @ p:	2 0 0 2 1 0
+Gober @ p:		2 0 1 0 1 0
+*Miller @ ph:	1 0 0 0 0 0
+TOTALS:			32 3 9 27 8 10
+
+line: Ellsworth: - 7
+line: Manhattan: - 3
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Gober; Johns
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: Rennard
+B_XO: 
+P_BB: Gober #2; Peebles #2
+P_SO: Patterson #1; Peebles #4
+P_H: ~Peebles #9
+P_IP: ~Peebles #9; ~Patterson #6; ~Gober #3
+P_HP: 
+P_WP: Gober #2
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: Reilly
+ejection: Pickens by Reilly for arguing
+
+P_GS: ~Patterson
+P_GF: ~Gober
+P_W: ~Peebles
+P_L: ~Gober
+P_SV: 
+
+---
+
+date: 1910-07-22
+number: 1
+league: Central Kansas
+away: Ellsworth
+home: Manhattan
+source: The Morning Chronicle Jul 23, 1910
+
+Ellsworth:			ab r h po a e
+Schlensker @ cf:	3 0 1 1 0 0
+Armstrong @ 1b:		3 0 0 11 0 1
+Poindexter @ lf:	4 1 3 1 0 0
+Bankhead @ c:		4 1 0 8 4 0
+Reed @ 2b:			3 0 1 3 1 0
+Pickens @ ss:		3 0 0 3 2 1
+Johns @ rf:			3 0 1 0 0 0
+Jewell @ 3b:		3 0 0 0 4 0
+Taylor @ p:			3 0 0 0 6 0
+TOTALS:				29 2 6 27 17 2
+
+Manhattan:		ab r h po a e
+Strong @ cf:	4 0 0 2 0 0
+Pierce @ 2b:	4 0 2 0 2 0
+Rennard @ rf:	3 1 1 1 0 0
+Murie @ 1b:		4 0 0 16 0 0
+Parks @ lf:		3 0 1 1 0 1
+Bond @ 3b:		3 0 0 1 3 0
+Miller @ c:		2 0 0 4 1 0
+Strohm @ ss:	2 0 1 2 0 0
+Haag @ p:		3 0 0 0 10 0
+TOTALS:			28 1 5 27 16 1
+
+line: Ellsworth: - 2
+line: Manhattan: - 1
+
+B_LOB: Ellsworth #4; Manhattan #3
+B_ROE: Ellsworth #1; Manhattan #1
+B_ER: Manhattan #1
+B_2B: Poindexter; Rennard
+B_3B: 
+B_HR: 
+B_SB: Schlensker
+B_SH: Armstrong; Bankhead; Pickens; Strohm
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Taylor #3; Haag #1
+P_SO: Taylor #9; Haag #4
+P_H: ~Taylor #5; ~Haag #6
+P_IP: ~Taylor #9; ~Haag #9
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:40
+U: Reilly
+
+P_GS: 
+P_GF: 
+P_W: ~Taylor
+P_L: ~Haag
+P_SV: 
+
+---
+
+date: 1910-07-22
+number: 2
+league: Central Kansas
+away: Ellsworth
+home: Manhattan
+source: The Morning Chronicle Jul 23, 1910
+
+Ellsworth:			ab r h po a e
+Schlensker @ cf:	3 1 1 0 0 0
+Armstrong @ 1b:		3 1 1 11 0 0
+Poindexter @ lf:	4 1 1 1 0 4
+McLain @ c:			4 0 1 9 0 0
+Reed @ 2b:			4 1 1 2 4 0
+Pickens @ ss:		4 0 0 2 5 0
+Johns @ rf:			4 1 1 1 0 0
+Jewell @ 3b:		3 1 0 0 3 0
+Taylor @ p:			4 1 1 1 1 0
+TOTALS:				33 7 7 27 13 0
+
+Manhattan:		ab r h po a e
+Strong @ cf:	5 0 1 5 0 0
+Pierce @ 2b:	5 0 0 4 2 0
+Rennard @ rf:	3 0 0 0 0 0
+Murie @ 1b:		4 0 0 11 0 0
+Parks @ lf:		3 1 1 3 0 0
+Bond @ 3b:		3 0 0 0 0 1
+Miller @ c:		1 0 0 2 0 0
+Lindsley @ c:	3 0 2 1 3 0
+Strohm @ ss:	3 0 2 1 3 0
+Haag @ p:		0 0 0 0 1 0
+Stack @ p:		2 0 1 0 1 0
+TOTALS:			32 1 7 27 10 1
+
+line: Ellsworth: 0 0 0 0 6 0 0 1 0 - 7
+line: Manhattan: 0 0 0 0 0 0 0 1 0 - 1
+
+B_LOB: Ellsworth #2; Manhattan #9
+B_ROE: Ellsworth #1
+B_ER: Ellsworth #5; Manhattan #1
+B_2B: Johns; Parks
+B_3B: 
+B_HR: Reed; Poindexter
+B_SB: Armstrong; McLain
+B_SH: Armstrong
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Taylor #6; Haag #2
+P_SO: Taylor #8; Haag #2; Stack #2
+P_H: ~Taylor #7
+P_IP: ~Taylor #9; ~Haag #4.1; ~Stack #4.2
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Pickens, Reed, Armstrong
+F_PB: 
+outsatend: 
+T: 2:38
+U: Reilly
+
+P_GS: ~Haag
+P_GF: ~Stack
+P_W: ~Taylor
+P_L: ~Haag
+P_SV: 
+
+---
+
+date: 1910-07-23
+number: 0
+league: Central Kansas
+away: Ellsworth
+home: Manhattan
+source: The Morning Chronicle Jul 25, 1910
+
+Ellsworth:			ab r h po a e
+Schlensker @ cf:	2 0 1 1 0 0
+Alexander @ cf:		1 0 0 0 0 0
+Armstrong @ 1b:		4 1 2 11 0 0
+Poindexter @ lf:	5 0 1 0 0 0
+McClain @ c:		4 1 1 5 1 1
+Bankhead @ c:		1 0 0 1 0 0
+Reed @ 2b:			1 1 1 3 5 0
+Pickens @ ss:		4 0 0 0 1 0
+Johns @ rf-3b:		4 0 1 2 1 1
+Jewell @ 3b:		1 0 0 0 0 0
+Peebles @ rf:		3 0 1 1 0 0
+Fulwider @ p:		3 0 1 0 4 0
+Woods @ p:			0 0 0 0 1 0
+TOTALS:				33 3 9 24 13 2
+
+Manhattan:		ab r h po a e
+Strong @ cf:	3 2 1 1 0 0
+Pierce @ 2b:	4 1 0 2 1 0
+Rennard @ rf:	3 1 1 0 0 0
+Murie @ 1b:		3 0 1 5 0 1
+Parks @ lf:		4 0 1 1 0 0
+Lindsley @ c:	4 0 1 14 4 0
+Bond @ 3b:		3 0 0 1 3 0
+Strohm @ ss:	3 0 0 1 1 0
+Baird @ p:		2 0 1 2 2 0
+TOTALS:			29 4 6 27 11 1
+
+line: Ellsworth: 2 0 0 0 0 0 0 1 0 - 3
+line: Manhattan: 0 0 3 0 1 0 0 0 x - 4
+
+B_LOB: 
+B_ROE: Ellsworth #2; Manhattan #1
+B_ER: 
+B_2B: Reed
+B_3B: 
+B_HR: Rennard
+B_SB: Armstrong; Poindexter; Reed; Johns
+B_SH: Armstrong
+B_SF: 
+B_HP: Woods; Schlensker
+B_XO: 
+P_BB: Baird #4; Fulwider #3; Woods #1
+P_SO: Baird #12; Fulwider #5; Woods #1
+P_H: 
+P_IP: Baird #9; Fulwider #6; Woods #2
+P_HP: ~Baird #2
+P_WP: 
+P_BK: 
+F_DP: Johns, Armstrong; Pickens, Reed, Armstrong
+F_PB: Lindsley #2; McClain #1
+outsatend: 
+T: 
+U: 
+
+P_GS: ~Fulwider
+P_GF: ~Woods
+P_W: ~Baird
+P_L: ~Fulwider
+P_SV: 
+
+---
+
+date: 1910-07-24
+number: 0
+league: Central Kansas
+away: Manhattan
+home: Junction City
+source: The Morning Chronicle Jul 25, 1910
+
+Manhattan:		ab r h po a e
+Strong @ cf:	3 0 0 2 0 1
+Pierce @ 2b:	4 0 1 3 2 0
+Rennard @ rf:	4 0 0 1 0 0
+Murie @ 1b:		4 0 0 10 0 0
+Parks @ lf:		4 0 0 0 0 0
+Lindsley @ c:	3 0 1 4 0 0
+Bond @ 3b:		3 0 0 0 3 0
+Strohm @ ss:	3 0 1 3 2 1
+Patterson @ p:	3 0 1 0 3 0
+TOTALS:			31 0 4 24 10 2
+
+Junction City:	ab r h po a e
+Weller @ 3b:	3 1 2 0 1 0
+Erickson @ lf:	3 0 0 3 0 0
+Bankhead @ 2b:	3 1 1 1 0 0
+Nelson,C. @ rf:	2 0 0 1 0 0
+Nelson,B. @ c:	3 0 0 15 0 0
+Mathais @ cf:	3 0 2 1 0 0
+Woods @ 1b:		3 0 0 6 0 0
+Hern @ ss:		3 0 0 0 3 0
+Kelly @ p:		3 0 0 0 2 1
+TOTALS:			26 2 5 27 6 1
+
+line: Manhattan: 0 0 0 0 0 0 0 0 0 - 0
+line: Junction City: 0 0 0 1 0 0 0 1 x - 2
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Lindsley; Strohm; Weller
+B_3B: Weller
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Patterson #1; Kelly #0
+P_SO: Patterson #4; Kelly #15
+P_H: ~Patterson #5; ~Kelly #4
+P_IP: ~Patterson #8; ~Kelly #9
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Pierce, Murie
+F_PB: 
+outsatend: 
+T: 
+U: Whelan
+
+P_GS: 
+P_GF: 
+P_W: ~Kelly
+P_L: ~Patterson
+P_SV: 

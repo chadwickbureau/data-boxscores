@@ -1,0 +1,202 @@
+date: 1910-07-19
+number: 0
+league: Central Kansas
+away: Beloit
+home: Abilene
+source: Abilene Daily Chronicle Jul 20, 1910
+
+Beloit:				ab r h po a e
+Carl @ 3b:			4 0 0 3 4 0
+Woster @ 1b:		3 1 1 14 1 0
+Griffin @ c:		4 0 1 5 0 0
+Cox @ lf-p:			4 0 1 0 2 0
+Williams @ ss:		2 0 0 1 3 0
+Robertson @ p:		1 0 0 0 5 0
+Jones @ lf-p:		2 0 0 1 0 0
+Parker @ rf:		2 0 0 0 0 0
+Hogan @ 2b:			3 0 1 1 1 0
+Merrifield @ cf:	3 0 0 0 0 0
+TOTALS:				28 1 4 25 16 0
+
+Abilene:		ab r h po a e
+Sommers @ c:	4 0 0 10 1 0
+Wilson @ 1b:	4 1 2 8 0 0
+Monroe @ cf:	5 1 1 0 0 0
+Conley @ lf:	4 1 3 2 0 0
+Bradley @ rf:	4 2 2 0 0 0
+Jennings @ ss:	4 0 2 5 2 0
+Epling @ 2b:	2 1 1 1 3 1
+Britton @ 3b:	4 1 2 1 1 0
+Wheatley @ p:	4 0 1 0 4 0
+TOTALS:			35 7 14 27 11 1
+
+line: Beloit: 0 0 0 0 0 0 0 0 1 - 1
+line: Abilene: 0 0 0 0 4 1 2 0 x - 7
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Conley
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: Epling; Wilson
+B_XO: 
+P_BB: Robertson #2; Wheatley #3
+P_SO: Cox #2; Jones #1; Wheatley #9
+P_H: ~Wheatley #4
+P_IP: ~Wheatley #9
+P_HP: Cox; Jones
+P_WP: 
+P_BK: 
+F_DP: Sommers, Jennings; Jennings, Epling, Wilson
+F_PB: 
+outsatend: 
+T: 1:30
+U: Whalen
+
+P_GS: 
+P_GF: 
+P_W: ~Wheatley
+P_L: ~Robertson
+P_SV: 
+
+---
+
+date: 1910-07-20
+number: 0
+league: Central Kansas
+away: Beloit
+home: Abilene
+source: Abilene Daily Chronicle Jul 21, 1910
+
+Beloit:			ab r h po a e
+Howell @ 2b:	2 0 1 0 0 0
+carl @ 3b:		3 0 0 2 3 0
+Diamond @ ss:	3 0 1 4 1 0
+Griffith @ c:	3 0 0 3 1 0
+Williams @ 1b:	3 1 1 6 1 0
+Cox @ lf:		3 0 1 0 1 0
+Woster @ cf:	2 1 1 2 0 0
+Scanlan @ rf:	3 0 0 1 0 0
+Robertson @ p:	0 2 0 0 3 0
+TOTALS:			24 2 5 18 10 0
+
+Abilene:		ab r h po a e
+Sommers @ c:	4 1 2 1 0 0
+Wilson @ 1b:	4 1 2 16 0 0
+Monrie @ cf:	3 0 0 0 0 0
+Conley @ lf:	2 2 1 1 0 0
+Bradley @ rf:	1 1 1 0 0 0
+Jennings @ ss:	3 0 3 0 7 0
+Epling @ 2b:	3 0 1 2 2 0
+Britton @ 3b:	3 0 1 1 5 0
+Zilinski @ p:	3 0 1 0 2 0
+TOTALS:			26 5 12 21 16 0
+
+line: Beloit: 0 0 0 0 0 0 2 - 2
+line: Abilene: 0 1 0 0 4 0 x - 5
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: 
+P_SO: 
+P_H: ~Zilinski #5; ~Robertson #12
+P_IP: ~Zilinski #7; ~Robertson #6
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: 
+
+P_GS: 
+P_GF: 
+P_W: ~Zilinski
+P_L: ~Robertson
+P_SV: 
+
+---
+
+date: 1910-07-21
+number: 0
+league: Central Kansas
+away: Abilene
+home: Concordia
+source: Abilene Daily Chronicle Jul 21, 1910
+
+Abilene:		ab r h po a e
+Sommers @ c:	4 1 1 7 0 0
+Wilson @ 1b:	3 1 0 13 0 0
+Monroe @ cf:	4 2 2 1 0 0
+Conley @ lf:	3 1 1 0 0 0
+Bradley @ rf:	3 0 1 2 0 0
+Jennings @ ss:	4 0 1 0 2 2
+Britton @ 3b:	4 0 1 0 5 1
+Epling @ 2b:	3 0 0 2 5 0
+Schopp @ p:		3 0 0 0 1 0
+TOTALS:			31 5 7 25 13 3
+
+Concordia:			ab r h po a e
+Short @ ss:			4 1 1 2 2 0
+Horrill @ 1b:		4 1 1 13 1 0
+Johnson @ 3b:		4 1 0 3 1 0
+Sutton @ 2b:		4 0 0 0 6 1
+Dail @ rf:			3 0 1 0 0 0
+Ramsey @ lf:		4 1 1 3 0 0
+Chapman @ cf:		4 1 2 4 0 0
+Fowler,J. @ c:		4 0 1 2 1 0
+Haight @ p:			3 0 0 0 0 0
+*Fowler,S. @ ph:	1 1 1 0 0 0
+TOTALS:				35 6 8 27 16 1
+
+*: batted for Dail in 9th
+
+line: Abilene: 4 0 0 0 0 0 1 0 0 - 5
+line: Concordia: 1 0 0 2 0 0 0 0 3 - 6
+
+B_LOB: Abilene #4; Concordia #4
+B_ROE: 
+B_ER: Abilene #5; Concordia #4
+B_2B: Bradley; Short; Jennings; Horrill; Dail; Ramsey; J. Fowler
+B_3B: Monroe
+B_HR: 
+B_SB: Sommers; Conley; Bradley #2; Horrill #2; Johnson; Chapman #2; J. Fowler
+B_SH: 
+B_SF: Conley
+B_HP: Wilson; Epling
+B_XO: 
+P_BB: Haight #2; Schopp #0
+P_SO: Haight #1; Schopp #6
+P_H: ~Haight #9; Schopp #8.1
+P_IP: ~Haight #7; ~Schopp #8
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 2:15
+U: Graham
+
+P_GS: 
+P_GF: 
+P_W: ~Haight
+P_L: ~Schopp
+P_SV: 
+
+---
+

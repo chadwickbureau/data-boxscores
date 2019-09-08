@@ -1,70 +1,89 @@
 league.year,league.name,league.phase,person.ref,person.name.last,person.name.given,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G
+1910,Central Kansas League,regular,P9134156,Abbott,,Junction City,1910-07-17,1910-07-17,1,0,0,0,0,0,0,0,0,0,1,0
 1910,Central Kansas League,regular,P0307365,Alexander,,Ellsworth,1910-06-10,1910-06-10,1,0,0,0,0,0,1,0,1,0,0,0
+1910,Central Kansas League,regular,P0582884,Alexander,,Junction City,1910-07-19,1910-07-19,1,0,0,0,0,0,0,0,0,0,1,0
 1910,Central Kansas League,regular,P8745902,Armstrong,,Ellsworth,1910-06-10,1910-06-10,1,0,1,0,0,0,0,0,0,0,0,0
 1910,Central Kansas League,regular,P3570739,Bacon,,Junction City,1910-06-23,1910-06-25,2,0,0,0,0,1,0,0,0,0,0,0
 1910,Central Kansas League,regular,P0325055,Bankhead,,Ellsworth,1910-06-10,1910-06-10,1,0,0,0,1,0,0,0,0,0,0,0
+1910,Central Kansas League,regular,P9525374,Bankhead,,Junction City,1910-07-19,1910-07-19,1,0,0,1,0,0,0,0,0,0,0,0
 1910,Central Kansas League,regular,P5630148,Bashang,,Junction City,1910-06-23,1910-06-25,3,0,0,0,0,0,3,0,3,0,0,0
 1910,Central Kansas League,regular,P1878242,Bechtold,,Abilene,1910-06-21,1910-06-22,2,0,0,0,0,0,2,0,0,2,0,0
 1910,Central Kansas League,regular,P5507615,Britton,,Abilene,1910-06-21,1910-06-22,2,0,0,0,2,0,0,0,0,0,0,0
 1910,Central Kansas League,regular,P8220549,Brown,,Abilene,1910-06-21,1910-06-21,1,1,0,0,0,0,0,0,0,0,0,1
 1910,Central Kansas League,regular,P5313467,Carroll,,Beloit,1910-06-01,1910-06-01,1,0,0,0,0,1,0,0,0,0,0,0
+1910,Central Kansas League,regular,P6245303,Chapman,,Concordia,1910-07-17,1910-07-19,2,0,0,0,0,0,1,0,1,0,1,0
 1910,Central Kansas League,regular,P0126266,Clary,,Concordia,1910-06-01,1910-06-01,1,0,0,0,0,0,1,0,1,0,0,0
 1910,Central Kansas League,regular,P4788971,Cobert,,Beloit,1910-06-01,1910-06-01,1,1,0,0,0,0,0,0,0,0,0,1
+1910,Central Kansas League,regular,P9539767,Colbert,,Beloit,1910-07-04,1910-07-04,1,1,0,0,0,0,0,0,0,0,0,1
 1910,Central Kansas League,regular,P0971047,Conley,,Abilene,1910-06-21,1910-06-22,2,0,0,0,0,0,2,2,0,0,0,0
-1910,Central Kansas League,regular,P5015705,Dail,,Concordia,1910-06-21,1910-06-25,5,0,0,0,0,0,5,0,5,0,0,0
+1910,Central Kansas League,regular,P5015705,Dail,,Concordia,1910-06-21,1910-07-19,9,0,0,0,0,0,8,0,7,1,0,0
 1910,Central Kansas League,regular,P7882869,Dale,,Concordia,1910-06-10,1910-06-10,1,0,0,0,0,0,1,0,1,0,0,0
-1910,Central Kansas League,regular,P4445256,Diamond,,Beloit,1910-06-01,1910-06-01,1,0,1,0,0,0,0,0,0,0,0,0
-1910,Central Kansas League,regular,P8633969,Drew,,Concordia,1910-06-01,1910-06-10,2,0,0,0,0,2,0,0,0,0,0,0
+1910,Central Kansas League,regular,P4445256,Diamond,,Beloit,1910-06-01,1910-07-04,3,0,1,0,0,0,0,0,0,0,2,0
+1910,Central Kansas League,regular,P8633969,Drew,,Concordia,1910-06-01,1910-07-04,4,0,0,0,0,4,0,0,0,0,0,0
 1910,Central Kansas League,regular,P9487473,Drumm,,Beloit,1910-06-01,1910-06-01,1,0,0,0,0,0,1,1,0,0,0,0
 1910,Central Kansas League,regular,P8214271,Dugan,,Junction City,1910-06-23,1910-06-25,3,0,0,0,0,0,3,3,0,0,0,0
 1910,Central Kansas League,regular,P6436420,Ephling,,Abilene,1910-06-21,1910-06-21,1,0,0,1,0,0,0,0,0,0,0,0
 1910,Central Kansas League,regular,P1714332,Epling,,Abilene,1910-06-22,1910-06-22,1,0,0,1,0,0,0,0,0,0,0,0
+1910,Central Kansas League,regular,P0650574,Erickson,,Junction City,1910-07-19,1910-07-19,1,0,0,0,0,0,1,1,0,0,0,0
 1910,Central Kansas League,regular,P5161688,Finch,,Junction City,1910-06-25,1910-06-25,1,1,0,0,0,0,0,0,0,0,0,1
 1910,Central Kansas League,regular,P2166111,Fowler,C.,Concordia,1910-06-10,1910-06-23,3,0,0,0,0,0,0,0,0,0,3,0
-1910,Central Kansas League,regular,P8253830,Fowler,J.,Concordia,1910-06-21,1910-06-25,4,0,0,0,0,0,0,0,0,0,4,0
-1910,Central Kansas League,regular,P1795183,Fowler,S.,Concordia,1910-06-10,1910-06-25,3,3,0,0,0,0,0,0,0,0,0,3
+1910,Central Kansas League,regular,P8253830,Fowler,J.,Concordia,1910-06-21,1910-07-19,7,0,0,0,0,0,0,0,0,0,7,0
+1910,Central Kansas League,regular,P1795183,Fowler,S.,Concordia,1910-06-10,1910-07-19,5,5,0,0,0,0,0,0,0,0,0,5
 1910,Central Kansas League,regular,P4562771,Fulwider,,Ellsworth,1910-06-10,1910-06-10,1,1,0,0,0,0,0,0,0,0,0,1
 1910,Central Kansas League,regular,P3454375,Glynn,,Concordia,1910-06-21,1910-06-25,5,0,0,5,0,0,0,0,0,0,0,0
-1910,Central Kansas League,regular,P8343700,Haight,,Concordia,1910-06-01,1910-06-24,3,3,0,0,0,0,0,0,0,0,0,3
+1910,Central Kansas League,regular,P7430833,Griffin,,Beloit,1910-07-04,1910-07-04,2,0,0,0,0,0,1,0,0,1,0,0
+1910,Central Kansas League,regular,P8343700,Haight,,Concordia,1910-06-01,1910-07-04,4,4,0,0,0,0,0,0,0,0,0,4
 1910,Central Kansas League,regular,P9059381,Hardin,,Concordia,1910-06-22,1910-06-25,2,2,0,0,0,0,0,0,0,0,0,2
 1910,Central Kansas League,regular,P5145449,Harrigan,,Abilene,1910-06-21,1910-06-22,2,0,0,0,0,0,0,0,0,0,2,0
+1910,Central Kansas League,regular,P0294368,Hinton,,Junction City,1910-07-19,1910-07-19,1,1,0,0,0,0,0,0,0,0,0,1
 1910,Central Kansas League,regular,P6326283,Horrel,,Concordia,1910-06-21,1910-06-21,1,0,1,0,0,0,0,0,0,0,0,0
-1910,Central Kansas League,regular,P8742295,Horrell,,Concordia,1910-06-22,1910-06-23,2,0,2,0,0,0,0,0,0,0,0,0
+1910,Central Kansas League,regular,P8742295,Horrell,,Concordia,1910-06-22,1910-07-19,6,0,5,0,0,0,0,0,0,0,0,0
 1910,Central Kansas League,regular,P8266127,Horril,,Concordia,1910-06-01,1910-06-01,1,0,1,0,0,0,0,0,0,0,0,0
 1910,Central Kansas League,regular,P0055581,Horrwl,,Concordia,1910-06-10,1910-06-10,1,0,1,0,0,0,0,0,0,0,0,0
+1910,Central Kansas League,regular,P0213047,Howell,,Beloit,1910-07-04,1910-07-04,2,0,0,0,0,0,2,0,2,0,0,0
 1910,Central Kansas League,regular,P6366649,Jennings,,Abilene,1910-06-21,1910-06-22,2,0,0,0,0,2,0,0,0,0,0,0
 1910,Central Kansas League,regular,P7169727,Jepson,,Junction City,1910-06-23,1910-06-24,2,2,0,0,0,0,0,0,0,0,0,2
 1910,Central Kansas League,regular,P5556371,Johns,,Ellsworth,1910-06-10,1910-06-10,1,0,0,0,0,0,0,0,0,0,0,0
-1910,Central Kansas League,regular,P9927454,Johnson,,Concordia,1910-06-01,1910-06-25,7,0,0,0,0,0,7,7,0,0,0,0
+1910,Central Kansas League,regular,P9927454,Johnson,,Concordia,1910-06-01,1910-07-19,10,0,0,0,1,0,9,9,0,0,0,0
+1910,Central Kansas League,regular,P5859467,Jones,,Beloit,1910-07-04,1910-07-04,2,1,0,0,1,0,0,0,0,0,0,1
 1910,Central Kansas League,regular,P9407541,Keifer,,Concordia,1910-06-01,1910-06-01,1,0,0,0,0,0,0,0,0,0,1,0
-1910,Central Kansas League,regular,P3570477,Kelly,,Beloit,1910-06-01,1910-06-01,1,0,0,1,0,0,0,0,0,0,0,0
+1910,Central Kansas League,regular,P2954194,Kelley,,Beloit,1910-07-04,1910-07-04,1,0,0,0,1,0,0,0,0,0,0,0
+1910,Central Kansas League,regular,P3570477,Kelly,,Beloit,1910-06-01,1910-07-04,2,0,0,1,1,0,0,0,0,0,0,0
+1910,Central Kansas League,regular,P6645489,Kelly,,Junction City,1910-07-17,1910-07-19,2,2,0,0,0,0,0,0,0,0,0,2
 1910,Central Kansas League,regular,P0087024,Lahey,,Abilene,1910-06-21,1910-06-21,1,1,0,0,0,0,0,0,0,0,0,1
-1910,Central Kansas League,regular,P5305431,Martin,,Beloit,1910-06-01,1910-06-01,1,0,0,0,0,0,1,0,0,1,0,0
-1910,Central Kansas League,regular,P7795797,McGrew,,Junction City,1910-06-23,1910-06-23,1,1,0,0,0,0,0,0,0,0,0,1
-1910,Central Kansas League,regular,P6679494,McKenzie,,Junction City,1910-06-23,1910-06-24,2,0,0,1,0,1,0,0,0,0,0,0
+1910,Central Kansas League,regular,P5141928,Mack,,Beloit,1910-07-04,1910-07-04,2,0,0,2,0,0,0,0,0,0,0,0
+1910,Central Kansas League,regular,P5305431,Martin,,Beloit,1910-06-01,1910-07-04,3,0,0,0,0,0,3,2,0,1,0,0
+1910,Central Kansas League,regular,P6274738,Mathian,,Junction City,1910-07-19,1910-07-19,1,0,0,0,0,0,1,0,1,0,0,0
+1910,Central Kansas League,regular,P2095218,McDonald,,Junction City,1910-07-17,1910-07-19,2,0,0,0,0,0,1,0,0,1,0,0
+1910,Central Kansas League,regular,P7795797,McGrew,,Junction City,1910-06-23,1910-07-17,2,2,0,0,0,0,0,0,0,0,0,2
+1910,Central Kansas League,regular,P6679494,McKenzie,,Junction City,1910-06-23,1910-07-19,3,0,0,1,0,2,0,0,0,0,0,0
 1910,Central Kansas League,regular,P5564861,Mier,,Junction City,1910-06-23,1910-06-25,3,0,0,2,0,1,0,0,0,0,0,0
 1910,Central Kansas League,regular,P4162669,Monroe,,Abilene,1910-06-21,1910-06-22,2,0,0,0,0,0,2,0,2,0,0,0
 1910,Central Kansas League,regular,P9407295,Nelson,,Junction City,1910-06-23,1910-06-25,3,0,0,0,0,0,0,0,0,0,3,0
 1910,Central Kansas League,regular,P6225521,Peebles,,Ellsworth,1910-06-10,1910-06-10,1,0,0,0,0,0,1,1,0,0,0,0
 1910,Central Kansas League,regular,P3952095,Peters,,Beloit,1910-06-01,1910-06-01,1,0,0,0,0,0,0,0,0,0,1,0
 1910,Central Kansas League,regular,P9816350,Pickens,,Ellsworth,1910-06-10,1910-06-10,1,0,0,0,0,1,0,0,0,0,0,0
-1910,Central Kansas League,regular,P1898384,Ramsey,,Concordia,1910-06-10,1910-06-25,6,0,0,0,0,0,6,0,0,6,0,0
+1910,Central Kansas League,regular,P1898384,Ramsey,,Concordia,1910-06-10,1910-07-19,10,0,0,0,0,0,9,1,0,8,0,0
 1910,Central Kansas League,regular,P0524657,Reed,,Ellsworth,1910-06-10,1910-06-10,1,0,0,1,0,0,0,0,0,0,0,0
+1910,Central Kansas League,regular,P8558801,Riley,,Beloit,1910-07-04,1910-07-04,1,0,0,0,0,0,1,0,0,1,0,0
+1910,Central Kansas League,regular,P6972266,Robertson,,Beloit,1910-07-04,1910-07-04,1,1,0,0,0,0,0,0,0,0,0,1
 1910,Central Kansas League,regular,P5928859,Sackett,,Beloit,1910-06-01,1910-06-01,1,0,0,0,1,0,0,0,0,0,0,0
 1910,Central Kansas League,regular,P4763875,Schlensker,,Ellsworth,1910-06-10,1910-06-10,1,0,0,0,0,0,1,0,0,1,0,0
-1910,Central Kansas League,regular,P6749359,Short,,Concordia,1910-06-01,1910-06-25,7,0,3,1,5,0,1,0,0,1,0,0
-1910,Central Kansas League,regular,P0087844,Smith,,Concordia,1910-06-23,1910-06-23,1,1,0,0,0,0,0,0,0,0,0,1
+1910,Central Kansas League,regular,P6749359,Short,,Concordia,1910-06-01,1910-07-19,11,0,3,3,5,1,1,0,0,1,0,0
+1910,Central Kansas League,regular,P0087844,Smith,,Concordia,1910-06-23,1910-07-19,4,4,0,0,0,0,0,0,0,0,0,4
+1910,Central Kansas League,regular,P1508656,St. John,,Beloit,1910-07-04,1910-07-04,2,0,0,0,0,2,0,0,0,0,0,0
 1910,Central Kansas League,regular,P9118813,Summers,,Ellsworth,1910-06-10,1910-06-10,1,0,0,0,0,0,0,0,0,0,1,0
-1910,Central Kansas League,regular,P2417644,Sutton,,Concordia,1910-06-01,1910-06-25,5,0,0,0,5,0,1,0,1,0,0,0
+1910,Central Kansas League,regular,P2417644,Sutton,,Concordia,1910-06-01,1910-07-19,8,0,0,1,7,0,1,0,1,0,0,0
 1910,Central Kansas League,regular,P2128259,Vann,,Junction City,1910-06-23,1910-06-24,2,0,0,0,2,0,0,0,0,0,0,0
 1910,Central Kansas League,regular,P6828837,Walker,,Concordia,1910-06-10,1910-06-25,4,2,2,0,0,0,0,0,0,0,0,2
 1910,Central Kansas League,regular,P7165698,Walker,O.,Concordia,1910-06-01,1910-06-01,1,0,0,0,0,0,1,0,0,1,0,0
 1910,Central Kansas League,regular,P2695711,Webb,,Concordia,1910-06-01,1910-06-25,7,0,0,2,0,5,0,0,0,0,0,0
-1910,Central Kansas League,regular,P8930011,Weller,,Junction City,1910-06-23,1910-06-25,2,0,0,0,0,0,2,0,0,2,0,0
+1910,Central Kansas League,regular,P8930011,Weller,,Junction City,1910-06-23,1910-07-19,4,0,0,0,1,0,2,0,0,2,0,0
 1910,Central Kansas League,regular,P9473468,Welles,,Junction City,1910-06-24,1910-06-24,1,0,0,0,0,0,1,0,0,1,0,0
 1910,Central Kansas League,regular,P5606575,Whalen,,Junction City,1910-06-23,1910-06-25,3,0,3,0,0,0,0,0,0,0,0,0
 1910,Central Kansas League,regular,P6252800,Wheatley,,Abilene,1910-06-22,1910-06-22,1,1,0,0,0,0,0,0,0,0,0,1
-1910,Central Kansas League,regular,P7851918,Williams,,Beloit,1910-06-01,1910-06-01,1,0,0,0,0,0,1,0,1,0,0,0
+1910,Central Kansas League,regular,P7851918,Williams,,Beloit,1910-06-01,1910-07-04,3,0,2,0,0,0,1,0,1,0,0,0
 1910,Central Kansas League,regular,P6740153,Wilson,,Abilene,1910-06-21,1910-06-22,2,0,2,0,0,0,0,0,0,0,0,0
+1910,Central Kansas League,regular,P2354972,Woods,,Junction City,1910-07-19,1910-07-19,1,0,1,0,0,0,0,0,0,0,0,0
 1910,Central Kansas League,regular,P0145478,Zelinski,,Abilene,1910-06-22,1910-06-22,1,1,0,0,0,0,0,0,0,0,0,1
 1910,Central Kansas League,regular,P8982947,vann,,Junction City,1910-06-25,1910-06-25,1,0,0,0,1,0,0,0,0,0,0,0

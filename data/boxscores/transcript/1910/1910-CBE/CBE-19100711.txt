@@ -1,0 +1,199 @@
+date: 1910-07-14
+number: 0
+league: Central Kansas
+away: Manhattan
+home: Concordia
+source: Concordia Blade-Empire Jul 15, 1910
+
+Manhattan:		ab r h po a e
+Strong @ cf:	4 0 0 2 0 0
+Pierce @ 2b:	4 0 0 3 1 0
+Rennard @ lf:	4 0 1 2 0 0
+Murie @ 1b:		4 0 0 10 0 0
+Lindsley @ c:	4 0 0 4 3 0
+Miller @ rf:	4 0 0 1 0 0
+Bond @ 3b:		3 0 1 0 1 3
+Strohm @ ss:	2 0 0 2 2 0
+Baird @ p:		3 0 0 0 2 0
+TOTALS:			32 0 2 24 9 3
+
+Concordia:		ab r h po a e
+Short @ 2b:		4 1 1 1 1 0
+Drew @ ss:		3 0 0 0 4 1
+Johnson @ lf:	4 0 0 2 0 1
+Sutton @ 3b:	3 0 1 0 4 1
+Dail @ cf:		4 0 2 3 0 0
+Horrill @ 1b:	3 2 2 12 1 1
+Ramsey @ rf:	2 0 1 0 0 0
+Chapman @ c:	2 0 0 10 3 0
+Smith @ p:		3 0 0 0 0 0
+TOTALS:			28 3 7 27 13 4
+
+line: Manhattan: 0 0 0 0 0 0 0 0 0 - 0
+line: Concordia: 0 0 1 1 0 1 0 0 x - 3
+
+B_LOB: Manhattan #6; Concordia #6
+B_ROE: 
+B_ER: Concordia #2
+B_2B: 
+B_3B: Horrill
+B_HR: 
+B_SB: Short #3; Sutton; Horrill; Rennard
+B_SH: Strohm; Drew; Chapman
+B_SF: Ramsey
+B_HP: Sutton
+B_XO: 
+P_BB: Smith #1
+P_SO: Baird #4; Smith #7
+P_H: ~Baird #7; ~Smith #2
+P_IP: ~Baird #8; ~Smith #9
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_TP: Short, Chapman, Horrill, Chapman
+F_PB: Lindsley
+outsatend: 
+T: 1:40
+U: S. Fowler; Abbott
+
+P_GS: 
+P_GF: 
+P_W: ~Smith
+P_L: ~Baird
+P_SV: 
+
+---
+
+date: 1910-07-15
+number: 0
+league: Central Kansas
+away: Manhattan
+home: Concordia
+source: Concordia Blade-Empire Jul 16, 1910
+
+Manhattan:		ab r h po a e
+Strong @ cf:	4 0 0 1 0 0
+Pierce @ 2b:	4 0 1 2 0 0
+Rennard @ rf:	4 0 1 1 0 0
+Murie @ 1b:		3 0 0 11 2 1
+Parks @ lf:		2 0 0 1 0 0
+Lindsley @ c:	3 0 0 4 1 0
+Bond @ 3b:		3 0 0 2 3 2
+Strohm @ ss:	2 0 0 1 3 1
+Patterson @ p:	3 0 0 1 2 0
+TOTALS:			28 0 2 24 11 4
+
+Concordia:		ab r h po a e
+Short @ ss:		4 0 1 2 2 1
+Horrill @ 1b:	4 0 1 14 2 0
+Johnson @ 3b:	4 1 1 1 6 0
+Sutton @ 2b:	3 1 0 1 3 0
+Dail @ rf:		4 0 0 1 0 0
+Ramsey @ lf:	3 1 2 1 0 0
+Chapman @ cf:	3 0 0 1 0 0
+Fowler,J. @ c:	3 0 1 4 1 1
+Haight @ p:		3 0 0 2 6 0
+TOTALS:			31 3 6 27 20 2
+
+line: Manhattan: - 0 
+line: Concordia: - 3
+
+B_LOB: Manhattan #6; Concordia #6
+B_ROE: 
+B_ER: Concordia #0
+B_2B: Horrill; J. Fowler; Ramsey; Pierce; Johnson
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: Sutton
+B_SF: 
+B_HP: Patterson
+B_XO: 
+P_BB: Haight #2
+P_SO: Patterson #3; Haight #3
+P_H: ~Patterson #6; ~Haight #2
+P_IP: ~Patterson #8; ~Haight #9
+P_HP: ~Haight
+P_WP: 
+P_BK: 
+F_DP: Johnson, Horrill, Short
+F_PB: Lindsley
+outsatend: 
+T: 1:45
+U: S. Fowler; Abbott
+
+P_GS: 
+P_GF: 
+P_W: ~Haight
+P_L: ~Patterson
+P_SV: 
+
+---
+
+date: 1910-07-16
+number: 0
+league: Central Kansas
+away: Manhattan
+home: Concordia
+source: Concordia Blade-Empire Jul 18, 1910
+
+Manhattan:		ab r h po a e
+Strong @ cf:	5 0 1 2 0 0
+Pierce @ 2b:	5 0 1 3 7 0
+Rennard @ rf:	5 0 3 0 0 0
+Murie @ 1b:		4 0 0 20 1 0
+Parks @ lf:		5 0 0 0 0 0
+Lindsley @ c:	5 0 0 5 0 0
+Bond @ 3b:		4 1 1 1 4 0
+Strohm @ ss:	4 0 0 0 2 1
+Gober @ p:		4 0 0 14 5 1
+TOTALS:			41 1 6 35 19 2
+
+Concordia:		ab r h po a e
+Short @ ss:		6 0 2 4 6 2
+Horrill @ 1b:	5 1 2 15 1 0
+Johnson @ 3b:	4 0 0 0 4 1
+Sutton @ 2b:	5 0 1 2 3 1
+Dail @ rf:		5 0 1 2 0 0
+Ramsey @ lf:	4 0 2 0 0 1
+Chapman @ cf:	5 0 1 2 0 0
+Fowler,J. @ c:	4 1 0 10 7 0
+Fowler,S. @ p:	5 0 0 1 8 0
+TOTALS:			43 2 9 36 29 5
+
+line: Manhattan: 0 0 0 0 0 0 0 0 0 0 1 0 - 1
+line: Concordia: 0 0 0 0 0 0 0 0 0 0 1 1 - 2
+
+B_LOB: 
+B_ROE: Manhattan #5; Concordia #12
+B_ER: Manhattan #0; Concordia #2
+B_2B: Short; Sutton
+B_3B: 
+B_HR: 
+B_SB: Rennard #2; Parks; Short; Ramsey; J. Fowler
+B_SH: Murie
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Gober #1; S. Fowler #0
+P_SO: Gober #5; S. Fowler #10
+P_H: ~Gober #9; ~S. Fowler #6
+P_IP: ~Gober #12; ~S. Fowler #12
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Gober, Pierce, Murie
+F_PB: Lindsley; J. Fowler
+outsatend: 
+T: 2:20
+U: Graham
+
+P_GS: 
+P_GF: 
+P_W: ~S. Fowler
+P_L: ~Gober
+P_SV: 
+
+---
+

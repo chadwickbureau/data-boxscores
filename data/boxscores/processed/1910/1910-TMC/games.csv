@@ -1,5 +1,14 @@
-key,date,number,league,phase,site,away,away.score,away.manager,home,home.score,home.manager,A,T,forfeit.to,status,status.reason,outsatend,filename,source,away.score.1,away.score.2,away.score.3,away.score.4,away.score.5,away.score.6,away.score.7,away.score.8,away.score.9,home.score.1,home.score.2,home.score.3,home.score.4,home.score.5,home.score.6,home.score.7,home.score.8,home.score.9
-VCCGBCV,1910-06-14,0,Central Kansas,regular,,Junction City,1,,Manhattan,5,,,1:22,,final,,,1910/1910-TMC/TMC-19100613.txt,"The Morning Chronicle Jun 15, 1910",0,1,0,0,0,0,0,0,0,1,2,0,0,0,1,0,1,x
-TYJBKLL,1910-06-16,0,Central Kansas,regular,,Manhattan,5,,Clay Center,9,,,1:30,,final,,,1910/1910-TMC/TMC-19100613.txt,"The Morning Chronicle Jun 17, 1910",,,,,,,,,,,,,,,,,,
-WYHCJKG,1910-06-17,0,Central Kansas,regular,,Manhattan,2,,Clay Center,6,,,1:35,,final,,,1910/1910-TMC/TMC-19100613.txt,"The Morning Chronicle Jun 18, 1910",0,0,0,0,0,0,1,0,1,0,3,1,0,0,0,0,2,x
-QWWVKRX,1910-06-18,0,Central Kansas,regular,,Manhattan,2,,Clay Center,3,,,1:30,,final,,,1910/1910-TMC/TMC-19100613.txt,"The Morning Chronicle Jun 20, 1910",0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,2,x
+key,date,number,league,phase,site,away,away.score,away.manager,home,home.score,home.manager,A,T,forfeit.to,status,status.reason,outsatend,filename,source,away.score.1,away.score.2,away.score.3,away.score.4,away.score.5,away.score.6,away.score.7,away.score.8,away.score.9,away.score.10,home.score.1,home.score.2,home.score.3,home.score.4,home.score.5,home.score.6,home.score.7,home.score.8,home.score.9
+VCCGBCV,1910-06-14,0,Central Kansas,regular,,Junction City,1,,Manhattan,5,,,1:22,,final,,,1910/1910-TMC/TMC-19100613.txt,"The Morning Chronicle Jun 15, 1910",0,1,0,0,0,0,0,0,0,,1,2,0,0,0,1,0,1,x
+TYJBKLL,1910-06-16,0,Central Kansas,regular,,Manhattan,5,,Clay Center,9,,,1:30,,final,,,1910/1910-TMC/TMC-19100613.txt,"The Morning Chronicle Jun 17, 1910",,,,,,,,,,,,,,,,,,,
+WYHCJKG,1910-06-17,0,Central Kansas,regular,,Manhattan,2,,Clay Center,6,,,1:35,,final,,,1910/1910-TMC/TMC-19100613.txt,"The Morning Chronicle Jun 18, 1910",0,0,0,0,0,0,1,0,1,,0,3,1,0,0,0,0,2,x
+QWWVKRX,1910-06-18,0,Central Kansas,regular,,Manhattan,2,,Clay Center,3,,,1:30,,final,,,1910/1910-TMC/TMC-19100613.txt,"The Morning Chronicle Jun 20, 1910",0,0,0,0,0,2,0,0,0,,0,0,0,0,1,0,0,2,x
+QZFLYYX,1910-07-18,0,Central Kansas,regular,,Salina,1,,Manhattan,2,,,1:30,,final,,,1910/1910-TMC/TMC-19100718.txt,"The Morning Chronicle Jul 19, 1910",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,x
+YGHPHFF,1910-07-19,0,Central Kansas,regular,,Salina,3,,Manhattan,0,,,1:30,,final,,,1910/1910-TMC/TMC-19100718.txt,"The Morning Chronicle Jul 20, 1910",0,0,1,2,0,0,0,0,0,,0,0,0,0,0,0,0,0,0
+XHDSZQK,1910-07-20,0,Central Kansas,regular,,Salina,7,,Manhattan,8,,,2:10,,final,,,1910/1910-TMC/TMC-19100718.txt,"The Morning Chronicle Jul 21, 1910",0,0,1,0,1,0,1,4,0,,1,0,0,5,0,0,2,0,x
+VZXVDKV,1910-07-21,1,Central Kansas,regular,,Ellsworth,4,,Manhattan,5,,,,,final,,,1910/1910-TMC/TMC-19100718.txt,"The Morning Chronicle Jul 22, 1910",,,,,,,,,,,,,,,,,,,
+YRNGLYZ,1910-07-21,2,Central Kansas,regular,,Ellsworth,7,,Manhattan,3,,,,,final,,,1910/1910-TMC/TMC-19100718.txt,"The Morning Chronicle Jul 21, 1910",,,,,,,,,,,,,,,,,,,
+DSPSCDN,1910-07-22,1,Central Kansas,regular,,Ellsworth,2,,Manhattan,1,,,1:40,,final,,,1910/1910-TMC/TMC-19100718.txt,"The Morning Chronicle Jul 23, 1910",,,,,,,,,,,,,,,,,,,
+XDMCZRY,1910-07-22,2,Central Kansas,regular,,Ellsworth,7,,Manhattan,1,,,2:38,,final,,,1910/1910-TMC/TMC-19100718.txt,"The Morning Chronicle Jul 23, 1910",0,0,0,0,6,0,0,1,0,,0,0,0,0,0,0,0,1,0
+XQBWVQC,1910-07-23,0,Central Kansas,regular,,Ellsworth,3,,Manhattan,4,,,,,final,,,1910/1910-TMC/TMC-19100718.txt,"The Morning Chronicle Jul 25, 1910",2,0,0,0,0,0,0,1,0,,0,0,3,0,1,0,0,0,x
+XLZZHRN,1910-07-24,0,Central Kansas,regular,,Manhattan,0,,Junction City,2,,,,,final,,,1910/1910-TMC/TMC-19100718.txt,"The Morning Chronicle Jul 25, 1910",0,0,0,0,0,0,0,0,0,,0,0,0,1,0,0,0,1,x

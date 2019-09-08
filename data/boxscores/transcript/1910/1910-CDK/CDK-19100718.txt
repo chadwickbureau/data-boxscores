@@ -1,0 +1,68 @@
+date: 1910-07-19
+number: 0
+league: Central Kansas
+away: Concordia
+home: Junction City
+source: Concordia Daily Kansan Jul 21, 1910
+
+Concordia:		ab r h po a e
+Short @ ss:		4 1 0 4 1 0
+Horrell @ 1b:	4 4 3 10 0 0
+Johnson @ 3b:	4 1 3 1 0 1
+Sutton @ 2b:	3 0 1 2 2 0
+Dail @ rf:		4 0 0 0 0 0
+Ramsey @ lf:	3 0 0 0 0 0
+Chapman @ cf:	4 0 1 1 0 0
+Fowler,J. @ c:	4 0 1 9 0 0
+Fowler,S. @ p:	4 0 0 0 1 0
+Smith @ p:		0 0 0 0 0 1
+TOTALS:			34 6 9 27 4 2
+
+Junction City:	ab r h po a e
+Weller @ 3b:	4 1 3 1 4 0
+Erickson @ lf:	3 0 0 4 0 0
+Bankhead @ 2b:	3 0 0 3 1 1
+McDonald @ rf:	4 0 1 1 0 0
+Alexander @ c:	4 1 2 3 0 0
+Mathian @ cf:	2 1 0 1 0 0
+Woods @ 1b:		3 0 1 12 0 0
+McKenzie @ ss:	3 1 1 2 6 0
+Hinton @ p:		0 0 0 0 0 0
+Kelly @ p:		3 0 0 0 2 0
+TOTALS:			29 3 7 27 13 1
+
+line: Concordia: 2 0 1 2 0 0 1 0 0 - 6
+line: Junction City: 0 1 0 0 0 0 0 2 1 - 4
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Sutton; Johnson; Weller; Horrell
+B_3B: 
+B_HR: Horrell
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Kelly #2; S. Fowler #4
+P_SO: Kelly #3; S. Fowler #6; Short #1
+P_H: ~Kelly #9
+P_IP: ~Hinton #0.1; ~Kelly #8.2
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: Hamlin
+
+P_GS: ~Hinton; ~S. Fowler
+P_GF: ~Kelly; ~Smith
+P_W: ~S. Fowler
+P_L: ~Hinton
+P_SV: ~Smith
+
+---
+
