@@ -470,9 +470,13 @@ def iterate_games(fn):
     lines, and lines which are whitespace only are dropped, creating a
     'canonical' representation of the text.
     """
-    return iter(filter(lambda x: x.strip() != "",
-                       ("\n".join(filter(lambda x: x != "",
-                                         [' '.join(x.strip().split()) for x in fn.open().readlines()]))).split("---\n")))
+    return iter(
+        filter(
+            lambda x: x.strip() != "",
+            ("\n".join(filter(lambda x: x != "",
+                                         [' '.join(x.strip().split()) for x in fn.open().readlines()]))).rstrip("-").split("---\n")
+            )
+        )
 
 def compile_playing(source, games, gamelist, outpath):
     df = pd.concat([pd.DataFrame(list(g.playing.values())) for g in gamelist],
@@ -609,8 +613,8 @@ def compile_umpires(source, umpiring, outpath):
 def process_files(source, inpath, outpath):
     fnlist = [fn for fn in sorted(inpath.glob("*.txt"))
               if fn.name.lower() not in ["readme.txt", "notes.txt"]]
-    if len(fnlist) == 0:
-        print(clr.Fore.RED + ("No files found at '%s'" % inpath) +
+    if not fnlist:
+        print(clr.Fore.RED + f"No files found at '{inpath}'" +
               clr.Fore.RESET)
         sys.exit(1)
     gamelist = [Game.fromtext(g, fn)
