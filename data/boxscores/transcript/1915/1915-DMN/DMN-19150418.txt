@@ -1,0 +1,550 @@
+date: 1915-04-18
+number: 0
+league: Texas
+away: Waco
+home: Dallas
+source: Dallas Morning News, April 19, 1915
+
+Waco:		ab r h po a e
+Hickey @ lf:	3 1 0 3 0 0
+Malmquist @ 2b:	4 1 1 0 2 2
+Tanner @ ss:	3 0 1 3 0 0
+James @ rf:	4 1 3 4 0 0
+Crichlow @ cf:	3 1 1 1 1 0	
+Wohlleben @ 1b:	4 1 1 7 0 0
+Grubb @ 3b:	3 0 0 1 2 0
+Reilly @ c:	3 0 1 8 3 0
+Ashton @ p:	1 1 1 0 1 0
+Ogle @ p:	1 0 0 0 0 0
+*Conwell @ ph:	1 0 0 0 0 0
+Markle @ p:	0 0 0 0 0 0
+TOTALS:		30 6 9 27 9 2
+
+Dallas:		ab r h po a e
+Kellerman @ 2b:	4 1 0 3 3 0
+Ens @ ss:	5 1 1 1 3 2
+Harrison @ rf:	4 2 2 2 0 0
+Crouch @ lf:	3 1 2 2 0 0
+Storch @ cf:	4 0 2 1 0 0
+Brownlow @ 3b:	3 0 0 1 2 1
+Frantz @ 1b:	4 0 2 13 1 0
+Stephens @ c:	4 0 0 4 3 0	
+(~9.1)Sewell @ p:	1 0 0 0 2 0
+(~9.2)+Harber @ ph:	1 0 0 0 0 0
+(~9.4)&Mullins @ ph:	1 0 0 0 0 0
+(~9.3)Bono @ p:	1 0 0 0 2 0
+TOTALS:		35 5 9 27 16 3
+
+*: batted for Ogle in 9th
++: batted for Sewell in 6th
+&: batted for Bono in 9th
+
+line: Waco:   0 0 0 0 0 4 0 1 1 - 6
+line: Dallas: 0 0 0 0 0 3 0 2 0 - 5
+
+B_LOB: Dallas #5; Waco #5
+B_ROE: Waco #3; Dallas #2
+B_2B: James #2; Reilly
+B_HR: Ashton; James
+B_SH: Ashton; Malmquist; Tanner; Grubb; Hickey; Crouch
+P_BB: Sewell #2
+P_SO: Sewell #1; Bono #2; Ashton #2; Ogle #2; Markle #2
+P_H: Ashton #6; Ogle #3; Sewell #6; Bono #3
+P_IP: Ashton #6; Ogle #2; Markle #1; Sewell #6; Bono #3
+P_HP: Ashton #2
+P_WP: Bono
+T: 1:55
+U: Wright
+
+P_GS: ~Ashton; ~Sewell
+P_GF: ~Markle; ~Bono
+P_W: ~Ogle
+P_L: ~Bono
+P_SV: ~Markle
+P_R: ~Ashton #3; ~Ogle #2; ~Sewell #4; ~Bono #2
+
+---
+
+date: 1915-04-18
+number: 0
+league: Texas
+away: San Antonio
+home: Houston
+source: Dallas Morning News, April 19, 1915
+
+San Antonio:	ab r h po a e
+Baggan @ rf:	4 0 2 1 0 0
+Balenti @ ss:	4 0 1 5 1 0
+Love @ 2b:	4 0 0 1 4 0
+Allen, L. @ cf:	4 0 1 2 0 1
+Barr @ lf:	4 0 1 1 0 0
+Snedecor @ 1b:	4 0 0 11 0 0
+Odell @ 3b:	4 0 1 0 3 1
+Burch @ c:	3 0 0 3 4 0
+(~9.1)McCafferty @ p:	0 0 0 0 1 0
+(~9.3)Crum @ p:		1 0 1 0 2 0
+(~9.2)*Nicholson @ ph:	1 0 0 0 0 0 	
+(~9.4)+Knaupp @ ph:	0 1 0 0 0 0
+(~9.5)Davenport @ p:	0 0 0 0 0 0 
+TOTALS:		33 1 6 24 15 2
+
+Houston:	ab r h po a e
+Mowry @ lf:	2 0 1 2 0 0
+Seitz @ 2b:	4 1 1 2 0 0
+Davis @ rf:	4 1 1 3 0 0
+Hille @ ss:	4 1 1 1 3 0
+Frierson @ cf:	2 0 1 3 0 0
+McDonald @ 3b:	4 0 1 1 3 0
+Newnam @ 1b:	4 1 1 10 1 0
+Dodd @ c:	2 0 1 4 0 0
+Edmondson @ p:	3 0 1 1 3 1
+TOTALS:		29 4 9 27 10 1
+
+*: batted for McCafferty in 3rd
++: batted for Crum in 8th
+
+line: San Antonio: 0 0 0 0 0 0 0 1 0 - 1
+line: Houston:     3 1 0 0 0 0 0 0 x - 4
+
+B_LOB: Houston #6; San Antonio #5
+B_3B: Balenti; Seitz; Hille; Baggan
+B_SB: Mowry; Davis; McDonald
+B_SH: Mowry; Frierson; Dodd
+B_HP: Mowry
+P_BB: Crum #1; Edmondson #1
+P_SO: Crum #5; Edmondson #3
+P_H: McCafferty #6; Crum #3
+P_IP: McCafferty #2; Crum #5; Davenport #1
+P_HP: Crum
+P_WP: Edmondson
+T: 1:41
+U: Miller
+
+P_GS: ~McCafferty
+P_GF: ~Davenport
+P_L: ~McCafferty
+P_R: ~McCafferty #4
+
+---
+
+date: 1915-04-18
+number: 0
+league: Texas
+away: Shreveport
+home: Fort Worth
+source: Dallas Morning News, April 19, 1915
+
+Shreveport:	ab r h po a e
+Becker @ rf:	4 0 1 1 0 0
+Rollings @ 2b:	4 0 3 1 6 0
+McElveen @ 3b:	4 0 1 1 2 0 
+Schneider @ 1b:	3 0 1 11 0 0
+Newton @ cf:	4 0 2 3 0 0
+Clapp @ lf:	4 0 0 2 0 0	
+Durkin @ ss:	4 0 1 0 1 1
+Toland @ c:	3 0 1 5 0 0
+Hendrix @ p:	2 0 0 0 2 0
+TOTALS:		32 0 9 24 11 1
+
+Fort Worth:	ab r h po a e
+Stow @ ss:	4 0 0 5 2 0
+Atz @ 2b:	4 0 0 1 7 0
+McIver @ rf:	4 0 2 1 1 0
+Hunter @ 1b:	4 0 1 10 1 0
+McChesney @ lf:	3 1 0 3 3 0
+Harper @ cf:	3 0 0 2 0 0 
+McMurray @ c:	3 1 1 5 3 0
+Kneaves @ 3b:	3 1 2 0 0 0
+Fentress @ p:	3 0 1 0 0 0
+TOTALS:		31 3 7 27 17 0
+
+line: Shreveport: 0 0 0 0 0 0 0 0 0 - 0
+line: Fort Worth: 0 2 0 0 0 0 1 0 x - 3
+
+B_2B: McIver; Hunter
+B_3B: Kneaves
+B_SB: McElveen; Newton
+P_BB: Fentress #2
+P_SO: Fentress #4; Hendrix #3
+F_DP: Hendrix, Rollings, Schneider
+T: 1:35
+U: Hayes; Akin
+
+---
+
+date: 1915-04-18
+number: 0
+league: Texas
+away: Beaumont
+home: Galveston
+source: Dallas Morning News, April 19, 1915
+
+Beaumont:	ab r h po a e
+(~1.1)Bobo @ c:	4 0 0 6 1 1
+Nixon @ cf:	4 0 1 6 0 0
+Clark @ lf:	4 0 2 1 0 0
+Cooke @ 1b:	3 0 0 5 0 0
+Dodd @ 2b:	4 0 1 2 1 0
+Howard @ rf:	3 0 0 0 0 0	
+McMahon @ 3b:	3 0 1 1 1 0
+(~8.1)McGee @ ss:	2 0 0 1 0 0
+Martina @ p:	3 0 0 0 2 1
+(~8.2)*Robinson @ ph:	0 0 0 0 0 0
+(~1.2)Carson @ c:	1 0 0 2 0 0	
+TOTALS:		31 0 5 24 5 2
+
+Galveston:	ab r h po a e
+Madden @ rf:	3 2 2 0 0 0
+Smith @ 3b:	4 0 0 0 2 1
+Tarleton @ 1b:	3 0 1 14 1 0
+Baerwald @ lf:	3 0 1 4 0 0
+Watson @ 2b:	4 2 2 0 4 0
+Johnson @ cf:	3 0 1 2 0 0
+Summers @ ss:	4 1 0 0 2 0
+Dilger @ c:	4 1 2 6 0 0
+Barfoot @ p:	2 0 0 1 7 0
+TOTALS:		30 6 9 27 16 1
+
+*: batted for McGee in 7th
+
+line: Beaumont:  0 0 0 0 0 0 0 0 0 - 0
+line: Galveston: 1 0 0 1 0 0 3 1 x - 6
+
+B_LOB: Beaumont #8; Galveston #5
+B_2B: Madden #2; Clark; Dodd; Tarleton
+B_SB: Watson #3; Nixon; Martina
+B_SH: Cooke; McMahon; Barfoot
+B_SF: Tarleton
+P_BB: Barfoot #2; Martina #1
+P_SO: Barfoot #6; Martina #8
+P_WP: Martina
+T: 1:38
+U: Moore; Robinson; Carson
+
+---
+
+date: 1915-04-18
+number: 0
+league: Western Association
+away: Sherman
+home: Paris 
+source: Dallas Morning News, April 19, 1915
+
+Sherman:	ab r h po a e
+Weber @ 2b:	3 0 1 1 2 1
+Sorey @ ss:	4 0 0 1 2 1
+Milam @ cf:	4 1 2 3 0 0
+Gardner @ 3b:	1 0 1 0 1 0
+Trammell @ 1b:	2 0 1 10 0 0	
+O'Neal @ rf:	3 0 0 2 0 0
+St. John @ lf:	4 0 1 3 0 0
+Adams @ c:	3 0 1 1 0 0
+Weeks @ p:	3 0 0 1 4 0
+TOTALS:		27 1 7 22 10 2
+
+Paris:		ab r h po a e
+Carey @ 3b:	4 0 2 1 1 0
+Mathis @ 1b:	4 0 0 8 2 0  
+Nagle @ rf:	4 0 2 3 0 0
+Clark @ cf:	1 1 1 1 0 0
+Thompson @ ss:	2 0 1 3 3 0
+Workman @ lf:	4 1 0 1 0 0
+Snapp @ 2b:	3 0 0 3 2 0
+Dunn @ c:	4 1 3 7 0 0
+Daniels @ p:	3 0 0 0 3 0
+TOTALS:		29 3 9 27 11 0
+
+line: Sherman: 0 0 0 0 0 1 0 0 0 - 1
+line: Paris:   0 0 1 0 0 0 0 2 x - 3
+
+B_LOB: Paris #9; Sherman #10
+B_2B: Carey; Clark; Dunn
+B_SB: Nagle; Thompson
+B_SH: Clark #2; Snapp; Daniels; Sorey; Gardner; Trammell
+B_HP: Adams
+B_XO: Carey, bunting third strike; Thompson, not touching third base
+P_BB: Daniels #5; Weeks #3
+P_SO: Daniels #7
+P_HP: Daniels
+F_DP: Carey, Mathis, Carey; Milam, Adams, Weber 
+T: 1:40
+U: Pontius
+
+---
+
+date: 1915-04-18
+number: 0
+league: Western Association
+away: Oklahoma City
+home: Tulsa 
+source: Dallas Morning News, April 19, 1915
+
+Oklahoma City:	ab r h po a e
+King @ lf:	4 1 1 3 0 0
+Maag @ 2b:	4 0 1 3 5 0 
+Dameron @ 1b:	3 0 2 13 0 0
+Hall @ cf:	4 0 0 1 0 0
+Schulte @ rf:	1 0 0 0 0 1
+Kilduff @ ss:	4 0 0 1 4 0	
+Dupuy @ 3b:	3 0 0 0 1 1
+Dowie @ c:	3 0 0 3 1 0
+Gearhart @ p:	3 1 1 0 4 0
+TOTALS:		29 2 5 24 15 2
+
+Tulsa:		ab r h po a e
+Morris @ ss:	4 0 1 2 5 0
+Burke @ rf:	4 1 1 2 0 0
+Kelsey @ c:	4 1 1 8 2 0 
+Price @ 1b:	3 0 1 9 0 0
+Franklin @ cf:	2 1 1 1 0 0
+Hopper @ lf:	3 0 1 1 0 1
+Gourley @ 3b:	2 1 1 2 1 0
+Kenney @ 2b:	2 0 0 2 1 0
+Jones @ p:	3 0 0 0 2 0
+TOTALS:		27 4 7 27 11 1
+
+line: Oklahoma City: 0 0 0 0 0 0 0 0 2 - 2
+line: Tulsa:         3 0 0 0 0 0 1 0 x - 4
+
+B_LOB: Tulsa #2; Oklahoma City #2
+B_2B: Gearhart
+B_HR: Price; Franklin
+B_SB: Schulte; Morris; Franklin
+B_SH: Kenney
+P_BB: Gearhart #1; Jones #1
+P_SO: Gearhart #2; Jones #6
+F_DP: Gourley, Kenney, Price
+T: 1:40
+U: Womack
+
+---
+
+date: 1915-04-18
+number: 0
+league: Western Association
+away: Fort Smith 
+home: Muskogee
+source: Dallas Morning News, April 19, 1915
+
+Fort Smith:	ab r h po a e
+McCarty @ 2b:	6 1 3 2 1 0
+Leininger @ ss:	5 2 1 1 3 0
+Robinson [FS] @ lf:	5 3 3 2 0 0
+Sweeney @ rf:	5 3 3 2 2 0
+Moseley @ 1b:	4 2 2 5 2 1
+Corgan @ 3b:	5 0 1 2 1 1 
+Abington @ cf:	5 0 1 4 0 0	
+Schultz @ c:	4 0 1 8 1 0
+Zinn @ p:	4 0 0 1 0 0
+TOTALS:		43 11 15 27 10 2
+
+Muskogee:	ab r h po a e
+Lipps @ cf:	5 0 1 5 1 2
+Coe @ 2b:	3 1 2 1 4 1
+Tacke @ 1b:	3 2 1 12 0 0
+Robinson [MUS] @ 3b:	4 0 1 0 1 0
+Palmer @ ss:	5 0 0 2 4 0
+Patterson @ lf:	4 0 2 1 0 0
+Glass @ rf:	4 0 0 1 0 0
+Brown @ c:	4 0 0 4 0 0
+Williams @ p:	0 0 0 0 0 0	
+Morgan @ p:	3 0 1 1 1 1
+TOTALS:		36 3 8 27 11 4
+
+line: Fort Smith: 5 4 0 0 0 1 0 1 0 - 11
+line: Muskogee:   2 0 1 0 0 0 0 0 0 - 3
+
+B_LOB: Muskogee #12; Fort Smith #9
+B_2B: Robinson [FS]; Patterson
+B_HR: McCarty; Moseley; Sweeney
+B_SB: Corgan; McCarty
+B_SH: Moseley
+B_HP: Tacke; Robinson [MUS]
+P_BB: Zinn #5; Williams #1; Morgan #2
+P_SO: Zinn #6; Williams #1; Morgan #2
+P_H: Williams #5; Morgan #10
+P_IP: Williams #1; Morgan #8
+P_HP: Zinn #2
+F_DP: Lipps, Brown
+F_PB: Brown
+T: 1:55
+U: Morgan
+
+P_GS: ~Williams
+P_GF: ~Morgan
+P_L: ~Williams
+P_R: ~Williams #5; ~Morgan #6
+
+---
+
+date: 1915-04-18
+number: 0
+league: Western Association
+away: McAlester
+home: Denison 
+source: Dallas Morning News, April 19, 1915
+
+McAlester:	ab r h po a e
+Stout @ cf:	4 0 1 1 0 0 
+Shelton @ ss:	3 0 0 1 7 1
+Eden @ 2b:	3 0 0 1 2 1
+Nickel @ lf:	4 0 0 3 0 0
+Besse @ 1b:	4 2 2 13 0 0
+Heatley @ rf:	4 1 1 2 0 0	
+Lawrence @ 3b:	4 1 1 0 2 0
+Ketter @ c:	4 1 1 3 2 0
+Shinn @ p:	1 0 0 0 2 1
+*Fowler @ ph:	1 0 0 0 0 0 
+TOTALS:		32 5 6 24 15 3
+
+Denison:	ab r h po a e
+Harper @ 2b:	5 0 0 2 2 0
+Merritt @ c:	4 1 1 4 0 0
+Hornsby @ ss:	3 1 2 0 4 0
+Campbell @ lf:	4 1 1 1 0 0
+Brooks @ 3b:	5 1 1 0 2 1
+Peebles @ rf:	3 1 1 1 0 0
+Robinson @ cf:	1 2 0 5 1 0
+Hellman @ 1b:	2 1 1 12 2 0
+Myers @ p:	3 0 0 2 4 0
+Neeley @ p:	1 1 1 0 0 0
+TOTALS:		31 9 8 27 15 1
+
+*: batted for Shinn in 9th
+
+line: McAlester: 0 1 0 1 0 0 3 0 0 - 5
+line: Denison:   5 0 0 0 0 0 0 4 x - 9
+
+B_LOB: Denison #8; McAlester #4
+B_2B: Heatley
+B_HR: Besse #2; Merritt; Neeley
+B_SB: Hornsby #2; Campbell; Brooks; Robinson
+B_SH: Hornsby; Peebles; Robinson
+P_BB: Myers #4; Shinn #7
+P_SO: Myers #3; Neeley #1; Shinn #2
+P_H: Myers #6
+P_IP: Myers #7; Neeley #2
+P_WP: Shinn
+F_DP: Hornsby, Harper, Hellman
+T: 2:00
+U: Spence
+
+P_GS: ~Myers
+P_GF: ~Neeley
+P_W: ~Neeley
+P_R: ~Myers #5
+
+---
+
+date: 1915-04-18
+number: 0
+league: Middle Texas
+away: Belton
+home: Temple 
+source: Dallas Morning News, April 19, 1915
+
+Belton:		ab r h po a e
+Williamson @ rf:	6 1 1 3 0 0
+Edmunds @ 3b:	4 1 0 1 2 0
+Lawson @ 2b:	6 1 2 7 2 1
+Kizziar @ 1b:	5 0 1 10 0 0
+Fenner, J. @ cf:	5 1 1 3 0 0
+Hovel @ ss:	5 1 0 2 4 2
+Fenner, C. @ lf:	5 1 2 1 0 0
+Naylor @ c:	6 0 2 11 0 0
+Gaines @ p:	5 0 1 1 4 0
+TOTALS:		47 6 10 39 12 3
+
+Temple:		ab r h po a e
+Darnaby @ cf:	5 0 1 7 0 0
+Albus @ ss:	6 1 2 4 2 0
+Allison @ rf:	6 0 1 3 0 0
+Osborne @ 1b:	5 0 1 11 0 0
+Reed @ 3b:	4 1 0 0 3 1
+Schafer @ c:	6 1 2 8 0 0
+Disharom @ 2b:	4 0 0 1 2 0
+Scoggins @ lf:	5 0 1 5 0 0
+Anderson @ p:	4 0 0 0 2 0
+*Angel @ ph:	1 0 0 0 0 0
++Bassler @ ph:	1 0 0 0 0 0
+TOTALS:		47 3 8 39 9 1
+
+*: batted for Reed in 13th
++: batted for Disharom in 13th
+
+line: Belton: 0 0 0 1 1 0 0 1 0 0 0 0 3 - 6
+line: Temple: 0 0 0 0 0 1 0 2 0 0 0 0 0 - 3
+
+B_2B: Naylor; Darnaby
+B_HR: Schafer
+B_SB: Allison
+B_SH: Edmunds; Disharom #2; Anderson; Kizziar
+P_BB: Anderson #4; Gaines #3
+P_SO: Anderson #6; Gaines #9
+P_WP: Anderson; Gaines
+F_DP: Disharom, Albus, Osborne
+F_PB: Schafer
+T: 2:35
+U: Mannery
+
+---
+
+date: 1915-04-18
+number: 0
+league: Middle Texas
+away:  Schulenburg
+home: Brenham [I]
+source: Dallas Morning News, April 19, 1915
+
+Schulenburg:	ab r h po a e
+Allen @ cf:	5 0 4 1 0 0
+Robinson @ lf:	4 0 0 1 0 0
+Young @ 1b:	4 0 1 9 0 0
+Showers @ 3b:	4 1 0 1 1 0
+Boykin @ rf:	4 1 1 3 0 0
+Durr @ c:	3 1 1 6 2 0
+Davis @ 2b:	3 2 1 3 3 1
+Huber @ ss:	4 1 2 3 4 0
+Smith @ p:	4 0 0 0 1 0
+TOTALS:		35 6 10 27 11 1
+
+Brenham [I]:	ab r h po a e
+Prestwood @ cf:	4 0 1 1 0 0
+White @ 2b:	3 0 0 1 3 0
+Woessner @ 1b:	4 0 2 10 0 0
+Roach @ lf:	4 0 0 3 0 0
+Erwin @ rf-c:	4 0 0 2 0 0
+Wicks @ 3b:	3 1 1 1 0 0
+Barrett @ ss:	3 0 1 2 0 1
+(~8.1)Scott @ c:	2 0 0 5 1 0
+Haislip @ p:	3 0 0 0 5 1
+(~8.2)Tietze @ rf:	1 0 1 3 0 0
+TOTALS:		31 1 6 27 9 2
+
+line: Schulenburg: 0 1 0 0 3 2 0 0 0 - 6
+line: Brenham [I]: 0 0 0 0 1 0 0 0 0 - 1
+
+B_LOB: Brenham [I] #4; Schulenburg #5
+B_2B: Woessner; Allen
+B_3B: Boykin; Wicks; Huber
+B_SB: Barrett; Showers; Davis; Allen #2
+B_SH: Robinson
+B_SF: Durr
+B_HP: Davis
+P_BB: Smith #1
+P_SO: Smith #6; Haislip #5
+P_HP: Haislip
+P_WP: Smith
+T: 1:55
+U: Estil
+
+---
+
+date: 1915-04-18
+number: 0
+league: Middle Texas
+away: Bartlett
+home: Austin 
+status: postponed
+status-reason: rain
+source: Dallas Morning News, April 19, 1915
