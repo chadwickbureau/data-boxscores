@@ -6,7 +6,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1912,Dallas Commercial League,regular,P2320915,Jordan,,1912-04-27,1912-04-27,1
 1912,Dallas Commercial League,regular,P1486426,Pondrum,,1912-04-27,1912-04-27,1
 1912,Dallas Commercial League,regular,P8455382,Wilkins,,1912-05-04,1912-05-04,1
-1912,South Central League,regular,P4333168,Allen,,1912-05-08,1912-05-08,1
+1912,South Central League,regular,P4333168,Allen,,1912-05-08,1912-05-09,2
 1912,South Central League,regular,P3707252,Broadus,,1912-05-03,1912-05-03,1
 1912,South Central League,regular,P0509056,Bryan,,1912-04-23,1912-05-08,13
 1912,South Central League,regular,P9918132,Bryant,,1912-05-05,1912-05-05,1
@@ -17,6 +17,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1912,South Central League,regular,P5653592,Harbin,,1912-05-06,1912-05-06,1
 1912,South Central League,regular,P2164431,Kittrell,,1912-05-02,1912-05-02,1
 1912,South Central League,regular,P1471891,Marraine,,1912-05-01,1912-05-06,2
+1912,South Central League,regular,P4597078,Pernell,,1912-05-09,1912-05-09,1
 1912,South Central League,regular,P6007182,Roberson,,1912-05-05,1912-05-05,1
 1912,South Central League,regular,P8833410,Robertson,,1912-04-23,1912-05-07,5
 1912,South Central League,regular,P2482045,Robertson,Jimmie,1912-04-25,1912-04-25,1
@@ -24,14 +25,14 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1912,South Central League,regular,P7150619,Rowland,,1912-05-06,1912-05-06,1
 1912,South Central League,regular,P8417489,Schultz,,1912-05-01,1912-05-01,1
 1912,South Central League,regular,P6295412,Welgeht,,1912-04-24,1912-04-24,1
-1912,South Central League,regular,P4042009,Wright,,1912-04-26,1912-05-08,12
+1912,South Central League,regular,P4042009,Wright,,1912-04-26,1912-05-09,13
 1912,Texas League,regular,P0939799,Ansickle,,1912-04-14,1912-04-14,1
-1912,Texas League,regular,P6058015,Brady,,1912-04-12,1912-05-07,26
-1912,Texas League,regular,P5818559,Jacobs,,1912-04-12,1912-05-08,26
-1912,Texas League,regular,P1611835,Newhouse,,1912-04-12,1912-05-08,25
+1912,Texas League,regular,P6058015,Brady,,1912-04-12,1912-05-09,27
+1912,Texas League,regular,P5818559,Jacobs,,1912-04-12,1912-05-09,27
+1912,Texas League,regular,P1611835,Newhouse,,1912-04-12,1912-05-09,26
 1912,Texas League,regular,P8036717,Van Sickle,,1912-04-13,1912-04-13,1
 1912,Texas League,regular,P5796093,Van Syckle,,1912-04-18,1912-05-08,18
-1912,Texas League,regular,P9978733,Vansickle,,1912-04-12,1912-05-07,2
+1912,Texas League,regular,P9978733,Vansickle,,1912-04-12,1912-05-09,3
 1912,Texas League,regular,P7738109,Vansyckle,,1912-04-17,1912-04-30,2
 1912,Texas League,regular,P4926471,Wilkenson,,1912-04-17,1912-04-17,1
 1912,Texas League,regular,P9833739,Wilkerson,,1912-05-06,1912-05-07,2
@@ -39,17 +40,17 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1912,Texas League,regular,P6866315,Wilkinson,,1912-04-12,1912-05-03,20
 1912,Texas League,regular,P2915116,Williamson,,1912-04-14,1912-04-23,2
 1912,Texas-Oklahoma League,regular,P6314982,Arnold,,1912-05-05,1912-05-05,1
-1912,Texas-Oklahoma League,regular,P4252854,Folsom,,1912-04-25,1912-05-08,13
+1912,Texas-Oklahoma League,regular,P4252854,Folsom,,1912-04-25,1912-05-09,14
 1912,Texas-Oklahoma League,regular,P6159238,Jegglin,,1912-04-25,1912-04-27,3
 1912,Texas-Oklahoma League,regular,P1196368,Jogglin,,1912-04-28,1912-04-30,2
 1912,Texas-Oklahoma League,regular,P0562295,Joggling,,1912-04-29,1912-04-29,1
 1912,Texas-Oklahoma League,regular,P4638091,Kerlin,,1912-04-28,1912-04-28,1
 1912,Texas-Oklahoma League,regular,P8089611,Miller,,1912-05-02,1912-05-02,1
-1912,Texas-Oklahoma League,regular,P8972381,Mulkey,,1912-04-29,1912-05-07,8
+1912,Texas-Oklahoma League,regular,P8972381,Mulkey,,1912-04-29,1912-05-09,9
 1912,Texas-Oklahoma League,regular,P7853369,Mulkey,Cy,1912-04-25,1912-04-27,3
 1912,Texas-Oklahoma League,regular,P6629018,Mullay,,1912-05-03,1912-05-03,1
-1912,Texas-Oklahoma League,regular,P0861387,Murphy,,1912-04-25,1912-05-08,11
+1912,Texas-Oklahoma League,regular,P0861387,Murphy,,1912-04-25,1912-05-09,12
 1912,Texas-Oklahoma League,regular,P0807984,Pate,,1912-04-28,1912-04-28,1
 1912,Texas-Oklahoma League,regular,P4671878,Reed,,1912-04-28,1912-04-28,1
 1912,Texas-Oklahoma League,regular,P5963546,Spenger,,1912-04-28,1912-04-28,1
-1912,Texas-Oklahoma League,regular,P2825161,West,,1912-04-29,1912-05-08,10
+1912,Texas-Oklahoma League,regular,P2825161,West,,1912-04-29,1912-05-09,11
