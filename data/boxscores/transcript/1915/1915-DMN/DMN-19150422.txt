@@ -1,0 +1,193 @@
+date: 1915-04-22
+number: 0
+league: Texas
+away: Beaumont
+home: Houston
+source: Dallas Morning News, April 23, 1915
+
+Beaumont:	ab r h po a e
+Clark @ lf:	4 0 0 1 0 0
+Nixon @ cf:	3 0 1 1 0 0
+Cooke @ 1b:	3 0 0 9 1 0 
+Dodd @ 2b:	3 0 0 2 2 0
+Howard @ rf:	3 0 0 0 0 0	
+McMahon @ 3b:	3 0 0 1 2 0
+McGee @ ss:	3 0 1 2 1 0
+Carson @ c:	3 0 1 6 1 0
+Taff @ p:	2 0 0 2 2 1
+*Robinson @ ph:	1 0 0 0 0 0
+TOTALS:		28 0 3 24 9 1
+
+Houston:	ab r h po a e
+Mowry @ lf:	3 0 2 5 0 0 
+Seitz @ 2b:	3 0 1 2 4 0
+Davis @ rf:	4 0 2 4 0 0
+Hille @ ss:	4 0 1 0 3 0
+Frierson @ cf:	4 0 0 2 0 0
+McDonald @ 3b:	4 1 1 1 3 0
+Newnam @ 1b:	2 1 0 12 1 0
+Allen @ c:	2 1 1 1 0 0
+Rose @ p:	3 0 0 0 5 0
+TOTALS:		29 3 8 27 16 0
+
+*: batted for Taff in 9th
+
+line: Beaumont: 0 0 0 0 0 0 0 0 0 - 0
+line: Houston:  0 0 0 0 3 0 0 0 x - 3
+
+B_LOB: Beaumont #1; Houston #5
+B_2B: Seitz
+B_SB: Mowry; Davis #2; Hille; McDonald
+B_SH: Mowry; Seitz; Allen
+P_BB: Taff #1
+P_SO: Taff #6; Rose #1
+F_DP: Hille, Seitz, Newnam
+T: 1:17
+U: Miller
+
+---
+
+date: 1915-04-22
+number: 0
+league: Texas
+away: Shreveport
+home: Dallas
+status: postponed
+status-reason: rain
+source: Dallas Morning News, April 23, 1915
+
+---
+
+date: 1915-04-22
+number: 0
+league: Texas
+away: San Antonio
+home: Galveston
+status: postponed
+status-reason: rain
+source: Dallas Morning News, April 23, 1915
+
+---
+
+date: 1915-04-22
+number: 0
+league: Texas
+away: Waco
+home: Fort Worth
+status: postponed
+status-reason: rain
+source: Dallas Morning News, April 23, 1915
+
+---
+
+date: 1915-04-22
+number: 0
+league: Western Association
+away: Tulsa 
+home: Paris
+source: Dallas Morning News, April 23, 1915
+status: completed early, rain
+
+Tulsa:		ab r h po a e
+Morris @ ss:	2 0 1 0 2 0
+Burke @ rf:	3 1 1 2 0 0
+Kelsey @ c:	3 1 1 4 0 1
+Price @ 1b:	2 0 1 6 0 0
+Franklin @ cf:	3 0 0 1 1 0
+Hopper @ lf:	2 0 0 2 0 0
+Gourley @ 3b:	1 0 0 1 1 0
+Kenney @ 2b:	2 0 0 2 2 0
+Jones @ p:	2 0 0 0 1 0
+TOTALS:		20 2 4 18 7 1
+
+Paris:		ab r h po a e
+Carey @ 3b:	3 0 1 1 5 0
+Mathis @ 1b:	2 0 1 8 0 0  
+Nagle @ rf:	2 0 1 0 0 0
+Clark @ cf:	3 1 1 0 0 0
+Thompson @ 2b:	2 1 0 3 0 0
+Workman @ lf:	3 0 1 2 0 0
+Gross @ ss:	3 0 1 1 1 1
+Dunn @ c:	3 0 0 3 1 0
+Younkman @ p:	2 0 0 0 2 0
+TOTALS:		24 2 6 18 9 1
+
+line: Tulsa: 2 0 0 0 0 0 - 2
+line: Paris: 0 0 0 0 0 2 - 2
+
+B_LOB: Tulsa #3; Paris #4
+B_2B: Burke; Carey; Gross
+B_SB: Morris
+B_SF: Price
+P_BB: Younkman #3; Jones #3
+F_DP: Gross, Thompson; Mathis
+T: 1:10
+U: Pontius
+
+---
+
+date: 1915-04-22
+number: 0
+league: Western Association
+away: Muskogee
+home: Sherman
+status: postponed
+status-reason: rain
+source: Dallas Morning News, April 23, 1915
+
+---
+
+date: 1915-04-22
+number: 0
+league: Western Association
+away: Fort Smith
+home: McAlester
+status: postponed
+status-reason: rain
+source: Dallas Morning News, April 23, 1915
+
+---
+
+date: 1915-04-22
+number: 0
+league: Western Association
+away: Oklahoma City
+home: Denison
+status: postponed
+status-reason: rain
+source: Dallas Morning News, April 23, 1915
+
+---
+
+date: 1915-04-22
+number: 0
+league: Middle Texas
+away: Temple
+home: Austin
+status: postponed
+status-reason: rain
+source: Dallas Morning News, April 23, 1915
+
+---
+
+date: 1915-04-22
+number: 0
+league: Middle Texas
+away: Brenham [I]
+home: Belton
+status: postponed
+status-reason: rain
+source: Dallas Morning News, April 23, 1915
+
+---
+
+date: 1915-04-22
+number: 0
+league: Middle Texas
+away: Schulenburg
+home: Bartlett
+status: postponed
+status-reason: rain
+source: Dallas Morning News, April 23, 1915
+
+

@@ -91,416 +91,471 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,Dallas Commercial League,regular,P7156794,Wilson,,Post Office,1915-04-17,1915-04-17,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Dallas Commercial League,regular,P3899174,Young,,Magnolia,1915-04-10,1915-04-17,2,0,0,1,2,0,0,0,0,0,0,0
 1915,Middle Texas League,regular,P0997523,Albers,,Temple,1915-04-15,1915-04-15,1,0,0,0,1,0,0,0,0,0,0,0
-1915,Middle Texas League,regular,P4586257,Albus,,Temple,1915-04-16,1915-04-19,4,0,0,0,2,2,0,0,0,0,0,0
-1915,Middle Texas League,regular,P2209281,Allen,,Schulenburg,1915-04-15,1915-04-18,4,0,0,0,0,0,4,0,4,0,0,0
-1915,Middle Texas League,regular,P0524748,Allison,,Temple,1915-04-15,1915-04-19,5,0,0,0,0,1,4,0,0,4,0,0
-1915,Middle Texas League,regular,P5518100,Anderson,,Temple,1915-04-18,1915-04-18,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Middle Texas League,regular,P7603201,Angel,,Temple,1915-04-16,1915-04-18,2,1,0,0,0,0,0,0,0,0,0,1
+1915,Middle Texas League,regular,P4586257,Albus,,Temple,1915-04-16,1915-04-24,7,0,0,0,5,2,0,0,0,0,0,0
+1915,Middle Texas League,regular,P4490464,Alison,,Temple,1915-04-24,1915-04-24,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Middle Texas League,regular,P2209281,Allen,,Schulenburg,1915-04-15,1915-04-21,6,0,0,0,0,0,6,0,6,0,0,0
+1915,Middle Texas League,regular,P0524748,Allison,,Temple,1915-04-15,1915-04-21,7,0,0,0,0,1,6,0,0,6,0,0
+1915,Middle Texas League,regular,P5518100,Anderson,,Temple,1915-04-18,1915-04-21,2,1,0,0,0,0,0,0,0,0,0,1
+1915,Middle Texas League,regular,P7603201,Angel,,Temple,1915-04-16,1915-04-24,4,2,0,0,0,0,0,0,0,0,0,2
 1915,Middle Texas League,regular,P8074421,Angel,F.,Temple,1915-04-19,1915-04-19,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Middle Texas League,regular,P2547385,Angel,J.,Temple,1915-04-19,1915-04-19,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Middle Texas League,regular,P1274842,B'stwood,,Brenham [I],1915-04-15,1915-04-15,1,0,0,0,0,0,1,0,1,0,0,0
-1915,Middle Texas League,regular,P7536805,Barrett,,Brenham [I],1915-04-15,1915-04-18,4,0,0,0,0,4,0,0,0,0,0,0
+1915,Middle Texas League,regular,P7536805,Barrett,,Brenham [I],1915-04-15,1915-04-24,7,0,0,0,0,7,0,0,0,0,0,0
 1915,Middle Texas League,regular,P9371622,Bassler,,Temple,1915-04-18,1915-04-18,1,0,0,0,0,0,0,0,0,0,0,0
 1915,Middle Texas League,regular,P5649014,Battle,,Temple,1915-04-15,1915-04-15,1,0,0,0,0,0,1,1,0,0,0,0
-1915,Middle Texas League,regular,P3814224,Bowen,,Schulenburg,1915-04-15,1915-04-17,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Middle Texas League,regular,P7102785,Boykin,,Schulenburg,1915-04-15,1915-04-18,4,0,0,0,0,0,4,0,0,4,0,0
-1915,Middle Texas League,regular,P5604184,Bradley,,Bartlett,1915-04-15,1915-04-19,5,0,2,0,0,0,3,0,0,3,0,0
+1915,Middle Texas League,regular,P4306361,Boessler,,Temple,1915-04-21,1915-04-21,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Middle Texas League,regular,P3814224,Bowen,,Schulenburg,1915-04-15,1915-04-20,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Middle Texas League,regular,P7102785,Boykin,,Schulenburg,1915-04-15,1915-04-21,6,0,0,0,0,0,6,0,0,6,0,0
+1915,Middle Texas League,regular,P5604184,Bradley,,Bartlett,1915-04-15,1915-04-21,7,0,2,0,0,0,5,0,0,5,0,0
+1915,Middle Texas League,regular,P1917348,Burleson,,Temple,1915-04-21,1915-04-24,2,0,0,0,0,0,0,0,0,0,0,0
 1915,Middle Texas League,regular,P4404135,Byrne,,Austin,1915-04-16,1915-04-16,1,0,0,1,0,0,0,0,0,0,0,0
 1915,Middle Texas League,regular,P3711610,Byrnes,,Austin,1915-04-15,1915-04-17,2,0,0,2,0,0,0,0,0,0,0,0
 1915,Middle Texas League,regular,P0997841,Ch'bonet,,Austin,1915-04-15,1915-04-15,1,0,0,0,0,0,1,0,1,0,0,0
 1915,Middle Texas League,regular,P0685950,Charabonet,,Austin,1915-04-16,1915-04-16,1,0,0,0,0,0,1,0,1,0,0,0
-1915,Middle Texas League,regular,P8361309,Charbonet,,Austin,1915-04-17,1915-04-19,3,0,0,0,0,0,3,0,2,1,0,0
-1915,Middle Texas League,regular,P5594797,Cowan,,Bartlett,1915-04-15,1915-04-19,5,0,0,0,0,0,5,0,5,0,0,0
-1915,Middle Texas League,regular,P4019735,Cravenstein,,Bartlett,1915-04-19,1915-04-19,2,0,0,0,0,0,2,2,0,0,0,0
-1915,Middle Texas League,regular,P7213623,Cravenstine,,Bartlett,1915-04-15,1915-04-15,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Middle Texas League,regular,P8361309,Charbonet,,Austin,1915-04-17,1915-04-24,6,0,0,0,0,0,6,0,5,1,0,0
+1915,Middle Texas League,regular,P5594797,Cowan,,Bartlett,1915-04-15,1915-04-21,7,0,0,0,0,0,7,0,7,0,0,0
+1915,Middle Texas League,regular,P6026423,Craig,,Brenham [I],1915-04-24,1915-04-24,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Middle Texas League,regular,P4019735,Cravenstein,,Bartlett,1915-04-19,1915-04-20,3,0,0,0,0,0,3,3,0,0,0,0
+1915,Middle Texas League,regular,P7213623,Cravenstine,,Bartlett,1915-04-15,1915-04-21,2,0,0,0,0,0,2,2,0,0,0,0
 1915,Middle Texas League,regular,P4876571,Crevenstein,,Bartlett,1915-04-17,1915-04-17,1,0,0,0,0,0,1,1,0,0,0,0
 1915,Middle Texas League,regular,P8070459,Crevenstine,,Bartlett,1915-04-16,1915-04-16,1,0,0,0,0,0,1,1,0,0,0,0
 1915,Middle Texas League,regular,P0511540,Crosslin,,Austin,1915-04-15,1915-04-15,1,0,0,0,0,0,0,0,0,0,0,0
-1915,Middle Texas League,regular,P9544562,Crowson,,Austin,1915-04-17,1915-04-17,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Middle Texas League,regular,P9544562,Crowson,,Austin,1915-04-17,1915-04-21,2,2,0,0,0,0,0,0,0,0,0,2
 1915,Middle Texas League,regular,P0634258,Curran,,Austin,1915-04-17,1915-04-17,1,0,0,0,0,0,1,1,0,0,0,0
 1915,Middle Texas League,regular,P9074700,D'hasoom,,Temple,1915-04-15,1915-04-15,1,0,0,1,0,0,0,0,0,0,0,0
 1915,Middle Texas League,regular,P6634669,Dailey,,Schulenburg,1915-04-15,1915-04-17,3,0,0,3,0,0,0,0,0,0,0,0
-1915,Middle Texas League,regular,P8210523,Darnaby,,Temple,1915-04-15,1915-04-19,5,0,0,0,0,0,5,0,5,0,0,0
+1915,Middle Texas League,regular,P3949252,Daley,,Schulenburg,1915-04-20,1915-04-21,2,0,0,2,0,0,0,0,0,0,0,0
+1915,Middle Texas League,regular,P8210523,Darnaby,,Temple,1915-04-15,1915-04-24,8,0,0,0,0,0,8,0,8,0,0,0
 1915,Middle Texas League,regular,P6928339,Darnell,,Brenham [I],1915-04-19,1915-04-19,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Middle Texas League,regular,P0317164,Davis,,Bartlett,1915-04-15,1915-04-19,5,0,3,0,0,2,0,0,0,0,0,0
+1915,Middle Texas League,regular,P0317164,Davis,,Bartlett,1915-04-15,1915-04-21,7,0,5,0,0,2,0,0,0,0,0,0
 1915,Middle Texas League,regular,P0851660,Davis,,Schulenburg,1915-04-18,1915-04-18,1,0,0,1,0,0,0,0,0,0,0,0
-1915,Middle Texas League,regular,P3409176,Deats,,Austin,1915-04-15,1915-04-19,5,0,0,0,0,0,5,4,1,0,0,0
+1915,Middle Texas League,regular,P3409176,Deats,,Austin,1915-04-15,1915-04-24,8,0,0,0,0,0,8,7,1,0,0,0
 1915,Middle Texas League,regular,P1979729,Delafield,,Belton,1915-04-19,1915-04-19,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Middle Texas League,regular,P3629656,Dennis,,Belton,1915-04-15,1915-04-15,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Middle Texas League,regular,P3629656,Dennis,,Belton,1915-04-15,1915-04-21,2,2,0,0,0,0,0,0,0,0,0,2
 1915,Middle Texas League,regular,P7514478,Dishaoom,,Temple,1915-04-16,1915-04-16,1,0,0,1,0,0,0,0,0,0,0,0
-1915,Middle Texas League,regular,P3307825,Disharom,,Temple,1915-04-18,1915-04-19,3,0,0,1,0,2,0,0,0,0,0,0
-1915,Middle Texas League,regular,P8946258,Durr,,Schulenburg,1915-04-15,1915-04-19,5,0,0,0,0,0,0,0,0,0,5,0
+1915,Middle Texas League,regular,P3307825,Disharom,,Temple,1915-04-18,1915-04-24,6,0,0,1,0,5,0,0,0,0,0,0
+1915,Middle Texas League,regular,P8946258,Durr,,Schulenburg,1915-04-15,1915-04-21,7,0,0,0,0,0,0,0,0,0,7,0
+1915,Middle Texas League,regular,P4300657,Edmonds,,Austin,1915-04-24,1915-04-24,1,0,0,0,1,0,0,0,0,0,0,0
 1915,Middle Texas League,regular,P4209953,Edmonds,,Belton,1915-04-16,1915-04-19,2,0,0,0,0,1,0,0,0,0,0,0
 1915,Middle Texas League,regular,P6570855,Edmunds,,Belton,1915-04-18,1915-04-18,1,0,0,0,1,0,0,0,0,0,0,0
-1915,Middle Texas League,regular,P1157814,Erwin,,Brenham [I],1915-04-15,1915-04-19,5,0,0,0,0,0,4,0,0,4,2,0
-1915,Middle Texas League,regular,P9330212,Fagan,,Austin,1915-04-15,1915-04-19,3,2,0,0,0,0,0,0,0,0,0,2
-1915,Middle Texas League,regular,P7723526,Fenner,C.,Belton,1915-04-15,1915-04-19,5,0,0,0,0,0,5,5,0,0,0,0
-1915,Middle Texas League,regular,P8051213,Fenner,J.,Belton,1915-04-15,1915-04-19,5,0,0,0,0,0,5,0,5,0,0,0
-1915,Middle Texas League,regular,P7362492,Flowers,,Temple,1915-04-15,1915-04-15,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Middle Texas League,regular,P8316048,Fruth,,Austin,1915-04-19,1915-04-19,2,0,0,0,0,0,2,0,0,2,0,0
+1915,Middle Texas League,regular,P5179290,Enloe,,Austin,1915-04-20,1915-04-24,3,0,0,0,0,3,0,0,0,0,0,0
+1915,Middle Texas League,regular,P1157814,Erwin,,Brenham [I],1915-04-15,1915-04-24,8,0,0,0,0,0,5,0,0,5,4,0
+1915,Middle Texas League,regular,P9330212,Fagan,,Austin,1915-04-15,1915-04-24,5,3,0,0,0,0,0,0,0,0,0,3
+1915,Middle Texas League,regular,P9175279,Faulkner,,Belton,1915-04-20,1915-04-20,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Middle Texas League,regular,P7723526,Fenner,C.,Belton,1915-04-15,1915-04-24,8,0,0,0,0,0,8,8,0,0,0,0
+1915,Middle Texas League,regular,P8051213,Fenner,J.,Belton,1915-04-15,1915-04-24,8,0,0,0,0,0,8,0,8,0,0,0
+1915,Middle Texas League,regular,P7362492,Flowers,,Temple,1915-04-15,1915-04-20,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Middle Texas League,regular,P8316048,Fruth,,Austin,1915-04-19,1915-04-21,4,0,0,0,0,0,4,0,0,4,0,0
 1915,Middle Texas League,regular,P9957561,Fucich,,Austin,1915-04-15,1915-04-19,2,1,0,0,0,0,0,0,0,0,0,1
-1915,Middle Texas League,regular,P0959054,Gaines,,Belton,1915-04-18,1915-04-18,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Middle Texas League,regular,P1365796,Gober,,Bartlett,1915-04-15,1915-04-19,5,0,0,0,5,0,0,0,0,0,0,0
-1915,Middle Texas League,regular,P2659272,Green,,Belton,1915-04-15,1915-04-16,2,0,0,0,2,0,0,0,0,0,0,0
+1915,Middle Texas League,regular,P0959054,Gaines,,Belton,1915-04-18,1915-04-24,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Middle Texas League,regular,P1365796,Gober,,Bartlett,1915-04-15,1915-04-21,7,0,0,0,7,0,0,0,0,0,0,0
+1915,Middle Texas League,regular,P0247811,Graboske,,Schulenburg,1915-04-21,1915-04-21,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Middle Texas League,regular,P2659272,Green,,Belton,1915-04-15,1915-04-24,5,0,0,0,5,0,0,0,0,0,0,0
 1915,Middle Texas League,regular,P8378285,Greene,,Belton,1915-04-19,1915-04-19,2,0,0,0,2,0,0,0,0,0,0,0
-1915,Middle Texas League,regular,P4403739,Haislip,,Brenham [I],1915-04-15,1915-04-18,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Middle Texas League,regular,P4403739,Haislip,,Brenham [I],1915-04-15,1915-04-21,3,3,0,0,0,0,0,0,0,0,0,3
 1915,Middle Texas League,regular,P1546071,Harper,,Schulenburg,1915-04-15,1915-04-15,1,0,0,0,1,0,0,0,0,0,0,0
-1915,Middle Texas League,regular,P6722933,Hovel,,Belton,1915-04-15,1915-04-19,4,0,0,0,0,4,0,0,0,0,0,0
-1915,Middle Texas League,regular,P4969003,Huber,,Schulenburg,1915-04-15,1915-04-18,4,1,0,0,1,3,0,0,0,0,0,1
+1915,Middle Texas League,regular,P6722933,Hovel,,Belton,1915-04-15,1915-04-24,7,0,0,0,0,7,0,0,0,0,0,0
+1915,Middle Texas League,regular,P4969003,Huber,,Schulenburg,1915-04-15,1915-04-21,6,1,0,0,1,5,0,0,0,0,0,1
 1915,Middle Texas League,regular,P2762697,Hutton,,Austin,1915-04-19,1915-04-19,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Middle Texas League,regular,P9075582,Jackson,,Schulenburg,1915-04-16,1915-04-19,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Middle Texas League,regular,P8548197,Jordan,,Austin,1915-04-15,1915-04-19,5,0,5,0,0,0,0,0,0,0,0,0
-1915,Middle Texas League,regular,P2116827,Kizziar,,Belton,1915-04-15,1915-04-19,5,0,5,0,0,0,0,0,0,0,0,0
-1915,Middle Texas League,regular,P2903627,Lawson,,Belton,1915-04-15,1915-04-19,5,0,0,5,0,0,0,0,0,0,0,0
+1915,Middle Texas League,regular,P8548197,Jordan,,Austin,1915-04-15,1915-04-24,8,0,8,0,0,0,0,0,0,0,0,0
+1915,Middle Texas League,regular,P2116827,Kizziar,,Belton,1915-04-15,1915-04-24,8,0,8,0,0,0,0,0,0,0,0,0
+1915,Middle Texas League,regular,P2903627,Lawson,,Belton,1915-04-15,1915-04-24,8,0,0,8,0,0,0,0,0,0,0,0
 1915,Middle Texas League,regular,P4594555,Lewis,,Belton,1915-04-16,1915-04-16,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Middle Texas League,regular,P1607420,Manuel,,Temple,1915-04-24,1915-04-24,1,0,0,0,0,0,0,0,0,0,0,0
 1915,Middle Texas League,regular,P7317983,McNeil,,Austin,1915-04-15,1915-04-15,1,0,0,0,0,0,0,0,0,0,0,0
 1915,Middle Texas League,regular,P0414087,Montague,,Austin,1915-04-15,1915-04-19,3,0,0,0,3,0,0,0,0,0,0,0
 1915,Middle Texas League,regular,P9687702,Montagut,,Austin,1915-04-17,1915-04-17,1,0,0,0,1,0,0,0,0,0,0,0
-1915,Middle Texas League,regular,P4594970,Montegut,,Austin,1915-04-16,1915-04-16,1,0,0,0,1,0,0,0,0,0,0,0
-1915,Middle Texas League,regular,P1785001,Moore,,Austin,1915-04-15,1915-04-19,4,0,0,0,0,0,2,0,0,2,2,0
+1915,Middle Texas League,regular,P4594970,Montegut,,Austin,1915-04-16,1915-04-24,4,0,0,0,3,0,1,0,0,1,0,0
+1915,Middle Texas League,regular,P1785001,Moore,,Austin,1915-04-15,1915-04-21,6,0,0,0,0,0,2,0,0,2,4,0
 1915,Middle Texas League,regular,P9134026,Naylor,,Bartlett,1915-04-16,1915-04-16,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Middle Texas League,regular,P4986508,Naylor,,Belton,1915-04-15,1915-04-19,5,0,0,0,0,0,0,0,0,0,5,0
+1915,Middle Texas League,regular,P4986508,Naylor,,Belton,1915-04-15,1915-04-24,7,0,0,0,0,0,0,0,0,0,7,0
+1915,Middle Texas League,regular,P6129603,Naylor,I.,Belton,1915-04-20,1915-04-20,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Middle Texas League,regular,P1344522,Naylor,R.,Bartlett,1915-04-20,1915-04-20,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Middle Texas League,regular,P4599503,Neil,,Austin,1915-04-16,1915-04-16,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Middle Texas League,regular,P4046866,Osborne,,Temple,1915-04-15,1915-04-19,5,0,5,0,0,0,0,0,0,0,0,0
+1915,Middle Texas League,regular,P9831067,Neill,,Austin,1915-04-20,1915-04-20,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Middle Texas League,regular,P3297614,Nyllus,,Austin,1915-04-24,1915-04-24,1,0,0,0,0,0,1,0,0,1,0,0
+1915,Middle Texas League,regular,P4046866,Osborne,,Temple,1915-04-15,1915-04-24,8,0,8,0,0,0,0,0,0,0,0,0
 1915,Middle Texas League,regular,P7105256,P'stwood,,Brenham [I],1915-04-16,1915-04-16,1,0,0,0,0,0,1,0,1,0,0,0
 1915,Middle Texas League,regular,P3140414,Pendleton,,Bartlett,1915-04-15,1915-04-16,2,0,0,0,0,0,2,0,0,2,0,0
-1915,Middle Texas League,regular,P7370424,Prestwood,,Brenham [I],1915-04-17,1915-04-18,2,0,0,0,0,0,2,0,2,0,0,0
+1915,Middle Texas League,regular,P7370424,Prestwood,,Brenham [I],1915-04-17,1915-04-24,5,0,0,0,0,0,5,0,5,0,0,0
 1915,Middle Texas League,regular,P0720509,Rainey,,Schulenburg,1915-04-15,1915-04-16,2,0,0,0,0,2,0,0,0,0,0,0
-1915,Middle Texas League,regular,P7330874,Reed,,Temple,1915-04-16,1915-04-19,4,0,0,2,2,0,0,0,0,0,0,0
-1915,Middle Texas League,regular,P6307693,Reinecke,,Austin,1915-04-15,1915-04-19,5,0,0,0,0,5,0,0,0,0,0,0
+1915,Middle Texas League,regular,P7330874,Reed,,Temple,1915-04-16,1915-04-21,6,0,0,4,2,0,0,0,0,0,0,0
+1915,Middle Texas League,regular,P4938686,Reid,,Temple,1915-04-24,1915-04-24,1,0,0,1,0,0,0,0,0,0,0,0
+1915,Middle Texas League,regular,P6307693,Reinecke,,Austin,1915-04-15,1915-04-24,8,0,0,3,0,5,0,0,0,0,0,0
 1915,Middle Texas League,regular,P1427581,Rhine,,Austin,1915-04-19,1915-04-19,2,0,0,2,0,0,0,0,0,0,0,0
-1915,Middle Texas League,regular,P4362814,Roach,,Brenham [I],1915-04-15,1915-04-18,4,0,0,0,0,0,4,4,0,0,0,0
-1915,Middle Texas League,regular,P9127103,Robinson,,Schulenburg,1915-04-17,1915-04-18,2,0,0,0,0,0,2,2,0,0,0,0
+1915,Middle Texas League,regular,P4362814,Roach,,Brenham [I],1915-04-15,1915-04-24,7,0,0,0,0,0,7,7,0,0,0,0
+1915,Middle Texas League,regular,P9127103,Robinson,,Schulenburg,1915-04-17,1915-04-21,4,0,0,0,0,0,4,4,0,0,0,0
 1915,Middle Texas League,regular,P0932849,Robison,,Schulenburg,1915-04-15,1915-04-16,2,0,0,0,0,0,2,2,0,0,0,0
 1915,Middle Texas League,regular,P4094491,Schaefer,,Temple,1915-04-19,1915-04-19,2,0,0,0,0,0,0,0,0,0,2,0
 1915,Middle Texas League,regular,P5458070,Schafer,,Temple,1915-04-18,1915-04-18,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Middle Texas League,regular,P7821308,Schaffer,,Temple,1915-04-20,1915-04-21,2,0,0,0,0,0,0,0,0,0,2,0
+1915,Middle Texas League,regular,P2432701,Schmidt,,Brenham [I],1915-04-21,1915-04-21,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Middle Texas League,regular,P3013047,Scoggins,,Temple,1915-04-15,1915-04-19,5,0,0,0,0,0,5,4,0,1,0,0
-1915,Middle Texas League,regular,P1214462,Scott,,Brenham [I],1915-04-15,1915-04-18,4,0,0,0,0,0,0,0,0,0,4,0
+1915,Middle Texas League,regular,P1214462,Scott,,Brenham [I],1915-04-15,1915-04-24,5,0,0,0,0,0,0,0,0,0,5,0
+1915,Middle Texas League,regular,P1826377,Scroggins,,Temple,1915-04-20,1915-04-24,3,0,0,0,0,0,3,3,0,0,0,0
 1915,Middle Texas League,regular,P1509693,Sellman,,Brenham [I],1915-04-16,1915-04-16,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Middle Texas League,regular,P5715993,Shaffer,,Temple,1915-04-15,1915-04-16,2,0,0,0,0,0,0,0,0,0,2,0
-1915,Middle Texas League,regular,P8077920,Showers,,Schulenburg,1915-04-16,1915-04-18,3,0,0,0,3,0,0,0,0,0,0,0
-1915,Middle Texas League,regular,P8839588,Slaughter,,Bartlett,1915-04-15,1915-04-19,5,0,0,0,0,0,0,0,0,0,5,0
-1915,Middle Texas League,regular,P5981210,Smith,,Bartlett,1915-04-17,1915-04-17,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Middle Texas League,regular,P6566219,Sellmann,,Brenham [I],1915-04-20,1915-04-20,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Middle Texas League,regular,P5715993,Shaffer,,Temple,1915-04-15,1915-04-24,3,0,0,0,0,0,0,0,0,0,3,0
+1915,Middle Texas League,regular,P8077920,Showers,,Schulenburg,1915-04-16,1915-04-21,5,0,0,0,5,0,0,0,0,0,0,0
+1915,Middle Texas League,regular,P8839588,Slaughter,,Bartlett,1915-04-15,1915-04-21,7,0,0,0,0,0,0,0,0,0,7,0
+1915,Middle Texas League,regular,P5981210,Smith,,Bartlett,1915-04-17,1915-04-21,2,2,0,0,0,0,0,0,0,0,0,2
 1915,Middle Texas League,regular,P9672762,Smith,,Schulenburg,1915-04-15,1915-04-18,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Middle Texas League,regular,P7789313,Thomas,,Bartlett,1915-04-16,1915-04-19,4,0,0,0,0,3,0,0,0,0,0,0
-1915,Middle Texas League,regular,P5846790,Tietze,,Brenham [I],1915-04-17,1915-04-18,2,1,0,0,0,0,1,0,0,1,0,1
+1915,Middle Texas League,regular,P7789313,Thomas,,Bartlett,1915-04-16,1915-04-21,6,0,0,0,0,5,0,0,0,0,0,0
+1915,Middle Texas League,regular,P5846790,Tietze,,Brenham [I],1915-04-17,1915-04-21,4,1,0,0,0,0,3,0,0,3,0,1
 1915,Middle Texas League,regular,P4117718,Utzman,,Belton,1915-04-19,1915-04-19,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Middle Texas League,regular,P2110382,Wacey,,Bartlett,1915-04-15,1915-04-15,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Middle Texas League,regular,P6368197,Verritt,,Schulenburg,1915-04-21,1915-04-21,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Middle Texas League,regular,P2110382,Wacey,,Bartlett,1915-04-15,1915-04-21,2,2,0,0,0,0,0,0,0,0,0,2
 1915,Middle Texas League,regular,P1343505,Watson,,Bartlett,1915-04-19,1915-04-19,2,2,0,0,0,0,0,0,0,0,0,2
 1915,Middle Texas League,regular,P7474650,Wende,,Austin,1915-04-15,1915-04-17,3,0,0,0,0,0,0,0,0,0,3,0
-1915,Middle Texas League,regular,P7367122,White,,Brenham [I],1915-04-15,1915-04-18,4,0,0,4,0,0,0,0,0,0,0,0
-1915,Middle Texas League,regular,P5489682,Wicks,,Brenham [I],1915-04-15,1915-04-18,4,0,0,0,4,0,0,0,0,0,0,0
-1915,Middle Texas League,regular,P3489078,Williamson,,Belton,1915-04-15,1915-04-19,5,0,0,0,0,0,5,0,0,5,0,0
+1915,Middle Texas League,regular,P6748265,Wendt,,Austin,1915-04-24,1915-04-24,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Middle Texas League,regular,P7367122,White,,Brenham [I],1915-04-15,1915-04-24,7,0,0,7,0,0,0,0,0,0,0,0
+1915,Middle Texas League,regular,P5489682,Wicks,,Brenham [I],1915-04-15,1915-04-24,7,0,0,0,7,0,0,0,0,0,0,0
+1915,Middle Texas League,regular,P3489078,Williamson,,Belton,1915-04-15,1915-04-24,8,0,0,0,0,0,8,0,0,8,0,0
 1915,Middle Texas League,regular,P8268934,Winters,,Temple,1915-04-16,1915-04-16,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Middle Texas League,regular,P4704359,Woessner,,Brenham [I],1915-04-15,1915-04-18,4,0,4,0,0,0,0,0,0,0,0,0
-1915,Middle Texas League,regular,P4917991,Young,,Bartlett,1915-04-15,1915-04-19,5,0,0,5,0,0,0,0,0,0,0,0
-1915,Middle Texas League,regular,P0771559,Young,,Schulenburg,1915-04-15,1915-04-18,4,0,4,0,0,0,0,0,0,0,0,0
+1915,Middle Texas League,regular,P4704359,Woessner,,Brenham [I],1915-04-15,1915-04-24,7,0,7,0,0,0,0,0,0,0,0,0
+1915,Middle Texas League,regular,P4917991,Young,,Bartlett,1915-04-15,1915-04-21,7,0,0,7,0,0,0,0,0,0,0,0
+1915,Middle Texas League,regular,P0771559,Young,,Schulenburg,1915-04-15,1915-04-21,6,0,6,0,0,0,0,0,0,0,0,0
 1915,Texas League,regular,P5381769,Akers,,Fort Worth,1915-04-10,1915-04-16,2,2,0,0,0,0,0,0,0,0,0,2
 1915,Texas League,regular,P9835107,Allen,,Galveston,1915-04-12,1915-04-19,3,3,0,0,0,0,0,0,0,0,0,3
-1915,Texas League,regular,P9008352,Allen,,Houston,1915-04-08,1915-04-10,3,0,0,0,0,0,0,0,0,0,3,0
-1915,Texas League,regular,P6225098,Allen,,San Antonio,1915-04-09,1915-04-16,4,0,0,0,0,0,4,1,3,0,0,0
-1915,Texas League,regular,P3532180,Allen,F.,Houston,1915-04-17,1915-04-17,1,0,0,0,0,0,0,0,0,0,1,0
-1915,Texas League,regular,P9872964,Allen,L.,San Antonio,1915-04-17,1915-04-19,3,0,0,0,0,0,3,0,3,0,0,0
+1915,Texas League,regular,P9008352,Allen,,Houston,1915-04-08,1915-04-22,4,0,0,0,0,0,0,0,0,0,4,0
+1915,Texas League,regular,P6225098,Allen,,San Antonio,1915-04-09,1915-04-25,8,0,0,0,0,0,8,1,7,0,0,0
+1915,Texas League,regular,P3532180,Allen,F.,Houston,1915-04-17,1915-04-25,3,0,0,0,0,0,0,0,0,0,3,0
+1915,Texas League,regular,P9872964,Allen,L.,San Antonio,1915-04-17,1915-04-20,4,0,0,0,0,0,4,0,4,0,0,0
+1915,Texas League,regular,P1005603,Allen,R.,Galveston,1915-04-20,1915-04-25,2,2,0,0,0,0,0,0,0,0,0,2
 1915,Texas League,regular,P0757569,Allen,S.,Houston,1915-04-12,1915-04-16,5,0,0,0,0,0,0,0,0,0,5,0
 1915,Texas League,regular,P2159727,Allen [GAL],,Galveston,1915-04-16,1915-04-16,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Texas League,regular,P4186372,Allen [HOU],,Houston,1915-04-11,1915-04-11,1,0,0,0,0,0,0,0,0,0,1,0
 1915,Texas League,regular,P1648950,Allen [SA],,San Antonio,1915-04-11,1915-04-11,1,0,0,0,0,0,1,0,1,0,0,0
-1915,Texas League,regular,P9368699,Ashton,,Waco,1915-04-18,1915-04-18,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Texas League,regular,P1140066,Atz,,Fort Worth,1915-04-08,1915-04-18,11,0,0,11,0,0,0,0,0,0,0,0
-1915,Texas League,regular,P8199737,Baerwald,,Galveston,1915-04-17,1915-04-19,3,0,0,0,0,0,3,3,0,0,0,0
-1915,Texas League,regular,P2570686,Baggan,,San Antonio,1915-04-08,1915-04-19,11,0,0,0,0,0,11,0,0,11,0,0
-1915,Texas League,regular,P0045405,Balenti,,San Antonio,1915-04-08,1915-04-19,11,0,0,0,0,11,0,0,0,0,0,0
-1915,Texas League,regular,P4117636,Barfoot,,Galveston,1915-04-08,1915-04-18,4,4,0,0,0,0,0,0,0,0,0,4
-1915,Texas League,regular,P9347045,Barr,,San Antonio,1915-04-08,1915-04-19,11,0,0,0,0,0,11,9,2,0,0,0
-1915,Texas League,regular,P5621474,Becker,,Shreveport,1915-04-08,1915-04-18,11,0,0,0,0,0,11,0,0,11,0,0
-1915,Texas League,regular,P1514369,Bobo,,Beaumont,1915-04-08,1915-04-19,12,0,0,0,0,7,0,0,0,0,5,0
-1915,Texas League,regular,P5662659,Bono,,Dallas,1915-04-18,1915-04-18,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Texas League,regular,P1602151,Brady,,Dallas,1915-04-10,1915-04-16,4,4,0,0,0,0,0,0,0,0,0,4
-1915,Texas League,regular,P5288886,Brant,,Beaumont,1915-04-09,1915-04-16,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Texas League,regular,P9368699,Ashton,,Waco,1915-04-18,1915-04-21,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Texas League,regular,P1140066,Atz,,Fort Worth,1915-04-08,1915-04-24,14,0,0,14,0,0,0,0,0,0,0,0
+1915,Texas League,regular,P8199737,Baerwald,,Galveston,1915-04-17,1915-04-25,7,0,0,0,0,0,7,7,0,0,0,0
+1915,Texas League,regular,P2570686,Baggan,,San Antonio,1915-04-08,1915-04-25,16,0,0,0,0,0,16,0,0,16,0,0
+1915,Texas League,regular,P0045405,Balenti,,San Antonio,1915-04-08,1915-04-25,16,0,0,0,0,16,0,0,0,0,0,0
+1915,Texas League,regular,P4117636,Barfoot,,Galveston,1915-04-08,1915-04-25,5,5,0,0,0,0,0,0,0,0,0,5
+1915,Texas League,regular,P9347045,Barr,,San Antonio,1915-04-08,1915-04-23,14,0,0,0,0,0,14,12,2,0,0,0
+1915,Texas League,regular,P5621474,Becker,,Shreveport,1915-04-08,1915-04-25,15,0,0,0,0,0,15,0,4,11,0,0
+1915,Texas League,regular,P1514369,Bobo,,Beaumont,1915-04-08,1915-04-21,13,0,0,0,0,7,0,0,0,0,5,0
+1915,Texas League,regular,P5662659,Bono,,Dallas,1915-04-18,1915-04-24,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Texas League,regular,P1602151,Brady,,Dallas,1915-04-10,1915-04-20,5,5,0,0,0,0,0,0,0,0,0,5
+1915,Texas League,regular,P5288886,Brant,,Beaumont,1915-04-09,1915-04-24,6,6,0,0,0,0,0,0,0,0,0,6
 1915,Texas League,regular,P9702622,Breaux,,Galveston,1915-04-08,1915-04-17,9,0,0,0,0,0,8,7,1,0,0,0
 1915,Texas League,regular,P8096574,Brown,,Shreveport,1915-04-13,1915-04-13,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Texas League,regular,P5683471,Brownlow,,Dallas,1915-04-08,1915-04-18,11,0,0,0,11,0,0,0,0,0,0,0
-1915,Texas League,regular,P0449906,Burch,,San Antonio,1915-04-08,1915-04-19,10,0,0,0,0,0,0,0,0,0,10,0
-1915,Texas League,regular,P0276197,Carson,,Beaumont,1915-04-08,1915-04-19,8,0,0,0,0,0,0,0,0,0,8,0
-1915,Texas League,regular,P7050784,Carter,,Beaumont,1915-04-11,1915-04-19,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Texas League,regular,P5683471,Brownlow,,Dallas,1915-04-08,1915-04-24,14,0,0,0,14,0,0,0,0,0,0,0
+1915,Texas League,regular,P0449906,Burch,,San Antonio,1915-04-08,1915-04-25,14,0,0,0,0,0,0,0,0,0,14,0
+1915,Texas League,regular,P0276197,Carson,,Beaumont,1915-04-08,1915-04-25,14,0,0,0,0,0,0,0,0,0,14,0
+1915,Texas League,regular,P7050784,Carter,,Beaumont,1915-04-11,1915-04-25,3,3,0,0,0,0,0,0,0,0,0,3
 1915,Texas League,regular,P2024484,Chelette,,Shreveport,1915-04-09,1915-04-16,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Texas League,regular,P5048720,Chellette,,Shreveport,1915-04-20,1915-04-20,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Texas League,regular,P0498438,Clapp,,Shreveport,1915-04-08,1915-04-18,8,0,0,0,0,0,7,1,6,0,0,0
-1915,Texas League,regular,P2416364,Clark,,Beaumont,1915-04-08,1915-04-18,11,0,0,0,0,0,11,11,0,0,0,0
+1915,Texas League,regular,P2416364,Clark,,Beaumont,1915-04-08,1915-04-25,17,0,0,0,0,0,17,17,0,0,0,0
 1915,Texas League,regular,P0746289,Clark,W.,Beaumont,1915-04-19,1915-04-19,1,0,0,0,0,0,1,1,0,0,0,0
-1915,Texas League,regular,P4547490,Conwell,,Waco,1915-04-08,1915-04-18,7,0,0,1,0,0,0,0,0,0,0,0
+1915,Texas League,regular,P4547490,Conwell,,Waco,1915-04-08,1915-04-23,10,0,0,2,0,1,0,0,0,0,0,0
 1915,Texas League,regular,P7408907,Cook,,Beaumont,1915-04-19,1915-04-19,1,0,1,0,0,0,0,0,0,0,0,0
-1915,Texas League,regular,P2042544,Cooke,,Beaumont,1915-04-08,1915-04-18,11,0,11,0,0,0,0,0,0,0,0,0
+1915,Texas League,regular,P2042544,Cooke,,Beaumont,1915-04-08,1915-04-25,17,0,17,0,0,0,0,0,0,0,0,0
 1915,Texas League,regular,P1365641,Crabble,,San Antonio,1915-04-09,1915-04-09,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Texas League,regular,P2375017,Crichlow,,Waco,1915-04-08,1915-04-18,11,0,0,0,0,0,11,0,11,0,0,0
-1915,Texas League,regular,P8457144,Criss,,Houston,1915-04-09,1915-04-19,7,4,0,0,0,0,0,0,0,0,0,4
+1915,Texas League,regular,P9092801,Crabble,,Shreveport,1915-04-21,1915-04-25,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Texas League,regular,P2375017,Crichlow,,Waco,1915-04-08,1915-04-25,15,0,0,0,0,0,15,0,15,0,0,0
+1915,Texas League,regular,P8457144,Criss,,Houston,1915-04-09,1915-04-25,9,5,0,0,0,0,0,0,0,0,0,5
 1915,Texas League,regular,P3714723,Crittenden,,Fort Worth,1915-04-10,1915-04-10,1,0,0,0,0,0,0,0,0,0,1,0
-1915,Texas League,regular,P0105977,Crouch,,Dallas,1915-04-08,1915-04-18,11,0,0,0,0,0,11,11,0,0,0,0
+1915,Texas League,regular,P0105977,Crouch,,Dallas,1915-04-08,1915-04-24,14,0,0,0,0,0,14,14,0,0,0,0
 1915,Texas League,regular,P5868917,Crum,,San Antonio,1915-04-09,1915-04-18,3,3,0,0,0,0,0,0,0,0,0,3
 1915,Texas League,regular,P6213969,Davenport,,San Antonio,1915-04-09,1915-04-19,4,4,0,0,0,0,0,0,0,0,0,4
 1915,Texas League,regular,P7799018,Davis,,Fort Worth,1915-04-10,1915-04-14,3,0,0,0,1,0,0,0,0,0,0,0
-1915,Texas League,regular,P2020651,Davis,,Houston,1915-04-08,1915-04-19,12,0,0,0,0,0,12,0,0,12,0,0
-1915,Texas League,regular,P5939374,Dilger,,Galveston,1915-04-09,1915-04-18,6,0,0,0,0,0,0,0,0,0,5,0
-1915,Texas League,regular,P8066490,Dodd,,Beaumont,1915-04-08,1915-04-19,12,0,0,12,0,0,0,0,0,0,0,0
+1915,Texas League,regular,P2020651,Davis,,Houston,1915-04-08,1915-04-25,17,0,0,0,0,0,17,0,0,17,0,0
+1915,Texas League,regular,P5939374,Dilger,,Galveston,1915-04-09,1915-04-25,8,0,0,0,0,0,0,0,0,0,7,0
+1915,Texas League,regular,P8066490,Dodd,,Beaumont,1915-04-08,1915-04-25,16,0,0,16,0,0,0,0,0,0,0,0
 1915,Texas League,regular,P6484591,Dodd,,Houston,1915-04-18,1915-04-19,2,0,0,0,0,0,0,0,0,0,2,0
-1915,Texas League,regular,P3749139,Donalds,,Waco,1915-04-11,1915-04-15,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Texas League,regular,P6084746,Dunn,,Dallas,1915-04-08,1915-04-08,1,0,0,0,0,0,0,0,0,0,1,0
-1915,Texas League,regular,P6442979,Durkin,,Shreveport,1915-04-08,1915-04-18,11,0,0,0,0,11,0,0,0,0,0,0
+1915,Texas League,regular,P8382639,Dodd,O.U.,Houston,1915-04-21,1915-04-21,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Texas League,regular,P1094328,Dodd,Ona,Beaumont,1915-04-20,1915-04-21,2,0,0,2,0,0,0,0,0,0,0,0
+1915,Texas League,regular,P0756031,Dodd,Oran,Houston,1915-04-20,1915-04-20,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Texas League,regular,P3749139,Donalds,,Waco,1915-04-11,1915-04-23,4,4,0,0,0,0,0,0,0,0,0,4
+1915,Texas League,regular,P6084746,Dunn,,Dallas,1915-04-08,1915-04-24,3,0,0,0,0,0,0,0,0,0,2,0
+1915,Texas League,regular,P6442979,Durkin,,Shreveport,1915-04-08,1915-04-25,15,0,0,0,0,15,0,0,0,0,0,0
 1915,Texas League,regular,P1853980,Durr,,Beaumont,1915-04-11,1915-04-13,2,0,0,0,0,0,1,1,0,0,2,0
-1915,Texas League,regular,P6471067,Edmondson,,Houston,1915-04-13,1915-04-18,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Texas League,regular,P8768411,Ens,,Dallas,1915-04-08,1915-04-18,11,0,2,0,0,9,0,0,0,0,0,0
+1915,Texas League,regular,P6471067,Edmondson,,Houston,1915-04-13,1915-04-25,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Texas League,regular,P8768411,Ens,,Dallas,1915-04-08,1915-04-24,14,0,2,0,0,12,0,0,0,0,0,0
 1915,Texas League,regular,P9168081,Eunich,,Dallas,1915-04-08,1915-04-12,3,0,0,0,0,2,0,0,0,0,0,0
 1915,Texas League,regular,P6338525,Fentress,,Fort Worth,1915-04-08,1915-04-18,4,3,0,0,0,0,1,0,1,0,0,3
-1915,Texas League,regular,P1474546,Fleharty,,Fort Worth,1915-04-11,1915-04-17,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Texas League,regular,P6552074,Frantz,,Dallas,1915-04-09,1915-04-18,10,2,8,0,0,0,0,0,0,0,0,2
-1915,Texas League,regular,P5611740,Frierson,,Houston,1915-04-08,1915-04-19,8,0,0,0,0,0,7,0,7,0,0,0
-1915,Texas League,regular,P5379104,Fuller,,Shreveport,1915-04-08,1915-04-17,10,0,0,0,0,0,10,10,0,0,0,0
+1915,Texas League,regular,P1474546,Fleharty,,Fort Worth,1915-04-11,1915-04-24,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Texas League,regular,P6552074,Frantz,,Dallas,1915-04-09,1915-04-24,13,2,11,0,0,0,0,0,0,0,0,2
+1915,Texas League,regular,P5611740,Frierson,,Houston,1915-04-08,1915-04-25,13,0,0,0,0,0,12,0,12,0,0,0
+1915,Texas League,regular,P5379104,Fuller,,Shreveport,1915-04-08,1915-04-23,11,0,0,0,0,0,10,10,0,0,0,0
 1915,Texas League,regular,P8130711,Garrett,,San Antonio,1915-04-11,1915-04-11,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Texas League,regular,P0083197,Garvin,,Shreveport,1915-04-15,1915-04-15,1,0,0,0,0,0,0,0,0,0,1,0
-1915,Texas League,regular,P1322952,Glenn,,Houston,1915-04-10,1915-04-16,3,3,0,0,0,0,0,0,0,0,0,3
-1915,Texas League,regular,P6462848,Grubb,,Waco,1915-04-08,1915-04-18,11,0,0,0,11,0,0,0,0,0,0,0
-1915,Texas League,regular,P9637383,Harben,,Galveston,1915-04-12,1915-04-16,3,3,0,0,0,0,0,0,0,0,0,3
-1915,Texas League,regular,P8022441,Harber,,Dallas,1915-04-08,1915-04-18,7,0,0,0,0,0,6,0,0,6,0,0
+1915,Texas League,regular,P1322952,Glenn,,Houston,1915-04-10,1915-04-20,4,4,0,0,0,0,0,0,0,0,0,4
+1915,Texas League,regular,P6462848,Grubb,,Waco,1915-04-08,1915-04-25,15,0,0,0,15,0,0,0,0,0,0,0
+1915,Texas League,regular,P9637383,Harben,,Galveston,1915-04-12,1915-04-25,5,5,0,0,0,0,0,0,0,0,0,5
+1915,Texas League,regular,P8022441,Harber,,Dallas,1915-04-08,1915-04-24,8,0,0,0,0,0,6,0,0,6,0,0
 1915,Texas League,regular,P1577227,Harbin,,Galveston,1915-04-09,1915-04-09,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Texas League,regular,P4522485,Harbison,,Beaumont,1915-04-15,1915-04-15,1,0,0,0,0,0,0,0,0,0,0,0
-1915,Texas League,regular,P8940213,Harper,,Fort Worth,1915-04-08,1915-04-18,11,0,0,1,0,0,11,0,11,0,0,0
-1915,Texas League,regular,P6320809,Harrah,,Fort Worth,1915-04-12,1915-04-15,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Texas League,regular,P9600443,Harrison,,Dallas,1915-04-10,1915-04-18,7,0,1,0,0,0,5,0,0,5,0,0
-1915,Texas League,regular,P6501010,Hauenstein,,San Antonio,1915-04-15,1915-04-15,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Texas League,regular,P8940213,Harper,,Fort Worth,1915-04-08,1915-04-24,14,0,0,1,0,0,14,0,14,0,0,0
+1915,Texas League,regular,P6320809,Harrah,,Fort Worth,1915-04-12,1915-04-20,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Texas League,regular,P9600443,Harrison,,Dallas,1915-04-10,1915-04-24,10,0,1,0,0,0,8,0,0,8,0,0
+1915,Texas League,regular,P6501010,Hauenstein,,San Antonio,1915-04-15,1915-04-23,3,0,0,0,0,0,0,0,0,0,3,0
 1915,Texas League,regular,P1886116,Haverson,,San Antonio,1915-04-19,1915-04-19,1,0,0,0,0,0,0,0,0,0,1,0
-1915,Texas League,regular,P1991889,Hendricks,,Shreveport,1915-04-10,1915-04-10,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Texas League,regular,P1991889,Hendricks,,Shreveport,1915-04-10,1915-04-23,2,2,0,0,0,0,0,0,0,0,0,2
 1915,Texas League,regular,P1836648,Hendrix,,Shreveport,1915-04-14,1915-04-18,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Texas League,regular,P4955883,Hickey,,Waco,1915-04-08,1915-04-18,11,0,0,0,0,0,11,11,0,0,0,0
-1915,Texas League,regular,P6813026,Hille,,Houston,1915-04-08,1915-04-19,12,0,0,0,0,12,0,0,0,0,0,0
+1915,Texas League,regular,P4955883,Hickey,,Waco,1915-04-08,1915-04-25,15,0,0,0,0,0,15,15,0,0,0,0
+1915,Texas League,regular,P6813026,Hille,,Houston,1915-04-08,1915-04-25,17,0,0,0,0,17,0,0,0,0,0,0
 1915,Texas League,regular,P1335771,Hornsby,,Shreveport,1915-04-08,1915-04-17,3,3,0,0,0,0,0,0,0,0,0,3
-1915,Texas League,regular,P9034116,Howard,,Beaumont,1915-04-15,1915-04-19,6,0,0,0,0,0,6,0,0,6,0,0
+1915,Texas League,regular,P9034116,Howard,,Beaumont,1915-04-15,1915-04-25,12,0,0,0,0,0,12,0,1,12,0,0
 1915,Texas League,regular,P9751546,Howard,,Dallas,1915-04-09,1915-04-09,1,0,0,0,0,0,0,0,0,0,0,0
 1915,Texas League,regular,P6513913,Howard,,Houston,1915-04-09,1915-04-13,5,0,0,0,0,0,5,0,5,0,0,0
-1915,Texas League,regular,P7938121,Hunter,,Fort Worth,1915-04-08,1915-04-18,11,0,11,0,0,0,0,0,0,0,0,0
-1915,Texas League,regular,P8761470,James,,Waco,1915-04-08,1915-04-18,11,0,0,0,0,0,11,0,0,11,0,0
-1915,Texas League,regular,P0991766,Johnson,,Galveston,1915-04-08,1915-04-19,11,0,0,0,0,0,11,1,10,0,0,0
-1915,Texas League,regular,P8181525,Jordan,,Galveston,1915-04-08,1915-04-19,7,0,0,0,0,0,0,0,0,0,6,0
-1915,Texas League,regular,P9222207,Jost,,Beaumont,1915-04-10,1915-04-17,3,3,0,0,0,0,0,0,0,0,0,3
-1915,Texas League,regular,P0224912,Kellerman,,Dallas,1915-04-08,1915-04-18,11,0,0,11,0,0,0,0,0,0,0,0
+1915,Texas League,regular,P7938121,Hunter,,Fort Worth,1915-04-08,1915-04-24,14,0,14,0,0,0,0,0,0,0,0,0
+1915,Texas League,regular,P8761470,James,,Waco,1915-04-08,1915-04-25,15,0,0,0,0,0,15,0,0,15,0,0
+1915,Texas League,regular,P0991766,Johnson,,Galveston,1915-04-08,1915-04-25,15,0,0,0,0,0,15,1,14,0,0,0
+1915,Texas League,regular,P8181525,Jordan,,Galveston,1915-04-08,1915-04-25,9,0,0,0,0,0,0,0,0,0,8,0
+1915,Texas League,regular,P9222207,Jost,,Beaumont,1915-04-10,1915-04-25,5,5,0,0,0,0,0,0,0,0,0,5
+1915,Texas League,regular,P0224912,Kellerman,,Dallas,1915-04-08,1915-04-24,14,0,0,14,0,0,0,0,0,0,0,0
 1915,Texas League,regular,P6831143,Kerr,,Fort Worth,1915-04-12,1915-04-12,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Texas League,regular,P4568589,Knaupp,,San Antonio,1915-04-08,1915-04-18,7,0,0,5,0,0,0,0,0,0,0,0
-1915,Texas League,regular,P2257216,Kneaves,,Fort Worth,1915-04-08,1915-04-18,11,0,0,0,11,1,0,0,0,0,0,0
+1915,Texas League,regular,P4568589,Knaupp,,San Antonio,1915-04-08,1915-04-25,10,0,0,7,0,0,0,0,0,0,0,0
+1915,Texas League,regular,P2257216,Kneaves,,Fort Worth,1915-04-08,1915-04-24,14,0,0,0,14,1,0,0,0,0,0,0
+1915,Texas League,regular,P9504710,Laval,,Shreveport,1915-04-20,1915-04-25,4,0,0,0,0,0,4,0,0,4,0,0
 1915,Texas League,regular,P2045877,Leidy,,San Antonio,1915-04-15,1915-04-15,1,0,0,0,0,0,0,0,0,0,0,0
-1915,Texas League,regular,P8025775,Lemon,,Houston,1915-04-14,1915-04-17,3,0,0,0,0,0,0,0,0,0,0,0
-1915,Texas League,regular,P8238100,Love,,San Antonio,1915-04-09,1915-04-19,7,0,0,6,0,0,0,0,0,0,0,0
-1915,Texas League,regular,P7599808,Madden,,Galveston,1915-04-08,1915-04-19,11,0,0,0,0,0,11,0,0,11,0,0
-1915,Texas League,regular,P2114379,Malmquist,,Waco,1915-04-08,1915-04-18,11,0,0,11,0,0,0,0,0,0,0,0
-1915,Texas League,regular,P7245130,Markle,,Waco,1915-04-09,1915-04-18,5,5,0,0,0,0,0,0,0,0,0,5
-1915,Texas League,regular,P5540075,Martina,,Beaumont,1915-04-08,1915-04-18,4,4,0,0,0,0,0,0,0,0,0,4
-1915,Texas League,regular,P8368450,McCafferty,,San Antonio,1915-04-15,1915-04-18,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Texas League,regular,P1179154,McChesney,,Fort Worth,1915-04-08,1915-04-18,11,0,0,0,0,0,11,11,0,0,0,0
-1915,Texas League,regular,P1083021,McCuller,,Shreveport,1915-04-11,1915-04-15,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Texas League,regular,P6166582,McDonald,,Houston,1915-04-08,1915-04-19,12,0,0,0,12,0,0,0,0,0,0,0
-1915,Texas League,regular,P2462661,McElveen,,Shreveport,1915-04-08,1915-04-18,11,0,0,0,11,0,0,0,0,0,0,0
-1915,Texas League,regular,P4463936,McGee,,Beaumont,1915-04-15,1915-04-19,6,0,0,0,0,6,0,0,0,0,0,0
+1915,Texas League,regular,P8025775,Lemon,,Houston,1915-04-14,1915-04-20,4,0,0,0,0,0,0,0,0,0,0,0
+1915,Texas League,regular,P8238100,Love,,San Antonio,1915-04-09,1915-04-25,12,0,0,9,0,0,2,2,0,0,0,0
+1915,Texas League,regular,P7599808,Madden,,Galveston,1915-04-08,1915-04-25,15,0,0,0,0,0,15,0,0,15,0,0
+1915,Texas League,regular,P2114379,Malmquist,,Waco,1915-04-08,1915-04-25,15,0,0,15,0,0,0,0,0,0,0,0
+1915,Texas League,regular,P7245130,Markle,,Waco,1915-04-09,1915-04-21,6,6,0,0,0,0,0,0,0,0,0,6
+1915,Texas League,regular,P5540075,Martina,,Beaumont,1915-04-08,1915-04-23,7,7,0,0,0,0,0,0,0,0,0,7
+1915,Texas League,regular,P9539131,McBee,,Beaumont,1915-04-20,1915-04-20,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Texas League,regular,P8368450,McCafferty,,San Antonio,1915-04-15,1915-04-24,4,4,0,0,0,0,0,0,0,0,0,4
+1915,Texas League,regular,P1179154,McChesney,,Fort Worth,1915-04-08,1915-04-24,14,0,0,0,0,0,14,14,0,0,0,0
+1915,Texas League,regular,P1083021,McCuller,,Shreveport,1915-04-11,1915-04-23,4,4,0,0,0,0,0,0,0,0,0,4
+1915,Texas League,regular,P6166582,McDonald,,Houston,1915-04-08,1915-04-25,17,0,0,0,17,0,0,0,0,0,0,0
+1915,Texas League,regular,P2462661,McElveen,,Shreveport,1915-04-08,1915-04-25,14,0,1,0,13,0,0,0,0,0,0,0
+1915,Texas League,regular,P0949188,McElvin,,Shreveport,1915-04-23,1915-04-23,1,0,0,0,1,0,0,0,0,0,0,0
+1915,Texas League,regular,P4463936,McGee,,Beaumont,1915-04-15,1915-04-25,11,0,0,0,0,11,0,0,0,0,0,0
 1915,Texas League,regular,P5613046,McGill,,San Antonio,1915-04-08,1915-04-16,4,0,0,0,0,0,2,2,0,0,0,0
-1915,Texas League,regular,P5385177,McIver,,Fort Worth,1915-04-08,1915-04-18,11,0,0,0,0,0,11,0,0,11,0,0
-1915,Texas League,regular,P1202562,McMahon,,Beaumont,1915-04-08,1915-04-19,12,0,0,0,12,0,0,0,0,0,0,0
-1915,Texas League,regular,P6048067,McMurray,,Fort Worth,1915-04-08,1915-04-18,11,0,0,0,0,0,0,0,0,0,11,0
-1915,Texas League,regular,P8998457,Moore,,Galveston,1915-04-11,1915-04-17,4,4,0,0,0,0,0,0,0,0,0,4
-1915,Texas League,regular,P7862098,Mowry,,Houston,1915-04-08,1915-04-19,12,0,0,0,0,0,12,12,0,0,0,0
+1915,Texas League,regular,P5385177,McIver,,Fort Worth,1915-04-08,1915-04-24,14,0,0,0,0,0,14,0,0,14,0,0
+1915,Texas League,regular,P1202562,McMahon,,Beaumont,1915-04-08,1915-04-25,18,0,0,0,18,0,0,0,0,0,0,0
+1915,Texas League,regular,P6048067,McMurray,,Fort Worth,1915-04-08,1915-04-24,14,0,0,0,0,0,0,0,0,0,14,0
+1915,Texas League,regular,P8998457,Moore,,Galveston,1915-04-11,1915-04-21,5,5,0,0,0,0,0,0,0,0,0,5
+1915,Texas League,regular,P7862098,Mowry,,Houston,1915-04-08,1915-04-25,17,0,0,0,0,0,17,17,0,0,0,0
 1915,Texas League,regular,P8381877,Mullens,,Dallas,1915-04-09,1915-04-09,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Texas League,regular,P9439673,Mullins,,Dallas,1915-04-13,1915-04-18,3,2,0,0,0,0,0,0,0,0,0,2
-1915,Texas League,regular,P2453726,Munsell,,San Antonio,1915-04-08,1915-04-17,3,3,0,0,0,0,0,0,0,0,0,3
-1915,Texas League,regular,P3306419,Napier,,Houston,1915-04-08,1915-04-17,3,3,0,0,0,0,0,0,0,0,0,3
-1915,Texas League,regular,P3782522,Newnam,,Houston,1915-04-08,1915-04-19,12,0,12,0,0,0,0,0,0,0,0,0
-1915,Texas League,regular,P7086737,Newton,,Shreveport,1915-04-13,1915-04-18,6,0,0,0,0,0,5,0,5,0,0,0
-1915,Texas League,regular,P8397003,Nicholson,,San Antonio,1915-04-12,1915-04-18,5,0,0,0,0,0,3,0,3,0,0,0
-1915,Texas League,regular,P7020043,Nixon,,Beaumont,1915-04-08,1915-04-19,12,0,0,0,0,0,12,0,12,0,0,0
+1915,Texas League,regular,P9439673,Mullins,,Dallas,1915-04-13,1915-04-21,4,3,0,0,0,0,0,0,0,0,0,3
+1915,Texas League,regular,P2453726,Munsell,,San Antonio,1915-04-08,1915-04-25,5,5,0,0,0,0,0,0,0,0,0,5
+1915,Texas League,regular,P3306419,Napier,,Houston,1915-04-08,1915-04-21,4,4,0,0,0,0,0,0,0,0,0,4
+1915,Texas League,regular,P3782522,Newnam,,Houston,1915-04-08,1915-04-25,17,0,17,0,0,0,0,0,0,0,0,0
+1915,Texas League,regular,P7086737,Newton,,Shreveport,1915-04-13,1915-04-25,10,0,0,0,0,0,9,4,5,0,0,0
+1915,Texas League,regular,P8397003,Nicholson,,San Antonio,1915-04-12,1915-04-21,6,0,0,0,0,0,4,0,4,0,0,0
+1915,Texas League,regular,P7020043,Nixon,,Beaumont,1915-04-08,1915-04-25,18,0,0,0,0,0,18,0,18,0,0,0
 1915,Texas League,regular,P6764160,O'Connell,,Beaumont,1915-04-13,1915-04-13,1,0,0,0,0,0,0,0,0,0,1,0
-1915,Texas League,regular,P1843950,Odell,,San Antonio,1915-04-08,1915-04-19,11,0,0,0,11,0,0,0,0,0,0,0
+1915,Texas League,regular,P1843950,Odell,,San Antonio,1915-04-08,1915-04-25,16,0,0,0,16,0,0,0,0,0,0,0
 1915,Texas League,regular,P5757813,Ogle,,Waco,1915-04-08,1915-04-18,5,5,0,0,0,0,0,0,0,0,0,5
+1915,Texas League,regular,P2877192,Ogles,,Waco,1915-04-25,1915-04-25,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Texas League,regular,P9162869,Pursell,,Waco,1915-04-08,1915-04-14,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Texas League,regular,P3533977,Redford,,Fort Worth,1915-04-10,1915-04-14,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Texas League,regular,P5297055,Reilly,,Waco,1915-04-08,1915-04-18,8,0,0,0,0,0,0,0,0,0,8,0
-1915,Texas League,regular,P2027305,Robinson,,Beaumont,1915-04-08,1915-04-18,7,0,0,0,0,0,6,0,0,6,0,0
-1915,Texas League,regular,P2009952,Rollings,,Shreveport,1915-04-08,1915-04-18,11,0,0,11,0,0,0,0,0,0,0,0
-1915,Texas League,regular,P1642733,Rose,,Houston,1915-04-12,1915-04-17,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Texas League,regular,P9441294,Sage,,Waco,1915-04-08,1915-04-17,4,4,0,0,0,0,0,0,0,0,0,4
+1915,Texas League,regular,P5206556,Querry,,Houston,1915-04-20,1915-04-20,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Texas League,regular,P3533977,Redford,,Fort Worth,1915-04-10,1915-04-21,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Texas League,regular,P5297055,Reilly,,Waco,1915-04-08,1915-04-25,12,0,0,0,0,0,0,0,0,0,12,0
+1915,Texas League,regular,P2027305,Robinson,,Beaumont,1915-04-08,1915-04-22,9,0,0,0,0,0,7,0,0,7,0,0
+1915,Texas League,regular,P2009952,Rollings,,Shreveport,1915-04-08,1915-04-25,15,0,0,15,0,0,0,0,0,0,0,0
+1915,Texas League,regular,P1642733,Rose,,Houston,1915-04-12,1915-04-22,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Texas League,regular,P9441294,Sage,,Waco,1915-04-08,1915-04-20,5,5,0,0,0,0,0,0,0,0,0,5
 1915,Texas League,regular,P4297419,Schneider,,Shreveport,1915-04-18,1915-04-18,1,0,1,0,0,0,0,0,0,0,0,0
-1915,Texas League,regular,P6248802,Schrader,,Shreveport,1915-04-08,1915-04-16,8,0,8,0,0,0,0,0,0,0,0,0
-1915,Texas League,regular,P7685959,Schraeder,,Shreveport,1915-04-10,1915-04-17,2,0,2,0,0,0,0,0,0,0,0,0
-1915,Texas League,regular,P1790179,Seitz,,Houston,1915-04-08,1915-04-19,12,0,0,12,0,0,0,0,0,0,0,0
+1915,Texas League,regular,P6248802,Schrader,,Shreveport,1915-04-08,1915-04-23,9,0,9,0,0,0,0,0,0,0,0,0
+1915,Texas League,regular,P7685959,Schraeder,,Shreveport,1915-04-10,1915-04-25,3,0,3,0,0,0,0,0,0,0,0,0
+1915,Texas League,regular,P8763093,Schroeder,,Shreveport,1915-04-20,1915-04-21,2,0,1,0,1,0,0,0,0,0,0,0
+1915,Texas League,regular,P1790179,Seitz,,Houston,1915-04-08,1915-04-25,17,0,0,17,0,0,0,0,0,0,0,0
 1915,Texas League,regular,P5593578,Sentall,,Galveston,1915-04-16,1915-04-16,1,0,0,0,0,0,0,0,0,0,0,0
-1915,Texas League,regular,P9608430,Sentell,,Galveston,1915-04-08,1915-04-19,3,0,0,0,0,1,1,0,0,1,0,0
-1915,Texas League,regular,P7034785,Sewell,,Dallas,1915-04-08,1915-04-18,4,4,0,0,0,0,0,0,0,0,0,4
+1915,Texas League,regular,P9608430,Sentell,,Galveston,1915-04-08,1915-04-25,5,0,0,0,0,1,1,0,0,1,0,0
+1915,Texas League,regular,P7034785,Sewell,,Dallas,1915-04-08,1915-04-21,5,5,0,0,0,0,0,0,0,0,0,5
 1915,Texas League,regular,P8319818,Showers,,Beaumont,1915-04-10,1915-04-11,2,0,0,0,0,0,0,0,0,0,0,0
-1915,Texas League,regular,P7142236,Smith,,Galveston,1915-04-08,1915-04-19,11,0,0,0,11,0,0,0,0,0,0,0
-1915,Texas League,regular,P6501649,Snedecor,,San Antonio,1915-04-08,1915-04-19,11,0,11,0,0,0,0,0,0,0,0,0
+1915,Texas League,regular,P7142236,Smith,,Galveston,1915-04-08,1915-04-25,15,0,0,0,15,0,0,0,0,0,0,0
+1915,Texas League,regular,P6501649,Snedecor,,San Antonio,1915-04-08,1915-04-25,16,0,16,0,0,0,0,0,0,0,0,0
 1915,Texas League,regular,P7379282,Speer,,Fort Worth,1915-04-09,1915-04-14,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Texas League,regular,P2148479,Stephens,,Dallas,1915-04-13,1915-04-18,5,0,0,0,0,0,0,0,0,0,5,0
+1915,Texas League,regular,P2148479,Stephens,,Dallas,1915-04-13,1915-04-21,7,0,0,0,0,0,0,0,0,0,7,0
 1915,Texas League,regular,P9986781,Stevens,,Dallas,1915-04-16,1915-04-16,1,0,0,0,0,0,0,0,0,0,1,0
 1915,Texas League,regular,P9305569,Stewart,,Galveston,1915-04-11,1915-04-11,1,0,0,0,0,1,0,0,0,0,0,0
-1915,Texas League,regular,P9558216,Stewart,,San Antonio,1915-04-15,1915-04-19,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Texas League,regular,P6341960,Storch,,Dallas,1915-04-08,1915-04-18,11,0,0,0,0,0,11,0,11,0,0,0
-1915,Texas League,regular,P9930400,Stow,,Fort Worth,1915-04-08,1915-04-18,11,0,0,0,0,11,0,0,0,0,0,0
+1915,Texas League,regular,P9558216,Stewart,,San Antonio,1915-04-15,1915-04-23,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Texas League,regular,P6341960,Storch,,Dallas,1915-04-08,1915-04-24,14,0,0,0,0,0,14,0,14,0,0,0
+1915,Texas League,regular,P9930400,Stow,,Fort Worth,1915-04-08,1915-04-24,14,0,0,0,0,14,0,0,0,0,0,0
 1915,Texas League,regular,P1767226,Stuart,,Galveston,1915-04-08,1915-04-17,4,0,0,0,0,2,0,0,0,0,0,0
-1915,Texas League,regular,P5650051,Summers,,Galveston,1915-04-12,1915-04-19,8,0,0,0,1,8,0,0,0,0,0,0
+1915,Texas League,regular,P5650051,Summers,,Galveston,1915-04-12,1915-04-25,12,0,0,0,1,12,0,0,0,0,0,0
 1915,Texas League,regular,P0965912,Swan,,Beaumont,1915-04-13,1915-04-16,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Texas League,regular,P0318976,Taff,,Beaumont,1915-04-10,1915-04-19,3,3,0,0,0,0,0,0,0,0,0,3
-1915,Texas League,regular,P1562518,Tanner,,Waco,1915-04-08,1915-04-18,11,0,0,0,0,11,0,0,0,0,0,0
-1915,Texas League,regular,P8525888,Tarleton,,Galveston,1915-04-08,1915-04-19,11,0,11,0,0,0,0,0,0,0,0,0
-1915,Texas League,regular,P1216184,Toland,,Shreveport,1915-04-08,1915-04-18,11,0,0,0,0,0,0,0,0,0,11,0
+1915,Texas League,regular,P0318976,Taff,,Beaumont,1915-04-10,1915-04-25,5,5,0,0,0,0,0,0,0,0,0,5
+1915,Texas League,regular,P1562518,Tanner,,Waco,1915-04-08,1915-04-25,14,0,0,0,0,14,0,0,0,0,0,0
+1915,Texas League,regular,P3240271,Tannery,,Waco,1915-04-23,1915-04-23,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Texas League,regular,P8525888,Tarleton,,Galveston,1915-04-08,1915-04-25,15,0,15,0,0,0,0,0,0,0,0,0
+1915,Texas League,regular,P1216184,Toland,,Shreveport,1915-04-08,1915-04-25,15,0,0,0,0,0,0,0,0,0,15,0
 1915,Texas League,regular,P7863460,Veasey,,Galveston,1915-04-13,1915-04-19,4,4,0,0,0,0,0,0,0,0,0,4
-1915,Texas League,regular,P9270160,Walters,,Waco,1915-04-09,1915-04-13,4,0,0,0,0,0,0,0,0,0,4,0
-1915,Texas League,regular,P9127651,Ware,,Houston,1915-04-10,1915-04-15,3,3,0,0,0,0,0,0,0,0,0,3
-1915,Texas League,regular,P4306387,Watson,,Galveston,1915-04-08,1915-04-19,11,0,0,11,0,0,0,0,0,0,0,0
+1915,Texas League,regular,P9270160,Walters,,Waco,1915-04-09,1915-04-20,5,0,0,0,0,0,0,0,0,0,5,0
+1915,Texas League,regular,P9127651,Ware,,Houston,1915-04-10,1915-04-20,4,4,0,0,0,0,0,0,0,0,0,4
+1915,Texas League,regular,P4306387,Watson,,Galveston,1915-04-08,1915-04-25,15,0,0,15,0,0,0,0,0,0,0,0
 1915,Texas League,regular,P7801568,Weller,,Dallas,1915-04-10,1915-04-15,2,2,0,0,0,0,0,0,0,0,0,2
 1915,Texas League,regular,P7200182,White,,Dallas,1915-04-08,1915-04-12,5,0,0,0,0,0,0,0,0,0,5,0
-1915,Texas League,regular,P7634318,Wohlleben,,Waco,1915-04-08,1915-04-18,6,0,6,0,0,0,0,0,0,0,0,0
+1915,Texas League,regular,P7634318,Wohlleben,,Waco,1915-04-08,1915-04-25,10,0,10,0,0,0,0,0,0,0,0,0
 1915,Texas League,regular,P8443932,Wohllenben,,Waco,1915-04-10,1915-04-15,5,0,5,0,0,0,0,0,0,0,0,0
-1915,Western Association,regular,P3151683,Abington,,Fort Smith,1915-04-13,1915-04-19,7,0,0,0,0,0,7,0,7,0,0,0
+1915,Texas League,regular,P5772328,Yardley,,Waco,1915-04-20,1915-04-20,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Western Association,regular,P3151683,Abington,,Fort Smith,1915-04-13,1915-04-23,10,0,0,0,0,0,10,0,10,0,0,0
 1915,Western Association,regular,P0738725,Adams,,Sherman,1915-04-13,1915-04-18,6,0,0,0,0,0,0,0,0,0,6,0
-1915,Western Association,regular,P6836178,Aldridge,,Oklahoma City,1915-04-14,1915-04-14,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Western Association,regular,P4972597,Beese,,McAlester,1915-04-17,1915-04-17,1,0,1,0,0,0,0,0,0,0,0,0
-1915,Western Association,regular,P4024579,Besse,,McAlester,1915-04-13,1915-04-19,5,0,5,0,0,0,0,0,0,0,0,0
+1915,Western Association,regular,P6836178,Aldridge,,Oklahoma City,1915-04-14,1915-04-20,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Western Association,regular,P4972597,Beese,,McAlester,1915-04-17,1915-04-25,4,0,4,0,0,0,0,0,0,0,0,0
+1915,Western Association,regular,P4024579,Besse,,McAlester,1915-04-13,1915-04-20,6,0,6,0,0,0,0,0,0,0,0,0
 1915,Western Association,regular,P3577260,Bessie,,McAlester,1915-04-16,1915-04-16,1,0,1,0,0,0,0,0,0,0,0,0
-1915,Western Association,regular,P8327468,Brady,,Tulsa,1915-04-15,1915-04-19,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Western Association,regular,P6727921,Brooks,,Denison,1915-04-13,1915-04-19,6,0,0,0,6,0,0,0,0,0,0,0
-1915,Western Association,regular,P4885817,Brown,,Muskogee,1915-04-18,1915-04-18,1,0,0,0,0,0,0,0,0,0,1,0
-1915,Western Association,regular,P0422163,Burke,,Tulsa,1915-04-13,1915-04-19,7,0,0,0,0,0,3,0,0,3,4,0
-1915,Western Association,regular,P9849825,Campbell,,Denison,1915-04-13,1915-04-18,5,0,0,0,0,0,5,5,0,0,0,0
-1915,Western Association,regular,P3334745,Campbell,J.,Denison,1915-04-19,1915-04-19,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Western Association,regular,P3633028,Billings,,Paris,1915-04-24,1915-04-24,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Western Association,regular,P8327468,Brady,,Tulsa,1915-04-15,1915-04-23,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Western Association,regular,P6727921,Brooks,,Denison,1915-04-13,1915-04-25,9,0,0,0,9,0,0,0,0,0,0,0
+1915,Western Association,regular,P4885817,Brown,,Muskogee,1915-04-18,1915-04-25,2,0,0,0,0,0,1,0,0,1,1,0
+1915,Western Association,regular,P0422163,Burke,,Tulsa,1915-04-13,1915-04-25,12,0,0,0,0,0,7,0,0,7,5,0
+1915,Western Association,regular,P9849825,Campbell,,Denison,1915-04-13,1915-04-25,8,0,0,0,0,0,8,8,0,0,0,0
+1915,Western Association,regular,P3334745,Campbell,J.,Denison,1915-04-19,1915-04-25,2,2,0,0,0,0,0,0,0,0,0,2
 1915,Western Association,regular,P6540604,Campbell,M.,Denison,1915-04-15,1915-04-15,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Western Association,regular,P0560134,Campbell,W.,Denison,1915-04-19,1915-04-19,1,0,0,0,0,0,1,1,0,0,0,0
 1915,Western Association,regular,P6236683,Campbell [LF],,Denison,1915-04-15,1915-04-15,1,0,0,0,0,0,1,1,0,0,0,0
-1915,Western Association,regular,P0553892,Carey,,Paris,1915-04-13,1915-04-18,5,0,0,0,5,0,0,0,0,0,0,0
+1915,Western Association,regular,P0553892,Carey,,Paris,1915-04-13,1915-04-25,9,0,0,0,9,0,0,0,0,0,0,0
 1915,Western Association,regular,P7043807,Cary,,Paris,1915-04-15,1915-04-15,1,0,0,0,1,0,0,0,0,0,0,0
-1915,Western Association,regular,P7465085,Clark,,Paris,1915-04-13,1915-04-18,6,0,0,0,0,0,6,0,6,0,0,0
-1915,Western Association,regular,P9034325,Clements,,Tulsa,1915-04-13,1915-04-17,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Western Association,regular,P4767752,Coe,,Muskogee,1915-04-13,1915-04-18,6,0,0,1,0,0,0,0,0,0,5,0
-1915,Western Association,regular,P9552427,Corgan,,Fort Smith,1915-04-13,1915-04-19,7,0,0,0,6,0,1,1,0,0,0,0
+1915,Western Association,regular,P7465085,Clark,,Paris,1915-04-13,1915-04-25,10,0,0,0,0,0,10,0,10,0,0,0
+1915,Western Association,regular,P9034325,Clements,,Tulsa,1915-04-13,1915-04-25,4,4,0,0,0,0,0,0,0,0,0,4
+1915,Western Association,regular,P4767752,Coe,,Muskogee,1915-04-13,1915-04-25,7,0,0,1,0,0,0,0,0,0,6,0
+1915,Western Association,regular,P9552427,Corgan,,Fort Smith,1915-04-13,1915-04-23,10,0,0,0,9,0,1,1,0,0,0,0
 1915,Western Association,regular,P7529049,Corzine,,Sherman,1915-04-14,1915-04-19,4,3,0,0,0,0,1,1,0,0,0,3
-1915,Western Association,regular,P3087800,Covington,,Denison,1915-04-13,1915-04-16,3,2,0,1,0,0,0,0,0,0,0,2
+1915,Western Association,regular,P3087800,Covington,,Denison,1915-04-13,1915-04-21,5,4,0,1,0,0,0,0,0,0,0,4
 1915,Western Association,regular,P6841178,Cross,,Paris,1915-04-13,1915-04-14,2,0,0,0,0,2,0,0,0,0,0,0
-1915,Western Association,regular,P3643996,Dameron,,Oklahoma City,1915-04-13,1915-04-19,7,0,7,0,0,0,0,0,0,0,0,0
-1915,Western Association,regular,P3193328,Daniels,,Paris,1915-04-14,1915-04-18,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Western Association,regular,P3643996,Dameron,,Oklahoma City,1915-04-13,1915-04-25,10,0,10,0,0,0,0,0,0,0,0,0
+1915,Western Association,regular,P3193328,Daniels,,Paris,1915-04-14,1915-04-23,3,3,0,0,0,0,0,0,0,0,0,3
 1915,Western Association,regular,P1721683,Dixon,,McAlester,1915-04-15,1915-04-15,1,0,0,0,0,0,0,0,0,0,0,0
-1915,Western Association,regular,P8440177,Doty,,Fort Smith,1915-04-13,1915-04-16,4,0,0,0,0,0,4,0,0,4,0,0
-1915,Western Association,regular,P1270318,Dowie,,Oklahoma City,1915-04-13,1915-04-18,6,0,0,0,0,0,0,0,0,0,6,0
-1915,Western Association,regular,P3001605,Dunn,,Paris,1915-04-14,1915-04-18,5,0,0,0,0,0,0,0,0,0,5,0
+1915,Western Association,regular,P8440177,Doty,,Fort Smith,1915-04-13,1915-04-23,7,0,0,0,0,0,7,2,0,5,0,0
+1915,Western Association,regular,P1270318,Dowie,,Oklahoma City,1915-04-13,1915-04-21,7,0,0,0,0,0,0,0,0,0,7,0
+1915,Western Association,regular,P3001605,Dunn,,Paris,1915-04-14,1915-04-25,8,0,0,0,0,0,0,0,0,0,7,0
 1915,Western Association,regular,P8046537,Dupee,,Oklahoma City,1915-04-17,1915-04-17,1,0,0,0,1,0,0,0,0,0,0,0
 1915,Western Association,regular,P8915677,Dupey,,Oklahoma City,1915-04-16,1915-04-16,1,0,0,0,1,0,0,0,0,0,0,0
-1915,Western Association,regular,P5860973,Dupuy,,Oklahoma City,1915-04-13,1915-04-19,5,0,0,0,5,0,0,0,0,0,0,0
+1915,Western Association,regular,P0067080,Dupuy,,McAlester,1915-04-23,1915-04-25,2,0,0,0,2,0,0,0,0,0,0,0
+1915,Western Association,regular,P5860973,Dupuy,,Oklahoma City,1915-04-13,1915-04-20,6,0,0,0,5,0,0,0,0,0,0,0
 1915,Western Association,regular,P9764525,Eden,,McAlester,1915-04-17,1915-04-18,2,0,0,2,0,0,0,0,0,0,0,0
-1915,Western Association,regular,P3231072,Edens,,McAlester,1915-04-13,1915-04-19,5,0,0,5,0,0,0,0,0,0,0,0
+1915,Western Association,regular,P3231072,Edens,,McAlester,1915-04-13,1915-04-25,9,0,0,9,0,0,0,0,0,0,0,0
+1915,Western Association,regular,P4546192,Eunick,,Muskogee,1915-04-25,1915-04-25,1,0,0,1,0,0,0,0,0,0,0,0
 1915,Western Association,regular,P1245549,Faircloth,,Fort Smith,1915-04-14,1915-04-19,3,3,0,0,0,0,0,0,0,0,0,3
-1915,Western Association,regular,P0221056,Fowler,,McAlester,1915-04-15,1915-04-18,3,0,0,0,0,0,0,0,0,0,2,0
+1915,Western Association,regular,P0221056,Fowler,,McAlester,1915-04-15,1915-04-21,5,0,0,0,0,0,0,0,0,0,3,0
 1915,Western Association,regular,P3588549,Francis,,Sherman,1915-04-16,1915-04-16,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Western Association,regular,P9478415,Franklin,,Tulsa,1915-04-13,1915-04-19,7,0,0,0,0,0,7,0,7,0,0,0
+1915,Western Association,regular,P9478415,Franklin,,Tulsa,1915-04-13,1915-04-25,12,0,0,0,0,0,12,0,12,0,0,0
 1915,Western Association,regular,P5320864,Fullenwider,,Sherman,1915-04-13,1915-04-13,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Western Association,regular,P9222017,Fulwider,,Sherman,1915-04-17,1915-04-17,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Western Association,regular,P3779911,Gardener,,Sherman,1915-04-13,1915-04-13,1,0,1,0,0,0,0,0,0,0,0,0
-1915,Western Association,regular,P3797762,Gardner,,Sherman,1915-04-14,1915-04-19,6,0,4,0,3,0,0,0,0,0,0,0
+1915,Western Association,regular,P3797762,Gardner,,Sherman,1915-04-14,1915-04-20,7,0,4,0,4,0,0,0,0,0,0,0
 1915,Western Association,regular,P9727426,Gearhardt,,Paris,1915-04-13,1915-04-13,1,0,0,0,0,0,0,0,0,0,1,0
 1915,Western Association,regular,P0260996,Gearhart,,Oklahoma City,1915-04-17,1915-04-18,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Western Association,regular,P5470732,Gierhart,,Oklahoma City,1915-04-13,1915-04-13,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Western Association,regular,P6601707,Glass,,Muskogee,1915-04-15,1915-04-18,3,1,0,0,0,0,1,0,0,1,0,1
-1915,Western Association,regular,P0561729,Gourley,,Tulsa,1915-04-13,1915-04-19,6,0,0,0,6,0,0,0,0,0,0,0
+1915,Western Association,regular,P3813793,Gerhardt,,Paris,1915-04-24,1915-04-25,2,0,0,0,0,0,0,0,0,0,2,0
+1915,Western Association,regular,P5470732,Gierhart,,Oklahoma City,1915-04-13,1915-04-25,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Western Association,regular,P3185479,Gillam,,Muskogee,1915-04-25,1915-04-25,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Western Association,regular,P6601707,Glass,,Muskogee,1915-04-15,1915-04-25,4,2,0,0,0,0,1,0,0,1,0,2
+1915,Western Association,regular,P8640784,Glass,,Oklahoma City,1915-04-20,1915-04-25,2,0,0,0,0,0,0,0,0,0,2,0
+1915,Western Association,regular,P0561729,Gourley,,Tulsa,1915-04-13,1915-04-25,11,0,0,0,11,0,0,0,0,0,0,0
 1915,Western Association,regular,P9304604,Gourly,,Tulsa,1915-04-14,1915-04-14,1,0,0,0,1,0,0,0,0,0,0,0
-1915,Western Association,regular,P6961553,Grady,,Tulsa,1915-04-15,1915-04-16,2,1,0,0,0,0,1,0,0,1,0,1
-1915,Western Association,regular,P9153079,Hall,,Oklahoma City,1915-04-13,1915-04-19,7,0,0,0,0,0,7,0,7,0,0,0
-1915,Western Association,regular,P2593027,Harper,,Denison,1915-04-13,1915-04-19,7,0,0,7,1,0,0,0,0,0,0,0
-1915,Western Association,regular,P8711709,Heatley,,McAlester,1915-04-13,1915-04-19,7,0,0,0,0,0,7,0,0,7,0,0
-1915,Western Association,regular,P8227458,Hellman,,Denison,1915-04-13,1915-04-19,7,0,7,0,0,0,0,0,0,0,0,0
-1915,Western Association,regular,P6897826,Herbert,,Oklahoma City,1915-04-14,1915-04-16,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Western Association,regular,P6761820,Herman,,Denison,1915-04-15,1915-04-15,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Western Association,regular,P6961553,Grady,,Tulsa,1915-04-15,1915-04-24,4,3,0,0,0,0,1,0,0,1,0,3
+1915,Western Association,regular,P1748446,Gross,,Paris,1915-04-22,1915-04-25,3,0,0,0,0,3,0,0,0,0,0,0
+1915,Western Association,regular,P9153079,Hall,,Oklahoma City,1915-04-13,1915-04-25,10,0,0,0,0,0,10,0,10,0,0,0
+1915,Western Association,regular,P2593027,Harper,,Denison,1915-04-13,1915-04-25,10,0,0,10,1,0,0,0,0,0,0,0
+1915,Western Association,regular,P8711709,Heatley,,McAlester,1915-04-13,1915-04-25,11,0,0,0,0,0,11,0,0,11,0,0
+1915,Western Association,regular,P8227458,Hellman,,Denison,1915-04-13,1915-04-25,10,0,10,0,0,0,0,0,0,0,0,0
+1915,Western Association,regular,P0855351,Henderson,,Muskogee,1915-04-25,1915-04-25,1,0,0,0,0,0,1,0,1,0,0,0
+1915,Western Association,regular,P6897826,Herbert,,Oklahoma City,1915-04-14,1915-04-20,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Western Association,regular,P6761820,Herman,,Denison,1915-04-15,1915-04-21,2,0,0,0,0,0,0,0,0,0,2,0
 1915,Western Association,regular,P2470439,Hooper,,Tulsa,1915-04-15,1915-04-15,1,0,0,0,0,0,1,1,0,0,0,0
-1915,Western Association,regular,P7734888,Hopper,,Tulsa,1915-04-13,1915-04-19,6,0,0,0,0,0,6,6,0,0,0,0
-1915,Western Association,regular,P7491782,Hornsby,,Denison,1915-04-13,1915-04-19,7,0,0,0,0,7,0,0,0,0,0,0
-1915,Western Association,regular,P7534425,Jones,,Tulsa,1915-04-14,1915-04-19,3,2,0,0,0,0,0,0,0,0,0,2
-1915,Western Association,regular,P0670503,Kelsey,,Tulsa,1915-04-13,1915-04-19,7,0,0,0,0,0,4,0,0,4,4,0
-1915,Western Association,regular,P9189636,Kenney,,Tulsa,1915-04-13,1915-04-19,7,0,0,7,0,0,0,0,0,0,0,0
-1915,Western Association,regular,P0619008,Ketter,,McAlester,1915-04-13,1915-04-19,6,0,0,0,0,0,0,0,0,0,6,0
+1915,Western Association,regular,P7734888,Hopper,,Tulsa,1915-04-13,1915-04-25,11,0,0,0,0,0,11,11,0,0,0,0
+1915,Western Association,regular,P7491782,Hornsby,,Denison,1915-04-13,1915-04-25,10,0,0,0,0,10,0,0,0,0,0,0
+1915,Western Association,regular,P5183457,Houston,,McAlester,1915-04-23,1915-04-25,2,0,0,0,0,2,0,0,0,0,0,0
+1915,Western Association,regular,P0151504,Johnson,,McAlester,1915-04-25,1915-04-25,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Western Association,regular,P2626782,Johnson,,Sherman,1915-04-20,1915-04-20,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Western Association,regular,P7534425,Jones,,Tulsa,1915-04-14,1915-04-23,5,4,0,0,0,0,0,0,0,0,0,4
+1915,Western Association,regular,P0670503,Kelsey,,Tulsa,1915-04-13,1915-04-25,12,0,0,0,0,0,5,0,0,5,8,0
+1915,Western Association,regular,P9189636,Kenney,,Tulsa,1915-04-13,1915-04-25,12,0,0,12,0,0,0,0,0,0,0,0
+1915,Western Association,regular,P0619008,Ketter,,McAlester,1915-04-13,1915-04-25,9,0,0,0,0,0,0,0,0,0,9,0
 1915,Western Association,regular,P5045517,Kildruff,,Oklahoma City,1915-04-16,1915-04-17,2,0,0,0,0,2,0,0,0,0,0,0
-1915,Western Association,regular,P8471163,Kilduff,,Oklahoma City,1915-04-13,1915-04-18,4,0,0,0,0,4,0,0,0,0,0,0
-1915,Western Association,regular,P8597767,Killduff,,Oklahoma City,1915-04-19,1915-04-19,1,0,0,0,0,1,0,0,0,0,0,0
-1915,Western Association,regular,P7543967,King,,Oklahoma City,1915-04-13,1915-04-19,7,0,0,0,0,0,7,6,0,1,0,0
+1915,Western Association,regular,P8471163,Kilduff,,Oklahoma City,1915-04-13,1915-04-25,5,0,0,0,0,5,0,0,0,0,0,0
+1915,Western Association,regular,P8597767,Killduff,,Oklahoma City,1915-04-19,1915-04-21,3,0,0,0,0,3,0,0,0,0,0,0
+1915,Western Association,regular,P7543967,King,,Oklahoma City,1915-04-13,1915-04-25,10,0,0,0,0,0,10,9,0,1,0,0
 1915,Western Association,regular,P3910511,Kinney,,Denison,1915-04-17,1915-04-17,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Western Association,regular,P6795782,Koehn,,McAlester,1915-04-19,1915-04-19,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Western Association,regular,P9840290,Lawrence,,McAlester,1915-04-13,1915-04-19,7,0,0,0,7,0,0,0,0,0,0,0
-1915,Western Association,regular,P7869134,Leininger,,Fort Smith,1915-04-13,1915-04-19,7,0,0,0,0,7,0,0,0,0,0,0
+1915,Western Association,regular,P9840290,Lawrence,,McAlester,1915-04-13,1915-04-21,9,0,0,0,9,0,0,0,0,0,0,0
+1915,Western Association,regular,P6132810,Leinenger,,Fort Smith,1915-04-21,1915-04-21,1,0,0,0,0,1,0,0,0,0,0,0
+1915,Western Association,regular,P7869134,Leininger,,Fort Smith,1915-04-13,1915-04-23,9,0,0,0,0,9,0,0,0,0,0,0
 1915,Western Association,regular,P4381126,Lipp,,Muskogee,1915-04-15,1915-04-15,1,0,0,0,0,0,1,0,1,0,0,0
-1915,Western Association,regular,P7797177,Lipps,,Muskogee,1915-04-13,1915-04-18,4,0,0,0,0,0,4,0,4,0,0,0
-1915,Western Association,regular,P8440001,Long,,McAlester,1915-04-13,1915-04-16,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Western Association,regular,P0231948,Maag,,Oklahoma City,1915-04-13,1915-04-19,7,0,0,7,0,0,0,0,0,0,0,0
-1915,Western Association,regular,P3786166,Mathis,,Paris,1915-04-13,1915-04-18,6,0,6,0,0,0,0,0,0,0,0,0
-1915,Western Association,regular,P7367076,McCarty,,Fort Smith,1915-04-13,1915-04-19,7,0,0,7,0,0,0,0,0,0,0,0
-1915,Western Association,regular,P0731244,McConnell,,Fort Smith,1915-04-14,1915-04-14,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Western Association,regular,P7797177,Lipps,,Muskogee,1915-04-13,1915-04-25,5,0,0,0,0,0,5,1,4,0,0,0
+1915,Western Association,regular,P8440001,Long,,McAlester,1915-04-13,1915-04-23,4,3,0,0,0,0,0,0,0,0,0,3
+1915,Western Association,regular,P0231948,Maag,,Oklahoma City,1915-04-13,1915-04-25,10,0,0,10,0,0,0,0,0,0,0,0
+1915,Western Association,regular,P3786166,Mathis,,Paris,1915-04-13,1915-04-25,10,0,10,0,0,0,0,0,0,0,0,0
+1915,Western Association,regular,P7367076,McCarty,,Fort Smith,1915-04-13,1915-04-23,10,0,0,10,0,0,0,0,0,0,0,0
+1915,Western Association,regular,P0731244,McConnell,,Fort Smith,1915-04-14,1915-04-20,2,2,0,0,0,0,0,0,0,0,0,2
 1915,Western Association,regular,P6783986,McDonald,,Paris,1915-04-16,1915-04-17,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Western Association,regular,P1405768,Merritt,,Denison,1915-04-13,1915-04-19,7,0,0,0,1,0,0,0,0,0,6,0
+1915,Western Association,regular,P1355914,McKey,,McAlester,1915-04-21,1915-04-21,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Western Association,regular,P1405768,Merritt,,Denison,1915-04-13,1915-04-25,10,0,0,0,1,0,1,0,0,1,8,0
 1915,Western Association,regular,P7975666,Mickell,,McAlester,1915-04-14,1915-04-14,1,0,0,0,0,0,1,1,0,0,0,0
 1915,Western Association,regular,P7632307,Mickey,,McAlester,1915-04-13,1915-04-17,3,3,0,0,0,0,0,0,0,0,0,3
 1915,Western Association,regular,P9117967,Milam,,Sherman,1915-04-16,1915-04-18,3,0,0,0,0,0,3,0,3,0,0,0
-1915,Western Association,regular,P3519920,Milan,,Sherman,1915-04-13,1915-04-19,4,0,0,0,0,0,4,0,4,0,0,0
+1915,Western Association,regular,P3519920,Milan,,Sherman,1915-04-13,1915-04-20,5,0,0,0,0,0,5,0,5,0,0,0
 1915,Western Association,regular,P1543317,Morgan,,Muskogee,1915-04-15,1915-04-18,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Western Association,regular,P4908438,Morris,,Tulsa,1915-04-13,1915-04-19,7,0,0,1,0,6,0,0,0,0,0,0
+1915,Western Association,regular,P4908438,Morris,,Tulsa,1915-04-13,1915-04-25,12,0,0,1,0,11,0,0,0,0,0,0
 1915,Western Association,regular,P0981999,Moseley,,Fort Smith,1915-04-18,1915-04-18,1,0,1,0,0,0,0,0,0,0,0,0
 1915,Western Association,regular,P3472970,Mosely,,Fort Smith,1915-04-17,1915-04-17,1,0,1,0,0,0,0,0,0,0,0,0
 1915,Western Association,regular,P8304682,Mosley,,Fort Smith,1915-04-19,1915-04-19,1,0,1,0,0,0,0,0,0,0,0,0
 1915,Western Association,regular,P5112312,Moss,,Oklahoma City,1915-04-19,1915-04-19,1,0,0,0,0,0,0,0,0,0,1,0
 1915,Western Association,regular,P7628113,Myers,,Denison,1915-04-14,1915-04-18,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Western Association,regular,P4595543,Nagle,,Paris,1915-04-13,1915-04-18,6,0,0,0,0,0,6,0,0,6,0,0
-1915,Western Association,regular,P7444963,Neeley,,Denison,1915-04-18,1915-04-18,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Western Association,regular,P4595543,Nagle,,Paris,1915-04-13,1915-04-25,10,0,0,0,0,0,10,0,0,10,0,0
+1915,Western Association,regular,P7444963,Neeley,,Denison,1915-04-18,1915-04-20,2,2,0,0,0,0,0,0,0,0,0,2
 1915,Western Association,regular,P1257630,Neely,,Denison,1915-04-13,1915-04-14,2,2,0,0,0,0,0,0,0,0,0,2
 1915,Western Association,regular,P7117767,Nickel,,McAlester,1915-04-15,1915-04-18,3,0,0,0,0,0,3,3,0,0,0,0
-1915,Western Association,regular,P9800339,Nickell,,McAlester,1915-04-13,1915-04-19,2,0,0,0,0,0,2,2,0,0,0,0
+1915,Western Association,regular,P9800339,Nickell,,McAlester,1915-04-13,1915-04-25,6,0,0,0,0,0,6,6,0,0,0,0
 1915,Western Association,regular,P1924775,Nickle,,McAlester,1915-04-16,1915-04-16,1,0,0,0,0,0,1,1,0,0,0,0
 1915,Western Association,regular,P9274143,Nokes,,Sherman,1915-04-13,1915-04-17,5,0,0,0,5,0,0,0,0,0,0,0
-1915,Western Association,regular,P6881141,O'Neal,,Sherman,1915-04-13,1915-04-19,7,1,0,0,0,0,7,1,0,6,0,1
+1915,Western Association,regular,P6881141,O'Neal,,Sherman,1915-04-13,1915-04-20,8,1,0,0,0,0,8,1,0,7,0,1
 1915,Western Association,regular,P7392147,Page,,Oklahoma City,1915-04-14,1915-04-19,3,2,0,0,0,0,0,0,0,0,0,2
-1915,Western Association,regular,P7310834,Palmer,,Muskogee,1915-04-13,1915-04-18,6,0,0,0,0,6,0,0,0,0,0,0
+1915,Western Association,regular,P7310834,Palmer,,Muskogee,1915-04-13,1915-04-25,7,0,0,0,0,7,0,0,0,0,0,0
 1915,Western Association,regular,P1570129,Patterson,,Muskogee,1915-04-13,1915-04-18,6,0,0,0,0,0,6,6,0,0,0,0
-1915,Western Association,regular,P2540257,Peebles,,Denison,1915-04-13,1915-04-19,7,0,0,0,0,0,7,0,0,7,0,0
+1915,Western Association,regular,P2540257,Peebles,,Denison,1915-04-13,1915-04-25,10,0,0,0,0,0,10,0,0,10,0,0
 1915,Western Association,regular,P3192521,Phelan,,Muskogee,1915-04-13,1915-04-17,5,1,0,0,0,0,4,0,0,4,0,1
 1915,Western Association,regular,P6237589,Phillips,,Paris,1915-04-13,1915-04-17,3,3,0,0,0,0,0,0,0,0,0,3
-1915,Western Association,regular,P7931206,Posey,,Oklahoma City,1915-04-14,1915-04-17,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Western Association,regular,P7931206,Posey,,Oklahoma City,1915-04-14,1915-04-21,3,3,0,0,0,0,0,0,0,0,0,3
 1915,Western Association,regular,P0188420,Powell,,Muskogee,1915-04-13,1915-04-17,5,0,0,5,0,0,0,0,0,0,0,0
-1915,Western Association,regular,P8240749,Price,,Tulsa,1915-04-13,1915-04-19,7,0,7,0,0,0,0,0,0,0,0,0
+1915,Western Association,regular,P8240749,Price,,Tulsa,1915-04-13,1915-04-25,12,0,12,0,0,0,0,0,0,0,0,0
 1915,Western Association,regular,P4398158,Raferty,,McAlester,1915-04-14,1915-04-14,1,0,0,0,0,0,1,0,1,0,0,0
 1915,Western Association,regular,P7217902,Raftery,,McAlester,1915-04-13,1915-04-13,1,0,0,0,0,0,1,0,1,0,0,0
-1915,Western Association,regular,P6804779,Ray,,Sherman,1915-04-16,1915-04-16,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Western Association,regular,P8221034,Reynolds,,Tulsa,1915-04-15,1915-04-17,2,0,0,0,0,1,1,0,0,1,0,0
-1915,Western Association,regular,P5513295,Robertson,,Fort Smith,1915-04-15,1915-04-17,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Western Association,regular,P6804779,Ray,,Sherman,1915-04-16,1915-04-20,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Western Association,regular,P8221034,Reynolds,,Tulsa,1915-04-15,1915-04-24,3,0,0,0,0,1,1,0,0,1,0,0
+1915,Western Association,regular,P5513295,Robertson,,Fort Smith,1915-04-15,1915-04-23,3,3,0,0,0,0,0,0,0,0,0,3
 1915,Western Association,regular,P2687851,Robinson,,Denison,1915-04-13,1915-04-18,6,0,0,0,0,0,6,0,6,0,0,0
-1915,Western Association,regular,P6069531,Robinson,,Muskogee,1915-04-16,1915-04-16,1,0,0,0,1,0,0,0,0,0,0,0
-1915,Western Association,regular,P3250411,Robinson,B.,Fort Smith,1915-04-13,1915-04-19,4,0,3,0,0,0,1,1,0,0,0,0
+1915,Western Association,regular,P6846203,Robinson,,Fort Smith,1915-04-23,1915-04-23,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Western Association,regular,P6069531,Robinson,,Muskogee,1915-04-16,1915-04-25,2,0,0,0,2,0,0,0,0,0,0,0
+1915,Western Association,regular,P3250411,Robinson,B.,Fort Smith,1915-04-13,1915-04-20,5,0,4,0,0,0,1,1,0,0,0,0
 1915,Western Association,regular,P7557395,Robinson,J.,Muskogee,1915-04-13,1915-04-15,3,0,0,0,3,0,0,0,0,0,0,0
-1915,Western Association,regular,P7964589,Robinson,T.,Denison,1915-04-19,1915-04-19,1,0,0,0,0,0,1,0,1,0,0,0
+1915,Western Association,regular,P7964589,Robinson,T.,Denison,1915-04-19,1915-04-21,3,0,0,0,0,0,3,0,3,0,0,0
 1915,Western Association,regular,P0067148,Robinson [FS],,Fort Smith,1915-04-17,1915-04-18,2,0,0,0,0,0,2,2,0,0,0,0
 1915,Western Association,regular,P6628072,Robinson [MUS],,Muskogee,1915-04-17,1915-04-18,2,0,0,0,2,0,0,0,0,0,0,0
+1915,Western Association,regular,P1958493,Robison,,Denison,1915-04-25,1915-04-25,1,0,0,0,0,0,1,0,1,0,0,0
 1915,Western Association,regular,P5907757,Robison,,Fort Smith,1915-04-16,1915-04-16,1,0,1,0,0,0,0,0,0,0,0,0
+1915,Western Association,regular,P1282717,Robison,B.,Fort Smith,1915-04-21,1915-04-21,1,0,1,0,0,0,0,0,0,0,0,0
 1915,Western Association,regular,P8778101,Saap,,Paris,1915-04-14,1915-04-14,1,0,0,0,0,0,0,0,0,0,0,0
 1915,Western Association,regular,P0477391,Salisbury,,Muskogee,1915-04-14,1915-04-17,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Western Association,regular,P2537806,Schulte,,Oklahoma City,1915-04-13,1915-04-19,7,0,0,0,0,0,7,1,0,6,0,0
-1915,Western Association,regular,P2332254,Schultz,,Fort Smith,1915-04-13,1915-04-19,7,0,0,0,0,0,0,0,0,0,7,0
+1915,Western Association,regular,P2537806,Schulte,,Oklahoma City,1915-04-13,1915-04-25,10,0,0,0,0,0,10,1,0,9,0,0
+1915,Western Association,regular,P2332254,Schultz,,Fort Smith,1915-04-13,1915-04-23,10,0,0,0,0,0,0,0,0,0,10,0
+1915,Western Association,regular,P9084027,Shearer,,Fort Smith,1915-04-23,1915-04-23,1,0,0,0,0,0,0,0,0,0,0,0
 1915,Western Association,regular,P1896439,Shears,,Fort Smith,1915-04-13,1915-04-14,2,0,0,0,1,0,0,0,0,0,0,0
-1915,Western Association,regular,P6931593,Sheffield,,Sherman,1915-04-19,1915-04-19,1,0,0,0,0,0,1,1,0,0,0,0
-1915,Western Association,regular,P6663278,Shelton,,McAlester,1915-04-13,1915-04-19,7,0,0,0,0,7,0,0,0,0,0,0
+1915,Western Association,regular,P9874184,Sheer,,Fort Smith,1915-04-21,1915-04-21,1,0,0,0,0,0,1,1,0,0,0,0
+1915,Western Association,regular,P6931593,Sheffield,,Sherman,1915-04-19,1915-04-20,2,0,0,0,0,0,2,2,0,0,0,0
+1915,Western Association,regular,P6663278,Shelton,,McAlester,1915-04-13,1915-04-21,9,0,0,0,0,9,0,0,0,0,0,0
 1915,Western Association,regular,P8710353,Shinn,,McAlester,1915-04-15,1915-04-18,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Western Association,regular,P2601458,Snapp,,Paris,1915-04-15,1915-04-18,4,0,0,4,0,0,0,0,0,0,0,0
-1915,Western Association,regular,P4292145,Sorey,,Sherman,1915-04-13,1915-04-19,7,0,0,0,0,7,0,0,0,0,0,0
+1915,Western Association,regular,P2601458,Snapp,,Paris,1915-04-15,1915-04-23,5,0,0,5,0,0,0,0,0,0,0,0
+1915,Western Association,regular,P4292145,Sorey,,Sherman,1915-04-13,1915-04-20,8,0,0,0,0,8,0,0,0,0,0,0
 1915,Western Association,regular,P0048515,St. John,,Sherman,1915-04-13,1915-04-18,6,0,0,0,0,0,6,5,0,1,0,0
-1915,Western Association,regular,P0458608,Stout,,McAlester,1915-04-13,1915-04-19,7,0,0,0,0,0,5,0,5,0,0,0
-1915,Western Association,regular,P7032561,Sweeney,,Fort Smith,1915-04-14,1915-04-18,5,0,0,0,0,0,5,3,0,2,0,0
+1915,Western Association,regular,P0458608,Stout,,McAlester,1915-04-13,1915-04-25,11,0,0,0,0,0,9,0,9,0,0,0
+1915,Western Association,regular,P7032561,Sweeney,,Fort Smith,1915-04-14,1915-04-23,8,0,0,0,0,0,8,4,0,4,0,0
 1915,Western Association,regular,P7292684,Sweeny,,Fort Smith,1915-04-19,1915-04-19,1,0,0,0,0,0,1,0,0,1,0,0
-1915,Western Association,regular,P3606841,Tacke,,Muskogee,1915-04-14,1915-04-18,5,0,5,0,0,0,0,0,0,0,0,0
+1915,Western Association,regular,P3606841,Tacke,,Muskogee,1915-04-14,1915-04-25,6,0,6,0,0,0,0,0,0,0,0,0
 1915,Western Association,regular,P9576763,Taeke,,Muskogee,1915-04-13,1915-04-13,1,0,1,0,0,0,0,0,0,0,0,0
-1915,Western Association,regular,P4784460,Taylor,,McAlester,1915-04-15,1915-04-15,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Western Association,regular,P4608488,Thompson,,Paris,1915-04-13,1915-04-18,6,0,0,2,0,4,0,0,0,0,0,0
+1915,Western Association,regular,P4784460,Taylor,,McAlester,1915-04-15,1915-04-20,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Western Association,regular,P6697582,Thompson,,Oklahoma City,1915-04-20,1915-04-25,3,0,0,0,3,0,0,0,0,0,0,0
+1915,Western Association,regular,P4608488,Thompson,,Paris,1915-04-13,1915-04-24,9,0,0,4,0,5,0,0,0,0,0,0
+1915,Western Association,regular,P0353694,Thompson,H.,Paris,1915-04-25,1915-04-25,1,0,0,1,0,0,0,0,0,0,0,0
 1915,Western Association,regular,P2777409,Tipps,,Muskogee,1915-04-14,1915-04-14,1,0,0,0,0,0,1,0,1,0,0,0
 1915,Western Association,regular,P3608689,Trammel,,Sherman,1915-04-16,1915-04-17,2,0,1,0,0,0,1,0,0,1,0,0
-1915,Western Association,regular,P2889917,Trammell,,Sherman,1915-04-18,1915-04-19,2,0,2,0,0,0,0,0,0,0,0,0
-1915,Western Association,regular,P2493715,Turpin,,McAlester,1915-04-14,1915-04-17,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Western Association,regular,P8014644,Weber,,Sherman,1915-04-13,1915-04-19,7,0,0,7,0,0,0,0,0,0,0,0
+1915,Western Association,regular,P2889917,Trammell,,Sherman,1915-04-18,1915-04-20,3,0,3,0,0,0,0,0,0,0,0,0
+1915,Western Association,regular,P2493715,Turpin,,McAlester,1915-04-14,1915-04-20,3,3,0,0,0,0,0,0,0,0,0,3
+1915,Western Association,regular,P8014644,Weber,,Sherman,1915-04-13,1915-04-20,8,0,0,8,0,0,0,0,0,0,0,0
 1915,Western Association,regular,P5183742,Weeks,,Sherman,1915-04-15,1915-04-18,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Western Association,regular,P4798592,White,,Sherman,1915-04-19,1915-04-19,1,0,0,0,0,0,0,0,0,0,1,0
+1915,Western Association,regular,P4798592,White,,Sherman,1915-04-19,1915-04-20,2,0,0,0,0,0,0,0,0,0,2,0
 1915,Western Association,regular,P7511315,Williams,,Muskogee,1915-04-13,1915-04-18,4,3,0,0,0,0,1,0,0,1,0,3
 1915,Western Association,regular,P7645971,Womack,,Fort Smith,1915-04-17,1915-04-17,1,1,0,0,0,0,0,0,0,0,0,1
-1915,Western Association,regular,P0189583,Workman,,Paris,1915-04-13,1915-04-18,6,0,0,0,0,0,6,6,0,0,0,0
-1915,Western Association,regular,P5494370,Younkman,,Paris,1915-04-15,1915-04-17,2,2,0,0,0,0,0,0,0,0,0,2
-1915,Western Association,regular,P2804208,Zinn,,Fort Smith,1915-04-13,1915-04-18,2,2,0,0,0,0,0,0,0,0,0,2
+1915,Western Association,regular,P0189583,Workman,,Paris,1915-04-13,1915-04-25,10,0,0,0,0,0,10,10,0,0,0,0
+1915,Western Association,regular,P5494370,Younkman,,Paris,1915-04-15,1915-04-25,5,4,0,0,0,0,0,0,0,0,0,4
+1915,Western Association,regular,P2804208,Zinn,,Fort Smith,1915-04-13,1915-04-21,3,3,0,0,0,0,0,0,0,0,0,3
