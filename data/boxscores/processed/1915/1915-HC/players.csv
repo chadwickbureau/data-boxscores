@@ -24,9 +24,10 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1915,Colonial League,regular,P4262232,Brickley,,Fall River,1915-05-27,1915-05-27,1,0,0,0,0,0,1,0,0,1,0,0
 1915,Colonial League,regular,P1500435,Bridges,,Springfield,1915-05-20,1915-06-01,6,0,0,0,0,0,0,0,0,0,4,0
 1915,Colonial League,regular,P2500111,Burke,,Hartford,1915-06-26,1915-06-26,1,0,0,0,0,0,0,0,0,0,1,0
-1915,Colonial League,regular,P8327587,Burnes,,Pawtucket,1915-09-03,1915-09-03,1,1,0,0,0,0,0,0,0,0,0,1
+1915,Colonial League,regular,P5093291,Burnes [p],,Pawtucket,1915-09-03,1915-09-03,1,1,0,0,0,0,0,0,0,0,0,1
 1915,Colonial League,regular,P4298664,Burns,,Brockton,1915-07-06,1915-07-06,1,0,0,1,0,0,0,0,0,0,0,0
-1915,Colonial League,regular,P7269854,Burns,,Pawtucket,1915-05-20,1915-09-06,44,5,39,0,0,0,0,0,0,0,0,5
+1915,Colonial League,regular,P7269854,Burns,,Pawtucket,1915-05-20,1915-07-10,39,0,39,0,0,0,0,0,0,0,0,0
+1915,Colonial League,regular,P7316198,Burns [p],,Pawtucket,1915-08-21,1915-09-06,5,5,0,0,0,0,0,0,0,0,0,5
 1915,Colonial League,regular,P3387504,Bush,,Brockton,1915-06-21,1915-06-21,1,0,0,0,0,1,0,0,0,0,0,0
 1915,Colonial League,regular,P7171331,Cabrera,,Springfield,1915-06-12,1915-07-10,24,0,0,0,0,24,0,0,0,0,0,0
 1915,Colonial League,regular,P0923699,Cannon,,Hartford,1915-05-25,1915-06-28,25,0,0,1,0,0,0,0,0,0,24,0

@@ -415,7 +415,7 @@ Dukette @ 2b:	4 0 0 1 1 0
 Johnson @ lf:	4 0 2 0 0 0
 Mulcahy @ 1b:	3 0 1 13 1 0
 *Houck @ ph:	1 0 0 0 0 0
-Burns @ p:	2 0 0 0 2 0
+Burns [p] @ p:	2 0 0 0 2 0
 +Gearin @ ph:	1 0 0 0 0 0
 TOTALS:		33 1 7 24 16 3
 
@@ -443,11 +443,11 @@ B_2B: Swander
 B_3B: Miller
 B_SB: Bentley #2; McElroy; Houck
 B_SH: Lavigne; Collins
-P_BB: Burns #3; McElroy #1; Justin #2
+P_BB: Burns [p] #3; McElroy #1; Justin #2
 P_SO: McElroy #5; Justin #3 
 P_H: McElroy #5; Justin #2
 P_IP: McElroy #7; Justin #2 
-P_WP: Burns
+P_WP: Burns [p]
 T: 1:43
 U: Buckley
 
@@ -1070,7 +1070,7 @@ Dukette @ 2b:	2 0 0 0 2 0
 Johnson @ lf:	2 0 0 1 0 0
 Mulcahey @ 1b:	2 0 0 6 1 0
 Houck @ p:	0 0 0 0 0 0
-Burns @ p:	2 0 0 1 1 0
+Burns [p] @ p:	2 0 0 1 1 0
 TOTALS:		21 0 3 18 10 2
 
 New Bedford:	ab r h po a e
@@ -1091,10 +1091,10 @@ line: New Bedford: 0 0 0 0 0 7 x - 7
 B_LOB: New Bedford #7; Pawtucket #2
 B_2B: Rylander #2; Carr; Gilmore; O'Connell
 B_SB: McSherry
-P_BB: Gleason #2; Burns #2  
-P_SO: Gleason #2; Burns #2
-P_H: Burns #14
-P_IP: Houck #1; Burns #5 
+P_BB: Gleason #2; Burns [p] #2  
+P_SO: Gleason #2; Burns [p] #2
+P_H: Burns [p] #14
+P_IP: Houck #1; Burns [p] #5 
 F_DP: Mulcahey      
 F_PB: Russell
 T: 1:00

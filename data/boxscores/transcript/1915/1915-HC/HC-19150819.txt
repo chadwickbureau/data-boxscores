@@ -520,7 +520,7 @@ Johnson @ lf:	3 0 0 1 0 0
 Dukette @ 2b:	3 0 1 1 2 0
 Mulcahy @ 1b:	3 0 0 8 3 0
 Russell @ c:	2 0 0 4 1 0
-Burns @ p:	2 0 1 0 2 2
+Burns [p] @ p:	2 0 1 0 2 2
 TOTALS:		23 0 3 18 11 2
 
 New Haven:	ab r h po a e
@@ -541,8 +541,8 @@ line: New Haven: 1 0 2 0 0 1 x - 4
 B_LOB: Pawtucket #5; New Haven #6
 B_2B: Dukette
 B_SB: Coles; Soper
-P_BB: Burns #2; Leach #2 
-P_SO: Burns #4; Leach #4
+P_BB: Burns [p] #2; Leach #2 
+P_SO: Burns [p] #4; Leach #4
 T: 1:10
 U: Waters
 
@@ -913,7 +913,7 @@ Johnson @ lf:	3 0 1 1 0 0
 Dukette @ 2b:	3 0 0 2 1 0
 Mulcahy @ 1b:	2 0 0 4 0 0
 Russell @ c:	1 0 1 4 3 0
-Burns @ p:	2 0 0 0 1 0
+Burns [p] @ p:	2 0 0 0 1 0
 *Houck @ ph:	1 0 0 0 0 0
 TOTALS:		23 0 3 18 9 0
 
@@ -938,8 +938,8 @@ B_LOB: Brockton #2; Pawtucket #4
 B_2B: Speraw; Weeden
 B_SB: Bangs; Kiley; Dukette
 B_SH: Doherty
-P_BB: Peters #2; Burns #1
-P_SO: Peters #7; Burns #2
+P_BB: Peters #2; Burns [p] #1
+P_SO: Peters #7; Burns [p] #2
 F_DP: Bangs, Doherty, Courtney  
 F_PB: Russell
 T: 1:14
