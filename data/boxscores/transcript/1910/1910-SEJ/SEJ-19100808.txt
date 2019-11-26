@@ -1,0 +1,140 @@
+date: 1910-08-11
+number: 0
+league: Central Kansas
+away: Manhattan
+home: Salina
+source: The Salina Evening Journal Aug 12, 1910
+
+Manhattan:		ab r h po a e
+Strong @ cf:	5 0 0 0 0 0
+Pierce @ 2b:	5 0 0 4 2 0
+Rennard @ rf:	5 1 3 0 0 0
+Murie @ 1b:		3 0 1 14 0 0
+Parks @ lf:		4 1 1 2 0 0
+Lindsey @ c:	4 1 2 6 0 0
+Bond @ 3b:		4 0 1 0 1 0
+Strohm @ ss:	4 0 0 1 1 1
+Haag @ p:		4 0 1 0 6 0
+TOTALS:			38 3 9 27 10 1
+
+Salina:			ab r h po a e
+Pulliam @ cf:	4 0 1 2 0 0
+Misse @ ss:		4 0 0 4 0 1
+Leonard @ lf:	3 0 0 0 0 0
+Bullock @ 2b:	3 0 1 1 6 0
+Ludes @ 3b:		3 0 0 2 3 0
+Grady @ 1b:		2 0 0 9 0 1
+Runbeck @ rf:	3 0 0 1 0 0
+Griffith @ c:	3 0 0 6 2 0
+Fury @ p:		2 0 0 0 1 1
+Maxey @ 1b:		1 0 0 2 0 0
+*House @ ph:	1 0 0 0 0 0
++Taylor @ ph:	1 0 1 0 0 0
+TOTALS:			29 0 3 27 12 3
+
+*: batted for Griffith in 9th
++: batted for Fury in 9th
+
+line: Manhattan: 0 0 1 0 0 2 0 0 0 - 3
+line: Salina: 0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: 
+B_ROE: Manhattan #3
+B_ER: 
+B_2B: Rennard
+B_3B: 
+B_HR: Rennard
+B_SB: 
+B_SH: Lindsey #2
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Fury #1
+P_SO: Haag #6; Fury #5
+P_H: ~Haag #3; ~Fury #9
+P_IP: ~Haag #9; ~Fury #9
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Pierce
+F_PB: Griffith
+outsatend: 
+T: 1:40
+U: Casteel
+
+P_GS: 
+P_GF: 
+P_W: ~Haag
+P_L: ~Fury
+P_SV: 
+
+---
+
+date: 1910-08-12
+number: 0
+league: Central Kansas
+away: Manhattan
+home: Salina
+source: The Salina Evening Journal Aug 13, 1910
+
+Manhattan:		ab r h po a e
+Strong @ cf:	5 0 0 3 1 0
+Pierce @ 2b:	5 0 0 5 2 1
+Rennard @ rf:	4 0 1 2 0 0
+Murie @ 1b:		4 0 0 10 0 0
+Parks @ lf:		3 0 1 3 0 0
+Bond @ 3b:		5 0 0 3 4 0
+Strohm @ ss:	4 0 0 5 1 0
+Miller @ c:		4 0 0 2 0 0
+Lindsley @ c:	0 0 0 1 0 1
+Davis @ p:		4 0 0 1 2 1
+Haag @ p:		0 0 0 0 0 0
+TOTALS:			38 0 2 35 10 3
+
+Salina:			ab r h po a e
+Pulliam @ cf:	3 0 0 2 0 0
+Misse @ ss:		5 0 0 6 1 0
+Leonard @ lf:	5 0 1 2 0 0
+Bullock @ 2b:	5 0 2 2 1 0
+Ludes @ 3b:		4 1 0 2 2 1
+Grady @ 1b:		5 0 1 13 0 0
+Runbeck @ rf:	5 0 0 1 0 0
+Griffith @ c:	4 0 2 9 1 0
+Sheerin @ p:	4 0 0 0 10 0
+TOTALS:			41 1 6 36 15 1
+
+line: Manhattan: 0 0 0 0 0 0 0 0 0 0 0 0 - 0
+line: Salina: 0 0 0 0 0 0 0 0 0 0 0 1 - 1
+
+B_LOB: Manhattan #4; Salina #7
+B_ROE: Manhattan #1; Salina #2
+B_ER: 
+B_2B: Bullock; Griffith; Parks
+B_3B: 
+B_HR: 
+B_SB: Pulliam #2; Bullock; Grady
+B_SH: Murie
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Sheerin #3; Davis #2; Haag #1
+P_SO: Sheerin #8; Davis #1
+P_H: ~Sheerin #2
+P_IP: ~Sheerin #12
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: Miller
+outsatend: 2
+T: 1:45
+U: Casteel
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+

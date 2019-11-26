@@ -1,0 +1,375 @@
+date: 1910-08-16
+number: 0
+league: Central Kansas
+away: Ellsworth
+home: Salina
+source: The Salina Daily Union Aug 17, 1910
+
+Ellsworth:			ab r h po a e
+Schlensker @ cf:	5 1 0 3 0 0
+Pickens @ ss:		4 0 0 2 4 0
+Poindexter @ lf:	4 1 4 3 0 0
+Peebles @ rf:		4 1 2 1 0 0
+Reed @ 2b:			3 1 1 1 4 0
+Armstrong @ 1b:		3 0 0 13 0 0
+McClain @ c:		3 0 0 3 1 0
+Bond @ 3b:			3 0 1 1 4 1
+Taylor,E. @ p:		4 0 1 0 1 0
+TOTALS:				33 4 9 27 14 1
+
+Salina:			ab r h po a e
+Pulliam @ cf:	4 0 1 2 0 0
+Bullock @ 2b:	4 0 0 3 1 1
+Ludes @ 3b:		4 0 0 1 2 1
+Leonard @ lf:	4 0 0 3 0 0
+Maxey @ rf:		4 0 0 1 0 0
+Grady @ 1b:		4 1 1 10 0 0
+Misse @ ss:		2 0 1 2 4 0
+Griffith @ c:	3 0 0 5 2 0
+Taylor,C. @ p:	1 0 0 0 3 0
+Fury @ p:		1 0 0 0 0 0
+TOTALS:			31 1 3 27 12 2
+
+line: Ellsworth: 0 0 0 1 1 0 2 0 0 - 4
+line: Salina: 0 0 0 0 1 0 0 0 0 - 1
+
+B_LOB: Ellsworth #9; Salina #5
+B_ROE: 
+B_ER: 
+B_2B: Pulliam; Peebles
+B_3B: 
+B_HR: Grady; Peebles
+B_SB: Poindexter
+B_SH: Pickens; Armstrong; Bond
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: E. Taylor #2; C. Taylor #2
+P_SO: E. Taylor #4; C. Taylor #3; Fury #2
+P_H: ~E. Taylor #3; ~C. Taylor #9; ~Fury #0
+P_IP: ~E. Taylor #9; ~C. Taylor #6.1; ~Fury #2.2
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: Hamlin
+
+P_GS: ~C. Taylor
+P_GF: ~Fury
+P_W: ~E. Taylor
+P_L: ~C. Taylor
+P_SV: 
+
+---
+
+date: 1910-08-17
+number: 0
+league: Central Kansas
+away: Ellsworth
+home: Salina
+source: The Salina Daily Union Aug 18, 1910
+status: postponed, rain
+
+---
+
+date: 1910-08-17
+number: 1
+league: Central Kansas
+away: Chapman
+home: Manhattan
+source: The Salina Daily Union Aug 18, 1910
+status: postponed, rain
+
+---
+
+date: 1910-08-17
+number: 2
+league: Central Kansas
+away: Chapman
+home: Manhattan
+source: The Salina Daily Union Aug 18, 1910
+status: postponed, rain
+
+---
+
+date: 1910-08-17
+number: 0
+league: Central Kansas
+away: Abilene
+home: Junction City
+source: The Salina Daily Union Aug 18, 1910
+
+Abilene:		ab r h po a e
+Wheatley @ p:	x x x x x x
+Ehrgott @ c:	x x x x x x
+TOTALS:			x 2 3 x x 0
+
+Junction City:	ab r h po a e
+Oswalt @ p:		x x x x x x
+Nelson @ c:		x x x x x x
+TOTALS:			x 0 6 x x 1
+
+line: Abilene: 0 0 0 1 0 1 0 - 2
+line: Junction City: 0 0 0 0 0 0 0 - 0
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: 
+P_SO: 
+P_H: ~Wheatley #6; ~Oswalt #3
+P_IP: ~Wheatley #7; ~Oswalt #7
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: 
+
+P_GS: 
+P_GF: 
+P_W: ~Wheatley
+P_L: ~Oswalt
+P_SV: 
+
+---
+
+date: 1910-08-18
+number: 0
+league: Central Kansas
+away: Ellsworth
+home: Abilene
+source: The Salina Daily Union Aug 19, 1910
+
+Ellsworth:		ab r h po a e
+Peebles @ p:	x x x x x x
+Poindexter @ p:	x x x x x x
+McLain @ c:		x x x x x x
+TOTALS:			x 1 4 x x 5
+
+Abilene:		ab r h po a e
+Zelinski @ p:	x x x x x x
+Ehrgott @ c:	x x x x x x
+TOTALS:			x 9 20 x x 4
+
+line: Ellsworth: 0 1 0 0 0 0 0 0 x - 1
+line: Abilene: 1 2 0 0 0 3 1 2 x - 9
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: 
+P_SO: 
+P_H: ~Zelinski #4
+P_IP: ~Zelinski #8
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: 
+
+P_GS: 
+P_GF: 
+P_W: ~Zelinski
+P_L: 
+P_SV: 
+
+---
+
+date: 1910-08-19
+number: 0
+league: Central Kansas
+away: Salina
+home: Junction City
+source: The Salina Daily Union Aug 20, 1910
+
+Salina:			ab r h po a e
+Pulliam @ cf:	4 0 0 2 0 0
+Misse @ ss:		3 1 1 1 1 0
+Bullock @ 3b:	4 0 1 1 3 0
+Ludes @ 2b:		4 0 2 0 5 0
+Leonard @ lf:	4 0 1 1 0 0
+Grady @ 1b:		4 0 0 14 0 0
+Runbeck @ rf:	2 0 0 0 0 0
+Taylor @ rf:	1 0 0 0 0 0
+Griffith @ c:	2 0 0 3 0 0
+Maxey @ c:		2 1 0 0 1 0
+Fury @ p:		0 0 0 0 2 1
+Sheerin @ p:	3 0 0 0 3 0
+TOTALS:			32 1 5 23 14 1
+
+Junction City:	ab r h po a e
+Weller @ 3b:	0 1 0 2 1 0
+Mathias @ cf:	2 0 0 3 0 0
+Bankhead @ 2b:	3 0 1 2 3 0
+Nelson,C. @ rf:	2 1 0 1 0 0
+Woods @ 1b:		3 1 0 9 0 0
+Nelson,B. @ c:	2 0 0 10 2 0
+Erickson @ lf:	2 0 0 0 0 0
+Hescher @ ss:	3 0 0 0 1 0
+Kelley @ p:		2 0 0 0 2 0
+TOTALS:			19 3 1 27 9 0
+
+line: Salina: 0 0 0 0 0 1 0 0 0 - 1
+line: Junction City: 0 2 0 0 0 0 0 1 x - 3
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Ludes; Bankhead
+B_3B: 
+B_HR: 
+B_SB: Woods; Misse #2; Ludes
+B_SH: Weller; Mathias #2; B. Nelson; Erickson
+B_SF: 
+B_HP: Weller #3; ~C. Nelson
+B_XO: Hescher, bunted third strike
+P_BB: Kelley #1; Sheerin #3
+P_SO: Kelley #2; Fury #1; Sheerin #3
+P_H: ~Kelley #5
+P_IP: ~Fury #1.2; ~Sheerin #6.1; ~Kelley #9
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: Castle
+
+P_GS: 
+P_GF: 
+P_W: ~Kelley
+P_L: ~Fury
+P_SV: 
+
+---
+
+date: 1910-08-19
+number: 0
+league: Central Kansas
+away: Ellsworth
+home: Abilene
+source: The Salina Daily Union Aug 20, 1910
+
+Ellsworth:		ab r h po a e
+Woods @ p:		x x x x x x
+McClain @ c:	x x x x x x
+TOTALS:			x 1 3 x x 1
+
+Abilene:		ab r h po a e
+Wheatley @ p:	x x x x x x
+Ehrgott @ c:	x x x x x x
+TOTALS:			x 3 6 x x 1
+
+line: Ellsworth: 0 0 0 0 0 1 0 0 0 - 1
+line: Abilene: 1 0 1 0 0 0 1 0 x - 3
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: 
+P_SO: 
+P_H: ~Wheatley #3; ~Woods #6
+P_IP: ~Wheatley #9; ~Woods #8
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: 
+
+P_GS: 
+P_GF: 
+P_W: ~Wheatley
+P_L: ~Woods
+P_SV: 
+
+---
+
+date: 1910-08-20
+number: 0
+league: Central Kansas
+away: Ellsworth
+home: Abilene
+source: The Salina Daily Union Aug 22, 1910
+
+Ellsworth:	ab r h po a e
+Taylor @ p:	x x x x x x
+McLain @ c:	x x x x x x
+TOTALS:		x 3 6 x x 5
+
+Abilene:		ab r h po a e
+Schopp @ p:		x x x x x x
+Ehrgott @ c:	x x x x x x
+TOTALS:			x 6 9 x x 1
+
+line: Ellsworth: 0 0 0 3 0 0 0 0 0 - 3
+line: Abilene: 1 0 1 1 0 0 0 3 0 - 6
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: 
+P_SO: 
+P_H: ~Taylor #9; ~Schopp #6
+P_IP: ~Taylor #8; ~Schopp #9
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: 
+
+P_GS: 
+P_GF: 
+P_W: ~Schopp
+P_L: ~Taylor
+P_SV: 
+
+---
+

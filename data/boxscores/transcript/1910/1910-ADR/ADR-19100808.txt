@@ -1,0 +1,119 @@
+date: 1910-08-09
+number: 0
+league: Central Kansas
+away: Abilene
+home: Chapman
+source: Abilene Daily Reflector Aug 10. 1910
+
+Abilene:		ab r h po a e
+Wheatley @ p:	x x x x x x
+Ehrgott @ c:	x x x x x x
+TOTALS:			x 10 12 x x 2
+
+Chapman:		ab r h po a e
+Cox @ p:		x x x x x x
+Robinson @ p:	x x x x x x
+Diamond @ c:	x x x x x x
+TOTALS:			x 2 7 x x 7
+
+line: Abilene: 0 2 0 0 4 1 0 2 0 - 10
+line: Chapman: 0 1 0 0 0 0 1 0 0 - 2
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: 
+P_SO: 
+P_H: ~Wheatley #7
+P_IP: ~Wheatley #9
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: 
+
+P_GS: ~Cox
+P_GF: ~Robinson
+P_W: ~Wheatley
+P_L: ~Cox
+P_SV: 
+
+---
+
+date: 1910-08-11
+number: 0
+league: Central Kansas
+away: Concordia
+home: Abilene
+source: Abilene Daily Reflector Aug 12, 1910
+
+Concordia:		ab r h po a e
+Short @ ss:		4 0 0 2 4 0
+Horrell @ 1b:	4 0 0 9 0 0
+Johnson @ 3b:	3 0 1 2 3 2
+Dale @ rf:		2 0 0 0 0 0
+Ramsey @ lf:	3 0 0 1 1 0
+Chapman @ cf:	3 0 1 1 0 0
+Sutton @ 2b:	2 0 0 1 4 0
+Fowler,J. @ c:	3 0 0 8 2 0
+Haight @ p:		3 0 1 0 5 0
+TOTALS:			27 0 3 24 19 2
+
+Abilene:		ab r h po a e
+Wilson @ 1b:	2 0 0 6 0 0
+Jennings @ ss:	4 0 0 5 1 0
+Monroe @ cf:	4 0 0 2 0 0
+Conley @ lf:	3 0 0 2 0 0
+Britton @ 3b:	4 0 0 4 3 0
+Ehrgott @ c:	3 1 1 4 2 0
+Bradley @ 2b:	3 0 1 3 1 0
+Sommers @ rf:	3 1 1 1 0 0
+Schopp @ p:		3 0 1 0 0 1
+TOTALS:			29 2 4 27 8 0
+
+line: Concordia: 0 0 0 0 0 0 0 0 0 - 0
+line: Abilene: 0 0 0 0 1 0 1 0 x - 2
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Haight #3; Schopp #2
+P_SO: Haight #8; Schopp #3
+P_H: ~Haight #4; ~Schopp #3
+P_IP: ~Haight #8; ~Schopp #9
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Jennings, Bradley
+F_PB: 
+outsatend: 
+T: 
+U: Patter
+
+P_GS: 
+P_GF: 
+P_W: ~Schopp
+P_L: ~Haight
+P_SV: 
+
+---
+

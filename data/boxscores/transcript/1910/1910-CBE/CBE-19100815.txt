@@ -1,0 +1,105 @@
+date: 1910-08-17
+number: 0
+league: Central Kansas
+away: Clay Center
+home: Concordia
+source: Concordia Blade-Empire Aug 18, 1910
+
+Clay Center:		ab r h po a e
+Gramley @ 1b:		5 0 0 11 1 2
+White @ 2b:			4 0 1 1 2 0
+Allingham @ rf:		5 0 1 3 1 0
+Barnes @ lf:		5 0 0 0 0 0
+Southwick @ c:		5 1 1 12 0 1
+Wentz @ 3b:			4 0 0 1 0 0
+Grubbs @ ss:		2 1 1 1 5 3
+Brooks @ cf:		2 1 0 2 1 1
+Stokesberry @ p:	4 0 1 1 3 0
+TOTALS:				37 3 5 32 13 7
+
+Concordia:			ab r h po a e
+Mathias @ ss:		1 0 0 0 0 0
+Short @ ss:			3 0 1 1 2 0
+Horrill @ 1b:		5 0 1 12 0 0
+Johnson @ 3b:		4 0 0 0 2 0
+Dail @ rf:			5 1 2 2 1 0
+Ramsey @ lf:		4 0 0 2 0 1
+Chapman @ cf-c:		4 1 1 8 3 0
+Sutton @ 2b:		5 2 2 2 6 0
+Fowler,J. @ c:		0 0 0 2 0 0
+Smith @ p:			0 0 0 0 1 0
+Haight @ p:			5 0 1 0 2 0
+Fowler,S. @ cf:		x x x x x x
+TOTALS:				39 4 9 33 17 1
+
+line: Clay Center: - 3
+line: Concordia: - 4
+
+B_LOB: 
+B_ROE: 
+B_ER: Clay Center #2; Concordia #2
+B_2B: Horrill
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: Chapman
+B_XO: 
+P_BB: Smith #3; Haight #1; Stokesberry #1
+P_SO: Smith #1; Haight #8; Stokesberry #7
+P_H: ~Stokesberry #9
+P_IP: ~Smith #2; ~Haight #9; ~Stokesberry #11
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Smith, Sutton, Horrill; Haight, Chapman, Horrill; Allingham, Southwick
+F_PB: Southwick
+outsatend: 2:25
+T: Davies
+U: 
+
+P_GS: ~Smith
+P_GF: ~Haight
+P_W: ~Stokesberry
+P_L: ~Haight
+P_SV: 
+
+---
+
+date: 1910-08-17
+number: 0
+league: Central Kansas
+away: Clay Center
+home: Concordia
+source: Concordia Blade-Empire Aug 18, 1910
+note: forfeited to Concordia
+
+line: Clay Center: - 0
+line: Concordia: - 9
+
+---
+
+date: 1910-08-18
+number: 0
+league: Central Kansas
+away: Concordia
+home: Manhattan
+source: Concordia Blade-Empire Aug 19, 1910
+status: postponed, rain
+
+---
+
+date: 1910-08-19
+number: 0
+league: Central Kansas
+away: Concordia
+home: Manhattan
+source: Concordia Blade-Empire Aug 20, 1910
+note: forfeited to Manhattan
+
+line: Concordia: - 0
+line: Manhattan: - 9
+
+---
+

@@ -1,0 +1,132 @@
+date: 1910-08-18
+number: 0
+league: Central Kansas
+away: Chapman
+home: Clay Center
+source: The Dispatch-Republican Aug 19, 1910
+
+Chapman:		ab r h po a e
+Howe @ ?:		4 0 0 11 0 1
+Williams @ ?:	3 1 1 3 5 0
+Dimond @ ?:		4 1 1 2 4 0
+Farrell @ ?:	4 1 1 0 2 0
+Cox @ ?:		4 0 0 3 0 0
+Loech @ ?:		4 0 1 2 0 0
+Robertson @ ?:	3 0 0 2 1 0
+Scanlon @ ?:	3 0 0 1 1 0
+Jones @ p:		3 0 1 0 2 0
+TOTALS:			32 3 5 24 15 1
+
+Clay Center:		ab r h po a e
+Gramly @ 1b:		5 0 1 10 0 1
+White @ 2b:			3 1 1 4 3 0
+Strong @ rf:		4 1 1 0 0 0
+Allingham @ cf:		2 1 0 2 0 0
+Barnes @ lf:		4 1 3 0 0 0
+Wentz @ 3b:			4 2 2 1 3 1
+Grubbs @ ss:		3 0 1 2 5 0
+Southwick @ c:		4 0 2 7 2 0
+Morehead @ p:		3 0 0 1 1 0
+TOTALS:				32 6 11 27 14 2
+
+line: Chapman: 3 0 0 0 0 0 0 0 0 - 3
+line: Clay Center: 2 0 0 0 0 2 0 0 x - 6
+
+B_LOB: Chapman #3; Clay Center #7
+B_ROE: 
+B_ER: Chapman #2; Clay Center #5
+B_2B: Wentz; Southwick
+B_3B: 
+B_HR: 
+B_SB: Gramly; White; Strong; Allingham; Wentz; Southwick #2
+B_SH: Allingham; Grubbs
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Jones #2; Morehead #1
+P_SO: Jones #0; Morehead #6
+P_H: ~Jones #11; ~Morehead #5
+P_IP: ~Jones #8; ~Morehead #9
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: 
+
+P_GS: 
+P_GF: 
+P_W: ~Morehead
+P_L: ~Jones
+P_SV: 
+
+---
+
+date: 1910-08-19
+number: 0
+league: Central Kansas
+away: Chapman
+home: Clay Center
+source: The Dispatch-Republican Aug 20, 1910
+
+Chapman:		ab r h po a e
+Howe @ 1b:		4 0 1 11 1 0
+Williams @ 3b:	1 0 0 3 1 0
+Dimond @ ss:	4 0 1 1 5 0
+Farrell @ 2b:	2 0 0 2 4 1
+Jones @ lf:		4 0 0 0 4 0
+Loeck @ rf:		4 0 1 1 0 1
+Robertson @ cf:	3 0 0 2 0 0
+Scanlon @ c:	2 0 0 3 1 0
+Cox @ p:		3 0 0 1 1 0
+TOTALS:			27 0 3 24 17 2
+
+Clay Center:	ab r h po a e
+Gramly @ 1b:	4 0 1 11 3 0
+White @ 2b:		5 0 2 0 2 0
+Allingham @ cf:	3 0 0 2 0 0
+Barnes @ lf:	4 1 2 2 0 0
+Southwick @ c:	3 2 3 11 0 0
+Wentz @ 3b:		4 1 0 0 2 0
+Strong @ rf:	4 0 1 1 0 0
+Grubbs @ ss:	4 2 1 0 4 0
+Fulwider @ p:	4 1 1 0 1 0
+TOTALS:			35 7 11 27 12 0
+
+line: Chapman: - 0
+line: Clay Center: - 7
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: ~Strong; ~Barnes; ~Southwick; ~Fulwider
+B_3B: 
+B_HR: 
+B_SB: ~Wentz #2; ~Strong
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: 
+P_SO: 
+P_H: ~Cox #11; ~Fulwider #3
+P_IP: ~Cox #8; ~Fulwider #9
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: ~Whalen
+
+P_GS: 
+P_GF: 
+P_W: ~Fulwider
+P_L: ~Cox
+P_SV: 
+
+---
+

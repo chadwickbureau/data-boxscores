@@ -1,0 +1,146 @@
+date: 1910-08-15
+number: 0
+league: Central Kansas
+away: Chapman
+home: Manhattan
+source: The Manhattan Mercury Aug 16, 1910
+
+Chapman:		ab r h po a e
+Howell @ 3b:	5 0 0 1 4 0
+Williams @ lf:	4 0 0 2 0 0
+Dimond @ 1b:	5 1 3 10 0 0
+Farrell @ lf:	2 1 1 1 0 0
+Abbott @ ss:	4 1 1 0 1 0
+Loeck @ 2b:		3 0 1 4 1 0
+Robertson @ rf:	4 0 1 0 0 0
+Scanlan @ c:	3 0 0 8 2 0
+Cox @ p:		4 0 0 1 6 0
+TOTALS:			34 3 7 27 14 0
+
+Manhattan:		ab r h po a e
+Strong @ cf:	3 1 0 1 0 0
+Pierce @ 2b:	3 0 1 3 2 0
+Rennard @ rf:	4 0 1 1 0 0
+Murie @ 1b:		3 0 1 5 0 1
+Parks @ lf:		4 0 1 0 0 0
+Miller @ c:		1 0 0 1 0 0
+Lindsly @ c:	3 0 0 10 1 1
+Gober @ 3b:		3 0 1 2 0 0
+Strohm @ ss:	3 0 0 3 0 1
+Haag @ p:		3 0 0 1 6 1
+TOTALS:			30 1 5 27 9 4
+
+line: Chapman: 0 0 0 0 0 0 0 3 0 - 3
+line: Manhattan: 1 0 0 0 0 0 0 0 0 - 1
+
+B_LOB: Chapman #8; Manhattan #5
+B_ROE: 
+B_ER: 
+B_2B: Murie
+B_3B: 
+B_HR: 
+B_SB: Rennard; Farrell; Abbott
+B_SH: Pierce
+B_SF: 
+B_HP: Farrell
+B_XO: 
+P_BB: Haag #4; Cox #2
+P_SO: Haag #10; Cox #6
+P_H: ~Haag #7; ~Cox #5
+P_IP: ~Haag #9; ~Cox #9
+P_HP: ~Haag
+P_WP: 
+P_BK: 
+F_DP: Haag, Pierce, Murie
+F_PB: Lindsly; Scanlan #2
+outsatend: 
+T: 1:50
+U: Cave
+
+P_GS: 
+P_GF: 
+P_W: ~Cox
+P_L: ~Haag
+P_SV: 
+
+---
+
+date: 1910-08-16
+number: 0
+league: Central Kansas
+away: Chapman
+home: Manhattan
+source: The Manhattan Mercury Aug 17, 1910
+
+Chapman:		ab r h po a e
+Howell @ 3b:	4 1 1 0 4 1
+Williams @ 1b:	3 0 0 8 0 0
+Dimond @ c:		4 0 2 7 1 1
+Farrell @ cf:	4 0 1 3 0 1
+Heleker @ ss:	4 0 0 0 1 0
+Cox @ lf:		4 0 0 4 0 0
+Leock @ 2b:		3 0 0 2 1 0
+Scanlan @ rf:	3 0 0 0 0 0
+Robertson @ p:	3 0 1 0 2 0
+TOTALS:			32 1 5 24 9 3
+
+Manhattan:		ab r h po a e
+Strong @ cf:	3 2 2 1 0 0
+Pierce @ 2b:	3 2 2 1 3 0
+Rennard @ rf:	4 0 2 1 0 0
+Murie @ 1b:		4 1 2 12 1 0
+Parks @ lf:		4 0 0 1 0 0
+Alexander @ c:	4 0 0 8 2 0
+Gober @ 3b:		4 0 0 1 7 1
+Strohm @ ss:	2 1 0 2 1 0
+Davis @ p:		4 1 1 0 2 1
+TOTALS:			32 7 9 27 16 2
+
+line: Chapman: 1 0 0 0 0 0 0 0 0 - 1
+line: Manhattan: 1 0 1 0 1 1 3 0 x - 7
+
+B_LOB: Chapman #5; Manhattan #5
+B_ROE: 
+B_ER: 
+B_2B: Strong #2; Dimond
+B_3B: 
+B_HR: Murie
+B_SB: Pierce; Heleker
+B_SH: Strong; Pierce; Williams
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Davis #0; Robertson #2
+P_SO: Davis #7; Robertson #5
+P_H: ~Davis #5; ~Robertson #9
+P_IP: ~Davis #9; ~Robertson #8
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:32
+U: Cave
+
+P_GS: 
+P_GF: 
+P_W: ~Davis
+P_L: ~Robertson
+P_SV: 
+
+---
+
+date: 1910-08-19
+number: 0
+league: Central Kansas
+away: Concordia
+home: Manhattan
+source: The Manhattan Mercury Aug 20, 1910
+note: forfeited to Manhattan
+
+line: Concordia: - 0
+line: Manhattan: - 9
+
+---
+

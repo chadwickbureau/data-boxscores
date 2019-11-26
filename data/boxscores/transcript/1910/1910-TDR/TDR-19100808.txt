@@ -1,0 +1,78 @@
+date: 1910-08-08
+number: 0
+league: Central Kansas
+away: Salina
+home: Clay Center
+source: The Dispatch-Republican Aug 9, 1910
+status: completed early, rain
+A: 150
+
+Salina:			ab r h po a e
+Misse @ ss:		2 1 1 0 3 1
+Pulliam @ cf:	2 0 0 1 0 0
+Leonard @ lf:	3 0 2 0 0 0
+Bullock @ 2b:	3 0 0 1 0 0
+Ludes @ 3b:		2 0 1 0 3 0
+Grady @ 1b:		2 0 0 8 0 0
+Runbeck @ rf:	2 0 1 0 0 0
+Griffith @ c:	2 0 0 5 1 0
+Sheerin @ p:	2 0 0 0 2 0
+TOTALS:			20 1 5 15 9 1
+
+Clay Center:		ab r h po a e
+Gramly @ 2b:		3 1 1 0 2 0
+Wentz @ 3b:			2 0 0 1 1 0
+Southwick @ c:		1 0 0 5 0 0
+Barnes @ lf:		2 1 1 0 0 0
+Allingham @ 1b:		2 0 1 7 1 0
+Grubbs @ ss:		2 0 0 1 2 0
+Strong @ rf:		2 0 0 0 0 0
+Brooks @ cf:		2 0 0 1 0 0
+Stokesberry @ p:	2 0 0 0 1 0
+TOTALS:				18 2 3 15 7 0
+
+line: Salina: 0 0 1 0 0 - 1
+line: Clay Center: 2 0 0 0 0 - 2
+
+B_LOB: Salina #5; Clay Center #2
+B_ROE: Clay Center #1
+B_ER: Salina #1; Clay Center #2
+B_2B: Allingham; Leonard; Ludes
+B_3B: 
+B_HR: 
+B_SB: Gramly; Misse
+B_SH: Pulliam
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Stokesberry #1; Sheerin #1
+P_SO: Stokesberry #5; Sheerin #4
+P_H: ~Stokesberry #5; ~Sheerin #3
+P_IP: ~Stokesberry #5; ~Sheerin #5
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Griffith
+F_PB: 
+outsatend: 
+T: 1:10
+U: Graham
+
+P_GS: 
+P_GF: 
+P_W: ~Stokesberry
+P_L: ~Sheerin
+P_SV: 
+
+---
+
+date: 1910-08-13
+number: 0
+league: Central Kansas
+away: Concordia
+home: Abilene
+source: The Dispatch-Republican Aug 15, 1910
+status: postponed, rain
+
+---
+

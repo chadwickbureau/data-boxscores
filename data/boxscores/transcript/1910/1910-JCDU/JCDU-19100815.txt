@@ -1,0 +1,270 @@
+date: 1910-08-15
+number: 0
+league: Central Kansas
+away: Abilene
+home: Junction City
+source: The Junction City Daily Union Aug 17, 1910
+
+Abilene:		ab r h po a e
+Wilson @ 1b:	4 0 2 7 1 0
+Jennings @ ss:	3 0 1 1 3 0
+Monroe @ cf:	4 0 0 0 0 0
+Conley @ lf:	4 1 1 1 0 0
+Britton @ 3b:	4 1 2 1 3 1
+Ehrgott @ c:	4 0 1 9 3 0
+Bradley @ 2b:	4 0 1 5 1 0
+Sommers @ rf:	4 0 0 0 0 0
+Zelinski @ p:	4 0 0 1 2 0
+Schopp @ p:		4 0 0 0 0 0
+TOTALS:			35 2 8 25 13 2
+
+Junction City:		ab r h po a e
+Weller @ 3b:		3 1 1 1 2 0
+Mathias @ cf:		3 1 2 0 0 0
+Bankhead @ 2b:		3 1 0 2 0 0
+Nelson,C. @ rf:		4 0 0 0 0 0
+Woods @ 1b:			4 0 0 10 1 0
+Nelson,B. @ c:		4 0 2 11 2 0
+Ericksen @ lf:		3 0 2 1 0 1
+Hesker @ ss:		2 0 0 2 3 1
+Jepson @ p:			3 0 0 0 3 0
+TOTALS:				29 3 7 27 12 2
+
+line: Abilene: 0 0 0 1 0 1 0 0 0 - 2
+line: Junction City: 0 0 0 0 0 0 0 0 3 - 3
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: Mathias
+B_HR: 
+B_SB: Ericksen; Conley; Wilson; Britton
+B_SH: Hesker; Jennings
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Zelinski #2
+P_SO: Zelinski #7; Schopp #1; Jepson #13
+P_H: ~Jepson #8; ~Zelinski #6; ~Schopp #1
+P_IP: ~Zelinski #8; ~Schopp #0.1; ~Jepson #9
+P_HP: Zelinski
+P_WP: 
+P_BK: 
+F_DP: Britton, Jennings, Wilson
+F_PB: 
+outsatend: 1
+T: 
+U: Casteel
+
+P_GS: ~Zelinski
+P_GF: ~Schopp
+P_W: ~Jepson
+P_L: ~Zelinski
+P_SV: 
+
+---
+
+date: 1910-08-16
+number: 0
+league: Central Kansas
+away: Abilene
+home: Junction City
+source: The Junction City Daily Union Aug 18, 1910
+
+Abilene:		ab r h po a e
+Wilson @ 1b:	3 0 0 5 1 1
+Jennings @ ss:	4 1 0 3 1 0
+Monroe @ cf:	4 0 0 2 1 0
+Conley @ lf:	3 1 1 1 0 2
+Britton @ 3b:	3 0 1 4 2 0
+Ehrgott @ c:	4 0 0 7 5 0
+Bradley @ 2b:	3 0 0 0 1 3
+*Wheatley @ ph:	1 0 0 0 0 0
+Sommers @ lf:	3 0 0 1 0 1
+Schopp @ p:		2 0 0 0 1 0
+TOTALS:			30 2 2 23 11 7
+
+Junction City:		ab r h po a e
+Weller @ 3b:		4 0 0 2 2 0
+Mathias @ lf:		5 0 0 0 0 0
+Bankhead @ 2b:		4 1 1 3 4 0
+Kelly @ 2b:			1 0 0 0 1 2
+Nelson,C @ rf:		5 1 2 0 0 0
+Woods @ 1b:			4 0 2 9 0 1
+Nelson,B. @ c:		5 1 0 11 0 0
+Ericksen @ lf:		4 2 2 0 0 0
+Hesker @ ss:		4 1 3 1 4 0
+McGrew @ p:			1 1 1 0 1 0
+TOTALS:				37 7 11 26 12 3
+
+line: Abilene: 0 0 0 1 0 0 0 0 1 - 2
+line: Junction City: 0 3 2 1 0 1 0 0 x - 7
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Conley; Britton; Bankhead; Woods
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: McGrew
+B_SF: 
+B_HP: 
+B_XO: Mathias, bunted third strike; Conley, cut 1st base
+P_BB: McGrew #4; Schopp #2
+P_SO: McGrew #11; Schopp #1
+P_H: ~McGrew #2; ~Schopp #11
+P_IP: ~McGrew #9; ~Schopp #8
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: Casteel
+
+P_GS: 
+P_GF: 
+P_W: ~McGrew
+P_L: ~Schopp
+P_SV: 
+
+---
+
+date: 1910-08-18
+number: 0
+league: Central Kansas
+away: Salina
+home: Junction City
+source: The Junction City Daily Union Aug 19, 1910
+
+Salina:			ab r h po a e
+Misse @ ss:		5 0 0 3 2 1
+Pulliam @ lf:	6 0 1 1 1 0
+Leonard @ cf:	5 0 0 2 0 0
+Grady @ 1b:		6 0 0 16 1 2
+Bullock @ 3b:	5 0 0 1 5 1
+Maxey @ c:		6 0 1 10 2 0
+Runbeck @ rf:	5 0 1 7 0 0
+Ludes @ 2b:		5 0 0 4 4 0
+House @ p:		5 0 0 2 2 0
+TOTALS:			48 0 3 46 17 4
+
+Junction City:		ab r h po a e
+Weller @ 3b:		5 1 1 3 0 0
+Mathias @ cf:		5 0 0 2 3 1
+Bankhead @ 2b:		5 0 0 2 3 0
+Nelson,C. @ rf:		5 0 1 1 0 0
+Woods @ 1b:			5 0 0 21 1 0
+Nelson,B. @ c:		6 0 0 18 3 0
+Ericksen @ lf:		6 0 0 1 0 0
+Hesker @ ss:		5 0 0 1 7 0
+Jepson @ p:			5 0 3 0 7 0
+TOTALS:				41 1 6 48 24 1
+
+line: Salina: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 - 0
+line: Junction City: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 - 1
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Jepson
+B_3B: 
+B_HR: 
+B_SB: Weller; Hesker; Bullock; Maxey; Ludes
+B_SH: Mathias #2; Bankhead; Misse; Leonard; Runbeck
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Jepson #3; House #4
+P_SO: Jepson #18; House #10
+P_H: ~Jepson #3; ~House #6
+P_IP: ~Jepson #16; ~House #15.1
+P_HP: House #1
+P_WP: 
+P_BK: 
+F_DP: Ludes, Grady; Pulliam, Grady; Misse, Grady
+F_PB: Maxey #1
+outsatend: 1
+T: 
+U: Casteel
+
+P_GS: 
+P_GF: 
+P_W: ~Jepson
+P_L: ~House
+P_SV: 
+
+---
+
+date: 1910-08-20
+number: 0
+league: Central Kansas
+away: Salina
+home: Junction City
+source: The Junction City Daily Union Aug 22, 1910
+
+Salina:			ab r h po a e
+Pulliam @ rf:	4 0 0 2 0 0
+Misse @ ss:		3 1 1 1 1 0
+Bullock @ 3b:	4 0 1 1 3 0
+Ludes @ 2b:		4 0 2 0 5 0
+Leonard @ lf:	4 0 1 1 0 0
+Grady @ 1b:		4 0 0 14 0 0
+Runbeck @ rf:	2 0 0 0 0 0
+Taylor @ rf:	1 0 0 0 0 0
+Griffith @ c:	2 0 0 3 0 0
+Maxey @ c:		1 0 0 1 0 0
+Fury @ p:		1 0 0 0 2 1
+Sheerin @ p:	3 0 0 0 3 0
+TOTALS:			32 0 5 23 14 1
+
+Junction City:		ab r h po a e
+Weller @ 3b:		0 1 0 2 1 0
+Mathias @ cf:		2 0 0 3 0 0
+Bankhead @ 2b:		3 0 1 2 3 1
+Nelson,C. @ rf:		2 1 0 1 0 0
+Woods @ 1b:			3 1 0 9 0 0
+Nelson,B. @ c:		2 0 0 10 2 0
+Ericksen @ lf:		2 0 0 0 0 0
+Hescher @ ss:		3 0 0 0 1 0
+Kelly @ p:			2 0 0 0 2 0
+TOTALS:				19 3 1 27 9 1
+
+line: Salina: 0 0 0 0 0 1 0 0 0 - 1
+line: Junction City: 0 2 0 0 0 0 0 1 x - 3
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Bankhead; Ludes
+B_3B: 
+B_HR: 
+B_SB: Woods; Misse #2; Ludes
+B_SH: Weller; Mathias #2; C. Nelson; B. Nelson; Ericksen
+B_SF: 
+B_HP: 
+B_XO: Hescher, bunted third strike
+P_BB: Kelly #1; Sheerin #3
+P_SO: Kelly #11; Fury #1; Sheerin #2
+P_H: ~Kelly #5; Sheerin #1; Fury #0
+P_IP: ~Kelly #9
+P_HP: Fury #2; Sheerin #2
+P_WP: Sheerin
+P_BK: 
+F_DP: 
+F_PB: Griffith
+outsatend: 
+T: 
+U: Casteel
+
+P_GS: ~Fury
+P_GF: ~Sheerin
+P_W: ~Kelly
+P_L: ~Fury
+P_SV: 
+
+---
+

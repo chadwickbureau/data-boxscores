@@ -1,0 +1,200 @@
+date: 1910-08-11
+number: 0
+league: Central Kansas
+away: Clay Center
+home: Ellsworth
+source: Ellsworth Messenger Aug 18, 1910
+
+Clay Center:		ab r h po a e
+Gramley @ 1b-2b:	4 0 2 4 0 1
+White @ 2b-cf:		4 1 0 1 0 0
+Allingham @ lf-rf:	4 0 1 3 1 0
+Stokesberry @ rf:	0 0 0 0 0 0
+Barnes @ lf:		4 1 2 1 0 1
+Southwick @ c:		4 0 0 7 0 1
+Wentz @ 3b:			4 1 1 2 4 0
+Grubbs @ ss:		3 1 1 4 2 0
+Brooks @ rf-cf:		4 1 1 2 0 0
+Morehead @ p:		3 0 0 0 4 0
+TOTALS:				34 4 8 24 11 2
+
+Ellsworth:			ab r h po a e
+Schlensker @ cf:	4 1 2 0 0 0
+Pickens @ ss:		3 0 0 0 5 0
+Poindexter @ lf:	4 0 0 0 0 0
+Peebles @ rf:		1 1 0 0 0 0
+Reed @ 2b:			3 1 1 1 5 0
+Bankhead @ c:		4 0 1 4 3 0
+Armstrong @ 1b:		3 0 1 20 1 0
+Jewell @ 3b:		2 1 0 2 6 1
+Woods @ p:			3 1 1 0 3 0
+TOTALS:				27 5 6 27 23 1
+
+line: Clay Center: 0 0 0 0 0 0 0 3 0 - 4
+line: Ellsworth: 1 0 0 0 2 0 0 2 x - 5
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Allingham
+B_3B: Barnes
+B_HR: Reed
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: Peebles
+B_XO: 
+P_BB: Woods #1; Morehead #3
+P_SO: Woods #3; Morehead #3
+P_H: ~Woods #8; ~Morehead #6
+P_IP: ~Woods #9; ~Morehead #8
+P_HP: ~Morehead
+P_WP: 
+P_BK: 
+F_DP: Pickens, Armstrong, Bankhead
+F_PB: 
+outsatend: 
+T: 
+U: Hamlin
+
+P_GS: 
+P_GF: 
+P_W: ~Woods
+P_L: ~Morehead
+P_SV: 
+
+---
+
+date: 1910-08-12
+number: 0
+league: Central Kansas
+away: Clay Center
+home: Ellsworth
+source: Ellsworth Messenger Aug 18, 1910
+
+Clay Center:		ab h po a e
+Gramley @ 1b:		4 0 10 0 0
+White @ 2b:			2 1 3 2 0
+Allingham @ rf-cf:	3 1 2 0 1
+Barnes @ lf:		3 0 1 0 0
+Southwick @ c:		3 1 6 2 1
+Wentz @ 3b:			3 0 1 2 0
+Grubbs @ ss:		0 0 1 4 0
+Brooks @ cf-rf:		2 0 0 0 0
+McGrew @ p:			3 0 0 0 0
+TOTALS:				26 3 24 10 2
+
+Ellsworth:			ab h po a e
+Schlensker @ cf:	4 1 2 1 0
+Pickens @ ss:		4 0 1 1 0
+Poindexter @ lf:	3 0 1 0 0
+Peebles @ rf:		2 1 0 0 0
+Reed @ 2b:			3 0 4 7 0
+Bankhead @ c:		3 0 5 5 0
+Armstrong @ 1b:		2 0 12 0 0
+McLain @ 3b:		3 0 1 2 0
+Taylor @ p:			3 0 0 0 0
+TOTALS:				27 2 26 16 0
+
+line: Clay Center: 0 0 0 0 0 0 0 0 0 - 0
+line: Ellsworth: 1 0 0 0 0 0 0 0 x - 1
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: Allingham
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: Southwick, bunted third strike
+P_BB: Taylor #2; McGrew #2
+P_SO: Taylor #5; McGrew #4
+P_H: ~Taylor #3; ~McGrew #2
+P_IP: ~Taylor #9; ~McGrew #8
+P_HP: 
+P_WP: McGrew
+P_BK: 
+F_DP: Schlensker, Armstrong
+F_PB: Southwick
+outsatend: 
+T: 
+U: Hamlin
+
+P_GS: 
+P_GF: 
+P_W: ~Taylor
+P_L: ~McGrew
+P_SV: 
+
+---
+
+date: 1910-08-13
+number: 0
+league: Central Kansas
+away: Clay Center
+home: Ellsworth
+source: Ellsworth Messenger Aug 18, 1910
+protest: Ellsworth, Clay Center batted out of order
+
+Clay Center:	ab h po a e
+Gramley @ 1b:	3 0 10 0 1
+White @ 2b:		5 1 4 4 0
+Allingham @ c:	4 1 5 0 0
+Barnes @ lf:	3 0 2 0 0
+Southwick @ rf:	4 1 0 2 0
+Wentz @ 3b:		4 1 2 0 0
+Grubbs @ ss:	4 1 2 1 0
+Brooks @ cf:	4 1 2 0 0
+Morehead @ p:	4 1 0 3 0
+TOTALS:			35 7 27 11 1
+
+Ellsworth:			ab h po a e
+Schlensker @ cf:	4 0 2 0 0
+Pickens @ ss:		4 0 2 3 0
+Poindexter @ lf:	3 1 1 0 0
+Peebles @ p:		4 0 1 3 0
+Reed @ 2b:			4 2 2 1 0
+Bankhead @ c:		3 0 7 0 0
+Johns @ rf:			3 1 1 0 0
+Armstrong @ 1b:		3 0 7 0 0
+McLain @ 3b:		3 0 4 3 1
+TOTALS:				31 4 27 10 1
+
+line: Clay Center: 2 0 1 0 0 0 0 0 0 - 3
+line: Ellsworth: 0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Reed
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: Gramley; Bankhead
+B_XO: 
+P_BB: Peebles #3; Morehead #2
+P_SO: Peebles #6; Morehead #4
+P_H: ~Peebles #7; ~Morehead #4
+P_IP: ~Peebles #9; ~Morehead #9
+P_HP: ~Peebles; ~Morehead
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 
+U: 
+
+P_GS: 
+P_GF: 
+P_W: ~Morehead
+P_L: ~Peebles
+P_SV: 
+
+---
+
