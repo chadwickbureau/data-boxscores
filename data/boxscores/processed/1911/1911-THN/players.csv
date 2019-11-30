@@ -8,8 +8,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1911,Kansas State League,regular,P2135857,Bechtold,,Great Bend,1911-05-14,1911-05-31,12,0,0,0,1,0,11,11,0,0,0,0
 1911,Kansas State League,regular,P5938100,Becktold,,Great Bend,1911-05-13,1911-05-15,2,0,0,0,0,0,2,2,0,0,0,0
 1911,Kansas State League,regular,P8923061,Becktole,,Great Bend,1911-05-12,1911-05-12,1,0,0,0,0,0,1,1,0,0,0,0
-1911,Kansas State League,regular,P7654952,Berte,,Larned,1911-05-11,1911-05-31,15,0,0,0,0,15,0,0,0,0,0,0
-1911,Kansas State League,regular,P9863829,Berte,,Wellington,1911-05-14,1911-05-14,1,0,0,0,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P7654952,Berte,,Larned,1911-05-11,1911-05-31,16,0,0,0,0,15,0,0,0,0,0,0
 1911,Kansas State League,regular,P6527214,Block,,Hutchinson,1911-05-11,1911-05-31,18,0,0,0,0,0,18,1,17,0,0,0
 1911,Kansas State League,regular,P9671953,Boley,,Larned,1911-05-19,1911-05-31,5,3,0,0,0,0,1,0,0,1,0,3
 1911,Kansas State League,regular,P4937324,Boly,,Larned,1911-05-12,1911-05-16,2,2,0,0,0,0,0,0,0,0,0,2
@@ -22,7 +21,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1911,Kansas State League,regular,P6154196,Campfield,,McPherson,1911-05-11,1911-05-25,14,0,0,0,0,0,0,0,0,0,14,0
 1911,Kansas State League,regular,P8629236,Chadwick,,Larned,1911-05-11,1911-05-31,15,0,0,0,0,0,15,15,0,0,0,0
 1911,Kansas State League,regular,P5947801,Chase,,Lyons,1911-05-11,1911-05-31,15,0,0,14,1,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P0680424,Chelgood,,Wellington,1911-05-14,1911-05-14,1,0,0,0,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P0977147,Chelgood,,Larned,1911-05-14,1911-05-14,1,0,0,0,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P9573863,Chellgood,,Larned,1911-05-12,1911-05-31,12,0,0,12,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P2063979,Chillgood,,Larned,1911-05-11,1911-05-11,1,0,0,1,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P9045218,Clark,,Lyons,1911-05-11,1911-05-31,15,0,0,0,0,0,15,15,0,0,0,0
@@ -64,7 +63,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1911,Kansas State League,regular,P3715908,Hale,,El Dorado,1911-05-15,1911-05-15,1,0,0,0,0,0,0,0,0,0,1,0
 1911,Kansas State League,regular,P0645384,Harmon,,Wellington,1911-05-12,1911-05-31,13,6,0,0,0,0,9,4,5,0,0,6
 1911,Kansas State League,regular,P9380129,Harmony,,Wellington,1911-05-18,1911-05-18,1,0,0,0,0,0,1,1,0,0,0,0
-1911,Kansas State League,regular,P1941148,Harriot,,Wellington,1911-05-14,1911-05-14,1,0,0,0,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P4953391,Harriot,,Larned,1911-05-14,1911-05-14,1,0,0,0,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P5150019,Harriott,,Larned,1911-05-11,1911-05-31,15,0,15,0,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P2204760,Harris,,McPherson,1911-05-14,1911-05-31,11,0,0,10,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P2276146,Harrison,,Great Bend,1911-05-15,1911-05-27,4,0,0,0,0,0,0,0,0,0,4,0
@@ -113,8 +112,7 @@ league.year,league.name,league.phase,person.ref,person.name.last,person.name.giv
 1911,Kansas State League,regular,P3606175,Lyons,,El Dorado,1911-05-21,1911-05-24,4,0,0,0,0,0,4,4,0,0,0,0
 1911,Kansas State League,regular,P1972193,Lyons,,Great Bend,1911-05-12,1911-05-31,13,0,0,0,13,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P8688955,Maple,,Great Bend,1911-05-22,1911-05-26,4,4,0,0,0,0,0,0,0,0,0,4
-1911,Kansas State League,regular,P4860676,Matney,,Larned,1911-05-11,1911-05-27,14,0,0,0,0,0,14,0,14,0,0,0
-1911,Kansas State League,regular,P9275633,Matney,,Wellington,1911-05-14,1911-05-14,1,0,0,0,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P4860676,Matney,,Larned,1911-05-11,1911-05-27,15,0,0,0,0,0,14,0,14,0,0,0
 1911,Kansas State League,regular,P5813913,Maxey,,Lyons,1911-05-20,1911-05-31,6,0,0,0,0,0,6,0,0,6,1,0
 1911,Kansas State League,regular,P5494170,McAuley,,El Dorado,1911-05-11,1911-05-31,14,0,0,0,0,12,2,0,0,2,0,0
 1911,Kansas State League,regular,P1666549,McCray,,Larned,1911-05-18,1911-05-26,3,3,0,0,0,0,0,0,0,0,0,3
