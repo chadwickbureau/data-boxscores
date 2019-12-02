@@ -1,21 +1,35 @@
 league.year,league.name,league.phase,person.ref,person.name.last,person.name.given,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G
 1911,Kansas State League,regular,P3417436,Bechtold,,Great Bend,1911-05-11,1911-05-11,1,0,0,0,0,0,1,1,0,0,0,0
 1911,Kansas State League,regular,P1199549,Bumb,,Great Bend,1911-05-11,1911-05-11,1,0,1,0,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P7435775,Campfield,,McPherson,1911-06-06,1911-06-06,1,0,0,0,0,0,0,0,0,0,1,0
+1911,Kansas State League,regular,P5141628,Erret,,McPherson,1911-06-06,1911-06-06,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Kansas State League,regular,P8796967,Fedor,,Great Bend,1911-05-11,1911-05-11,1,0,0,0,0,1,0,0,0,0,0,0
-1911,Kansas State League,regular,P9098305,Giffin,,Wellington,1911-05-11,1911-05-11,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Kansas State League,regular,P9351795,Harmon,,Wellington,1911-05-11,1911-05-11,1,0,0,0,0,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P8967211,Held,,Wellington,1911-05-11,1911-05-11,1,0,0,0,0,0,1,0,0,1,0,0
+1911,Kansas State League,regular,P9098305,Giffin,,Wellington,1911-05-11,1911-06-06,2,2,1,0,0,0,0,0,0,0,0,2
+1911,Kansas State League,regular,P3319371,Green,,McPherson,1911-06-06,1911-06-06,1,0,1,0,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P9351795,Harmon,,Wellington,1911-05-11,1911-06-06,2,0,0,0,0,0,1,0,1,0,0,0
+1911,Kansas State League,regular,P8832227,Harris,,McPherson,1911-06-06,1911-06-06,1,0,0,1,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P8967211,Held,,Wellington,1911-05-11,1911-06-06,2,0,0,0,0,0,2,0,0,2,0,0
+1911,Kansas State League,regular,P9412963,Irwin,,McPherson,1911-06-06,1911-06-06,1,0,0,0,0,0,1,1,0,0,0,0
 1911,Kansas State League,regular,P5505254,Jarvis,,Great Bend,1911-05-11,1911-05-11,1,0,0,1,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P8249657,Jones,,McPherson,1911-06-06,1911-06-06,1,0,0,0,0,0,1,0,1,0,0,0
 1911,Kansas State League,regular,P3706286,Kinkley,,Great Bend,1911-05-11,1911-05-11,1,0,0,0,0,0,1,0,1,0,0,0
 1911,Kansas State League,regular,P6616090,Kuhagen,,Great Bend,1911-05-11,1911-05-11,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Kansas State League,regular,P0118359,Lagenour,,McPherson,1911-06-06,1911-06-06,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Kansas State League,regular,P7193362,Lewis,,Wellington,1911-06-06,1911-06-06,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Kansas State League,regular,P8576546,Luhrson,,Great Bend,1911-05-11,1911-05-11,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Kansas State League,regular,P8599660,Lyons,,Great Bend,1911-05-11,1911-05-11,1,0,0,0,1,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P7123786,Meade,,Wellington,1911-06-06,1911-06-06,1,0,0,0,0,0,0,0,0,0,1,0
 1911,Kansas State League,regular,P9505222,Moneymaker,,Wellington,1911-05-11,1911-05-11,1,0,0,0,0,0,1,1,0,0,0,0
 1911,Kansas State League,regular,P6765138,Morgan,,Wellington,1911-05-11,1911-05-11,1,0,0,0,0,0,0,0,0,0,1,0
-1911,Kansas State League,regular,P7221414,Peoples,,Wellington,1911-05-11,1911-05-11,1,0,0,1,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P1740287,Murphy,,McPherson,1911-06-06,1911-06-06,1,0,0,0,0,1,0,0,0,0,0,0
+1911,Kansas State League,regular,P2801266,Osborne,,McPherson,1911-06-06,1911-06-06,1,1,0,0,0,0,1,0,0,1,0,1
+1911,Kansas State League,regular,P7221414,Peoples,,Wellington,1911-05-11,1911-06-06,2,0,0,2,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P9769329,Pouron,,Wellington,1911-05-11,1911-05-11,1,0,0,0,0,0,1,0,1,0,0,0
-1911,Kansas State League,regular,P6891512,Schimoski,,Wellington,1911-05-11,1911-05-11,1,0,0,0,0,1,0,0,0,0,0,0
-1911,Kansas State League,regular,P9070451,Smith,,Wellington,1911-05-11,1911-05-11,1,0,0,0,1,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P1550116,Runbeck,,McPherson,1911-06-06,1911-06-06,1,0,0,0,0,0,1,0,0,1,0,0
+1911,Kansas State League,regular,P6891512,Schimoski,,Wellington,1911-05-11,1911-06-06,2,0,0,0,1,1,0,0,0,0,0,0
+1911,Kansas State League,regular,P9070451,Smith,,Wellington,1911-05-11,1911-06-06,2,0,0,0,1,1,0,0,0,0,0,0
+1911,Kansas State League,regular,P8387399,Syneck,,McPherson,1911-06-06,1911-06-06,1,0,0,0,1,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P0961738,Tomlin,,Great Bend,1911-05-11,1911-05-11,1,0,0,0,0,0,1,0,0,1,0,0
+1911,Kansas State League,regular,P7962913,Tomlin,,Wellington,1911-06-06,1911-06-06,1,0,0,0,0,0,1,1,0,0,0,0
 1911,Kansas State League,regular,P3120611,Wacob,,Great Bend,1911-05-11,1911-05-11,1,0,0,0,0,0,0,0,0,0,1,0
 1911,Kansas State League,regular,P4395331,Weber,,Wellington,1911-05-11,1911-05-11,1,0,1,0,0,0,0,0,0,0,0,0

@@ -297,19 +297,19 @@ Laflambois @ 3b:	4 0 0 0 1 1
 Acock @ 2b:			3 1 1 3 4 0
 Block @ cf:			4 3 3 0 0 1
 Edmiston @ ss:		5 1 3 7 8 1
-Garrett [lf] @ lf:		4 0 1 3 0 1
+Garrett @ lf:		4 0 1 3 0 1
 Lisy @ rf:			4 1 1 1 0 0
 Moneymaker @ c:		3 1 1 7 0 0
 Miller @ 1b:		4 0 1 11 0 1
 Smith @ p:			2 0 1 0 3 2
 *Donovan @ ph:		1 1 1 0 0 0
 +Zink @ ph:			1 1 1 0 0 0
-$Garrett [ph] @ ph:		1 0 1 0 0 0
+$Lancaster @ ph:		1 0 1 0 0 0
 TOTALS:				36 9 15 27 16 7
 
 *: batted for Smith in 9th
 +: batted for Laflambois in 9th
-$: batted for Garrett [lf] in 9th
+$: batted for Garrett in 9th
 
 line: Larned: 2 0 0 0 0 1 4 0 1 - 8
 line: Hutchinson: 0 1 3 0 1 1 0 0 3 - 9
@@ -320,7 +320,7 @@ B_ER:
 B_2B: Berte
 B_3B: Edmiston; Block; Lisy
 B_HR: Crittenden
-B_SB: Garrett [lf]; Chadwick
+B_SB: Garrett; Chadwick
 B_SH: Berte; Matney; Acock; Block; Moneymaker
 B_SF: 
 B_HP: 
