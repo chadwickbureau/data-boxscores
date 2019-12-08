@@ -1,259 +1,307 @@
 league.year,league.name,league.phase,person.ref,person.name.last,person.name.given,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G
-1911,Kansas State League,regular,P7432593,Abbott,,Lyons,1911-05-11,1911-06-14,29,0,28,1,1,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P3702020,Acock,,Hutchinson,1911-05-11,1911-06-11,29,0,0,29,0,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P3906919,Allen,,Newton,1911-05-11,1911-06-14,28,0,4,0,0,0,0,0,0,0,24,0
+1911,Kansas State League,regular,P7432593,Abbott,,Lyons,1911-05-11,1911-06-21,36,1,35,1,1,0,0,0,0,0,0,1
+1911,Kansas State League,regular,P3702020,Acock,,Hutchinson,1911-05-11,1911-06-21,34,0,0,34,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P3906919,Allen,,Newton,1911-05-11,1911-06-21,35,0,4,0,0,0,0,0,0,0,31,0
 1911,Kansas State League,regular,P7351811,Annis,,El Dorado,1911-05-11,1911-06-11,22,0,0,9,0,13,0,0,0,0,0,0
 1911,Kansas State League,regular,P3174968,Armstrong,,Newton,1911-05-11,1911-05-21,4,0,4,0,0,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P1581359,Bashang,,Newton,1911-06-05,1911-06-14,6,0,0,0,0,5,0,0,0,0,0,0
+1911,Kansas State League,regular,P1581359,Bashang,,Newton,1911-06-05,1911-06-21,10,0,0,0,0,9,0,0,0,0,0,0
 1911,Kansas State League,regular,P2166420,Bashange,,Newton,1911-06-03,1911-06-04,2,0,0,0,0,2,0,0,0,0,0,0
+1911,Kansas State League,regular,P5283645,Bashong,,Newton,1911-06-17,1911-06-19,3,0,0,0,0,3,0,0,0,0,0,0
 1911,Kansas State League,regular,P4438627,Bechtel,,Great Bend,1911-05-27,1911-05-27,1,0,0,0,1,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P2135857,Bechtold,,Great Bend,1911-05-14,1911-06-14,26,0,0,0,1,0,25,25,0,0,0,0
+1911,Kansas State League,regular,P2135857,Bechtold,,Great Bend,1911-05-14,1911-06-19,30,0,0,0,1,0,29,29,0,0,0,0
 1911,Kansas State League,regular,P5938100,Becktold,,Great Bend,1911-05-13,1911-05-15,2,0,0,0,0,0,2,2,0,0,0,0
 1911,Kansas State League,regular,P8923061,Becktole,,Great Bend,1911-05-12,1911-05-12,1,0,0,0,0,0,1,1,0,0,0,0
 1911,Kansas State League,regular,P6439899,Benson,,Larned,1911-06-01,1911-06-07,5,0,0,0,0,0,5,0,0,5,0,0
-1911,Kansas State League,regular,P7654952,Berte,,Larned,1911-05-11,1911-06-14,24,0,0,0,0,23,0,0,0,0,0,0
+1911,Kansas State League,regular,P7654952,Berte,,Larned,1911-05-11,1911-06-21,30,0,0,0,0,29,0,0,0,0,0,0
 1911,Kansas State League,regular,P9611063,Bishang,,Newton,1911-06-09,1911-06-09,1,0,0,0,0,1,0,0,0,0,0,0
-1911,Kansas State League,regular,P6527214,Block,,Hutchinson,1911-05-11,1911-06-14,32,0,0,0,0,0,32,5,28,0,0,0
+1911,Kansas State League,regular,P6527214,Block,,Hutchinson,1911-05-11,1911-06-21,39,0,0,0,0,0,39,5,35,0,0,0
 1911,Kansas State League,regular,P9671953,Boley,,Larned,1911-05-19,1911-06-13,10,7,0,0,0,0,2,0,1,1,0,7
 1911,Kansas State League,regular,P4937324,Boly,,Larned,1911-05-12,1911-05-16,2,2,0,0,0,0,0,0,0,0,0,2
 1911,Kansas State League,regular,P0596876,Bomb,,Great Bend,1911-05-14,1911-05-14,1,0,1,0,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P2408534,Boone,,Wellington,1911-05-12,1911-05-17,4,4,0,0,0,0,0,0,0,0,0,4
-1911,Kansas State League,regular,P3328952,Brannon,,El Dorado,1911-05-11,1911-06-14,26,0,0,0,25,0,1,0,0,1,0,0
+1911,Kansas State League,regular,P8291822,Brandon,,El Dorado,1911-06-18,1911-06-18,1,0,0,0,1,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P3328952,Brannon,,El Dorado,1911-05-11,1911-06-21,32,0,0,0,28,3,1,0,0,1,0,0
 1911,Kansas State League,regular,P8817099,Brown,,Hutchinson,1911-05-27,1911-05-27,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Kansas State League,regular,P6952573,Brown,,Lyons,1911-06-03,1911-06-14,5,5,0,0,0,0,0,0,0,0,0,5
-1911,Kansas State League,regular,P4332050,Bumb,,Great Bend,1911-05-12,1911-06-14,29,0,29,0,0,0,0,0,0,0,1,0
+1911,Kansas State League,regular,P6952573,Brown,,Lyons,1911-06-03,1911-06-21,8,8,1,0,0,0,0,0,0,0,0,8
+1911,Kansas State League,regular,P4332050,Bumb,,Great Bend,1911-05-12,1911-06-21,35,0,35,0,0,0,0,0,0,0,1,0
 1911,Kansas State League,regular,P9106543,Burson,,Larned,1911-06-09,1911-06-09,1,0,0,0,0,0,0,0,0,0,1,0
-1911,Kansas State League,regular,P1050486,Campbell,,Larned,1911-05-17,1911-06-14,20,0,0,1,19,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P6154196,Campfield,,McPherson,1911-05-11,1911-06-14,26,0,0,0,0,0,0,0,0,0,26,0
-1911,Kansas State League,regular,P4157817,Carver,,Larned,1911-06-05,1911-06-12,2,2,0,0,0,0,0,0,0,0,0,2
+1911,Kansas State League,regular,P1050486,Campbell,,Larned,1911-05-17,1911-06-21,26,0,0,1,25,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P6154196,Campfield,,McPherson,1911-05-11,1911-06-21,33,0,0,0,0,0,0,0,0,0,33,0
+1911,Kansas State League,regular,P4157817,Carver,,Larned,1911-06-05,1911-06-19,3,3,0,0,0,0,0,0,0,0,0,3
 1911,Kansas State League,regular,P8560984,Carver,,Lyons,1911-06-02,1911-06-02,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Kansas State League,regular,P7332619,Casey,,Larned,1911-06-03,1911-06-03,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Kansas State League,regular,P8629236,Chadwick,,Larned,1911-05-11,1911-06-01,16,0,0,0,0,0,16,15,1,0,0,0
-1911,Kansas State League,regular,P5947801,Chase,,Lyons,1911-05-11,1911-06-14,29,0,0,28,1,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P5947801,Chase,,Lyons,1911-05-11,1911-06-21,36,0,0,34,1,0,0,0,0,0,1,0
 1911,Kansas State League,regular,P0977147,Chelgood,,Larned,1911-05-14,1911-05-14,1,0,0,0,0,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P9573863,Chellgood,,Larned,1911-05-12,1911-06-14,21,0,0,21,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P9573863,Chellgood,,Larned,1911-05-12,1911-06-16,23,0,0,23,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P2779722,Chellgord,,Larned,1911-06-18,1911-06-21,4,0,0,4,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P9882810,Chester,,Great Bend,1911-06-21,1911-06-21,1,0,0,0,0,0,1,0,0,1,0,0
 1911,Kansas State League,regular,P2063979,Chillgood,,Larned,1911-05-11,1911-05-11,1,0,0,1,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P6176012,Cisser,,Wellington,1911-06-04,1911-06-04,1,0,0,0,0,0,0,0,0,0,1,0
 1911,Kansas State League,regular,P9045218,Clark,,Lyons,1911-05-11,1911-06-02,17,0,0,0,0,0,17,17,0,0,0,0
 1911,Kansas State League,regular,P1791285,Clarke,,Wellington,1911-05-15,1911-05-15,1,0,0,0,0,0,1,0,1,0,0,0
 1911,Kansas State League,regular,P6127014,Clawson,,McPherson,1911-05-24,1911-05-24,1,0,0,0,0,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P7407410,Clawson,,Newton,1911-05-26,1911-06-14,7,6,0,0,0,0,0,0,0,0,0,6
-1911,Kansas State League,regular,P7514575,Conner,,El Dorado,1911-05-17,1911-06-11,7,6,0,0,0,0,1,0,1,0,0,6
+1911,Kansas State League,regular,P7407410,Clawson,,Newton,1911-05-26,1911-06-18,8,7,0,0,0,0,0,0,0,0,0,7
+1911,Kansas State League,regular,P7514575,Conner,,El Dorado,1911-05-17,1911-06-19,9,8,0,0,0,0,1,0,1,0,0,8
 1911,Kansas State League,regular,P9471874,Conners,,El Dorado,1911-05-13,1911-05-15,2,1,0,0,0,0,1,0,0,1,0,1
 1911,Kansas State League,regular,P7364185,Connor,,El Dorado,1911-06-02,1911-06-05,2,2,0,0,0,0,1,0,1,0,0,2
-1911,Kansas State League,regular,P7236998,Crittenden,,Larned,1911-05-11,1911-05-31,16,0,0,1,0,0,1,0,0,1,15,0
-1911,Kansas State League,regular,P9448495,Dail,,Lyons,1911-06-04,1911-06-14,11,0,0,0,0,0,11,8,0,3,0,0
+1911,Kansas State League,regular,P7236998,Crittenden,,Larned,1911-05-11,1911-06-21,19,0,0,1,0,0,2,0,0,2,17,0
+1911,Kansas State League,regular,P9448495,Dail,,Lyons,1911-06-04,1911-06-21,18,0,0,0,0,0,18,8,0,10,0,0
 1911,Kansas State League,regular,P1082392,Dillon,,Larned,1911-06-03,1911-06-03,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Kansas State League,regular,P1805809,Doane,,El Dorado,1911-05-15,1911-05-15,1,0,0,0,0,0,0,0,0,0,1,0
-1911,Kansas State League,regular,P5774296,Donovan,,Hutchinson,1911-05-11,1911-06-14,22,7,1,0,0,0,8,4,1,3,0,7
-1911,Kansas State League,regular,P9006633,Dressen,,Lyons,1911-05-11,1911-06-14,21,6,3,0,0,0,12,4,0,8,0,6
+1911,Kansas State League,regular,P5774296,Donovan,,Hutchinson,1911-05-11,1911-06-21,27,9,1,0,0,0,11,7,1,3,0,9
+1911,Kansas State League,regular,P9006633,Dressen,,Lyons,1911-05-11,1911-06-21,28,6,3,0,0,0,19,11,0,8,0,6
 1911,Kansas State League,regular,P0932105,Echstein,,Larned,1911-06-08,1911-06-08,1,0,0,0,0,0,1,0,1,0,0,0
 1911,Kansas State League,regular,P2899586,Eckstein,,Great Bend,1911-05-26,1911-05-27,2,0,0,0,0,0,2,1,0,1,0,0
-1911,Kansas State League,regular,P6443244,Eckstein,,Larned,1911-06-07,1911-06-12,3,0,0,0,0,0,3,0,3,0,0,0
+1911,Kansas State League,regular,P6443244,Eckstein,,Larned,1911-06-07,1911-06-20,6,0,0,0,0,0,6,3,3,0,0,0
 1911,Kansas State League,regular,P9644273,Eckstein,,Newton,1911-05-14,1911-05-21,5,0,0,0,0,0,5,0,0,5,0,0
-1911,Kansas State League,regular,P1946636,Eckstine,,Larned,1911-06-13,1911-06-14,2,0,0,0,0,0,2,0,1,1,0,0
+1911,Kansas State League,regular,P1946636,Eckstine,,Larned,1911-06-13,1911-06-21,5,0,0,0,0,0,5,3,1,1,0,0
 1911,Kansas State League,regular,P7959156,Edminston,,Hutchinson,1911-06-10,1911-06-11,2,0,0,0,2,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P5620390,Edmiston,,Hutchinson,1911-05-11,1911-06-14,30,0,0,0,10,19,0,0,0,0,0,0
+1911,Kansas State League,regular,P5620390,Edmiston,,Hutchinson,1911-05-11,1911-06-21,37,0,0,0,16,20,0,0,0,0,0,0
 1911,Kansas State League,regular,P2048839,Ehret,,McPherson,1911-05-20,1911-06-09,2,2,0,0,0,0,0,0,0,0,0,2
 1911,Kansas State League,regular,P2940837,Eksten,,Newton,1911-05-15,1911-05-15,1,0,0,0,0,0,1,0,0,1,0,0
 1911,Kansas State League,regular,P0255715,Eppstein,,Newton,1911-05-12,1911-05-16,3,0,0,0,0,0,3,0,0,3,0,0
-1911,Kansas State League,regular,P3654405,Errett,,McPherson,1911-05-13,1911-06-14,8,8,0,0,0,0,0,0,0,0,0,8
+1911,Kansas State League,regular,P3654405,Errett,,McPherson,1911-05-13,1911-06-19,10,9,0,0,0,0,1,0,0,1,0,9
 1911,Kansas State League,regular,P4217043,Fairview,,Larned,1911-05-15,1911-05-15,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Kansas State League,regular,P7942333,Falkenberg,,Great Bend,1911-05-19,1911-06-06,15,0,0,13,1,0,2,1,0,1,0,0
-1911,Kansas State League,regular,P1418034,Falskin,,El Dorado,1911-06-14,1911-06-14,1,0,0,0,0,0,1,1,0,0,0,0
+1911,Kansas State League,regular,P7942333,Falkenberg,,Great Bend,1911-05-19,1911-06-21,20,0,0,18,1,0,2,1,0,1,0,0
+1911,Kansas State League,regular,P7902797,Falkenburg,,Great Bend,1911-06-16,1911-06-16,1,0,0,1,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P9478190,Falsken,,El Dorado,1911-06-16,1911-06-17,2,0,0,0,0,0,2,2,0,0,0,0
+1911,Kansas State League,regular,P1418034,Falskin,,El Dorado,1911-06-14,1911-06-15,2,0,0,0,0,0,2,2,0,0,0,0
+1911,Kansas State League,regular,P7852486,Farrel,,El Dorado,1911-06-20,1911-06-20,1,0,0,0,0,0,1,0,1,0,0,0
+1911,Kansas State League,regular,P4535218,Farrell,,El Dorado,1911-06-17,1911-06-21,4,0,0,0,0,0,4,0,4,0,0,0
 1911,Kansas State League,regular,P3699779,Farrell,,Newton,1911-05-31,1911-06-02,3,0,3,0,0,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P2169500,Fedor,,Great Bend,1911-05-12,1911-06-14,30,0,0,0,0,30,0,0,0,0,0,0
+1911,Kansas State League,regular,P2169500,Fedor,,Great Bend,1911-05-12,1911-06-21,36,0,0,0,0,36,0,0,0,0,0,0
+1911,Kansas State League,regular,P6271542,Ferrell,,El Dorado,1911-06-16,1911-06-16,1,0,0,0,0,0,1,0,1,0,0,0
 1911,Kansas State League,regular,P7714631,Ferrell,,Newton,1911-05-12,1911-05-27,8,0,8,0,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P6714828,Finney,,Wellington,1911-05-20,1911-05-26,7,0,0,0,0,0,7,6,0,1,0,0
 1911,Kansas State League,regular,P2462191,Flood,,Newton,1911-05-12,1911-05-19,6,0,0,0,0,0,0,0,0,0,6,0
 1911,Kansas State League,regular,P8561468,Folsom,,Great Bend,1911-06-09,1911-06-10,2,0,0,0,0,0,2,0,1,1,0,0
 1911,Kansas State League,regular,P0995321,Fox,,Great Bend,1911-05-14,1911-05-18,2,2,0,0,0,0,0,0,0,0,0,2
 1911,Kansas State League,regular,P9376624,Fox,,Hutchinson,1911-05-20,1911-05-20,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Kansas State League,regular,P1940377,Freeman,,Newton,1911-05-11,1911-06-14,26,0,0,2,15,0,10,0,1,9,1,0
-1911,Kansas State League,regular,P2059248,Freese,,Larned,1911-06-01,1911-06-07,6,0,0,0,0,0,2,2,0,0,4,0
+1911,Kansas State League,regular,P1940377,Freeman,,Newton,1911-05-11,1911-06-21,33,0,0,2,15,0,17,0,1,16,1,0
+1911,Kansas State League,regular,P2059248,Freese,,Larned,1911-06-01,1911-06-15,7,0,0,0,0,0,2,2,0,0,5,0
 1911,Kansas State League,regular,P6325076,Fuller,,El Dorado,1911-05-11,1911-06-10,26,0,0,0,0,0,26,19,0,7,0,0
+1911,Kansas State League,regular,P9643288,Fullwider,,El Dorado,1911-06-17,1911-06-17,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Kansas State League,regular,P2598220,Fulwider,,El Dorado,1911-06-20,1911-06-20,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Kansas State League,regular,P6100626,Gardner,,McPherson,1911-05-11,1911-05-17,7,0,0,0,0,0,7,3,0,4,0,0
-1911,Kansas State League,regular,P0054115,Garrett,,El Dorado,1911-05-11,1911-06-13,24,0,0,0,0,0,6,1,1,5,19,0
+1911,Kansas State League,regular,P0054115,Garrett,,El Dorado,1911-05-11,1911-06-21,27,0,0,0,0,0,7,1,1,6,21,0
 1911,Kansas State League,regular,P3135516,Garrett,,Hutchinson,1911-05-24,1911-05-27,4,0,0,0,0,0,4,4,0,0,0,0
+1911,Kansas State League,regular,P2703052,Garrity,,El Dorado,1911-06-19,1911-06-19,1,0,0,0,0,0,1,0,0,1,0,0
+1911,Kansas State League,regular,P5902712,Giffen,,Wichita,1911-06-17,1911-06-17,1,0,1,0,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P0391894,Giffin,,Wellington,1911-05-12,1911-06-12,22,8,10,2,0,0,2,1,1,0,0,8
-1911,Kansas State League,regular,P6960508,Giffin,,Wichita,1911-06-13,1911-06-14,2,1,0,0,0,0,1,0,0,1,0,1
-1911,Kansas State League,regular,P6451872,Green,,McPherson,1911-05-11,1911-06-14,24,0,23,0,0,0,0,0,0,0,1,0
+1911,Kansas State League,regular,P6960508,Giffin,,Wichita,1911-06-13,1911-06-20,6,4,0,1,0,0,3,0,1,2,0,4
+1911,Kansas State League,regular,P4209994,Gourley,,Hutchinson,1911-06-21,1911-06-21,1,0,0,0,1,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P4440069,Gowan,,Wichita,1911-06-18,1911-06-21,4,1,0,0,0,0,4,0,4,0,0,1
+1911,Kansas State League,regular,P6451872,Green,,McPherson,1911-05-11,1911-06-21,31,0,30,0,0,0,0,0,0,0,1,0
 1911,Kansas State League,regular,P7836630,Gruessen,,El Dorado,1911-05-31,1911-05-31,1,0,0,0,0,0,0,0,0,0,1,0
 1911,Kansas State League,regular,P2743898,Gruesser,,El Dorado,1911-06-03,1911-06-08,2,0,0,0,0,0,0,0,0,0,2,0
 1911,Kansas State League,regular,P4010325,Grusser,,El Dorado,1911-06-01,1911-06-01,1,0,0,0,0,0,0,0,0,0,1,0
 1911,Kansas State League,regular,P3715908,Hale,,El Dorado,1911-05-15,1911-05-15,1,0,0,0,0,0,0,0,0,0,1,0
 1911,Kansas State League,regular,P0645384,Harmon,,Wellington,1911-05-12,1911-06-12,20,10,0,0,1,0,12,5,6,1,0,10
-1911,Kansas State League,regular,P3047278,Harmon,,Wichita,1911-06-14,1911-06-14,1,0,0,0,0,0,1,0,0,1,0,0
+1911,Kansas State League,regular,P3047278,Harmon,,Wichita,1911-06-14,1911-06-21,6,2,0,0,0,0,2,0,1,1,0,2
 1911,Kansas State League,regular,P9380129,Harmony,,Wellington,1911-05-18,1911-05-18,1,0,0,0,0,0,1,1,0,0,0,0
+1911,Kansas State League,regular,P0103747,Harmuth,,El Dorado,1911-06-20,1911-06-21,2,0,1,1,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P6451406,Harp,,Wellington,1911-06-12,1911-06-12,1,1,0,0,0,0,1,0,0,1,0,1
-1911,Kansas State League,regular,P4953391,Harriot,,Larned,1911-05-14,1911-05-14,1,0,0,0,0,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P5150019,Harriott,,Larned,1911-05-11,1911-06-14,25,0,25,0,0,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P2204760,Harris,,McPherson,1911-05-14,1911-06-14,21,0,0,20,0,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P2276146,Harrison,,Great Bend,1911-05-15,1911-06-14,13,0,0,4,0,0,2,0,1,2,7,0
+1911,Kansas State League,regular,P4953391,Harriot,,Larned,1911-05-14,1911-06-20,2,0,1,0,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P5150019,Harriott,,Larned,1911-05-11,1911-06-21,29,0,29,0,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P2204760,Harris,,McPherson,1911-05-14,1911-06-21,23,0,0,22,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P2276146,Harrison,,Great Bend,1911-05-15,1911-06-19,16,0,0,4,0,0,3,0,1,3,9,0
 1911,Kansas State League,regular,P2099712,Held,,Wellington,1911-05-12,1911-06-09,22,0,0,0,0,0,22,1,3,18,1,0
-1911,Kansas State League,regular,P2589983,Hobson,,Larned,1911-05-11,1911-06-13,15,0,0,3,4,2,5,3,1,1,1,0
+1911,Kansas State League,regular,P2363622,Held,,Wichita,1911-06-16,1911-06-21,6,0,0,0,0,0,6,0,0,6,0,0
+1911,Kansas State League,regular,P7640135,Herriott,,Larned,1911-06-19,1911-06-19,1,0,1,0,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P2589983,Hobson,,Larned,1911-05-11,1911-06-21,19,0,0,4,4,2,9,3,1,5,1,0
 1911,Kansas State League,regular,P4702342,Hodeson,,Larned,1911-05-15,1911-05-15,1,0,0,0,1,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P7646887,House,,Hutchinson,1911-05-13,1911-06-12,9,9,0,0,0,0,0,0,0,0,0,9
+1911,Kansas State League,regular,P1180881,Hormuth,,El Dorado,1911-06-19,1911-06-19,1,0,0,0,1,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P7646887,House,,Hutchinson,1911-05-13,1911-06-19,11,11,0,0,0,0,0,0,0,0,0,11
 1911,Kansas State League,regular,P7962377,Hubart,,Hutchinson,1911-06-10,1911-06-10,1,0,0,0,0,1,0,0,0,0,0,0
-1911,Kansas State League,regular,P4705035,Hubbart,,Hutchinson,1911-06-02,1911-06-14,11,0,0,0,0,11,0,0,0,0,0,0
+1911,Kansas State League,regular,P4705035,Hubbart,,Hutchinson,1911-06-02,1911-06-21,18,0,0,0,0,17,1,1,0,0,0,0
 1911,Kansas State League,regular,P7284999,Huseman,,Larned,1911-06-07,1911-06-11,2,2,0,0,0,0,0,0,0,0,0,2
-1911,Kansas State League,regular,P4041751,Irvin,,McPherson,1911-05-15,1911-06-14,12,0,0,0,0,0,12,8,0,4,0,0
+1911,Kansas State League,regular,P4041751,Irvin,,McPherson,1911-05-15,1911-06-19,16,0,0,0,0,0,16,9,0,7,0,0
 1911,Kansas State League,regular,P5537310,Irving,,McPherson,1911-05-11,1911-05-22,5,0,0,0,0,0,5,2,0,3,0,0
 1911,Kansas State League,regular,P6798843,Jarvis,,Great Bend,1911-05-12,1911-05-16,4,0,0,2,0,0,2,0,0,2,0,0
 1911,Kansas State League,regular,P5356306,Jewel,,Newton,1911-05-23,1911-05-25,2,0,0,0,0,2,0,0,0,0,0,0
-1911,Kansas State League,regular,P7067358,Jewell,,Newton,1911-05-14,1911-06-14,24,0,0,0,12,12,0,0,0,0,1,0
-1911,Kansas State League,regular,P0446857,Johnson,,El Dorado,1911-06-08,1911-06-14,6,1,0,0,0,0,5,1,0,4,0,1
+1911,Kansas State League,regular,P7067358,Jewell,,Newton,1911-05-14,1911-06-21,31,0,0,0,19,12,0,0,0,0,1,0
+1911,Kansas State League,regular,P0446857,Johnson,,El Dorado,1911-06-08,1911-06-18,10,1,0,0,0,0,9,1,0,8,0,1
 1911,Kansas State League,regular,P3868214,Johnston,,Hutchinson,1911-05-20,1911-05-23,4,0,0,0,4,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P3658356,Jones,,Lyons,1911-05-11,1911-05-18,8,0,0,0,0,0,8,0,0,8,0,0
-1911,Kansas State League,regular,P1382158,Jones,,McPherson,1911-05-11,1911-06-14,27,0,0,0,0,0,27,0,26,1,0,0
+1911,Kansas State League,regular,P1382158,Jones,,McPherson,1911-05-11,1911-06-21,34,0,0,0,0,0,34,0,33,1,0,0
 1911,Kansas State League,regular,P6688779,Juel,,Newton,1911-05-13,1911-05-13,1,0,0,0,1,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P0650924,Kadghin,,Larned,1911-06-20,1911-06-20,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Kansas State League,regular,P2350910,Kafora,,El Dorado,1911-05-17,1911-05-21,5,0,0,0,0,0,0,0,0,0,5,0
 1911,Kansas State League,regular,P6141933,Karl,,Wellington,1911-06-10,1911-06-10,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Kansas State League,regular,P5360325,Kellar,,El Dorado,1911-05-12,1911-06-13,9,8,0,0,0,0,1,0,0,1,0,8
+1911,Kansas State League,regular,P5360325,Kellar,,El Dorado,1911-05-12,1911-06-16,10,9,0,0,0,0,1,0,0,1,0,9
 1911,Kansas State League,regular,P7300169,Keller,,El Dorado,1911-05-18,1911-06-05,4,4,0,0,0,0,0,0,0,0,0,4
-1911,Kansas State League,regular,P6922326,Kelly,,Lyons,1911-06-10,1911-06-12,3,2,0,0,0,0,0,0,0,0,0,2
+1911,Kansas State League,regular,P6922326,Kelly,,Lyons,1911-06-10,1911-06-15,4,3,0,0,0,0,0,0,0,0,0,3
 1911,Kansas State League,regular,P5396776,Kempton,,El Dorado,1911-05-23,1911-05-23,1,0,0,0,0,0,1,0,0,1,0,0
-1911,Kansas State League,regular,P5299896,Kennedy,,El Dorado,1911-05-11,1911-06-14,31,0,31,0,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P5299896,Kennedy,,El Dorado,1911-05-11,1911-06-18,35,0,35,0,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P6541815,Kerr,,Wellington,1911-05-13,1911-06-07,12,7,0,0,0,0,4,3,1,0,0,7
-1911,Kansas State League,regular,P7972741,Killilay,,El Dorado,1911-05-11,1911-06-14,31,0,0,0,1,0,31,0,31,0,0,0
-1911,Kansas State League,regular,P4805441,Kinkelin,,Great Bend,1911-05-14,1911-06-14,25,0,0,0,0,0,25,1,25,0,0,0
+1911,Kansas State League,regular,P2658426,Kester,,Great Bend,1911-06-20,1911-06-20,1,0,0,0,0,0,1,0,0,1,0,0
+1911,Kansas State League,regular,P7972741,Killilay,,El Dorado,1911-05-11,1911-06-21,36,0,0,0,1,0,36,4,32,0,0,0
+1911,Kansas State League,regular,P4805441,Kinkelin,,Great Bend,1911-05-14,1911-06-21,31,0,0,0,0,0,31,1,31,0,0,0
 1911,Kansas State League,regular,P7575004,Kinklin,,Great Bend,1911-05-12,1911-05-13,2,0,0,0,0,0,2,0,2,0,0,0
 1911,Kansas State League,regular,P2395969,Kinkline,,Great Bend,1911-05-27,1911-05-27,1,0,0,0,0,0,1,0,1,0,0,0
-1911,Kansas State League,regular,P9304527,Kuhagen,,Great Bend,1911-05-12,1911-06-12,7,7,0,0,0,0,0,0,0,0,0,7
-1911,Kansas State League,regular,P2576093,Laflambois,,Hutchinson,1911-05-11,1911-06-14,32,3,0,3,9,0,20,15,5,1,0,3
-1911,Kansas State League,regular,P3754814,Lagenaur,,McPherson,1911-05-25,1911-06-12,6,5,0,0,0,0,0,0,0,0,0,5
+1911,Kansas State League,regular,P0783931,Koss,,Newton,1911-06-16,1911-06-16,1,0,1,0,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P9304527,Kuhagen,,Great Bend,1911-05-12,1911-06-20,8,8,0,0,0,0,0,0,0,0,0,8
+1911,Kansas State League,regular,P2576093,Laflambois,,Hutchinson,1911-05-11,1911-06-19,37,3,0,5,9,0,23,17,6,1,0,3
+1911,Kansas State League,regular,P1580986,Laganaur,,McPherson,1911-06-17,1911-06-17,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Kansas State League,regular,P3754814,Lagenaur,,McPherson,1911-05-25,1911-06-20,8,7,0,0,0,0,0,0,0,0,0,7
 1911,Kansas State League,regular,P2806796,Lagenour,,McPherson,1911-05-14,1911-05-22,4,3,0,0,0,0,0,0,0,0,0,3
 1911,Kansas State League,regular,P5845442,Lagerman,,Newton,1911-05-12,1911-05-12,1,0,0,0,0,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P2693504,Lancaster,,Hutchinson,1911-05-11,1911-06-13,18,11,2,0,0,0,1,0,0,1,0,11
-1911,Kansas State League,regular,P8719041,Langley,,Lyons,1911-05-11,1911-06-13,12,9,1,0,0,0,2,1,0,1,0,9
+1911,Kansas State League,regular,P2693504,Lancaster,,Hutchinson,1911-05-11,1911-06-16,19,12,2,0,0,0,1,0,0,1,0,12
+1911,Kansas State League,regular,P8719041,Langley,,Lyons,1911-05-11,1911-06-18,13,10,1,0,0,0,2,1,0,1,0,10
 1911,Kansas State League,regular,P4393536,Leach,,Hutchinson,1911-05-11,1911-05-20,6,0,0,0,0,0,6,1,0,5,0,0
-1911,Kansas State League,regular,P1132882,Leach,,Lyons,1911-05-18,1911-06-12,8,8,0,0,0,0,0,0,0,0,0,8
+1911,Kansas State League,regular,P1132882,Leach,,Lyons,1911-05-18,1911-06-19,11,10,0,0,0,0,1,0,1,0,0,10
 1911,Kansas State League,regular,P7718089,Leach [Hut],,Hutchinson,1911-05-12,1911-05-15,2,0,0,0,0,0,2,0,0,2,0,0
 1911,Kansas State League,regular,P3801406,Leach [Lyo],,Lyons,1911-05-12,1911-05-15,2,2,0,0,0,0,0,0,0,0,0,2
-1911,Kansas State League,regular,P7179471,Leonard,,El Dorado,1911-05-11,1911-06-14,30,0,0,21,0,0,10,5,0,5,0,0
+1911,Kansas State League,regular,P7179471,Leonard,,El Dorado,1911-05-11,1911-06-21,37,0,0,26,1,0,12,5,0,7,0,0
 1911,Kansas State League,regular,P0565895,Lewis,,Wellington,1911-05-16,1911-06-12,14,5,5,0,0,0,3,1,0,2,0,5
-1911,Kansas State League,regular,P1234381,Lewis,,Wichita,1911-06-13,1911-06-14,2,1,0,0,0,0,0,0,0,0,0,1
+1911,Kansas State League,regular,P1234381,Lewis,,Wichita,1911-06-13,1911-06-21,4,3,0,0,0,0,0,0,0,0,0,3
 1911,Kansas State League,regular,P4737827,Liston,,El Dorado,1911-06-12,1911-06-12,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Kansas State League,regular,P0353956,Lisy,,Hutchinson,1911-05-12,1911-06-14,30,0,1,0,8,0,22,6,0,17,0,0
+1911,Kansas State League,regular,P0353956,Lisy,,Hutchinson,1911-05-12,1911-06-21,37,0,1,0,8,0,29,6,0,24,0,0
 1911,Kansas State League,regular,P1495658,Litter,,Larned,1911-05-17,1911-05-17,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Kansas State League,regular,P3434102,Littler,,Larned,1911-05-19,1911-06-01,5,1,0,0,0,1,3,1,0,2,0,1
 1911,Kansas State League,regular,P3860204,Love,,Larned,1911-05-11,1911-06-08,18,0,0,0,0,0,15,3,1,11,4,0
 1911,Kansas State League,regular,P8337244,Luherson,,Great Bend,1911-05-12,1911-05-12,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Kansas State League,regular,P1264983,Luhrson,,Great Bend,1911-05-15,1911-06-12,12,10,0,1,0,0,1,0,0,1,0,10
+1911,Kansas State League,regular,P1264983,Luhrson,,Great Bend,1911-05-15,1911-06-21,16,14,0,1,0,0,1,0,0,1,0,14
 1911,Kansas State League,regular,P5010742,Lyans,,McPherson,1911-06-07,1911-06-07,1,0,0,0,0,0,1,0,0,1,0,0
+1911,Kansas State League,regular,P3247921,Lyon,,McPherson,1911-06-15,1911-06-17,3,0,0,3,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P3606175,Lyons,,El Dorado,1911-05-21,1911-05-24,4,0,0,0,0,0,4,4,0,0,0,0
 1911,Kansas State League,regular,P1972193,Lyons,,Great Bend,1911-05-12,1911-06-08,20,0,0,0,20,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P4062724,Lyons,,McPherson,1911-06-05,1911-06-14,6,0,0,1,0,0,5,0,0,5,0,0
 1911,Kansas State League,regular,P2710274,Lyons [GB],,Great Bend,1911-06-09,1911-06-14,6,0,0,5,1,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P5252540,Lyons [McP],,McPherson,1911-06-18,1911-06-20,3,0,1,2,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P8069490,Lyons [New],,Newton,1911-06-03,1911-06-04,2,0,2,0,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P8688955,Maple,,Great Bend,1911-05-22,1911-06-14,11,10,0,0,0,0,1,0,0,1,0,10
+1911,Kansas State League,regular,P7257893,Markel,,Wichita,1911-06-16,1911-06-16,1,0,0,0,0,0,0,0,0,0,1,0
 1911,Kansas State League,regular,P8672070,Markle,,El Dorado,1911-06-12,1911-06-14,3,0,0,0,0,0,2,2,0,0,2,0
-1911,Kansas State League,regular,P4860676,Matney,,Larned,1911-05-11,1911-06-14,16,0,0,0,0,0,15,0,15,0,0,0
-1911,Kansas State League,regular,P5813913,Maxey,,Lyons,1911-05-20,1911-06-14,17,0,0,0,0,0,11,0,0,11,6,0
+1911,Kansas State League,regular,P3295365,Markle,,Wichita,1911-06-17,1911-06-17,1,0,0,0,0,0,0,0,0,0,1,0
+1911,Kansas State League,regular,P4860676,Matney,,Larned,1911-05-11,1911-06-21,22,0,0,0,0,0,21,0,21,0,0,0
+1911,Kansas State League,regular,P5813913,Maxey,,Lyons,1911-05-20,1911-06-21,24,0,0,0,0,0,11,0,0,11,13,0
 1911,Kansas State League,regular,P1427337,Maxie,,Lyons,1911-06-11,1911-06-11,1,0,0,0,0,0,0,0,0,0,1,0
-1911,Kansas State League,regular,P5494170,McAuley,,El Dorado,1911-05-11,1911-06-14,28,1,0,3,2,18,6,0,0,6,0,1
-1911,Kansas State League,regular,P1666549,McCray,,Larned,1911-05-18,1911-06-13,8,8,0,0,0,0,0,0,0,0,0,8
+1911,Kansas State League,regular,P5494170,McAuley,,El Dorado,1911-05-11,1911-06-19,33,1,0,3,2,22,7,0,0,7,0,1
+1911,Kansas State League,regular,P4986182,McAulley,,El Dorado,1911-06-21,1911-06-21,1,0,0,0,1,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P5587965,McCauley,,El Dorado,1911-06-20,1911-06-20,1,0,0,0,1,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P1666549,McCray,,Larned,1911-05-18,1911-06-21,11,11,0,0,0,0,0,0,0,0,0,11
 1911,Kansas State League,regular,P3464037,McDonald,,Wellington,1911-06-02,1911-06-12,2,2,0,0,0,0,0,0,0,0,0,2
+1911,Kansas State League,regular,P7039062,McLuckie,,Wichita,1911-06-18,1911-06-21,4,0,0,0,0,0,4,4,0,0,0,0
 1911,Kansas State League,regular,P0888854,McNamara,,Larned,1911-06-11,1911-06-11,1,0,0,0,0,0,0,0,0,0,1,0
 1911,Kansas State League,regular,P1276154,Mead,,Wellington,1911-05-31,1911-06-02,2,0,0,0,0,0,0,0,0,0,2,0
 1911,Kansas State League,regular,P0496319,Meade,,Wellington,1911-05-13,1911-06-10,20,0,3,0,0,0,8,0,7,1,9,0
-1911,Kansas State League,regular,P7640968,Miller,,Hutchinson,1911-05-11,1911-06-14,24,0,4,0,0,0,3,0,1,2,18,0
+1911,Kansas State League,regular,P7640968,Miller,,Hutchinson,1911-05-11,1911-06-21,30,0,8,0,0,0,3,0,1,2,20,0
 1911,Kansas State League,regular,P7327409,Miss,,Lyons,1911-06-03,1911-06-03,1,0,0,0,0,1,0,0,0,0,0,0
-1911,Kansas State League,regular,P7715574,Misse,,Lyons,1911-05-11,1911-06-14,28,0,0,0,0,28,0,0,0,0,0,0
-1911,Kansas State League,regular,P5245819,Moneymaker,,Hutchinson,1911-05-25,1911-06-13,12,0,0,0,0,0,1,0,0,1,10,0
+1911,Kansas State League,regular,P7715574,Misse,,Lyons,1911-05-11,1911-06-21,35,0,0,0,0,35,0,0,0,0,0,0
+1911,Kansas State League,regular,P5245819,Moneymaker,,Hutchinson,1911-05-25,1911-06-21,15,0,0,0,0,0,1,0,0,1,12,0
 1911,Kansas State League,regular,P3865691,Moneymaker,,Wellington,1911-05-12,1911-05-22,10,0,0,0,0,0,0,0,0,0,9,0
 1911,Kansas State League,regular,P2972398,Morgan,,El Dorado,1911-05-22,1911-05-22,1,0,0,0,0,0,0,0,0,0,1,0
-1911,Kansas State League,regular,P5112820,Murphy,,McPherson,1911-05-11,1911-06-14,27,0,0,0,0,27,0,0,0,0,0,0
+1911,Kansas State League,regular,P5112820,Murphy,,McPherson,1911-05-11,1911-06-21,34,0,0,0,0,34,0,0,0,0,0,0
 1911,Kansas State League,regular,P3920772,Nelson,,Lyons,1911-05-11,1911-06-10,25,0,0,0,0,0,0,0,0,0,25,0
-1911,Kansas State League,regular,P8998859,Oehler,,Great Bend,1911-06-11,1911-06-13,3,0,0,0,3,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P1170731,Oheler,,Great Bend,1911-06-10,1911-06-10,1,0,0,0,1,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P5149702,Ohler,,Great Bend,1911-06-14,1911-06-14,1,0,0,0,1,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P0284514,Osborn,,McPherson,1911-06-04,1911-06-11,2,0,0,0,0,0,1,1,0,0,0,0
-1911,Kansas State League,regular,P4094855,Osborne,,McPherson,1911-05-11,1911-06-13,18,6,0,0,0,0,8,4,2,2,0,6
+1911,Kansas State League,regular,P8998859,Oehler,,Great Bend,1911-06-11,1911-06-15,4,0,0,0,4,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P1170731,Oheler,,Great Bend,1911-06-10,1911-06-16,2,0,0,0,2,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P5149702,Ohler,,Great Bend,1911-06-14,1911-06-21,5,0,0,0,5,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P3525248,Ornsby,,Hutchinson,1911-06-18,1911-06-20,2,1,0,0,0,0,0,0,0,0,0,1
+1911,Kansas State League,regular,P0284514,Osborn,,McPherson,1911-06-04,1911-06-18,6,1,0,0,0,0,3,3,0,0,0,1
+1911,Kansas State League,regular,P4094855,Osborne,,McPherson,1911-05-11,1911-06-21,19,7,0,0,0,0,8,4,2,2,0,7
 1911,Kansas State League,regular,P5087191,Osbourn,,McPherson,1911-06-12,1911-06-12,1,0,0,0,0,0,1,1,0,0,0,0
+1911,Kansas State League,regular,P1317422,Ozee,,Newton,1911-06-17,1911-06-21,5,0,5,0,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P6857442,Parrot,,El Dorado,1911-06-18,1911-06-18,1,0,0,0,0,0,0,0,0,0,1,0
+1911,Kansas State League,regular,P1513302,Parrott,,El Dorado,1911-06-19,1911-06-21,3,0,0,0,0,0,0,0,0,0,3,0
 1911,Kansas State League,regular,P3400776,Pavey,,Wellington,1911-06-02,1911-06-02,1,0,0,1,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P8868648,Peckham,,McPherson,1911-05-26,1911-05-26,1,0,0,0,0,0,0,0,0,0,1,0
-1911,Kansas State League,regular,P4837826,Peckham,,Wichita,1911-06-13,1911-06-14,2,0,0,0,0,0,0,0,0,0,2,0
+1911,Kansas State League,regular,P4837826,Peckham,,Wichita,1911-06-13,1911-06-16,4,0,0,0,0,0,1,0,1,0,3,0
 1911,Kansas State League,regular,P9909851,Peoples,,Wellington,1911-05-12,1911-06-12,23,0,0,21,0,3,1,1,0,0,0,0
-1911,Kansas State League,regular,P4183969,Peoples,,Wichita,1911-06-13,1911-06-14,2,0,0,2,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P4183969,Peoples,,Wichita,1911-06-13,1911-06-21,9,0,0,3,0,6,0,0,0,0,0,0
 1911,Kansas State League,regular,P3515144,Phillips,,Hutchinson,1911-05-12,1911-05-13,2,0,0,0,0,0,1,0,0,1,0,0
 1911,Kansas State League,regular,P9846493,Pinkerton,,Wellington,1911-05-16,1911-05-26,10,0,6,0,0,0,0,0,0,0,4,0
-1911,Kansas State League,regular,P2308920,Pittman,,Newton,1911-05-11,1911-06-14,29,0,0,0,0,0,29,29,0,0,0,0
+1911,Kansas State League,regular,P2308920,Pittman,,Newton,1911-05-11,1911-06-21,36,0,0,0,0,0,36,36,0,0,0,0
 1911,Kansas State League,regular,P8820608,Plank,,El Dorado,1911-06-06,1911-06-10,5,0,0,1,4,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P5684487,Poren,,Wellington,1911-05-13,1911-05-13,1,0,0,0,0,0,1,0,1,0,0,0
+1911,Kansas State League,regular,P9735297,Porkoney,,El Dorado,1911-06-19,1911-06-20,2,0,2,0,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P7285970,Porkorney,,Wichita,1911-06-18,1911-06-18,1,0,1,0,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P3706864,Porrey,,McPherson,1911-05-18,1911-05-19,2,0,0,0,0,0,2,0,0,2,0,0
 1911,Kansas State League,regular,P1062918,Pouron,,Wellington,1911-05-12,1911-05-12,1,0,0,0,0,0,1,1,0,0,0,0
-1911,Kansas State League,regular,P7939246,Powell,,Newton,1911-06-05,1911-06-14,7,0,6,0,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P7939246,Powell,,Newton,1911-06-05,1911-06-15,8,0,7,0,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P9220150,Price,,Hutchinson,1911-05-22,1911-05-25,2,2,0,0,0,0,0,0,0,0,0,2
 1911,Kansas State League,regular,P7840022,Price,,Wellington,1911-05-31,1911-06-05,4,1,0,0,0,0,3,2,0,1,0,1
-1911,Kansas State League,regular,P2302741,Quigley,,Lyons,1911-05-11,1911-06-14,28,0,0,1,27,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P2208536,Rector,,Wichita,1911-06-13,1911-06-14,2,0,1,0,1,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P2302741,Quigley,,Lyons,1911-05-11,1911-06-21,35,0,0,2,33,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P2208536,Rector,,Wichita,1911-06-13,1911-06-16,4,0,3,0,1,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P9825522,Reinbeck,,McPherson,1911-05-12,1911-05-12,1,0,0,0,1,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P1135641,Reynolds,,Wichita,1911-06-18,1911-06-21,4,0,0,0,0,0,0,0,0,0,4,0
 1911,Kansas State League,regular,P3504851,Rhubeck,,McPherson,1911-05-11,1911-05-11,1,0,0,0,1,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P3757037,Routt,,McPherson,1911-05-12,1911-06-11,9,9,0,0,0,0,0,0,0,0,0,9
+1911,Kansas State League,regular,P3757037,Routt,,McPherson,1911-05-12,1911-06-19,12,12,0,0,0,0,0,0,0,0,0,12
 1911,Kansas State League,regular,P2843705,Runbeck,,McPherson,1911-05-13,1911-06-08,19,0,0,0,13,0,6,0,0,6,0,0
 1911,Kansas State League,regular,P8764112,Sacks,,Newton,1911-06-10,1911-06-10,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Kansas State League,regular,P0378263,Salm,,El Dorado,1911-05-11,1911-06-10,7,7,0,0,0,0,0,0,0,0,0,7
-1911,Kansas State League,regular,P8250572,Saxe,,Newton,1911-05-14,1911-06-08,12,8,0,0,0,0,2,0,0,2,0,8
+1911,Kansas State League,regular,P9908502,Salm,,Wichita,1911-06-15,1911-06-15,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Kansas State League,regular,P8250572,Saxe,,Newton,1911-05-14,1911-06-21,15,11,0,0,0,0,2,0,0,2,0,11
 1911,Kansas State League,regular,P0660930,Scanny,,Larned,1911-05-17,1911-05-17,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Kansas State League,regular,P9640063,Scarbright,,Larned,1911-06-12,1911-06-12,1,0,0,0,0,0,1,0,0,1,0,0
 1911,Kansas State League,regular,P9326538,Scarry,,Larned,1911-05-27,1911-06-04,3,2,0,0,0,0,0,0,0,0,0,2
 1911,Kansas State League,regular,P4188364,Schabinger,,Larned,1911-06-13,1911-06-13,1,0,0,0,0,0,1,0,0,1,0,0
 1911,Kansas State League,regular,P2861269,Schabright,,Larned,1911-06-11,1911-06-11,1,0,0,0,0,0,1,0,0,1,0,0
 1911,Kansas State League,regular,P4455897,Schambinger,,Larned,1911-06-08,1911-06-08,1,0,0,0,0,0,1,1,0,0,0,0
+1911,Kansas State League,regular,P2837281,Schimnoski,,Wichita,1911-06-21,1911-06-21,1,0,1,0,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P4599405,Schimoski,,Wellington,1911-05-12,1911-06-12,22,0,0,0,3,14,5,0,5,0,0,0
-1911,Kansas State League,regular,P4698611,Schimoski,,Wichita,1911-06-13,1911-06-14,2,0,0,0,0,0,2,0,2,0,0,0
+1911,Kansas State League,regular,P4698611,Schimoski,,Wichita,1911-06-13,1911-06-20,8,0,3,1,0,0,5,0,5,0,0,0
 1911,Kansas State League,regular,P2358781,Schimosky,,Wellington,1911-05-13,1911-05-13,1,0,0,0,1,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P6563120,Scott,,Wellington,1911-06-12,1911-06-12,1,0,0,0,0,0,0,0,0,0,1,0
 1911,Kansas State League,regular,P6476598,Simcox,,Hutchinson,1911-05-11,1911-05-24,9,0,1,0,0,0,0,0,0,0,7,0
-1911,Kansas State League,regular,P5197833,Singleton,,Larned,1911-06-14,1911-06-14,1,0,0,0,0,0,1,0,0,1,0,0
-1911,Kansas State League,regular,P1168600,Sizemore,,El Dorado,1911-05-14,1911-06-14,12,10,0,0,0,0,2,0,0,2,0,10
+1911,Kansas State League,regular,P5197833,Singleton,,Larned,1911-06-14,1911-06-16,3,0,0,0,0,0,3,0,0,3,0,0
+1911,Kansas State League,regular,P5937538,Singleton,,McPherson,1911-06-18,1911-06-21,3,0,0,0,0,0,3,0,0,3,0,0
+1911,Kansas State League,regular,P1168600,Sizemore,,El Dorado,1911-05-14,1911-06-21,16,14,0,0,0,0,3,0,1,2,0,14
 1911,Kansas State League,regular,P5832527,Smith,,El Dorado,1911-06-10,1911-06-10,1,0,0,0,0,0,0,0,0,0,1,0
-1911,Kansas State League,regular,P3823112,Smith,,Hutchinson,1911-05-26,1911-06-14,5,5,0,0,0,0,0,0,0,0,0,5
+1911,Kansas State League,regular,P3823112,Smith,,Hutchinson,1911-05-26,1911-06-20,8,7,0,0,0,0,0,0,0,0,0,7
 1911,Kansas State League,regular,P2442984,Smith,,Wellington,1911-05-12,1911-06-12,22,0,0,0,15,6,1,1,0,0,0,0
-1911,Kansas State League,regular,P1952078,Smith,,Wichita,1911-06-13,1911-06-14,2,0,0,0,0,2,0,0,0,0,0,0
+1911,Kansas State League,regular,P1952078,Smith,,Wichita,1911-06-13,1911-06-17,5,0,0,2,0,3,0,0,0,0,0,0
 1911,Kansas State League,regular,P3976464,Smith [ED],,El Dorado,1911-06-11,1911-06-11,1,0,0,0,0,0,1,0,0,1,0,0
 1911,Kansas State League,regular,P2969233,Smith [Hut],,Hutchinson,1911-06-11,1911-06-11,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Kansas State League,regular,P2384970,Snyder,,Lyons,1911-05-13,1911-06-03,5,5,0,0,0,0,0,0,0,0,0,5
 1911,Kansas State League,regular,P1952858,Soxe,,Newton,1911-05-11,1911-05-11,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Kansas State League,regular,P2229807,Speak,,Newton,1911-06-01,1911-06-01,1,1,0,0,0,0,0,0,0,0,0,1
-1911,Kansas State League,regular,P3565204,Speake,,Newton,1911-06-05,1911-06-13,3,3,0,0,0,0,0,0,0,0,0,3
-1911,Kansas State League,regular,P4220578,Speaks,,Newton,1911-05-13,1911-05-25,5,5,0,0,0,0,0,0,0,0,0,5
+1911,Kansas State League,regular,P3565204,Speake,,Newton,1911-06-05,1911-06-17,4,4,0,0,0,0,0,0,0,0,0,4
+1911,Kansas State League,regular,P4220578,Speaks,,Newton,1911-05-13,1911-06-20,6,6,0,0,0,0,0,0,0,0,0,6
+1911,Kansas State League,regular,P3919645,Stanton,,Larned,1911-06-16,1911-06-16,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Kansas State League,regular,P0058605,Stephens,,Hutchinson,1911-05-11,1911-05-16,2,0,0,0,1,0,1,0,0,1,0,0
 1911,Kansas State League,regular,P5398347,Stevens,,Hutchinson,1911-05-15,1911-05-19,3,0,0,0,1,0,1,1,0,0,0,0
-1911,Kansas State League,regular,P1456439,Stillwell,,Newton,1911-05-11,1911-06-14,29,0,0,28,0,0,1,0,0,1,0,0
+1911,Kansas State League,regular,P1456439,Stillwell,,Newton,1911-05-11,1911-06-21,35,0,0,34,0,0,1,0,0,1,0,0
+1911,Kansas State League,regular,P7083339,Stilwell,,Newton,1911-06-18,1911-06-18,1,0,0,1,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P5443655,Suddeth,,Larned,1911-05-14,1911-06-02,6,5,0,0,0,0,1,0,1,0,0,5
 1911,Kansas State League,regular,P6501451,Suddith,,Larned,1911-05-11,1911-05-11,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Kansas State League,regular,P5561691,Summers,,McPherson,1911-06-20,1911-06-20,1,0,0,0,0,0,0,0,0,0,1,0
 1911,Kansas State League,regular,P1759932,Syneck,,McPherson,1911-05-11,1911-05-25,13,0,4,5,0,0,5,5,0,0,0,0
-1911,Kansas State League,regular,P2684025,Synek,,McPherson,1911-05-19,1911-06-14,14,0,1,3,9,0,1,1,0,0,0,0
+1911,Kansas State League,regular,P2684025,Synek,,McPherson,1911-05-19,1911-06-21,21,0,1,3,16,0,1,1,0,0,0,0
 1911,Kansas State League,regular,P6430037,Terrell,,Newton,1911-05-22,1911-05-22,1,0,1,0,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P4399482,Tettler,,Larned,1911-05-13,1911-05-13,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Kansas State League,regular,P9394721,Titterington,,Larned,1911-06-08,1911-06-08,1,0,0,0,0,0,1,0,0,1,0,0
 1911,Kansas State League,regular,P2255327,Tomlin,,Great Bend,1911-05-12,1911-05-19,8,0,0,6,0,0,2,1,0,1,0,0
 1911,Kansas State League,regular,P5567694,Tomlin,,Newton,1911-05-22,1911-06-02,9,0,0,0,0,1,8,0,0,8,0,0
 1911,Kansas State League,regular,P9256502,Tomlin,,Wellington,1911-06-07,1911-06-12,4,0,0,1,0,0,4,4,0,0,0,0
-1911,Kansas State League,regular,P9331292,Tomlin,,Wichita,1911-06-13,1911-06-14,2,0,0,0,0,0,2,2,0,0,0,0
+1911,Kansas State League,regular,P9331292,Tomlin,,Wichita,1911-06-13,1911-06-21,8,0,0,3,0,0,5,5,0,0,0,0
 1911,Kansas State League,regular,P8951027,Uppstein,,Newton,1911-05-11,1911-05-11,1,0,0,0,0,0,1,0,0,1,0,0
 1911,Kansas State League,regular,P2317209,Vance,,Great Bend,1911-06-08,1911-06-08,1,0,0,0,0,0,1,1,0,0,0,0
-1911,Kansas State League,regular,P6493144,Wacob,,Great Bend,1911-05-12,1911-06-12,25,0,0,0,0,0,0,0,0,0,25,0
-1911,Kansas State League,regular,P5297941,Walsh,,Larned,1911-06-14,1911-06-14,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Kansas State League,regular,P6493144,Wacob,,Great Bend,1911-05-12,1911-06-21,29,0,0,0,0,0,0,0,0,0,29,0
+1911,Kansas State League,regular,P0791862,Waller,,McPherson,1911-06-18,1911-06-21,4,0,0,0,0,0,4,4,0,0,0,0
+1911,Kansas State League,regular,P5297941,Walsh,,Larned,1911-06-14,1911-06-19,3,3,0,0,0,0,0,0,0,0,0,3
 1911,Kansas State League,regular,P7767864,Weber,,Wellington,1911-05-12,1911-05-12,1,0,1,0,0,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P8557139,Weise,,Larned,1911-06-12,1911-06-14,3,0,0,0,0,0,0,0,0,0,3,0
+1911,Kansas State League,regular,P8557139,Weise,,Larned,1911-06-12,1911-06-19,7,0,0,0,0,0,0,0,0,0,6,0
 1911,Kansas State League,regular,P9317260,Weise,,McPherson,1911-05-31,1911-06-04,3,0,0,0,0,0,2,2,0,0,1,0
-1911,Kansas State League,regular,P8442098,Weisner,,Lyons,1911-05-11,1911-06-14,29,0,0,0,0,0,29,0,29,0,0,0
+1911,Kansas State League,regular,P8442098,Weisner,,Lyons,1911-05-11,1911-06-21,36,0,0,0,0,0,36,0,36,0,0,0
 1911,Kansas State League,regular,P6504106,Wells,,Wellington,1911-06-07,1911-06-12,4,0,0,0,4,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P9573584,Wells,,Wichita,1911-06-13,1911-06-14,2,0,0,0,2,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P0626703,Wheatley,,Great Bend,1911-05-13,1911-06-13,18,12,0,0,0,0,6,0,4,4,0,12
-1911,Kansas State League,regular,P7340572,White,,Newton,1911-05-11,1911-06-14,29,0,0,0,0,0,29,0,28,1,0,0
+1911,Kansas State League,regular,P9573584,Wells,,Wichita,1911-06-13,1911-06-21,9,0,0,0,9,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P6565664,Wetsel,,Great Bend,1911-06-16,1911-06-16,1,0,0,0,0,0,1,0,0,1,0,0
+1911,Kansas State League,regular,P0923367,Wetzel,,Great Bend,1911-06-18,1911-06-21,4,0,0,0,0,0,4,3,0,2,0,0
+1911,Kansas State League,regular,P0626703,Wheatley,,Great Bend,1911-05-13,1911-06-21,21,15,0,0,0,0,6,0,4,4,0,15
+1911,Kansas State League,regular,P7340572,White,,Newton,1911-05-11,1911-06-21,36,0,0,0,0,0,36,0,35,1,0,0
+1911,Kansas State League,regular,P8624299,Wicks,,El Dorado,1911-06-21,1911-06-21,1,0,0,1,0,1,0,0,0,0,0,0
 1911,Kansas State League,regular,P7792524,Wiese,,McPherson,1911-06-01,1911-06-02,2,0,0,0,0,0,2,2,0,0,0,0
-1911,Kansas State League,regular,P9416893,Williams,,Newton,1911-05-11,1911-06-12,11,6,0,0,0,4,1,0,0,1,0,6
+1911,Kansas State League,regular,P9416893,Williams,,Newton,1911-05-11,1911-06-20,14,8,0,0,0,4,1,0,0,1,0,8
 1911,Kansas State League,regular,P4888567,Williams,L.,Newton,1911-05-15,1911-05-18,2,2,0,0,0,0,0,0,0,0,0,2
 1911,Kansas State League,regular,P6598013,Williams,R.,Newton,1911-05-18,1911-05-18,1,0,0,0,1,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P7939525,Williams [p],,Newton,1911-05-12,1911-05-21,2,2,0,0,0,0,0,0,0,0,0,2
 1911,Kansas State League,regular,P1461453,Williams [ph],,Newton,1911-05-21,1911-05-21,1,0,0,0,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P5676283,Williams [ss],,Newton,1911-05-12,1911-05-12,1,0,0,0,0,1,0,0,0,0,0,0
-1911,Kansas State League,regular,P4961384,Wilson,,Great Bend,1911-05-14,1911-06-14,21,0,1,0,0,0,21,0,0,21,0,0
-1911,Kansas State League,regular,P3654335,Zink,,Hutchinson,1911-05-11,1911-06-14,31,1,29,0,0,0,0,0,0,0,0,1
+1911,Kansas State League,regular,P4961384,Wilson,,Great Bend,1911-05-14,1911-06-16,23,0,1,0,0,0,23,0,0,23,0,0
+1911,Kansas State League,regular,P3654335,Zink,,Hutchinson,1911-05-11,1911-06-20,37,1,33,0,0,0,0,0,0,0,2,1
 1911,Kansas State League,regular,P6095352,harris,,McPherson,1911-05-16,1911-05-16,1,0,0,1,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P7774768,~Harrison,,Great Bend,1911-06-06,1911-06-06,1,0,0,0,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P8460500,~Parrott,,El Dorado,1911-06-17,1911-06-17,1,0,0,0,0,0,0,0,0,0,1,0
 1911,Kansas State League,regular,P9740117,~Salm,,El Dorado,1911-06-09,1911-06-09,1,0,0,0,0,0,0,0,0,0,0,0
