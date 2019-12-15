@@ -1,0 +1,69 @@
+date: 1911-07-04
+number: 1
+league: Kansas State
+away: McPherson
+home: Hutchinson
+source: The Hutchinson Gazette Jul 5, 1911
+A: 300
+
+McPherson:		ab r h po a e
+Synek @ ?:		4 0 1 4 3 0
+Murphy @ ss:	6 1 1 1 3 1
+Sommers @ c-rf:	5 1 3 4 2 0
+Green @ 1b:		4 0 2 17 0 0
+Harris @ 2b:	5 0 1 1 4 0
+Jones @ cf:		5 1 0 1 0 0
+Waller @ lf:	4 0 1 1 0 1
+Campfield @ c:	1 1 1 0 0 0
+Irvin @ rf:		3 0 0 1 0 0
+Osborn @ lf:	1 1 1 0 0 0
+Errett @ p:		5 2 2 0 6 1
+TOTALS:			43 7 13 30 18 3
+
+Hutchinson:		ab r h po a e
+Edmiston @ ss:	5 1 1 2 2 0
+Hubbart @ p:	4 0 0 1 4 0
+Donovan @ lf:	5 0 1 2 0 1
+Block @ cf:		5 0 1 1 0 1
+Gourley @ 3b:	4 0 0 1 2 1
+Lisy @ rf:		4 1 0 2 1 0
+Moneymaker @ c:	3 0 1 7 0 0
+Miller @ 1b:	4 1 2 9 2 0
+Acock @ 2b:		4 0 1 5 3 1
+TOTALS:			36 3 7 30 14 4
+
+line: McPherson: 0 0 2 1 0 0 0 0 0 4 - 7
+line: Hutchinson: 0 0 1 1 0 0 1 0 0 0 - 3
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Sommers; Block; Campfield
+B_3B: Synek
+B_HR: Edmiston; Errett
+B_SB: Sommers
+B_SH: Synek; Green
+B_SF: 
+B_HP: Errett
+B_XO: 
+P_BB: Hubbart #3; Errett #1
+P_SO: Hubbart #5; Errett #6
+P_H: 
+P_IP: 
+P_HP: Hubbart
+P_WP: 
+P_BK: 
+F_DP: Acock, Miller, Moneymaker
+F_PB: 
+outsatend: 
+T: 2:25
+U: Knapp
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+

@@ -2,6 +2,7 @@ import click
 
 from . import parse
 from . import repo
+from . import tojson
 
 
 @click.group()
@@ -38,3 +39,9 @@ def do_edit(source):
 @click.argument("source")
 def do_add(source):
     repo.do_add(source)
+
+
+@cli.command("json")
+@click.argument("source")
+def do_json(source):
+    tojson.main(source)
