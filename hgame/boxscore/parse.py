@@ -344,6 +344,8 @@ class Game(object):
     do_P_WP = _parse_details
     do_P_BK = _parse_details
 
+    do_F_P_PK = _parse_details
+    do_F_C_PK = _parse_details
     do_F_SB = _parse_details
     do_F_PB = _parse_details
     do_F_DP = _parse_dptp
@@ -489,7 +491,7 @@ class Game(object):
                 key, value = [x.strip() for x in line.split(":", 1)]
                 yield (key, value)
             except ValueError:
-                print("\n".join([f"In file {self.metadata['file']},",
+                print("\n".join([f"In file {self.metadata['filename']},",
                                  f"   game {self}",
                                  f"  Invalid key-value pair '{line}'"]))
 
@@ -592,8 +594,8 @@ def compile_playing(source, games, gamelist, outpath):
            .sort_values(['game.date', 'game.number', 'game.key',
                          'club.name', 'seq'])
     for col in df:
-        if col not in columns:
-            print("WARNING: unexpected column %s in playing" % col)
+        if col not in columns and col not in ['F_P_PK', 'F_C_PK']:
+            print(f"WARNING: unexpected column {col} in playing")
 
     return df[columns].pipe(to_csv, outpath/"playing.csv", index=False)
 
