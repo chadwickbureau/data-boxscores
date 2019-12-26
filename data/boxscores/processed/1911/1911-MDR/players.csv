@@ -1,20 +1,40 @@
 league.year,league.name,league.phase,person.ref,person.name.last,person.name.given,entry.name,S_FIRST,S_LAST,B_G,P_G,F_1B_G,F_2B_G,F_3B_G,F_SS_G,F_OF_G,F_LF_G,F_CF_G,F_RF_G,F_C_G,F_P_G
+1911,Kansas State League,regular,P0439645,Anderson,,El Dorado,1911-07-06,1911-07-07,2,0,2,0,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P6615105,Berte,,Larned,1911-06-10,1911-06-10,1,0,0,0,0,1,0,0,0,0,0,0
+1911,Kansas State League,regular,P2708455,Brennan,,El Dorado,1911-07-06,1911-07-07,2,0,0,0,0,2,0,0,0,0,0,0
 1911,Kansas State League,regular,P4791592,Burson,,Larned,1911-06-10,1911-06-10,1,0,0,0,0,0,0,0,0,0,1,0
 1911,Kansas State League,regular,P2068847,Campbell,,Larned,1911-06-10,1911-06-10,1,0,0,0,1,0,0,0,0,0,0,0
-1911,Kansas State League,regular,P1849677,Campfield,,McPherson,1911-06-10,1911-06-10,1,0,0,0,0,0,0,0,0,0,1,0
+1911,Kansas State League,regular,P1849677,Campfield,,McPherson,1911-06-10,1911-07-07,3,0,0,0,0,0,0,0,0,0,3,0
 1911,Kansas State League,regular,P3179776,Chellgood,,Larned,1911-06-10,1911-06-10,1,0,0,1,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P5462919,Cotters,,El Dorado,1911-07-06,1911-07-06,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Kansas State League,regular,P2790052,Curry,,Larned,1911-06-10,1911-06-10,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Kansas State League,regular,P5040711,Derrick,,El Dorado,1911-07-06,1911-07-06,1,0,0,0,0,0,1,0,0,1,0,0
 1911,Kansas State League,regular,P7461605,Eckstein,,Larned,1911-06-10,1911-06-10,1,0,0,0,0,0,1,0,1,0,0,0
-1911,Kansas State League,regular,P7470233,Green,,McPherson,1911-06-10,1911-06-10,1,0,1,0,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P7260318,Errett,,McPherson,1911-07-07,1911-07-07,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Kansas State League,regular,P3530347,Farrell,,El Dorado,1911-07-06,1911-07-07,2,0,0,0,0,0,2,0,2,0,0,0
+1911,Kansas State League,regular,P2831434,Fulweider,,El Dorado,1911-07-07,1911-07-07,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Kansas State League,regular,P9437477,Fulwider,,El Dorado,1911-07-06,1911-07-06,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Kansas State League,regular,P7470233,Green,,McPherson,1911-06-10,1911-07-07,3,0,3,0,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P9098876,Harmuth,,El Dorado,1911-07-06,1911-07-07,2,0,1,0,0,0,2,0,0,2,0,0
 1911,Kansas State League,regular,P6168380,Harriott,,Larned,1911-06-10,1911-06-10,1,0,1,0,0,0,0,0,0,0,0,0
 1911,Kansas State League,regular,P5810673,Harris,,McPherson,1911-06-10,1911-06-10,1,0,0,1,0,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P5060112,Irvin,,McPherson,1911-07-06,1911-07-07,2,0,0,0,0,0,2,0,0,2,0,0
 1911,Kansas State League,regular,P2969878,Irvon,,McPherson,1911-06-10,1911-06-10,1,0,0,0,0,0,1,1,0,0,0,0
-1911,Kansas State League,regular,P2400519,Jones,,McPherson,1911-06-10,1911-06-10,1,0,0,0,0,0,1,0,1,0,0,0
-1911,Kansas State League,regular,P0594071,Lagenaur,,McPherson,1911-06-10,1911-06-10,1,0,0,0,0,0,1,1,0,0,0,0
+1911,Kansas State League,regular,P9441986,Johnson,,El Dorado,1911-07-06,1911-07-07,2,2,0,0,0,0,0,0,0,0,0,2
+1911,Kansas State League,regular,P2400519,Jones,,McPherson,1911-06-10,1911-07-07,3,0,0,1,0,0,2,0,2,0,0,0
+1911,Kansas State League,regular,P0594071,Lagenaur,,McPherson,1911-06-10,1911-07-06,2,1,0,0,0,0,1,1,0,0,0,1
+1911,Kansas State League,regular,P6174600,Leonard,,El Dorado,1911-07-06,1911-07-07,2,0,0,0,0,0,2,2,0,0,0,0
 1911,Kansas State League,regular,P0854538,Lyon,,McPherson,1911-06-10,1911-06-10,1,0,0,0,0,0,1,0,0,1,0,0
-1911,Kansas State League,regular,P8718733,Murphy,,McPherson,1911-06-10,1911-06-10,1,0,0,0,0,1,0,0,0,0,0,0
+1911,Kansas State League,regular,P4489299,McAuley,,El Dorado,1911-07-06,1911-07-07,2,0,0,0,2,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P7261202,Murphey,,McPherson,1911-07-07,1911-07-07,1,0,0,0,0,1,0,0,0,0,0,0
+1911,Kansas State League,regular,P8718733,Murphy,,McPherson,1911-06-10,1911-07-06,2,0,0,0,0,2,0,0,0,0,0,0
 1911,Kansas State League,regular,P3089984,Osborne,,McPherson,1911-06-10,1911-06-10,1,1,0,0,0,0,0,0,0,0,0,1
+1911,Kansas State League,regular,P0508431,Parrott,,El Dorado,1911-07-06,1911-07-07,2,0,0,0,0,0,0,0,0,0,2,0
+1911,Kansas State League,regular,P4775398,Routt,,McPherson,1911-07-06,1911-07-06,1,1,0,0,0,0,0,0,0,0,0,1
 1911,Kansas State League,regular,P3183493,Schabinger,,Larned,1911-06-10,1911-06-10,1,0,0,0,0,0,1,0,0,1,0,0
 1911,Kansas State League,regular,P8803746,Singleton,,Larned,1911-06-10,1911-06-10,1,0,0,0,0,0,1,1,0,0,0,0
-1911,Kansas State League,regular,P3702386,Synek,,McPherson,1911-06-10,1911-06-10,1,0,0,0,1,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P8007857,Sizemore,,El Dorado,1911-07-06,1911-07-07,2,2,0,0,0,0,0,0,0,0,0,2
+1911,Kansas State League,regular,P4556820,Summers,,McPherson,1911-07-06,1911-07-07,2,0,0,0,0,0,2,1,1,0,0,0
+1911,Kansas State League,regular,P3702386,Synek,,McPherson,1911-06-10,1911-07-07,3,0,0,0,3,0,0,0,0,0,0,0
+1911,Kansas State League,regular,P4397775,Waller,,McPherson,1911-07-06,1911-07-07,2,0,0,1,0,0,1,1,0,0,0,0
+1911,Kansas State League,regular,P4186417,Wick,,El Dorado,1911-07-06,1911-07-07,2,0,0,2,0,0,0,0,0,0,0,0
