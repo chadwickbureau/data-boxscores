@@ -6,6 +6,9 @@ import colorama as clr
 from . import config
 
 
+substitution_keys = ["*", "+", "^", "&", "$"]
+
+
 def print_error(msg):
     print(clr.Fore.RED + msg + clr.Fore.RESET)
 
@@ -202,6 +205,9 @@ def process_player(key, value, columns):
     for (col, stat) in zip(columns, value.split()):
         if stat.lower() != "x":
             player[col] = stat.strip()
+    if personname["last"][0] in substitution_keys:
+        player["note"] = personname["last"][0]
+        personname["last"] = personname["last"][1:]
     return player
         
 
@@ -267,6 +273,14 @@ def process_credit(game, key, value):
     return game
                                 
 
+def process_substitution(game, key, value):
+    if key in game["substitutions"]:
+        print(f"ERROR: duplicate substitution key {key}")
+        sys.exit(1)
+    game["substitutions"][key] = value
+    return game
+
+
 def postprocess_game(game):
     for team in game["teams"].values():
         team["team"]["league"]["name"] = game["game"]["league"]
@@ -296,6 +310,7 @@ def transform_game(txt):
         },
         "entities": {},
         "teams": {},
+        "substitutions": {},
         "credits": {},
         "umpires": []
     }
@@ -339,6 +354,9 @@ def transform_game(txt):
             break
         if key in game["teams"]:
             process_player_list(game, game["teams"][key], value, lines)
+            continue
+        if key in substitution_keys:
+            process_substitution(game, key, value)
             continue
         try:
             fn = lookup[key.lower()]
