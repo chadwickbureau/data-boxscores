@@ -9,7 +9,17 @@ from . import config
 substitution_keys = ["*", "+", "^", "&", "$"]
 
 
-def print_error(msg):
+def find_alignment(game, align):
+    for team in game["teams"].values():
+        if team["alignment"] == align:
+            return team
+    return None
+
+
+def print_error(game, msg):
+    print(f"In [{game['game']['datetime']}] "
+          f"{find_alignment(game, 'away')['team']['name']} at "
+          f"{find_alignment(game, 'home')['team']['name']}")
     print(clr.Fore.RED + msg + clr.Fore.RESET)
 
 def print_warning(msg):
@@ -246,7 +256,7 @@ def process_player_list(game, team, header, lines):
 
 def process_credit(game, key, value):
     if value == "":
-        return
+        return game
     if key not in game["credits"]:
         game["credits"][key] = []
     for entry in [x.strip() for x in value.split(";")]:
@@ -258,20 +268,65 @@ def process_credit(game, key, value):
                 # This will also trigger a value error if count not number
                 float(count)
             except ValueError:
-                print("In file %s,\n   game %s" %
-                      (self.metadata['filename'], self))
-                print("  Ill-formed details string '%s'" % entry)
-                return
+                print(f"ERROR: Ill-formed details string {value}")
+                sys.exit(1)
         else:
             name, count = entry, "1"
         is_marked = name.startswith("??")
         if is_marked:
             name = name[2:]
-        if name not in game["entities"]:
-            print(f"WARNING: Unmatched name {name}")
-        game["credits"][key].append({"name": name, "count": str(count)})
+        game["credits"][key].append({determine_entity(game, name): name,
+                                     "count": str(count)})
     return game
                                 
+
+def determine_entity(game, name):
+    if name not in game["entities"]:
+        print_warning(f"Unmatched name {name}")
+        return "player"
+    return game["entities"][name]
+
+
+def determine_team(game, names):
+    for (key, team) in game["teams"].items():
+        for name in names:
+            if name not in team["players"]:
+                break
+        else:
+            return key
+    print_error(game,
+                f"{names} does not match a unique team.")
+    sys.exit(1)
+
+    
+def process_double_play(game, value):
+    if value == "":
+        return game
+    if "F_DP" not in game["credits"]:
+        game["credits"]["F_DP"] = []
+    for entry in [x.strip() for x in value.split(";")]:
+        if "#" in entry:
+            try:
+                names, count = [x.strip() for x in entry.split("#")]
+                # This will also trigger a value error if count not number
+                float(count)
+            except ValueError:
+                print(f"ERROR: Ill-formed details string {value}")
+                sys.exit(1)
+        else:
+            names, count = entry, "1"
+        namelist = []
+        for name in [x.strip() for x in names.split(",")]:
+            if name not in game["entities"]:
+                print(f"WARNING: Unmatched name {name}")
+            namelist.append(name)
+        game["credits"]["F_DP"].append({
+            "team": determine_team(game, namelist),
+            "players": namelist,
+            "count": str(count)
+        })
+    return game
+
 
 def process_substitution(game, key, value):
     if key in game["substitutions"]:
@@ -344,6 +399,7 @@ def transform_game(txt):
         "p_hp":      lambda g, v: process_credit(g, "P_HP", v),
         "p_wp":      lambda g, v: process_credit(g, "P_WP", v),
         "p_bk":      lambda g, v: process_credit(g, "P_BK", v),
+        "f_dp":      process_double_play,
         "f_pb":      lambda g, v: process_credit(g, "F_PB", v),
     }
     lines = data_pairs(txt)
@@ -374,6 +430,7 @@ def iterate_games(fn):
     lines, and lines which are whitespace only are dropped, creating a
     'canonical' representation of the text.
     """
+    print(f"Processing games in {fn}")
     for txt in filter(lambda x: x.strip() != "",
                       ("\n".join(filter(lambda x: x != "",
                                  [' '.join(x.strip().split())
