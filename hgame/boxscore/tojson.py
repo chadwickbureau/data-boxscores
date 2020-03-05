@@ -1,7 +1,11 @@
 import sys
 import json
+import collections
+import string
+import datetime
 
 import colorama as clr
+import toml
 
 from . import config
 
@@ -14,6 +18,7 @@ def find_alignment(game, align):
         if team["alignment"] == align:
             return team
     return None
+
 
 
 def print_error(game, msg):
@@ -50,13 +55,13 @@ def process_date(game, value):
 
 def process_number(game, value):
     if value == "0":
-        game["game"]["number"] = "1"
+        game["game"]["number"] = 1
         game["game"]["double_header"] = "N"
     elif value == "1":
-        game["game"]["number"] = "1"
+        game["game"]["number"] = 1
         game["game"]["double_header"] = "Y"
     elif value == "2":
-        game["game"]["number"] = "2"
+        game["game"]["number"] = 2
         game["game"]["double_header"] = "Y"
     else:
         print_warning(f"Unknown game number '{value}'")
@@ -79,9 +84,11 @@ def add_entity(game, value, entity_type):
 def process_away(game, value):
     game["teams"][value] = {
         "alignment": "away",
-        "team": {"name": value, "league": {"name": None}},
-        "score": None,
+        "name": value,
+        "league": "",
+        "score": "",
         "innings": [],
+        "totals": {},
         "players": {}
     }
     return add_entity(game, value, "team")
@@ -90,16 +97,21 @@ def process_away(game, value):
 def process_home(game, value):
     game["teams"][value] = {
         "alignment": "home",
-        "team": {"name": value, "league": {"name": None}},
-        "score": None,
+        "name": value,
+        "league": "",
+        "score": "",
         "innings": [],
+        "totals": {},
         "players": {}
     }
     return add_entity(game, value, "team")
 
 
 def process_source(game, value):
-    game["source"] = value
+    title, d = (x.strip() for x in value.split(",", 1))
+    d = datetime.datetime.strptime(d, "%B %d, %Y")
+    d = d.strftime("%Y-%m-%d")
+    game["source"] = {"title": title, "date": d}
     return game
 
 
@@ -131,8 +143,6 @@ def process_duration(game, value):
     
 
 def process_linescore(game, text):
-    # Skip for now
-    return game
     try:
         club, score = (x.strip() for x in text.split(":"))
     except ValueError:
@@ -141,10 +151,9 @@ def process_linescore(game, text):
         print("  Ill-formed linescore string '%s'" % value)
         return
 
-    if club == game["teams"][0]["team"]["name"]:
-        team = game["teams"][0]
-    elif club == game["teams"][1]["team"]["name"]:
-        team = game["teams"][1]
+    for team in game["teams"].values():
+        if club == team["name"]:
+            break
     else:
         print_warning(f"Unknown team '{club}'")
         return
@@ -161,30 +170,28 @@ def process_linescore(game, text):
             )
         total = ""
 
-    team["score"] = total
-    for (inning, s) in enumerate(byinning.split()):
-        team["innings"].append({"num": inning+1, "runs": s})
+    team["score"] = int(total)
+    team["innings"] = [int(x) if x.lower() != "x" else "x"
+                       for x in byinning.split()]
     return game
 
 
 def process_umpires(game, value):
     for name in value.split(";"):
-        umpire = {"name": {"last": None}}
-        game["umpires"].append(umpire)
-        umpname = umpire["name"]
+        umpire = {"last": None}
+        game["umpire"].append(umpire)
         if "," in name:
-            umpname["last"], umpname["first"] = (
+            umpire["last"], umpire["first"] = (
                 map(lambda x: x.strip(), name.split(","))
             )
         else:
-            umpname["last"] = value.strip()
+            umpire["last"] = value.strip()
     return game
 
             
 def process_player(key, value, columns):
-    player = {"name": {"full": None, "last": None, "first": None},
+    player = {"full": None, "last": None, "first": None,
               "F_POS": None}
-    personname = player["name"]
     try:
         name, player["F_POS"] = map(lambda x: x.strip(), key.split("@"))
         for p in player["F_POS"].split("-"):
@@ -204,22 +211,30 @@ def process_player(key, value, columns):
 
     if "," in name:
         last, first = (x.strip() for x in name.split(","))
-        personname["full"] = first + " " + last
-        personname["last"] = last
-        personname["first"] = first
+        player["full"] = first + " " + last
+        player["last"] = last
+        player["first"] = first
     else:
-        personname["full"] = name
-        personname["last"] = name
-        del personname["first"]
+        player["full"] = name
+        player["last"] = name
+        del player["first"]
 
     for (col, stat) in zip(columns, value.split()):
         if stat.lower() != "x":
-            player[col] = stat.strip()
-    if personname["last"][0] in substitution_keys:
-        player["note"] = personname["last"][0]
-        personname["last"] = personname["last"][1:]
+            player[col] = int(stat.strip())
+    if player["last"][0] in substitution_keys:
+        player["substitution"] = player["last"][0]
+        player["last"] = player["last"][1:]
     return player
         
+
+def process_totals(key, value, columns):
+    totals = {}
+    for (col, stat) in zip(columns, value.split()):
+        if stat.lower() != "x":
+            totals[col] = int(stat.strip())
+    return totals
+
 
 def process_player_list(game, team, header, lines):
     # "DI" is used sporadically in Winnipeg paper in 1915;
@@ -246,11 +261,12 @@ def process_player_list(game, team, header, lines):
             return
         if key != "TOTALS":
             player = process_player(key, value, columns)
-            team["players"][player["name"]["full"]] = player
-            game = add_entity(game, player["name"]["full"],
+            team["players"][player["full"]] = player
+            game = add_entity(game, player["full"],
                               "player")
-            del player["name"]["full"]
+            del player["full"]
         if key == "TOTALS":
+            team["totals"] = process_totals(key, value, columns)
             break
 
 
@@ -332,17 +348,59 @@ def process_substitution(game, key, value):
     if key in game["substitutions"]:
         print(f"ERROR: duplicate substitution key {key}")
         sys.exit(1)
-    game["substitutions"][key] = value
+    game["substitutions"].append(value)
     return game
 
 
 def postprocess_game(game):
-    for team in game["teams"].values():
-        team["team"]["league"]["name"] = game["game"]["league"]
-    del game["game"]["league"]
+    for (key, team) in game["teams"].items():
+        team["league"] = game["game"]["league"]
+    try:
+        del game["game"]["league"]
+    except KeyError:
+        pass
     del game["entities"]
     return game
 
+
+def dump_team(team):
+    s = "[[team]]\n"
+    for (key, value) in team.items():
+        if key not in ["players", "totals"]:
+            s += f'{key} = {json.dumps(value)}\n'
+    s += "\n"
+    for player in team["players"].values():
+        s += "[[team.player]]\n"
+        for (k, v) in player.items():
+            s += f'{k} = {json.dumps(v)}\n'
+        s += "\n"
+    if team["totals"]:
+        s += "[team.totals]\n"
+        for (k, v) in team["totals"].items():
+            s += f'{k} = {json.dumps(v)}\n'
+        s += "\n"
+    return s
+
+        
+def toml_dumps(game):
+    """Dump game to TOML format, with depth-first recursion on tables.
+    There are pull requests in the toml library to do this, but it is
+    not as yet supported in the released version.
+    """
+    s = ""
+    for key in ["source", "game", "venue", "status"]:
+        s += toml.dumps({key: game[key]}) + "\n"
+    for ump in game["umpire"]:
+        s += toml.dumps({"umpire": [ump]}) + "\n"
+    for (key, team) in game["teams"].items():
+        s += dump_team(team) + "\n"
+    s += (
+        toml.dumps({"credits": game["credits"]})
+        .replace("[credits]\n", "")
+        .replace(",]", " ]") + "\n"
+    )
+    return s
+    
 
 def transform_game(txt):
     game = {
@@ -351,13 +409,13 @@ def transform_game(txt):
             "type": "R",
             "number": "1",
             "double_header": "N",
-            "season": None,
-            "datetime": None,
-            "duration": None,
+            "season": "",
+            "datetime": "",
+            "duration": "",
         },
         "venue": {
-            "name": None,
-            "attendance": None,
+            "name": "",
+            "attendance": "",
         },
         "status": {
             "code": "final",
@@ -365,9 +423,9 @@ def transform_game(txt):
         },
         "entities": {},
         "teams": {},
-        "substitutions": {},
+        "substitutions": [],
         "credits": {},
-        "umpires": []
+        "umpire": []
     }
 
     lookup = {
@@ -448,8 +506,9 @@ def process_files(source, inpath):
     games = [game
              for fn in fnlist
              for game in iterate_games(fn)]
-    with open("games.json", "w") as f:
-        f.write(json.dumps(games, indent=2))
+    txt = "---\n\n".join(toml_dumps(game) for game in games)
+    with open("games.toml", "w") as f:
+        f.write(txt)
         
     
 def main(source):
