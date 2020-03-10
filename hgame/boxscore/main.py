@@ -3,6 +3,7 @@ import click
 from . import parse
 from . import repo
 from . import tojson
+from . import totoml
 
 
 @click.group()
@@ -45,3 +46,9 @@ def do_add(source):
 @click.argument("source")
 def do_json(source):
     tojson.main(source)
+
+
+@cli.command("toml")
+@click.argument("source")
+def do_toml(source):
+    totoml.main(source)
