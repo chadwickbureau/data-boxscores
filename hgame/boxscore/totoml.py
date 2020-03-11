@@ -100,6 +100,10 @@ def process_status(key, status):
     return data
 
 
+def process_status_reason(key, reason):
+    return {"status.reason": reason}
+
+
 def process_attendance(game, value):
     if value != "":
         return {"venue.attendance": value.replace(",", "")}
@@ -120,12 +124,14 @@ def process_umpires(key, value):
             data[f"umpire.umpire{index+1:02}.name.last"] = last
             data[f"umpire.umpire{index+1:02}.name.first"] = first
         else:
-            data[f"umpire.umpire{index+1:02}.name.last"] = value.strip()
+            data[f"umpire.umpire{index+1:02}.name.last"] = name.strip()
     return data
 
 
-def process_substitution(game, key, value):
-    return {}
+def process_substitution(key, value):
+    prefix = f"substitution.sub{substitution_keys.index(key)+1}"
+    return {f"{prefix}.key": key,
+            f"{prefix}.text": value}
 
 
 def process_league(key, value):
@@ -291,12 +297,17 @@ def process_credit(key, value):
                 sys.exit(1)
         else:
             name, count = entry, "1"
-        data[f"credits.{key}_credit{index+1:02}.name"] = name
-        data[f"credits.{key}_credit{index+1:02}.source.{key}"] = str(count)
+        if name[0] == "~":
+            name = name[1:]
+            stat_type = "infer"
+        else:
+            stat_type = "source"
+        data[f"credits.{key}_credit{index+1:02}.source.name"] = name
+        data[f"credits.{key}_credit{index+1:02}.{stat_type}.{key}"] = str(count)
     return data
 
 
-def process_double_play(key, value):
+def process_dp_tp(key, value):
     data = OrderedDict()
     if value == "":
         return data
@@ -313,7 +324,7 @@ def process_double_play(key, value):
             names, count = entry, "1"
         namelist = [x.strip() for x in names.split(",")]
         for (j, name) in enumerate(namelist):
-            data[f"credits.{key}_credit{index+1:02}.name.name{j+1:02}"] = name
+            data[f"credits.{key}_credit{index+1:02}.source.name.name{j+1:02}"] = name
         data[f"credits.{key}_credit{index+1:02}.source.{key}"] = str(count)
     return data
 
@@ -327,6 +338,7 @@ def transform_game(txt):
         "number": process_number,
         "league": process_league,
         "status": process_status,
+        "status-reason": process_status_reason,
         "t": process_duration,
         "a": process_attendance,
         "away": lambda g, v: process_team(g, v, "away"),
@@ -342,13 +354,21 @@ def transform_game(txt):
         "b_sf": process_credit,
         "b_sb": process_credit,
         "b_roe": process_credit,
+        "p_gs": process_credit,
+        "p_gf": process_credit,
+        "p_w": process_credit,
+        "p_l": process_credit,
+        "p_sv": process_credit,
         "p_ip": process_credit,
+        "p_r": process_credit,
         "p_h": process_credit,
         "p_bb": process_credit,
         "p_so": process_credit,
         "p_hp": process_credit,
         "p_wp": process_credit,
-        "f_dp": process_double_play,
+        "p_bk": process_credit,
+        "f_dp": process_dp_tp,
+        "f_tp": process_dp_tp,
         "f_pb": process_credit,
     }
     while True:
@@ -370,7 +390,7 @@ def transform_game(txt):
                 ))
             continue
         if key in substitution_keys:
-            process_substitution(game, key, value)
+            game.update(process_substitution(key, value))
             continue
         if key.lower() in lookup:
             fn = lookup[key.lower()]
