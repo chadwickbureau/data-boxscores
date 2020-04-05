@@ -159,6 +159,7 @@ class CreditDetailSchema(marsh.Schema):
     P_SO = marsh.fields.Str(validate=validate_integer)
     P_HP = marsh.fields.Str(validate=validate_integer)
     P_WP = marsh.fields.Str(validate=validate_integer)
+    P_BK = marsh.fields.Str(validate=validate_integer)
     F_PB = marsh.fields.Str(validate=validate_integer)
 
 
