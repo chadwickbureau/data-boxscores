@@ -1,15 +1,19 @@
-from setuptools import setup
+import setuptools
 
-setup(name='hgame-boxscore',
-      version='0.1',
-      packages=['hgame.boxscore'],
-      install_package_data=True,
-      python_requires=">=3.7",
-      install_requires=[
-          'click', 'colorama', 'pandas', 'tabulate'
-      ],
-      entry_points="""
-         [console_scripts]
-         hgame-boxscore=hgame.boxscore.main:cli
-      """
-      )
+
+setuptools.setup(
+    name='hgame-boxscore',
+    description='Parser for newspaper-style boxscores',
+    version='0.1',
+    packages=['hgame.boxscore'],
+    install_package_data=True,
+    python_requires=">=3.7",
+    install_requires=[
+        'hgame-cmdline',
+        'colorama', 'pandas', 'tabulate', 'toml', 'marshmallow'
+    ],
+    entry_points="""
+        [hgame.cli_plugins]
+        hgame-boxscore=hgame.boxscore.main:boxscore
+    """,
+)
