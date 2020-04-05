@@ -1,0 +1,201 @@
+date: 1911-07-31
+number: 0
+league: Tidewater
+away: Newport News
+home: Hampton
+source: Daily Press, Aug 1, 1911
+
+Newport News:	ab r h po a e
+Charles @ 2b:	6 1 1 2 2 0
+Mack @ rf:		5 1 2 0 0 0
+Confrey @ 3b:	5 1 4 1 0 0
+Bryan @ cf:		4 2 1 0 0 0
+Boyne @ 1b:		5 2 3 12 1 0
+Hautz @ lf:		5 1 1 1 0 1
+Drumm @ ss:		4 1 2 2 4 0
+Rogers @ c:		4 2 1 9 1 0
+Boyce @ p:		5 0 2 0 2 0
+TOTALS:			43 11 17 27 10 1
+
+Hampton:		ab r h po a e
+Greene @ cf:	4 2 1 2 0 0
+Bigbie @ 2b:	4 0 2 3 3 2
+Hudgins @ c:	5 0 0 3 0 1
+Shaw @ 3b:		4 0 1 1 2 0
+Pagle @ 1b:		4 0 0 12 1 0
+King @ lf:		4 0 0 2 0 0
+Gill @ ss:		4 1 1 2 2 1
+Hogue @ rf:		2 0 1 1 1 1
+Merchant @ p:	3 1 1 0 6 0
+Lucia @ ph:		1 0 0 0 0 0
+TOTALS:			35 4 7 26 14 5
+
+line: Newport News: 2 2 0 0 0 0 0 2 5 - 11
+line: Hampton: 1 0 0 0 0 0 2 0 1 - 4
+
+B_LOB: Hampton #6; Newport News #5
+B_ROE: 
+B_ER: 
+B_2B: Mack; Hogue; Boyce; Gill; Shaw
+B_3B: Bryan
+B_HR: 
+B_SB: Bryan
+B_SH: Greene; Bigbie; Lucia; Hautz; Rogers
+B_SF: 
+B_HP: Drumm; Hogue
+B_XO: Drumm, interfering with Gill
+P_BB: Merchant #2; Boyce #2
+P_SO: Merchant #2; Boyce #7
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: Merchant
+P_BK: 
+F_DP: Drumm; Merchant, Gill, Pagle
+F_PB: 
+outsatend: 
+T: 2:00
+U: Hayes
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1911-07-31
+number: 0
+league: Tidewater
+away: Suffolk
+home: Old Point
+source: Daily Press, Aug 1, 1911
+
+Suffolk:		ab r h po a e
+Lohr @ cf:		4 0 0 3 0 0
+Wynne @ 2b:		4 0 1 1 3 0
+Edwards @ ss:	4 0 1 4 1 1
+Frye @ rf:		3 0 0 2 0 0
+Fuqua @ lf:		3 0 0 1 0 0
+Nagle @ 3b:		3 0 1 2 3 0
+Fetzer @ 3b:	3 0 1 2 3 0
+Klock @ c:		3 0 1 3 2 0
+Franks @ p:		3 0 0 1 1 0
+TOTALS:			30 0 4 23 10 1
+
+Old Point:		ab r h po a e
+Pierce @ 3b:	3 3 2 1 1 0
+Hazzard @ 2b:	4 1 2 3 7 0
+Allen @ lf:		3 1 1 2 0 0
+Wolfe @ cf:		4 1 1 1 0 0
+Dickson @ 1b:	4 0 2 13 0 0
+Cote @ c:		3 0 0 3 0 0
+Derrish @ ss:	3 0 0 0 6 1
+Kent @ rf:		3 0 0 3 0 0
+White @ p:		3 0 0 1 1 0
+TOTALS:			30 6 8 27 15 1
+
+line: Suffolk: 0 0 0 0 0 0 0 0 0 - 0
+line: Old Point: 4 1 0 0 0 0 1 0 x - 6
+
+B_LOB: Old Point #3; Suffolk #3
+B_ROE: 
+B_ER: 
+B_2B: Wolfe; Pierce
+B_3B: 
+B_HR: 
+B_SB: Pierce; Hazzard
+B_SH: 
+B_SF: 
+B_HP: Pierce
+B_XO: 
+P_BB: Franks #2
+P_SO: White #3; Franks #1
+P_H: 
+P_IP: 
+P_HP: ~Franks
+P_WP: Franks
+P_BK: 
+F_DP: Derrish, Hazzard, Dickson #2
+F_PB: Klock
+outsatend: 
+T: 1:40
+U: Clark
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1911-08-01
+number: 0
+league: Tidewater
+away: Suffolk
+home: Old Point
+source: Daily Press, Aug 2, 1911
+
+Suffolk:		ab r h po a e
+Lohr @ cf:		4 1 2 4 0 0
+Wynne @ p-ss:	4 0 1 0 1 1
+Edwards @ ss-p:	4 1 2 0 2 0
+Frye @ 3b:		4 0 1 2 0 0
+Fuqua @ lf:		3 1 1 1 1 0
+Franks @ lf:	1 0 0 0 0 0
+Nagle @ rf:		4 1 1 6 0 1
+Fetzer @ 1b:	3 0 1 4 1 1
+Clarke @ c:		4 0 0 3 0 0
+Sheehan @ 2b:	4 0 0 4 0 1
+TOTALS:			35 4 9 24 5 4
+
+Old Point:		ab r h po a e
+Pierce @ 3b:	5 2 1 0 4 0
+Morley @ 3b:	0 0 0 0 0 0
+Hazzard @ 2b:	5 0 1 2 4 1
+Allen @ lf:		5 1 3 2 0 0
+Wolfe @ cf:		4 0 2 2 0 0
+Dickson @ 1b:	5 1 1 14 1 0
+Cote @ c:		3 0 0 4 0 0
+Derrish @ ss:	4 1 2 3 3 1
+Kent @ rf:		4 1 1 0 1 0
+Cooke @ p:		4 1 1 0 3 0
+TOTALS:			39 7 12 27 16 2
+
+line: Suffolk: 1 0 0 1 0 0 0 0 2 - 4
+line: Old Point: 0 0 1 1 2 2 1 0 x - 7
+
+B_LOB: Old Point #5; Suffolk #4
+B_ROE: Old Point #3
+B_ER: 
+B_2B: Lohr; Fuqua; Allen
+B_3B: Kent
+B_HR: 
+B_SB: Fetzer
+B_SH: Hazzard; Cote; Wynne
+B_SF: Kent
+B_HP: Derrish
+B_XO: 
+P_BB: Cooke #1; Wynne #2
+P_SO: Cooke #4
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: Wynne
+P_BK: 
+F_DP: Pierce, Dickson, Cote; Hazzard, Dickson; Kent, Dickson, Cote; Hazzard, Derrish, Dickson
+F_PB: 
+outsatend: 
+T: 1:55
+U: Clarke
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
