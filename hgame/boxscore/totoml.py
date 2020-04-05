@@ -422,8 +422,9 @@ def canonical_toml(game: dict):
         toml.dumps({"meta__source": game['meta']['source']})
         .replace("__", ".") + "\n"
     )
-    for key in ['game', 'outcome']:
-        txt += toml.dumps({key: game[key]}) + "\n"
+    for key in ['game', 'venue', 'outcome']:
+        if key in game:
+            txt += toml.dumps({key: game[key]}) + "\n"
     for umpire in game.get("umpire", {}).values():
         txt += (
             toml.dumps({"umpire": [umpire]})

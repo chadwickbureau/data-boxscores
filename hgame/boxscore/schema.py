@@ -188,11 +188,16 @@ class CreditListSchema(marsh.Schema):
     event = marsh.fields.List(marsh.fields.Nested(CreditEventSchema))
 
 
+class GameVenueSchema(marsh.Schema):
+    """Schema for game venue information."""
+    attendance = marsh.fields.Str(validate=validate_integer)
+
+
 class GameOutcomeSchema(marsh.Schema):
     """Schema for game outcome information."""
     status = marsh.fields.Str(
         validate=marsh.validate.OneOf(["abandoned", "completed early",
-                                       "final", "postponed"])
+                                       "final", "postponed", "scheduled"])
     )
     reason = marsh.fields.Str()
 
@@ -201,6 +206,7 @@ class BoxscoreSchema(marsh.Schema):
     """Schema for a newspaper-boxscore data structure."""
     meta = marsh.fields.Nested(GameMetadataSchema)
     game = marsh.fields.Nested(GameSchema)
+    venue = marsh.fields.Nested(GameVenueSchema)
     outcome = marsh.fields.Nested(GameOutcomeSchema)
     umpire = marsh.fields.List(marsh.fields.Nested(UmpireSchema))
     team = marsh.fields.List(marsh.fields.Nested(TeamSchema))
