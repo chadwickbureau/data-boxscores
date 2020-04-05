@@ -33,8 +33,7 @@ def data_pairs(text):
             key, value = [x.strip() for x in line.split(":", 1)]
             yield (key, value)
         except ValueError:
-            print_warning("\n".join([f"In file {self.metadata['file']},",
-                                     f"  Invalid key-value pair '{line}'"]))
+            print_error(f"Invalid key-value pair '{line}'")
 
 
 def process_key(key, value):
@@ -43,15 +42,18 @@ def process_key(key, value):
 
 def process_source(key, value):
     title, d = (x.strip() for x in value.split(",", 1))
-    try:
-        d = datetime.datetime.strptime(d, "%B %d, %Y")
-        d = d.strftime("%Y-%m-%d")
-        return {
-            "meta.source.title": title,
-            "meta.source.date": d
-        }
-    except ValueError:
-        print_error(f"Invalid date {d} in source")
+    for fmt in ["%B %d, %Y", "%b %d, %Y"]:
+        try:
+            d = datetime.datetime.strptime(d, fmt)
+            d = d.strftime("%Y-%m-%d")
+            return {
+                "meta.source.title": title,
+                "meta.source.date": d
+            }
+        except ValueError:
+            pass
+    print_error(f"Invalid date {d} in source")
+    return {"meta.source.title": value}
 
 
 def process_status(key, status):
@@ -89,7 +91,7 @@ def process_attendance(game, value):
 def process_duration(game, value):
     if value != "":
         return {"game.duration": value}
-    return game
+    return {}
 
 
 def process_umpires(key, value):
@@ -243,10 +245,14 @@ def process_linescore(teams, text):
     try:
         club, score = (x.strip() for x in text.split(":"))
     except ValueError:
-        print_warning(f"  Ill-formed linescore string '{value}'")
+        print_error(f"Ill-formed linescore string '{value}'")
         return
 
-    alignment = teams[club]
+    try:
+        alignment = teams[club]
+    except KeyError:
+        print_error(f"Unknown club {club} in linescore")
+        return {}
     byinning, total = map(lambda x: x.strip(), score.split("-"))
     data = {}
     if total != "?":
@@ -289,7 +295,11 @@ def process_xo(key, value):
     if value == "":
         return data
     for (index, entry) in enumerate([x.strip() for x in value.split(";")]):
-        name, reason = (x.strip() for x in entry.split(","))
+        try:
+            name, reason = (x.strip() for x in entry.split(","))
+        except ValueError:
+            print_error(f"Ill-formed details string {entry} for B_XO")
+            continue
         if name[0] == "~":
             name = name[1:]
             stat_type = "infer"
@@ -346,6 +356,7 @@ def transform_game(txt):
         "b_2b": process_credit,
         "b_3b": process_credit,
         "b_hr": process_credit,
+        "b_bb": process_credit,
         "b_hp": process_credit,
         "b_sh": process_credit,
         "b_sf": process_credit,
@@ -358,6 +369,7 @@ def transform_game(txt):
         "p_l": process_credit,
         "p_sv": process_credit,
         "p_ip": process_credit,
+        "p_ab": process_credit,
         "p_r": process_credit,
         "p_h": process_credit,
         "p_bb": process_credit,
