@@ -4,6 +4,7 @@ from . import parse
 from . import repo
 from . import tojson
 from . import totoml
+from . import index
 
 
 @click.group("boxscore")
@@ -59,3 +60,9 @@ def do_json(source):
 def do_toml(source):
     """Translate files to TOML."""
     totoml.main(source)
+
+
+@boxscore.command("index")
+def do_index():
+    """Index player names from TOML files."""
+    index.main()

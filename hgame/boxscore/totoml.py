@@ -41,8 +41,12 @@ def process_key(key, value):
 
 
 def process_source(key, value):
-    title, d = (x.strip() for x in value.split(",", 1))
-    for fmt in ["%B %d, %Y", "%b %d, %Y"]:
+    try:
+        title, d = (x.strip() for x in value.split(",", 1))
+    except ValueError:
+        print_error(f"Improperly formmated source '{value}'")
+        return {"meta.source.title": value}
+    for fmt in ["%B %d, %Y", "%b %d, %Y", "%Y-%m-%d"]:
         try:
             d = datetime.datetime.strptime(d, fmt)
             d = d.strftime("%Y-%m-%d")
@@ -171,14 +175,17 @@ def process_player(key, value, columns):
         player[f"source__name__last"] = name
     for (col, stat) in zip(columns, value.split()):
         if stat.lower() != "x":
-            player[col] = int(stat.strip())
+            player[col] = stat.strip()
     if player["source__name__last"].startswith("("):
-        slot, player["source__name__last"] = (
-            player["source__name__last"][1:].split(")")
-        )
-        slot = slot.replace("~", "")
-        slot, seq = (x.strip() for x in slot.split("."))
-        player["infer__batorder"] = str(100*int(slot) + int(seq))
+        try:
+            slot, player["source__name__last"] = (
+                player["source__name__last"][1:].split(")")
+            )
+            slot = slot.replace("~", "")
+            slot, seq = (x.strip() for x in slot.split("."))
+            player["infer__batorder"] = str(100*int(slot) + int(seq))
+        except ValueError:
+            print_warning(f"Mis-formatted player name {name}")
     if player["source__name__last"][0] in substitution_keys:
         player["source__substitution"] = player["source__name__last"][0]
         player["source__name__last"] = player["source__name__last"][1:]
@@ -258,7 +265,9 @@ def process_linescore(teams, text):
     if total != "?":
         data[f"team.{alignment}.score"] = total
     for (inning, value) in enumerate(byinning.split()):
-        data[f"team.{alignment}.inning.inning{inning+1:02}"] = value.lower()
+        data[f"team.{alignment}.inning.inning{inning+1:02}"] = (
+            value.lower().replace("*", "x")
+        )
     return data
 
 
@@ -295,11 +304,14 @@ def process_xo(key, value):
     if value == "":
         return data
     for (index, entry) in enumerate([x.strip() for x in value.split(";")]):
-        try:
-            name, reason = (x.strip() for x in entry.split(","))
-        except ValueError:
-            print_error(f"Ill-formed details string {entry} for B_XO")
-            continue
+        if "," not in entry:
+            name, reason = entry, None
+        else:
+            try:
+                name, reason = (x.strip() for x in entry.split(","))
+            except ValueError:
+                print_error(f"Ill-formed details string {entry} for B_XO")
+                continue
         if name[0] == "~":
             name = name[1:]
             stat_type = "infer"
@@ -357,12 +369,15 @@ def transform_game(txt):
         "b_3b": process_credit,
         "b_hr": process_credit,
         "b_bb": process_credit,
+        "b_ibb": process_credit,
         "b_hp": process_credit,
         "b_sh": process_credit,
         "b_sf": process_credit,
         "b_sb": process_credit,
+        "b_cs": process_credit,
         "b_roe": process_credit,
         "b_xo": process_xo,
+        "b_pk": process_credit,
         "p_gs": process_credit,
         "p_gf": process_credit,
         "p_w": process_credit,
@@ -380,6 +395,8 @@ def transform_game(txt):
         "f_dp": process_dp_tp,
         "f_tp": process_dp_tp,
         "f_pb": process_credit,
+        "f_c_pk": process_credit,
+        "f_p_pk": process_credit,
     }
     while True:
         try:

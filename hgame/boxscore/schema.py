@@ -152,11 +152,14 @@ class CreditDetailSchema(marsh.Schema):
     B_3B = marsh.fields.Str(validate=validate_integer)
     B_HR = marsh.fields.Str(validate=validate_integer)
     B_BB = marsh.fields.Str(validate=validate_integer)
+    B_IBB = marsh.fields.Str(validate=validate_integer)
     B_HP = marsh.fields.Str(validate=validate_integer)
     B_SH = marsh.fields.Str(validate=validate_integer)
     B_SF = marsh.fields.Str(validate=validate_integer)
     B_SB = marsh.fields.Str(validate=validate_integer)
+    B_CS = marsh.fields.Str(validate=validate_integer)
     B_XO = marsh.fields.Str(validate=validate_integer)
+    B_PK = marsh.fields.Str(validate=validate_integer)
     P_GS = marsh.fields.Str(validate=validate_integer)
     P_GF = marsh.fields.Str(validate=validate_integer)
     P_W = marsh.fields.Str(validate=validate_integer)
@@ -172,6 +175,8 @@ class CreditDetailSchema(marsh.Schema):
     P_WP = marsh.fields.Str(validate=validate_integer)
     P_BK = marsh.fields.Str(validate=validate_integer)
     F_PB = marsh.fields.Str(validate=validate_integer)
+    F_C_PK = marsh.fields.Str(validate=validate_integer)
+    F_P_PK = marsh.fields.Str(validate=validate_integer)
     note = marsh.fields.Str()
 
 
