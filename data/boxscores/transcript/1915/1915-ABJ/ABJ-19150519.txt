@@ -222,7 +222,7 @@ line: Marion: 0 0 0 0 0 1 1 2 x - 4
 ---
 
 date: 1915-05-22
-number:0
+number: 0
 league: Buckeye
 away: Canton
 home: Akron 
@@ -341,7 +341,7 @@ TOTALS:		1 x x
 ---
 
 date: 1915-05-23
-number:0
+number: 0
 league: Buckeye
 away: Marion
 home: Canton 
@@ -374,7 +374,7 @@ source: Akron Beacon Journal, May 25, 1915
 	
 Findlay:	r h e
 Frech @ p:	x x x
-McGive4n @ c:	x x x
+McGivern @ c:	x x x
 TOTALS:		1 5 1
 
 Newark:		r h e
