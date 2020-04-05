@@ -1,0 +1,358 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-05-27"
+
+[game]
+key = "19150526_ENN_63d8"
+datetime = "1915-05-26"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Central Texas League"
+duration = "1:32"
+
+[outcome]
+status = "final"
+outsatend = "1"
+
+[[umpire]]
+name.last = "Estill"
+
+
+[[team]]
+name = "Terrell"
+alignment = "away"
+score = "2"
+inning = [ "0", "0", "0", "1", "0", "0", "1", "0", "0" ]
+
+[team.totals]
+source.B_AB = "32"
+source.B_R = "2"
+source.B_H = "6"
+source.F_PO = "24"
+source.F_A = "14"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Spence"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Gober"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "5"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Cox"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "McMahan"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "2"
+source.F_PO = "12"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "McCullom"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Meason"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "2"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Townsend"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "White"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "3"
+source.F_A = "4"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Hall"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Gilmore"
+source.B_AB = "0"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "1"
+source.F_E = "0"
+
+
+[[team]]
+name = "Ennis"
+alignment = "home"
+score = "3"
+inning = [ "0", "0", "0", "0", "0", "0", "2", "0", "1" ]
+
+[team.totals]
+source.B_AB = "24"
+source.B_R = "3"
+source.B_H = "5"
+source.F_PO = "27"
+source.F_A = "17"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Barrett"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Shaw"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "2"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Disharoon"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "2"
+source.F_A = "5"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Tucker"
+source.B_AB = "2"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Leslie"
+source.B_AB = "2"
+source.B_R = "2"
+source.B_H = "1"
+source.F_PO = "19"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Laroe"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Martin"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Wright"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Lehew"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "7"
+source.F_E = "0"
+
+
+[[credit.team]]
+source.name = "Terrell"
+source.B_LOB = "4"
+
+[[credit.team]]
+source.name = "Ennis"
+source.B_LOB = "6"
+
+[[credit.team]]
+source.name = "Terrell"
+source.B_ROE = "2"
+
+[[credit.team]]
+source.name = "Terrell"
+source.B_ER = "1"
+
+[[credit.team]]
+source.name = "Ennis"
+source.B_ER = "2"
+
+[[credit.player]]
+source.name = "McMahan"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Meason"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Cox"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "McMahan"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Laroe"
+source.B_SH = "2"
+
+[[credit.player]]
+source.name = "Wright"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Gober"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Hall"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Shaw"
+source.B_HP = "1"
+
+[[credit.player]]
+source.name = "Tucker"
+source.B_XO = "1"
+source.note = "attempting to bunt third strike"
+
+[[credit.player]]
+source.name = "Hall"
+source.P_BB = "4"
+
+[[credit.player]]
+source.name = "Gilmore"
+source.P_BB = "2"
+
+[[credit.player]]
+source.name = "Hall"
+source.P_H = "4"
+
+[[credit.player]]
+source.name = "Gilmore"
+source.P_H = "1"
+
+[[credit.player]]
+source.name = "Hall"
+source.P_IP = "6.2"
+
+[[credit.player]]
+source.name = "Gilmore"
+source.P_IP = "1.2"
+
+[[credit.player]]
+source.name = "Hall"
+source.P_HP = "1"
+
+[[credit.player]]
+source.name = "Lehew"
+source.P_WP = "1"
+
+[[credit.event]]
+source.name = [ "Shaw", "Leslie" ]
+source.F_DP = "1"
+
+[[credit.player]]
+source.name = "Hall"
+infer.P_GS = "1"
+
+[[credit.player]]
+source.name = "Gilmore"
+infer.P_GF = "1"
+
+[[credit.player]]
+source.name = "Gilmore"
+infer.P_L = "1"
+
+[[credit.player]]
+source.name = "Hall"
+source.P_R = "2"
+
+[[credit.player]]
+source.name = "Gilmore"
+source.P_R = "1"
+

@@ -1,0 +1,324 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-05-01"
+
+[game]
+key = "19150430_MUS_a698"
+datetime = "1915-04-30"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Western Association"
+duration = "2:05"
+
+[outcome]
+status = "final"
+
+[[umpire]]
+name.last = "Pontius"
+
+
+[[team]]
+name = "Tulsa"
+alignment = "away"
+score = "16"
+inning = [ "0", "3", "0", "1", "0", "1", "3", "4", "4" ]
+
+[team.totals]
+source.B_AB = "44"
+source.B_R = "16"
+source.B_H = "20"
+source.F_PO = "27"
+source.F_A = "14"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Morris"
+source.B_AB = "5"
+source.B_R = "3"
+source.B_H = "3"
+source.F_PO = "4"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Burke"
+source.B_AB = "5"
+source.B_R = "4"
+source.B_H = "2"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Kelsey"
+source.B_AB = "6"
+source.B_R = "1"
+source.B_H = "4"
+source.F_PO = "5"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Franklin"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "3"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Price"
+source.B_AB = "6"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "8"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Hopper"
+source.B_AB = "2"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Gourley"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Reynolds"
+source.B_AB = "5"
+source.B_R = "4"
+source.B_H = "4"
+source.F_PO = "5"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Meyers"
+source.B_AB = "5"
+source.B_R = "2"
+source.B_H = "3"
+source.F_PO = "1"
+source.F_A = "3"
+source.F_E = "0"
+
+
+[[team]]
+name = "Muskogee"
+alignment = "home"
+score = "0"
+inning = [ "0", "0", "0", "0", "0", "0", "0", "0", "0" ]
+
+[team.totals]
+source.B_AB = "32"
+source.B_R = "0"
+source.B_H = "10"
+source.F_PO = "27"
+source.F_A = "17"
+source.F_E = "4"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Henderson"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "2"
+source.F_A = "1"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Eunick"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "3"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Tacke"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "8"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Robinson"
+source.name.first = "J."
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "2"
+source.F_PO = "2"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Robinson"
+source.name.first = "T."
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Palmer"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "3"
+source.F_PO = "3"
+source.F_A = "2"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Powell"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "2"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Coe"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "7"
+source.F_A = "0"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Salisbury"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "4"
+source.F_E = "0"
+
+
+[[credit.team]]
+source.name = "Tulsa"
+source.B_LOB = "7"
+
+[[credit.team]]
+source.name = "Muskogee"
+source.B_LOB = "8"
+
+[[credit.player]]
+source.name = "Morris"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Kelsey"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Morris"
+source.B_HR = "1"
+
+[[credit.player]]
+source.name = "Hopper"
+source.B_HR = "1"
+
+[[credit.player]]
+source.name = "Reynolds"
+source.B_HR = "1"
+
+[[credit.player]]
+source.name = "Kelsey"
+source.B_HR = "1"
+
+[[credit.player]]
+source.name = "Meyers"
+source.B_HR = "1"
+
+[[credit.player]]
+source.name = "Gourley"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Burke"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Franklin"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Palmer"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Franklin"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Eunick"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Salisbury"
+source.B_HP = "1"
+
+[[credit.player]]
+source.name = "Meyers"
+source.P_BB = "2"
+
+[[credit.player]]
+source.name = "Salisbury"
+source.P_BB = "5"
+
+[[credit.player]]
+source.name = "Meyers"
+source.P_SO = "5"
+
+[[credit.player]]
+source.name = "Salisbury"
+source.P_SO = "3"
+
+[[credit.player]]
+source.name = "Morris"
+source.P_HP = "1"
+
+[[credit.event]]
+source.name = [ "Salisbury", "Palmer", "Tacke", "Powell", "Coe" ]
+source.F_DP = "1"
+
+[[credit.event]]
+source.name = [ "Meyers", "Morris", "Price" ]
+source.F_TP = "1"
+

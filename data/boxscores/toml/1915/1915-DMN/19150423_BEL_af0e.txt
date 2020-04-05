@@ -1,0 +1,24 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-04-24"
+
+[game]
+key = "19150423_BEL_af0e"
+datetime = "1915-04-23"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Middle Texas League"
+
+[outcome]
+status = "postponed"
+reason = "rain"
+
+[[team]]
+name = "Brenham [I]"
+alignment = "away"
+
+[[team]]
+name = "Belton"
+alignment = "home"
+

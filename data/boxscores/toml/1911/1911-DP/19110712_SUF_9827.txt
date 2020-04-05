@@ -1,0 +1,24 @@
+[meta.source]
+title = "Daily Press"
+date = "1911-07-13"
+
+[game]
+key = "19110712_SUF_9827"
+datetime = "1911-07-12"
+season = "1911"
+number = "1"
+double_header = "N"
+league = "Tidewater League"
+
+[outcome]
+status = "postponed"
+reason = "rain"
+
+[[team]]
+name = "Newport News"
+alignment = "away"
+
+[[team]]
+name = "Suffolk"
+alignment = "home"
+

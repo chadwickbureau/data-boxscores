@@ -1,0 +1,465 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-04-19"
+
+[game]
+key = "19150418_DAL_223a"
+datetime = "1915-04-18"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Texas League"
+duration = "1:55"
+
+[outcome]
+status = "final"
+
+[[umpire]]
+name.last = "Wright"
+
+
+[[team]]
+name = "Waco"
+alignment = "away"
+score = "6"
+inning = [ "0", "0", "0", "0", "0", "4", "0", "1", "1" ]
+
+[team.totals]
+source.B_AB = "30"
+source.B_R = "6"
+source.B_H = "9"
+source.F_PO = "27"
+source.F_A = "9"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Hickey"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "3"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Malmquist"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "2"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Tanner"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "3"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "James"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "3"
+source.F_PO = "4"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Crichlow"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Wohlleben"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "7"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Grubb"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Reilly"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "8"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Ashton"
+source.B_AB = "1"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Ogle"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "PH"
+source.name.last = "Conwell"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+source.substitution = "*"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Markle"
+source.B_AB = "0"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+
+[[team]]
+name = "Dallas"
+alignment = "home"
+score = "5"
+inning = [ "0", "0", "0", "0", "0", "3", "0", "2", "0" ]
+
+[team.totals]
+source.B_AB = "35"
+source.B_R = "5"
+source.B_H = "9"
+source.F_PO = "27"
+source.F_A = "16"
+source.F_E = "3"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Kellerman"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "3"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Ens"
+source.B_AB = "5"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "3"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Harrison"
+source.B_AB = "4"
+source.B_R = "2"
+source.B_H = "2"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Crouch"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Storch"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "2"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Brownlow"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "2"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Frantz"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "2"
+source.F_PO = "13"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Stephens"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "4"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Sewell"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "2"
+source.F_E = "0"
+infer.batorder = "901"
+
+[[team.player]]
+source.F_POS = "PH"
+source.name.last = "Harber"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "902"
+source.substitution = "+"
+
+[[team.player]]
+source.F_POS = "PH"
+source.name.last = "Mullins"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "904"
+source.substitution = "&"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Bono"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "2"
+source.F_E = "0"
+infer.batorder = "903"
+
+
+[[credit.team]]
+source.name = "Dallas"
+source.B_LOB = "5"
+
+[[credit.team]]
+source.name = "Waco"
+source.B_LOB = "5"
+
+[[credit.team]]
+source.name = "Waco"
+source.B_ROE = "3"
+
+[[credit.team]]
+source.name = "Dallas"
+source.B_ROE = "2"
+
+[[credit.player]]
+source.name = "James"
+source.B_2B = "2"
+
+[[credit.player]]
+source.name = "Reilly"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Ashton"
+source.B_HR = "1"
+
+[[credit.player]]
+source.name = "James"
+source.B_HR = "1"
+
+[[credit.player]]
+source.name = "Ashton"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Malmquist"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Tanner"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Grubb"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Hickey"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Crouch"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Sewell"
+source.P_BB = "2"
+
+[[credit.player]]
+source.name = "Sewell"
+source.P_SO = "1"
+
+[[credit.player]]
+source.name = "Bono"
+source.P_SO = "2"
+
+[[credit.player]]
+source.name = "Ashton"
+source.P_SO = "2"
+
+[[credit.player]]
+source.name = "Ogle"
+source.P_SO = "2"
+
+[[credit.player]]
+source.name = "Markle"
+source.P_SO = "2"
+
+[[credit.player]]
+source.name = "Ashton"
+source.P_H = "6"
+
+[[credit.player]]
+source.name = "Ogle"
+source.P_H = "3"
+
+[[credit.player]]
+source.name = "Sewell"
+source.P_H = "6"
+
+[[credit.player]]
+source.name = "Bono"
+source.P_H = "3"
+
+[[credit.player]]
+source.name = "Ashton"
+source.P_IP = "6"
+
+[[credit.player]]
+source.name = "Ogle"
+source.P_IP = "2"
+
+[[credit.player]]
+source.name = "Markle"
+source.P_IP = "1"
+
+[[credit.player]]
+source.name = "Sewell"
+source.P_IP = "6"
+
+[[credit.player]]
+source.name = "Bono"
+source.P_IP = "3"
+
+[[credit.player]]
+source.name = "Ashton"
+source.P_HP = "2"
+
+[[credit.player]]
+source.name = "Bono"
+source.P_WP = "1"
+
+[[credit.player]]
+source.name = "Ashton"
+infer.P_GS = "1"
+
+[[credit.player]]
+source.name = "Sewell"
+infer.P_GS = "1"
+
+[[credit.player]]
+source.name = "Markle"
+infer.P_GF = "1"
+
+[[credit.player]]
+source.name = "Bono"
+infer.P_GF = "1"
+
+[[credit.player]]
+source.name = "Ogle"
+infer.P_W = "1"
+
+[[credit.player]]
+source.name = "Bono"
+infer.P_L = "1"
+
+[[credit.player]]
+source.name = "Markle"
+infer.P_SV = "1"
+
+[[credit.player]]
+source.name = "Ashton"
+infer.P_R = "3"
+
+[[credit.player]]
+source.name = "Ogle"
+infer.P_R = "2"
+
+[[credit.player]]
+source.name = "Sewell"
+infer.P_R = "4"
+
+[[credit.player]]
+source.name = "Bono"
+infer.P_R = "2"
+

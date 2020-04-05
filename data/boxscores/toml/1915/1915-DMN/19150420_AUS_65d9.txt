@@ -1,0 +1,274 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-04-21"
+
+[game]
+key = "19150420_AUS_65d9"
+datetime = "1915-04-20"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Middle Texas League"
+duration = "2:05"
+
+[outcome]
+status = "final"
+
+[[umpire]]
+name.last = "Burt"
+
+
+[[team]]
+name = "Schulenburg"
+alignment = "away"
+score = "4"
+inning = [ "0", "0", "2", "2", "0", "0", "0", "0", "0" ]
+
+[team.totals]
+source.B_AB = "33"
+source.B_R = "4"
+source.B_H = "5"
+source.F_PO = "27"
+source.F_A = "9"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Daley"
+source.B_AB = "5"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "3"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Young"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "12"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Showers"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "2"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Boykin"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Allen"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Durr"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "5"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Robinson"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Huber"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Bowen"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "2"
+source.F_E = "1"
+
+
+[[team]]
+name = "Austin"
+alignment = "home"
+score = "0"
+inning = [ "0", "0", "0", "0", "0", "0", "0", "0", "0" ]
+
+[team.totals]
+source.B_AB = "31"
+source.B_R = "0"
+source.B_H = "4"
+source.F_PO = "27"
+source.F_A = "14"
+source.F_E = "4"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Reinecke"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "3"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Enloe"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "2"
+source.F_A = "1"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Jordan"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "11"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Fruth"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "3"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Montegut"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "3"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Charbonet"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "6"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Deats"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Moore"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Neill"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "6"
+source.F_E = "1"
+
+
+[[credit.team]]
+source.name = "Austin"
+source.B_LOB = "4"
+
+[[credit.team]]
+source.name = "Schulenburg"
+source.B_LOB = "7"
+
+[[credit.team]]
+source.name = "Austin"
+source.B_ROE = "1"
+
+[[credit.team]]
+source.name = "Schulenburg"
+source.B_ROE = "3"
+
+[[credit.team]]
+source.name = "Schulenburg"
+source.B_ER = "1"
+
+[[credit.player]]
+source.name = "Young"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Robinson"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Bowen"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Neill"
+source.P_BB = "2"
+
+[[credit.player]]
+source.name = "Bowen"
+source.P_SO = "5"
+
+[[credit.player]]
+source.name = "Neill"
+source.P_HP = "1"
+

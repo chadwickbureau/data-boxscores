@@ -1,0 +1,24 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-04-11"
+
+[game]
+key = "19150410_SAN_9193"
+datetime = "1915-04-10"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Texas League"
+
+[outcome]
+status = "postponed"
+reason = "rain"
+
+[[team]]
+name = "Galveston"
+alignment = "away"
+
+[[team]]
+name = "San Antonio"
+alignment = "home"
+

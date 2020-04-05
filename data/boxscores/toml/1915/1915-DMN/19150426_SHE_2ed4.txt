@@ -1,0 +1,311 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-04-27"
+
+[game]
+key = "19150426_SHE_2ed4"
+datetime = "1915-04-26"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Western Association"
+duration = "1:53"
+
+[outcome]
+status = "final"
+
+[[umpire]]
+name.last = "Womack"
+
+
+[[team]]
+name = "Fort Smith"
+alignment = "away"
+score = "1"
+inning = [ "0", "0", "1", "0", "0", "0", "0", "0", "0" ]
+
+[team.totals]
+source.B_AB = "32"
+source.B_R = "1"
+source.B_H = "7"
+source.F_PO = "24"
+source.F_A = "11"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "McCarty"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Leininger"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Robinson"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "12"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Corgan"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "2"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Sweeney"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Abington"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Sheers"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "701"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Schultz"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "4"
+source.F_A = "1"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Faircloth"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "2"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "PH"
+source.name.last = "Adams"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "702"
+source.substitution = "*"
+
+
+[[team]]
+name = "Sherman"
+alignment = "home"
+score = "3"
+inning = [ "0", "0", "3", "0", "0", "0", "0", "0", "x" ]
+
+[team.totals]
+source.B_AB = "29"
+source.B_R = "3"
+source.B_H = "8"
+source.F_PO = "27"
+source.F_A = "10"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Weber"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "2"
+source.F_PO = "2"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Sorey"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "4"
+source.F_A = "1"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Milan"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "3"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Sheffield"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Gardner"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "O'Neal"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Trammell"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "8"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "White"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "6"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Weeks"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "2"
+source.F_A = "3"
+source.F_E = "0"
+
+
+[[credit.team]]
+source.name = "Sherman"
+source.B_LOB = "8"
+
+[[credit.team]]
+source.name = "Fort Smith"
+source.B_LOB = "6"
+
+[[credit.player]]
+source.name = "Sheffield"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "McCarty"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Leininger"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "McCarty"
+source.B_SB = "2"
+
+[[credit.player]]
+source.name = "Robinson"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Schultz"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Milan"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "O'Neal"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Sweeney"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Weeks"
+source.P_BB = "1"
+
+[[credit.player]]
+source.name = "Faircloth"
+source.P_BB = "3"
+
+[[credit.player]]
+source.name = "Weeks"
+source.P_SO = "6"
+
+[[credit.player]]
+source.name = "Faircloth"
+source.P_SO = "4"
+
+[[credit.player]]
+source.name = "Faircloth"
+source.P_WP = "1"
+
+[[credit.player]]
+source.name = "Schultz"
+source.F_PB = "2"
+

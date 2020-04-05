@@ -1,0 +1,354 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-05-16"
+
+[game]
+key = "19150515_TEX_1910"
+datetime = "1915-05-15"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Dallas Commercial League"
+duration = "2:05"
+
+[outcome]
+status = "final"
+
+[[umpire]]
+name.last = "Lindewood"
+
+
+[[team]]
+name = "Magnolia"
+alignment = "away"
+score = "3"
+inning = [ "1", "0", "0", "0", "0", "2", "0", "0", "0" ]
+
+[team.totals]
+source.B_AB = "36"
+source.B_R = "3"
+source.B_H = "3"
+source.F_PO = "24"
+source.F_A = "15"
+source.F_E = "9"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "McCammon"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "6"
+source.F_A = "2"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Barnes"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "3"
+source.F_E = "3"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Fitzpatrick"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "1"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "LF-P"
+source.name.last = "Noble"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "3"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Bridges"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "10"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Mullins"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Butler"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Wilkerson"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "4"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P-LF"
+source.name.last = "Mitchell"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "4"
+source.F_E = "3"
+
+
+[[team]]
+name = "Texas & Pacific"
+alignment = "home"
+score = "16"
+inning = [ "0", "3", "0", "7", "0", "6", "0", "0", "x" ]
+
+[team.totals]
+source.B_AB = "44"
+source.B_R = "16"
+source.B_H = "21"
+source.F_PO = "27"
+source.F_A = "11"
+source.F_E = "7"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Self"
+source.B_AB = "4"
+source.B_R = "2"
+source.B_H = "3"
+source.F_PO = "3"
+source.F_A = "1"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Green"
+source.B_AB = "6"
+source.B_R = "2"
+source.B_H = "3"
+source.F_PO = "1"
+source.F_A = "4"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Appleby"
+source.B_AB = "6"
+source.B_R = "2"
+source.B_H = "5"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Oliver"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "2"
+infer.batorder = "401"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Battle"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "402"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Williamson"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "9"
+source.F_A = "0"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Rogers"
+source.B_AB = "5"
+source.B_R = "2"
+source.B_H = "1"
+source.F_PO = "9"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Rucker"
+source.B_AB = "5"
+source.B_R = "3"
+source.B_H = "2"
+source.F_PO = "0"
+source.F_A = "4"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Hawkes"
+source.B_AB = "5"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "3"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Orr"
+source.B_AB = "5"
+source.B_R = "3"
+source.B_H = "3"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+
+[[credit.team]]
+source.name = "Magnolia"
+source.B_LOB = "12"
+
+[[credit.team]]
+source.name = "Texas & Pacific"
+source.B_LOB = "10"
+
+[[credit.player]]
+source.name = "Self"
+source.B_2B = "2"
+
+[[credit.player]]
+source.name = "Appleby"
+source.B_2B = "2"
+
+[[credit.player]]
+source.name = "Orr"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Green"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Rogers"
+source.B_SB = "2"
+
+[[credit.player]]
+source.name = "Rucker"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Self"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Self"
+source.B_SH = "2"
+
+[[credit.player]]
+source.name = "Williamson"
+source.B_SH = "2"
+
+[[credit.player]]
+source.name = "Noble"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Mitchell"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Williamson"
+source.B_HP = "1"
+
+[[credit.player]]
+source.name = "Rucker"
+source.P_BB = "6"
+
+[[credit.player]]
+source.name = "Rucker"
+source.P_SO = "8"
+
+[[credit.player]]
+source.name = "Mitchell"
+source.P_SO = "3"
+
+[[credit.player]]
+source.name = "Mitchell"
+source.P_H = "20"
+
+[[credit.player]]
+source.name = "Noble"
+source.P_H = "1"
+
+[[credit.player]]
+source.name = "Mitchell"
+source.P_IP = "6"
+
+[[credit.player]]
+source.name = "Noble"
+source.P_IP = "2"
+
+[[credit.player]]
+source.name = "Mitchell"
+source.P_HP = "1"
+
+[[credit.player]]
+source.name = "Rucker"
+source.P_WP = "2"
+
+[[credit.player]]
+source.name = "Rogers"
+source.F_PB = "2"
+
+[[credit.player]]
+source.name = "Mitchell"
+infer.P_GS = "1"
+
+[[credit.player]]
+source.name = "Noble"
+infer.P_GF = "1"
+
+[[credit.player]]
+source.name = "Mitchell"
+infer.P_L = "1"
+
+[[credit.player]]
+source.name = "Mitchell"
+source.P_R = "16"
+

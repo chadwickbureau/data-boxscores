@@ -1,0 +1,338 @@
+[meta.source]
+title = "Daily Press"
+date = "1911-06-03"
+
+[game]
+key = "19110602_NEW_d009"
+datetime = "1911-06-02"
+season = "1911"
+number = "1"
+double_header = "N"
+league = "Tidewater League"
+duration = "3:07"
+
+[outcome]
+status = "final"
+
+[[umpire]]
+name.last = "Ebbinger"
+
+
+[[team]]
+name = "Suffolk"
+alignment = "away"
+score = "6"
+inning = [ "0", "1", "1", "0", "0", "1", "1", "0", "0", "0", "0", "0", "2" ]
+
+[team.totals]
+source.B_AB = "44"
+source.B_R = "6"
+source.B_H = "9"
+source.F_PO = "27"
+source.F_A = "17"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Lohr"
+source.B_AB = "5"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "1"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Franks"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Cave"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Martin"
+source.B_AB = "2"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "4"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Richardson"
+source.B_AB = "6"
+source.B_R = "1"
+source.B_H = "3"
+source.F_PO = "12"
+source.F_A = "0"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Dacey"
+source.B_AB = "6"
+source.B_R = "2"
+source.B_H = "2"
+source.F_PO = "3"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Nagle"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "4"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Clarke"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "2"
+source.F_PO = "3"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Slesnick"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "16"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Grauley"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "3"
+source.F_E = "0"
+
+
+[[team]]
+name = "Newport News"
+alignment = "home"
+score = "4"
+inning = [ "3", "0", "0", "0", "0", "1", "0", "0", "0", "0", "0", "0", "0" ]
+
+[team.totals]
+source.B_AB = "51"
+source.B_R = "4"
+source.B_H = "13"
+source.F_PO = "39"
+source.F_A = "25"
+source.F_E = "5"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Tierney"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "2"
+source.F_A = "10"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Mack"
+source.B_AB = "6"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "9"
+source.F_A = "4"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Bryan"
+source.B_AB = "6"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "11"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Barry"
+source.name.first = "G."
+source.B_AB = "6"
+source.B_R = "1"
+source.B_H = "4"
+source.F_PO = "5"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Confrey"
+source.B_AB = "6"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "2"
+source.F_A = "4"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Rogers"
+source.B_AB = "6"
+source.B_R = "0"
+source.B_H = "3"
+source.F_PO = "7"
+source.F_A = "3"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Flynn"
+source.B_AB = "6"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Davie"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "3"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Barry"
+source.name.first = "J."
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "2"
+source.F_E = "1"
+
+
+[[credit.team]]
+source.name = "Suffolk"
+source.B_LOB = "6"
+
+[[credit.team]]
+source.name = "Newport News"
+source.B_LOB = "7"
+
+[[credit.team]]
+source.name = "Suffolk"
+source.B_ROE = "2"
+
+[[credit.team]]
+source.name = "Newport News"
+source.B_ROE = "2"
+
+[[credit.player]]
+source.name = "G. Barry"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Lohr"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Dacey"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "G. Barry"
+source.B_3B = "1"
+
+[[credit.player]]
+source.name = "Lohr"
+source.B_3B = "1"
+
+[[credit.player]]
+source.name = "Richardson"
+source.B_3B = "1"
+
+[[credit.player]]
+source.name = "Lohr"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Clarke"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Franks"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Clarke"
+source.B_HP = "1"
+
+[[credit.player]]
+source.name = "J. Barry"
+source.P_BB = "7"
+
+[[credit.player]]
+source.name = "Grauley"
+source.P_BB = "1"
+
+[[credit.player]]
+source.name = "J. Barry"
+source.P_SO = "7"
+
+[[credit.player]]
+source.name = "Grauley"
+source.P_SO = "16"
+
+[[credit.player]]
+source.name = "J. Barry"
+source.P_WP = "1"
+
+[[credit.player]]
+source.name = "Grauley"
+source.P_WP = "1"
+
+[[credit.event]]
+source.name = [ "Tierney", "Mack", "Bryan" ]
+source.F_DP = "1"
+
+[[credit.event]]
+source.name = [ "Confrey", "Bryan", "Tierney" ]
+source.F_DP = "1"
+
+[[credit.event]]
+source.name = [ "Tierney", "Mack" ]
+source.F_DP = "1"
+
+[[credit.player]]
+source.name = "Rogers"
+source.F_PB = "1"
+

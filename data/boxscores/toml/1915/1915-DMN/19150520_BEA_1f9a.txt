@@ -1,0 +1,321 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-05-21"
+
+[game]
+key = "19150520_BEA_1f9a"
+datetime = "1915-05-20"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Texas League"
+duration = "1:47"
+
+[outcome]
+status = "final"
+
+[[umpire]]
+name.last = "Wright"
+
+
+[[team]]
+name = "Dallas"
+alignment = "away"
+score = "5"
+inning = [ "0", "0", "2", "0", "0", "0", "0", "2", "1" ]
+
+[team.totals]
+source.B_AB = "36"
+source.B_R = "5"
+source.B_H = "11"
+source.F_PO = "27"
+source.F_A = "10"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Kellerman"
+source.B_AB = "5"
+source.B_R = "2"
+source.B_H = "3"
+source.F_PO = "2"
+source.F_A = "4"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Ens"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Harrison"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "4"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Crouch"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "4"
+source.F_A = "0"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Storch"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "3"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Brownlow"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Frantz"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "8"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Dunn"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "6"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Brady"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "2"
+source.F_E = "1"
+
+
+[[team]]
+name = "Beaumont"
+alignment = "home"
+score = "2"
+inning = [ "0", "0", "0", "0", "0", "1", "0", "0", "1" ]
+
+[team.totals]
+source.B_AB = "29"
+source.B_R = "2"
+source.B_H = "7"
+source.F_PO = "27"
+source.F_A = "17"
+source.F_E = "3"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Fisher"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Bobo"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "4"
+source.F_A = "4"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "McMahon"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "3"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Dodd"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "2"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Cooke"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "15"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Nixon"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "2"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Robinson"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Kneaves"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Swan"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "2"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "PH"
+source.name.last = "Carson"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+source.substitution = "*"
+
+
+[[credit.team]]
+source.name = "Beaumont"
+source.B_LOB = "7"
+
+[[credit.team]]
+source.name = "Dallas"
+source.B_LOB = "7"
+
+[[credit.team]]
+source.name = "Dallas"
+source.B_ROE = "2"
+
+[[credit.player]]
+source.name = "Dunn"
+source.B_2B = "2"
+
+[[credit.player]]
+source.name = "Dodd"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Crouch"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Kellerman"
+source.B_SB = "2"
+
+[[credit.player]]
+source.name = "Ens"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Storch"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Ens"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Dunn"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Kneaves"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "McMahon"
+source.B_HP = "1"
+
+[[credit.player]]
+source.name = "Brady"
+source.P_BB = "5"
+
+[[credit.player]]
+source.name = "Brady"
+source.P_SO = "4"
+
+[[credit.player]]
+source.name = "Swan"
+source.P_SO = "3"
+
+[[credit.player]]
+source.name = "Brady"
+source.P_HP = "1"
+
+[[credit.event]]
+source.name = [ "Nixon", "McMahon" ]
+source.F_DP = "1"
+
+[[credit.event]]
+source.name = [ "Ens", "Kellerman", "Frantz" ]
+source.F_DP = "1"
+
+[[credit.event]]
+source.name = [ "Harrison", "Frantz" ]
+source.F_DP = "1"
+

@@ -1,0 +1,24 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-04-26"
+
+[game]
+key = "19150425_SCH_ca1b"
+datetime = "1915-04-25"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Middle Texas League"
+
+[outcome]
+status = "postponed"
+reason = "rain"
+
+[[team]]
+name = "Temple"
+alignment = "away"
+
+[[team]]
+name = "Schulenburg"
+alignment = "home"
+

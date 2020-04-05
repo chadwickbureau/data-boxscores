@@ -1,0 +1,310 @@
+[meta.source]
+title = "Daily Press"
+date = "1911-06-23"
+
+[game]
+key = "19110622_OLD_da6c"
+datetime = "1911-06-22"
+season = "1911"
+number = "1"
+double_header = "N"
+league = "Tidewater League"
+duration = "2:00"
+
+[outcome]
+status = "final"
+
+[[umpire]]
+name.last = "Hennegar"
+
+
+[[team]]
+name = "Suffolk"
+alignment = "away"
+score = "8"
+inning = [ "1", "0", "0", "2", "0", "1", "2", "0", "2" ]
+
+[team.totals]
+source.B_AB = "36"
+source.B_R = "8"
+source.B_H = "13"
+source.F_PO = "27"
+source.F_A = "10"
+source.F_E = "4"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Lohr"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "2"
+source.F_PO = "3"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Clark"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "3"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Fuqua"
+source.B_AB = "5"
+source.B_R = "2"
+source.B_H = "2"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Frye"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "4"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Fetzer"
+source.B_AB = "4"
+source.B_R = "3"
+source.B_H = "3"
+source.F_PO = "6"
+source.F_A = "0"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Nagle"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "4"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Edwards"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "5"
+source.F_A = "3"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Klock"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Sheehan"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "1"
+source.F_E = "0"
+
+
+[[team]]
+name = "Old Point"
+alignment = "home"
+score = "6"
+inning = [ "1", "0", "0", "0", "0", "0", "0", "5", "0" ]
+
+[team.totals]
+source.B_AB = "40"
+source.B_R = "6"
+source.B_H = "12"
+source.F_PO = "27"
+source.F_A = "17"
+source.F_E = "3"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Hazzard"
+source.B_AB = "5"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "4"
+source.F_A = "6"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Morley"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "2"
+source.F_A = "1"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Pierce"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "3"
+source.F_PO = "4"
+source.F_A = "5"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Boufford"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "11"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Schaeffer"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF-P"
+source.name.last = "Flood"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Slesnick"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "3"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Boyce"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "1"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Billings"
+source.B_AB = "5"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+
+[[credit.team]]
+source.name = "Suffolk"
+source.B_LOB = "6"
+
+[[credit.team]]
+source.name = "Old Point"
+source.B_LOB = "2"
+
+[[credit.player]]
+source.name = "Fetzer"
+source.B_2B = "2"
+
+[[credit.player]]
+source.name = "Nagle"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Edwards"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Pierce"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Morley"
+source.B_2B = "2"
+
+[[credit.player]]
+source.name = "Nagle"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Fetzer"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Hazzard"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Boufford"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Slesnick"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Boyce"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Nagle"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Klock"
+source.B_HP = "1"
+
+[[credit.player]]
+source.name = "Sheehan"
+source.P_BB = "4"
+
+[[credit.player]]
+source.name = "Boyce"
+source.P_BB = "4"
+
+[[credit.player]]
+source.name = "Sheehan"
+source.P_SO = "1"
+
+[[credit.player]]
+source.name = "Boyce"
+source.P_SO = "2"
+
+[[credit.event]]
+source.name = [ "Edwards", "Clark", "Fetzer" ]
+source.F_DP = "1"
+

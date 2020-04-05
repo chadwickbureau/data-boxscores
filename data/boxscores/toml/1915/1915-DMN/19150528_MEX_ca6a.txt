@@ -1,0 +1,358 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-05-29"
+
+[game]
+key = "19150528_MEX_ca6a"
+datetime = "1915-05-28"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Central Texas League"
+duration = "2:00"
+
+[outcome]
+status = "final"
+
+[[umpire]]
+name.last = "McAdams"
+
+
+[[team]]
+name = "Kaufman"
+alignment = "away"
+score = "5"
+inning = [ "1", "0", "0", "0", "0", "1", "1", "1", "1" ]
+
+[team.totals]
+source.B_AB = "33"
+source.B_R = "5"
+source.B_H = "9"
+source.F_PO = "27"
+source.F_A = "16"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Myers"
+source.B_AB = "5"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "0"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Hooper"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "6"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Bourland"
+source.B_AB = "3"
+source.B_R = "2"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "3"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Mullin"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "4"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Pugh"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "4"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Seagrest"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "18"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Smith"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Gilpin"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "801"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Chatman"
+source.B_AB = "2"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "802"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Burnett"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "2"
+source.F_PO = "0"
+source.F_A = "5"
+source.F_E = "0"
+
+
+[[team]]
+name = "Mexia"
+alignment = "home"
+score = "0"
+inning = [ "0", "0", "0", "0", "0", "0", "0", "0", "0" ]
+
+[team.totals]
+source.B_AB = "29"
+source.B_R = "0"
+source.B_H = "6"
+source.F_PO = "26"
+source.F_A = "14"
+source.F_E = "9"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Hill"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Wright"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Wagner"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "2"
+infer.batorder = "301"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Brown"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "2"
+source.F_PO = "3"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Warner"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "6"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "501"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Florence"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "1"
+source.F_E = "1"
+infer.batorder = "601"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Fruth"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "11"
+source.F_A = "4"
+source.F_E = "5"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Shear"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "5"
+source.F_E = "1"
+infer.batorder = "801"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Gorin"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "5"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Horton"
+source.B_AB = "0"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "302"
+
+[[team.player]]
+source.F_POS = "PH"
+source.name.last = "Hibbett"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "502"
+source.substitution = "*"
+
+[[team.player]]
+source.F_POS = "PH"
+source.name.last = "Howery"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "602"
+source.substitution = "+"
+
+[[team.player]]
+source.F_POS = "PH"
+source.name.last = "Barber"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "802"
+source.substitution = "&"
+
+
+[[credit.team]]
+source.name = "Kaufman"
+source.B_LOB = "5"
+
+[[credit.team]]
+source.name = "Mexia"
+source.B_LOB = "8"
+
+[[credit.player]]
+source.name = "Brown"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Myers"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Bourland"
+source.B_2B = "2"
+
+[[credit.player]]
+source.name = "Mullin"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Brown"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Bourland"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Smith"
+source.B_HP = "1"
+
+[[credit.player]]
+source.name = "Hooper"
+source.B_XO = "1"
+source.note = "bunting third strike"
+
+[[credit.player]]
+source.name = "Gorin"
+source.P_BB = "3"
+
+[[credit.player]]
+source.name = "Burnett"
+source.P_BB = "1"
+
+[[credit.player]]
+source.name = "Gorin"
+source.P_SO = "9"
+
+[[credit.player]]
+source.name = "Burnett"
+source.P_SO = "3"
+
+[[credit.player]]
+source.name = "Gorin"
+source.P_HP = "1"
+
+[[credit.player]]
+source.name = "Fruth"
+source.F_PB = "3"
+

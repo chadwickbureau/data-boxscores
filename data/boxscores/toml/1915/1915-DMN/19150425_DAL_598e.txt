@@ -1,0 +1,24 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-04-26"
+
+[game]
+key = "19150425_DAL_598e"
+datetime = "1915-04-25"
+season = "1915"
+number = "2"
+double_header = "Y"
+league = "Texas League"
+
+[outcome]
+status = "postponed"
+reason = "rain"
+
+[[team]]
+name = "Fort Worth"
+alignment = "away"
+
+[[team]]
+name = "Dallas"
+alignment = "home"
+

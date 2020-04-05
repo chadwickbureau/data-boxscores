@@ -1,0 +1,300 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-04-25"
+
+[game]
+key = "19150424_AUS_2462"
+datetime = "1915-04-24"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Middle Texas League"
+duration = "1:10"
+
+[outcome]
+status = "final"
+
+[[umpire]]
+name.last = "Manry"
+
+
+[[team]]
+name = "Temple"
+alignment = "away"
+score = "0"
+inning = [ "0", "0", "0", "0", "0", "0", "0", "0", "0" ]
+
+[team.totals]
+source.B_AB = "29"
+source.B_R = "0"
+source.B_H = "3"
+source.F_PO = "24"
+source.F_A = "8"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Disharom"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "101"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Albus"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "201"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Alison"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Osborne"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "7"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Shaffer"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "9"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Darnaby"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Reid"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "5"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Scroggins"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "2"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Angel"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "4"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "PH"
+source.name.last = "Manuel"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "102"
+source.substitution = "*"
+
+[[team.player]]
+source.F_POS = "PH"
+source.name.last = "Burleson"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "202"
+source.substitution = "+"
+
+
+[[team]]
+name = "Austin"
+alignment = "home"
+score = "3"
+inning = [ "0", "1", "0", "0", "1", "1", "0", "0", "x" ]
+
+[team.totals]
+source.B_AB = "28"
+source.B_R = "3"
+source.B_H = "7"
+source.F_PO = "27"
+source.F_A = "8"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Reinecke"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Enloe"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "5"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Jordan"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "9"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Wendt"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "8"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Charbonet"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Nyllus"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "601"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Montegut"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "602"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Deats"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Edmonds"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Fagan"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "5"
+source.F_E = "0"
+
+
+[[credit.player]]
+source.name = "Charbonet"
+source.B_2B = "2"
+
+[[credit.player]]
+source.name = "Jordan"
+source.B_HR = "1"
+
+[[credit.player]]
+source.name = "Charbonet"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Edmonds"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Fagan"
+source.P_BB = "1"
+
+[[credit.player]]
+source.name = "Angel"
+source.P_BB = "1"
+
+[[credit.player]]
+source.name = "Fagan"
+source.P_SO = "8"
+
+[[credit.player]]
+source.name = "Angel"
+source.P_SO = "9"
+

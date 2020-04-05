@@ -1,0 +1,79 @@
+[meta.source]
+title = "Daily Press"
+date = "1911-05-03"
+
+[game]
+key = "19110502_ELI_5a28"
+datetime = "1911-05-02"
+season = "1911"
+number = "1"
+double_header = "N"
+league = "Tidewater League"
+
+[outcome]
+status = "final"
+
+[[team]]
+name = "Old Point"
+alignment = "away"
+score = "11"
+inning = [ "0", "2", "0", "3", "0", "0", "5", "1", "0" ]
+
+[team.totals]
+source.B_R = "11"
+source.B_H = "12"
+source.F_E = "3"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Boyce"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Sorrell"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Quick"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Herman"
+
+
+[[team]]
+name = "Elizabeth City"
+alignment = "home"
+score = "16"
+inning = [ "5", "0", "0", "3", "2", "0", "6", "0", "x" ]
+
+[team.totals]
+source.B_R = "16"
+source.B_H = "9"
+source.F_E = "5"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Lowe"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Johnson"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Smidt"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Cleveland"
+
+[[team.player]]
+source.F_POS = "?"
+source.name.last = "Moreland"
+
+[[team.player]]
+source.F_POS = "?"
+source.name.last = "Guiheen"
+
+

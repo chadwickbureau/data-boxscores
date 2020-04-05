@@ -1,0 +1,24 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-05-04"
+
+[game]
+key = "19150503_TEM_da4d"
+datetime = "1915-05-03"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Middle Texas League"
+
+[outcome]
+status = "postponed"
+reason = "rain"
+
+[[team]]
+name = "Bartlett"
+alignment = "away"
+
+[[team]]
+name = "Temple"
+alignment = "home"
+

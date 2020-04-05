@@ -1,0 +1,24 @@
+[meta.source]
+title = "San Francisco Examiner"
+date = "1910-05-04"
+
+[game]
+key = "19100503_POR_5176"
+datetime = "1910-05-03"
+season = "1910"
+number = "1"
+double_header = "N"
+league = "Pacific Coast League"
+
+[outcome]
+status = "postponed"
+reason = "rain"
+
+[[team]]
+name = "Vernon"
+alignment = "away"
+
+[[team]]
+name = "Portland"
+alignment = "home"
+

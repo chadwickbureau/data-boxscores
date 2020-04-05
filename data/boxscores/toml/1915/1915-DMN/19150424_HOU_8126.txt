@@ -1,0 +1,24 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-04-25"
+
+[game]
+key = "19150424_HOU_8126"
+datetime = "1915-04-24"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Texas League"
+
+[outcome]
+status = "postponed"
+reason = "rain"
+
+[[team]]
+name = "Galveston"
+alignment = "away"
+
+[[team]]
+name = "Houston"
+alignment = "home"
+

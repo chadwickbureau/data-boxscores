@@ -1,0 +1,270 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-04-17"
+
+[game]
+key = "19150416_SCH_35d3"
+datetime = "1915-04-16"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Middle Texas League"
+duration = "1:35"
+
+[outcome]
+status = "final"
+
+[[umpire]]
+name.last = "Estill"
+
+
+[[team]]
+name = "Brenham [I]"
+alignment = "away"
+score = "0"
+inning = [ "0", "0", "0", "0", "0", "0", "0", "0", "0" ]
+
+[team.totals]
+source.B_AB = "28"
+source.B_R = "0"
+source.B_H = "5"
+source.F_PO = "24"
+source.F_A = "14"
+source.F_E = "4"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "P'stwood"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "2"
+source.F_A = "1"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "White"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "3"
+source.F_A = "5"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Woessner"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "9"
+source.F_A = "1"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Roach"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Erwin"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "4"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Wicks"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Barrett"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "2"
+source.F_A = "2"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Scott"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "4"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Sellman"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "3"
+source.F_E = "0"
+
+
+[[team]]
+name = "Schulenburg"
+alignment = "home"
+score = "6"
+inning = [ "0", "2", "0", "0", "1", "0", "0", "3", "x" ]
+
+[team.totals]
+source.B_AB = "28"
+source.B_R = "6"
+source.B_H = "6"
+source.F_PO = "27"
+source.F_A = "13"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Allen"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Dailey"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Robison"
+source.B_AB = "2"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Boykin"
+source.B_AB = "2"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Young"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "12"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Durr"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "10"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Showers"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "702"
+
+[[team.player]]
+source.F_POS = "3B-SS"
+source.name.last = "Huber"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "3"
+source.F_A = "4"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Jackson"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "6"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Rainey"
+source.B_AB = "0"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "701"
+
+
+[[credit.team]]
+source.name = "Brenham [I]"
+source.B_LOB = "4"
+
+[[credit.team]]
+source.name = "Schulenburg"
+source.B_LOB = "6"
+
+[[credit.player]]
+source.name = "Jackson"
+source.P_BB = "2"
+
+[[credit.player]]
+source.name = "Sellman"
+source.P_BB = "4"
+
+[[credit.player]]
+source.name = "Jackson"
+source.P_SO = "9"
+
+[[credit.player]]
+source.name = "Sellman"
+source.P_SO = "1"
+
+[[credit.event]]
+source.name = [ "White", "Woessner" ]
+source.F_DP = "1"
+

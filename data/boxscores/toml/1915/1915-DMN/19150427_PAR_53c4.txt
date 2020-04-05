@@ -1,0 +1,24 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-04-28"
+
+[game]
+key = "19150427_PAR_53c4"
+datetime = "1915-04-27"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Western Association"
+
+[outcome]
+status = "postponed"
+reason = "rain"
+
+[[team]]
+name = "Oklahoma City"
+alignment = "away"
+
+[[team]]
+name = "Paris"
+alignment = "home"
+

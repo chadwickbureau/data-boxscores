@@ -1,0 +1,423 @@
+[meta.source]
+title = "Daily Press"
+date = "1911-04-21"
+
+[game]
+key = "19110420_NOR_7564"
+datetime = "1911-04-20"
+season = "1911"
+number = "1"
+double_header = "N"
+league = "Tidewater League"
+duration = "2:00"
+
+[venue]
+attendance = "250"
+
+[outcome]
+status = "final"
+
+[[umpire]]
+name.last = "Kelly"
+
+
+[[team]]
+name = "Portsmouth"
+alignment = "away"
+score = "13"
+inning = [ "0", "1", "1", "5", "4", "0", "0", "1", "1" ]
+
+[team.totals]
+source.B_AB = "37"
+source.B_R = "13"
+source.B_H = "13"
+source.F_PO = "27"
+source.F_A = "10"
+source.F_E = "3"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Landgraff"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "2"
+source.F_A = "2"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Wagner"
+source.B_AB = "3"
+source.B_R = "3"
+source.B_H = "2"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Hautz"
+source.B_AB = "6"
+source.B_R = "1"
+source.B_H = "4"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Murden"
+source.B_AB = "4"
+source.B_R = "2"
+source.B_H = "2"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Brown"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Tolbert"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Joynes"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "3"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Foiles"
+source.B_AB = "5"
+source.B_R = "2"
+source.B_H = "2"
+source.F_PO = "11"
+source.F_A = "1"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Cote"
+source.B_AB = "2"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "6"
+source.F_A = "1"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Drumm"
+source.B_AB = "3"
+source.B_R = "2"
+source.B_H = "1"
+source.F_PO = "2"
+source.F_A = "3"
+source.F_E = "0"
+
+
+[[team]]
+name = "Norfolk"
+alignment = "home"
+score = "5"
+inning = [ "2", "0", "1", "1", "0", "0", "0", "0", "1" ]
+
+[team.totals]
+source.B_AB = "35"
+source.B_R = "5"
+source.B_H = "9"
+source.F_PO = "26"
+source.F_A = "8"
+source.F_E = "3"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "King"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "3"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Simmons"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Griffin"
+source.B_AB = "3"
+source.B_R = "2"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Hooker"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Weir"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "3"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Fertsch"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "10"
+source.F_A = "0"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Gano"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Coleman"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "2"
+source.F_PO = "10"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Chalke"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Rietter"
+source.B_AB = "0"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Backus"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+
+[[credit.team]]
+source.name = "Portsmouth"
+source.B_LOB = "13"
+
+[[credit.team]]
+source.name = "Norfolk"
+source.B_LOB = "8"
+
+[[credit.player]]
+source.name = "Murden"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Tolbert"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Foiles"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Weir"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Coleman"
+source.B_2B = "2"
+
+[[credit.player]]
+source.name = "Wagner"
+source.B_3B = "1"
+
+[[credit.player]]
+source.name = "Wagner"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Drumm"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "King"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Griffin"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Hooker"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Fertsch"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Joynes"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Landgraff"
+source.B_SF = "1"
+
+[[credit.player]]
+source.name = "Tolbert"
+source.B_SF = "1"
+
+[[credit.player]]
+source.name = "Wagner"
+source.B_HP = "1"
+
+[[credit.player]]
+source.name = "Cote"
+source.B_HP = "1"
+
+[[credit.player]]
+source.name = "Hooker"
+source.B_HP = "1"
+
+[[credit.player]]
+source.name = "Drumm"
+source.P_BB = "5"
+
+[[credit.player]]
+source.name = "Chalke"
+source.P_BB = "4"
+
+[[credit.player]]
+source.name = "Rietter"
+source.P_BB = "2"
+
+[[credit.player]]
+source.name = "Backus"
+source.P_BB = "5"
+
+[[credit.player]]
+source.name = "Drumm"
+source.P_SO = "6"
+
+[[credit.player]]
+source.name = "Chalke"
+source.P_SO = "0"
+
+[[credit.player]]
+source.name = "Rietter"
+source.P_SO = "1"
+
+[[credit.player]]
+source.name = "Backus"
+source.P_SO = "7"
+
+[[credit.player]]
+source.name = "Chalke"
+source.P_H = "7"
+
+[[credit.player]]
+source.name = "Rietter"
+source.P_H = "3"
+
+[[credit.player]]
+source.name = "Backus"
+source.P_H = "3"
+
+[[credit.player]]
+source.name = "Chalke"
+source.P_AB = "18"
+
+[[credit.player]]
+source.name = "Rietter"
+source.P_AB = "4"
+
+[[credit.player]]
+source.name = "Backus"
+source.P_AB = "15"
+
+[[credit.player]]
+source.name = "Chalke"
+source.P_IP = "4"
+
+[[credit.player]]
+source.name = "Rietter"
+source.P_IP = "1"
+
+[[credit.player]]
+source.name = "Backus"
+source.P_IP = "4"
+
+[[credit.event]]
+source.name = [ "Chalke", "Griffin" ]
+source.F_DP = "1"
+
+[[credit.event]]
+source.name = [ "Landgraff" ]
+source.F_DP = "1"
+
+[[credit.player]]
+source.name = "Cote"
+source.F_PB = "1"
+

@@ -1,0 +1,24 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-04-15"
+
+[game]
+key = "19150414_SAN_155a"
+datetime = "1915-04-14"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Texas League"
+
+[outcome]
+status = "postponed"
+reason = "rain"
+
+[[team]]
+name = "Beaumont"
+alignment = "away"
+
+[[team]]
+name = "San Antonio"
+alignment = "home"
+

@@ -1,0 +1,24 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1916-05-21"
+
+[game]
+key = "19150520_TUL_d50c"
+datetime = "1915-05-20"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Western Association"
+
+[outcome]
+status = "postponed"
+reason = "rain"
+
+[[team]]
+name = "Fort Smith"
+alignment = "away"
+
+[[team]]
+name = "Tulsa"
+alignment = "home"
+

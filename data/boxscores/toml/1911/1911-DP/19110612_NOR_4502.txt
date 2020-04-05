@@ -1,0 +1,24 @@
+[meta.source]
+title = "Daily Press"
+date = "1911-06-13"
+
+[game]
+key = "19110612_NOR_4502"
+datetime = "1911-06-12"
+season = "1911"
+number = "1"
+double_header = "N"
+league = "Tidewater League"
+
+[outcome]
+status = "postponed"
+reason = "rain"
+
+[[team]]
+name = "Portsmouth"
+alignment = "away"
+
+[[team]]
+name = "Norfolk"
+alignment = "home"
+

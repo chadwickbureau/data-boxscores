@@ -1,0 +1,350 @@
+[meta.source]
+title = "San Francisco Examiner"
+date = "1910-05-16"
+
+[game]
+key = "19100515_SAC_0693"
+datetime = "1910-05-15"
+season = "1910"
+number = "1"
+double_header = "N"
+league = "Pacific Coast League"
+duration = "1:30"
+
+[outcome]
+status = "final"
+
+[[umpire]]
+name.last = "McGreevy"
+
+
+[[team]]
+name = "Vernon"
+alignment = "away"
+score = "14"
+inning = [ "2", "4", "0", "3", "2", "0", "1", "2", "0" ]
+
+[team.totals]
+source.B_AB = "44"
+source.B_R = "14"
+source.B_H = "15"
+source.F_PO = "27"
+source.F_A = "13"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Carlisle"
+source.B_AB = "6"
+source.B_R = "4"
+source.B_H = "4"
+source.F_PO = "4"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Brashear"
+source.name.first = "N."
+source.B_AB = "5"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "1"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Martinke"
+source.B_AB = "5"
+source.B_R = "2"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Brashear"
+source.name.first = "R."
+source.B_AB = "4"
+source.B_R = "3"
+source.B_H = "3"
+source.F_PO = "2"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Coy"
+source.B_AB = "5"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Lindsay"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "2"
+source.F_A = "7"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Fisher"
+source.B_AB = "5"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "12"
+source.F_A = "0"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Brown"
+source.B_AB = "5"
+source.B_R = "2"
+source.B_H = "2"
+source.F_PO = "4"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Willett"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "2"
+source.F_E = "0"
+
+
+[[team]]
+name = "Sacramento"
+alignment = "home"
+score = "5"
+inning = [ "3", "0", "0", "0", "0", "1", "0", "1", "0" ]
+
+[team.totals]
+source.B_AB = "35"
+source.B_R = "5"
+source.B_H = "8"
+source.F_PO = "27"
+source.F_A = "18"
+source.F_E = "6"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Shinn"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "2"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Pearson"
+source.B_AB = "3"
+source.B_R = "2"
+source.B_H = "1"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "2B-LF"
+source.name.last = "Perry"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Briggs"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Boardman"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Van Buren"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "14"
+source.F_A = "1"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Hunt"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "3"
+source.F_A = "2"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Raymer"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Spiesman"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "5"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Baum"
+source.B_AB = "0"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Whalen"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "5"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Brown"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "4"
+source.F_E = "0"
+
+
+[[credit.player]]
+source.name = "N. Brashear"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Lindsay"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "R. Brashear"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Pearson"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Perry"
+source.B_2B = "2"
+
+[[credit.player]]
+source.name = "Carlisle"
+source.B_3B = "1"
+
+[[credit.player]]
+source.name = "Coy"
+source.B_3B = "1"
+
+[[credit.player]]
+source.name = "Carlisle"
+source.B_HR = "2"
+
+[[credit.player]]
+source.name = "Willett"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Baum"
+source.P_BB = "1"
+
+[[credit.player]]
+source.name = "Whalen"
+source.P_BB = "1"
+
+[[credit.player]]
+source.name = "Willett"
+source.P_BB = "3"
+
+[[credit.player]]
+source.name = "Whalen"
+source.P_SO = "2"
+
+[[credit.player]]
+source.name = "Willett"
+source.P_SO = "3"
+
+[[credit.player]]
+source.name = "Willett"
+source.P_H = "8"
+
+[[credit.player]]
+source.name = "Baum"
+source.P_H = "3"
+
+[[credit.player]]
+source.name = "Whalen"
+source.P_H = "6"
+
+[[credit.player]]
+source.name = "Brown"
+source.P_H = "5"
+
+[[credit.player]]
+source.name = "Baum"
+source.P_IP = "1.1"
+
+[[credit.player]]
+source.name = "Whalen"
+source.P_IP = "2.2"
+
+[[credit.event]]
+source.name = [ "Lindsay", "Fisher" ]
+source.F_DP = "1"
+
+[[credit.player]]
+source.name = "Brown"
+source.P_L = "1"
+

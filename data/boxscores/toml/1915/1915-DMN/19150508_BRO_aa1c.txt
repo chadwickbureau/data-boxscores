@@ -1,0 +1,364 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-05-09"
+
+[game]
+key = "19150508_BRO_aa1c"
+datetime = "1915-05-08"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Dallas City League"
+duration = "1:27"
+
+[outcome]
+status = "final"
+
+[[umpire]]
+name.last = "F. Erwin"
+
+
+[[team]]
+name = "Home Interurban"
+alignment = "away"
+score = "2"
+inning = [ "0", "0", "0", "0", "0", "0", "0", "1", "1" ]
+
+[team.totals]
+source.B_AB = "32"
+source.B_R = "2"
+source.B_H = "4"
+source.F_PO = "27"
+source.F_A = "15"
+source.F_E = "3"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Bethel"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "11"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Bedford"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "McDonald"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "2"
+source.F_A = "1"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Harrison"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "1"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Bailey"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Ward"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "13"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "English"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Adams"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "801"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Lovelace"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "802"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Jefferies"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "6"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Martin"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "3"
+source.F_E = "4"
+
+
+[[team]]
+name = "Brown Cracker"
+alignment = "home"
+score = "0"
+inning = [ "0", "0", "0", "0", "0", "0", "0", "0", "0" ]
+
+[team.totals]
+source.B_AB = "32"
+source.B_R = "0"
+source.B_H = "2"
+source.F_PO = "27"
+source.F_A = "15"
+source.F_E = "7"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Tobias"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Erwin"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "4"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Ballard"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "2"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Ackley"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "401"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Lowry"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "402"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Polk"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Richardson"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "7"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Shelton"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "11"
+source.F_A = "0"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "O'Connor"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "3"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Swank"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "3"
+source.F_E = "0"
+
+
+[[credit.team]]
+source.name = "Home Interurban"
+source.B_LOB = "2"
+
+[[credit.team]]
+source.name = "Brown Cracker"
+source.B_LOB = "5"
+
+[[credit.team]]
+source.name = "Home Interurban"
+source.B_ROE = "1"
+
+[[credit.team]]
+source.name = "Brown Cracker"
+source.B_ROE = "3"
+
+[[credit.player]]
+source.name = "Erwin"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "McDonald"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Harrison"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Ward"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Erwin"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "O'Connor"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Swank"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Jefferies"
+source.P_BB = "1"
+
+[[credit.player]]
+source.name = "Swank"
+source.P_SO = "7"
+
+[[credit.player]]
+source.name = "Jefferies"
+source.P_SO = "5"
+
+[[credit.player]]
+source.name = "Martin"
+source.P_SO = "4"
+
+[[credit.player]]
+source.name = "Jefferies"
+source.P_H = "2"
+
+[[credit.player]]
+source.name = "Jefferies"
+source.P_IP = "7"
+
+[[credit.player]]
+source.name = "Martin"
+source.P_IP = "2"
+
+[[credit.event]]
+source.name = [ "Jefferies", "Ward", "McDonald" ]
+source.F_DP = "1"
+
+[[credit.event]]
+source.name = [ "Jefferies", "Ward" ]
+source.F_DP = "1"
+
+[[credit.player]]
+source.name = "Bethel"
+source.F_PB = "1"
+
+[[credit.player]]
+source.name = "Jefferies"
+infer.P_GS = "1"
+
+[[credit.player]]
+source.name = "Martin"
+infer.P_GF = "1"
+
+[[credit.player]]
+source.name = "Jefferies"
+infer.P_W = "1"
+
+[[credit.player]]
+source.name = "Martin"
+infer.P_SV = "1"
+

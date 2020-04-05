@@ -1,0 +1,351 @@
+[meta.source]
+title = "Daily Press"
+date = "1911-05-11"
+
+[game]
+key = "19110510_ELI_0a5c"
+datetime = "1911-05-10"
+season = "1911"
+number = "1"
+double_header = "N"
+league = "Tidewater League"
+duration = "2:10"
+
+[venue]
+attendance = "1200"
+
+[outcome]
+status = "final"
+
+[[umpire]]
+name.last = "Henneger"
+
+
+[[team]]
+name = "Norfolk"
+alignment = "away"
+score = "11"
+inning = [ "0", "0", "2", "1", "0", "5", "0", "0", "0", "3" ]
+
+[team.totals]
+source.B_AB = "43"
+source.B_R = "11"
+source.B_H = "13"
+source.F_PO = "30"
+source.F_A = "14"
+source.F_E = "4"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Gill"
+source.B_AB = "4"
+source.B_R = "2"
+source.B_H = "1"
+source.F_PO = "3"
+source.F_A = "4"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "King"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Hooker"
+source.B_AB = "6"
+source.B_R = "3"
+source.B_H = "4"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Weir"
+source.B_AB = "6"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "3"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Simmons"
+source.B_AB = "5"
+source.B_R = "1"
+source.B_H = "3"
+source.F_PO = "1"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "West"
+source.B_AB = "6"
+source.B_R = "2"
+source.B_H = "0"
+source.F_PO = "14"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "2B-P"
+source.name.last = "Wallace"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "3"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Hudgins"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Disharron"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "McPherson"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "4"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Griffin"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "1"
+source.F_E = "1"
+
+
+[[team]]
+name = "Elizabeth City"
+alignment = "home"
+score = "8"
+inning = [ "0", "0", "2", "0", "0", "2", "4", "0", "0", "0" ]
+
+[team.totals]
+source.B_AB = "37"
+source.B_R = "8"
+source.B_H = "8"
+source.F_PO = "30"
+source.F_A = "14"
+source.F_E = "6"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Lutz"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "1"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Townsend"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Moreland"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Parkerson"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "2"
+source.F_A = "1"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Guiheen"
+source.B_AB = "3"
+source.B_R = "2"
+source.B_H = "2"
+source.F_PO = "4"
+source.F_A = "4"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Kaiser"
+source.B_AB = "5"
+source.B_R = "2"
+source.B_H = "2"
+source.F_PO = "14"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Rhoades"
+source.B_AB = "5"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Cleveland"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "5"
+source.F_A = "2"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Lowe"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "1"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Flynn"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "4"
+source.F_E = "0"
+
+
+[[credit.player]]
+source.name = "Hooker"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Guiheen"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Kaiser"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Simmons"
+source.B_3B = "1"
+
+[[credit.player]]
+source.name = "Kaiser"
+source.B_HR = "1"
+
+[[credit.player]]
+source.name = "Townsend"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Moreland"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Cleveland"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Hooker"
+source.B_SB = "2"
+
+[[credit.player]]
+source.name = "Wallace"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Lowe"
+source.P_BB = "3"
+
+[[credit.player]]
+source.name = "Disharron"
+source.P_BB = "5"
+
+[[credit.player]]
+source.name = "Lowe"
+source.P_SO = "4"
+
+[[credit.player]]
+source.name = "Disharron"
+source.P_SO = "2"
+
+[[credit.player]]
+source.name = "Wallace"
+source.P_SO = "2"
+
+[[credit.player]]
+source.name = "Lowe"
+source.P_H = "8"
+
+[[credit.player]]
+source.name = "Flynn"
+source.P_H = "5"
+
+[[credit.player]]
+source.name = "Disharron"
+source.P_H = "7"
+
+[[credit.player]]
+source.name = "Wallace"
+source.P_H = "1"
+
+[[credit.player]]
+source.name = "Disharoon"
+source.P_HP = "2"
+
+[[credit.event]]
+source.name = [ "Cleveland", "Kaiser", "Lutz" ]
+source.F_DP = "1"
+
+[[credit.player]]
+source.name = "Cleveland"
+source.F_PB = "1"
+

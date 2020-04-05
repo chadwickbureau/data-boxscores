@@ -1,0 +1,60 @@
+[meta.source]
+title = "Austin American-Statesman"
+date = "1915-04-20"
+
+[game]
+key = "19150419_BRE_fb7d"
+datetime = "1915-04-19"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Middle Texas League"
+duration = "1:30"
+
+[outcome]
+status = "final"
+
+[[umpire]]
+name.last = "Estell"
+
+
+[[team]]
+name = "Schulenburg"
+alignment = "away"
+score = "3"
+inning = [ "0", "1", "0", "0", "0", "1", "1", "0", "0" ]
+
+[team.totals]
+source.B_R = "3"
+source.B_H = "4"
+source.F_E = "3"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Jackson"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Durr"
+
+
+[[team]]
+name = "Brenham [I]"
+alignment = "home"
+score = "1"
+inning = [ "0", "0", "1", "0", "0", "0", "0", "0", "0" ]
+
+[team.totals]
+source.B_R = "1"
+source.B_H = "6"
+source.F_E = "3"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Darnell"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Erwin"
+
+

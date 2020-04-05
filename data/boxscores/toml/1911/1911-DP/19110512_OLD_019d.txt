@@ -1,0 +1,411 @@
+[meta.source]
+title = "Daily Press"
+date = "1911-05-13"
+
+[game]
+key = "19110512_OLD_019d"
+datetime = "1911-05-12"
+season = "1911"
+number = "1"
+double_header = "N"
+league = "Tidewater League"
+duration = "2:15"
+
+[venue]
+attendance = "400"
+
+[outcome]
+status = "final"
+
+[[umpire]]
+name.last = "McCann"
+
+
+[[team]]
+name = "Newport News"
+alignment = "away"
+score = "11"
+inning = [ "0", "6", "0", "0", "5", "0", "0", "0", "0" ]
+
+[team.totals]
+source.B_AB = "40"
+source.B_R = "11"
+source.B_H = "11"
+source.F_PO = "27"
+source.F_A = "9"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Bryan"
+source.B_AB = "4"
+source.B_R = "2"
+source.B_H = "1"
+source.F_PO = "4"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Dowling"
+source.B_AB = "4"
+source.B_R = "2"
+source.B_H = "2"
+source.F_PO = "4"
+source.F_A = "2"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Gorman"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "6"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Barry"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "2"
+source.F_PO = "2"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "O'Brien"
+source.B_AB = "5"
+source.B_R = "2"
+source.B_H = "4"
+source.F_PO = "2"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Schmidt"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Mack"
+source.B_AB = "5"
+source.B_R = "2"
+source.B_H = "1"
+source.F_PO = "4"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Rogers"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "6"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Furssendonn"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Johnson"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "1"
+source.F_E = "0"
+
+
+[[team]]
+name = "Old Point"
+alignment = "home"
+score = "8"
+inning = [ "2", "0", "0", "2", "2", "0", "2", "0", "0" ]
+
+[team.totals]
+source.B_AB = "40"
+source.B_R = "8"
+source.B_H = "15"
+source.F_PO = "27"
+source.F_A = "14"
+source.F_E = "5"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Boyce"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "3"
+source.F_PO = "15"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Logue"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "2"
+source.F_A = "4"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Pierce"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "5"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Allen"
+source.B_AB = "5"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "1"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Shaffer"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "3"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Smith"
+source.B_AB = "5"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "2"
+source.F_A = "3"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Flood"
+source.B_AB = "5"
+source.B_R = "3"
+source.B_H = "2"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Hermann"
+source.B_AB = "5"
+source.B_R = "1"
+source.B_H = "3"
+source.F_PO = "2"
+source.F_A = "1"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Burbank"
+source.B_AB = "0"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Ward"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Murphy"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+
+[[credit.team]]
+source.name = "Newport News"
+source.B_LOB = "6"
+
+[[credit.team]]
+source.name = "Old Point"
+source.B_LOB = "7"
+
+[[credit.team]]
+source.name = "Newport News"
+source.B_ROE = "4"
+
+[[credit.team]]
+source.name = "Old Point"
+source.B_ROE = "2"
+
+[[credit.player]]
+source.name = "Shaffer"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Dowling"
+source.B_2B = "2"
+
+[[credit.player]]
+source.name = "Boyce"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "O'Brien"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Murphy"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Allen"
+source.B_HR = "1"
+
+[[credit.player]]
+source.name = "Flood"
+source.B_HR = "1"
+
+[[credit.player]]
+source.name = "Boyce"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Bryan"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "O'Brien"
+source.B_SB = "2"
+
+[[credit.player]]
+source.name = "Dowling"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Logue"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Boyce"
+source.B_HP = "1"
+
+[[credit.player]]
+source.name = "Burbank"
+source.P_BB = "2"
+
+[[credit.player]]
+source.name = "Murphy"
+source.P_BB = "1"
+
+[[credit.player]]
+source.name = "Johnson"
+source.P_BB = "3"
+
+[[credit.player]]
+source.name = "Furssendonn"
+source.P_SO = "2"
+
+[[credit.player]]
+source.name = "Johnson"
+source.P_SO = "3"
+
+[[credit.player]]
+source.name = "Burbank"
+source.P_H = "5"
+
+[[credit.player]]
+source.name = "Ward"
+source.P_H = "4"
+
+[[credit.player]]
+source.name = "Murphy"
+source.P_H = "2"
+
+[[credit.player]]
+source.name = "Furssendonn"
+source.P_H = "9"
+
+[[credit.player]]
+source.name = "Johnson"
+source.P_H = "6"
+
+[[credit.player]]
+source.name = "Burbank"
+source.P_IP = "1.1"
+
+[[credit.player]]
+source.name = "Ward"
+source.P_IP = "2.2"
+
+[[credit.player]]
+source.name = "Murphy"
+source.P_IP = "5"
+
+[[credit.player]]
+source.name = "Furssendonn"
+source.P_IP = "4"
+
+[[credit.player]]
+source.name = "Johnson"
+source.P_IP = "5"
+
+[[credit.player]]
+source.name = "Johnson"
+source.P_HP = "1"
+
+[[credit.player]]
+source.name = "Burbank"
+infer.P_GS = "1"
+
+[[credit.player]]
+source.name = "Furssendonn"
+source.P_GS = "1"
+
+[[credit.player]]
+source.name = "Johnson"
+infer.P_GF = "1"
+
+[[credit.player]]
+source.name = "Murphy"
+infer.P_GF = "1"
+

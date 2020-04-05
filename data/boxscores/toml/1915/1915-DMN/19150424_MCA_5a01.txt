@@ -1,0 +1,24 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-04-25"
+
+[game]
+key = "19150424_MCA_5a01"
+datetime = "1915-04-24"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Western Association"
+
+[outcome]
+status = "postponed"
+reason = "rain"
+
+[[team]]
+name = "Fort Smith"
+alignment = "away"
+
+[[team]]
+name = "McAlester"
+alignment = "home"
+

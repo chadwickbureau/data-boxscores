@@ -1,0 +1,292 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-05-19"
+
+[game]
+key = "19150518_TAY_bff4"
+datetime = "1915-05-18"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Middle Texas League"
+duration = "2:07"
+
+[outcome]
+status = "final"
+
+[[umpire]]
+name.last = "Rankin"
+
+
+[[team]]
+name = "Belton"
+alignment = "away"
+score = "17"
+inning = [ "4", "0", "0", "2", "4", "0", "2", "5", "0" ]
+
+[team.totals]
+source.B_AB = "46"
+source.B_R = "17"
+source.B_H = "20"
+source.F_PO = "27"
+source.F_A = "16"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Hovel"
+source.B_AB = "3"
+source.B_R = "3"
+source.B_H = "0"
+source.F_PO = "3"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Williamson"
+source.B_AB = "6"
+source.B_R = "2"
+source.B_H = "4"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Lawson"
+source.B_AB = "5"
+source.B_R = "2"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Kizzar"
+source.B_AB = "6"
+source.B_R = "2"
+source.B_H = "5"
+source.F_PO = "7"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Fenner"
+source.name.first = "J."
+source.B_AB = "6"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Carey"
+source.B_AB = "6"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Fenner"
+source.name.first = "C."
+source.B_AB = "4"
+source.B_R = "3"
+source.B_H = "2"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Naylor"
+source.B_AB = "5"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "15"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Johnson"
+source.B_AB = "5"
+source.B_R = "3"
+source.B_H = "4"
+source.F_PO = "0"
+source.F_A = "15"
+source.F_E = "0"
+
+
+[[team]]
+name = "Taylor"
+alignment = "home"
+score = "4"
+inning = [ "1", "0", "0", "0", "1", "0", "0", "2", "0" ]
+
+[team.totals]
+source.B_AB = "38"
+source.B_R = "4"
+source.B_H = "10"
+source.F_PO = "27"
+source.F_A = "14"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Reinecke"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "7"
+source.F_A = "0"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Edmonds"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "4"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Jordan"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "2"
+source.F_PO = "7"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Breaux"
+source.B_AB = "5"
+source.B_R = "1"
+source.B_H = "3"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Wende"
+source.B_AB = "5"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "7"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Montague"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Enhlo"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Stitler"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Wiggins"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "7"
+source.F_E = "0"
+
+
+[[credit.team]]
+source.name = "Taylor"
+source.B_LOB = "6"
+
+[[credit.team]]
+source.name = "Belton"
+source.B_LOB = "10"
+
+[[credit.player]]
+source.name = "Williamson"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Kizzar"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Johnson"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Breaux"
+source.B_2B = "2"
+
+[[credit.player]]
+source.name = "Lawson"
+source.B_HR = "1"
+
+[[credit.player]]
+source.name = "Kizzar"
+source.B_HR = "1"
+
+[[credit.player]]
+source.name = "Naylor"
+source.B_HR = "1"
+
+[[credit.player]]
+source.name = "C. Fenner"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Montague"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "C. Fenner"
+source.B_HP = "1"
+
+[[credit.player]]
+source.name = "Johnson"
+source.P_SO = "13"
+
+[[credit.player]]
+source.name = "Wiggins"
+source.P_SO = "5"
+
+[[credit.player]]
+source.name = "Wiggins"
+source.P_HP = "1"
+

@@ -1,0 +1,309 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-04-18"
+
+[game]
+key = "19150417_CIT_c6e1"
+datetime = "1915-04-17"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Dallas Bankers League"
+
+[outcome]
+status = "final"
+
+[[umpire]]
+name.last = "Pondrom"
+
+
+[[team]]
+name = "Security"
+alignment = "away"
+score = "1"
+inning = [ "0", "0", "0", "0", "0", "0", "1", "0", "0" ]
+
+[team.totals]
+source.B_AB = "31"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "24"
+source.F_A = "7"
+source.F_E = "7"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Rogers"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Graves"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Thompson"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "9"
+source.F_A = "0"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Brayles"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Wisdom"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Van Winkle"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "9"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Ayres"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Barnett"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "4"
+source.F_E = "4"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Ikard"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "2"
+source.F_E = "1"
+
+
+[[team]]
+name = "City Nationals"
+alignment = "home"
+score = "5"
+inning = [ "0", "1", "0", "0", "0", "0", "0", "4", "x" ]
+
+[team.totals]
+source.B_AB = "34"
+source.B_R = "5"
+source.B_H = "5"
+source.F_PO = "27"
+source.F_A = "10"
+source.F_E = "6"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Adams"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "4"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Oldham"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "12"
+source.F_A = "0"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Darr"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Lewis"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Payne"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "4"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Roberts"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "601"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Jack"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "2"
+source.F_A = "2"
+source.F_E = "3"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Burlew"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "7"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Ferguson"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "3"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "McConnell"
+source.B_AB = "0"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "602"
+
+
+[[credit.team]]
+source.name = "Security"
+source.B_ROE = "3"
+
+[[credit.team]]
+source.name = "City Nationals"
+source.B_ROE = "5"
+
+[[credit.player]]
+source.name = "Lewis"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Adams"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Payne"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Ferguson"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Brayles"
+source.B_SB = "2"
+
+[[credit.player]]
+source.name = "Graves"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Van Winkle"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Ikard"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Ferguson"
+source.P_BB = "1"
+
+[[credit.player]]
+source.name = "Ikard"
+source.P_BB = "1"
+
+[[credit.player]]
+source.name = "Ferguson"
+source.P_SO = "7"
+
+[[credit.player]]
+source.name = "Ikard"
+source.P_SO = "8"
+
+[[credit.player]]
+source.name = "Ikard"
+source.P_IP = "2"
+
+[[credit.event]]
+source.name = [ "Jack" ]
+source.F_DP = "1"
+
+[[credit.player]]
+source.name = "Thompson"
+source.F_PB = "1"
+

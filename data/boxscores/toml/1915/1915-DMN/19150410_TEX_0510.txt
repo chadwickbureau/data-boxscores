@@ -1,0 +1,302 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-04-11"
+
+[game]
+key = "19150410_TEX_0510"
+datetime = "1915-04-10"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Dallas Commercial League"
+duration = "1:45"
+
+[outcome]
+status = "final"
+
+[[umpire]]
+name.last = "Dawkins"
+
+
+[[team]]
+name = "Magnolia"
+alignment = "away"
+score = "2"
+inning = [ "0", "0", "0", "0", "0", "0", "2", "0", "0" ]
+
+[team.totals]
+source.B_AB = "40"
+source.B_R = "2"
+source.B_H = "13"
+source.F_PO = "24"
+source.F_A = "10"
+source.F_E = "3"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Wilkerson"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "3"
+source.F_PO = "8"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Nobles"
+source.B_AB = "5"
+source.B_R = "1"
+source.B_H = "3"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Sinclair"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "11"
+source.F_A = "1"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Braley"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "2"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Fitz-rick"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "McCammon"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Bridges"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "3"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Young"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "2"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Mitchell"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "2"
+source.F_PO = "0"
+source.F_A = "4"
+source.F_E = "0"
+
+
+[[team]]
+name = "Texas & Pacific"
+alignment = "home"
+score = "4"
+inning = [ "2", "1", "0", "0", "0", "1", "0", "0", "x" ]
+
+[team.totals]
+source.B_AB = "33"
+source.B_R = "4"
+source.B_H = "10"
+source.F_PO = "27"
+source.F_A = "19"
+source.F_E = "3"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Self"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "0"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Green"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "2"
+source.F_PO = "6"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Appleby"
+source.B_AB = "4"
+source.B_R = "2"
+source.B_H = "2"
+source.F_PO = "5"
+source.F_A = "0"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Oliver"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "4"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Battle"
+source.B_AB = "4"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Anderson"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "601"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Florence"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "4"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Hawkins"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "3"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Orr"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Wil'mson"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "1"
+source.F_E = "0"
+infer.batorder = "602"
+
+
+[[credit.team]]
+source.name = "Magnolia"
+source.B_LOB = "10"
+
+[[credit.team]]
+source.name = "Texas & Pacific"
+source.B_LOB = "6"
+
+[[credit.team]]
+source.name = "Texas & Pacific"
+source.B_ROE = "1"
+
+[[credit.player]]
+source.name = "Self"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Green"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Battle"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "McCammon"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Mitchell"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Florence"
+source.P_BB = "2"
+
+[[credit.player]]
+source.name = "Mitchell"
+source.P_BB = "1"
+
+[[credit.player]]
+source.name = "Florence"
+source.P_SO = "5"
+
+[[credit.player]]
+source.name = "Mitchell"
+source.P_SO = "8"
+
+[[credit.player]]
+source.name = "Florence"
+source.P_HP = "2"
+
+[[credit.player]]
+source.name = "Mitchell"
+source.P_HP = "1"
+
+[[credit.player]]
+source.name = "Green"
+source.F_PB = "1"
+

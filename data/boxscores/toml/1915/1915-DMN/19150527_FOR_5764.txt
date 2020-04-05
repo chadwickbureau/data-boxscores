@@ -1,0 +1,322 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-05-28"
+
+[game]
+key = "19150527_FOR_5764"
+datetime = "1915-05-27"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Western Association"
+duration = "3:15"
+
+[outcome]
+status = "completed early"
+reason = "darkness"
+
+[[umpire]]
+name.last = "Morgan"
+
+
+[[team]]
+name = "Muskogee"
+alignment = "away"
+score = "1"
+inning = [ "0", "0", "0", "0", "0", "0", "0", "0", "1", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ]
+
+[team.totals]
+source.B_AB = "64"
+source.B_R = "1"
+source.B_H = "9"
+source.F_PO = "27"
+source.F_A = "25"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Henderson"
+source.B_AB = "7"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Tacke"
+source.B_AB = "7"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "27"
+source.F_A = "0"
+source.F_E = "2"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Robison"
+source.name.first = "T."
+source.B_AB = "6"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "6"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Eunick"
+source.B_AB = "8"
+source.B_R = "1"
+source.B_H = "2"
+source.F_PO = "2"
+source.F_A = "4"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Lipps"
+source.B_AB = "8"
+source.B_R = "0"
+source.B_H = "2"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Palmer"
+source.B_AB = "8"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "5"
+source.F_A = "6"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Robison"
+source.name.first = "J."
+source.B_AB = "7"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "3"
+source.F_A = "5"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Herman"
+source.B_AB = "6"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "10"
+source.F_A = "4"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Morgan"
+source.B_AB = "7"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "6"
+source.F_E = "0"
+
+
+[[team]]
+name = "Fort Smith"
+alignment = "home"
+score = "1"
+inning = [ "0", "0", "0", "0", "0", "0", "1", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ]
+
+[team.totals]
+source.B_AB = "59"
+source.B_R = "1"
+source.B_H = "7"
+source.F_PO = "58"
+source.F_A = "28"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "McCarty"
+source.B_AB = "6"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "7"
+source.F_A = "7"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Leininger"
+source.B_AB = "7"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "2"
+source.F_A = "6"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Robison"
+source.name.first = "B."
+source.B_AB = "6"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "3"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Adams"
+source.B_AB = "5"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "16"
+source.F_A = "4"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Mosley"
+source.B_AB = "6"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "26"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Cowan"
+source.B_AB = "8"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "3"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Corgan"
+source.B_AB = "7"
+source.B_R = "0"
+source.B_H = "2"
+source.F_PO = "2"
+source.F_A = "5"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Abington"
+source.B_AB = "7"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Zinn"
+source.B_AB = "7"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "3"
+source.F_E = "0"
+
+
+[[credit.team]]
+source.name = "Fort Smith"
+source.B_LOB = "14"
+
+[[credit.team]]
+source.name = "Muskogee"
+source.B_LOB = "12"
+
+[[credit.player]]
+source.name = "Henderson"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "B. Robison"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Eunick"
+source.B_3B = "1"
+
+[[credit.player]]
+source.name = "McCarty"
+source.B_SB = "2"
+
+[[credit.player]]
+source.name = "Corgan"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Mosley"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Abington"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Abington"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Zinn"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Adams"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "T. Robison"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Adams"
+source.B_HP = "1"
+
+[[credit.player]]
+source.name = "Morgan"
+source.P_BB = "5"
+
+[[credit.player]]
+source.name = "Zinn"
+source.P_BB = "9"
+
+[[credit.player]]
+source.name = "Morgan"
+source.P_SO = "5"
+
+[[credit.player]]
+source.name = "Zinn"
+source.P_SO = "13"
+
+[[credit.player]]
+source.name = "Morgan"
+source.P_HP = "1"
+
+[[credit.player]]
+source.name = "Morgan"
+source.P_WP = "2"
+
+[[credit.event]]
+source.name = [ "B. Robison", "Leininger", "McCarty" ]
+source.F_DP = "1"
+
+[[credit.event]]
+source.name = [ "Tacke" ]
+source.F_DP = "1"
+

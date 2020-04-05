@@ -1,0 +1,24 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-04-27"
+
+[game]
+key = "19150426_SHR_7718"
+datetime = "1915-04-26"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Texas League"
+
+[outcome]
+status = "postponed"
+reason = "rain"
+
+[[team]]
+name = "San Antonio"
+alignment = "away"
+
+[[team]]
+name = "Shreveport"
+alignment = "home"
+

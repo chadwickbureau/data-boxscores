@@ -1,0 +1,309 @@
+[meta.source]
+title = "San Francisco Examiner"
+date = "1910-05-22"
+
+[game]
+key = "19100521_SAC_697e"
+datetime = "1910-05-21"
+season = "1910"
+number = "1"
+double_header = "N"
+league = "Pacific Coast League"
+duration = "1:25"
+
+[outcome]
+status = "final"
+
+[[umpire]]
+name.last = "Hildebrand"
+
+
+[[team]]
+name = "San Francisco"
+alignment = "away"
+score = "0"
+inning = [ "0", "0", "0", "0", "0", "0", "0", "0", "0" ]
+
+[team.totals]
+source.B_AB = "29"
+source.B_R = "0"
+source.B_H = "3"
+source.F_PO = "24"
+source.F_A = "14"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Vitt"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Mohler"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "3"
+source.F_E = "0"
+infer.batorder = "201"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Melchoir"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Tennant"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "12"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Bodie"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "3"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Lewis"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "1"
+source.F_PO = "0"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Williams"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "2"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Berry"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "2"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "McArdle"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "2"
+source.F_A = "4"
+source.F_E = "1"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Willis"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "3"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "PH"
+source.name.last = "Shaw"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "0"
+source.F_E = "0"
+infer.batorder = "202"
+source.substitution = "*"
+
+
+[[team]]
+name = "Sacramento"
+alignment = "home"
+score = "4"
+inning = [ "0", "0", "0", "0", "4", "0", "0", "0", "x" ]
+
+[team.totals]
+source.B_AB = "24"
+source.B_R = "4"
+source.B_H = "6"
+source.F_PO = "27"
+source.F_A = "10"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "SS"
+source.name.last = "Shinn"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "4"
+source.F_A = "4"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "LF"
+source.name.last = "Pearson"
+source.B_AB = "2"
+source.B_R = "1"
+source.B_H = "0"
+source.F_PO = "1"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "CF"
+source.name.last = "Perry"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "2"
+source.F_PO = "4"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "RF"
+source.name.last = "Briggs"
+source.B_AB = "4"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "3"
+source.F_A = "0"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "3B"
+source.name.last = "Reams"
+source.B_AB = "3"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "0"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "1B"
+source.name.last = "Van Buren"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "10"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "2B"
+source.name.last = "Darringer"
+source.B_AB = "2"
+source.B_R = "0"
+source.B_H = "2"
+source.F_PO = "2"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "C"
+source.name.last = "Spiesman"
+source.B_AB = "1"
+source.B_R = "0"
+source.B_H = "0"
+source.F_PO = "2"
+source.F_A = "1"
+source.F_E = "0"
+
+[[team.player]]
+source.F_POS = "P"
+source.name.last = "Whalen"
+source.B_AB = "3"
+source.B_R = "1"
+source.B_H = "1"
+source.F_PO = "1"
+source.F_A = "2"
+source.F_E = "0"
+
+
+[[credit.team]]
+source.name = "San Francisco"
+source.B_LOB = "2"
+
+[[credit.team]]
+source.name = "Sacramento"
+source.B_LOB = "3"
+
+[[credit.player]]
+source.name = "Melchoir"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Van Buren"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Whalen"
+source.B_2B = "1"
+
+[[credit.player]]
+source.name = "Pearson"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Perry"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Reams"
+source.B_SB = "1"
+
+[[credit.player]]
+source.name = "Darringer"
+source.B_SH = "1"
+
+[[credit.player]]
+source.name = "Spiesman"
+source.B_SH = "2"
+
+[[credit.player]]
+source.name = "Pearson"
+source.B_HP = "1"
+
+[[credit.player]]
+source.name = "Willis"
+source.P_BB = "4"
+
+[[credit.player]]
+source.name = "Willis"
+source.P_SO = "2"
+
+[[credit.player]]
+source.name = "Whalen"
+source.P_SO = "2"
+

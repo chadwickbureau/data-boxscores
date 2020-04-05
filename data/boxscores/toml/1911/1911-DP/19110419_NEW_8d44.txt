@@ -1,0 +1,24 @@
+[meta.source]
+title = "Daily Press"
+date = "1911-04-20"
+
+[game]
+key = "19110419_NEW_8d44"
+datetime = "1911-04-19"
+season = "1911"
+number = "1"
+double_header = "N"
+league = "Tidewater League"
+
+[outcome]
+status = "postponed"
+reason = "rain"
+
+[[team]]
+name = "Old Point"
+alignment = "away"
+
+[[team]]
+name = "Newport News"
+alignment = "home"
+

@@ -1,0 +1,24 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1916-05-24"
+
+[game]
+key = "19150523_TUL_713a"
+datetime = "1915-05-23"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Western Association"
+
+[outcome]
+status = "postponed"
+reason = "rain"
+
+[[team]]
+name = "McAlester"
+alignment = "away"
+
+[[team]]
+name = "Tulsa"
+alignment = "home"
+

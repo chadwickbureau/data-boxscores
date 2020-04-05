@@ -1,0 +1,24 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-05-06"
+
+[game]
+key = "19150505_FOR_d72a"
+datetime = "1915-05-05"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Texas League"
+
+[outcome]
+status = "postponed"
+reason = "rain"
+
+[[team]]
+name = "San Antonio"
+alignment = "away"
+
+[[team]]
+name = "Fort Worth"
+alignment = "home"
+

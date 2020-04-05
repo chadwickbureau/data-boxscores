@@ -1,0 +1,24 @@
+[meta.source]
+title = "Dallas Morning News"
+date = "1915-04-25"
+
+[game]
+key = "19150424_DEN_be5a"
+datetime = "1915-04-24"
+season = "1915"
+number = "1"
+double_header = "N"
+league = "Western Association"
+
+[outcome]
+status = "postponed"
+reason = "rain"
+
+[[team]]
+name = "Oklahoma City"
+alignment = "away"
+
+[[team]]
+name = "Denison"
+alignment = "home"
+
