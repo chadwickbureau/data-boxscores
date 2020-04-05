@@ -2,6 +2,7 @@ import sys
 import datetime
 from collections import OrderedDict
 import pprint
+import hashlib
 
 import colorama as clr
 import json
@@ -14,13 +15,10 @@ from . import schema
 substitution_keys = ["*", "+", "^", "&", "$"]
 
 
-def print_error(game, msg):
-    print(f"In [{game['game']['datetime']}] "
-          f"{find_alignment(game, 'away')['team']['name']} at "
-          f"{find_alignment(game, 'home')['team']['name']}")
+def print_error(msg: str):
     print(clr.Fore.RED + msg + clr.Fore.RESET)
 
-def print_warning(msg):
+def print_warning(msg: str):
     print(clr.Fore.YELLOW + msg + clr.Fore.RESET)
 
 def data_pairs(text):
@@ -45,12 +43,15 @@ def process_key(key, value):
 
 def process_source(key, value):
     title, d = (x.strip() for x in value.split(",", 1))
-    d = datetime.datetime.strptime(d, "%B %d, %Y")
-    d = d.strftime("%Y-%m-%d")
-    return {
-        "meta.source.title": title,
-        "meta.source.date": d
-    }
+    try:
+        d = datetime.datetime.strptime(d, "%B %d, %Y")
+        d = d.strftime("%Y-%m-%d")
+        return {
+            "meta.source.title": title,
+            "meta.source.date": d
+        }
+    except ValueError:
+        print_error(f"Invalid date {d} in source")
 
 
 def process_status(key, status):
@@ -71,6 +72,12 @@ def process_status(key, status):
 
 def process_status_reason(key, reason):
     return {"outcome.reason": reason}
+
+
+def process_outsatend(key, value):
+    if value == "":
+        return {}
+    return {"outcome.outsatend": value.replace("#", "")}
 
 
 def process_attendance(game, value):
@@ -148,34 +155,34 @@ def process_team(game, value, alignment):
 def process_player(key, value, columns):
     player = OrderedDict({"name__last": None, "name__first": None})
     try:
-        name, player["F_POS"] = map(lambda x: x.strip(), key.split("@"))
-        for p in player["F_POS"].split("-"):
-            if p not in ["p", "c", "1b", "2b", "3b", "ss",
-                         "lf", "cf", "rf", "ph", "pr", "?"]:
-                print("\n".join([
-                    f"In file {self.metadata['filename']},",
-                    f"   game {self}",
-                    f"  Unknown position in '{key}'"]
-                            )
-                          )
-        player["F_POS"] = player["F_POS"].upper()
+        name, player["source__F_POS"] = map(lambda x: x.strip(), key.split("@"))
+        player["source__F_POS"] = player["source__F_POS"].upper()
     except ValueError:
-        print(f"In file {self.metadata['filename']},\n   game {self}")
-        print(f"  Missing name or position in '{key}'")
+        print_error(f"Missing name or position in '{key}'")
         name = key
 
     if "," in name:
         last, first = (x.strip() for x in name.split(","))
-        player[f"name__last"] = last
-        player[f"name__first"] = first
+        player[f"source__name__last"] = last
+        player[f"source__name__first"] = first
     else:
-        player[f"name__last"] = name
+        player[f"source__name__last"] = name
     for (col, stat) in zip(columns, value.split()):
         if stat.lower() != "x":
             player[col] = int(stat.strip())
-    if player["name__last"][0] in substitution_keys:
-        player["substitution"] = player["name__last"][0]
-        player["name__last"] = player["name__last"][1:]
+    if player["source__name__last"].startswith("("):
+        slot, player["source__name__last"] = (
+            player["source__name__last"][1:].split(")")
+        )
+        slot = slot.replace("~", "")
+        slot, seq = (x.strip() for x in slot.split("."))
+        player["infer__batorder"] = str(100*int(slot) + int(seq))
+    if player["source__name__last"][0] in substitution_keys:
+        player["source__substitution"] = player["source__name__last"][0]
+        player["source__name__last"] = player["source__name__last"][1:]
+    for key in substitution_keys:
+        if key in player["source__name__last"]:
+            print_warning(f"Mis-formatted player name {name}")
     return OrderedDict({k: v
                         for k, v in player.items() if v is not None})
         
@@ -184,7 +191,7 @@ def process_totals(alignment, value, columns):
     totals = {}
     for (col, stat) in zip(columns, value.split()):
         if stat.lower() != "x":
-            totals[f"team.{alignment}.totals.source__{col}"] = (
+            totals[f"team.{alignment}.totals.{col}"] = (
                 int(stat.strip())
             )
     return totals
@@ -193,10 +200,16 @@ def process_totals(alignment, value, columns):
 def process_player_list(alignment, header, lines):
     # "DI" is used sporadically in Winnipeg paper in 1915;
     # we assume it is RBI
-    categorymap = {"ab": "B_AB", "r": "B_R", "h": "B_H",
-                   "di": "B_RBI", "rbi": "B_RBI",
-                   "sh": "B_SH", "sb": "B_SB",
-                   "po": "F_PO", "a": "F_A", "e": "F_E"}
+    categorymap = {"ab": "source__B_AB",
+                   "r": "source__B_R",
+                   "h": "source__B_H",
+                   "di": "source__B_RBI",
+                   "rbi": "source__B_RBI",
+                   "sh": "source__B_SH",
+                   "sb": "source__B_SB",
+                   "po": "source__F_PO",
+                   "a": "source__F_A",
+                   "e": "source__F_E"}
 
     try:
         columns = [categorymap[c]
@@ -218,7 +231,7 @@ def process_player_list(alignment, header, lines):
         if key == "TOTALS":
             data.update(process_totals(alignment, value, columns))
             break
-        data.update({f"team.{alignment}.player.player{index:02}.source__{k}": v
+        data.update({f"team.{alignment}.player.player{index:02}.{k}": v
                      for k, v in
                      process_player(key, value, columns).items()})
         index += 1
@@ -254,10 +267,13 @@ def process_credit(key, value):
                 # This will also trigger a value error if count not number
                 float(count)
             except ValueError:
-                print(f"ERROR: Ill-formed details string {value}")
-                sys.exit(1)
+                print_error(f"Ill-formed details string {value} for {key}")
+                continue
         else:
             name, count = entry, "1"
+        if name == "":
+            print_warning(f"Empty name in list for {key}")
+            continue
         if name[0] == "~":
             name = name[1:]
             stat_type = "infer"
@@ -265,6 +281,23 @@ def process_credit(key, value):
             stat_type = "source"
         data[f"credits.{key}_credit{index+1:02}.source__name"] = name
         data[f"credits.{key}_credit{index+1:02}.{stat_type}__{key}"] = str(count)
+    return data
+
+
+def process_xo(key, value):
+    data = {}
+    if value == "":
+        return data
+    for (index, entry) in enumerate([x.strip() for x in value.split(";")]):
+        name, reason = (x.strip() for x in entry.split(","))
+        if name[0] == "~":
+            name = name[1:]
+            stat_type = "infer"
+        else:
+            stat_type = "source"
+        data[f"credits.{key}_credit{index+1:02}.source__name"] = name
+        data[f"credits.{key}_credit{index+1:02}.{stat_type}__B_XO"] = "1"
+        data[f"credits.{key}_credit{index+1:02}.{stat_type}__note"] = reason
     return data
 
 
@@ -302,6 +335,7 @@ def transform_game(txt):
         "league": process_league,
         "status": process_status,
         "status-reason": process_status_reason,
+        "outsatend": process_outsatend,
         "t": process_duration,
         "a": process_attendance,
         "away": lambda g, v: process_team(g, v, "away"),
@@ -317,6 +351,7 @@ def transform_game(txt):
         "b_sf": process_credit,
         "b_sb": process_credit,
         "b_roe": process_credit,
+        "b_xo": process_xo,
         "p_gs": process_credit,
         "p_gf": process_credit,
         "p_w": process_credit,
@@ -451,13 +486,21 @@ def canonical_toml(game: dict):
 def assign_key(game):
     if game['game']['key'] != "None":
         return game
+    
+    slug = (
+        (game['game']['league'].replace(" ", "") + ":" +
+         game['game']['datetime'] + ":" +
+         game['team']['away']['name'].replace(" ", "") + "@" +
+         game['team']['home']['name'].replace(" ", "") +
+         "#" + game['game']['number'])
+    )
     game['game']['key'] = (
-        game['game']['datetime'][:10].replace("-", "") +
+        game['game']['datetime'][:10].replace("-", "") + "_" +
         (
             game['team']['home']['name']
-            .replace(" ", "").replace(".", "")[:3].upper()
-        ) +
-        game['game']['number']
+            .replace(" ", "").replace(".", "").upper()[:3]
+        ) + "_" +
+        hashlib.sha1(slug.encode('utf-8')).hexdigest()[:4]
     )
     return game
 

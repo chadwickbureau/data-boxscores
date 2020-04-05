@@ -44,7 +44,7 @@ def validate_position(x):
         return False
     for pos in x.split("-"):
         if pos not in ["P", "C", "1B", "2B", "3B", "SS", "LF", "CF", "RF",
-                       "PH", "PR"]:
+                       "PH", "PR", "?"]:
             return False
     return True
 
@@ -114,12 +114,14 @@ class PlayerStatTotalsSchema(StatTotalsSchema):
     """Schema for player stat totals."""
     name = marsh.fields.Nested(PersonNameSchema)
     F_POS = marsh.fields.Str(validate=validate_position)
+    batorder = marsh.fields.Str(validate=validate_integer)
     substitution = marsh.fields.Str()
     
     
 class PlayerSchema(marsh.Schema):
     """Schema for player entry on a team."""
     source = marsh.fields.Nested(PlayerStatTotalsSchema)
+    infer = marsh.fields.Nested(PlayerStatTotalsSchema)
 
 
 class TeamTotalsSchema(marsh.Schema):
@@ -153,7 +155,14 @@ class CreditDetailSchema(marsh.Schema):
     B_SH = marsh.fields.Str(validate=validate_integer)
     B_SF = marsh.fields.Str(validate=validate_integer)
     B_SB = marsh.fields.Str(validate=validate_integer)
+    B_XO = marsh.fields.Str(validate=validate_integer)
+    P_GS = marsh.fields.Str(validate=validate_integer)
+    P_GF = marsh.fields.Str(validate=validate_integer)
+    P_W = marsh.fields.Str(validate=validate_integer)
+    P_L = marsh.fields.Str(validate=validate_integer)
+    P_SV = marsh.fields.Str(validate=validate_integer)
     P_IP = marsh.fields.Str(validate=validate_IP)
+    P_R = marsh.fields.Str(validate=validate_integer)
     P_H = marsh.fields.Str(validate=validate_integer)
     P_BB = marsh.fields.Str(validate=validate_integer)
     P_SO = marsh.fields.Str(validate=validate_integer)
@@ -161,6 +170,7 @@ class CreditDetailSchema(marsh.Schema):
     P_WP = marsh.fields.Str(validate=validate_integer)
     P_BK = marsh.fields.Str(validate=validate_integer)
     F_PB = marsh.fields.Str(validate=validate_integer)
+    note = marsh.fields.Str()
 
 
 class CreditSchema(marsh.Schema):
@@ -201,6 +211,9 @@ class GameOutcomeSchema(marsh.Schema):
                                        "final", "postponed", "scheduled"])
     )
     reason = marsh.fields.Str()
+    outsatend = marsh.fields.Str(
+        validate=marsh.validate.OneOf(["0", "1", "2"])
+    )
 
     
 class BoxscoreSchema(marsh.Schema):
