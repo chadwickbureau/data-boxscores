@@ -476,7 +476,8 @@ league: Middle Texas
 away: Bartlett
 home: Austin 
 source: Austin American-Statesman, April 20, 1915
-note: game called after 7th due to darkness
+status: completed early, darkness
+
 
 Bartlett:	ab r h po a e
 Davis @ 1b:	4 1 2 7 1 0 
