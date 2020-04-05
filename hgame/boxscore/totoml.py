@@ -104,6 +104,10 @@ def process_substitution(key, value):
 
 
 def process_league(key, value):
+    if value.endswith("Assn"):
+        value = value.replace("Assn", "Association")
+    if "Association" not in value and "League" not in value:
+        value = value + " League"
     return {"game.league": value}
 
 
