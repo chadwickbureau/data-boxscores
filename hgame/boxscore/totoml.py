@@ -1,6 +1,7 @@
 import sys
 import datetime
 from collections import OrderedDict
+import pprint
 
 import colorama as clr
 import json
@@ -336,7 +337,7 @@ def process_dp_tp(key, value):
 
 
 def transform_game(txt):
-    game = OrderedDict()
+    game = OrderedDict({'game.key': None})
     lines = data_pairs(txt)
     lookup = {
         "key": process_key,
@@ -418,9 +419,9 @@ def validate_game(doc_schema, doc):
     result = doc_schema.validate(doc, partial=False)
     if result:
         print()
-        print(doc)
+        pprint.pprint(doc)
         print("Found the following validation errors:")
-        print(result)
+        pprint.pprint(result)
         print()
         sys.exit(1)
 
@@ -491,7 +492,7 @@ def canonical_toml(game: dict):
 
 
 def assign_key(game):
-    if 'key' in game['game']:
+    if game['game']['key'] != "None":
         return game
     game['game']['key'] = (
         game['game']['datetime'][:10].replace("-", "") +
