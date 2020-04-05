@@ -264,7 +264,7 @@ league: Rio Grande Association
 away: Tucson 
 home: Phoenix
 source: Albuquerque Journal, July 3, 1915
-note: game called after 6th
+status: completed early, called after 6th
 
 Tucson:		r h e
 McConnell @ p:	x x x
@@ -474,7 +474,7 @@ league: Rio Grande Association
 away: Albuquerque 
 home: El Paso 
 source: Albuquerque Journal, July 6, 1915
-note: game called after 7th by agreement
+status: completed early, by agreement
 
 Albuquerque:	ab r h po a e
 Murphy @ cf:	3 0 2 0 0 0
