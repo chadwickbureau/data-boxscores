@@ -469,6 +469,15 @@ def assign_key(game):
     )
     return game
 
+
+def assign_scores(game):
+    """Cleanup games without linescores to include team score
+    based on team totals."""
+    for team in game['team'].values():
+        if 'score' not in team and 'totals' in team:
+            team['score'] = team['totals']['source__B_R']
+    return game
+
     
 def iterate_games(fn):
     """Return an iterator over the text of each individual game
@@ -485,6 +494,7 @@ def iterate_games(fn):
         game = transform_game(txt)
         game = toml.loads(flat_serialise(game))
         game = assign_key(game)
+        game = assign_scores(game)
         print(f"[{game['game']['key']}] "
               f"{game['game']['datetime']} {game['game']['number']} "
               f"{game['team']['away']['name']:<15} @ "
