@@ -63,7 +63,7 @@ def validate_duration(x):
 
 
 def validate_linescore(x):
-    return x == "x" or validate_integer(x)
+    return x in ["x", "?"] or validate_integer(x)
 
 
 class GameSourceSchema(marsh.Schema):

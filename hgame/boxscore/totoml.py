@@ -230,26 +230,14 @@ def process_linescore(teams, text):
     try:
         club, score = (x.strip() for x in text.split(":"))
     except ValueError:
-        print("In file %s,\n   game %s" % (self.metadata['filename'],
-                                        self))
-        print("  Ill-formed linescore string '%s'" % value)
+        print_warning(f"  Ill-formed linescore string '{value}'")
         return
 
     alignment = teams[club]
     byinning, total = map(lambda x: x.strip(), score.split("-"))
-    try:
-        int(total)
-    except ValueError:
-        print("\n".join([
-                f"In file {self.metadata['filename']},",
-                f"   game {self}",
-                f"  Invalid linescore total runs '{total}'"]
-                )
-            )
-        total = ""
-
-    data = OrderedDict()
-    data[f"team.{alignment}.score"] = total
+    data = {}
+    if total != "?":
+        data[f"team.{alignment}.score"] = total
     for (inning, value) in enumerate(byinning.split()):
         data[f"team.{alignment}.inning.inning{inning+1:02}"] = value.lower()
     return data
