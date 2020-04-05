@@ -39,44 +39,6 @@ def data_pairs(text):
                                      f"  Invalid key-value pair '{line}'"]))
 
 
-def _serialise_team(team):
-    s = "[[team]]\n"
-    for (key, value) in team.items():
-        if key not in ["players", "totals"]:
-            s += f'{key} = {json.dumps(value)}\n'
-    s += "\n"
-    for player in team["players"].values():
-        s += "[[team.player]]\n"
-        for (k, v) in player.items():
-            s += f'{k} = {json.dumps(v)}\n'
-        s += "\n"
-    if team["totals"]:
-        s += "[team.totals]\n"
-        for (k, v) in team["totals"].items():
-            s += f'{k} = {json.dumps(v)}\n'
-        s += "\n"
-    return s
-
-def serialise(self):
-    """Dump game to TOML format, with depth-first recursion on tables.
-    There are pull requests in the toml library to do this, but it is
-    not as yet supported in the released version.
-    """
-    s = ""
-    for key in ["source", "game", "venue", "status"]:
-        s += toml.dumps({key: self._data[key]}) + "\n"
-    for ump in self._data["umpire"]:
-        s += toml.dumps({"umpire": [ump]}) + "\n"
-    for (key, team) in self._data["teams"].items():
-        s += self._serialise_team(team) + "\n"
-    s += (
-        toml.dumps({"credit": self._data["credit"]})
-        .replace("[credit]\n", "")
-        .replace(",]", " ]") + "\n"
-    )
-    return s
-
-
 def process_key(key, value):
     return {"game.key": value}
 
@@ -98,17 +60,17 @@ def process_status(key, status):
         status, reason = status.strip(), ""
     data = {}
     if status in ["postponed", "completed early", "abandoned"]:
-        data["status.code"] = status
+        data["outcome.status"] = status
     else:
         print_error(f"Unknown status '{status}'")
         sys.exit(1)
     if reason:
-        data["status.reason"] = reason
+        data["outcome.reason"] = reason
     return data
 
 
 def process_status_reason(key, reason):
-    return {"status.reason": reason}
+    return {"outcome.reason": reason}
 
 
 def process_attendance(game, value):
@@ -337,7 +299,8 @@ def process_dp_tp(key, value):
 
 
 def transform_game(txt):
-    game = OrderedDict({'game.key': None})
+    game = OrderedDict({'game.key': None,
+                        'outcome.status': "final"})
     lines = data_pairs(txt)
     lookup = {
         "key": process_key,
@@ -459,7 +422,8 @@ def canonical_toml(game: dict):
         toml.dumps({"meta__source": game['meta']['source']})
         .replace("__", ".") + "\n"
     )
-    txt += toml.dumps({"game": game['game']}) + "\n"
+    for key in ['game', 'outcome']:
+        txt += toml.dumps({key: game[key]}) + "\n"
     for umpire in game.get("umpire", {}).values():
         txt += (
             toml.dumps({"umpire": [umpire]})
