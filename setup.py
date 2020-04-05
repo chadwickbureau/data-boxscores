@@ -14,6 +14,6 @@ setuptools.setup(
     ],
     entry_points="""
         [hgame.cli_plugins]
-        hgame-boxscore=hgame.boxscore.main:boxscore
+        boxscore=hgame.boxscore.main:boxscore
     """,
 )

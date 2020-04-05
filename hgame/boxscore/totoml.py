@@ -1,3 +1,4 @@
+import sys
 import datetime
 from collections import OrderedDict
 
@@ -6,6 +7,7 @@ import json
 import toml
 
 from . import config
+from . import schema
 
 
 substitution_keys = ["*", "+", "^", "&", "$"]
@@ -74,13 +76,17 @@ def serialise(self):
     return s
 
 
+def process_key(key, value):
+    return {"game.key": value}
+
+
 def process_source(key, value):
     title, d = (x.strip() for x in value.split(",", 1))
     d = datetime.datetime.strptime(d, "%B %d, %Y")
     d = d.strftime("%Y-%m-%d")
     return {
-        "source.title": title,
-        "source.date": d
+        "meta.source.title": title,
+        "meta.source.date": d
     }
 
 
@@ -121,10 +127,10 @@ def process_umpires(key, value):
     for (index, name) in enumerate(value.split(";")):
         if "," in name:
             last, first = map(lambda x: x.strip(), name.split(","))
-            data[f"umpire.umpire{index+1:02}.name.last"] = last
-            data[f"umpire.umpire{index+1:02}.name.first"] = first
+            data[f"umpire.umpire{index+1:02}.name__last"] = last
+            data[f"umpire.umpire{index+1:02}.name__first"] = first
         else:
-            data[f"umpire.umpire{index+1:02}.name.last"] = name.strip()
+            data[f"umpire.umpire{index+1:02}.name__last"] = name.strip()
     return data
 
 
@@ -173,7 +179,7 @@ def process_team(game, value, alignment):
 
 
 def process_player(key, value, columns):
-    player = OrderedDict({"name.last": None, "name.first": None})
+    player = OrderedDict({"name__last": None, "name__first": None})
     try:
         name, player["F_POS"] = map(lambda x: x.strip(), key.split("@"))
         for p in player["F_POS"].split("-"):
@@ -193,16 +199,16 @@ def process_player(key, value, columns):
 
     if "," in name:
         last, first = (x.strip() for x in name.split(","))
-        player[f"name.last"] = last
-        player[f"name.first"] = first
+        player[f"name__last"] = last
+        player[f"name__first"] = first
     else:
-        player[f"name.last"] = name
+        player[f"name__last"] = name
     for (col, stat) in zip(columns, value.split()):
         if stat.lower() != "x":
             player[col] = int(stat.strip())
-    if player["name.last"][0] in substitution_keys:
-        player["substitution"] = player["name.last"][0]
-        player["name.last"] = player["name.last"][1:]
+    if player["name__last"][0] in substitution_keys:
+        player["substitution"] = player["name__last"][0]
+        player["name__last"] = player["name__last"][1:]
     return OrderedDict({k: v
                         for k, v in player.items() if v is not None})
         
@@ -211,7 +217,7 @@ def process_totals(alignment, value, columns):
     totals = {}
     for (col, stat) in zip(columns, value.split()):
         if stat.lower() != "x":
-            totals[f"team.{alignment}.totals.source.{col}"] = (
+            totals[f"team.{alignment}.totals.source__{col}"] = (
                 int(stat.strip())
             )
     return totals
@@ -245,7 +251,7 @@ def process_player_list(alignment, header, lines):
         if key == "TOTALS":
             data.update(process_totals(alignment, value, columns))
             break
-        data.update({f"team.{alignment}.player.player{index:02}.source.{k}": v
+        data.update({f"team.{alignment}.player.player{index:02}.source__{k}": v
                      for k, v in
                      process_player(key, value, columns).items()})
         index += 1
@@ -302,8 +308,8 @@ def process_credit(key, value):
             stat_type = "infer"
         else:
             stat_type = "source"
-        data[f"credits.{key}_credit{index+1:02}.source.name"] = name
-        data[f"credits.{key}_credit{index+1:02}.{stat_type}.{key}"] = str(count)
+        data[f"credits.{key}_credit{index+1:02}.source__name"] = name
+        data[f"credits.{key}_credit{index+1:02}.{stat_type}__{key}"] = str(count)
     return data
 
 
@@ -324,8 +330,8 @@ def process_dp_tp(key, value):
             names, count = entry, "1"
         namelist = [x.strip() for x in names.split(",")]
         for (j, name) in enumerate(namelist):
-            data[f"credits.{key}_credit{index+1:02}.source.name.name{j+1:02}"] = name
-        data[f"credits.{key}_credit{index+1:02}.source.{key}"] = str(count)
+            data[f"credits.{key}_credit{index+1:02}.source__name.name{j+1:02}"] = name
+        data[f"credits.{key}_credit{index+1:02}.source__{key}"] = str(count)
     return data
 
 
@@ -333,6 +339,7 @@ def transform_game(txt):
     game = OrderedDict()
     lines = data_pairs(txt)
     lookup = {
+        "key": process_key,
         "source": process_source,
         "date": process_date,
         "number": process_number,
@@ -400,6 +407,103 @@ def transform_game(txt):
     return game
 
 
+def flat_serialise(game):
+    """Create a flat TOML representation of the 'internal' representation.
+    """
+    return "\n".join([f'{key} = "{value}"'
+                      for key, value in game.items()])
+
+
+def validate_game(doc_schema, doc):
+    result = doc_schema.validate(doc, partial=False)
+    if result:
+        print()
+        print(doc)
+        print("Found the following validation errors:")
+        print(result)
+        print()
+        sys.exit(1)
+
+
+def canonical_toml_team(team: dict, subs: dict):
+    """Create a canonical TOML representation of a team."""
+    txt = "[[team]]\n"
+    txt += toml.dumps({k: v
+                       for k, v in team.items()
+                       if k not in ["inning", "totals", "player"]})
+    if "inning" in team:
+        txt += (
+            toml.dumps({"inning": team['inning'].values()})
+            .replace(",]", " ]")
+        )
+    if "totals" in team:
+        txt += "\n"
+        txt += (
+            toml.dumps({"team__totals": team['totals']})
+            .replace("__", ".") + "\n"
+        )
+    for player in team.get("player", {}).values():
+        if "substitution" in player:
+            player["substitution"] = subs[player["substitution"]]
+        txt += (
+            toml.dumps({"team__player": [player]})
+            .replace("__", ".")
+        )
+    return txt
+
+        
+def canonical_toml(game: dict):
+    """Create a canonical TOML representation of the game."""
+    txt = (
+        toml.dumps({"meta__source": game['meta']['source']})
+        .replace("__", ".") + "\n"
+    )
+    txt += toml.dumps({"game": game['game']}) + "\n"
+    for umpire in game.get("umpire", {}).values():
+        txt += (
+            toml.dumps({"umpire": [umpire]})
+            .replace("__", ".") + "\n"
+        )
+    subs = {x['key']: x['text']
+            for x in game.get('substitution', {}).values()}
+    for team in game['team'].values():
+        txt += canonical_toml_team(team, subs) + "\n"
+    for credit in game.get('credits', {}).values():
+        if isinstance(credit['source__name'], dict):
+            credit['source__name'] = credit['source__name'].values()
+            txt += (
+                toml.dumps({"credit__event": [credit]})
+                .replace("__", ".").replace(",]", " ]")
+            )
+            continue
+        if credit['source__name'] in [t['name'] for t in game['team'].values()]:
+            txt += (
+                toml.dumps({"credit__team": [credit]})
+                .replace("__", ".")
+            )
+        else:
+            txt += (
+                toml.dumps({"credit__player": [credit]})
+                .replace("__", ".")
+            )
+    validate_game(schema.BoxscoreSchema(), toml.loads(txt))
+    return txt
+
+
+def assign_key(game):
+    if 'key' in game['game']:
+        return game
+    game['game']['key'] = (
+        game['game']['datetime'][:10].replace("-", "") +
+        (
+            game['team']['home']['name']
+            .replace(" ", "").replace(".", "")[:3].upper()
+        ) +
+        game['game']['number']
+    )
+    return game
+
+    
 def iterate_games(fn):
     """Return an iterator over the text of each individual game
     in file `fn'. All extra whitespace is removed within and at the end of
@@ -412,29 +516,31 @@ def iterate_games(fn):
                                  [' '.join(x.strip().split())
                                   for x in fn.open().readlines()])))
                       .rstrip("-").split("---\n")):
-        yield transform_game(txt)
+        game = transform_game(txt)
+        game = toml.loads(flat_serialise(game))
+        game = assign_key(game)
+        print(f"[{game['game']['key']}] "
+              f"{game['game']['datetime']} {game['game']['number']} "
+              f"{game['team']['away']['name']:<15} @ "
+              f"{game['team']['home']['name']:<15}")
+        yield (game['game']['key'], canonical_toml(game))
 
 
-def serialise(game):
-    return "\n".join([f'{key} = "{value}"'
-                      for key, value in game.items()])
-    
-def process_files(source, inpath):
+
+def process_files(source, inpath, outpath):
     fnlist = [fn for fn in sorted(inpath.glob("*.txt"))
               if fn.name.lower() not in ["readme.txt", "notes.txt"]]
     if not fnlist:
         print_error(f"No files found at '{inpath}'")
         sys.exit(1)
-    games = [game
-             for fn in fnlist
-             for game in iterate_games(fn)]
-    txt = "\n\n---\n\n".join(serialise(game) for game in games)
-    with open("games.toml", "w") as f:
-        f.write(txt)
-    #print(txt)
-
-    #game = toml.loads(txt)
-    #print(toml.dumps(game))
+    for fn in fnlist:
+        for (key, game) in iterate_games(fn):
+            outfile = outpath/f"{key}.txt"
+            if outfile.exists():
+                print(f"ERROR: Duplicate game key {key}")
+                sys.exit(1)
+            with (outpath/f"{key}.txt").open("w") as f:
+                f.write(game)
     
 
 def main(source):
@@ -445,4 +551,8 @@ def main(source):
         sys.exit(1)
 
     inpath = config.data_path/"transcript"/year/source
-    process_files(year + "/" + source, inpath)
+    outpath = config.data_path/"toml"/year/source
+    outpath.mkdir(parents=True, exist_ok=True)
+    for fn in outpath.glob("*.txt"):
+        fn.unlink()
+    process_files(year + "/" + source, inpath, outpath)
