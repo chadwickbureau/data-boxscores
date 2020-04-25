@@ -1,0 +1,67 @@
+date: 1909-05-12
+number: 0
+league: Inter-Mountain
+away: Helena
+home: Boise
+source: The Salt Lake Herald, May 13, 1909
+A: 300
+
+Helena:				ab r h po a e
+Cahill @ lf:		5 2 2 0 0 0
+Stis @ 2b:			2 1 0 5 1 0
+Morese @ 3b:		4 0 0 1 1 1
+Irby @ rf:			3 1 2 2 0 1
+Harmouth @ 1b:		4 0 0 6 0 0
+Marx @ c:			4 0 0 5 1 0
+Murray @ cf:		4 0 0 1 0 0
+Smith @ ss:			3 1 0 3 2 1
+Johnson @ p:		4 0 1 4 4 1
+TOTALS:				33 5 5 27 9 4
+
+Boise:				ab r h po a e
+Hutchinson @ 3b:	3 1 0 1 3 1
+Lodell @ 1b:		3 1 1 9 1 0
+Case @ ss:			4 0 0 1 3 1
+Houston @ 2b:		4 1 1 2 1 0
+Wasson @ cf:		3 0 2 2 0 0
+Nelck @ lf:			4 0 1 2 0 0
+Hanigan @ rf-c:		3 0 1 8 1 0
+Shea @ c-rf:		4 0 0 1 0 2
+Butler @ p:			4 0 1 1 2 0
+TOTALS:				32 3 7 27 11 4
+
+line: Helena: 5 0 0 0 0 0 0 0 0 - 5
+line: Boise: 0 0 0 0 1 0 0 2 0 - 3
+
+B_LOB: Helena #4; Boise #5
+B_ROE: Helena #3; Boise #2
+B_ER: 
+B_2B: Wasson
+B_3B: Irby; Houston
+B_HR: 
+B_SB: Cahill; Irby; Smith
+B_SH: Stis; Hanigan
+B_SF: 
+B_HP: Hutchinson; Lodell
+B_XO: 
+P_BB: Johnson #1; Butler #3
+P_SO: Johnson #3; Butler #8
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: Butler
+P_BK: 
+F_DP: Stis, Harmouth; Smith, Harmouth
+F_PB: 
+outsatend: 
+T: 1:45
+U: Carney
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+

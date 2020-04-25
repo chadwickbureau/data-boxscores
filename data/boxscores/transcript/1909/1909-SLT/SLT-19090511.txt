@@ -1,0 +1,619 @@
+date: 1909-05-11
+number: 0
+league: Inter-Mountain
+away: Butte
+home: Salt Lake City
+source: The Salt Lake Tribune, May 12, 1909
+A: 400
+
+Butte:				ab r h po a e
+Turk @ ss:			2 2 0 4 1 2
+Campbell @ 2b:		5 0 0 4 3 0
+Elsey @ c:			5 2 1 3 1 0
+Roberts @ rf:		5 0 1 1 0 0
+Nehring @ 1b:		5 0 0 8 0 0
+Fitzgerald @ 3b:	4 0 0 2 2 0
+Dunn @ cf:			4 0 0 2 0 0
+Hoon @ lf:			4 0 1 5 0 0
+Pender @ p:			4 1 2 1 1 0
+TOTALS:				39 5 5 30 8 2
+
+Salt Lake City:		ab r h po a e
+Sturgeon @ rf:		4 0 1 1 0 0
+Hammond @ cf:		3 0 0 1 0 0
+Head @ ss:			4 0 1 3 4 3
+Lussi @ 1b:			4 0 0 12 1 1
+Whaling @ c:		5 0 0 8 1 0
+Flick @ 2b:			5 0 0 2 2 0
+Corbin @ 3b:		3 1 0 1 3 1
+Richmyer @ lf:		4 1 2 0 0 1
+Hunt @ p:			4 0 1 2 4 0
+TOTALS:				36 2 5 30 15 6
+
+line: Butte: 2 0 0 0 0 0 0 0 0 3 - 5
+line: Salt Lake City: 0 0 0 0 0 0 1 0 1 0 - 2
+
+B_LOB: Butte #6; Salt Lake City #10
+B_ROE: 
+B_ER: Salt Lake City #1
+B_2B: Elsey; Hoon; Richmyer
+B_3B: Richmyer
+B_HR: 
+B_SB: Hammond
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Pender #7; Hunt #2
+P_SO: Pender #3; Hunt #7
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Hunt, Head, Lussi
+F_PB: 
+outsatend: 
+T: 1:50
+U: McKibbon
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-05-11
+number: 0
+league: Inter-Mountain
+away: Helena
+home: Boise
+source: The Salt Lake Tribune, May 12, 1909
+A: 300
+
+Helena:			ab r h po a e
+Cahill @ lf:	5 1 1 1 0 0
+Stis @ 2b:		5 1 0 5 3 0
+Moise @ 3b:		4 1 2 1 2 0
+Irby @ rf:		5 1 1 3 0 0
+Marmouth @ 1b:	5 2 2 10 0 1
+Petree @ c:		4 1 1 3 2 0
+Murray @ cf:	4 1 1 0 0 1
+Smith @ ss:		3 1 1 1 3 2
+King @ p:		0 0 0 1 1 1
+Techman @ p:	3 1 0 0 3 0
+TOTALS:			38 10 9 24 14 5
+
+Boise:				ab r h po a e
+Hutchinson @ 3b:	4 2 2 0 4 0
+Lodell @ 1b:		3 2 2 10 0 0
+Case @ ss:			5 3 1 1 3 0
+Houston @ 2b:		5 2 1 5 2 2
+Wasson @ cf:		5 1 3 2 0 0
+Nelck @ lf:			4 1 0 1 0 0
+Harrigan @ rf:		3 2 1 1 0 0
+Shea @ c:			4 1 0 7 1 0
+Westall @ p:		5 1 1 0 0 0
+TOTALS:				38 15 11 27 10 2
+
+line: Helena: 0 0 2 0 0 0 0 0 8 - 10
+line: Boise: 1 6 0 1 0 7 0 0 x - 15
+
+B_LOB: Helena #5; Boise #5
+B_ROE: Helena #1; Boise #3
+B_ER: 
+B_2B: 
+B_3B: Houston; Harrigan; Westall
+B_HR: 
+B_SB: Marmouth; Petree; Case; Harrigan
+B_SH: Lodell #2; Case
+B_SF: 
+B_HP: Petree; Techman; Hutchinson
+B_XO: 
+P_BB: King #1; Techman #4
+P_SO: King #1; Techman #1; Westall #7
+P_H: King #6; Techman #5
+P_IP: King #1.2; Techman #7.1
+P_HP: 
+P_WP: Westall #2
+P_BK: 
+F_DP: Smith, Stis, Marmouth
+F_PB: Petree
+outsatend: 
+T: 2:00
+U: Carney
+
+P_GS: ~King
+P_GF: ~Techman
+P_W: 
+P_L: ~King
+P_SV: 
+
+---
+
+date: 1909-05-12
+number: 0
+league: Inter-Mountain
+away: Butte
+home: Salt Lake City
+source: The Salt Lake Tribune, May 13, 1909
+A: 250
+
+Butte:				ab r h po a e
+Turk @ ss:			4 0 0 3 1 1
+Campbell @ 2b:		4 0 0 1 1 2
+Elsey @ c:			2 0 0 2 1 0
+Gardner @ c:		2 0 0 1 3 0
+Roberts @ rf:		4 1 1 2 1 0
+Nehring @ 1b:		4 0 1 7 1 0
+Fitzgerald @ 3b:	4 1 0 4 1 0
+Dunn @ cf:			4 0 2 0 0 0
+Hoon @ lf:			4 0 2 3 0 0
+Dell @ p:			3 0 0 1 3 0
+*Gordon @ ph:		1 0 0 0 0 0
+TOTALS:				35 2 6 24 12 5
+
+Salt Lake City:		ab r h po a e
+Sturgeon @ rf:		4 2 2 0 0 0
+Hammond @ cf:		3 1 2 0 1 0
+Head @ ss:			3 1 1 3 3 1
+Lussi @ 1b:			3 1 1 11 2 0
+Whaling @ c:		4 0 1 10 1 0
+Flick @ 2b:			3 1 1 1 3 0
+Corbin @ 3b:		3 2 1 1 3 1
+Richmyer @ lf:		2 0 0 0 0 0
+Annis @ p:			4 1 1 1 3 3
+TOTALS:				29 9 10 27 16 5
+
+*: batted for Campbell in 9th
+
+line: Butte: 0 0 0 0 0 0 0 0 2 - 2
+line: Salt Lake City: 2 0 1 2 2 1 1 0 x - 9
+
+B_LOB: Salt Lake City #4; Butte #8
+B_ROE: 
+B_ER: Salt Lake City #3
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: Sturgeon; Head; Lussi #2; Whaling; Flick; Corbin; Richmyer; Campbell
+B_SH: Hammond; Head; Richmyer; Dell
+B_SF: 
+B_HP: 
+B_XO: Annis #11; Dell #2
+P_BB: Annis #1; Dell #4
+P_SO: 
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Dell, Fitzgerald
+F_PB: 
+outsatend: 
+T: 1:55
+U: McKibbon
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-05-13
+number: 0
+league: Inter-Mountain
+away: Butte
+home: Salt Lake City
+source: The Salt Lake Tribune, May 14, 1909
+A: 500
+
+Butte:				ab r h po a e
+Turk @ ss:			4 3 1 2 4 1
+Campbell @ 2b:		4 0 2 3 2 0
+Elsey @ c:			2 0 0 7 1 0
+Gardner @ c:		2 1 1 1 3 0
+Roberts @ rf:		5 0 1 2 0 0
+Nehring @ 1b:		5 0 1 11 1 3
+Fitzgerald @ 3b:	5 0 0 2 2 1
+Dunn @ cf:			5 0 1 1 0 0
+Hoon @ lf:			4 1 0 0 0 0
+Pender @ p:			1 1 1 0 1 0
+McAdams @ p:		4 0 0 0 0 1
+TOTALS:				41 6 8 29 14 6
+
+Salt Lake City:		ab r h po a e
+Sturgeon @ rf:		4 1 0 0 0 0
+Hammond @ cf:		1 0 0 0 0 0
+McIntosh @ cf-rf:	4 1 1 1 0 0
+Head @ ss:			4 1 1 4 2 3
+Lussi @ 1b:			5 2 1 16 0 0
+Whaling @ c:		5 0 1 4 3 1
+Flick @ 2b:			3 0 0 2 5 1
+Corbin @ 3b:		5 0 1 3 3 1
+Richmyer @ lf:		2 1 0 0 0 1
+Hall @ cf:			1 0 0 0 0 0
+Walts @ p:			0 0 0 0 1 0
+Thomas @ p:			1 1 0 0 2 0
+Hunt @ p:			2 0 1 0 4 0
+TOTALS:				37 7 6 30 20 7
+
+line: Butte: 0 3 0 0 0 0 2 0 1 0 - 6
+line: Salt Lake City: 0 0 6 0 0 0 0 0 0 1 - 7
+
+B_LOB: Butte #9; Salt Lake City #7
+B_ROE: 
+B_ER: Salt Lake City #3; Butte #2
+B_2B: Lussi
+B_3B: 
+B_HR: 
+B_SB: Sturgeon; Flick; Turk; Roberts
+B_SH: Campbell; Elsey
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Pender #1; McAdams #5
+P_SO: Walts #1; Hunt #2; Pender #1; McAdams #7
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Fitzgerald, Nehring, Fitzgerald
+F_PB: 
+outsatend: 2
+T: 2:30
+U: McKibbon
+
+P_GS: ~Pender; ~Walts
+P_GF: ~McAdams; ~Hunt
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-05-13
+number: 0
+league: Inter-Mountain
+away: Helena
+home: Boise
+source: The Salt Lake Tribune, May 14, 1909
+A: 1200
+
+Helena:				ab r h po a e
+Cahill @ lf:		5 1 2 0 0 0
+Stis @ 2b:			3 2 1 5 0 0
+Morse @ 3b:			5 2 0 3 1 0
+Irby @ rf:			4 1 1 2 0 0
+Harmuth @ 1b:		4 1 1 5 1 0
+Marx @ c:			5 1 2 8 3 0
+Murray @ cf:		5 1 2 3 1 0
+Smith @ ss:			3 0 0 0 5 0
+Thomas @ p:			3 0 0 1 0 1
+TOTALS:				37 9 9 27 11 1
+
+Boise:				ab r h po a e
+Hutchinson @ 3b:	5 1 2 1 1 x
+Lodell @ 1b:		3 0 2 14 2 x
+Case @ ss:			5 0 1 3 5 x 
+Huston @ 2b:		5 0 0 3 2 x
+Wasson @ cf:		5 2 3 1 0 x
+Nelck @ lf:			3 1 2 1 0 x
+Hanigan @ c:		4 0 0 3 1 x
+Shea @ rf:			0 0 0 0 1 x
+Butler @ rf:		4 1 2 1 0 x
+Osburn @ p:			4 0 3 0 5 x
+TOTALS:				38 5 15 27 17 x
+
+line: Helena: 2 0 0 1 0 0 0 0 6 - 9
+line: Boise: 1 0 0 2 0 0 0 2 0 - 5
+
+B_LOB: Helena #6; Boise #9
+B_ROE: Helena #6; Boise #1
+B_ER: 
+B_2B: Lodell; Butler
+B_3B: Irby; Wasson
+B_HR: 
+B_SB: Cahill; Morse #4; Hutchinson
+B_SH: Stis; Thomas; Nelck
+B_SF: Irby
+B_HP: Harmuth; Stis; Lodell; Nelck; Hanigan
+B_XO: 
+P_BB: Thomas #1
+P_SO: Thomas #5; Osburn #2
+P_H: Thomas #15; Osburn #9
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Huston, Lodell; Morse, Harmuth, Morse
+F_PB: 
+outsatend: 
+T: 1:45
+U: Carney
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-05-15
+number: 0
+league: Inter-Mountain
+away: Butte
+home: Salt Lake City
+source: The Salt Lake Tribune, May 16, 1909
+A: 1200
+
+Butte:				ab r h po a e
+Turk @ ss:			4 0 0 3 1 2
+Campbell @ 2b:		4 0 1 1 2 0
+Elsey @ rf:			4 0 2 0 0 0
+Nehring @ 1b:		4 0 1 10 0 0
+Fitzgerald @ 3b:	3 0 0 2 4 1
+Dunn @ cf:			4 0 0 1 0 0
+Hoon @ lf:			3 1 1 1 1 0
+Gardner @ c:		3 1 1 5 0 1
+Pender @ p:			1 0 0 0 1 1
+Gordon @ p:			2 0 1 1 2 0
+TOTALS:				32 2 7 24 11 5
+
+Salt Lake City:		ab r h po a e
+Sturgeon @ rf:		4 2 1 0 0 0
+Hammond @ cf:		4 0 1 0 0 0
+Head @ ss:			4 0 1 2 2 0
+Lussi @ 1b:			3 1 1 17 1 0
+Whaling @ c:		4 0 2 5 0 0
+Flick @ 2b:			3 0 1 2 5 0
+Corbin @ 3b:		4 1 1 0 2 0
+McIntosh @ lf:		2 0 0 0 1 1
+Annis @ p:			3 0 1 0 3 0
+TOTALS:				31 4 9 27 14 1
+
+line: Butte: 0 0 0 0 0 0 0 2 0 - 2
+line: Salt Lake City: 0 0 2 1 1 0 0 0 x - 4
+
+B_LOB: Salt Lake City #6; Butte #4
+B_ROE: 
+B_ER: Butte #1
+B_2B: Elsey #2
+B_3B: 
+B_HR: 
+B_SB: Sturgeon; Lussi
+B_SH: Flick; McIntosh
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Annis #2; Pender #1
+P_SO: Annis #7; Pender #3; Gordon #3
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Campbell, Turk, Nehring; Hoon, Gardner; Gordon, Nehring; Fitzgerald, Nehring
+F_PB: 
+outsatend: 
+T: 1:45
+U: McKibbon
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-05-15
+number: 0
+league: Inter-Mountain
+away: Helena
+home: Boise
+source: The Salt Lake Tribune, May 16, 1909
+A: 400
+
+Helena:			ab r h po a e
+Cahill @ lf:	5 1 0 2 0 1
+Stis @ 2b:		4 1 1 3 2 3
+Morse @ 3b:		6 0 1 5 0 1
+Irby @ rf:		3 3 1 0 0 0
+Harmuth @ 1b:	5 1 1 6 0 0
+Petree @ c:		6 1 3 10 0 0
+Murray @ cf:	5 1 1 4 0 0
+Smith @ ss:		4 1 0 3 4 1
+King @ p:		0 0 0 0 1 1
+Ames @ p:		5 1 2 0 4 0
+TOTALS:			43 10 10 33 11 7
+
+Boise:				ab r h po a e
+Hutchinson @ 3b:	5 2 0 0 2 0
+Lodell @ 1b:		5 1 1 20 0 1
+Care @ ss:			5 0 3 2 6 1
+Houston @ 2b:		3 1 0 2 2 3
+Wasson @ cf:		5 1 1 0 0 0
+Nelck @ lf:			6 1 0 1 0 0
+Hanigan @ c:		3 1 0 8 3 0
+Butler @ rf:		5 1 1 0 0 0
+Gardner @ p:		0 0 0 0 1 0
+Westall @ p:		5 0 1 0 3 0
+TOTALS:				42 8 7 33 17 5
+
+line: Helena: 1 0 0 5 1 0 1 0 0 0 2 - 10
+line: Boise: 8 0 0 0 0 0 0 0 0 0 0 - 8
+
+B_LOB: Helena #6; Boise #9
+B_ROE: Helena #3; Boise #1
+B_ER: 
+B_2B: Stis
+B_3B: Irby
+B_HR: 
+B_SB: Petree; Ames; Hutchinson #2; Houston
+B_SH: Cahill; Stis
+B_SF: 
+B_HP: Wasson
+B_XO: 
+P_BB: Gardner #3; Westall #3; King #2; Ames #5
+P_SO: Ames #8; Gardner #6; Westall #3
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: Ames
+P_BK: 
+F_DP: Case; Smith, Stis
+F_PB: Hanigan
+outsatend: 
+T: 2:30
+U: Carney
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-05-16
+number: 0
+league: Inter-Mountain
+away: Butte
+home: Salt Lake City
+source: The Salt Lake Tribune, May 17, 1909
+A: 500
+
+Butte:				ab r h po a e
+Turk @ ss:			3 1 1 0 3 1
+Campbell @ 2b:		4 0 1 2 3 0
+Elsey @ rf:			4 0 1 3 0 0
+Roberts @ cf:		4 0 0 2 0 1
+Nehring @ 1b:		3 0 1 11 0 0
+Fitzgerald @ 3b:	5 0 0 1 3 0
+Dunn @ p:			4 1 2 0 0 0
+Hoon @ lf:			4 2 1 0 0 0
+Gardner @ c:		5 0 1 8 2 0
+Gordon @ 2b:		0 0 0 0 0 0
+TOTALS:				36 4 8 27 11 2
+
+Salt Lake City:	ab r h po a e
+Sturgeon @ rf:	4 0 2 3 0 0
+Hammond @ cf:	5 0 1 0 0 1
+Head @ ss:		5 0 1 2 4 0
+Lussi @ 1b:		4 0 1 10 0 1
+Whaling @ c:	3 1 1 7 2 0
+Flick @ 2b:		3 0 0 1 3 0
+Corbin @ 3b:	3 1 0 2 1 0
+McIntosh @ lf:	3 1 2 2 0 0
+Hall @ p:		1 0 0 0 1 0
+TOTALS:			31 3 8 27 11 2
+
+line: Butte: 0 0 1 2 0 0 0 1 0 - 4
+line: Salt Lake City: 0 3 0 0 0 0 0 0 0 - 3
+
+B_LOB: Butte #12; Salt Lake City #10
+B_ROE: 
+B_ER: Salt Lake City #2
+B_2B: Hammond; Whaling; Hoon
+B_3B: 
+B_HR: 
+B_SB: Turk; Nehring; Dunn
+B_SH: Elsey; Sturgeon; Whaling; Flick; McIntosh; Hall
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Dunn #3; Hall #8
+P_SO: Dunn #6; Hall #5
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: Whaling
+outsatend: 
+T: 1:55
+U: McKibbon
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-05-16
+number: 0
+league: Inter-Mountain
+away: Helena
+home: Boise
+source: The Salt Lake Tribune, May 17, 1909
+A: 1300
+
+Helena:			ab r h po a e
+Cahill @ lf:	5 1 0 1 0 0
+Stis @ 2b:		4 2 3 2 6 1
+Morse @ 3b:		5 1 2 1 0 0
+Irby @ rf:		4 1 0 0 0 0
+Harmuth @ 1b:	3 0 0 14 0 0
+Petree @ c:		4 0 0 4 1 0
+Murray @ cf:	4 0 1 4 1 0
+Smith @ ss:		4 1 0 1 1 0
+Johnson @ p:	3 1 0 0 5 0
+TOTALS:			36 7 6 27 13 1
+
+Boise:				ab r h po a e
+Hutchinson @ 3b:	4 1 2 0 1 1
+Lodell @ 1b:		3 0 0 6 2 2
+Case @ ss:			3 0 1 5 0 2
+Houston @ 2b:		3 2 1 5 3 3
+Wasson @ cf:		4 1 2 3 1 0
+Nelck @ lf:			4 0 1 2 0 1
+Hanigan @ c:		3 1 1 3 1 0
+Shea @ rf:			4 1 1 4 0 0
+Butler @ p:			4 0 0 0 4 1
+TOTALS:				32 5 9 27 12 10
+
+line: Helena: 2 0 0 1 2 0 0 2 0 - 7
+line: Boise: 1 2 2 0 0 0 0 0 0 - 5
+
+B_LOB: Helena #8; Boise #3
+B_ROE: Helena #6
+B_ER: 
+B_2B: Lodell; Houston
+B_3B: 
+B_HR: 
+B_SB: Cahill; Stis; Morse; Hutchinson
+B_SH: 
+B_SF: Stis
+B_HP: Petree
+B_XO: 
+P_BB: Johnson #2; Butler #4
+P_SO: Johnson #4; Butler #3
+P_H: Johnson #9; Butler #6
+P_IP: 
+P_HP: 
+P_WP: Butler
+P_BK: 
+F_DP: Lodell, Chase; Wasson, Butler, Houston
+F_PB: 
+outsatend: 
+T: 1:45
+U: Carney
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+

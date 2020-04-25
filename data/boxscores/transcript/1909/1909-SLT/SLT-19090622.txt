@@ -1,0 +1,680 @@
+date: 1909-06-22
+number: 0
+league: Inter-Mountain
+away: Butte
+home: Salt Lake City
+source: The Salt Lake Tribune, Jun 23, 1909
+A: 300
+
+Butte:				ab r h po a e
+Turk @ rf:			5 0 1 1 0 0
+Campbell @ 2b:		3 1 1 5 3 0
+Nehring @ 1b:		3 0 2 10 0 1
+Dunn @ cf-p:		4 0 0 1 2 0
+Moore @ ss:			4 0 0 2 4 0
+Fitzgerald @ 3b:	3 0 0 1 0 0
+Hoon @ lf:			4 0 0 0 0 0
+Fortier @ c:		3 0 1 4 1 0
+McAdams @ p:		0 0 0 0 2 0
+Gardner @ cf:		4 2 1 0 1 0
+TOTALS:				33 3 6 24 13 1
+
+Salt Lake City:		ab r h po a e
+Goodman @ lf:		3 1 1 0 1 0
+Hammond @ rf:		3 0 0 2 0 0
+Head @ 3b:			4 1 1 3 0 0
+Lussi @ 1b:			4 1 2 9 0 0
+Kelly @ cf:			4 1 1 3 0 0
+Flick @ 2b:			3 0 1 3 1 1
+Whaling @ c:		3 0 2 7 2 0
+McQuaid @ ss:		3 1 0 0 1 1
+Hunt @ p:			1 0 0 0 2 0
+Thomas @ p:			1 0 0 0 2 0
+TOTALS:				29 5 8 27 9 2
+
+line: Butte: 0 0 1 0 2 0 0 0 0 - 3
+line: Salt Lake City: 3 1 0 0 0 0 0 1 x - 5
+
+B_LOB: Salt Lake City #4; Butte #7
+B_ROE: 
+B_ER: Salt Lake City #3; Butte #2
+B_2B: Lussi; Campbell; Nehring; Fortier
+B_3B: 
+B_HR: 
+B_SB: Lussi
+B_SH: Hammond; Hunt
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Hunt #3; Thomas #1; McAdams #2
+P_SO: Hunt #3; Thomas #4; Dunn #2
+P_H: 
+P_IP: Hunt #5; Thomas #4; McAdams #2; Dunn #7
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:40
+U: Carney
+
+P_GS: ~Hunt; ~McAdams
+P_GF: ~Thomas; ~Dunn
+P_W: 
+P_L: ~McAdams
+P_SV: 
+
+---
+
+date: 1909-06-22
+number: 0
+league: Inter-Mountain
+away: Helena
+home: Boise
+source: The Salt Lake Tribune, Jun 23, 1909
+A: 300
+
+Helena:			ab r h po a e
+Cahill @ lf:	3 1 1 1 0 0
+Stis @ 2b:		5 1 1 2 2 0
+Morse @ ss:		3 2 2 4 2 1
+Elsey @ 1b:		3 1 1 8 0 0
+Irby @ rf:		5 1 0 0 0 0
+Harmuth @ cf:	4 0 0 3 5 1
+Murray @ cf:	4 0 1 3 1 0
+Thomas @ c:		3 0 0 9 1 0
+Ames @ p:		4 1 1 0 1 0
+TOTALS:			34 7 7 30 12 2
+
+Boise:			ab r h po a e
+Nelck @ lf:		4 0 0 3 0 0
+Lodell @ 1b:	5 0 1 13 1 1
+Marshall @ 2b:	5 0 3 3 3 1
+Wasson @ rf:	5 2 2 0 0 0
+Fuchell @ cf:	4 1 1 0 0 0
+Case @ 3b:		4 1 1 1 1 0
+Petree @ c:		4 0 2 5 2 0
+Gray @ ss:		4 0 3 3 5 0
+Butler @ p:		3 0 0 2 4 0
+Wells @ p:		1 0 0 0 0 0
+Pender @ p:		1 0 0 0 0 0
+TOTALS:			40 4 13 30 16 2
+
+line: Helena: 0 0 0 0 0 1 0 0 3 3 - 7
+line: Boise: 0 0 0 3 0 0 0 1 0 0 - 4
+
+B_LOB: Boise #7; Helena #1
+B_ROE: Helena #2
+B_ER: 
+B_2B: Elsey; Stis
+B_3B: 
+B_HR: 
+B_SB: Cahill; Murray; Case; Gray
+B_SH: Morse; Elsey; Harmuth; Fuchell
+B_SF: Elsey
+B_HP: Cahill
+B_XO: 
+P_BB: Butler #1; Wells #2
+P_SO: Butler #4; Wells #1; Ames #7
+P_H: Butler #5; Wells #2
+P_IP: Butler #8; Wells #1; Pender #1
+P_HP: Butler
+P_WP: 
+P_BK: 
+F_DP: Petree, Gray, Lodell
+F_PB: 
+outsatend: 
+T: 1:55
+U: McKibbon
+
+P_GS: ~Butler
+P_GF: ~Pender
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-05-23
+number: 0
+league: Inter-Mountain
+away: Butte
+home: Salt Lake City
+source: The Salt Lake Tribune, Jun 24, 1909
+A: 500
+
+Butte:				ab r h po a e
+Turk @ rf:			4 0 0 0 0 0
+Campbell @ 2b:		2 0 0 2 0 0
+Gardner @ cf:		1 0 0 1 0 0
+Nehring @ 1b:		3 0 1 7 2 1
+Dunn @ cf-2b:		3 0 0 2 2 0
+Fitzgerald @ 3b:	4 0 0 4 0 0
+Moore @ ss:			4 0 0 0 1 2
+Hoon @ lf:			3 0 0 2 0 0
+Fortier @ c:		3 0 1 5 0 2
+Marshall @ p:		3 0 1 1 4 0
+TOTALS:				30 0 3 24 9 5
+
+Salt Lake City:	ab r h po a e
+Goodman @ lf:	3 1 2 3 0 0
+Hammond @ rf:	4 0 1 1 0 0
+Head @ 3b:		2 0 0 0 2 0
+Lusii @ 1b:		4 0 0 12 0 0
+Kelly @ cf:		4 1 2 1 0 0
+Flick @ 2b:		4 1 1 1 4 0
+Whaling @ c:	3 0 1 6 0 0
+McQuaid @ ss:	4 1 1 2 1 2
+Hall @ p:		4 0 0 1 3 0
+TOTALS:			32 4 8 27 10 2
+
+line: Butte: 0 0 0 0 0 0 0 0 0 - 0
+line: Salt Lake City: 0 0 0 3 0 0 0 1 x - 4
+
+B_LOB: Salt Lake City #8; Butte #6
+B_ROE: 
+B_ER: Salt Lake City #1
+B_2B: Kelly
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: Head; Whaling
+B_SF: 
+B_HP: Goodman
+B_XO: 
+P_BB: Hall #3; Marshall #1
+P_SO: Hall #6; Marshall #5
+P_H: 
+P_IP: 
+P_HP: ~Marshall
+P_WP: 
+P_BK: 
+F_DP: Marshall, Nehring, Fortier; Hall, McQuaid, Lussi; Hall, Flick, Lussi
+F_PB: 
+outsatend: 
+T: 1:25
+U: Carney
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-06-23
+number: 0
+league: Inter-Mountain
+away: Helena
+home: Boise
+source: The Salt Lake Tribune, Jun 24, 1909
+A: 250
+
+Helena:			ab r h po a e
+Cahill @ lf:	4 1 2 3 0 1
+Stis @ 2b:		2 1 2 2 5 0
+Morse @ ss:		2 1 1 1 2 0
+Elsey @ 1b:		4 1 1 13 0 0
+Irby @ rf:		4 0 2 1 0 0
+Harmuth @ 3b:	1 0 0 2 5 1
+Murray @ cf:	4 0 0 2 0 0
+Thomas,C. @ c:	4 0 0 3 1 0
+Thomas,J. @ p:	3 0 0 0 1 0
+TOTALS:			28 4 8 27 14 2
+
+Boise:			ab r h po a e
+Nelck @ lf:		3 0 0 2 0 0
+Lodell @ 1b:	3 0 1 12 1 0
+Marshall @ 2b:	4 0 0 4 3 1
+Wasson @ rf:	4 0 0 1 0 0
+Fuchell @ cf:	4 1 1 1 0 0
+Case @ 2b:		3 0 0 1 6 0
+Petree @ c:		2 0 0 4 2 0
+Gray @ ss:		3 0 1 2 0 0
+Pender @ p:		2 0 0 0 6 0
+TOTALS:			28 1 3 27 18 1
+
+line: Helena: 0 0 3 0 1 0 0 0 0 - 4
+line: Boise: 0 1 0 0 0 0 0 0 0 - 1
+
+B_LOB: Boise #6; Helena #4
+B_ROE: Boise #2; Helena #1
+B_ER: 
+B_2B: Stis; Morse; Elsey
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: Stis #2; Harmuth #2; Lodell; Case
+B_SF: Morse; Petree
+B_HP: 
+B_XO: 
+P_BB: Thomas #3; Pender #1
+P_SO: Thomas #3; Pender #5
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Case, Lodell, Case
+F_PB: Thomas
+outsatend: 
+T: 1:30
+U: McKibbon
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-06-24
+number: 0
+league: Inter-Mountain
+away: Butte
+home: Salt Lake City
+source: The Salt Lake Tribune, Jun 25, 1909
+A: 1000
+
+Butte:				ab r h po a e
+Turk @ ss:			4 0 0 3 1 1
+Moore @ 2b:			5 0 0 1 3 3
+Nehring @ 1b:		5 0 1 12 0 1
+Dunn @ cf:			4 1 1 1 0 1
+Fitzgerald @ 3b:	3 0 1 1 6 1
+Gardner @ rf:		4 2 1 1 0 0
+Hoon @ lf:			3 1 1 2 0 0
+Fortier @ c:		4 0 0 3 0 0
+Osborn @ p:			3 0 1 0 0 1
+TOTALS:				35 4 6 24 10 8
+
+Salt Lake City:	ab r h po a e
+Goodman @ lf:	4 1 1 4 0 0
+Hammond @ rf:	5 1 1 1 0 0
+Head @ 3b:		5 2 1 1 0 1
+Lussi @ 1b:		4 2 2 8 0 2
+Kelly @ cf:		5 1 1 3 0 1
+Flick @ 2b:		4 0 1 3 5 2
+Whaling @ c:	3 2 1 5 0 0
+McQuaid @ ss:	4 1 0 2 3 0
+Thomas @ p:		3 1 1 0 3 0
+TOTALS:			37 11 9 27 11 6
+
+line: Butte: 0 0 0 0 0 2 0 2 0 - 4
+line: Salt Lake City: 0 6 0 3 1 1 0 0 x - 11
+
+B_LOB: Salt Lake City #6; Butte #10
+B_ROE: 
+B_ER: Salt Lake City #3; Butte #1
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: Hammond; Flick #2; Whaling; McQuaid
+B_SH: Lussi
+B_SF: Goodman; Hoon
+B_HP: 
+B_XO: 
+P_BB: Thomas #5; Osborn #2
+P_SO: Thomas #5; Osborn #2
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Flick, McQuaid, Lussi
+F_PB: Fortier
+outsatend: 
+T: 1:30
+U: Carney
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-06-24
+number: 0
+league: Inter-Mountain
+away: Helena
+home: Boise
+source: The Salt Lake Tribune, Jun 25, 1909
+A: 800
+
+Helena:			ab r h po a e
+Cahill @ lf:	3 2 2 1 0 0
+Stis @ 2b:		4 1 1 1 2 0
+Morse @ ss:		4 1 1 5 6 0
+Elsey @ 1b:		3 0 2 14 0 0
+Irby @ rf:		2 0 1 1 0 0
+Harmouth @ 3b:	2 0 0 0 1 0
+Murray @ cf:	4 0 0 1 0 0
+Thomas @ c:		4 1 1 4 0 0
+Johnson @ p:	3 0 1 0 4 0
+TOTALS:			29 5 9 27 13 0
+
+Boise:			ab r h po a e
+Nelck @ lf:		3 0 0 1 0 2
+Lodell @ 1b:	5 0 3 9 1 0
+Marshall @ 2b:	3 0 0 5 1 3
+Harrigan @ 2b:	2 0 0 1 1 0
+Wasson @ rf:	3 0 0 0 0 0
+Fuchell @ cf:	4 1 0 3 0 0
+Case @ 3b:		4 0 0 0 3 2
+Petree @ c:		3 1 1 2 3 0
+Gray @ ss:		2 0 0 5 3 2
+Buckels @ p:	1 0 0 0 1 0
+Butler @ p:		3 1 1 1 4 0
+TOTALS:			33 3 5 27 17 9
+
+line: Helena: 1 0 2 0 1 0 1 0 0 - 5
+line: Boise: 0 0 0 0 0 0 0 0 3 - 3
+
+B_LOB: Boise #9; Helena #6
+B_ROE: Helena #2
+B_ER: 
+B_2B: 
+B_3B: Morse
+B_HR: 
+B_SB: Cahill; Stis #2; Irby; Thomas
+B_SH: Stis; Irby; Harmouth
+B_SF: 
+B_HP: Elsey
+B_XO: 
+P_BB: Buckels #1; Butler #2; Johnson #6
+P_SO: Buckels #1; Butler #1; Johnson #4
+P_H: Buckels #2; Butler #6
+P_IP: Buckels #3; Butler #6
+P_HP: Butler
+P_WP: Buckels
+P_BK: 
+F_DP: Gray, Marshall
+F_PB: Petree
+outsatend: 
+T: 1:45
+U: Pender; Thomas
+
+P_GS: ~Buckels
+P_GF: ~Butler
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-05-26
+number: 0
+league: Inter-Mountain
+away: Butte
+home: Salt Lake City
+source: The Salt Lake Tribune, Jun 27, 1909
+A: 1000
+
+Butte:				ab r h po a e
+Turk @ ss:			4 2 0 2 4 1
+Moore @ 2b:			3 1 1 0 4 1
+Dunn @ cf:			4 0 2 1 0 1
+Nehring @ 1b:		4 0 0 13 0 0
+Fitzgerald @ 3b:	4 1 2 1 2 1
+Gardner @ rf:		3 0 0 1 0 0
+Fortier @ c:		3 0 0 3 1 0
+Hoon @ lf:			3 0 0 2 0 0
+McAdams @ p:		0 0 0 0 2 0
+Osborn @ p:			1 0 0 0 0 0
+White @ p:			3 0 0 1 2 0
+TOTALS:				32 4 5 24 15 4
+
+Salt Lake City:	ab r h po a e
+Goodman @ lf:	5 2 4 3 0 0
+Hammond @ rf:	3 2 2 1 0 0
+Head @ 3b:		3 1 1 3 1 1
+Lussi @ 1b:		5 0 2 10 1 0
+Kelly @ cf:		5 0 0 0 0 0
+Flick @ 2b:		4 1 2 3 6 0
+Whaling @ c:	3 2 2 4 3 0
+McQuaid @ ss:	4 1 1 3 3 3
+Hunt @ p:		3 0 0 0 3 0
+TOTALS:			35 9 14 27 17 4
+
+line: Butte: 1 1 0 0 0 0 0 2 0 - 4
+line: Salt Lake City: 2 3 1 2 0 0 1 0 x - 9
+
+B_LOB: Salt Lake City #8; Butte #3
+B_ROE: 
+B_ER: Salt Lake City #7; Butte #1
+B_2B: Hammond; Dunn; Fitzgerald
+B_3B: Goodman; Lussi
+B_HR: Whaling #2
+B_SB: Goodman; Head; Flick
+B_SH: Head; Whaling; Hunt; Moore; Gardner
+B_SF: 
+B_HP: Hammond
+B_XO: 
+P_BB: Hunt #2; Osborn #1
+P_SO: Hunt #3; White #1
+P_H: 
+P_IP: 
+P_HP: White
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:26
+U: Carney
+
+P_GS: ~McAdams
+P_GF: ~White
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-06-26
+number: 0
+league: Inter-Mountain
+away: Helena
+home: Boise
+source: The Salt Lake Tribune, Jun 27, 1909
+
+Helena:			ab r h po a e
+Cahill @ lf:	3 2 0 1 0 0
+Stis @ 2b:		4 1 0 5 1 1
+Morse @ ss:		3 1 0 2 5 0
+Elsey @ 1b:		4 1 1 9 2 1
+Irby @ rf:		3 1 0 0 0 0
+Harmuth @ 3b:	3 1 2 0 3 0
+Murray @ cf:	4 1 1 4 0 0
+Thomas,C. @ c:	4 0 0 5 0 0
+Gordon @ p:		3 0 0 1 1 0
+TOTALS:			31 8 4 27 12 2
+
+Boise:			ab r h po a e
+Nelck @ lf:		5 0 0 0 0 0
+Lodell @ 1b:	4 0 0 15 0 0
+Marshall @ 2b:	5 0 0 1 6 1
+Wasson @ p-rf:	2 0 2 1 0 0
+Fuchell @ cf:	3 0 0 3 0 0
+Case @ ss:		5 0 2 0 2 1
+Petree @ c:		4 0 1 5 1 0
+Gray @ 3b:		4 0 2 1 3 0
+Buckels @ p:	1 1 0 1 2 1
+TOTALS:			33 1 7 27 14 3
+
+line: Helena: 7 0 0 0 0 0 1 0 0 - 8
+line: Boise: 0 0 0 0 0 0 1 0 0 - 1
+
+B_LOB: Boise #14; Helena #3
+B_ROE: Boise #2; Helena #2
+B_ER: 
+B_2B: Harmuth; Murray
+B_3B: 
+B_HR: 
+B_SB: Cahill
+B_SH: Gordon
+B_SF: 
+B_HP: Stis; Morse; Irby
+B_XO: 
+P_BB: Wasson #1; Buckels #2; Gordon #3
+P_SO: Buckels #6; Gordon #5
+P_H: 
+P_IP: 
+P_HP: Wasson #3
+P_WP: Buckels #2
+P_BK: 
+F_DP: Gray, Lodell
+F_PB: 
+outsatend: 
+T: 
+U: 
+
+P_GS: ~Wasson
+P_GF: ~Buckels
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-06-27
+number: 0
+league: Inter-Mountain
+away: Butte
+home: Salt Lake City
+source: The Salt Lake Tribune, Jun 28, 1909
+A: 2500
+
+Butte:				ab r h po a e
+Turk @ ss:			5 0 1 1 3 2
+Moore @ 2b:			2 0 2 1 3 1
+Dunn @ cf:			3 0 1 3 0 0
+Nehring @ 1b:		4 0 0 9 0 2
+Fitzgerald @ 3b:	3 0 0 2 1 3
+Gardner @ rf:		4 1 0 0 1 1
+Fortier @ c:		3 0 0 8 4 0
+Hoon @ lf:			4 0 1 0 0 0
+Marshall @ p:		4 0 1 0 3 0
+TOTALS:				32 1 6 24 15 9
+
+Salt Lake City:	ab r h po a e
+Goodman @ lf:	5 2 2 1 0 0
+Hammond @ rf:	3 2 1 0 0 0
+Head @ 3b:		5 0 1 2 2 0
+Lussi @ 1b:		5 2 2 8 1 1
+Kelly @ cf:		5 0 1 0 0 0
+Flick @ 2b:		5 0 0 4 3 1
+Whaling @ c:	3 1 1 7 0 0
+McQuaid @ ss:	3 1 0 5 4 0
+Annis @ p:		4 1 1 0 1 0
+TOTALS:			33 9 9 27 11 2
+
+line: Butte: 0 0 0 1 0 0 0 0 0 - 1
+line: Salt Lake City: 1 0 1 3 1 0 1 2 x - 9
+
+B_LOB: Salt Lake City #9; Butte #9
+B_ROE: 
+B_ER: Salt Lake City #4; Butte #1
+B_2B: Lussi; Kelly; Whaling; Annis; Dunn
+B_3B: Goodman
+B_HR: 
+B_SB: Hammond #2; Head; Lussi #2; Kelly #2; Dunn
+B_SH: 
+B_SF: 
+B_HP: Moore
+B_XO: 
+P_BB: Annis #4; Marshall #4
+P_SO: Annis #6; Marshall #7
+P_H: 
+P_IP: 
+P_HP: Annis
+P_WP: 
+P_BK: 
+F_DP: McQuaid, Flick
+F_PB: 
+outsatend: 
+T: 1:35
+U: Carney
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1909-06-27
+number: 0
+league: Inter-Mountain
+away: Helena
+home: Boise
+source: The Salt Lake Tribune, Jun 28, 1909
+A: 500
+
+Helena:			ab r h po a e
+Cahill @ lf:	4 2 1 2 0 0
+Stis @ 2b:		3 2 3 5 3 0
+Morse @ ss:		5 2 3 1 6 1
+Elsey @ 1b:		4 1 0 12 1 0
+Irby @ rf:		3 1 1 1 0 0
+Harmuth @ 3b:	3 1 2 0 3 1
+Murray @ cf:	4 0 1 1 0 0
+Thomas @ c:		4 1 0 3 1 0
+Ames @ p:		3 0 0 2 2 0
+TOTALS:			36 10 11 17 16 2
+
+Boise:				ab r h po a e
+Noleck @ lf:		4 0 0 3 0 0
+Lodell @ 1b:		4 0 1 8 0 0
+Marshall @ 2b:		4 0 0 4 3 3
+Wasson @ rf:		3 0 0 0 0 0
+Fuchell @ cf-p:		4 0 0 1 1 0
+Case @ 3b:			6 0 0 0 1 1
+Harrigan @ c-cf:	3 0 1 4 2 0
+Gray @ ss:			3 0 0 4 3 1
+Butler @ p:			0 0 0 0 0 0
+Buckels @ p:		1 0 0 0 2 0
+Petree @ c:			2 0 1 3 1 0
+TOTALS:				31 0 3 27 13 5
+
+line: Helena: 0 0 6 3 0 0 1 0 0 - 10
+line: Boise: 0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Boise #6; Helena #3
+B_ROE: Boise #2; Helena #4
+B_ER: 
+B_2B: Morse #2; Cahill; Irby
+B_3B: 
+B_HR: 
+B_SB: Cahill #2; Stis #2; Irby; Elsey #2; Harmuth
+B_SH: Ames
+B_SF: 
+B_HP: Elsey
+B_XO: 
+P_BB: Ames #1; Butler #1; Buckels #4; Fuchell #1
+P_SO: Ames #3; Butler #1; Buckels #1; Fuchell #3
+P_H: Butler #6; Buckels #3; Fuchell #2
+P_IP: Butler #2; Buckels #2; Fuchell #5
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Gray, Lodell
+F_PB: 
+outsatend: 
+T: 1:40
+U: Cody
+
+P_GS: ~Butler
+P_GF: ~Fuchell
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
