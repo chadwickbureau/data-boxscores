@@ -481,7 +481,7 @@ away: Middlesboro
 home: Morristown
 source: Knoxville Sentinel, May 22, 1914
 
-Middlesboro:	ab r h po a e
+Morristown:	ab r h po a e
 Weil @ ss:		3 0 1 2 2 0
 Ruoff @ cf:		3 0 0 1 1 0
 Fisher @ rf:	3 2 1 2 0 0
@@ -493,7 +493,7 @@ Lowman @ lf:	3 1 1 0 0 0
 Werner @ p:		1 0 0 0 4 0
 TOTALS:			26 3 6 27 13 1
 
-Morristown:		ab r h po a e
+Middlesboro:		ab r h po a e
 Wilbers @ cf:	4 0 0 1 1 0
 Yockey @ 2b:	3 0 0 2 4 0
 Woodward @ lf:	3 0 1 0 0 0
@@ -506,8 +506,8 @@ Wood @ p:		2 0 0 2 3 0
 Decatur @ p:	1 0 0 0 1 0
 TOTALS:			31 1 7 27 14 1
 
-line: Middlesboro: - 3
-line: Morristown: - 1
+line: Middlesboro: - 1
+line: Morristown: - 3
 
 B_LOB: 
 B_ROE: 
