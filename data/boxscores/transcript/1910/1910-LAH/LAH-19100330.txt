@@ -68,8 +68,8 @@ P_SV:
 date: 1910-04-03
 number: 2
 league: Pacific Coast
-away: Los Angeles
-home: Vernon
+away: Vernon
+home: Los Angeles
 source: Los Angeles Herald, 1910-04-04
 
 Los Angeles:	ab r h po a e

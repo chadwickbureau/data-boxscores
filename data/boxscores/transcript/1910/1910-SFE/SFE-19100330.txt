@@ -212,8 +212,8 @@ P_SV:
 date: 1910-03-31
 number: 0
 league: Pacific Coast
-away: Los Angeles
-home: Vernon
+away: Vernon
+home: Los Angeles
 source: San Francisco Examiner, 1910-04-01
 
 Los Angeles:	ab r h po a e
@@ -486,8 +486,8 @@ P_SV:
 date: 1910-04-02
 number: 0
 league: Pacific Coast
-away: Los Angeles
-home: Vernon
+away: Vernon
+home: Los Angeles
 source: San Francisco Examiner, 1910-04-03
 
 Los Angeles:	ab r h po a e
@@ -896,8 +896,8 @@ P_SV:
 date: 1910-04-03
 number: 1
 league: Pacific Coast
-away: Los Angeles
-home: Vernon
+away: Vernon
+home: Los Angeles
 source: San Francisco Examiner, 1910-04-04
 
 Los Angeles:	ab r h po a e
