@@ -63,6 +63,7 @@ def do_toml(source):
 
 
 @boxscore.command("index")
-def do_index():
+@click.argument("year", type=int)
+def do_index(year: int):
     """Index player names from TOML files."""
-    index.main()
+    index.main(year)
