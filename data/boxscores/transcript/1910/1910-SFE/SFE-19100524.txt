@@ -1,0 +1,1493 @@
+date: 1910-05-24
+number: 0
+league: Pacific Coast
+away: Los Angeles
+home: San Francisco
+source: San Francisco Examiner, 1910-05-25
+
+Los Angeles:		ab r h po a e
+Daley @ cf:			4 0 1 2 0 0
+Bernard @ rf:		2 1 1 0 0 0
+Howard @ 2b:		2 0 2 3 4 1
+Dillon @ 1b:		3 0 0 10 1 0
+Murphy @ lf:		4 0 0 2 1 0
+Roth @ 3b:			4 0 3 2 3 2
+Delmas @ ss:		4 0 0 0 1 0
+(8.1)Orendorff @ c:		1 0 0 2 0 0
+(9.1)Briswalter @ p:		1 0 1 0 2 0
+(9.2)Crieger @ p:		2 0 0 1 1 0
+(8.2)$Smith,H. @ c:		3 0 1 2 0 0
+(9.3)*Wheeler @ ph:		1 0 0 0 0 0
+TOTALS:				31 1 9 24 13 3
+
+San Francisco:		ab r h po a e
+Shaw @ 3b:			4 1 1 1 2 0
+Vitt @ 2b:			3 1 0 2 4 0
+Melchoir @ rf:		4 1 3 0 0 0
+Tennant @ 1b:		4 0 0 10 1 0
+Bodie @ lf:			2 1 0 2 0 0
+Lewis @ cf:			4 0 0 1 1 0
+Berry @ c:			4 0 1 8 3 0
+McArdle @ ss:		4 0 1 2 3 0
+Miller @ p:			2 1 0 1 2 0
+TOTALS:				31 5 6 27 16 0
+
+line: Los Angeles:   0 0 0 0 0 1 0 0 0 - 1 
+line: San Francisco: 0 0 4 0 1 0 0 0 X - 5
+
+*: Wheeler batted for Crieger in the ninth inning.
+$: Smith replaced Orendorff in the fourth inning.
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: McArdle
+B_3B: 
+B_HR: Melchoir
+B_SB: Howard; Roth; Melchoir; Bodie
+B_SH: Miller
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Briswalter #2; Miller #5; Crieger #2
+P_SO: Briswalter #2; Miller #7
+P_H: Briswalter #3
+P_IP: Briswalter #3
+P_HP: 
+P_WP: Miller
+P_BK: 
+F_DP: Howard, Dillon
+F_PB: 
+outsatend: 
+T: 1:45
+U: McGreevy
+
+P_GS: 
+P_GF: 
+P_W: Miller
+P_L: Briswalter
+P_SV: 
+
+---
+
+date: 1910-05-24
+number: 0
+league: Pacific Coast
+away: Sacramento
+home: Portland
+source: San Francisco Examiner, 1910-05-25
+
+Sacramento:		ab r h po a e
+Shinn @ ss:		3 0 0 2 1 0
+Pearson @ lf:	4 1 1 1 0 0
+Perry @ cf:		4 1 1 2 0 0
+Briggs @ rf:	4 1 1 2 0 0
+Darringer @ 3b:	3 0 1 0 0 0
+Van Buren @ 1b:	4 0 0 9 0 0
+Raymer @ 2b:	3 0 1 3 2 0
+Spiesman @ c:	4 0 1 4 5 0
+Nourse @ p:		1 0 0 0 2 1
+Fitzgerland @ p:	2 0 0 1 0 0
+Boardman @ 3b:	1 0 0 0 0 0	
+TOTALS:			33 3 6 24 10 1
+
+Portland:		ab r h po a e
+Ryan @ lf:		4 0 0 0 0 0
+Olson @ ss:		2 0 0 0 2 1
+Hetling @ 3b:	1 0 0 3 1 0
+McCredie @ rf:	4 1 0 0 0 0
+Fisher @ c:		3 1 0 7 3 0
+Rapps @ 1b:		4 2 2 8 1 0
+Speas @ cf:		2 0 1 3 0 0
+Casey @ 2b:		2 0 2 4 3 1
+(9.1)Seaton @ p:		1 0 0 1 3 1
+(9.2)*Smith @ ph:		0 0 0 0 0 0
+(9.3)Gregg @ p:		2 0 0 1 1 0
+TOTALS:			25 4 5 27 14 3	
+
+line: Sacramento: 0 1 2 0 0 0 0 0 0 - 3 
+line: Portland:   0 2 0 1 0 1 0 0 X - 4 
+
+*: Smith batted for Seaton in the fourth inning.
+B_LOB: Sacramento #6; Portland #8
+B_ROE: Sacramento #2; Portland #1 
+B_ER: 
+B_2B: Briggs; Casey
+B_3B: Rapps
+B_HR: Rapps
+B_SB: Shinn; Speas; Briggs
+B_SH: Nourse; Hetling; Speas
+B_SF: 
+B_HP: Speas
+B_XO: 
+P_BB: Nourse #6; Seaton #2; Fitzgerland #2
+P_SO: Nourse #4; Seaton #3; Fitzgerland #1; Gregg #4
+P_H: Nourse #2; Seaton #3
+P_IP: Nourse #3.2; Seaton #4
+P_HP: Fitzgerland
+P_WP: 
+P_BK: 
+F_DP: Seaton, Hetling
+F_PB: 
+outsatend: 
+T: 1:55
+U: Van Haltren
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1910-05-24
+number: 0
+league: Pacific Coast
+away: Oakland
+home: Vernon
+source: San Francisco Examiner, 1910-05-25
+
+Vernon:			ab r h po a e
+Carlisle @ cf:	4 0 0 2 0 1
+Burrell @ 3b:	4 0 1 1 2 0
+Martinke @ lf:	4 0 3 2 0 0
+Brashear,R. @ 2b:	1 0 0 3 1 2
+Coy @ rf:		4 0 1 4 0 1
+Lindsay @ ss:	1 0 0 2 2 1
+Fisher @ 1b:	4 0 0 10 0 0
+Brown @ c:		4 1 1 3 2 0
+Willett @ p:	3 0 1 0 5 0
+TOTALS:			29 1 7 27 12 5	
+
+Oakland:		ab r h po a e
+Cutshaw @ 2b:	3 2 1 8 3 0
+Wares @ ss:		2 0 0 3 1 1
+Hogan,W. @ cf:	5 2 2 3 0 0
+Cameron @ 1b:	4 0 1 4 2 0
+Wolverton @ 3b:	5 0 2 0 1 1
+Swander @ rf:	3 0 1 1 0 0
+Maggert @ lf:	3 0 1 2 0 0
+Mitze @ c:		2 1 1 6 4 0
+Lively @ p:		4 1 1 0 2 0
+TOTALS:			31 6 10 27 13 2		
+
+line: Vernon:  0 0 0 0 1 0 0 0 0 - 1 
+line: Oakland: 2 0 0 0 0 0 0 0 4 - 6 
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Cutshaw; Martinke; Cameron
+B_3B: 
+B_HR: 
+B_SB: Burrell; Martinke; Brown
+B_SH: Wares #3; Cameron; Mitze; Cutshaw
+B_SF: 
+B_HP: Maggert
+B_XO: 
+P_BB: Willett #2; Lively #5
+P_SO: Willett #1; Lively #3
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: Lively
+P_BK: 
+F_DP: Cutshaw, Cameron
+F_PB: 
+outsatend: 
+T: 1:55
+U: Finney; Hildebrand
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1910-05-25
+number: 0
+league: Pacific Coast
+away: Los Angeles
+home: San Francisco
+source: San Francisco Examiner, 1910-05-26
+
+Los Angeles:		ab r h po a e
+Daley @ cf:			3 0 0 2 1 1
+Bernard @ rf:		4 0 2 0 0 0
+Howard @ 2b:		4 0 0 3 5 0
+Dillon @ 1b:		3 1 0 15 0 0
+Murphy @ lf:		3 0 1 1 0 0
+Roth @ 3b:			4 0 3 5 0 1
+Delmas @ ss:		3 1 1 0 3 0
+Orendorff @ c:		3 0 0 1 0 0
+Nagle @ p:			2 0 1 0 7 0
+TOTALS:				29 2 8 27 16 2
+
+San Francisco:		ab r h po a e
+Vitt @ 3b:			4 0 1 2 2 0
+Mohler @ 2b:		3 0 0 2 3 0
+Melchoir @ rf:		3 0 0 1 0 0
+Tennant @ 1b:		4 0 0 11 1 0
+Bodie @ lf:			4 0 0 3 0 0
+Lewis @ cf:			3 0 1 2 0 0
+Berry @ c:			3 0 1 3 3 0
+McArdle @ ss:		3 0 2 2 5 0
+Eastley @ p:		2 0 0 1 2 0
+TOTALS:				29 0 5 27 16 0
+
+line: Los Angeles:   0 0 0 1 0 0 1 0 0 - 2 
+line: San Francisco: 0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Delmas
+B_3B: 
+B_HR: 
+B_SB: Lewis; Berry
+B_SH: Daley; Murphy; Delmas; Eastley; Melchoir; Mohler
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Nagle #3; Eastley #2
+P_SO: Nagle #1; Eastley #5
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Nagle, Roth; Mohler, McArdle, Tennant
+F_PB: 
+outsatend: 
+T: 1:25
+U: McGreevy
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1910-05-25
+number: 0
+league: Pacific Coast
+away: Sacramento
+home: Portland
+source: San Francisco Examiner, 1910-05-26
+
+Sacramento:		ab r h po a e
+Shinn @ ss:		4 0 0 0 0 0
+Pearson @ lf:	4 0 2 1 0 0
+Perry @ cf:		4 1 1 0 0 0
+Briggs @ rf:	4 0 0 2 0 0
+Darringer @ 3b:	3 0 0 1 2 0
+Van Buren @ 1b:	2 1 1 8 1 1
+Raymer @ 2b:	4 0 1 2 1 1
+Spiesman @ c:	4 0 0 10 2 0
+Hunt @ p:		3 1 1 0 2 1
+TOTALS:			32 3 6 24 8 3
+
+Portland:		ab r h po a e
+Smith @ rf:		3 0 2 2 0 0
+Olson @ ss:		4 0 0 2 2 1
+Hetling @ 3b:	4 1 1 0 3 0
+Fisher @ c:		4 1 1 4 0 0
+Rapps @ 1b:		4 1 2 12 0 0
+Ryan @ lf:		2 0 0 1 0 0
+Speas @ cf:		3 1 1 3 1 0
+(8.1)Casey @ 2b:		3 0 1 1 1 0
+(9.1)Garrett @ p:	1 0 0 0 1 0
+(8.2)*Ort @ 2b:		0 1 0 2 1 0
+(9.2)Steen @ p:		2 1 0 0 2 0
+TOTALS:			30 6 8 27 11 1	
+
+line: Sacramento: 0 1 1 0 0 1 0 0 0 - 3 
+line: Portland:   0 0 0 0 0 0 6 0 X - 6 
+
+*: Ort replaced Perry in the 7th inning, starting as pr.
+B_LOB: Sacramento #5; Portland #3
+B_ROE: Sacramento #1; Portland #2
+B_ER: 
+B_2B: Rapps #2; Speas
+B_3B: 
+B_HR: Hunt; Perry
+B_SB: Van Buren #2; Raymer; Smith; Hetling
+B_SH: Ryan #2; Van Buren
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Hunt #1; Steen #2
+P_SO: Hunt #8; Garrett #1; Steen #3
+P_H: Garrett #4
+P_IP: Garrett #4
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Spiesman, Darringer; Olson, Ort, Rapps
+F_PB: 
+outsatend: 
+T: 1:35
+U: Van Haltren
+
+P_GS: 
+P_GF: 
+P_W: Steen
+P_L: 
+P_SV: 
+
+---
+
+date: 1910-05-25
+number: 0
+league: Pacific Coast
+away: Oakland
+home: Vernon
+source: San Francisco Examiner, 1910-05-26
+
+Vernon:			ab r h po a e
+Carlisle @ cf:	4 0 0 4 0 0
+Burrell @ 3b:	3 0 1 2 2 1
+Martinke @ lf:	4 0 1 1 0 0
+Brashear,R. @ 2b:	4 0 0 3 2 0
+Coy @ rf:		4 1 1 1 0 0
+Lindsay @ ss:	3 0 1 3 1 0
+Fisher @ 1b:	4 0 0 10 0 0
+Brown @ c:		3 0 1 2 1 1
+Hensling @ p:	3 0 0 1 5 0
+TOTALS:			32 1 5 27 11 2
+
+Oakland:		ab r h po a e
+Cutshaw @ 2b:	3 2 1 5 2 0
+Wares @ ss:		3 0 0 2 3 0
+Hogan, W. @ cf:	3 0 2 2 0 0
+Cameron @ 1b:	4 0 0 11 1 1
+Wolverton @ 3b:	3 1 1 1 3 0
+Swander @ rf:	2 0 0 0 0 0
+Maggart @ lf:	4 0 0 4 0 0
+Mitze @ c:		4 1 2 2 2 0
+Moser @ p:		4 0 1 0 3 0
+TOTALS:			30 4 7 27 14 1		
+
+line: Vernon:  0 1 0 0 0 0 0 0 0 - 1 
+line: Oakland: 1 0 1 0 0 0 2 0 0 - 4 
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Lindsay: Burrell; Cutshaw
+B_3B: 
+B_HR: 
+B_SB: Burrell
+B_SH: Wares; W. Hogan; Swander; Lindsay
+B_SF: 
+B_HP: Cutshaw
+B_XO: 
+P_BB: Moser #1; Hensling #2
+P_SO: Moser #2; Hensling #1
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: Brown; Mitze
+outsatend: 
+T: 1:00
+U: Hildebrand; Finney
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1910-05-26
+number: 0
+league: Pacific Coast
+away: Los Angeles
+home: San Francisco
+source: San Francisco Examiner, 1910-05-27
+
+Los Angeles:	ab r h po a e
+Daley @ cf:		5 1 0 1 0 0
+Bernard @ rf:	4 1 2 0 0 2
+Howard @ 2b:	3 1 0 2 2 1
+Dillon @ 1b:	5 1 2 17 0 0
+Murphy @ lf:	3 2 1 1 0 1
+Roth @ 3b:		4 0 1 1 4 0
+Delmas @ ss:	4 1 3 1 7 0
+Orendorff @ c:	3 0 0 4 2 1
+Criger @ p:		2 1 1 0 5 0
+TOTALS:			33 8 10 27 20 5
+
+San Francisco:		ab r h po a e
+Vitt @ 3b:			4 0 2 3 1 0
+Mohler @ 2b:		3 0 0 6 1 0
+Melchoir @ rf:		5 0 1 2 0 0
+Tennant @ 1b:		4 0 1 8 1 1
+Bodie @ lf:			4 0 1 4 1 1
+(6.1)Lewis @ cf:			3 0 0 0 0 0
+Williams @ c:		4 1 0 1 2 1
+McArdle @ ss:		4 1 2 2 2 1
+Stewart @ p:		3 0 1 0 5 0
+(6.2)*Henley @ cf:		1 0 0 1 0 0
+TOTALS:				35 2 8 27 13 4
+
+line: Los Angeles:   0 0 0 0 0 0 3 3 2 - 8 
+line: San Francisco: 0 0 0 2 0 0 0 0 0 - 2 
+
+*: Henley replaced Lewis in the seventh inning.
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Delmas; Bernard
+B_3B: 
+B_HR: 
+B_SB: Daley; Bernard; Howard; Murphy; Roth
+B_SH: Murphy; Stewart; Orendorff; Roth
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Crieger #5; Stewart #6
+P_SO: Crieger #4; Stewart #1
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:50
+U: McGreevy
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1910-05-26
+number: 0
+league: Pacific Coast
+away: Sacramento
+home: Portland
+source: San Francisco Examiner, 1910-05-27
+
+Sacramento:			ab r h po a e
+Shinn @ ss:			4 1 1 4 1 0
+Pearson @ lf:		4 0 0 0 0 0
+Perry @ cf:			3 1 1 1 0 0
+Briggs @ rf:		4 1 1 1 0 0
+Darringer @ 3b:		4 2 2 1 3 0
+Van Buren @ 1b:		4 0 2 12 0 0
+Raymer @ 2b:		4 0 0 2 4 0
+Spiesman @ c:		3 0 0 6 1 0
+Whalen @ p:			0 0 0 0 0 0
+Baum @ p:			3 0 0 0 2 0
+TOTALS:				33 5 7 27 11 0
+
+Portland:		ab r h po a e
+Smith @ rf:		4 0 1 0 0 0
+Olson @ ss:		4 0 1 1 4 0
+Hetling @ 3b:	3 0 1 0 2 0
+Fisher @ c:		4 0 1 3 2 0
+Rapps @ 1b:		4 0 0 15 1 0
+Ryan @ lf:		4 1 1 1 0 0
+Speas @ cf:		4 0 4 1 0 0
+Casey @ 2b:		3 0 2 2 3 0
+(9.1)Seaton @ p:		2 0 0 0 3 0
+(9.2)*Ort @ ph:		1 0 1 0 0 0
+(9.3)Krapp @ p:		1 0 0 1 0 0
+TOTALS:			34 1 9 27 15 0	
+
+line: Sacramento: 3 0 0 0 0 2 0 0 0 - 5 
+line: Portland:   0 0 0 0 0 0 1 0 0 - 1 
+
+*: Ort batted for Seaton in the seventh inning.
+ejection: Whalen by Van Haltren in the first for arguing balls and strikes
+B_LOB: Sacramento #2; Portland #8
+B_ROE: 
+B_ER: 
+B_2B: Hetling
+B_3B: Van Buren
+B_HR: 
+B_SB: Darringer
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Whalen #1; Krapp #1
+P_SO: Seaton #2
+P_H: Whalen #0; Seaton #6
+P_IP: Whalen #0.2; Seaton #7
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:30
+U: Van Haltren
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1910-05-26
+number: 0
+league: Pacific Coast
+away: Oakland
+home: Vernon
+source: San Francisco Examiner, 1910-05-27
+
+Vernon:			ab r h po a e
+Carlisle @ cf:	4 2 3 1 0 0
+Burrell @ 3b:	4 0 0 0 1 0
+Martinke @ lf:	4 0 0 4 0 0
+Brashear,R. @ 2b:	4 0 1 1 3 0
+Coy @ rf:		4 1 3 1 0 0
+Lindsay @ ss:	4 0 1 7 1 0
+Fisher @ 1b:	3 1 1 5 1 0
+Hogan,H. @ c:	2 2 0 6 4 0
+Hitt @ p:		3 0 1 2 1 0
+TOTALS:			32 6 10 27 11 0
+
+Oakland:		ab r h po a e
+Cutshaw @ 2b:	4 0 1 2 3 0
+Wares @ ss:		4 1 2 1 1 2
+Hogan,W. @ cf:	3 0 2 3 0 0
+Cameron @ 1b:	4 0 0 12 0 0
+Wolverton @ 3b:	3 0 1 2 3 0
+Swander @ rf:	2 0 1 1 0 0
+Maggart @ lf:	3 0 0 1 0 0
+Mitze @ c:		2 0 0 2 2 1
+Christian @ p:	3 0 0 0 7 1
+TOTALS:			28 1 7 24 13 4		
+
+line: Vernon:   1 0 2 0 0 0 0 3 X - 6 
+line: Oakland:  0 0 0 1 0 0 0 0 0 - 1
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Carlisle; Wares #2; Lindsay
+B_3B: 
+B_HR: Carlisle; Coy
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Christian #4; Hitt #3
+P_SO: Hitt #4
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: R. Brashear, Fisher; Cutshaw, Wares; Christian, Mitze, Cameron; R. Brashear, Lindsay, Fisher
+F_PB: 
+outsatend: 
+T: 1:45
+U: Finney; Hildebrand
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1910-05-27
+number: 0
+league: Pacific Coast
+away: Los Angeles
+home: San Francisco
+source: San Francisco Examiner, 1910-05-28
+
+Los Angeles:	ab r h po a e
+Daley @ cf:		4 1 1 2 0 0
+Bernard @ rf:	4 0 0 2 0 0
+Howard	@ 2b:	3 1 2 2 0 2
+Dillon @ 1b:	4 0 0 8 1 0
+Murphy @ lf:	3 1 0 0 0 0
+Roth @ 3b:		4 0 2 2 2 2
+Delmas @ ss:	3 0 1 4 4 0
+Orendorff @ c:	4 0 0 3 3 0
+Tozer @ p:		3 0 0 1 2 0
+TOTALS:			32 3 6 24 12 4
+
+San Francisco:		ab r h po a e
+Vitt @ 3b:		1 1 0 0 3 0
+Mohler @ 2b:	4 2 1 5 1 1
+Melchoir @ rf:	4 2 3 2 0 1
+Tennant @ 1b:	3 1 1 11 1 0
+Bodie @ lf:		4 1 1 0 0 0
+Lewis @ cf:		3 2 0 4 0 1
+Berry @ c:		4 0 0 2 2 1
+McArdle @ ss:	4 1 1 2 3 1
+Miller @ p:		3 1 0 1 4 0
+TOTALS:				30 11 7 27 14 5
+
+line: Los Angeles:    1 1 0 0 0 1 0 0 0 - 3 
+line: San Francisco:  0 5 0 0 4 2 0 0 X - 11
+
+note: Second inning of five runs was spurred on by rooting with cowbells by SF fans.
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Dillon
+B_3B: 
+B_HR: 
+B_SB: Howard; Lewis
+B_SH: 
+B_SF: 
+B_HP: Vitt
+B_XO: 
+P_BB: Miller #3; Tozer #7
+P_SO: Miller #1; Tozer #3
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: Tozer
+P_BK: 
+F_DP: McArdle, Mohler, Tennant
+F_PB: 
+outsatend: 
+T: 1:40
+U: McGreevy
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1910-05-27
+number: 0
+league: Pacific Coast
+away: Sacramento
+home: Portland
+source: San Francisco Examiner, 1910-05-28
+
+Sacramento: 	ab r h po a e
+Shinn @ ss:     3 0 0 4 1 3
+Pearson @ lf:   3 0 1 1 0 0
+Perry @ cf:     4 0 0 2 0 0
+Briggs @ rf:    4 0 0 2 0 0
+Darringer @ 3b: 4 0 0 2 1 0
+Van Buren @ 1b: 3 0 1 8 0 0
+Raymer @ 2b:    3 0 0 0 2 0
+Spiesman @ c:   2 0 0 4 3 0
+Whalen @ p:     2 0 1 1 3 0
+TOTALS:		    28 0 3 24 10 3
+
+Portland:       ab r h po a e
+Smith @ rf:     4 0 0 3 0 0
+Olson @ ss:     4 2 2 0 1 0
+Hetling @ 3b:   2 0 2 2 0 0
+Fisher @ c:     4 0 1 3 2 0
+Rapps @ 1b:     4 0 1 12 1 0
+Speas @ cf:     4 1 0 1 0 0
+Casey @ 2b:     1 0 1 4 3 0
+Ryan @ lf:      4 0 1 1 0 0
+Krapp @ p:      4 0 0 1 7 0
+TOTALS:		    31 3 8 27 14 0
+
+line: Sacramento: 0 0 0 0 0 0 0 0 0 - 0 
+line: Portland:   0 0 0 0 1 0 1 1 X - 3 
+
+B_LOB: Sacramento #6; Portland #9
+B_ROE: Portland #3
+B_ER: 
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: Olson; Whalen
+B_SH: Pearson; Casey
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Whalen #4; Krapp #4
+P_SO: Whalen #2; Krapp #4
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:35
+U: Van Haltren
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1910-05-27
+number: 0
+league: Pacific Coast
+away: Oakland
+home: Vernon
+source: San Francisco Examiner, 1910-05-28
+
+Vernon: 	   ab r h po a e
+Carlisle @ cf:  3 1 1 1 0 0
+Burrell @ 3b:   4 0 1 0 1 0
+Martinke @ lf:  3 0 0 2 0 1
+Brashear,R. @ 2b:   4 0 1 2 4 0
+Coy @ rf:       4 0 0 1 0 0
+Lindsay @ ss:   4 0 1 4 4 1
+Fisher @ 1b:    4 0 2 11 2 0
+(8.1)Hogan,H. @ c:   2 0 0 5 0 0
+Willett @ p:    3 0 0 1 4 0
+(8.2)*Brashear,N. @ ph: 1 0 0 0 0 0
+TOTALS:	       32 1 6 27 15 2 	
+
+Oakland:		ab r h po a e
+Cutshaw @ 2b:   4 1 2 4 5 0
+Wares @ ss:     4 0 2 2 4 0
+Hogan,W. @ cf:  4 0 1 2 0 0
+Cameron @ 1b:   4 1 1 11 0 0
+Wolverton @ 3b: 2 1 0 1 0 0
+Swander @ rf:   4 0 1 1 0 0
+Maggert @ lf:   3 1 2 0 0 0
+Pearce @ c:     3 1 1 6 2 1
+Nelson @ p:     4 0 0 0 3 0
+TOTALS:         32 5 10 27 14 1		
+
+line: Vernon:  1 0 0 0 0 0 0 0 0 - 1 
+line: Oakland: 0 0 0 0 0 0 0 4 1 - 5 
+
+*: N. Brashear batted for H. Hogan in the ninth inning.
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: R. Brashear; Wares
+B_3B: Carlisle
+B_HR: 
+B_SB: 
+B_SH: Pearce; Maggert
+B_SF: 
+B_HP: Wolverton
+B_XO: 
+P_BB: Nelson #3; Willett #1
+P_SO: Nelson #3; Willett #1
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: Willett; Nelson
+P_BK: 
+F_DP: Fisher; R. Brashear, Lindsay, Fisher
+F_PB: 
+outsatend: 
+T: 1:30
+U: Hildebrand; Finney
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1910-05-28
+number: 0
+league: Pacific Coast
+away: Los Angeles
+home: San Francisco
+source: San Francisco Examiner, 1910-05-29
+
+Los Angeles:	ab r h po a e
+Daley @ cf:     3 0 1 0 0 0
+Bernard @ rf:   4 0 1 0 0 1
+Howard @ 2b:    4 1 0 2 4 0
+Dillon @ 1b:    3 0 3 17 1 0
+Murphy @ lf:    4 0 0 2 0 0
+Roth @ 3b:      4 0 1 1 4 0
+Delmas @ ss:    3 0 0 2 5 1
+Orendorff @ c:  2 0 1 2 0 0
+Briswalter @ p: 2 0 0 0 3 0
+TOTALS:		   30 1 7 26 17 2
+
+San Francisco:		ab r h po a e
+Vitt @ 3b:          3 2 2 1 1 0
+Mohler @ 2b:        3 0 1 5 1 0
+Melchoir @ rf:      4 0 1 1 1 0
+Tennant @ 1b:       4 0 1 7 2 1
+Bodie @ lf:         1 0 0 3 0 0
+Lewis @ cf:         3 0 0 4 0 1
+Berry @ c:          3 0 0 4 3 0
+McArdle @ ss:       3 0 0 1 4 0
+Henley @ p:         3 0 0 1 1 0
+TOTALS:		       27 2 5 27 13 2
+
+line: Los Angeles: 0 0 0 0 0 0 1 0 0 - 1 
+line: San Francisco: 0 0 0 0 0 1 0 0 1 - 2 
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Vitt
+B_3B: 
+B_HR: 
+B_SB: Bodie
+B_SH: Lewis; Briswalter; Mohler
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Henley #3; Briswalter #3
+P_SO: Henley #3; Briswalter #1
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Roth, Howard, Delmas
+F_PB: 
+outsatend: 2
+T: 1:30
+U: McGreevy
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1910-05-28
+number: 0
+league: Pacific Coast
+away: Oakland
+home: Vernon
+source: San Francisco Examiner, 1910-05-29
+
+Vernon: 	   ab r h po a e
+Carlisle @ lf:  3 0 1 3 0 0
+Burrell @ 3b:   3 0 1 1 3 0
+Martinke @ rf:  3 0 0 2 0 0
+Brashear,R. @ 2b:   4 1 1 5 3 0
+Coy @ cf:       3 0 1 2 0 0
+Lindsay @ ss:   3 0 0 0 4 0
+Fisher @ 1b:    3 0 0 11 1 0
+Brown @ c:      3 0 0 2 1 1
+Brackenridge @ p:   3 0 0 1 3 0
+TOTALS:	    	28 1 4 27 15 1
+
+Oakland:		ab r h po a e
+Cutshaw @ 2b:   4 0 1 4 3 0
+Wares @ ss:     3 0 1 1 3 0
+Hogan,W. @ cf:  4 1 1 1 0 0
+Cameron @ 1b:   4 1 1 14 1 0
+Wolverton @ 3b: 4 0 1 0 3 0
+Swander @ rf:   3 1 0 2 0 0
+Maggert @ lf:   4 0 1 0 0 0
+Pearce @ c:     4 0 1 5 6 0
+Lively @ p:     4 0 1 0 8 0
+TOTALS:	        34 3 7 27 24 0	
+
+line: Vernon: 0 0 0 0 0 0 1 0 0 - 1 
+line: Oakland: 0 0 0 2 0 0 0 0 1 - 3 
+
+ejecton: H. Hogan by Finney in the fifth inning for arguing
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: W. Hogan; Wolverton; R. Brashear; Pearce
+B_3B: 
+B_HR: 
+B_SB: Carlisle; Burrell
+B_SH: Wares; Burrell; Lindsay
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Lively #3; Brackenridge #2
+P_SO: Lively #6; Brackenridge #2
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Lively, Pearce, Wares
+F_PB: 
+outsatend: 
+T: 1:50
+U: Finney; Hildebrand
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1910-05-28
+number: 0
+league: Pacific Coast
+away: Sacramento
+home: Portland
+source: San Francisco Examiner, 1910-05-29
+
+Sacramento:	        ab r h po a e
+Shinn @ ss:         4 1 0 4 3 1
+Pearson @ lf:       2 0 0 1 0 0
+Perry @ cf:         3 0 1 3 2 0
+Briggs @ rf:        3 0 1 0 0 1
+Darringer @ 3b:     4 0 1 1 3 0
+Van Buren @ 1b:     3 0 0 6 2 1
+Raymer @ 2b:        4 0 1 2 1 0
+Spiesman @ c:       4 0 1 7 1 0
+(9.1)Fitzgerland @ p:    0 0 0 0 0 0
+(9.2)Hunt @ p:           3 0 0 0 2 0
+(9.3)$Boardman @ ph:      1 0 1 0 0 0
+TOTALS:		       31 1 6 24 14 3
+
+Portland:		ab r h po a e
+Smith @ rf:     2 1 0 1 0 0
+Olson @ ss:     4 1 0 0 0 0
+Hetling @ 3b:   2 1 1 2 1 0
+Fisher @ c:     3 0 2 11 1 0
+Rapps @ 1b:     3 0 1 10 1 0
+Casey @ 2b:     3 0 1 1 4 0
+Speas @ cf:     2 0 0 1 0 0
+Ryan @ lf:      4 0 2 0 0 0
+Gregg @ p:      2 0 0 1 3 0
+TOTALS:	        25 3 7 27 10 0	
+
+line: Sacramento: 0 0 0 0 0 1 0 0 0 - 1 
+line: Portland:   1 0 0 0 1 0 1 0 X - 3 
+
+$: Boardman batted for Hunt in the ninth inning. 
+B_LOB: Sacramento #9; Portland #8
+B_ROE: Portland #2
+B_ER: 
+B_2B: Spiesman
+B_3B: 
+B_HR: 
+B_SB: Pearson; Rapps
+B_SH: Van Buren; Gregg; Speas #2
+B_SF: 
+B_HP: Fisher; Rapps; Briggs; Pearson; Perry
+B_XO: 
+P_BB: Fitzgerland #2; Gregg #2; Hunt #3
+P_SO: Fitzgerland #1; Gregg #5; Hunt #5
+P_H: Fitzgerland #1
+P_IP: Fitzgerland #1.1
+P_HP: 
+P_WP: Hunt
+P_BK: 
+F_DP: Raymer, Shinn, Darringer, Spiesman, Shinn; Van Buren, Raymer; Fisher, Rapps; Van Buren, Darringer
+F_PB: 
+outsatend: 
+T: 1:40
+U: Van Haltren
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: Fitzgerland
+P_SV: 
+
+---
+
+date: 1910-05-29
+number: 1
+league: Pacific Coast
+away: Los Angeles
+home: San Francisco
+source: San Francisco Examiner, 1910-05-30
+
+Los Angeles:	ab r h po a e
+Daley @ cf:     5 0 1 0 1 0
+Bernard @ rf:   3 1 1 4 0 0
+Howard @ 2b:    4 2 2 2 6 0
+Dillon @ 1b:    4 1 1 10 1 0
+Murphy @ lf:    4 1 1 2 0 0
+Roth @ 3b:      4 1 3 2 2 0
+Delmas @ ss:    1 1 1 1 3 0
+Smith @ c:      4 0 1 6 2 1
+Wheeler @ p:    4 1 0 0 5 1
+Hosp @ rf:      1 0 0 0 0 0
+TOTALS:		   34 8 11 27 20 2
+
+San Francisco:		ab r h po a e
+Vitt @ 3b:          3 0 1 1 0 0
+Mohler @ 2b:        4 1 0 3 5 2
+Melchoir @ rf:      4 0 0 0 0 0
+Tennant @ 1b:       3 0 1 12 0 0
+Berry @ c:          4 0 2 3 4 0
+Lewis @ cf:         3 2 2 2 0 1
+Bodie @ lf:         1 1 0 1 0 0
+McArdle @ ss:       3 0 0 4 5 1
+(9.1)Ames @ p:           3 0 0 0 4 0
+Shaw @ 3b:          1 0 0 1 1 0
+(9.2)*Williams @ ph:      1 0 0 0 0 0
+TOTALS:		       30 4 6 27 19 4
+
+line: Los Angeles:   0 1 0 0 0 2 5 0 0 - 8 
+line: San Francisco: 1 0 0 2 0 0 0 1 0 - 4 
+
+*: Williams batted for Ames in the ninth inning.
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Tennant; Murphy; Roth #2; Smith; Howard
+B_3B: 
+B_HR: Dillon; Lewis
+B_SB: Wheeler; Vitt; Tennant; Lewis
+B_SH: McArdle; Bodie; Delmas
+B_SF: 
+B_HP: Vitt; Mohler; Tennant
+B_XO: 
+P_BB: Wheeler #3; Ames #3
+P_SO: Wheeler #4; Ames #3
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: Wheeler
+P_BK: 
+F_DP: McArdle, Mohler, Tennant; Mohler, McArdle, Tennant; Mohler, McArdle, Tennant
+F_PB: 
+outsatend: 
+T: 1:45
+U: McGreevy
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1910-05-29
+number: 2
+league: Pacific Coast
+away: Los Angeles
+home: San Francisco
+source: San Francisco Examiner, 1910-05-30
+
+Los Angeles:	ab r h po a e
+Daley @ cf:     5 1 2 4 0 0
+Bernard @ rf:   5 1 3 3 0 0
+Howard @ 2b:    4 1 1 3 4 0
+Dillon @ 1b:    4 0 0 12 0 0
+Murphy @ lf:    2 0 1 3 0 0
+Roth @ 3b:      4 0 0 1 0 0
+Delmas @ ss:    4 1 2 1 4 0
+Nagle @ p:      4 0 1 0 2 0
+TOTALS:		   34 4 12 27 12 0
+
+San Francisco:		ab r h po a e
+Shaw @ 3b:          4 0 1 2 3 1
+Mohler @ 2b:        4 1 1 3 3 1
+Melchoir @ rf:      4 0 2 1 0 0
+Tennant @ 1b:       4 0 0 7 1 0
+Berry @ c:          3 0 0 7 3 0
+Lewis @ cf:         4 0 2 2 1 0
+Bodie @ lf:         3 0 0 1 1 0
+McArdle @ ss:       4 0 1 3 2 0
+Eastley @ p:        3 0 1 1 1 1
+TOTALS:		       33 1 8 27 14 3
+
+line: Los Angeles: 0 0 0 0 0 3 1 0 0 - 4 
+line: San Francisco: 1 0 0 0 0 0 0 0 0 - 1 
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Mohler; Bernard
+B_3B: 
+B_HR: Howard; Delmas
+B_SB: Daley
+B_SH: Bodie; Murphy; Smith
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Nagle #2
+P_SO: 
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Lewis, Berry; McArdle, Shaw
+F_PB: 
+outsatend: 
+T: 1:40
+U: McGreevy
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1910-05-29
+number: 1
+league: Pacific Coast
+away: Oakland
+home: Vernon
+source: San Francisco Examiner, 1910-05-30
+
+Vernon:	    ab r h po a e
+Carlisle @ lf:  3 1 2 1 0 0
+Burrell @ 3b:   3 1 0 1 2 0
+Martinke @ rf:   4 0 1 1 0 0
+Brashear,R. @ 2b:   2 1 1 3 4 0
+Coy @ cf:       3 1 0 4 0 1
+Lindsay @ ss:   4 0 1 3 3 0
+(7.1)Fisher @ 1b:    3 0 0 12 2 0
+(8.1)Brown @ c:      2 0 0 2 1 0
+Schafer @ p:    2 0 0 1 2 1
+Hitt @ p:       1 0 0 0 0 0
+(8.2)*Brashear,N. @ ph:   1 1 1 0 0 0
+(7.2)$Stovall @ ph:   1 0 0 0 0 0
+TOTALS:		29 5 6 27 14 2
+
+Oakland:		ab r h po a e
+Cutshaw @ 2b:   3 3 2 4 7 0
+Wares @ ss:     3 1 1 1 4 2
+Hogan,W. @ cf:  4 0 1 1 0 0
+Cameron @ 1b:   4 0 1 12 0 0
+Wolverton @ 3b: 4 0 0 1 0 1
+Swander @ rf:   4 0 1 2 1 0
+Maggert @ lf:   4 0 1 2 0 0
+Pearce @ c:     4 0 0 2 2 0
+(9.1)Harkins @ p:    3 0 0 1 3 0
+(9.2)&Moser @ p:      0 0 0 0 0 0
+TOTALS:         33 4 7 26 17 3		
+
+line: Oakland: 1 0 0 0 0 1 0 2 0 - 4
+line: Vernon:  1 0 0 0 0 3 0 0 1 - 5 
+
+*: N. Brashear hit for Brown in the ninth inning.
+$: Stovall hit for Fisher in the ninth inning.
+&: Moser replaced Harkins with two out in the ninth and game immediately lost due to a passed ball.
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Carlisle; Swander; W. Hogan
+B_3B: 
+B_HR: Cutshaw
+B_SB: Carlisle; Burrell; R. Brashear #2; N. Brashear
+B_SH: Wares; Burrell; Schafer
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Harkins #5; Schafer #1
+P_SO: Harkins #1; Schafer #2
+P_H: Harkins #6; Schafer #7
+P_IP: Harkins #8.2; Schafer # 7.1
+P_HP: 
+P_WP: Schafer
+P_BK: 
+F_DP: Swander, Cameron
+F_PB: Pearce
+outsatend: 2 
+T: 1:40
+U: Hildebrand; Finney
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1910-05-29
+number: 2
+league: Pacific Coast
+away: Oakland
+home: Vernon
+source: San Francisco Examiner, 1910-05-30
+
+Vernon:			ab r h po a e
+Carlisle @ lf:	3 0 0 2 0 0
+Burrell @ 3b:	3 0 0 0 3 0
+Martinke @ rf:	4 0 2 1 0 0
+Brashear,R. @ 2b:	4 0 0 4 3 0
+Coy @ cf:		4 0 1 3 0 1
+Lindsay @ ss:	3 0 0 1 3 1
+Fisher @ 1b:	3 0 0 9 1 0
+Hogan,H. @ c:	3 0 0 6 1 0
+Hitt @ p:		3 0 0 1 3 0
+TOTALS:			30 0 3 27 14 2
+
+Oakland:		ab r h po a e
+Cutshaw @ 2b:	5 1 2 1 8 0
+Wares @ ss:		4 0 1 0 1 0
+Hogan,W. @ cf:	5 1 2 1 0 0
+Cameron @ 1b:	4 0 0 13 0 0
+Wolverton @ 3b:	4 0 1 0 3 0
+Swander @ rf:	4 1 1 3 0 0
+(7.1)Maggart @ lf:	2 1 1 1 0 0
+Mitze @ c:		4 0 1 7 0 0
+(7.2)$Christian @ lf:	2 0 0 1 0 0
+Moser @ p:		4 0 1 1 0 0
+TOTALS:			38 4 10 27 13 0		
+
+line: Oakland: 0 2 0 0 2 0 0 0 0 - 4 
+line: Vernon:  0 0 0 0 0 0 0 0 0 - 0
+
+$: Christian replaced Maggart after Maggart was injured in the fifth inning.
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Swander; Mitze; Cutshaw
+B_3B: 
+B_HR: 
+B_SB: Fisher
+B_SH: Burrell
+B_SF: 
+B_HP: Carlisle
+B_XO: 
+P_BB: Hitt #1
+P_SO: Hitt #4; Moser #7
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: Mitze; H. Hogan
+outsatend: 
+T: 1:40
+U: Finney; Hildebrand
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1910-05-29
+number: 0
+league: Pacific Coast
+away: Sacramento
+home: Portland
+source: San Francisco Examiner, 1910-05-30
+
+Sacramento:		ab r h po a e
+Pearson @ lf:	4 1 1 0 0 0
+Darringer @ 3b:	4 0 0 1 3 2
+Van Buren @ cf:	3 1 1 1 0 0
+Briggs @ rf:	4 1 1 0 0 0
+Danzig @ 1b:	4 0 1 17 1 0
+Raymer @ 2b:	4 0 1 1 3 0
+Shinn @ ss:		3 0 1 2 0 0
+Spiesman @ c:	3 0 0 3 2 1
+Baum @ p:		4 0 0 1 6 0
+TOTALS:			33 3 6 26 15 3
+
+Portland:		ab r h po a e
+Smith @ rf:		4 0 0 1 0 0
+Olson @ ss:		5 1 3 1 2 0
+Hetling @ 3b:	4 0 0 2 1 0
+Fisher @ c:		4 0 2 7 1 0
+Rapps @ 1b:		3 0 2 9 0 0
+Casey @ 2b:		3 0 0 0 1 0
+Ryan @ cf:		4 1 1 2 0 0
+Speas @ lf:		4 1 1 5 0 0
+Steen @ p:		4 1 2 0 2 0
+TOTALS:			35 4 11 27 7 0	
+
+line: Sacramento: 0 0 0 0 0 0 1 2 0 - 3 
+line: Portland:   1 0 0 0 1 0 1 0 1 - 4 
+
+B_LOB: 
+B_ROE: Portland #1
+B_ER: 
+B_2B: Fisher; Rapps; Briggs
+B_3B: Rapps
+B_HR: Van Buren
+B_SB: Shinn #2; Steen #2; Speas #2; Ryan
+B_SH: Rapps
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Baum #2; Steen #3
+P_SO: Baum #2; Steen #2
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 2
+T: 2:00
+U: Van Haltren
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1910-05-30
+number: 1
+league: Pacific Coast
+away: Sacramento
+home: Portland
+source: San Francisco Examiner, 1910-05-31
+
+Sacramento:		ab r h po a e
+Pearson @ lf:	4 0 0 1 0 1
+Darringer @ 3b:	3 0 1 0 1 0
+Van Buren @ cf:	4 0 3 3 0 0
+Briggs @ rf:	4 0 1 3 0 0
+Danzig @ 1b:	4 0 1 7 0 0
+Raymer @ 2b:	2 0 1 2 3 0
+Shinn @ ss:		3 0 0 1 2 0
+Spiesman @ c:	3 0 0 7 1 0
+Fitzgerland @ p:	2 0 0 0 5 1
+TOTALS:			29 0 7 24 12 2
+
+Portland:		ab r h po a e
+Smith @ rf:		4 0 1 1 0 0
+Olson @ ss:		2 0 0 2 4 0
+Hetling @ 3b:	4 0 0 0 0 1
+Fisher @ c:		4 0 0 5 2 0
+Rapps @ 1b:		3 1 1 12 1 0
+Casey @ 2b:		2 0 0 3 5 0
+Speas @ cf:		2 0 1 3 1 0
+Ryan @ lf:		2 0 1 0 0 0
+Seaton @ p:		2 0 0 1 4 0
+TOTALS:			25 1 4 27 17 1	
+
+line: Sacramento: 0 0 0 0 0 0 0 0 0 - 0 
+line: Portland:   0 1 0 0 0 0 0 0 X - 1 
+
+B_LOB: Sacramento #6; Portland #6
+B_ROE: Sacramento #1; Portland #2
+B_ER: 
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: Darringer; Olson
+B_SH: Raymer #2; Casey; Speas; Ryan; Olson
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Fitzgerland #2; Seaton #2
+P_SO: Fitzgerland #6; Seaton #3
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:35
+U: Van Haltren
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1910-05-30
+number: 2
+league: Pacific Coast
+away: Sacramento
+home: Portland
+source: San Francisco Examiner, 1910-05-31
+
+Sacramento:		ab r h po a e
+Pearson @ lf:	4 0 1 0 0 0
+Darringer @ 3b:	3 0 1 0 3 0
+Van Buren @ cf:	4 0 0 6 0 0
+Briggs @ rf:	4 0 2 2 0 0
+Danzig @ 1b:	4 0 0 9 0 0
+Raymer @ 2b:	4 0 0 2 3 1
+Shinn @ ss:		4 0 1 0 2 0
+Spiesman @ c:	3 0 0 5 0 0
+Nourse @ p:		0 0 0 0 0 1
+Whalen @ p:		3 0 1 0 2 0
+TOTALS:			33 0 6 24 10 2
+
+Portland:		ab r h po a e
+Smith @ rf:		4 3 2 1 0 0
+Olson @ ss:		4 3 2 1 2 0
+Hetling @ 3b:	4 1 0 1 2 0
+Fisher @ c:		4 1 2 3 0 0
+Rapps @ 1b:		3 0 1 13 1 0
+Casey @ 2b:		3 1 2 1 5 0
+Speas @ cf:		4 0 1 2 0 0
+Ryan @ lf:		4 0 1 1 4 0
+Krapp @ p:		4 0 1 1 4 0
+Murray @ c:		1 0 0 0 0 0
+TOTALS:			35 9 12 27 14 0	
+
+line: Sacramento: 0 0 0 0 0 0 0 0 0 - 0 
+line: Portland:   3 3 0 2 0 0 1 0 X - 9
+
+B_LOB: Sacramento #7; Portland #7
+B_ROE: Portland #1
+B_ER: 
+B_2B: Casey; Rapps; Briggs #2
+B_3B: Fisher
+B_HR: 
+B_SB: Shinn; Krapp; Smith #2; Ryan
+B_SH: Rapps
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Nourse #1; Whalen #3; Krapp #1
+P_SO: Nourse #1; Whalen #2; Krapp #3
+P_H: 
+P_IP: Nourse #3
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Shinn, Raymer, Danzig
+F_PB: Spiesman
+outsatend: 
+T: 1:30
+U: Van Haltren
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: Nourse
+P_SV: 
+
+---
+
