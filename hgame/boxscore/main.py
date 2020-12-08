@@ -55,6 +55,12 @@ def do_json(source):
     tojson.main(source)
 
 
+@boxscore.command("summary")
+def do_summary():
+    """Summarise data"""
+    tojson.summary()
+
+
 @boxscore.command("toml")
 @click.argument("source")
 def do_toml(source):

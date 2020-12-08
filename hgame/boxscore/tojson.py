@@ -217,12 +217,13 @@ def index_players(games: list) -> pd.DataFrame:
         {'game.id': i,
          'team.name': team['name'],
          'team.league': team['league'],
+         'person.seq': f"{prefix}{j:02d}",
          'person.name.last': player['last'],
          'person.name.first': player.get('first', None),
          'pos': player['pos']}
         for (i, game) in enumerate(games)
-        for team in game['teams']
-        for player in team['players']
+        for (prefix, team) in zip(("a", "b"), game['teams'])
+        for (j, player) in enumerate(team['players'])
     ])
 
 
@@ -257,6 +258,49 @@ def identify_games(df: pd.DataFrame, teams: pd.DataFrame) -> pd.DataFrame:
     )
 
 
+def aggregate_players(df: pd.DataFrame) -> pd.DataFrame:
+    return (
+        df.assign(**{
+            'last': lambda x: (
+                x['gloss.name.last'].fillna(x['person.name.last']).fillna("")
+            ),
+            'given': lambda x: (
+                x['gloss.name.first'].fillna(x['person.name.first']).fillna("")
+            ),
+            'date': lambda x: x['key'].str[:8],
+            'F_P_G': lambda x: (x['pos'] == "p").astype(int),
+            'F_C_G': lambda x: (x['pos'] == "c").astype(int),
+            'F_1B_G': lambda x: (x['pos'] == "1b").astype(int),
+            'F_2B_G': lambda x: (x['pos'] == "2b").astype(int),
+            'F_3B_G': lambda x: (x['pos'] == "3b").astype(int),
+            'F_SS_G': lambda x: (x['pos'] == "ss").astype(int),
+            'F_LF_G': lambda x: (x['pos'] == "lf").astype(int),
+            'F_CF_G': lambda x: (x['pos'] == "cf").astype(int),
+            'F_RF_G': lambda x: (x['pos'] == "rf").astype(int)
+        })
+        .groupby(['team.league', 'team.name',
+                  'last', 'given', 'date', 'key'])
+        .sum().reset_index()
+        .assign(B_G=1)
+        .groupby(['team.league', 'team.name',
+                  'last', 'given'])
+        .agg(
+            S_FIRST=pd.NamedAgg(column='date', aggfunc=min),
+            S_LAST=pd.NamedAgg(column='date', aggfunc=max),
+            B_G=pd.NamedAgg(column='B_G', aggfunc=sum),
+            F_P_G=pd.NamedAgg(column='F_P_G', aggfunc=sum),
+            F_C_G=pd.NamedAgg(column='F_C_G', aggfunc=sum),
+            F_1B_G=pd.NamedAgg(column='F_1B_G', aggfunc=sum),
+            F_2B_G=pd.NamedAgg(column='F_2B_G', aggfunc=sum),
+            F_3B_G=pd.NamedAgg(column='F_3B_G', aggfunc=sum),
+            F_SS_G=pd.NamedAgg(column='F_SS_G', aggfunc=sum),
+            F_LF_G=pd.NamedAgg(column='F_LF_G', aggfunc=sum),
+            F_CF_G=pd.NamedAgg(column='F_CF_G', aggfunc=sum),
+            F_RF_G=pd.NamedAgg(column='F_RF_G', aggfunc=sum),
+        )
+        .reset_index()
+    )
+
 def main(source: str):
     try:
         year, paper = source.split("-")
@@ -271,13 +315,20 @@ def main(source: str):
     games = index_games(data).pipe(identify_games, games_teams)
     games.to_csv("games.csv", index=False, float_format='%d')
     players = (
-        index_players(data)
+        index_players(data).pipe(identify_teams)
         .merge(games[['game.id', 'key']], how='left', on='game.id')
-        .reindex(columns=['team.league', 'team.name',
+        .reindex(columns=['team.league', 'team.key', 'team.name',
                           'key',
-                          'person.name',
-                          'person.name.last', 'person.name.first', 'pos'])
+                          'gloss.name.last', 'gloss.name.first',
+                          'person.name.last', 'person.name.first',
+                          'person.seq', 'pos'])
         .sort_values(['team.league', 'team.name',
                       'person.name.last', 'key'])
     )
     players.to_csv("games_players.csv", index=False, float_format='%d')
+
+
+def summary():
+    players = pd.read_csv("games_players.csv")
+    totals = aggregate_players(players)
+    totals.to_csv("playing.csv", index=False, float_format='%d')
