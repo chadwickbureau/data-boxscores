@@ -56,9 +56,10 @@ def do_json(source):
 
 
 @boxscore.command("summary")
-def do_summary():
+@click.argument("year", type=int)
+def do_summary(year: int):
     """Summarise data"""
-    tojson.summary()
+    tojson.summary(year)
 
 
 @boxscore.command("toml")

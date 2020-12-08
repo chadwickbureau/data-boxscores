@@ -2,6 +2,7 @@ import sys
 import datetime
 import io
 import pathlib
+import tabulate
 
 import pandas as pd
 
@@ -155,6 +156,9 @@ def parse_game(text: str) -> dict:
             fn(game, v)
     except StopIteration:
         pass
+    if game['teams'][0]['name'] is None or game['teams'][1]['name'] is None:
+        print(f"WARNING: Missing team")
+        print(f"{game['data']['date']} {game['teams'][0]['name']} at {game['teams'][1]['name']}")
     return game
 
 
@@ -186,9 +190,10 @@ def process_files(inpath: pathlib.Path):
     ]
 
 
-def index_games(games: list) -> pd.DataFrame:
+def index_games(games: list, source: str) -> pd.DataFrame:
     df = pd.DataFrame(
         [{'game.id': i,
+          'source': source,
           'key': None,
           'season': game['data']['season'],
           'date': game['data']['date'],
@@ -227,9 +232,20 @@ def index_players(games: list) -> pd.DataFrame:
     ])
 
 
-def identify_teams(df: pd.DataFrame) -> pd.DataFrame:
-    index = pd.read_csv("teams.csv")
-    return df.merge(index, how='left', on=['team.league', 'team.name'])
+def identify_teams(df: pd.DataFrame, year: int) -> pd.DataFrame:
+    index = pd.read_csv(f"data/support/{year}/teams.csv")
+    df = df.merge(index, how='left', on=['team.league', 'team.name'])
+    unmatched = (
+        df.query("`team.key`.isnull()")
+        [['team.league', 'team.name']]
+        .drop_duplicates()
+        .sort_values(['team.league', 'team.name'])
+    )
+    if not unmatched.empty:
+        print("The following teams were not matched to a key:")
+        print(tabulate.tabulate(unmatched, headers='keys', showindex=False))
+        sys.exit(1)
+    return df
 
 
 def identify_games(df: pd.DataFrame, teams: pd.DataFrame) -> pd.DataFrame:
@@ -256,6 +272,83 @@ def identify_games(df: pd.DataFrame, teams: pd.DataFrame) -> pd.DataFrame:
             )
         })
     )
+
+
+def update_player_index(path: pathlib.Path,
+                        source: str, league: str,
+                        df: pd.DataFrame) -> pd.DataFrame:
+    """Update the player index for league with data from source."""
+    league = league.replace(" ", "").replace("-", "")
+    (path/league).mkdir(exist_ok=True, parents=True)
+    dfcols = ['team.league', 'team.key',
+              'team.name', 'source',
+              'key',
+              'gloss.name.last', 'gloss.name.first',
+              'person.name.last', 'person.name.first',
+              'person.seq', 'pos']
+    try:
+        index = pd.read_csv(path/league/"players.csv", usecols=dfcols).fillna("")
+    except FileNotFoundError:
+        index = pd.DataFrame(columns=dfcols)
+    df = df.merge(index[['source', 'team.name', 'key',
+                         'person.name.last', 'person.name.first',
+                         'person.seq',
+                         'gloss.name.last', 'gloss.name.first']],
+                  how='left',
+                  on=['source', 'team.name', 'key',
+                      'person.name.last', 'person.name.first',
+                      'person.seq'])
+    index = (
+        pd.concat([index.query(f"source != '{source}'"), df],
+                  ignore_index=True, sort=False)
+        .reindex(columns=dfcols)
+        .fillna("")
+        .assign(
+            sortlast=lambda x: (
+                x['gloss.name.last'].replace("", pd.NA)
+                .fillna(x['person.name.last']).fillna("")
+            ),
+            sortfirst=lambda x: (
+                x['gloss.name.first'].replace("", pd.NA)
+                .fillna(x['person.name.first']).fillna(""))
+        )
+        .sort_values(['team.name', 'sortlast', 'sortfirst', 'key', 'source'])
+        .drop(columns=['sortlast', 'sortfirst'])
+    )
+    index.to_csv(path/league/"players.csv", index=False, float_format='%d')
+    return index
+
+
+def main(source: str):
+    try:
+        year, paper = source.split("-")
+    except ValueError:
+        print(f"Invalid source name '{source}'")
+        sys.exit(1)
+
+    inpath = config.data_path/"transcript"/year/source
+    outpath = pathlib.Path(f"data/index/{year}")
+    outpath.mkdir(exist_ok=True, parents=True)
+
+    data = process_files(inpath)
+    games_teams = index_teams(data).pipe(identify_teams, year)
+    # games_teams.to_csv("games_teams.csv", index=False, float_format='%d')
+    games = index_games(data, source).pipe(identify_games, games_teams)
+    # games.to_csv("games.csv", index=False, float_format='%d')
+    players = (
+        index_players(data).pipe(identify_teams, year)
+        .merge(games[['game.id', 'source', 'key']], how='left', on='game.id')
+        .reindex(columns=['team.league', 'team.key', 'team.name',
+                          'source', 'key',
+                          'gloss.name.last', 'gloss.name.first',
+                          'person.name.last', 'person.name.first',
+                          'person.seq', 'pos'])
+        .sort_values(['team.league', 'team.name',
+                      'person.name.last', 'key', 'source'])
+    )
+    for (league, group) in players.groupby('team.league'):
+        print(f"Writing {len(group):5d} players for {league}")
+        update_player_index(outpath, source, league, group)
 
 
 def aggregate_players(df: pd.DataFrame) -> pd.DataFrame:
@@ -301,34 +394,17 @@ def aggregate_players(df: pd.DataFrame) -> pd.DataFrame:
         .reset_index()
     )
 
-def main(source: str):
-    try:
-        year, paper = source.split("-")
-    except ValueError:
-        print(f"Invalid source name '{source}'")
-        sys.exit(1)
 
-    inpath = config.data_path/"transcript"/year/source
-    data = process_files(inpath)
-    games_teams = index_teams(data).pipe(identify_teams)
-    games_teams.to_csv("games_teams.csv", index=False, float_format='%d')
-    games = index_games(data).pipe(identify_games, games_teams)
-    games.to_csv("games.csv", index=False, float_format='%d')
-    players = (
-        index_players(data).pipe(identify_teams)
-        .merge(games[['game.id', 'key']], how='left', on='game.id')
-        .reindex(columns=['team.league', 'team.key', 'team.name',
-                          'key',
-                          'gloss.name.last', 'gloss.name.first',
-                          'person.name.last', 'person.name.first',
-                          'person.seq', 'pos'])
-        .sort_values(['team.league', 'team.name',
-                      'person.name.last', 'key'])
+def summary(year: int):
+    inpath = pathlib.Path(f"data/index/{year}")
+    outpath = pathlib.Path(f"data/processed/{year}")
+    outpath.mkdir(exist_ok=True, parents=True)
+    (
+        pd.concat(
+            [pd.read_csv(fn).pipe(aggregate_players)
+             for fn in inpath.glob("*/players.csv")],
+             ignore_index=True, sort=False
+        )
+        .sort_values(['team.league', 'team.name', 'last', 'given'])
+        .to_csv(outpath/"playing.csv", index=False, float_format='%d')
     )
-    players.to_csv("games_players.csv", index=False, float_format='%d')
-
-
-def summary():
-    players = pd.read_csv("games_players.csv")
-    totals = aggregate_players(players)
-    totals.to_csv("playing.csv", index=False, float_format='%d')
