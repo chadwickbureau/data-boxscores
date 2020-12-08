@@ -121,22 +121,24 @@ def extract_pairs(text: str):
 
 
 def parse_game(text: str) -> dict:
-    game = {"data": {},
-            "teams":
-                 [{'alignment': "away", 'name': None, 'league': None,
-                   'players': []},
-                  {'alignment': "home", 'name': None, 'league': None,
-                   'players': []}],
-            "umpires": []
-           }
+    game = {
+        "data": {},
+        "teams": [
+            {'alignment': "away", 'name': None, 'league': None,
+             'players': []},
+            {'alignment': "home", 'name': None, 'league': None,
+             'players': []}
+        ],
+        "umpires": []
+    }
     dispatch = {
         'date': parse_date,
         'number': parse_number,
         'league': parse_league,
         'T': parse_duration,
         'U': parse_umpires,
-        'away': lambda g, v: parse_team(g, 0, v),
-        'home': lambda g, v: parse_team(g, 1, v),
+        'away': lambda g, val: parse_team(g, 0, val),
+        'home': lambda g, val: parse_team(g, 1, val),
         'line': process_linescore
     }
     data = extract_pairs(text)
@@ -175,7 +177,7 @@ def process_files(inpath: pathlib.Path):
     fnlist = [fn for fn in sorted(inpath.glob("*.txt"))
               if fn.name.lower() not in ["readme.txt", "notes.txt"]]
     if not fnlist:
-        print_error(f"No files found at '{inpath}'")
+        print(f"No files found at '{inpath}'")
         sys.exit(1)
     return [
         parse_game(game)
@@ -192,7 +194,7 @@ def index_games(games: list) -> pd.DataFrame:
           'date': game['data']['date'],
           'number': game['data']['number'],
           'league': game['data']['league']}
-        for (i, game) in enumerate(games)]
+         for (i, game) in enumerate(games)]
     )
     return df
 
@@ -236,12 +238,12 @@ def identify_games(df: pd.DataFrame, teams: pd.DataFrame) -> pd.DataFrame:
                [['game.id',
                  'team.name', 'team.align', 'team.score', 'team.key']]
                .rename(columns=lambda x: x.replace('team.', 'team1.')),
-                how='left', on='game.id')
+               how='left', on='game.id')
         .merge(teams.query("`team.align` == 'h'")
                [['game.id',
                  'team.name', 'team.align', 'team.score', 'team.key']]
                .rename(columns=lambda x: x.replace('team.', 'team2.')),
-                how='left', on='game.id')
+               how='left', on='game.id')
         .assign(**{
             'key': lambda x: (
                 x['date'].str.replace("-", "") + "-" +
@@ -259,28 +261,23 @@ def main(source: str):
     try:
         year, paper = source.split("-")
     except ValueError:
-        print_error(f"Invalid source name '{source}'")
+        print(f"Invalid source name '{source}'")
         sys.exit(1)
 
     inpath = config.data_path/"transcript"/year/source
     data = process_files(inpath)
-    #teams = pd.read_csv("teams.csv", index_col=['league', 'team'])
-    #for game in games:
-    #    identify_teams(game, teams)
     games_teams = index_teams(data).pipe(identify_teams)
     games_teams.to_csv("games_teams.csv", index=False, float_format='%d')
     games = index_games(data).pipe(identify_games, games_teams)
     games.to_csv("games.csv", index=False, float_format='%d')
     players = (
         index_players(data)
-       .merge(games[['game.id', 'key']], how='left', on='game.id')
-       .reindex(columns=['team.league', 'team.name',
-                         'key',
-                         'person.name',
-                         'person.name.last', 'person.name.first', 'pos'])
-       .sort_values(['team.league', 'team.name',
-                     'person.name.last', 'key'])
+        .merge(games[['game.id', 'key']], how='left', on='game.id')
+        .reindex(columns=['team.league', 'team.name',
+                          'key',
+                          'person.name',
+                          'person.name.last', 'person.name.first', 'pos'])
+        .sort_values(['team.league', 'team.name',
+                      'person.name.last', 'key'])
     )
     players.to_csv("games_players.csv", index=False, float_format='%d')
-
-
