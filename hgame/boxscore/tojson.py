@@ -373,10 +373,20 @@ def aggregate_players(df: pd.DataFrame) -> pd.DataFrame:
         })
         .groupby(['team.league', 'team.name',
                   'last', 'given', 'date', 'key'])
-        .sum().reset_index()
+        .agg(
+            F_P_G=pd.NamedAgg(column='F_P_G', aggfunc=max),
+            F_C_G=pd.NamedAgg(column='F_C_G', aggfunc=max),
+            F_1B_G=pd.NamedAgg(column='F_1B_G', aggfunc=max),
+            F_2B_G=pd.NamedAgg(column='F_2B_G', aggfunc=max),
+            F_3B_G=pd.NamedAgg(column='F_3B_G', aggfunc=max),
+            F_SS_G=pd.NamedAgg(column='F_SS_G', aggfunc=max),
+            F_LF_G=pd.NamedAgg(column='F_LF_G', aggfunc=max),
+            F_CF_G=pd.NamedAgg(column='F_CF_G', aggfunc=max),
+            F_RF_G=pd.NamedAgg(column='F_RF_G', aggfunc=max),
+        )
+        .reset_index()
         .assign(B_G=1)
-        .groupby(['team.league', 'team.name',
-                  'last', 'given'])
+        .groupby(['team.league', 'team.name', 'last', 'given'])
         .agg(
             S_FIRST=pd.NamedAgg(column='date', aggfunc=min),
             S_LAST=pd.NamedAgg(column='date', aggfunc=max),
@@ -403,7 +413,7 @@ def summary(year: int):
         pd.concat(
             [pd.read_csv(fn).pipe(aggregate_players)
              for fn in inpath.glob("*/players.csv")],
-             ignore_index=True, sort=False
+            ignore_index=True, sort=False
         )
         .sort_values(['team.league', 'team.name', 'last', 'given'])
         .to_csv(outpath/"playing.csv", index=False, float_format='%d')
