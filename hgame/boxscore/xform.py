@@ -15,15 +15,18 @@ def aggregate_players(df: pd.DataFrame) -> pd.DataFrame:
                 x['gloss.name.first'].fillna(x['person.name.first']).fillna("")
             ),
             'date': lambda x: x['key'].str[:8],
-            'F_P_G': lambda x: (x['pos'] == "p").astype(int),
-            'F_C_G': lambda x: (x['pos'] == "c").astype(int),
-            'F_1B_G': lambda x: (x['pos'] == "1b").astype(int),
-            'F_2B_G': lambda x: (x['pos'] == "2b").astype(int),
-            'F_3B_G': lambda x: (x['pos'] == "3b").astype(int),
-            'F_SS_G': lambda x: (x['pos'] == "ss").astype(int),
-            'F_LF_G': lambda x: (x['pos'] == "lf").astype(int),
-            'F_CF_G': lambda x: (x['pos'] == "cf").astype(int),
-            'F_RF_G': lambda x: (x['pos'] == "rf").astype(int)
+            'pos': lambda x: x['pos'].str.split("-"),
+            'F_P_G': lambda x: x['pos'].apply(lambda y: 1 if "p" in y else 0),
+            'F_C_G': lambda x: x['pos'].apply(lambda y: 1 if "c" in y else 0),
+            'F_1B_G': lambda x: x['pos'].apply(lambda y: 1 if "1b" in y else 0),
+            'F_2B_G': lambda x: x['pos'].apply(lambda y: 1 if "2b" in y else 0),
+            'F_3B_G': lambda x: x['pos'].apply(lambda y: 1 if "3b" in y else 0),
+            'F_SS_G': lambda x: x['pos'].apply(lambda y: 1 if "ss" in y else 0),
+            'F_LF_G': lambda x: x['pos'].apply(lambda y: 1 if "lf" in y else 0),
+            'F_CF_G': lambda x: x['pos'].apply(lambda y: 1 if "cf" in y else 0),
+            'F_RF_G': lambda x: x['pos'].apply(lambda y: 1 if "rf" in y else 0),
+            'B_G_PH': lambda x: x['pos'].apply(lambda y: 1 if "ph" in y else 0),
+            'B_G_PR': lambda x: x['pos'].apply(lambda y: 1 if "pr" in y else 0)
         })
         .groupby(['team.league', 'team.name',
                   'last', 'given', 'date', 'key'])
@@ -37,6 +40,8 @@ def aggregate_players(df: pd.DataFrame) -> pd.DataFrame:
             F_LF_G=pd.NamedAgg(column='F_LF_G', aggfunc=max),
             F_CF_G=pd.NamedAgg(column='F_CF_G', aggfunc=max),
             F_RF_G=pd.NamedAgg(column='F_RF_G', aggfunc=max),
+            B_G_PH=pd.NamedAgg(column='B_G_PH', aggfunc=max),
+            B_G_PR=pd.NamedAgg(column='B_G_PR', aggfunc=max)
         )
         .reset_index()
         .assign(B_G=1)
@@ -54,6 +59,8 @@ def aggregate_players(df: pd.DataFrame) -> pd.DataFrame:
             F_LF_G=pd.NamedAgg(column='F_LF_G', aggfunc=sum),
             F_CF_G=pd.NamedAgg(column='F_CF_G', aggfunc=sum),
             F_RF_G=pd.NamedAgg(column='F_RF_G', aggfunc=sum),
+            B_G_PH=pd.NamedAgg(column='B_G_PH', aggfunc=sum),
+            B_G_PR=pd.NamedAgg(column='B_G_PR', aggfunc=sum)
         )
         .reset_index()
         .sort_values(['team.league', 'team.name', 'last', 'given'],
@@ -82,12 +89,14 @@ def generate_report_playing(df: pd.DataFrame, year: int) -> pd.DataFrame:
             'F_SS_G': 'SS',
             'F_LF_G': 'LF',
             'F_CF_G': 'CF',
-            'F_RF_G': 'RF'
+            'F_RF_G': 'RF',
+            'B_G_PH': 'PH',
+            'B_G_PR': 'PR'
         })
         .replace({0: None})
         .reindex(columns=['league', 'team', 'player', 'start', 'end', 'G',
                           'P', 'C', '1B', '2B', 'SS', '3B',
-                          'LF', 'CF', 'RF'])
+                          'LF', 'CF', 'RF', 'PH', 'PR'])
     )
     with open(outpath/"playing_byclub.txt", "w") as f:
         for ((_league, _team), data) in df.groupby(['league', 'team']):
