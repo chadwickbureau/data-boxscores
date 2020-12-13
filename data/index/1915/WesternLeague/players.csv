@@ -24,7 +24,7 @@ Western League,WESDEN,Denver,1915-SL,19150429-WESDEN-WESTOP-0,,,Galloway,,a03,3b
 Western League,WESDEN,Denver,1915-SL,19150423-WESDEN-WESLIN-0,,,Gaskell,,a08,p
 Western League,WESDEN,Denver,1915-SL,19150426-WESDEN-WESLIN-0,,,Gaskell,,a11,ph
 Western League,WESDEN,Denver,1915-SL,19150427-WESDEN-WESTOP-0,,,Gaskell,,a09,p
-Western League,WESDEN,Denver,1915-SL,19150429-WESDEN-WESTOP-0,,,Gaskill,,a10,p
+Western League,WESDEN,Denver,1915-SL,19150429-WESDEN-WESTOP-0,Gaskell,,Gaskill,,a10,p
 Western League,WESDEN,Denver,1915-SL,19150424-WESDEN-WESLIN-0,,,Goshorn,,a10,p
 Western League,WESDEN,Denver,1915-SL,19150427-WESDEN-WESTOP-0,,,Goshorn,,a10,p
 Western League,WESDEN,Denver,1915-SL,19150429-WESDEN-WESTOP-0,,,Goshorn,,a09,p
@@ -37,7 +37,7 @@ Western League,WESDEN,Denver,1915-SL,19150426-WESDEN-WESLIN-0,,,Kelleher,,a01,ss
 Western League,WESDEN,Denver,1915-SL,19150427-WESDEN-WESTOP-0,,,Kelleher,,a04,ss
 Western League,WESDEN,Denver,1915-SL,19150428-WESDEN-WESTOP-0,,,Kelleher,,a04,ss
 Western League,WESDEN,Denver,1915-SL,19150429-WESDEN-WESTOP-0,,,Kelleher,,a04,ss
-Western League,WESDEN,Denver,1915-SL,19150424-WESDEN-WESLIN-0,,,Matth's,,a00,2b
+Western League,WESDEN,Denver,1915-SL,19150424-WESDEN-WESLIN-0,Matthews,,Matth's,,a00,2b
 Western League,WESDEN,Denver,1915-SL,19150423-WESDEN-WESLIN-0,,,Matthews,,a00,2b
 Western League,WESDEN,Denver,1915-SL,19150426-WESDEN-WESLIN-0,,,Matthews,,a00,2b
 Western League,WESDEN,Denver,1915-SL,19150427-WESDEN-WESTOP-0,,,Matthews,,a11,ph
@@ -60,8 +60,8 @@ Western League,WESDEN,Denver,1915-SL,19150428-WESDEN-WESTOP-0,,,Spencer,,a00,cf
 Western League,WESDEN,Denver,1915-SL,19150429-WESDEN-WESTOP-0,,,Spencer,,a00,cf
 Western League,WESDEN,Denver,1915-SL,19150424-WESDEN-WESLIN-0,,,Uhler,,a11,ph
 Western League,WESDEN,Denver,1915-SL,19150427-WESDEN-WESTOP-0,,,Uhler,,a06,rf
-Western League,WESDEN,Denver,1915-SL,19150428-WESDEN-WESTOP-0,,,Whalen,,a02,rf
-Western League,WESDEN,Denver,1915-SL,19150429-WESDEN-WESTOP-0,,,Whalen,,a02,rf
+Western League,WESDEN,Denver,1915-SL,19150428-WESDEN-WESTOP-0,Whelan,,Whalen,,a02,rf
+Western League,WESDEN,Denver,1915-SL,19150429-WESDEN-WESTOP-0,Whelan,,Whalen,,a02,rf
 Western League,WESDEN,Denver,1915-SL,19150424-WESDEN-WESLIN-0,,,Whelan,,a06,rf
 Western League,WESDEN,Denver,1915-SL,19150426-WESDEN-WESLIN-0,,,Whelan,,a08,pr
 Western League,WESDEN,Denver,1915-SL,19150427-WESDEN-WESTOP-0,,,Whelan,,a07,rf
@@ -122,9 +122,9 @@ Western League,WESDMN,Des Moines,1915-SL,19150427-WESDMN-WESSTJ-0,,,Sawyer,,b02,
 Western League,WESDMN,Des Moines,1915-SL,19150428-WESDMN-WESSTJ-0,,,Sawyer,,b02,2b
 Western League,WESDMN,Des Moines,1915-SL,19150429-WESDMN-WESSTJ-0,,,Sawyer,,b02,2b
 Western League,WESDMN,Des Moines,1915-SL,19150429-WESDMN-WESSTJ-0,,,Shanley,,b10,ph
-Western League,WESDMN,Des Moines,1915-SL,19150424-WESDMN-WESSXC-0,,,Tanneh'l,,a05,3b
-Western League,WESDMN,Des Moines,1915-SL,19150427-WESDMN-WESSTJ-0,,,Tanneh'l,,b05,3b
-Western League,WESDMN,Des Moines,1915-SL,19150429-WESDMN-WESSTJ-0,,,Tanneh'l,,b05,3b
+Western League,WESDMN,Des Moines,1915-SL,19150424-WESDMN-WESSXC-0,Tannehill,,Tanneh'l,,a05,3b
+Western League,WESDMN,Des Moines,1915-SL,19150427-WESDMN-WESSTJ-0,Tannehill,,Tanneh'l,,b05,3b
+Western League,WESDMN,Des Moines,1915-SL,19150429-WESDMN-WESSTJ-0,Tannehill,,Tanneh'l,,b05,3b
 Western League,WESDMN,Des Moines,1915-SL,19150423-WESDMN-WESSXC-0,,,Tannehill,,a05,3b
 Western League,WESDMN,Des Moines,1915-SL,19150425-WESDMN-WESSXC-0,,,Tannehill,,a05,3b
 Western League,WESDMN,Des Moines,1915-SL,19150426-WESDMN-WESSXC-0,,,Tannehill,,a05,3b
@@ -132,7 +132,7 @@ Western League,WESDMN,Des Moines,1915-SL,19150428-WESDMN-WESSTJ-0,,,Tannehill,,b
 Western League,WESDMN,Des Moines,1915-SL,19150425-WESDMN-WESSXC-0,,,Thomas,,a08,p
 Western League,WESDMN,Des Moines,1915-SL,19150426-WESDMN-WESSXC-0,,,Thomas,,a09,p
 Western League,WESDMN,Des Moines,1915-SL,19150429-WESDMN-WESSTJ-0,,,Thomas,,b08,p
-Western League,WESLIN,Lincoln,1915-SL,19150428-WESLIN-WESWIC-0,,,Alteman,,a05,cf
+Western League,WESLIN,Lincoln,1915-SL,19150428-WESLIN-WESWIC-0,Altman,,Alteman,,a05,cf
 Western League,WESLIN,Lincoln,1915-SL,19150427-WESLIN-WESWIC-0,,,Altman,,a08,ph
 Western League,WESLIN,Lincoln,1915-SL,19150429-WESLIN-WESWIC-0,,,Altman,,a04,cf
 Western League,WESLIN,Lincoln,1915-SL,19150423-WESDEN-WESLIN-0,,,Bierbauer,,b02,1b
@@ -160,7 +160,7 @@ Western League,WESLIN,Lincoln,1915-SL,19150427-WESLIN-WESWIC-0,,,Lloyd,,a05,2b
 Western League,WESLIN,Lincoln,1915-SL,19150429-WESLIN-WESWIC-0,,,Mason,,a11,p
 Western League,WESLIN,Lincoln,1915-SL,19150426-WESDEN-WESLIN-0,,,McAllister,,b06,c
 Western League,WESLIN,Lincoln,1915-SL,19150429-WESLIN-WESWIC-0,,,McAllister,,a07,c
-Western League,WESLIN,Lincoln,1915-SL,19150427-WESLIN-WESWIC-0,,,McGaffi'n,,a01,ss
+Western League,WESLIN,Lincoln,1915-SL,19150427-WESLIN-WESWIC-0,McGaffigan,,McGaffi'n,,a01,ss
 Western League,WESLIN,Lincoln,1915-SL,19150423-WESDEN-WESLIN-0,,,McGaffigan,,b01,ss
 Western League,WESLIN,Lincoln,1915-SL,19150424-WESDEN-WESLIN-0,,,McGaffigan,,b01,ss
 Western League,WESLIN,Lincoln,1915-SL,19150426-WESDEN-WESLIN-0,,,McGaffigan,,b01,ss
@@ -173,9 +173,9 @@ Western League,WESLIN,Lincoln,1915-SL,19150429-WESLIN-WESWIC-0,,,McIntyre,,a03,r
 Western League,WESLIN,Lincoln,1915-SL,19150429-WESLIN-WESWIC-0,,,Morris,,a10,p
 Western League,WESLIN,Lincoln,1915-SL,19150426-WESDEN-WESLIN-0,,,Narveson,,b09,p
 Western League,WESLIN,Lincoln,1915-SL,19150429-WESLIN-WESWIC-0,,,Narveson,,a09,p
-Western League,WESLIN,Lincoln,1915-SL,19150427-WESLIN-WESWIC-0,,,Schre'r,H.,a06,cf
-Western League,WESLIN,Lincoln,1915-SL,19150423-WESDEN-WESLIN-0,,,Schreiber,,b06,cf
-Western League,WESLIN,Lincoln,1915-SL,19150426-WESDEN-WESLIN-0,,,Schreiber,,b07,cf
+Western League,WESLIN,Lincoln,1915-SL,19150427-WESLIN-WESWIC-0,Schreiber,H.,Schre'r,H.,a06,cf
+Western League,WESLIN,Lincoln,1915-SL,19150423-WESDEN-WESLIN-0,Schreiber,H.,Schreiber,,b06,cf
+Western League,WESLIN,Lincoln,1915-SL,19150426-WESDEN-WESLIN-0,Schreiber,H.,Schreiber,,b07,cf
 Western League,WESLIN,Lincoln,1915-SL,19150424-WESDEN-WESLIN-0,,,Schreiber,B.,b08,p
 Western League,WESLIN,Lincoln,1915-SL,19150428-WESLIN-WESWIC-0,,,Schreiber,B.,a09,ph
 Western League,WESLIN,Lincoln,1915-SL,19150429-WESLIN-WESWIC-0,,,Schreiber,B.,a08,p
@@ -212,7 +212,7 @@ Western League,WESOMA,Omaha,1915-SL,19150426-WESOMA-WESSTJ-0,,,Huelsman,,a05,rf
 Western League,WESOMA,Omaha,1915-SL,19150427-WESOMA-WESSXC-0,,,Huelsman,,b04,rf
 Western League,WESOMA,Omaha,1915-SL,19150428-WESOMA-WESSXC-0,,,Huelsman,,b04,rf
 Western League,WESOMA,Omaha,1915-SL,19150429-WESOMA-WESSXC-0,,,Huelsman,,b04,rf
-Western League,WESOMA,Omaha,1915-SL,19150424-WESOMA-WESSTJ-0,,,Johnson,,a08,p
+Western League,WESOMA,Omaha,1915-SL,19150424-WESOMA-WESSTJ-0,Johnson,Frank,Johnson,,a08,p
 Western League,WESOMA,Omaha,1915-SL,19150428-WESOMA-WESSXC-0,,,Johnson,Frank,b08,p
 Western League,WESOMA,Omaha,1915-SL,19150426-WESOMA-WESSTJ-0,,,Kafora,,a06,c
 Western League,WESOMA,Omaha,1915-SL,19150424-WESOMA-WESSTJ-0,,,Krueger,,a05,c
@@ -230,7 +230,7 @@ Western League,WESOMA,Omaha,1915-SL,19150429-WESOMA-WESSXC-0,,,Krug,,b02,3b
 Western League,WESOMA,Omaha,1915-SL,19150424-WESOMA-WESSTJ-0,,,Payne,,a00,lf
 Western League,WESOMA,Omaha,1915-SL,19150425-WESOMA-WESSTJ-0,,,Payne,,a00,lf
 Western League,WESOMA,Omaha,1915-SL,19150426-WESOMA-WESSTJ-0,,,Payne,,a03,3b
-Western League,WESOMA,Omaha,1915-SL,19150427-WESOMA-WESSXC-0,,,Schlieb'r,,b06,1b
+Western League,WESOMA,Omaha,1915-SL,19150427-WESOMA-WESSXC-0,Schliebner,,Schlieb'r,,b06,1b
 Western League,WESOMA,Omaha,1915-SL,19150424-WESOMA-WESSTJ-0,,,Schliebner,,a06,1b
 Western League,WESOMA,Omaha,1915-SL,19150425-WESOMA-WESSTJ-0,,,Schliebner,,a06,1b
 Western League,WESOMA,Omaha,1915-SL,19150426-WESOMA-WESSTJ-0,,,Schliebner,,a08,1b
@@ -240,10 +240,10 @@ Western League,WESOMA,Omaha,1915-SL,19150426-WESOMA-WESSTJ-0,,,Smith,,a00,lf
 Western League,WESOMA,Omaha,1915-SL,19150427-WESOMA-WESSXC-0,,,Smith,,b00,lf
 Western League,WESOMA,Omaha,1915-SL,19150428-WESOMA-WESSXC-0,,,Smith,,b00,lf
 Western League,WESOMA,Omaha,1915-SL,19150429-WESOMA-WESSXC-0,,,Smith,,b00,lf
-Western League,WESOMA,Omaha,1915-SL,19150425-WESOMA-WESSTJ-0,,,Thoma'n,,a03,cf
-Western League,WESOMA,Omaha,1915-SL,19150427-WESOMA-WESSXC-0,,,Thoma'n,,b03,cf
-Western League,WESOMA,Omaha,1915-SL,19150429-WESOMA-WESSXC-0,,,Thoman,,b03,cf
-Western League,WESOMA,Omaha,1915-SL,19150424-WESOMA-WESSTJ-0,,,Thomas,,a03,cf
+Western League,WESOMA,Omaha,1915-SL,19150425-WESOMA-WESSTJ-0,Thomason,,Thoma'n,,a03,cf
+Western League,WESOMA,Omaha,1915-SL,19150427-WESOMA-WESSXC-0,Thomason,,Thoma'n,,b03,cf
+Western League,WESOMA,Omaha,1915-SL,19150429-WESOMA-WESSXC-0,Thomason,,Thoman,,b03,cf
+Western League,WESOMA,Omaha,1915-SL,19150424-WESOMA-WESSTJ-0,Thomason,,Thomas,,a03,cf
 Western League,WESOMA,Omaha,1915-SL,19150426-WESOMA-WESSTJ-0,,,Thomason,,a04,cf
 Western League,WESOMA,Omaha,1915-SL,19150428-WESOMA-WESSXC-0,,,Thomason,,b03,cf
 Western League,WESOMA,Omaha,1915-SL,19150424-WESOMA-WESSTJ-0,,,Whalen,,a07,ss
@@ -257,7 +257,7 @@ Western League,WESSXC,Sioux City,1915-SL,19150423-WESDMN-WESSXC-0,,,Bramble,,b06
 Western League,WESSXC,Sioux City,1915-SL,19150424-WESDMN-WESSXC-0,,,Bramble,,b07,cf
 Western League,WESSXC,Sioux City,1915-SL,19150425-WESDMN-WESSXC-0,,,Bramble,,b06,lf
 Western League,WESSXC,Sioux City,1915-SL,19150426-WESDMN-WESSXC-0,,,Bramble,,b10,cf
-Western League,WESSXC,Sioux City,1915-SL,19150426-WESDMN-WESSXC-0,,,Calla'n,,b05,cf-rf
+Western League,WESSXC,Sioux City,1915-SL,19150426-WESDMN-WESSXC-0,Callahan,,Calla'n,,b05,cf-rf
 Western League,WESSXC,Sioux City,1915-SL,19150423-WESDMN-WESSXC-0,,,Callahan,,b05,rf
 Western League,WESSXC,Sioux City,1915-SL,19150425-WESDMN-WESSXC-0,,,Callahan,,b05,2b
 Western League,WESSXC,Sioux City,1915-SL,19150427-WESOMA-WESSXC-0,,,Callahan,,a05,cf
@@ -276,13 +276,13 @@ Western League,WESSXC,Sioux City,1915-SL,19150424-WESDMN-WESSXC-0,,,Cooney,,b00,
 Western League,WESSXC,Sioux City,1915-SL,19150426-WESDMN-WESSXC-0,,,Cooney,,b00,2b
 Western League,WESSXC,Sioux City,1915-SL,19150427-WESOMA-WESSXC-0,,,Cooney,,a00,2b
 Western League,WESSXC,Sioux City,1915-SL,19150428-WESOMA-WESSXC-0,,,Cooney,,a00,2b
-Western League,WESSXC,Sioux City,1915-SL,19150429-WESOMA-WESSXC-0,,,Cooney,,a00,2b
+Western League,WESSXC,Sioux City,1915-SL,19150429-WESOMA-WESSXC-0,Crisp,,Cooney,,a00,2b
 Western League,WESSXC,Sioux City,1915-SL,19150429-WESOMA-WESSXC-0,,,Cripp,,a07,c
 Western League,WESSXC,Sioux City,1915-SL,19150423-WESDMN-WESSXC-0,,,Crisp,,b07,c
 Western League,WESSXC,Sioux City,1915-SL,19150425-WESDMN-WESSXC-0,,,Crisp,,b07,c
 Western League,WESSXC,Sioux City,1915-SL,19150426-WESDMN-WESSXC-0,,,Crisp,,b09,ph
 Western League,WESSXC,Sioux City,1915-SL,19150427-WESOMA-WESSXC-0,,,Crisp,,a07,c
-Western League,WESSXC,Sioux City,1915-SL,19150424-WESDMN-WESSXC-0,,,Cullahan,,b06,rf-2b
+Western League,WESSXC,Sioux City,1915-SL,19150424-WESDMN-WESSXC-0,Callahan,,Cullahan,,b06,rf-2b
 Western League,WESSXC,Sioux City,1915-SL,19150425-WESDMN-WESSXC-0,,,Gaspar,,b08,p
 Western League,WESSXC,Sioux City,1915-SL,19150424-WESDMN-WESSXC-0,,,Hallman,,b09,p
 Western League,WESSXC,Sioux City,1915-SL,19150429-WESOMA-WESSXC-0,,,Hallman,,a09,p
@@ -302,16 +302,16 @@ Western League,WESSXC,Sioux City,1915-SL,19150428-WESOMA-WESSXC-0,,,Kane,,a03,1b
 Western League,WESSXC,Sioux City,1915-SL,19150429-WESOMA-WESSXC-0,,,Kane,,a03,1b
 Western League,WESSXC,Sioux City,1915-SL,19150426-WESDMN-WESSXC-0,,,Kelly,,b08,p
 Western League,WESSXC,Sioux City,1915-SL,19150429-WESOMA-WESSXC-0,,,Kelly,,a10,p
-Western League,WESSXC,Sioux City,1915-SL,19150429-WESOMA-WESSXC-0,,,McCor'k,,a06,rf
-Western League,WESSXC,Sioux City,1915-SL,19150427-WESOMA-WESSXC-0,,,McCorm'k,,a06,rf
-Western League,WESSXC,Sioux City,1915-SL,19150428-WESOMA-WESSXC-0,,,McCorm'k,,a06,rf
+Western League,WESSXC,Sioux City,1915-SL,19150429-WESOMA-WESSXC-0,McCormick,,McCor'k,,a06,rf
+Western League,WESSXC,Sioux City,1915-SL,19150427-WESOMA-WESSXC-0,McCormick,,McCorm'k,,a06,rf
+Western League,WESSXC,Sioux City,1915-SL,19150428-WESOMA-WESSXC-0,McCormick,,McCorm'k,,a06,rf
 Western League,WESSXC,Sioux City,1915-SL,19150423-WESDMN-WESSXC-0,,,Phelps,,b11,ph
 Western League,WESSXC,Sioux City,1915-SL,19150424-WESDMN-WESSXC-0,,,Phelps,,b08,c
 Western League,WESSXC,Sioux City,1915-SL,19150425-WESDMN-WESSXC-0,,,Phelps,,b09,ph
 Western League,WESSXC,Sioux City,1915-SL,19150426-WESDMN-WESSXC-0,,,Phelps,,b07,c
 Western League,WESSXC,Sioux City,1915-SL,19150428-WESOMA-WESSXC-0,,,Phelps,,a07,c
 Western League,WESSXC,Sioux City,1915-SL,19150429-WESOMA-WESSXC-0,,,Phelps,,a11,ph
-Western League,WESSXC,Sioux City,1915-SL,19150426-WESDMN-WESSXC-0,,,Richard,,b06,rf
+Western League,WESSXC,Sioux City,1915-SL,19150426-WESDMN-WESSXC-0,Richards,,Richard,,b06,rf
 Western League,WESSXC,Sioux City,1915-SL,19150424-WESDMN-WESSXC-0,,,Richards,,b01,rf
 Western League,WESSXC,Sioux City,1915-SL,19150425-WESDMN-WESSXC-0,,,Richards,,b00,rf
 Western League,WESSXC,Sioux City,1915-SL,19150423-WESDMN-WESSXC-0,,,Richardson,,b09,ph
@@ -351,7 +351,7 @@ Western League,WESSTJ,St. Joseph,1915-SL,19150428-WESDMN-WESSTJ-0,,,Fox,,a01,lf
 Western League,WESSTJ,St. Joseph,1915-SL,19150429-WESDMN-WESSTJ-0,,,Fox,,a01,2b
 Western League,WESSTJ,St. Joseph,1915-SL,19150424-WESOMA-WESSTJ-0,,,Henry,,b09,ph
 Western League,WESSTJ,St. Joseph,1915-SL,19150428-WESDMN-WESSTJ-0,,,Higgins,,a10,p
-Western League,WESSTJ,St. Joseph,1915-SL,19150426-WESOMA-WESSTJ-0,,,Huggins,,b11,p
+Western League,WESSTJ,St. Joseph,1915-SL,19150426-WESOMA-WESSTJ-0,Higgins,,Huggins,,b11,p
 Western League,WESSTJ,St. Joseph,1915-SL,19150426-WESOMA-WESSTJ-0,,,Lambert,,b09,p
 Western League,WESSTJ,St. Joseph,1915-SL,19150424-WESOMA-WESSTJ-0,,,O'Day,,b00,2b
 Western League,WESSTJ,St. Joseph,1915-SL,19150425-WESOMA-WESSTJ-0,,,O'Day,,b00,2b
@@ -363,7 +363,7 @@ Western League,WESSTJ,St. Joseph,1915-SL,19150424-WESOMA-WESSTJ-0,,,Olson,,b08,s
 Western League,WESSTJ,St. Joseph,1915-SL,19150425-WESOMA-WESSTJ-0,,,Olson,,b07,ss
 Western League,WESSTJ,St. Joseph,1915-SL,19150426-WESOMA-WESSTJ-0,,,Olson,,b07,ss
 Western League,WESSTJ,St. Joseph,1915-SL,19150427-WESDMN-WESSTJ-0,,,Olson,,a05,ss
-Western League,WESSTJ,St. Joseph,1915-SL,19150425-WESOMA-WESSTJ-0,,,Patt'n,H.,b04,1b
+Western League,WESSTJ,St. Joseph,1915-SL,19150425-WESOMA-WESSTJ-0,Patterson,H.,Patt'n,H.,b04,1b
 Western League,WESSTJ,St. Joseph,1915-SL,19150424-WESOMA-WESSTJ-0,,,Patterson,H.,b04,1b
 Western League,WESSTJ,St. Joseph,1915-SL,19150426-WESOMA-WESSTJ-0,,,Patterson,H.,b04,1b
 Western League,WESSTJ,St. Joseph,1915-SL,19150427-WESDMN-WESSTJ-0,,,Patterson,H.,a04,1b
@@ -377,10 +377,10 @@ Western League,WESSTJ,St. Joseph,1915-SL,19150429-WESDMN-WESSTJ-0,,,Patterson,W.
 Western League,WESSTJ,St. Joseph,1915-SL,19150424-WESOMA-WESSTJ-0,,,Smith,,b13,ph
 Western League,WESSTJ,St. Joseph,1915-SL,19150428-WESDMN-WESSTJ-0,,,Sommers,,a07,c
 Western League,WESSTJ,St. Joseph,1915-SL,19150428-WESDMN-WESSTJ-0,,,Turner,,a09,p
-Western League,WESSTJ,St. Joseph,1915-SL,19150427-WESDMN-WESSTJ-0,,,Vance,,a10,ph
-Western League,WESSTJ,St. Joseph,1915-SL,19150428-WESDMN-WESSTJ-0,,,Vance,,a11,ph
-Western League,WESSTJ,St. Joseph,1915-SL,19150429-WESDMN-WESSTJ-0,,,Vance,,a08,p
-Western League,WESSTJ,St. Joseph,1915-SL,19150425-WESOMA-WESSTJ-0,,,Vance,Dazzy,b08,p
+Western League,WESSTJ,St. Joseph,1915-SL,19150427-WESDMN-WESSTJ-0,Vance,Dazzy,Vance,,a10,ph
+Western League,WESSTJ,St. Joseph,1915-SL,19150428-WESDMN-WESSTJ-0,Vance,Dazzy,Vance,,a11,ph
+Western League,WESSTJ,St. Joseph,1915-SL,19150429-WESDMN-WESSTJ-0,Vance,Dazzy,Vance,,a08,p
+Western League,WESSTJ,St. Joseph,1915-SL,19150425-WESOMA-WESSTJ-0,Vance,Dazzy,Vance,Dazzy,b08,p
 Western League,WESSTJ,St. Joseph,1915-SL,19150424-WESOMA-WESSTJ-0,,,Watson,,b03,cf
 Western League,WESSTJ,St. Joseph,1915-SL,19150425-WESOMA-WESSTJ-0,,,Watson,,b03,rf
 Western League,WESSTJ,St. Joseph,1915-SL,19150426-WESOMA-WESSTJ-0,,,Watson,,b03,rf
@@ -399,12 +399,12 @@ Western League,WESSTJ,St. Joseph,1915-SL,19150427-WESDMN-WESSTJ-0,,,Withrow,,a08
 Western League,WESSTJ,St. Joseph,1915-SL,19150428-WESDMN-WESSTJ-0,,,Withrow,,a08,ph
 Western League,WESSTJ,St. Joseph,1915-SL,19150429-WESDMN-WESSTJ-0,,,Withrow,,a07,c
 Western League,WESTOP,Topeka,1915-SL,19150429-WESDEN-WESTOP-0,,,Clunn,,b08,p
-Western League,WESTOP,Topeka,1915-SL,19150424-WESTOP-WESWIC-0,,,Cochran,,a00,3b
-Western League,WESTOP,Topeka,1915-SL,19150427-WESDEN-WESTOP-0,,,Cochran,,b00,3b
-Western League,WESTOP,Topeka,1915-SL,19150428-WESDEN-WESTOP-0,,,Cochran,,b00,3b
-Western League,WESTOP,Topeka,1915-SL,19150429-WESDEN-WESTOP-0,,,Cochran,,b00,3b
-Western League,WESTOP,Topeka,1915-SL,19150426-WESTOP-WESWIC-0,,,Cochran,G.,a00,3b
-Western League,WESTOP,Topeka,1915-SL,19150423-WESTOP-WESWIC-0,,,Cocreh'm,,a00,3b
+Western League,WESTOP,Topeka,1915-SL,19150424-WESTOP-WESWIC-0,Cochran,G.,Cochran,,a00,3b
+Western League,WESTOP,Topeka,1915-SL,19150427-WESDEN-WESTOP-0,Cochran,G.,Cochran,,b00,3b
+Western League,WESTOP,Topeka,1915-SL,19150428-WESDEN-WESTOP-0,Cochran,G.,Cochran,,b00,3b
+Western League,WESTOP,Topeka,1915-SL,19150429-WESDEN-WESTOP-0,Cochran,G.,Cochran,,b00,3b
+Western League,WESTOP,Topeka,1915-SL,19150426-WESTOP-WESWIC-0,Cochran,G.,Cochran,G.,a00,3b
+Western League,WESTOP,Topeka,1915-SL,19150423-WESTOP-WESWIC-0,Cochran,G.,Cocreh'm,,a00,3b
 Western League,WESTOP,Topeka,1915-SL,19150428-WESDEN-WESTOP-0,,,Dashner,,b08,p
 Western League,WESTOP,Topeka,1915-SL,19150429-WESDEN-WESTOP-0,,,Dashner,,b09,p
 Western League,WESTOP,Topeka,1915-SL,19150423-WESTOP-WESWIC-0,,,Forsythe,,a04,rf
@@ -421,9 +421,9 @@ Western League,WESTOP,Topeka,1915-SL,19150426-WESTOP-WESWIC-0,,,Jackson,,a02,cf
 Western League,WESTOP,Topeka,1915-SL,19150427-WESDEN-WESTOP-0,,,Jackson,,b02,cf
 Western League,WESTOP,Topeka,1915-SL,19150428-WESDEN-WESTOP-0,,,Jackson,,b02,cf
 Western League,WESTOP,Topeka,1915-SL,19150429-WESDEN-WESTOP-0,,,Jackson,,b02,cf
-Western League,WESTOP,Topeka,1915-SL,19150423-WESTOP-WESWIC-0,,,Lattim'e,,a06,2b
-Western League,WESTOP,Topeka,1915-SL,19150426-WESTOP-WESWIC-0,,,Lattim'e,,a05,2b
-Western League,WESTOP,Topeka,1915-SL,19150428-WESDEN-WESTOP-0,,,Lattim'e,,b05,2b
+Western League,WESTOP,Topeka,1915-SL,19150423-WESTOP-WESWIC-0,Lattimore,,Lattim'e,,a06,2b
+Western League,WESTOP,Topeka,1915-SL,19150426-WESTOP-WESWIC-0,Lattimore,,Lattim'e,,a05,2b
+Western League,WESTOP,Topeka,1915-SL,19150428-WESDEN-WESTOP-0,Lattimore,,Lattim'e,,b05,2b
 Western League,WESTOP,Topeka,1915-SL,19150424-WESTOP-WESWIC-0,,,Lattimore,,a05,3b
 Western League,WESTOP,Topeka,1915-SL,19150427-WESDEN-WESTOP-0,,,Lattimore,,b05,2b
 Western League,WESTOP,Topeka,1915-SL,19150429-WESDEN-WESTOP-0,,,Lattimore,,b05,2b
@@ -459,8 +459,8 @@ Western League,WESTOP,Topeka,1915-SL,19150424-WESTOP-WESWIC-0,,,Woolums,,a08,1b
 Western League,WESTOP,Topeka,1915-SL,19150426-WESTOP-WESWIC-0,,,Woolums,,a07,1b
 Western League,WESWIC,Wichita,1915-SL,19150423-WESTOP-WESWIC-0,,,Baker,,b08,p
 Western League,WESWIC,Wichita,1915-SL,19150428-WESLIN-WESWIC-0,,,Baker,,b08,p
-Western League,WESWIC,Wichita,1915-SL,19150429-WESLIN-WESWIC-0,,,Cochran,,b09,p
-Western League,WESWIC,Wichita,1915-SL,19150426-WESTOP-WESWIC-0,,,Cochran,H.,b08,p
+Western League,WESWIC,Wichita,1915-SL,19150429-WESLIN-WESWIC-0,Cochran,H.,Cochran,,b09,p
+Western League,WESWIC,Wichita,1915-SL,19150426-WESTOP-WESWIC-0,Cochran,H.,Cochran,H.,b08,p
 Western League,WESWIC,Wichita,1915-SL,19150423-WESTOP-WESWIC-0,,,Geist,,b09,p
 Western League,WESWIC,Wichita,1915-SL,19150424-WESTOP-WESWIC-0,,,Geist,,b09,p
 Western League,WESWIC,Wichita,1915-SL,19150427-WESLIN-WESWIC-0,,,Geist,,b09,p
@@ -492,12 +492,12 @@ Western League,WESWIC,Wichita,1915-SL,19150426-WESTOP-WESWIC-0,,,Pownall,,b00,cf
 Western League,WESWIC,Wichita,1915-SL,19150427-WESLIN-WESWIC-0,,,Pownall,,b00,cf
 Western League,WESWIC,Wichita,1915-SL,19150428-WESLIN-WESWIC-0,,,Pownall,,b00,cf
 Western League,WESWIC,Wichita,1915-SL,19150429-WESLIN-WESWIC-0,,,Pownall,,b00,cf
-Western League,WESWIC,Wichita,1915-SL,19150423-WESTOP-WESWIC-0,,,Rapp,,b05,3b
-Western League,WESWIC,Wichita,1915-SL,19150424-WESTOP-WESWIC-0,,,Rapp,,b05,3b
-Western League,WESWIC,Wichita,1915-SL,19150426-WESTOP-WESWIC-0,,,Rapp,,b05,3b
-Western League,WESWIC,Wichita,1915-SL,19150428-WESLIN-WESWIC-0,,,Rapp,,b05,3b
-Western League,WESWIC,Wichita,1915-SL,19150427-WESLIN-WESWIC-0,,,Rapps,,b05,3b
-Western League,WESWIC,Wichita,1915-SL,19150429-WESLIN-WESWIC-0,,,Rapps,,b05,3b
+Western League,WESWIC,Wichita,1915-SL,19150423-WESTOP-WESWIC-0,Rapp(s),,Rapp,,b05,3b
+Western League,WESWIC,Wichita,1915-SL,19150424-WESTOP-WESWIC-0,Rapp(s),,Rapp,,b05,3b
+Western League,WESWIC,Wichita,1915-SL,19150426-WESTOP-WESWIC-0,Rapp(s),,Rapp,,b05,3b
+Western League,WESWIC,Wichita,1915-SL,19150428-WESLIN-WESWIC-0,Rapp(s),,Rapp,,b05,3b
+Western League,WESWIC,Wichita,1915-SL,19150427-WESLIN-WESWIC-0,Rapp(s),,Rapps,,b05,3b
+Western League,WESWIC,Wichita,1915-SL,19150429-WESLIN-WESWIC-0,Rapp(s),,Rapps,,b05,3b
 Western League,WESWIC,Wichita,1915-SL,19150423-WESTOP-WESWIC-0,,,Ritter,,b06,ss
 Western League,WESWIC,Wichita,1915-SL,19150424-WESTOP-WESWIC-0,,,Ritter,,b06,ss
 Western League,WESWIC,Wichita,1915-SL,19150426-WESTOP-WESWIC-0,,,Ritter,,b06,ss
@@ -507,7 +507,7 @@ Western League,WESWIC,Wichita,1915-SL,19150429-WESLIN-WESWIC-0,,,Ritter,,b06,ss
 Western League,WESWIC,Wichita,1915-SL,19150424-WESTOP-WESWIC-0,,,Scott,,b08,p
 Western League,WESWIC,Wichita,1915-SL,19150428-WESLIN-WESWIC-0,,,Scott,,b09,p
 Western League,WESWIC,Wichita,1915-SL,19150429-WESLIN-WESWIC-0,,,Southern,,b08,p
-Western League,WESWIC,Wichita,1915-SL,19150424-WESTOP-WESWIC-0,,,Tideman,,b04,rf
+Western League,WESWIC,Wichita,1915-SL,19150424-WESTOP-WESWIC-0,Tydeman,,Tideman,,b04,rf
 Western League,WESWIC,Wichita,1915-SL,19150423-WESTOP-WESWIC-0,,,Tydeman,,b04,rf
 Western League,WESWIC,Wichita,1915-SL,19150426-WESTOP-WESWIC-0,,,Tydeman,,b04,rf
 Western League,WESWIC,Wichita,1915-SL,19150427-WESLIN-WESWIC-0,,,Tydeman,,b04,rf

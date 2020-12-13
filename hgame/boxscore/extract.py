@@ -10,7 +10,7 @@ import pandas as pd
 from . import config
 
 
-substitution_keys = ("*", "+", "^", "&", "$")
+substitution_keys = ("*", "+", "^", "&", "$", "%")
 
 
 def process_source(game, value):
@@ -328,14 +328,17 @@ def update_player_index(path: pathlib.Path,
         index = pd.read_csv(path/league/"players.csv", usecols=dfcols).fillna("")
     except FileNotFoundError:
         index = pd.DataFrame(columns=dfcols)
-    df = df.merge(index[['source', 'team.name', 'key',
-                         'person.name.last', 'person.name.first',
-                         'person.seq',
-                         'gloss.name.last', 'gloss.name.first']],
-                  how='left',
-                  on=['source', 'team.name', 'key',
+    df = (
+        df.fillna("")
+        .merge(index[['source', 'team.name', 'key',
                       'person.name.last', 'person.name.first',
-                      'person.seq'])
+                      'person.seq',
+                      'gloss.name.last', 'gloss.name.first']],
+                how='left',
+                on=['source', 'team.name', 'key',
+                    'person.name.last', 'person.name.first',
+                    'person.seq'])
+    )
     index = (
         pd.concat([index.query(f"source != '{source}'"), df],
                   ignore_index=True, sort=False)
@@ -380,7 +383,6 @@ def main(source: str):
         .merge(games[['game.id', 'source', 'key']], how='left', on='game.id')
         .reindex(columns=['team.league', 'team.key', 'team.name',
                           'source', 'key',
-                          'gloss.name.last', 'gloss.name.first',
                           'person.name.last', 'person.name.first',
                           'person.seq', 'pos'])
         .sort_values(['team.league', 'team.name',

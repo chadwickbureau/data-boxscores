@@ -1,7 +1,7 @@
 team.league,team.key,team.name,source,key,gloss.name.last,gloss.name.first,person.name.last,person.name.first,person.seq,pos
+Texas League,TEXBEA,Beaumont,1915-DMN,19150612-TEXBEA-TEXWAC-2,,,Arbogast,,a07,c
 Texas League,TEXBEA,Beaumont,1915-DMN,19150617-TEXBEA-TEXFTW-2,Arbogast,,Abrogast,,a07,c
 Texas League,TEXBEA,Beaumont,1915-DMN,19150618-TEXBEA-TEXDAL-0,Arbogast,,Abrogast,,a07,c
-Texas League,TEXBEA,Beaumont,1915-DMN,19150612-TEXBEA-TEXWAC-2,,,Arbogast,,a07,c
 Texas League,TEXBEA,Beaumont,1915-DMN,19150621-TEXBEA-TEXSHR-0,,,Arbogast,,b11,c
 Texas League,TEXBEA,Beaumont,1915-DMN,19150629-TEXBEA-TEXFTW-0,,,Arbogast,,b07,c
 Texas League,TEXBEA,Beaumont,1915-DMN,19150701-TEXBEA-TEXFTW-0,,,Arbogast,,b07,c
@@ -79,7 +79,6 @@ Texas League,TEXBEA,Beaumont,1915-DMN,19150629-TEXBEA-TEXFTW-0,,,Bobo,,b10,c
 Texas League,TEXBEA,Beaumont,1915-DMN,19150630-TEXBEA-TEXFTW-0,,,Bobo,,b07,c
 Texas League,TEXBEA,Beaumont,1915-DMN,19150701-TEXBEA-TEXFTW-0,,,Bobo,,b11,ph
 Texas League,TEXBEA,Beaumont,1915-DMN,19150702-TEXBEA-TEXDAL-0,,,Bobo,,b07,c
-Texas League,TEXBEA,Beaumont,1915-DMN,19150608-TEXBEA-TEXSHR-0,Brant,,Brandt,,a08,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150409-TEXBEA-TEXHOU-0,,,Brant,,b08,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150413-TEXBEA-TEXGAL-0,,,Brant,,b08,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150416-TEXBEA-TEXSAN-0,,,Brant,,a08,p
@@ -96,6 +95,7 @@ Texas League,TEXBEA,Beaumont,1915-DMN,19150521-TEXBEA-TEXDAL-0,,,Brant,,b08,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150525-TEXBEA-TEXHOU-0,,,Brant,,b08,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150530-TEXBEA-TEXSAN-0,,,Brant,,b08,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150604-TEXBEA-TEXHOU-0,,,Brant,,a08,p
+Texas League,TEXBEA,Beaumont,1915-DMN,19150608-TEXBEA-TEXSHR-0,Brant,,Brandt,,a08,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150612-TEXBEA-TEXWAC-1,,,Brant,,a08,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150618-TEXBEA-TEXDAL-0,,,Brant,,a08,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150622-TEXBEA-TEXSHR-0,,,Brant,,b08,p
@@ -141,6 +141,7 @@ Texas League,TEXBEA,Beaumont,1915-DMN,19150415-TEXBEA-TEXSAN-2,Clark,J.,Clark,,a
 Texas League,TEXBEA,Beaumont,1915-DMN,19150416-TEXBEA-TEXSAN-0,Clark,J.,Clark,,a02,lf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150417-TEXBEA-TEXGAL-0,Clark,J.,Clark,,a02,lf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150418-TEXBEA-TEXGAL-0,Clark,J.,Clark,,a02,lf
+Texas League,TEXBEA,Beaumont,1915-DMN,19150419-TEXBEA-TEXGAL-0,Clark,J.,Clark,W.,a00,lf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150420-TEXBEA-TEXHOU-0,Clark,J.,Clark,,a00,lf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150421-TEXBEA-TEXHOU-0,Clark,J.,Clark,,a00,lf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150422-TEXBEA-TEXHOU-0,Clark,J.,Clark,,a00,lf
@@ -150,6 +151,7 @@ Texas League,TEXBEA,Beaumont,1915-DMN,19150425-TEXBEA-TEXSAN-0,Clark,J.,Clark,,b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150426-TEXBEA-TEXDAL-0,Clark,J.,Clark,,a00,lf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150427-TEXBEA-TEXDAL-0,Clark,J.,Clark,,a00,lf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150428-TEXBEA-TEXDAL-0,Clark,J.,Clark,,a00,lf
+Texas League,TEXBEA,Beaumont,1915-DMN,19150429-TEXBEA-TEXFTW-0,Clark,J.,Clarke,,a05,lf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150430-TEXBEA-TEXFTW-0,Clark,J.,Clark,,a01,lf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150501-TEXBEA-TEXFTW-0,Clark,J.,Clark,,a01,lf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150502-TEXBEA-TEXSHR-0,Clark,J.,Clark,,a01,lf
@@ -158,12 +160,21 @@ Texas League,TEXBEA,Beaumont,1915-DMN,19150530-TEXBEA-TEXSAN-0,Clark,J.,Clark,,b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150601-TEXBEA-TEXGAL-0,Clark,J.,Clark,,b06,lf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150602-TEXBEA-TEXGAL-0,Clark,J.,Clark,,b06,lf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150603-TEXBEA-TEXGAL-0,Clark,J.,Clark,,b06,lf
+Texas League,TEXBEA,Beaumont,1915-DMN,19150604-TEXBEA-TEXHOU-0,Clark,J.,Clarke,U.,a06,lf
+Texas League,TEXBEA,Beaumont,1915-DMN,19150605-TEXBEA-TEXHOU-0,Clark,J.,Clarke,,a06,lf
+Texas League,TEXBEA,Beaumont,1915-DMN,19150606-TEXBEA-TEXHOU-0,Clark,J.,Clarke,,a06,lf
+Texas League,TEXBEA,Beaumont,1915-DMN,19150607-TEXBEA-TEXSHR-0,Clark,J.,Clarke,,a06,lf
+Texas League,TEXBEA,Beaumont,1915-DMN,19150608-TEXBEA-TEXSHR-0,Clark,J.,Clarke,,a06,lf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150609-TEXBEA-TEXSHR-0,Clark,J.,Clark,,a06,lf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150610-TEXBEA-TEXSHR-0,Clark,J.,Clark,,a06,lf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150611-TEXBEA-TEXWAC-0,Clark,J.,Clark,,a06,lf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150612-TEXBEA-TEXWAC-1,Clark,J.,Clark,,a06,lf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150612-TEXBEA-TEXWAC-2,Clark,J.,Clark,,a06,lf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150613-TEXBEA-TEXWAC-0,Clark,J.,Clark,,a07,lf
+Texas League,TEXBEA,Beaumont,1915-DMN,19150617-TEXBEA-TEXFTW-1,Clark,J.,Clarke,,a06,lf
+Texas League,TEXBEA,Beaumont,1915-DMN,19150617-TEXBEA-TEXFTW-2,Clark,J.,Clarke,,a06,lf
+Texas League,TEXBEA,Beaumont,1915-DMN,19150618-TEXBEA-TEXDAL-0,Clark,J.,Clarke,,a06,lf
+Texas League,TEXBEA,Beaumont,1915-DMN,19150619-TEXBEA-TEXDAL-0,Clark,J.,Clarke,,a06,lf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150620-TEXBEA-TEXDAL-0,Clark,J.,Clark,,a06,lf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150621-TEXBEA-TEXSHR-0,Clark,J.,Clark,,b06,lf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150622-TEXBEA-TEXSHR-0,Clark,J.,Clark,,b06,lf
@@ -177,21 +188,6 @@ Texas League,TEXBEA,Beaumont,1915-DMN,19150629-TEXBEA-TEXFTW-0,Clark,J.,Clark,,b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150630-TEXBEA-TEXFTW-0,Clark,J.,Clark,,b06,lf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150701-TEXBEA-TEXFTW-0,Clark,J.,Clark,,b06,lf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150702-TEXBEA-TEXDAL-0,Clark,J.,Clark,,b06,lf
-Texas League,TEXBEA,Beaumont,1915-DMN,19150419-TEXBEA-TEXGAL-0,Clark,J.,Clark,W.,a00,lf
-Texas League,TEXBEA,Beaumont,1915-DMN,19150429-TEXBEA-TEXFTW-0,Clark,J.,Clarke,,a05,lf
-Texas League,TEXBEA,Beaumont,1915-DMN,19150605-TEXBEA-TEXHOU-0,Clark,J.,Clarke,,a06,lf
-Texas League,TEXBEA,Beaumont,1915-DMN,19150606-TEXBEA-TEXHOU-0,Clark,J.,Clarke,,a06,lf
-Texas League,TEXBEA,Beaumont,1915-DMN,19150607-TEXBEA-TEXSHR-0,Clark,J.,Clarke,,a06,lf
-Texas League,TEXBEA,Beaumont,1915-DMN,19150608-TEXBEA-TEXSHR-0,Clark,J.,Clarke,,a06,lf
-Texas League,TEXBEA,Beaumont,1915-DMN,19150617-TEXBEA-TEXFTW-1,Clark,J.,Clarke,,a06,lf
-Texas League,TEXBEA,Beaumont,1915-DMN,19150617-TEXBEA-TEXFTW-2,Clark,J.,Clarke,,a06,lf
-Texas League,TEXBEA,Beaumont,1915-DMN,19150618-TEXBEA-TEXDAL-0,Clark,J.,Clarke,,a06,lf
-Texas League,TEXBEA,Beaumont,1915-DMN,19150619-TEXBEA-TEXDAL-0,Clark,J.,Clarke,,a06,lf
-Texas League,TEXBEA,Beaumont,1915-DMN,19150604-TEXBEA-TEXHOU-0,Clark,J.,Clarke,U.,a06,lf
-Texas League,TEXBEA,Beaumont,1915-DMN,19150419-TEXBEA-TEXGAL-0,,,Cook,,a02,1b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150427-TEXBEA-TEXDAL-0,,,Cook,,a02,1b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150519-TEXBEA-TEXWAC-0,,,Cook,,b04,1b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150620-TEXBEA-TEXDAL-0,,,Cook,,a02,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150408-TEXBEA-TEXHOU-0,,,Cooke,,b05,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150409-TEXBEA-TEXHOU-0,,,Cooke,,b05,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150410-TEXBEA-TEXHOU-0,,,Cooke,,b05,1b
@@ -203,6 +199,7 @@ Texas League,TEXBEA,Beaumont,1915-DMN,19150415-TEXBEA-TEXSAN-2,,,Cooke,,a05,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150416-TEXBEA-TEXSAN-0,,,Cooke,,a03,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150417-TEXBEA-TEXGAL-0,,,Cooke,,a03,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150418-TEXBEA-TEXGAL-0,,,Cooke,,a03,1b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150419-TEXBEA-TEXGAL-0,Cooke,,Cook,,a02,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150420-TEXBEA-TEXHOU-0,,,Cooke,,a02,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150421-TEXBEA-TEXHOU-0,,,Cooke,,a02,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150422-TEXBEA-TEXHOU-0,,,Cooke,,a02,1b
@@ -210,6 +207,7 @@ Texas League,TEXBEA,Beaumont,1915-DMN,19150423-TEXBEA-TEXSAN-0,,,Cooke,,b02,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150424-TEXBEA-TEXSAN-0,,,Cooke,,b02,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150425-TEXBEA-TEXSAN-0,,,Cooke,,b02,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150426-TEXBEA-TEXDAL-0,,,Cooke,,a02,1b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150427-TEXBEA-TEXDAL-0,Cooke,,Cook,,a02,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150428-TEXBEA-TEXDAL-0,,,Cooke,,a02,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150429-TEXBEA-TEXFTW-0,,,Cooke,,a04,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150430-TEXBEA-TEXFTW-0,,,Cooke,,a04,1b
@@ -230,6 +228,7 @@ Texas League,TEXBEA,Beaumont,1915-DMN,19150515-TEXBEA-TEXFTW-0,,,Cooke,,b04,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150516-TEXBEA-TEXFTW-0,,,Cooke,,b03,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150517-TEXBEA-TEXWAC-0,,,Cooke,,b04,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150518-TEXBEA-TEXWAC-0,,,Cooke,,b03,1b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150519-TEXBEA-TEXWAC-0,Cooke,,Cook,,b04,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150520-TEXBEA-TEXDAL-0,,,Cooke,,b04,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150521-TEXBEA-TEXDAL-0,,,Cooke,,b05,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150522-TEXBEA-TEXDAL-0,,,Cooke,,b05,1b
@@ -259,6 +258,7 @@ Texas League,TEXBEA,Beaumont,1915-DMN,19150617-TEXBEA-TEXFTW-1,,,Cooke,,a02,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150617-TEXBEA-TEXFTW-2,,,Cooke,,a02,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150618-TEXBEA-TEXDAL-0,,,Cooke,,a02,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150619-TEXBEA-TEXDAL-0,,,Cooke,,a02,1b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150620-TEXBEA-TEXDAL-0,Cooke,,Cook,,a02,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150621-TEXBEA-TEXSHR-0,,,Cooke,,b02,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150622-TEXBEA-TEXSHR-0,,,Cooke,,b02,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150623-TEXBEA-TEXSHR-0,,,Cooke,,b02,1b
@@ -271,89 +271,89 @@ Texas League,TEXBEA,Beaumont,1915-DMN,19150629-TEXBEA-TEXFTW-0,,,Cooke,,b02,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150630-TEXBEA-TEXFTW-0,,,Cooke,,b02,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150701-TEXBEA-TEXFTW-0,,,Cooke,,b02,1b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150702-TEXBEA-TEXDAL-0,,,Cooke,,b02,1b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150408-TEXBEA-TEXHOU-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150409-TEXBEA-TEXHOU-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150410-TEXBEA-TEXHOU-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150411-TEXBEA-TEXGAL-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150412-TEXBEA-TEXGAL-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150413-TEXBEA-TEXGAL-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150415-TEXBEA-TEXSAN-1,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150415-TEXBEA-TEXSAN-2,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150416-TEXBEA-TEXSAN-0,,,Dodd,,a04,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150417-TEXBEA-TEXGAL-0,,,Dodd,,a04,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150418-TEXBEA-TEXGAL-0,,,Dodd,,a04,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150419-TEXBEA-TEXGAL-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150422-TEXBEA-TEXHOU-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150423-TEXBEA-TEXSAN-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150424-TEXBEA-TEXSAN-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150425-TEXBEA-TEXSAN-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150426-TEXBEA-TEXDAL-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150427-TEXBEA-TEXDAL-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150428-TEXBEA-TEXDAL-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150429-TEXBEA-TEXFTW-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150430-TEXBEA-TEXFTW-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150501-TEXBEA-TEXFTW-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150502-TEXBEA-TEXSHR-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150503-TEXBEA-TEXSHR-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150504-TEXBEA-TEXSHR-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150505-TEXBEA-TEXWAC-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150507-TEXBEA-TEXWAC-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150508-TEXBEA-TEXSAN-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150509-TEXBEA-TEXSAN-0,,,Dodd,,a02,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150510-TEXBEA-TEXSAN-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150511-TEXBEA-TEXSHR-0,,,Dodd,,b02,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150512-TEXBEA-TEXSHR-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150513-TEXBEA-TEXSHR-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150514-TEXBEA-TEXFTW-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150515-TEXBEA-TEXFTW-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150516-TEXBEA-TEXFTW-0,,,Dodd,,b02,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150517-TEXBEA-TEXWAC-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150518-TEXBEA-TEXWAC-0,,,Dodd,,b02,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150519-TEXBEA-TEXWAC-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150520-TEXBEA-TEXDAL-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150521-TEXBEA-TEXDAL-0,,,Dodd,,b01,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150522-TEXBEA-TEXDAL-0,,,Dodd,,b01,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150525-TEXBEA-TEXHOU-0,,,Dodd,,b02,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150526-TEXBEA-TEXGAL-0,,,Dodd,,a03,3b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150527-TEXBEA-TEXGAL-0,,,Dodd,,a03,3b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150528-TEXBEA-TEXGAL-0,,,Dodd,,a09,3b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150529-TEXBEA-TEXSAN-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150530-TEXBEA-TEXSAN-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150601-TEXBEA-TEXGAL-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150602-TEXBEA-TEXGAL-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150603-TEXBEA-TEXGAL-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150604-TEXBEA-TEXHOU-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150605-TEXBEA-TEXHOU-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150606-TEXBEA-TEXHOU-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150607-TEXBEA-TEXSHR-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150608-TEXBEA-TEXSHR-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150609-TEXBEA-TEXSHR-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150610-TEXBEA-TEXSHR-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150611-TEXBEA-TEXWAC-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150612-TEXBEA-TEXWAC-1,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150612-TEXBEA-TEXWAC-2,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150613-TEXBEA-TEXWAC-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150617-TEXBEA-TEXFTW-1,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150617-TEXBEA-TEXFTW-2,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150618-TEXBEA-TEXDAL-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150619-TEXBEA-TEXDAL-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150620-TEXBEA-TEXDAL-0,,,Dodd,,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150621-TEXBEA-TEXSHR-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150622-TEXBEA-TEXSHR-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150623-TEXBEA-TEXSHR-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150624-TEXBEA-TEXSHR-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150625-TEXBEA-TEXWAC-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150626-TEXBEA-TEXWAC-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150627-TEXBEA-TEXWAC-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150628-TEXBEA-TEXFTW-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150629-TEXBEA-TEXFTW-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150630-TEXBEA-TEXFTW-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150701-TEXBEA-TEXFTW-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150702-TEXBEA-TEXDAL-0,,,Dodd,,b03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150523-TEXBEA-TEXHOU-0,,,Dodd,O.,b01,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150420-TEXBEA-TEXHOU-0,,,Dodd,Ona,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150421-TEXBEA-TEXHOU-0,,,Dodd,Ona,a03,2b
-Texas League,TEXBEA,Beaumont,1915-DMN,19150524-TEXBEA-TEXHOU-0,,,Dodd [BEA],,b01,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150408-TEXBEA-TEXHOU-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150409-TEXBEA-TEXHOU-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150410-TEXBEA-TEXHOU-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150411-TEXBEA-TEXGAL-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150412-TEXBEA-TEXGAL-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150413-TEXBEA-TEXGAL-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150415-TEXBEA-TEXSAN-1,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150415-TEXBEA-TEXSAN-2,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150416-TEXBEA-TEXSAN-0,Dodd,Ona,Dodd,,a04,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150417-TEXBEA-TEXGAL-0,Dodd,Ona,Dodd,,a04,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150418-TEXBEA-TEXGAL-0,Dodd,Ona,Dodd,,a04,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150419-TEXBEA-TEXGAL-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150420-TEXBEA-TEXHOU-0,Dodd,Ona,Dodd,Ona,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150421-TEXBEA-TEXHOU-0,Dodd,Ona,Dodd,Ona,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150422-TEXBEA-TEXHOU-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150423-TEXBEA-TEXSAN-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150424-TEXBEA-TEXSAN-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150425-TEXBEA-TEXSAN-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150426-TEXBEA-TEXDAL-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150427-TEXBEA-TEXDAL-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150428-TEXBEA-TEXDAL-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150429-TEXBEA-TEXFTW-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150430-TEXBEA-TEXFTW-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150501-TEXBEA-TEXFTW-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150502-TEXBEA-TEXSHR-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150503-TEXBEA-TEXSHR-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150504-TEXBEA-TEXSHR-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150505-TEXBEA-TEXWAC-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150507-TEXBEA-TEXWAC-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150508-TEXBEA-TEXSAN-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150509-TEXBEA-TEXSAN-0,Dodd,Ona,Dodd,,a02,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150510-TEXBEA-TEXSAN-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150511-TEXBEA-TEXSHR-0,Dodd,Ona,Dodd,,b02,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150512-TEXBEA-TEXSHR-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150513-TEXBEA-TEXSHR-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150514-TEXBEA-TEXFTW-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150515-TEXBEA-TEXFTW-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150516-TEXBEA-TEXFTW-0,Dodd,Ona,Dodd,,b02,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150517-TEXBEA-TEXWAC-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150518-TEXBEA-TEXWAC-0,Dodd,Ona,Dodd,,b02,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150519-TEXBEA-TEXWAC-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150520-TEXBEA-TEXDAL-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150521-TEXBEA-TEXDAL-0,Dodd,Ona,Dodd,,b01,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150522-TEXBEA-TEXDAL-0,Dodd,Ona,Dodd,,b01,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150523-TEXBEA-TEXHOU-0,Dodd,Ona,Dodd,O.,b01,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150524-TEXBEA-TEXHOU-0,Dodd,Ona,Dodd [BEA],,b01,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150525-TEXBEA-TEXHOU-0,Dodd,Ona,Dodd,,b02,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150526-TEXBEA-TEXGAL-0,Dodd,Ona,Dodd,,a03,3b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150527-TEXBEA-TEXGAL-0,Dodd,Ona,Dodd,,a03,3b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150528-TEXBEA-TEXGAL-0,Dodd,Ona,Dodd,,a09,3b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150529-TEXBEA-TEXSAN-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150530-TEXBEA-TEXSAN-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150601-TEXBEA-TEXGAL-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150602-TEXBEA-TEXGAL-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150603-TEXBEA-TEXGAL-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150604-TEXBEA-TEXHOU-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150605-TEXBEA-TEXHOU-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150606-TEXBEA-TEXHOU-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150607-TEXBEA-TEXSHR-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150608-TEXBEA-TEXSHR-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150609-TEXBEA-TEXSHR-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150610-TEXBEA-TEXSHR-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150611-TEXBEA-TEXWAC-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150612-TEXBEA-TEXWAC-1,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150612-TEXBEA-TEXWAC-2,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150613-TEXBEA-TEXWAC-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150617-TEXBEA-TEXFTW-1,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150617-TEXBEA-TEXFTW-2,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150618-TEXBEA-TEXDAL-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150619-TEXBEA-TEXDAL-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150620-TEXBEA-TEXDAL-0,Dodd,Ona,Dodd,,a03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150621-TEXBEA-TEXSHR-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150622-TEXBEA-TEXSHR-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150623-TEXBEA-TEXSHR-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150624-TEXBEA-TEXSHR-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150625-TEXBEA-TEXWAC-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150626-TEXBEA-TEXWAC-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150627-TEXBEA-TEXWAC-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150628-TEXBEA-TEXFTW-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150629-TEXBEA-TEXFTW-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150630-TEXBEA-TEXFTW-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150701-TEXBEA-TEXFTW-0,Dodd,Ona,Dodd,,b03,2b
+Texas League,TEXBEA,Beaumont,1915-DMN,19150702-TEXBEA-TEXDAL-0,Dodd,Ona,Dodd,,b03,2b
 Texas League,TEXBEA,Beaumont,1915-DMN,19150411-TEXBEA-TEXGAL-0,,,Durr,,b09,c
 Texas League,TEXBEA,Beaumont,1915-DMN,19150413-TEXBEA-TEXGAL-0,,,Durr,,b09,c-lf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150517-TEXBEA-TEXWAC-0,,,Fisher,,b09,ph
@@ -523,13 +523,13 @@ Texas League,TEXBEA,Beaumont,1915-DMN,19150626-TEXBEA-TEXWAC-0,,,Martina,,b08,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150627-TEXBEA-TEXWAC-0,,,Martina,,b11,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150629-TEXBEA-TEXFTW-0,,,Martina,,b11,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150630-TEXBEA-TEXFTW-0,,,Martina,,b10,p
-Texas League,TEXBEA,Beaumont,1915-DMN,19150420-TEXBEA-TEXHOU-0,,,McBee,,a06,ss
 Texas League,TEXBEA,Beaumont,1915-DMN,19150415-TEXBEA-TEXSAN-1,,,McGee,,a07,ss
 Texas League,TEXBEA,Beaumont,1915-DMN,19150415-TEXBEA-TEXSAN-2,,,McGee,,a07,ss
 Texas League,TEXBEA,Beaumont,1915-DMN,19150416-TEXBEA-TEXSAN-0,,,McGee,,a07,ss
 Texas League,TEXBEA,Beaumont,1915-DMN,19150417-TEXBEA-TEXGAL-0,,,McGee,,a07,ss
 Texas League,TEXBEA,Beaumont,1915-DMN,19150418-TEXBEA-TEXGAL-0,,,McGee,,a07,ss
 Texas League,TEXBEA,Beaumont,1915-DMN,19150419-TEXBEA-TEXGAL-0,,,McGee,,a06,ss
+Texas League,TEXBEA,Beaumont,1915-DMN,19150420-TEXBEA-TEXHOU-0,McGee,,McBee,,a06,ss
 Texas League,TEXBEA,Beaumont,1915-DMN,19150421-TEXBEA-TEXHOU-0,,,McGee,,a06,ss
 Texas League,TEXBEA,Beaumont,1915-DMN,19150422-TEXBEA-TEXHOU-0,,,McGee,,a06,ss
 Texas League,TEXBEA,Beaumont,1915-DMN,19150423-TEXBEA-TEXSAN-0,,,McGee,,b06,ss
@@ -708,8 +708,6 @@ Texas League,TEXBEA,Beaumont,1915-DMN,19150630-TEXBEA-TEXFTW-0,,,Nixon,,b00,cf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150701-TEXBEA-TEXFTW-0,,,Nixon,,b00,cf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150702-TEXBEA-TEXDAL-0,,,Nixon,,b00,cf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150413-TEXBEA-TEXGAL-0,,,O'Connell,,b11,c
-Texas League,TEXBEA,Beaumont,1915-DMN,19150604-TEXBEA-TEXHOU-0,,,Robertson,,a04,rf
-Texas League,TEXBEA,Beaumont,1915-DMN,19150605-TEXBEA-TEXHOU-0,,,Robertson,,a04,rf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150408-TEXBEA-TEXHOU-0,,,Robinson,,b02,rf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150409-TEXBEA-TEXHOU-0,,,Robinson,,b02,rf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150410-TEXBEA-TEXHOU-0,,,Robinson,,b02,rf
@@ -749,6 +747,8 @@ Texas League,TEXBEA,Beaumont,1915-DMN,19150530-TEXBEA-TEXSAN-0,,,Robinson,,b04,r
 Texas League,TEXBEA,Beaumont,1915-DMN,19150601-TEXBEA-TEXGAL-0,,,Robinson,,b04,rf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150602-TEXBEA-TEXGAL-0,,,Robinson,,b04,rf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150603-TEXBEA-TEXGAL-0,,,Robinson,,b04,rf
+Texas League,TEXBEA,Beaumont,1915-DMN,19150604-TEXBEA-TEXHOU-0,Robinson,,Robertson,,a04,rf
+Texas League,TEXBEA,Beaumont,1915-DMN,19150605-TEXBEA-TEXHOU-0,Robinson,,Robertson,,a04,rf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150606-TEXBEA-TEXHOU-0,,,Robinson,,a04,rf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150607-TEXBEA-TEXSHR-0,,,Robinson,,a04,rf
 Texas League,TEXBEA,Beaumont,1915-DMN,19150608-TEXBEA-TEXSHR-0,,,Robinson,,a04,rf
@@ -804,8 +804,8 @@ Texas League,TEXBEA,Beaumont,1915-DMN,19150701-TEXBEA-TEXFTW-0,,,Schwind,,b01,ss
 Texas League,TEXBEA,Beaumont,1915-DMN,19150702-TEXBEA-TEXDAL-0,,,Schwind,,b01,ss
 Texas League,TEXBEA,Beaumont,1915-DMN,19150410-TEXBEA-TEXHOU-0,,,Showers,,b10,ph
 Texas League,TEXBEA,Beaumont,1915-DMN,19150411-TEXBEA-TEXGAL-0,,,Showers,,b10,ph
-Texas League,TEXBEA,Beaumont,1915-DMN,19150504-TEXBEA-TEXSHR-0,,,Spear,,a09,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150430-TEXBEA-TEXFTW-0,,,Speer,,a08,p
+Texas League,TEXBEA,Beaumont,1915-DMN,19150504-TEXBEA-TEXSHR-0,Speer,,Spear,,a09,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150509-TEXBEA-TEXSAN-0,,,Speer,,a08,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150512-TEXBEA-TEXSHR-0,,,Speer,,b09,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150516-TEXBEA-TEXFTW-0,,,Speer,,b08,p
@@ -817,10 +817,10 @@ Texas League,TEXBEA,Beaumont,1915-DMN,19150514-TEXBEA-TEXFTW-0,,,Swan,,b08,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150520-TEXBEA-TEXDAL-0,,,Swan,,b08,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150529-TEXBEA-TEXSAN-0,,,Swan,,b08,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150603-TEXBEA-TEXGAL-0,,,Swan,,b09,p
+Texas League,TEXBEA,Beaumont,1915-DMN,19150610-TEXBEA-TEXSHR-0,Swan,,Swann,,a09,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150612-TEXBEA-TEXWAC-2,,,Swan,,a08,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150619-TEXBEA-TEXDAL-0,,,Swan,,a08,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150701-TEXBEA-TEXFTW-0,,,Swan,,b08,p
-Texas League,TEXBEA,Beaumont,1915-DMN,19150610-TEXBEA-TEXSHR-0,,,Swann,,a09,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150410-TEXBEA-TEXHOU-0,,,Taff,,b08,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150415-TEXBEA-TEXSAN-2,,,Taff,,a08,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150419-TEXBEA-TEXGAL-0,,,Taff,,a09,p
@@ -836,7 +836,6 @@ Texas League,TEXBEA,Beaumont,1915-DMN,19150617-TEXBEA-TEXFTW-1,,,Veasey,,a08,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150623-TEXBEA-TEXSHR-0,,,Veasey,,b08,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150627-TEXBEA-TEXWAC-0,,,Veasey,,b08,p
 Texas League,TEXBEA,Beaumont,1915-DMN,19150629-TEXBEA-TEXFTW-0,,,Veasey,,b09,p
-Texas League,TEXDAL,Dallas,1915-DMN,19150613-TEXDAL-TEXHOU-0,,,%Dunn,,b10,ph
 Texas League,TEXDAL,Dallas,1915-DMN,19150418-TEXDAL-TEXWAC-0,,,Bono,,b11,p
 Texas League,TEXDAL,Dallas,1915-DMN,19150424-TEXDAL-TEXFTW-0,,,Bono,,b08,p
 Texas League,TEXDAL,Dallas,1915-DMN,19150429-TEXDAL-TEXGAL-0,,,Bono,,b08,p
@@ -1078,6 +1077,7 @@ Texas League,TEXDAL,Dallas,1915-DMN,19150607-TEXDAL-TEXGAL-0,,,Dunn,,b07,c
 Texas League,TEXDAL,Dallas,1915-DMN,19150608-TEXDAL-TEXGAL-0,,,Dunn,,b07,c
 Texas League,TEXDAL,Dallas,1915-DMN,19150610-TEXDAL-TEXGAL-0,,,Dunn,,b07,c
 Texas League,TEXDAL,Dallas,1915-DMN,19150612-TEXDAL-TEXHOU-0,,,Dunn,,b07,c
+Texas League,TEXDAL,Dallas,1915-DMN,19150613-TEXDAL-TEXHOU-0,,,Dunn,,b10,ph
 Texas League,TEXDAL,Dallas,1915-DMN,19150614-TEXDAL-TEXSAN-0,,,Dunn,,b07,c
 Texas League,TEXDAL,Dallas,1915-DMN,19150616-TEXDAL-TEXSAN-0,,,Dunn,,b07,c
 Texas League,TEXDAL,Dallas,1915-DMN,19150618-TEXBEA-TEXDAL-0,,,Dunn,,b07,c
@@ -1230,14 +1230,14 @@ Texas League,TEXDAL,Dallas,1915-DMN,19150603-TEXDAL-TEXFTW-0,,,Frantz,,b06,1b
 Texas League,TEXDAL,Dallas,1915-DMN,19150604-TEXDAL-TEXWAC-0,,,Frantz,,a06,1b
 Texas League,TEXDAL,Dallas,1915-DMN,19150605-TEXDAL-TEXWAC-0,,,Frantz,,a07,1b
 Texas League,TEXDAL,Dallas,1915-DMN,19150606-TEXDAL-TEXWAC-0,,,Frantz,,a06,1b
-Texas League,TEXDAL,Dallas,1915-DMN,19150530-TEXDAL-TEXSHR-1,,,Gouilat,,b08,p
-Texas League,TEXDAL,Dallas,1915-DMN,19150602-TEXDAL-TEXFTW-1,,,Gouilat,,b08,p
-Texas League,TEXDAL,Dallas,1915-DMN,19150603-TEXDAL-TEXFTW-0,,,Gouilat,,b10,pr
-Texas League,TEXDAL,Dallas,1915-DMN,19150607-TEXDAL-TEXGAL-0,,,Gouilat,,b08,p
-Texas League,TEXDAL,Dallas,1915-DMN,19150612-TEXDAL-TEXHOU-0,,,Gouilat,,b08,p
-Texas League,TEXDAL,Dallas,1915-DMN,19150616-TEXDAL-TEXSAN-0,,,Gouilat,,b08,p
-Texas League,TEXDAL,Dallas,1915-DMN,19150618-TEXBEA-TEXDAL-0,,,Gouilat,,b09,p
-Texas League,TEXDAL,Dallas,1915-DMN,19150620-TEXBEA-TEXDAL-0,,,Gouilat,,b09,pr
+Texas League,TEXDAL,Dallas,1915-DMN,19150530-TEXDAL-TEXSHR-1,Goulait,,Gouilat,,b08,p
+Texas League,TEXDAL,Dallas,1915-DMN,19150602-TEXDAL-TEXFTW-1,Goulait,,Gouilat,,b08,p
+Texas League,TEXDAL,Dallas,1915-DMN,19150603-TEXDAL-TEXFTW-0,Goulait,,Gouilat,,b10,pr
+Texas League,TEXDAL,Dallas,1915-DMN,19150607-TEXDAL-TEXGAL-0,Goulait,,Gouilat,,b08,p
+Texas League,TEXDAL,Dallas,1915-DMN,19150612-TEXDAL-TEXHOU-0,Goulait,,Gouilat,,b08,p
+Texas League,TEXDAL,Dallas,1915-DMN,19150616-TEXDAL-TEXSAN-0,Goulait,,Gouilat,,b08,p
+Texas League,TEXDAL,Dallas,1915-DMN,19150618-TEXBEA-TEXDAL-0,Goulait,,Gouilat,,b09,p
+Texas League,TEXDAL,Dallas,1915-DMN,19150620-TEXBEA-TEXDAL-0,Goulait,,Gouilat,,b09,pr
 Texas League,TEXDAL,Dallas,1915-DMN,19150523-TEXDAL-TEXFTW-0,,,Goulait,,a08,p
 Texas League,TEXDAL,Dallas,1915-DMN,19150605-TEXDAL-TEXWAC-0,,,Goulait,,a06,3b
 Texas League,TEXDAL,Dallas,1915-DMN,19150622-TEXDAL-TEXHOU-0,,,Goulait,,a08,p
@@ -1245,7 +1245,7 @@ Texas League,TEXDAL,Dallas,1915-DMN,19150625-TEXDAL-TEXGAL-0,,,Goulait,,a10,ph
 Texas League,TEXDAL,Dallas,1915-DMN,19150626-TEXDAL-TEXGAL-0,,,Goulait,,a08,p
 Texas League,TEXDAL,Dallas,1915-DMN,19150630-TEXDAL-TEXSAN-0,,,Goulait,,a03,2b
 Texas League,TEXDAL,Dallas,1915-DMN,19150701-TEXDAL-TEXSAN-0,,,Goulait,,a08,p
-Texas League,TEXDAL,Dallas,1915-DMN,19150527-TEXDAL-TEXWAC-1,,,Goullat,,b08,p
+Texas League,TEXDAL,Dallas,1915-DMN,19150527-TEXDAL-TEXWAC-1,Goulait,,Goullat,,b08,p
 Texas League,TEXDAL,Dallas,1915-DMN,19150408-TEXDAL-TEXSHR-0,,,Harber,,a00,rf
 Texas League,TEXDAL,Dallas,1915-DMN,19150409-TEXDAL-TEXSHR-0,,,Harber,,a00,rf
 Texas League,TEXDAL,Dallas,1915-DMN,19150410-TEXDAL-TEXSHR-0,,,Harber,,a00,rf
@@ -1427,8 +1427,8 @@ Texas League,TEXDAL,Dallas,1915-DMN,19150613-TEXDAL-TEXHOU-0,,,Morgan,,b08,p
 Texas League,TEXDAL,Dallas,1915-DMN,19150617-TEXDAL-TEXSAN-0,,,Morgan,,b09,p
 Texas League,TEXDAL,Dallas,1915-DMN,19150621-TEXDAL-TEXHOU-0,,,Morgan,,a08,p
 Texas League,TEXDAL,Dallas,1915-DMN,19150630-TEXDAL-TEXSAN-0,,,Morgan,,a08,p
-Texas League,TEXDAL,Dallas,1915-DMN,19150510-TEXDAL-TEXSHR-0,,,Mullen,,a08,p
-Texas League,TEXDAL,Dallas,1915-DMN,19150409-TEXDAL-TEXSHR-0,,,Mullens,,a08,p
+Texas League,TEXDAL,Dallas,1915-DMN,19150510-TEXDAL-TEXSHR-0,Mullins,,Mullen,,a08,p
+Texas League,TEXDAL,Dallas,1915-DMN,19150409-TEXDAL-TEXSHR-0,Mullins,,Mullens,,a08,p
 Texas League,TEXDAL,Dallas,1915-DMN,19150413-TEXDAL-TEXWAC-0,,,Mullins,,a08,p
 Texas League,TEXDAL,Dallas,1915-DMN,19150417-TEXDAL-TEXWAC-0,,,Mullins,,b08,p
 Texas League,TEXDAL,Dallas,1915-DMN,19150418-TEXDAL-TEXWAC-0,,,Mullins,,b10,ph
@@ -1557,9 +1557,9 @@ Texas League,TEXDAL,Dallas,1915-DMN,19150624-TEXDAL-TEXHOU-0,,,Stephens,,a07,c
 Texas League,TEXDAL,Dallas,1915-DMN,19150625-TEXDAL-TEXGAL-0,,,Stephens,,a07,c
 Texas League,TEXDAL,Dallas,1915-DMN,19150630-TEXDAL-TEXSAN-0,,,Stephens,,a07,c
 Texas League,TEXDAL,Dallas,1915-DMN,19150701-TEXDAL-TEXSAN-0,,,Stephens,,a10,ph
-Texas League,TEXDAL,Dallas,1915-DMN,19150416-TEXDAL-TEXFTW-0,,,Stevens,,a07,c
-Texas League,TEXDAL,Dallas,1915-DMN,19150517-TEXDAL-TEXSAN-0,,,Stevens,,a06,c
-Texas League,TEXDAL,Dallas,1915-DMN,19150519-TEXDAL-TEXSAN-0,,,Stevens,,a06,c
+Texas League,TEXDAL,Dallas,1915-DMN,19150416-TEXDAL-TEXFTW-0,Stephens,,Stevens,,a07,c
+Texas League,TEXDAL,Dallas,1915-DMN,19150517-TEXDAL-TEXSAN-0,Stephens,,Stevens,,a06,c
+Texas League,TEXDAL,Dallas,1915-DMN,19150519-TEXDAL-TEXSAN-0,Stephens,,Stevens,,a06,c
 Texas League,TEXDAL,Dallas,1915-DMN,19150408-TEXDAL-TEXSHR-0,,,Storch,,a04,cf
 Texas League,TEXDAL,Dallas,1915-DMN,19150409-TEXDAL-TEXSHR-0,,,Storch,,a04,cf
 Texas League,TEXDAL,Dallas,1915-DMN,19150410-TEXDAL-TEXSHR-0,,,Storch,,a04,cf
@@ -1808,85 +1808,85 @@ Texas League,TEXFTW,Fort Worth,1915-DMN,19150501-TEXBEA-TEXFTW-0,,,Fleharty,,b08
 Texas League,TEXFTW,Fort Worth,1915-DMN,19150507-TEXFTW-TEXSAN-1,,,Fleharty,,b08,p
 Texas League,TEXFTW,Fort Worth,1915-DMN,19150511-TEXFTW-TEXSAN-0,,,Fleharty,,a08,p
 Texas League,TEXFTW,Fort Worth,1915-DMN,19150515-TEXBEA-TEXFTW-0,,,Fleharty,,a08,p
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150408-TEXFTW-TEXWAC-0,,,Harper,,a00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150409-TEXFTW-TEXWAC-0,,,Harper,,a00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150410-TEXFTW-TEXWAC-0,,,Harper,,a00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150411-TEXFTW-TEXSHR-0,,,Harper,,a00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150412-TEXFTW-TEXSHR-0,,,Harper,,a07,cf-2b
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150413-TEXFTW-TEXSHR-0,,,Harper,,a05,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150414-TEXDAL-TEXFTW-0,,,Harper,,b05,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150415-TEXDAL-TEXFTW-0,,,Harper,,b05,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150416-TEXDAL-TEXFTW-0,,,Harper,,b05,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150417-TEXFTW-TEXSHR-0,,,Harper,,b05,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150418-TEXFTW-TEXSHR-0,,,Harper,,b05,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150420-TEXFTW-TEXWAC-0,,,Harper,,b05,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150421-TEXFTW-TEXWAC-0,,,Harper,,b05,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150424-TEXDAL-TEXFTW-0,,,Harper,,a05,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150426-TEXFTW-TEXGAL-0,,,Harper,,b05,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150427-TEXFTW-TEXGAL-0,,,Harper,,b06,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150428-TEXFTW-TEXGAL-0,,,Harper,,b07,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150429-TEXBEA-TEXFTW-0,,,Harper,,b07,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150430-TEXBEA-TEXFTW-0,,,Harper,,b07,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150501-TEXBEA-TEXFTW-0,,,Harper,,b07,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150502-TEXFTW-TEXHOU-0,,,Harper,,b07,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150503-TEXFTW-TEXHOU-0,,,Harper,,b07,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150504-TEXFTW-TEXHOU-0,,,Harper,,b07,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150507-TEXFTW-TEXSAN-1,,,Harper,,b07,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150507-TEXFTW-TEXSAN-2,,,Harper,,b07,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150508-TEXFTW-TEXWAC-0,,,Harper,,a07,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150509-TEXFTW-TEXWAC-0,,,Harper,,a07,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150510-TEXFTW-TEXWAC-0,,,Harper,,a07,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150511-TEXFTW-TEXSAN-0,,,Harper,,a07,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150512-TEXFTW-TEXSAN-0,,,Harper,,a07,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150513-TEXFTW-TEXSAN-0,,,Harper,,a07,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150514-TEXBEA-TEXFTW-0,,,Harper,,a07,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150515-TEXBEA-TEXFTW-0,,,Harper,,a07,cf-2b
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150516-TEXBEA-TEXFTW-0,,,Harper,,a07,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150517-TEXFTW-TEXHOU-0,,,Harper,,a07,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150519-TEXFTW-TEXHOU-0,,,Harper,,a06,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150520-TEXFTW-TEXGAL-0,,,Harper,,a07,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150521-TEXFTW-TEXGAL-0,,,Harper,,a05,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150522-TEXFTW-TEXGAL-0,,,Harper,,a05,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150523-TEXDAL-TEXFTW-0,,,Harper,,b04,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150524-TEXDAL-TEXFTW-0,,,Harper,,b04,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150525-TEXDAL-TEXFTW-0,,,Harper,,b04,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150527-TEXFTW-TEXSHR-1,,,Harper,,b04,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150527-TEXFTW-TEXSHR-2,,,Harper,,b05,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150528-TEXFTW-TEXSHR-0,,,Harper,,b05,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150529-TEXFTW-TEXWAC-0,,,Harper,,b00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150530-TEXFTW-TEXWAC-1,,,Harper,,b00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150530-TEXFTW-TEXWAC-2,,,Harper,,b00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150531-TEXFTW-TEXWAC-0,,,Harper,,b00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150601-TEXDAL-TEXFTW-0,,,Harper,,a00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150602-TEXDAL-TEXFTW-1,,,Harper,,a00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150602-TEXDAL-TEXFTW-2,,,Harper,,a00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150603-TEXDAL-TEXFTW-0,,,Harper,,a00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150604-TEXFTW-TEXSHR-0,,,Harper,,a00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150605-TEXFTW-TEXSHR-0,,,Harper,,a00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150606-TEXFTW-TEXSHR-0,,,Harper,,a00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150607-TEXFTW-TEXHOU-0,,,Harper,,b00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150608-TEXFTW-TEXHOU-0,,,Harper,,b00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150609-TEXFTW-TEXHOU-0,,,Harper,,b00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150611-TEXFTW-TEXGAL-0,,,Harper,,a00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150612-TEXFTW-TEXGAL-0,,,Harper,,a00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150613-TEXFTW-TEXGAL-0,,,Harper,,a00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150617-TEXBEA-TEXFTW-1,,,Harper,,b00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150617-TEXBEA-TEXFTW-2,,,Harper,,b00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150618-TEXFTW-TEXSAN-0,,,Harper,,b00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150619-TEXFTW-TEXSAN-0,,,Harper,,b00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150620-TEXFTW-TEXSAN-1,,,Harper,,b00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150620-TEXFTW-TEXSAN-2,,,Harper,,b00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150621-TEXFTW-TEXGAL-0,,,Harper,,a00,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150622-TEXFTW-TEXGAL-0,,,Harper,,a03,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150623-TEXFTW-TEXGAL-0,,,Harper,,a03,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150624-TEXFTW-TEXGAL-0,,,Harper,,a03,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150625-TEXFTW-TEXHOU-0,,,Harper,,a03,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150626-TEXFTW-TEXHOU-0,,,Harper,,a03,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150627-TEXFTW-TEXHOU-0,,,Harper,,a03,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150628-TEXBEA-TEXFTW-0,,,Harper,,a03,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150629-TEXBEA-TEXFTW-0,,,Harper,,a03,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150630-TEXBEA-TEXFTW-0,,,Harper,,a03,cf
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150701-TEXBEA-TEXFTW-0,,,Harper,,a03,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150408-TEXFTW-TEXWAC-0,Harper,G.,Harper,,a00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150409-TEXFTW-TEXWAC-0,Harper,G.,Harper,,a00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150410-TEXFTW-TEXWAC-0,Harper,G.,Harper,,a00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150411-TEXFTW-TEXSHR-0,Harper,G.,Harper,,a00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150412-TEXFTW-TEXSHR-0,Harper,G.,Harper,,a07,cf-2b
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150413-TEXFTW-TEXSHR-0,Harper,G.,Harper,,a05,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150414-TEXDAL-TEXFTW-0,Harper,G.,Harper,,b05,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150415-TEXDAL-TEXFTW-0,Harper,G.,Harper,,b05,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150416-TEXDAL-TEXFTW-0,Harper,G.,Harper,,b05,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150417-TEXFTW-TEXSHR-0,Harper,G.,Harper,,b05,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150418-TEXFTW-TEXSHR-0,Harper,G.,Harper,,b05,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150420-TEXFTW-TEXWAC-0,Harper,G.,Harper,,b05,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150421-TEXFTW-TEXWAC-0,Harper,G.,Harper,,b05,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150424-TEXDAL-TEXFTW-0,Harper,G.,Harper,,a05,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150426-TEXFTW-TEXGAL-0,Harper,G.,Harper,,b05,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150427-TEXFTW-TEXGAL-0,Harper,G.,Harper,,b06,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150428-TEXFTW-TEXGAL-0,Harper,G.,Harper,,b07,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150429-TEXBEA-TEXFTW-0,Harper,G.,Harper,,b07,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150430-TEXBEA-TEXFTW-0,Harper,G.,Harper,,b07,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150501-TEXBEA-TEXFTW-0,Harper,G.,Harper,,b07,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150502-TEXFTW-TEXHOU-0,Harper,G.,Harper,,b07,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150503-TEXFTW-TEXHOU-0,Harper,G.,Harper,,b07,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150504-TEXFTW-TEXHOU-0,Harper,G.,Harper,,b07,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150507-TEXFTW-TEXSAN-1,Harper,G.,Harper,,b07,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150507-TEXFTW-TEXSAN-2,Harper,G.,Harper,,b07,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150508-TEXFTW-TEXWAC-0,Harper,G.,Harper,,a07,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150509-TEXFTW-TEXWAC-0,Harper,G.,Harper,,a07,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150510-TEXFTW-TEXWAC-0,Harper,G.,Harper,,a07,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150511-TEXFTW-TEXSAN-0,Harper,G.,Harper,,a07,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150512-TEXFTW-TEXSAN-0,Harper,G.,Harper,,a07,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150513-TEXFTW-TEXSAN-0,Harper,G.,Harper,,a07,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150514-TEXBEA-TEXFTW-0,Harper,G.,Harper,,a07,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150515-TEXBEA-TEXFTW-0,Harper,G.,Harper,,a07,cf-2b
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150516-TEXBEA-TEXFTW-0,Harper,G.,Harper,,a07,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150517-TEXFTW-TEXHOU-0,Harper,G.,Harper,,a07,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150519-TEXFTW-TEXHOU-0,Harper,G.,Harper,,a06,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150520-TEXFTW-TEXGAL-0,Harper,G.,Harper,,a07,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150521-TEXFTW-TEXGAL-0,Harper,G.,Harper,,a05,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150522-TEXFTW-TEXGAL-0,Harper,G.,Harper,,a05,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150523-TEXDAL-TEXFTW-0,Harper,G.,Harper,,b04,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150524-TEXDAL-TEXFTW-0,Harper,G.,Harper,,b04,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150525-TEXDAL-TEXFTW-0,Harper,G.,Harper,,b04,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150527-TEXFTW-TEXSHR-1,Harper,G.,Harper,,b04,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150527-TEXFTW-TEXSHR-2,Harper,G.,Harper,,b05,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150528-TEXFTW-TEXSHR-0,Harper,G.,Harper,,b05,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150529-TEXFTW-TEXWAC-0,Harper,G.,Harper,,b00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150530-TEXFTW-TEXWAC-1,Harper,G.,Harper,,b00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150530-TEXFTW-TEXWAC-2,Harper,G.,Harper,,b00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150531-TEXFTW-TEXWAC-0,Harper,G.,Harper,,b00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150601-TEXDAL-TEXFTW-0,Harper,G.,Harper,,a00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150602-TEXDAL-TEXFTW-1,Harper,G.,Harper,,a00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150602-TEXDAL-TEXFTW-2,Harper,G.,Harper,,a00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150603-TEXDAL-TEXFTW-0,Harper,G.,Harper,,a00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150604-TEXFTW-TEXSHR-0,Harper,G.,Harper,,a00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150605-TEXFTW-TEXSHR-0,Harper,G.,Harper,,a00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150606-TEXFTW-TEXSHR-0,Harper,G.,Harper,,a00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150607-TEXFTW-TEXHOU-0,Harper,G.,Harper,,b00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150608-TEXFTW-TEXHOU-0,Harper,G.,Harper,,b00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150609-TEXFTW-TEXHOU-0,Harper,G.,Harper,,b00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150611-TEXFTW-TEXGAL-0,Harper,G.,Harper,,a00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150612-TEXFTW-TEXGAL-0,Harper,G.,Harper,,a00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150613-TEXFTW-TEXGAL-0,Harper,G.,Harper,,a00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150617-TEXBEA-TEXFTW-1,Harper,G.,Harper,,b00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150617-TEXBEA-TEXFTW-2,Harper,G.,Harper,,b00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150618-TEXFTW-TEXSAN-0,Harper,G.,Harper,,b00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150619-TEXFTW-TEXSAN-0,Harper,G.,Harper,,b00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150620-TEXFTW-TEXSAN-1,Harper,G.,Harper,,b00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150620-TEXFTW-TEXSAN-2,Harper,G.,Harper,,b00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150621-TEXFTW-TEXGAL-0,Harper,G.,Harper,,a00,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150622-TEXFTW-TEXGAL-0,Harper,G.,Harper,,a03,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150623-TEXFTW-TEXGAL-0,Harper,G.,Harper,,a03,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150624-TEXFTW-TEXGAL-0,Harper,G.,Harper,,a03,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150625-TEXFTW-TEXHOU-0,Harper,G.,Harper,,a03,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150626-TEXFTW-TEXHOU-0,Harper,G.,Harper,,a03,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150627-TEXFTW-TEXHOU-0,Harper,G.,Harper,,a03,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150628-TEXBEA-TEXFTW-0,Harper,G.,Harper,,a03,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150629-TEXBEA-TEXFTW-0,Harper,G.,Harper,,a03,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150630-TEXBEA-TEXFTW-0,Harper,G.,Harper,,a03,cf
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150701-TEXBEA-TEXFTW-0,Harper,G.,Harper,,a03,cf
 Texas League,TEXFTW,Fort Worth,1915-DMN,19150702-TEXFTW-TEXSAN-0,,,Harper,G.,a03,cf
 Texas League,TEXFTW,Fort Worth,1915-DMN,19150412-TEXFTW-TEXSHR-0,,,Harrah,,a11,p
 Texas League,TEXFTW,Fort Worth,1915-DMN,19150415-TEXDAL-TEXFTW-0,,,Harrah,,b08,p
@@ -2438,10 +2438,10 @@ Texas League,TEXFTW,Fort Worth,1915-DMN,19150629-TEXBEA-TEXFTW-0,,,Stow,,a00,ss
 Texas League,TEXFTW,Fort Worth,1915-DMN,19150630-TEXBEA-TEXFTW-0,,,Stow,,a00,ss
 Texas League,TEXFTW,Fort Worth,1915-DMN,19150701-TEXBEA-TEXFTW-0,,,Stow,,a00,ss
 Texas League,TEXFTW,Fort Worth,1915-DMN,19150702-TEXFTW-TEXSAN-0,,,Stow,,a00,ss
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150601-TEXDAL-TEXFTW-0,,,Stowe,,a07,ss
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150602-TEXDAL-TEXFTW-1,,,Stowe,,a07,ss
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150602-TEXDAL-TEXFTW-2,,,Stowe,,a07,ss
-Texas League,TEXFTW,Fort Worth,1915-DMN,19150603-TEXDAL-TEXFTW-0,,,Stowe,,a07,ss
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150601-TEXDAL-TEXFTW-0,Stow,,Stowe,,a07,ss
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150602-TEXDAL-TEXFTW-1,Stow,,Stowe,,a07,ss
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150602-TEXDAL-TEXFTW-2,Stow,,Stowe,,a07,ss
+Texas League,TEXFTW,Fort Worth,1915-DMN,19150603-TEXDAL-TEXFTW-0,Stow,,Stowe,,a07,ss
 Texas League,TEXFTW,Fort Worth,1915-DMN,19150519-TEXFTW-TEXHOU-0,,,Taff,,a09,p
 Texas League,TEXFTW,Fort Worth,1915-DMN,19150521-TEXFTW-TEXGAL-0,,,Taff,,a08,p
 Texas League,TEXFTW,Fort Worth,1915-DMN,19150524-TEXDAL-TEXFTW-0,,,Taff,,b09,p
@@ -2474,32 +2474,32 @@ Texas League,TEXFTW,Fort Worth,1915-DMN,19150623-TEXFTW-TEXGAL-0,,,Wagner,,a08,p
 Texas League,TEXFTW,Fort Worth,1915-DMN,19150627-TEXFTW-TEXHOU-0,,,Wagner,,a10,p
 Texas League,TEXFTW,Fort Worth,1915-DMN,19150628-TEXBEA-TEXFTW-0,,,Wagner,,a08,p
 Texas League,TEXFTW,Fort Worth,1915-DMN,19150702-TEXFTW-TEXSAN-0,,,Wagner,,a09,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150412-TEXBEA-TEXGAL-0,,,Allen,,a08,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150417-TEXBEA-TEXGAL-0,,,Allen,,b10,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150419-TEXBEA-TEXGAL-0,,,Allen,,b08,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150427-TEXFTW-TEXGAL-0,,,Allen,,a08,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150501-TEXDAL-TEXGAL-0,,,Allen,,a08,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150504-TEXGAL-TEXWAC-0,,,Allen,,a08,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150511-TEXGAL-TEXWAC-0,,,Allen,,b08,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150514-TEXDAL-TEXGAL-0,,,Allen,,b09,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150518-TEXGAL-TEXSHR-0,,,Allen,,b08,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150522-TEXFTW-TEXGAL-0,,,Allen,,b08,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150527-TEXBEA-TEXGAL-0,,,Allen,,b08,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150529-TEXGAL-TEXHOU-2,,,Allen,,a09,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150601-TEXBEA-TEXGAL-0,,,Allen,,a08,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150607-TEXDAL-TEXGAL-0,,,Allen,,a08,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150612-TEXFTW-TEXGAL-0,,,Allen,,b08,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150616-TEXGAL-TEXSHR-0,,,Allen,,a08,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150620-TEXGAL-TEXWAC-0,,,Allen,,a08,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150623-TEXFTW-TEXGAL-0,,,Allen,,b10,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150625-TEXDAL-TEXGAL-0,,,Allen,,b09,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150626-TEXDAL-TEXGAL-0,,,Allen,,b10,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150629-TEXGAL-TEXWAC-0,,,Allen,,b08,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150701-TEXGAL-TEXWAC-0,,,Allen,,b08,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150420-TEXGAL-TEXSAN-0,,,Allen,R.,b10,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150425-TEXGAL-TEXHOU-2,,,Allen,R.,a10,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150509-TEXGAL-TEXHOU-0,,,Allen,R.,b10,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150416-TEXGAL-TEXHOU-0,,,Allen [GAL],,b09,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150412-TEXBEA-TEXGAL-0,Allen,R.,Allen,,a08,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150417-TEXBEA-TEXGAL-0,Allen,R.,Allen,,b10,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150419-TEXBEA-TEXGAL-0,Allen,R.,Allen,,b08,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150427-TEXFTW-TEXGAL-0,Allen,R.,Allen,,a08,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150501-TEXDAL-TEXGAL-0,Allen,R.,Allen,,a08,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150504-TEXGAL-TEXWAC-0,Allen,R.,Allen,,a08,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150511-TEXGAL-TEXWAC-0,Allen,R.,Allen,,b08,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150514-TEXDAL-TEXGAL-0,Allen,R.,Allen,,b09,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150518-TEXGAL-TEXSHR-0,Allen,R.,Allen,,b08,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150522-TEXFTW-TEXGAL-0,Allen,R.,Allen,,b08,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150527-TEXBEA-TEXGAL-0,Allen,R.,Allen,,b08,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150529-TEXGAL-TEXHOU-2,Allen,R.,Allen,,a09,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150601-TEXBEA-TEXGAL-0,Allen,R.,Allen,,a08,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150607-TEXDAL-TEXGAL-0,Allen,R.,Allen,,a08,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150612-TEXFTW-TEXGAL-0,Allen,R.,Allen,,b08,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150616-TEXGAL-TEXSHR-0,Allen,R.,Allen,,a08,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150620-TEXGAL-TEXWAC-0,Allen,R.,Allen,,a08,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150623-TEXFTW-TEXGAL-0,Allen,R.,Allen,,b10,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150625-TEXDAL-TEXGAL-0,Allen,R.,Allen,,b09,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150626-TEXDAL-TEXGAL-0,Allen,R.,Allen,,b10,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150629-TEXGAL-TEXWAC-0,Allen,R.,Allen,,b08,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150701-TEXGAL-TEXWAC-0,Allen,R.,Allen,,b08,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150420-TEXGAL-TEXSAN-0,Allen,R.,Allen,R.,b10,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150425-TEXGAL-TEXHOU-2,Allen,R.,Allen,R.,a10,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150509-TEXGAL-TEXHOU-0,Allen,R.,Allen,R.,b10,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150416-TEXGAL-TEXHOU-0,Allen,R.,Allen [GAL],,b09,p
 Texas League,TEXGAL,Galveston,1915-DMN,19150417-TEXBEA-TEXGAL-0,,,Baerwald,,b03,lf
 Texas League,TEXGAL,Galveston,1915-DMN,19150418-TEXBEA-TEXGAL-0,,,Baerwald,,b03,lf
 Texas League,TEXGAL,Galveston,1915-DMN,19150419-TEXBEA-TEXGAL-0,,,Baerwald,,b03,lf
@@ -2704,9 +2704,9 @@ Texas League,TEXGAL,Galveston,1915-DMN,19150619-TEXGAL-TEXWAC-0,,,Harben,,a09,p
 Texas League,TEXGAL,Galveston,1915-DMN,19150624-TEXFTW-TEXGAL-0,,,Harben,,b08,p
 Texas League,TEXGAL,Galveston,1915-DMN,19150628-TEXGAL-TEXWAC-0,,,Harben,,b08,p
 Texas League,TEXGAL,Galveston,1915-DMN,19150702-TEXGAL-TEXSHR-0,,,Harben,,b11,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150615-TEXGAL-TEXSHR-2,,,Harber,,a08,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150616-TEXGAL-TEXSHR-0,,,Harber,,a09,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150409-TEXGAL-TEXSAN-0,,,Harbin,,a08,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150615-TEXGAL-TEXSHR-2,Harben,,Harber,,a08,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150616-TEXGAL-TEXSHR-0,Harben,,Harber,,a09,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150409-TEXGAL-TEXSAN-0,Harben,,Harbin,,a08,p
 Texas League,TEXGAL,Galveston,1915-DMN,19150615-TEXGAL-TEXSHR-1,,,Hille,,a06,3b
 Texas League,TEXGAL,Galveston,1915-DMN,19150615-TEXGAL-TEXSHR-2,,,Hille,,a06,3b
 Texas League,TEXGAL,Galveston,1915-DMN,19150616-TEXGAL-TEXSHR-0,,,Hille,,a06,3b
@@ -2965,7 +2965,7 @@ Texas League,TEXGAL,Galveston,1915-DMN,19150617-TEXGAL-TEXSHR-0,,,Moore,,a09,p
 Texas League,TEXGAL,Galveston,1915-DMN,19150618-TEXGAL-TEXWAC-0,,,Moore,,a10,ph
 Texas League,TEXGAL,Galveston,1915-DMN,19150622-TEXFTW-TEXGAL-0,,,Moore,,b08,p
 Texas League,TEXGAL,Galveston,1915-DMN,19150630-TEXGAL-TEXWAC-0,,,Moore,,b08,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150416-TEXGAL-TEXHOU-0,,,Sentall,,b12,ph
+Texas League,TEXGAL,Galveston,1915-DMN,19150416-TEXGAL-TEXHOU-0,Sentell,,Sentall,,b12,ph
 Texas League,TEXGAL,Galveston,1915-DMN,19150408-TEXGAL-TEXSAN-0,,,Sentell,,a09,rf
 Texas League,TEXGAL,Galveston,1915-DMN,19150413-TEXBEA-TEXGAL-0,,,Sentell,,a09,ss
 Texas League,TEXGAL,Galveston,1915-DMN,19150419-TEXBEA-TEXGAL-0,,,Sentell,,b09,ph
@@ -3010,95 +3010,95 @@ Texas League,TEXGAL,Galveston,1915-DMN,19150625-TEXDAL-TEXGAL-0,,,Sentell,,b02,2
 Texas League,TEXGAL,Galveston,1915-DMN,19150626-TEXDAL-TEXGAL-0,,,Sentell,,b02,2b
 Texas League,TEXGAL,Galveston,1915-DMN,19150628-TEXGAL-TEXWAC-0,,,Sentell,,b10,ph
 Texas League,TEXGAL,Galveston,1915-DMN,19150702-TEXGAL-TEXSHR-0,,,Sentell,,b09,ph
-Texas League,TEXGAL,Galveston,1915-DMN,19150408-TEXGAL-TEXSAN-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150409-TEXGAL-TEXSAN-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150411-TEXBEA-TEXGAL-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150412-TEXBEA-TEXGAL-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150413-TEXBEA-TEXGAL-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150414-TEXGAL-TEXHOU-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150415-TEXGAL-TEXHOU-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150416-TEXGAL-TEXHOU-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150417-TEXBEA-TEXGAL-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150418-TEXBEA-TEXGAL-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150419-TEXBEA-TEXGAL-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150420-TEXGAL-TEXSAN-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150421-TEXGAL-TEXSAN-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150425-TEXGAL-TEXHOU-1,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150425-TEXGAL-TEXHOU-2,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150426-TEXFTW-TEXGAL-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150427-TEXFTW-TEXGAL-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150428-TEXFTW-TEXGAL-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150429-TEXDAL-TEXGAL-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150430-TEXDAL-TEXGAL-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150501-TEXDAL-TEXGAL-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150502-TEXGAL-TEXWAC-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150503-TEXGAL-TEXWAC-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150504-TEXGAL-TEXWAC-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150505-TEXGAL-TEXSHR-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150506-TEXGAL-TEXSHR-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150507-TEXGAL-TEXSHR-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150508-TEXGAL-TEXHOU-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150509-TEXGAL-TEXHOU-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150510-TEXGAL-TEXHOU-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150511-TEXGAL-TEXWAC-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150512-TEXGAL-TEXWAC-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150513-TEXGAL-TEXWAC-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150514-TEXDAL-TEXGAL-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150515-TEXDAL-TEXGAL-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150516-TEXDAL-TEXGAL-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150517-TEXGAL-TEXSHR-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150518-TEXGAL-TEXSHR-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150519-TEXGAL-TEXSHR-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150520-TEXFTW-TEXGAL-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150521-TEXFTW-TEXGAL-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150522-TEXFTW-TEXGAL-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150523-TEXGAL-TEXSAN-1,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150523-TEXGAL-TEXSAN-2,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150524-TEXGAL-TEXSAN-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150525-TEXGAL-TEXSAN-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150526-TEXBEA-TEXGAL-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150527-TEXBEA-TEXGAL-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150528-TEXBEA-TEXGAL-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150529-TEXGAL-TEXHOU-1,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150529-TEXGAL-TEXHOU-2,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150530-TEXGAL-TEXHOU-1,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150530-TEXGAL-TEXHOU-2,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150531-TEXGAL-TEXHOU-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150601-TEXBEA-TEXGAL-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150602-TEXBEA-TEXGAL-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150603-TEXBEA-TEXGAL-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150604-TEXGAL-TEXSAN-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150605-TEXGAL-TEXSAN-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150606-TEXGAL-TEXSAN-1,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150606-TEXGAL-TEXSAN-2,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150607-TEXDAL-TEXGAL-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150608-TEXDAL-TEXGAL-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150609-TEXDAL-TEXGAL-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150610-TEXDAL-TEXGAL-0,,,Smith,,a01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150611-TEXFTW-TEXGAL-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150612-TEXFTW-TEXGAL-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150613-TEXFTW-TEXGAL-0,,,Smith,,b01,3b
-Texas League,TEXGAL,Galveston,1915-DMN,19150618-TEXGAL-TEXWAC-0,,,Smith,,a01,ss
-Texas League,TEXGAL,Galveston,1915-DMN,19150619-TEXGAL-TEXWAC-0,,,Smith,,a01,ss
-Texas League,TEXGAL,Galveston,1915-DMN,19150620-TEXGAL-TEXWAC-0,,,Smith,,a01,ss
-Texas League,TEXGAL,Galveston,1915-DMN,19150621-TEXFTW-TEXGAL-0,,,Smith,,b01,ss
-Texas League,TEXGAL,Galveston,1915-DMN,19150622-TEXFTW-TEXGAL-0,,,Smith,,b01,ss
-Texas League,TEXGAL,Galveston,1915-DMN,19150623-TEXFTW-TEXGAL-0,,,Smith,,b01,ss
-Texas League,TEXGAL,Galveston,1915-DMN,19150624-TEXFTW-TEXGAL-0,,,Smith,,b01,ss
-Texas League,TEXGAL,Galveston,1915-DMN,19150625-TEXDAL-TEXGAL-0,,,Smith,,b00,ss
-Texas League,TEXGAL,Galveston,1915-DMN,19150626-TEXDAL-TEXGAL-0,,,Smith,,b00,ss
-Texas League,TEXGAL,Galveston,1915-DMN,19150627-TEXDAL-TEXGAL-0,,,Smith,,b00,ss
-Texas League,TEXGAL,Galveston,1915-DMN,19150628-TEXGAL-TEXWAC-0,,,Smith,,b00,ss
-Texas League,TEXGAL,Galveston,1915-DMN,19150629-TEXGAL-TEXWAC-0,,,Smith,,b00,ss
-Texas League,TEXGAL,Galveston,1915-DMN,19150630-TEXGAL-TEXWAC-0,,,Smith,,b00,ss
-Texas League,TEXGAL,Galveston,1915-DMN,19150701-TEXGAL-TEXWAC-0,,,Smith,,b00,ss
+Texas League,TEXGAL,Galveston,1915-DMN,19150408-TEXGAL-TEXSAN-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150409-TEXGAL-TEXSAN-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150411-TEXBEA-TEXGAL-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150412-TEXBEA-TEXGAL-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150413-TEXBEA-TEXGAL-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150414-TEXGAL-TEXHOU-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150415-TEXGAL-TEXHOU-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150416-TEXGAL-TEXHOU-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150417-TEXBEA-TEXGAL-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150418-TEXBEA-TEXGAL-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150419-TEXBEA-TEXGAL-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150420-TEXGAL-TEXSAN-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150421-TEXGAL-TEXSAN-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150425-TEXGAL-TEXHOU-1,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150425-TEXGAL-TEXHOU-2,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150426-TEXFTW-TEXGAL-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150427-TEXFTW-TEXGAL-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150428-TEXFTW-TEXGAL-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150429-TEXDAL-TEXGAL-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150430-TEXDAL-TEXGAL-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150501-TEXDAL-TEXGAL-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150502-TEXGAL-TEXWAC-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150503-TEXGAL-TEXWAC-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150504-TEXGAL-TEXWAC-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150505-TEXGAL-TEXSHR-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150506-TEXGAL-TEXSHR-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150507-TEXGAL-TEXSHR-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150508-TEXGAL-TEXHOU-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150509-TEXGAL-TEXHOU-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150510-TEXGAL-TEXHOU-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150511-TEXGAL-TEXWAC-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150512-TEXGAL-TEXWAC-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150513-TEXGAL-TEXWAC-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150514-TEXDAL-TEXGAL-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150515-TEXDAL-TEXGAL-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150516-TEXDAL-TEXGAL-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150517-TEXGAL-TEXSHR-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150518-TEXGAL-TEXSHR-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150519-TEXGAL-TEXSHR-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150520-TEXFTW-TEXGAL-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150521-TEXFTW-TEXGAL-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150522-TEXFTW-TEXGAL-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150523-TEXGAL-TEXSAN-1,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150523-TEXGAL-TEXSAN-2,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150524-TEXGAL-TEXSAN-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150525-TEXGAL-TEXSAN-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150526-TEXBEA-TEXGAL-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150527-TEXBEA-TEXGAL-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150528-TEXBEA-TEXGAL-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150529-TEXGAL-TEXHOU-1,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150529-TEXGAL-TEXHOU-2,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150530-TEXGAL-TEXHOU-1,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150530-TEXGAL-TEXHOU-2,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150531-TEXGAL-TEXHOU-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150601-TEXBEA-TEXGAL-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150602-TEXBEA-TEXGAL-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150603-TEXBEA-TEXGAL-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150604-TEXGAL-TEXSAN-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150605-TEXGAL-TEXSAN-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150606-TEXGAL-TEXSAN-1,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150606-TEXGAL-TEXSAN-2,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150607-TEXDAL-TEXGAL-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150608-TEXDAL-TEXGAL-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150609-TEXDAL-TEXGAL-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150610-TEXDAL-TEXGAL-0,Smith,T.,Smith,,a01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150611-TEXFTW-TEXGAL-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150612-TEXFTW-TEXGAL-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150613-TEXFTW-TEXGAL-0,Smith,T.,Smith,,b01,3b
+Texas League,TEXGAL,Galveston,1915-DMN,19150618-TEXGAL-TEXWAC-0,Smith,T.,Smith,,a01,ss
+Texas League,TEXGAL,Galveston,1915-DMN,19150619-TEXGAL-TEXWAC-0,Smith,T.,Smith,,a01,ss
+Texas League,TEXGAL,Galveston,1915-DMN,19150620-TEXGAL-TEXWAC-0,Smith,T.,Smith,,a01,ss
+Texas League,TEXGAL,Galveston,1915-DMN,19150621-TEXFTW-TEXGAL-0,Smith,T.,Smith,,b01,ss
+Texas League,TEXGAL,Galveston,1915-DMN,19150622-TEXFTW-TEXGAL-0,Smith,T.,Smith,,b01,ss
+Texas League,TEXGAL,Galveston,1915-DMN,19150623-TEXFTW-TEXGAL-0,Smith,T.,Smith,,b01,ss
+Texas League,TEXGAL,Galveston,1915-DMN,19150624-TEXFTW-TEXGAL-0,Smith,T.,Smith,,b01,ss
+Texas League,TEXGAL,Galveston,1915-DMN,19150625-TEXDAL-TEXGAL-0,Smith,T.,Smith,,b00,ss
+Texas League,TEXGAL,Galveston,1915-DMN,19150626-TEXDAL-TEXGAL-0,Smith,T.,Smith,,b00,ss
+Texas League,TEXGAL,Galveston,1915-DMN,19150627-TEXDAL-TEXGAL-0,Smith,T.,Smith,,b00,ss
+Texas League,TEXGAL,Galveston,1915-DMN,19150628-TEXGAL-TEXWAC-0,Smith,T.,Smith,,b00,ss
+Texas League,TEXGAL,Galveston,1915-DMN,19150629-TEXGAL-TEXWAC-0,Smith,T.,Smith,,b00,ss
+Texas League,TEXGAL,Galveston,1915-DMN,19150630-TEXGAL-TEXWAC-0,Smith,T.,Smith,,b00,ss
+Texas League,TEXGAL,Galveston,1915-DMN,19150701-TEXGAL-TEXWAC-0,Smith,T.,Smith,,b00,ss
 Texas League,TEXGAL,Galveston,1915-DMN,19150615-TEXGAL-TEXSHR-1,,,Smith,T.,a01,ss
 Texas League,TEXGAL,Galveston,1915-DMN,19150615-TEXGAL-TEXSHR-2,,,Smith,T.,a01,ss
 Texas League,TEXGAL,Galveston,1915-DMN,19150616-TEXGAL-TEXSHR-0,,,Smith,T.,a01,ss
 Texas League,TEXGAL,Galveston,1915-DMN,19150617-TEXGAL-TEXSHR-0,,,Smith,T.,a01,ss
 Texas League,TEXGAL,Galveston,1915-DMN,19150702-TEXGAL-TEXSHR-0,,,Smith,T.,b00,ss
-Texas League,TEXGAL,Galveston,1915-DMN,19150501-TEXDAL-TEXGAL-0,,,Sommers,,a06,ss
-Texas League,TEXGAL,Galveston,1915-DMN,19150411-TEXBEA-TEXGAL-0,,,Stewart,,a06,ss
+Texas League,TEXGAL,Galveston,1915-DMN,19150501-TEXDAL-TEXGAL-0,Summers,,Sommers,,a06,ss
+Texas League,TEXGAL,Galveston,1915-DMN,19150411-TEXBEA-TEXGAL-0,Stuart,,Stewart,,a06,ss
 Texas League,TEXGAL,Galveston,1915-DMN,19150408-TEXGAL-TEXSAN-0,,,Stuart,,a06,ss
 Texas League,TEXGAL,Galveston,1915-DMN,19150409-TEXGAL-TEXSAN-0,,,Stuart,,a06,ss
 Texas League,TEXGAL,Galveston,1915-DMN,19150412-TEXBEA-TEXGAL-0,,,Stuart,,a10,ph
@@ -3241,9 +3241,9 @@ Texas League,TEXGAL,Galveston,1915-DMN,19150629-TEXGAL-TEXWAC-0,,,Tarleton,,b05,
 Texas League,TEXGAL,Galveston,1915-DMN,19150630-TEXGAL-TEXWAC-0,,,Tarleton,,b05,1b
 Texas League,TEXGAL,Galveston,1915-DMN,19150701-TEXGAL-TEXWAC-0,,,Tarleton,,b05,1b
 Texas League,TEXGAL,Galveston,1915-DMN,19150702-TEXGAL-TEXSHR-0,,,Tarleton,,b05,1b
-Texas League,TEXGAL,Galveston,1915-DMN,19150429-TEXDAL-TEXGAL-0,,,Tarlton,,a02,1b
-Texas League,TEXGAL,Galveston,1915-DMN,19150430-TEXDAL-TEXGAL-0,,,Tarlton,,a02,1b
-Texas League,TEXGAL,Galveston,1915-DMN,19150501-TEXDAL-TEXGAL-0,,,Tarlton,,a02,1b
+Texas League,TEXGAL,Galveston,1915-DMN,19150429-TEXDAL-TEXGAL-0,Tarleton,,Tarlton,,a02,1b
+Texas League,TEXGAL,Galveston,1915-DMN,19150430-TEXDAL-TEXGAL-0,Tarleton,,Tarlton,,a02,1b
+Texas League,TEXGAL,Galveston,1915-DMN,19150501-TEXDAL-TEXGAL-0,Tarleton,,Tarlton,,a02,1b
 Texas League,TEXGAL,Galveston,1915-DMN,19150413-TEXBEA-TEXGAL-0,,,Veasey,,a08,p
 Texas League,TEXGAL,Galveston,1915-DMN,19150416-TEXGAL-TEXHOU-0,,,Veasey,,b08,p
 Texas League,TEXGAL,Galveston,1915-DMN,19150417-TEXBEA-TEXGAL-0,,,Veasey,,b11,p
@@ -3255,7 +3255,7 @@ Texas League,TEXGAL,Galveston,1915-DMN,19150512-TEXGAL-TEXWAC-0,,,Veasey,,b08,p
 Texas League,TEXGAL,Galveston,1915-DMN,19150517-TEXGAL-TEXSHR-0,,,Veasey,,b09,p
 Texas League,TEXGAL,Galveston,1915-DMN,19150524-TEXGAL-TEXSAN-0,,,Veasey,,a08,p
 Texas League,TEXGAL,Galveston,1915-DMN,19150531-TEXGAL-TEXHOU-0,,,Veasey,,a08,p
-Texas League,TEXGAL,Galveston,1915-DMN,19150505-TEXGAL-TEXSHR-0,,,Veazey,,a08,p
+Texas League,TEXGAL,Galveston,1915-DMN,19150505-TEXGAL-TEXSHR-0,Veasey,,Veazey,,a08,p
 Texas League,TEXGAL,Galveston,1915-DMN,19150408-TEXGAL-TEXSAN-0,,,Watson,,a03,2b
 Texas League,TEXGAL,Galveston,1915-DMN,19150409-TEXGAL-TEXSAN-0,,,Watson,,a03,2b
 Texas League,TEXGAL,Galveston,1915-DMN,19150411-TEXBEA-TEXGAL-0,,,Watson,,a03,2b
@@ -3334,78 +3334,78 @@ Texas League,TEXGAL,Galveston,1915-DMN,19150629-TEXGAL-TEXWAC-0,,,Watson,,b02,2b
 Texas League,TEXGAL,Galveston,1915-DMN,19150630-TEXGAL-TEXWAC-0,,,Watson,,b02,2b
 Texas League,TEXGAL,Galveston,1915-DMN,19150701-TEXGAL-TEXWAC-0,,,Watson,,b02,2b
 Texas League,TEXGAL,Galveston,1915-DMN,19150702-TEXGAL-TEXSHR-0,,,Watson,,b02,2b
-Texas League,TEXHOU,Houston,1915-DMN,19150408-TEXBEA-TEXHOU-0,,,Allen,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150409-TEXBEA-TEXHOU-0,,,Allen,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150410-TEXBEA-TEXHOU-0,,,Allen,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150422-TEXBEA-TEXHOU-0,,,Allen,,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150426-TEXHOU-TEXWAC-0,,,Allen,,a08,c
-Texas League,TEXHOU,Houston,1915-DMN,19150427-TEXHOU-TEXWAC-0,,,Allen,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150428-TEXHOU-TEXWAC-0,,,Allen,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150429-TEXHOU-TEXSHR-0,,,Allen,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150430-TEXHOU-TEXSHR-0,,,Allen,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150501-TEXHOU-TEXSHR-0,,,Allen,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150502-TEXFTW-TEXHOU-0,,,Allen,,a08,c
-Texas League,TEXHOU,Houston,1915-DMN,19150503-TEXFTW-TEXHOU-0,,,Allen,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150504-TEXFTW-TEXHOU-0,,,Allen,,a08,c
-Texas League,TEXHOU,Houston,1915-DMN,19150507-TEXDAL-TEXHOU-1,,,Allen,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150507-TEXDAL-TEXHOU-2,,,Allen,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150510-TEXGAL-TEXHOU-0,,,Allen,,a08,c
-Texas League,TEXHOU,Houston,1915-DMN,19150511-TEXDAL-TEXHOU-0,,,Allen,,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150512-TEXDAL-TEXHOU-0,,,Allen,,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150513-TEXDAL-TEXHOU-0,,,Allen,,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150514-TEXHOU-TEXWAC-0,,,Allen,,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150515-TEXHOU-TEXWAC-0,,,Allen,,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150516-TEXHOU-TEXWAC-0,,,Allen,,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150517-TEXFTW-TEXHOU-0,,,Allen,,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150518-TEXFTW-TEXHOU-0,,,Allen,,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150519-TEXFTW-TEXHOU-0,,,Allen,,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150520-TEXHOU-TEXSHR-0,,,Allen,,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150523-TEXBEA-TEXHOU-0,,,Allen,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150524-TEXBEA-TEXHOU-0,,,Allen,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150527-TEXHOU-TEXSAN-0,,,Allen,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150529-TEXGAL-TEXHOU-1,,,Allen,,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150530-TEXGAL-TEXHOU-1,,,Allen,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150530-TEXGAL-TEXHOU-2,,,Allen,,a08,c
-Texas League,TEXHOU,Houston,1915-DMN,19150601-TEXHOU-TEXSAN-0,,,Allen,,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150603-TEXHOU-TEXSAN-0,,,Allen,,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150605-TEXBEA-TEXHOU-0,,,Allen,,b13,c
-Texas League,TEXHOU,Houston,1915-DMN,19150606-TEXBEA-TEXHOU-0,,,Allen,,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150608-TEXFTW-TEXHOU-0,,,Allen,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150609-TEXFTW-TEXHOU-0,,,Allen,,a10,ph
-Texas League,TEXHOU,Houston,1915-DMN,19150611-TEXDAL-TEXHOU-0,,,Allen,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150613-TEXDAL-TEXHOU-0,,,Allen,,a12,ph
-Texas League,TEXHOU,Houston,1915-DMN,19150614-TEXHOU-TEXWAC-0,,,Allen,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150618-TEXHOU-TEXSHR-0,,,Allen,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150624-TEXDAL-TEXHOU-0,,,Allen,,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150625-TEXFTW-TEXHOU-0,,,Allen,,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150627-TEXFTW-TEXHOU-0,,,Allen,,b10,ph
-Texas League,TEXHOU,Houston,1915-DMN,19150629-TEXHOU-TEXSHR-0,,,Allen,,b12,ph
-Texas League,TEXHOU,Houston,1915-DMN,19150701-TEXHOU-TEXSHR-0,,,Allen,,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150417-TEXHOU-TEXSAN-0,,,Allen,F.,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150425-TEXGAL-TEXHOU-1,,,Allen,F.,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150425-TEXGAL-TEXHOU-2,,,Allen,F.,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150508-TEXGAL-TEXHOU-0,,,Allen,F.,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150412-TEXHOU-TEXSAN-0,,,Allen,S.,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150413-TEXHOU-TEXSAN-0,,,Allen,S.,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150414-TEXGAL-TEXHOU-0,,,Allen,S.,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150415-TEXGAL-TEXHOU-0,,,Allen,S.,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150416-TEXGAL-TEXHOU-0,,,Allen,S.,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150509-TEXGAL-TEXHOU-0,,,Allen,S.,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150411-TEXHOU-TEXSAN-0,,,Allen [HOU],,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150524-TEXBEA-TEXHOU-0,,,Clark,,a12,ph
-Texas League,TEXHOU,Houston,1915-DMN,19150525-TEXBEA-TEXHOU-0,,,Clark,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150526-TEXHOU-TEXSAN-0,,,Clark,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150528-TEXHOU-TEXSAN-0,,,Clark,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150531-TEXGAL-TEXHOU-0,,,Clark,,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150605-TEXBEA-TEXHOU-0,,,Clark,,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150612-TEXDAL-TEXHOU-0,,,Clark,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150613-TEXDAL-TEXHOU-0,,,Clark,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150614-TEXHOU-TEXWAC-0,,,Clark,,a10,ph
-Texas League,TEXHOU,Houston,1915-DMN,19150615-TEXHOU-TEXWAC-0,,,Clark,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150616-TEXHOU-TEXWAC-0,,,Clark,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150617-TEXHOU-TEXWAC-0,,,Clark,,a07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150619-TEXHOU-TEXSHR-0,,,Clark,,a08,c
-Texas League,TEXHOU,Houston,1915-DMN,19150620-TEXHOU-TEXSHR-0,,,Clark,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150408-TEXBEA-TEXHOU-0,Allen,S.,Allen,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150409-TEXBEA-TEXHOU-0,Allen,S.,Allen,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150410-TEXBEA-TEXHOU-0,Allen,S.,Allen,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150422-TEXBEA-TEXHOU-0,Allen,S.,Allen,,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150426-TEXHOU-TEXWAC-0,Allen,S.,Allen,,a08,c
+Texas League,TEXHOU,Houston,1915-DMN,19150427-TEXHOU-TEXWAC-0,Allen,S.,Allen,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150428-TEXHOU-TEXWAC-0,Allen,S.,Allen,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150429-TEXHOU-TEXSHR-0,Allen,S.,Allen,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150430-TEXHOU-TEXSHR-0,Allen,S.,Allen,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150501-TEXHOU-TEXSHR-0,Allen,S.,Allen,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150502-TEXFTW-TEXHOU-0,Allen,S.,Allen,,a08,c
+Texas League,TEXHOU,Houston,1915-DMN,19150503-TEXFTW-TEXHOU-0,Allen,S.,Allen,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150504-TEXFTW-TEXHOU-0,Allen,S.,Allen,,a08,c
+Texas League,TEXHOU,Houston,1915-DMN,19150507-TEXDAL-TEXHOU-1,Allen,S.,Allen,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150507-TEXDAL-TEXHOU-2,Allen,S.,Allen,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150510-TEXGAL-TEXHOU-0,Allen,S.,Allen,,a08,c
+Texas League,TEXHOU,Houston,1915-DMN,19150511-TEXDAL-TEXHOU-0,Allen,S.,Allen,,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150512-TEXDAL-TEXHOU-0,Allen,S.,Allen,,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150513-TEXDAL-TEXHOU-0,Allen,S.,Allen,,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150514-TEXHOU-TEXWAC-0,Allen,S.,Allen,,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150515-TEXHOU-TEXWAC-0,Allen,S.,Allen,,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150516-TEXHOU-TEXWAC-0,Allen,S.,Allen,,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150517-TEXFTW-TEXHOU-0,Allen,S.,Allen,,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150518-TEXFTW-TEXHOU-0,Allen,S.,Allen,,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150519-TEXFTW-TEXHOU-0,Allen,S.,Allen,,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150520-TEXHOU-TEXSHR-0,Allen,S.,Allen,,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150523-TEXBEA-TEXHOU-0,Allen,S.,Allen,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150524-TEXBEA-TEXHOU-0,Allen,S.,Allen,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150527-TEXHOU-TEXSAN-0,Allen,S.,Allen,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150529-TEXGAL-TEXHOU-1,Allen,S.,Allen,,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150530-TEXGAL-TEXHOU-1,Allen,S.,Allen,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150530-TEXGAL-TEXHOU-2,Allen,S.,Allen,,a08,c
+Texas League,TEXHOU,Houston,1915-DMN,19150601-TEXHOU-TEXSAN-0,Allen,S.,Allen,,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150603-TEXHOU-TEXSAN-0,Allen,S.,Allen,,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150605-TEXBEA-TEXHOU-0,Allen,S.,Allen,,b13,c
+Texas League,TEXHOU,Houston,1915-DMN,19150606-TEXBEA-TEXHOU-0,Allen,S.,Allen,,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150608-TEXFTW-TEXHOU-0,Allen,S.,Allen,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150609-TEXFTW-TEXHOU-0,Allen,S.,Allen,,a10,ph
+Texas League,TEXHOU,Houston,1915-DMN,19150611-TEXDAL-TEXHOU-0,Allen,S.,Allen,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150613-TEXDAL-TEXHOU-0,Allen,S.,Allen,,a12,ph
+Texas League,TEXHOU,Houston,1915-DMN,19150614-TEXHOU-TEXWAC-0,Allen,S.,Allen,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150618-TEXHOU-TEXSHR-0,Allen,S.,Allen,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150624-TEXDAL-TEXHOU-0,Allen,S.,Allen,,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150625-TEXFTW-TEXHOU-0,Allen,S.,Allen,,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150627-TEXFTW-TEXHOU-0,Allen,S.,Allen,,b10,ph
+Texas League,TEXHOU,Houston,1915-DMN,19150629-TEXHOU-TEXSHR-0,Allen,S.,Allen,,b12,ph
+Texas League,TEXHOU,Houston,1915-DMN,19150701-TEXHOU-TEXSHR-0,Allen,S.,Allen,,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150417-TEXHOU-TEXSAN-0,Allen,S.,Allen,F.,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150425-TEXGAL-TEXHOU-1,Allen,S.,Allen,F.,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150425-TEXGAL-TEXHOU-2,Allen,S.,Allen,F.,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150508-TEXGAL-TEXHOU-0,Allen,S.,Allen,F.,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150412-TEXHOU-TEXSAN-0,Allen,S.,Allen,S.,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150413-TEXHOU-TEXSAN-0,Allen,S.,Allen,S.,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150414-TEXGAL-TEXHOU-0,Allen,S.,Allen,S.,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150415-TEXGAL-TEXHOU-0,Allen,S.,Allen,S.,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150416-TEXGAL-TEXHOU-0,Allen,S.,Allen,S.,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150509-TEXGAL-TEXHOU-0,Allen,S.,Allen,S.,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150411-TEXHOU-TEXSAN-0,Allen,S.,Allen [HOU],,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150524-TEXBEA-TEXHOU-0,Clarke,,Clark,,a12,ph
+Texas League,TEXHOU,Houston,1915-DMN,19150525-TEXBEA-TEXHOU-0,Clarke,,Clark,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150526-TEXHOU-TEXSAN-0,Clarke,,Clark,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150528-TEXHOU-TEXSAN-0,Clarke,,Clark,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150531-TEXGAL-TEXHOU-0,Clarke,,Clark,,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150605-TEXBEA-TEXHOU-0,Clarke,,Clark,,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150612-TEXDAL-TEXHOU-0,Clarke,,Clark,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150613-TEXDAL-TEXHOU-0,Clarke,,Clark,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150614-TEXHOU-TEXWAC-0,Clarke,,Clark,,a10,ph
+Texas League,TEXHOU,Houston,1915-DMN,19150615-TEXHOU-TEXWAC-0,Clarke,,Clark,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150616-TEXHOU-TEXWAC-0,Clarke,,Clark,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150617-TEXHOU-TEXWAC-0,Clarke,,Clark,,a07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150619-TEXHOU-TEXSHR-0,Clarke,,Clark,,a08,c
+Texas League,TEXHOU,Houston,1915-DMN,19150620-TEXHOU-TEXSHR-0,Clarke,,Clark,,a07,c
 Texas League,TEXHOU,Houston,1915-DMN,19150519-TEXFTW-TEXHOU-0,,,Clarke,,b11,c
 Texas League,TEXHOU,Houston,1915-DMN,19150521-TEXHOU-TEXSHR-0,,,Clarke,,b07,c
 Texas League,TEXHOU,Houston,1915-DMN,19150522-TEXHOU-TEXSHR-0,,,Clarke,,b07,c
@@ -3424,7 +3424,7 @@ Texas League,TEXHOU,Houston,1915-DMN,19150628-TEXHOU-TEXSHR-0,,,Clarke,,b07,c
 Texas League,TEXHOU,Houston,1915-DMN,19150629-TEXHOU-TEXSHR-0,,,Clarke,,b07,c
 Texas League,TEXHOU,Houston,1915-DMN,19150630-TEXHOU-TEXSHR-0,,,Clarke,,b07,c
 Texas League,TEXHOU,Houston,1915-DMN,19150702-TEXHOU-TEXWAC-0,,,Clarke,,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150604-TEXBEA-TEXHOU-0,,,Clarke [HOU],,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150604-TEXBEA-TEXHOU-0,Clarke,,Clarke [HOU],,b07,c
 Texas League,TEXHOU,Houston,1915-DMN,19150409-TEXBEA-TEXHOU-0,,,Criss,,a08,p
 Texas League,TEXHOU,Houston,1915-DMN,19150412-TEXHOU-TEXSAN-0,,,Criss,,a09,p
 Texas League,TEXHOU,Houston,1915-DMN,19150413-TEXHOU-TEXSAN-0,,,Criss,,a10,ph
@@ -3515,22 +3515,22 @@ Texas League,TEXHOU,Houston,1915-DMN,19150615-TEXHOU-TEXWAC-0,,,Davis,,a04,rf
 Texas League,TEXHOU,Houston,1915-DMN,19150616-TEXHOU-TEXWAC-0,,,Davis,,a00,rf
 Texas League,TEXHOU,Houston,1915-DMN,19150617-TEXHOU-TEXWAC-0,,,Davis,,a09,ph
 Texas League,TEXHOU,Houston,1915-DMN,19150619-TEXHOU-TEXSHR-0,,,Davis,,a10,ph
-Texas League,TEXHOU,Houston,1915-DMN,19150418-TEXHOU-TEXSAN-0,,,Dodd,,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150419-TEXHOU-TEXSAN-0,,,Dodd,,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150510-TEXGAL-TEXHOU-0,,,Dodd,,a03,rf
-Texas League,TEXHOU,Houston,1915-DMN,19150511-TEXDAL-TEXHOU-0,,,Dodd,,b02,rf
-Texas League,TEXHOU,Houston,1915-DMN,19150512-TEXDAL-TEXHOU-0,,,Dodd,,b02,rf
-Texas League,TEXHOU,Houston,1915-DMN,19150513-TEXDAL-TEXHOU-0,,,Dodd,,b02,rf
-Texas League,TEXHOU,Houston,1915-DMN,19150514-TEXHOU-TEXWAC-0,,,Dodd,,b02,rf
-Texas League,TEXHOU,Houston,1915-DMN,19150523-TEXBEA-TEXHOU-0,,,Dodd,,a09,ss
-Texas League,TEXHOU,Houston,1915-DMN,19150531-TEXGAL-TEXHOU-0,,,Dodd,,b10,1b
-Texas League,TEXHOU,Houston,1915-DMN,19150605-TEXBEA-TEXHOU-0,,,Dodd,,b11,rf
-Texas League,TEXHOU,Houston,1915-DMN,19150619-TEXHOU-TEXSHR-0,,,Dodd,,a05,1b
-Texas League,TEXHOU,Houston,1915-DMN,19150622-TEXDAL-TEXHOU-0,,,Dodd,,b11,p
-Texas League,TEXHOU,Houston,1915-DMN,19150629-TEXHOU-TEXSHR-0,,,Dodd,,b11,1b
-Texas League,TEXHOU,Houston,1915-DMN,19150421-TEXBEA-TEXHOU-0,,,Dodd,O.U.,b07,c
-Texas League,TEXHOU,Houston,1915-DMN,19150420-TEXBEA-TEXHOU-0,,,Dodd,Oran,b10,c
-Texas League,TEXHOU,Houston,1915-DMN,19150524-TEXBEA-TEXHOU-0,,,Dodd [HOU],,a11,rf
+Texas League,TEXHOU,Houston,1915-DMN,19150418-TEXHOU-TEXSAN-0,Dodd,Oran,Dodd,,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150419-TEXHOU-TEXSAN-0,Dodd,Oran,Dodd,,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150510-TEXGAL-TEXHOU-0,Dodd,Oran,Dodd,,a03,rf
+Texas League,TEXHOU,Houston,1915-DMN,19150511-TEXDAL-TEXHOU-0,Dodd,Oran,Dodd,,b02,rf
+Texas League,TEXHOU,Houston,1915-DMN,19150512-TEXDAL-TEXHOU-0,Dodd,Oran,Dodd,,b02,rf
+Texas League,TEXHOU,Houston,1915-DMN,19150513-TEXDAL-TEXHOU-0,Dodd,Oran,Dodd,,b02,rf
+Texas League,TEXHOU,Houston,1915-DMN,19150514-TEXHOU-TEXWAC-0,Dodd,Oran,Dodd,,b02,rf
+Texas League,TEXHOU,Houston,1915-DMN,19150523-TEXBEA-TEXHOU-0,Dodd,Oran,Dodd,,a09,ss
+Texas League,TEXHOU,Houston,1915-DMN,19150531-TEXGAL-TEXHOU-0,Dodd,Oran,Dodd,,b10,1b
+Texas League,TEXHOU,Houston,1915-DMN,19150605-TEXBEA-TEXHOU-0,Dodd,Oran,Dodd,,b11,rf
+Texas League,TEXHOU,Houston,1915-DMN,19150619-TEXHOU-TEXSHR-0,Dodd,Oran,Dodd,,a05,1b
+Texas League,TEXHOU,Houston,1915-DMN,19150622-TEXDAL-TEXHOU-0,Dodd,Oran,Dodd,,b11,p
+Texas League,TEXHOU,Houston,1915-DMN,19150629-TEXHOU-TEXSHR-0,Dodd,Oran,Dodd,,b11,1b
+Texas League,TEXHOU,Houston,1915-DMN,19150421-TEXBEA-TEXHOU-0,Dodd,Oran,Dodd,O.U.,b07,c
+Texas League,TEXHOU,Houston,1915-DMN,19150420-TEXBEA-TEXHOU-0,Dodd,Oran,Dodd,Oran,b10,c
+Texas League,TEXHOU,Houston,1915-DMN,19150524-TEXBEA-TEXHOU-0,Dodd,Oran,Dodd [HOU],,a11,rf
 Texas League,TEXHOU,Houston,1915-DMN,19150413-TEXHOU-TEXSAN-0,,,Edmondson,,a09,p
 Texas League,TEXHOU,Houston,1915-DMN,19150418-TEXHOU-TEXSAN-0,,,Edmondson,,b08,p
 Texas League,TEXHOU,Houston,1915-DMN,19150425-TEXGAL-TEXHOU-1,,,Edmondson,,b08,p
@@ -4189,26 +4189,26 @@ Texas League,TEXHOU,Houston,1915-DMN,19150615-TEXHOU-TEXWAC-0,,,Ware,,a08,p
 Texas League,TEXHOU,Houston,1915-DMN,19150622-TEXDAL-TEXHOU-0,,,Ware,,b09,p
 Texas League,TEXHOU,Houston,1915-DMN,19150624-TEXDAL-TEXHOU-0,,,Ware,,b08,p
 Texas League,TEXHOU,Houston,1915-DMN,19150629-TEXHOU-TEXSHR-0,,,Ware,,b09,p
-Texas League,TEXSAN,San Antonio,1915-DMN,19150409-TEXGAL-TEXSAN-0,,,Allen,,b10,lf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150415-TEXBEA-TEXSAN-1,,,Allen,,b06,cf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150415-TEXBEA-TEXSAN-2,,,Allen,,b06,cf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150416-TEXBEA-TEXSAN-0,,,Allen,,b06,cf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150421-TEXGAL-TEXSAN-0,,,Allen,,a07,cf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150423-TEXBEA-TEXSAN-0,,,Allen,,a03,cf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150424-TEXBEA-TEXSAN-0,,,Allen,,a03,cf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150425-TEXBEA-TEXSAN-0,,,Allen,,a03,cf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150427-TEXSAN-TEXSHR-0,,,Allen,,a03,cf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150428-TEXSAN-TEXSHR-1,,,Allen,,a05,cf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150429-TEXSAN-TEXWAC-0,,,Allen,,a09,ph
-Texas League,TEXSAN,San Antonio,1915-DMN,19150430-TEXSAN-TEXWAC-0,,,Allen,,a09,ph
-Texas League,TEXSAN,San Antonio,1915-DMN,19150501-TEXSAN-TEXWAC-0,,,Allen,,a01,lf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150502-TEXDAL-TEXSAN-0,,,Allen,,a01,lf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150503-TEXDAL-TEXSAN-0,,,Allen,,a05,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150417-TEXHOU-TEXSAN-0,,,Allen,L.,a03,cf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150418-TEXHOU-TEXSAN-0,,,Allen,L.,a03,cf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150419-TEXHOU-TEXSAN-0,,,Allen,L.,a03,cf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150420-TEXGAL-TEXSAN-0,,,Allen,L.,a03,cf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150411-TEXHOU-TEXSAN-0,,,Allen [SA],,b06,cf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150409-TEXGAL-TEXSAN-0,Allen,R.,Allen,,b10,lf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150415-TEXBEA-TEXSAN-1,Allen,R.,Allen,,b06,cf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150415-TEXBEA-TEXSAN-2,Allen,R.,Allen,,b06,cf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150416-TEXBEA-TEXSAN-0,Allen,R.,Allen,,b06,cf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150421-TEXGAL-TEXSAN-0,Allen,R.,Allen,,a07,cf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150423-TEXBEA-TEXSAN-0,Allen,R.,Allen,,a03,cf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150424-TEXBEA-TEXSAN-0,Allen,R.,Allen,,a03,cf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150425-TEXBEA-TEXSAN-0,Allen,R.,Allen,,a03,cf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150427-TEXSAN-TEXSHR-0,Allen,R.,Allen,,a03,cf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150428-TEXSAN-TEXSHR-1,Allen,R.,Allen,,a05,cf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150429-TEXSAN-TEXWAC-0,Allen,R.,Allen,,a09,ph
+Texas League,TEXSAN,San Antonio,1915-DMN,19150430-TEXSAN-TEXWAC-0,Allen,R.,Allen,,a09,ph
+Texas League,TEXSAN,San Antonio,1915-DMN,19150501-TEXSAN-TEXWAC-0,Allen,R.,Allen,,a01,lf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150502-TEXDAL-TEXSAN-0,Allen,R.,Allen,,a01,lf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150503-TEXDAL-TEXSAN-0,Allen,R.,Allen,,a05,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150417-TEXHOU-TEXSAN-0,Allen,R.,Allen,L.,a03,cf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150418-TEXHOU-TEXSAN-0,Allen,R.,Allen,L.,a03,cf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150419-TEXHOU-TEXSAN-0,Allen,R.,Allen,L.,a03,cf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150420-TEXGAL-TEXSAN-0,Allen,R.,Allen,L.,a03,cf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150411-TEXHOU-TEXSAN-0,Allen,R.,Allen [SA],,b06,cf
 Texas League,TEXSAN,San Antonio,1915-DMN,19150408-TEXGAL-TEXSAN-0,,,Baggan,,b00,rf
 Texas League,TEXSAN,San Antonio,1915-DMN,19150409-TEXGAL-TEXSAN-0,,,Baggan,,b00,rf
 Texas League,TEXSAN,San Antonio,1915-DMN,19150411-TEXHOU-TEXSAN-0,,,Baggan,,b00,rf
@@ -4403,7 +4403,7 @@ Texas League,TEXSAN,San Antonio,1915-DMN,19150428-TEXSAN-TEXSHR-2,,,Barr,,a04,lf
 Texas League,TEXSAN,San Antonio,1915-DMN,19150429-TEXSAN-TEXWAC-0,,,Barr,,a04,lf
 Texas League,TEXSAN,San Antonio,1915-DMN,19150430-TEXSAN-TEXWAC-0,,,Barr,,a04,lf
 Texas League,TEXSAN,San Antonio,1915-DMN,19150601-TEXHOU-TEXSAN-0,,,Bowden,,a07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150614-TEXDAL-TEXSAN-0,,,Browing,,a08,p
+Texas League,TEXSAN,San Antonio,1915-DMN,19150614-TEXDAL-TEXSAN-0,Browning,,Browing,,a08,p
 Texas League,TEXSAN,San Antonio,1915-DMN,19150518-TEXDAL-TEXSAN-0,,,Browning,,b08,p
 Texas League,TEXSAN,San Antonio,1915-DMN,19150522-TEXSAN-TEXWAC-0,,,Browning,,b10,pr
 Texas League,TEXSAN,San Antonio,1915-DMN,19150523-TEXGAL-TEXSAN-2,,,Browning,,b08,p
@@ -4512,81 +4512,81 @@ Texas League,TEXSAN,San Antonio,1915-DMN,19150630-TEXDAL-TEXSAN-0,,,Dunckel,,b06
 Texas League,TEXSAN,San Antonio,1915-DMN,19150701-TEXDAL-TEXSAN-0,,,Dunckel,,b06,1b
 Texas League,TEXSAN,San Antonio,1915-DMN,19150702-TEXFTW-TEXSAN-0,,,Dunckel,,b06,1b
 Texas League,TEXSAN,San Antonio,1915-DMN,19150411-TEXHOU-TEXSAN-0,,,Garrett,,b08,p
-Texas League,TEXSAN,San Antonio,1915-DMN,19150507-TEXFTW-TEXSAN-1,,,Harber,,a05,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150507-TEXFTW-TEXSAN-2,,,Harber,,a05,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150508-TEXBEA-TEXSAN-0,,,Harber,,b02,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150509-TEXBEA-TEXSAN-0,,,Harber,,b06,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150510-TEXBEA-TEXSAN-0,,,Harber,,b07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150511-TEXFTW-TEXSAN-0,,,Harber,,b07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150512-TEXFTW-TEXSAN-0,,,Harber,,b07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150513-TEXFTW-TEXSAN-0,,,Harber,,b07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150514-TEXSAN-TEXSHR-0,,,Harber,,b07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150515-TEXSAN-TEXSHR-0,,,Harber,,b07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150516-TEXSAN-TEXSHR-0,,,Harber,,b07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150521-TEXSAN-TEXWAC-0,,,Harber,,b07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150522-TEXSAN-TEXWAC-0,,,Harber,,b07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150523-TEXGAL-TEXSAN-1,,,Harber,,b07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150523-TEXGAL-TEXSAN-2,,,Harber,,b07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150524-TEXGAL-TEXSAN-0,,,Harber,,b07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150525-TEXGAL-TEXSAN-0,,,Harber,,b07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150526-TEXHOU-TEXSAN-0,,,Harber,,b07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150527-TEXHOU-TEXSAN-0,,,Harber,,b07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150528-TEXHOU-TEXSAN-0,,,Harber,,b07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150529-TEXBEA-TEXSAN-0,,,Harber,,a07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150530-TEXBEA-TEXSAN-0,,,Harber,,a07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150601-TEXHOU-TEXSAN-0,,,Harber,,a11,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150602-TEXHOU-TEXSAN-0,,,Harber,,a07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150603-TEXHOU-TEXSAN-0,,,Harber,,a07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150604-TEXGAL-TEXSAN-0,,,Harber,,a07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150605-TEXGAL-TEXSAN-0,,,Harber,,a07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150606-TEXGAL-TEXSAN-1,,,Harber,,a08,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150606-TEXGAL-TEXSAN-2,,,Harber,,a07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150607-TEXSAN-TEXWAC-0,,,Harber,,a04,cf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150608-TEXSAN-TEXWAC-0,,,Harber,,a09,ph
-Texas League,TEXSAN,San Antonio,1915-DMN,19150610-TEXSAN-TEXWAC-0,,,Harber,,a02,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150611-TEXSAN-TEXSHR-0,,,Harber,,a02,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150612-TEXSAN-TEXSHR-0,,,Harber,,a07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150613-TEXSAN-TEXSHR-1,,,Harber,,a06,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150613-TEXSAN-TEXSHR-2,,,Harber,,a06,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150614-TEXDAL-TEXSAN-0,,,Harber,,a06,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150615-TEXDAL-TEXSAN-0,,,Harber,,a06,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150616-TEXDAL-TEXSAN-0,,,Harber,,a06,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150617-TEXDAL-TEXSAN-0,,,Harber,,a06,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150618-TEXFTW-TEXSAN-0,,,Harber,,a07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150619-TEXFTW-TEXSAN-0,,,Harber,,a06,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150620-TEXFTW-TEXSAN-1,,,Harber,,a06,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150620-TEXFTW-TEXSAN-2,,,Harber,,a06,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150623-TEXSAN-TEXWAC-0,,,Harber,,b09,cf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150625-TEXSAN-TEXSHR-0,,,Harber,,b09,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150626-TEXSAN-TEXSHR-0,,,Harber,,b04,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150627-TEXSAN-TEXSHR-0,,,Harber,,b07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150628-TEXDAL-TEXSAN-0,,,Harber,,b07,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150629-TEXDAL-TEXSAN-0,,,Harber,,b09,pr
+Texas League,TEXSAN,San Antonio,1915-DMN,19150507-TEXFTW-TEXSAN-1,Harber,A.,Harber,,a05,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150507-TEXFTW-TEXSAN-2,Harber,A.,Harber,,a05,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150508-TEXBEA-TEXSAN-0,Harber,A.,Harber,,b02,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150509-TEXBEA-TEXSAN-0,Harber,A.,Harber,,b06,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150510-TEXBEA-TEXSAN-0,Harber,A.,Harber,,b07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150511-TEXFTW-TEXSAN-0,Harber,A.,Harber,,b07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150512-TEXFTW-TEXSAN-0,Harber,A.,Harber,,b07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150513-TEXFTW-TEXSAN-0,Harber,A.,Harber,,b07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150514-TEXSAN-TEXSHR-0,Harber,A.,Harber,,b07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150515-TEXSAN-TEXSHR-0,Harber,A.,Harber,,b07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150516-TEXSAN-TEXSHR-0,Harber,A.,Harber,,b07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150521-TEXSAN-TEXWAC-0,Harber,A.,Harber,,b07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150522-TEXSAN-TEXWAC-0,Harber,A.,Harber,,b07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150523-TEXGAL-TEXSAN-1,Harber,A.,Harber,,b07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150523-TEXGAL-TEXSAN-2,Harber,A.,Harber,,b07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150524-TEXGAL-TEXSAN-0,Harber,A.,Harber,,b07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150525-TEXGAL-TEXSAN-0,Harber,A.,Harber,,b07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150526-TEXHOU-TEXSAN-0,Harber,A.,Harber,,b07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150527-TEXHOU-TEXSAN-0,Harber,A.,Harber,,b07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150528-TEXHOU-TEXSAN-0,Harber,A.,Harber,,b07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150529-TEXBEA-TEXSAN-0,Harber,A.,Harber,,a07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150530-TEXBEA-TEXSAN-0,Harber,A.,Harber,,a07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150601-TEXHOU-TEXSAN-0,Harber,A.,Harber,,a11,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150602-TEXHOU-TEXSAN-0,Harber,A.,Harber,,a07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150603-TEXHOU-TEXSAN-0,Harber,A.,Harber,,a07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150604-TEXGAL-TEXSAN-0,Harber,A.,Harber,,a07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150605-TEXGAL-TEXSAN-0,Harber,A.,Harber,,a07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150606-TEXGAL-TEXSAN-1,Harber,A.,Harber,,a08,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150606-TEXGAL-TEXSAN-2,Harber,A.,Harber,,a07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150607-TEXSAN-TEXWAC-0,Harber,A.,Harber,,a04,cf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150608-TEXSAN-TEXWAC-0,Harber,A.,Harber,,a09,ph
+Texas League,TEXSAN,San Antonio,1915-DMN,19150610-TEXSAN-TEXWAC-0,Harber,A.,Harber,,a02,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150611-TEXSAN-TEXSHR-0,Harber,A.,Harber,,a02,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150612-TEXSAN-TEXSHR-0,Harber,A.,Harber,,a07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150613-TEXSAN-TEXSHR-1,Harber,A.,Harber,,a06,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150613-TEXSAN-TEXSHR-2,Harber,A.,Harber,,a06,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150614-TEXDAL-TEXSAN-0,Harber,A.,Harber,,a06,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150615-TEXDAL-TEXSAN-0,Harber,A.,Harber,,a06,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150616-TEXDAL-TEXSAN-0,Harber,A.,Harber,,a06,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150617-TEXDAL-TEXSAN-0,Harber,A.,Harber,,a06,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150618-TEXFTW-TEXSAN-0,Harber,A.,Harber,,a07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150619-TEXFTW-TEXSAN-0,Harber,A.,Harber,,a06,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150620-TEXFTW-TEXSAN-1,Harber,A.,Harber,,a06,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150620-TEXFTW-TEXSAN-2,Harber,A.,Harber,,a06,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150623-TEXSAN-TEXWAC-0,Harber,A.,Harber,,b09,cf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150625-TEXSAN-TEXSHR-0,Harber,A.,Harber,,b09,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150626-TEXSAN-TEXSHR-0,Harber,A.,Harber,,b04,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150627-TEXSAN-TEXSHR-0,Harber,A.,Harber,,b07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150628-TEXDAL-TEXSAN-0,Harber,A.,Harber,,b07,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150629-TEXDAL-TEXSAN-0,Harber,A.,Harber,,b09,pr
 Texas League,TEXSAN,San Antonio,1915-DMN,19150618-TEXFTW-TEXSAN-0,,,Harding,,a08,p
 Texas League,TEXSAN,San Antonio,1915-DMN,19150622-TEXSAN-TEXWAC-0,,,Harding,,b08,p
 Texas League,TEXSAN,San Antonio,1915-DMN,19150627-TEXSAN-TEXSHR-0,,,Harding,,b08,p
 Texas League,TEXSAN,San Antonio,1915-DMN,19150628-TEXDAL-TEXSAN-0,,,Harding,,b09,pr
 Texas League,TEXSAN,San Antonio,1915-DMN,19150701-TEXDAL-TEXSAN-0,,,Harding,,b08,p
-Texas League,TEXSAN,San Antonio,1915-DMN,19150607-TEXSAN-TEXWAC-0,,,Harper,,a01,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150608-TEXSAN-TEXWAC-0,,,Harper,,a02,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150609-TEXSAN-TEXWAC-0,,,Harper,,a02,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150610-TEXSAN-TEXWAC-0,,,Harper,,a03,cf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150611-TEXSAN-TEXSHR-0,,,Harper,,a03,cf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150612-TEXSAN-TEXSHR-0,,,Harper,,a04,cf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150615-TEXDAL-TEXSAN-0,,,Harper,,a11,ph
-Texas League,TEXSAN,San Antonio,1915-DMN,19150621-TEXSAN-TEXWAC-0,,,Harper,,b04,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150622-TEXSAN-TEXWAC-0,,,Harper,,b04,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150623-TEXSAN-TEXWAC-0,,,Harper,,b04,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150624-TEXSAN-TEXWAC-0,,,Harper,,b04,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150625-TEXSAN-TEXSHR-0,,,Harper,,b04,rf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150626-TEXSAN-TEXSHR-0,,,Harper,,b10,ph
-Texas League,TEXSAN,San Antonio,1915-DMN,19150628-TEXDAL-TEXSAN-0,,,Harper,,b10,ph
-Texas League,TEXSAN,San Antonio,1915-DMN,19150629-TEXDAL-TEXSAN-0,,,Harper,,b10,ph
-Texas League,TEXSAN,San Antonio,1915-DMN,19150630-TEXDAL-TEXSAN-0,,,Harper,,b03,cf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150701-TEXDAL-TEXSAN-0,,,Harper,,b03,cf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150702-TEXFTW-TEXSAN-0,,,Harper,H.,b03,cf
-Texas League,TEXSAN,San Antonio,1915-DMN,19150428-TEXSAN-TEXSHR-2,,,Hauen'n,,a07,c
-Texas League,TEXSAN,San Antonio,1915-DMN,19150430-TEXSAN-TEXWAC-0,,,Hauens'n,,a07,c
+Texas League,TEXSAN,San Antonio,1915-DMN,19150607-TEXSAN-TEXWAC-0,Harber,A.,Harper,,a01,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150608-TEXSAN-TEXWAC-0,Harber,A.,Harper,,a02,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150609-TEXSAN-TEXWAC-0,Harber,A.,Harper,,a02,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150610-TEXSAN-TEXWAC-0,Harber,A.,Harper,,a03,cf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150611-TEXSAN-TEXSHR-0,Harber,A.,Harper,,a03,cf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150612-TEXSAN-TEXSHR-0,Harber,A.,Harper,,a04,cf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150615-TEXDAL-TEXSAN-0,Harber,A.,Harper,,a11,ph
+Texas League,TEXSAN,San Antonio,1915-DMN,19150621-TEXSAN-TEXWAC-0,Harber,A.,Harper,,b04,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150622-TEXSAN-TEXWAC-0,Harber,A.,Harper,,b04,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150623-TEXSAN-TEXWAC-0,Harber,A.,Harper,,b04,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150624-TEXSAN-TEXWAC-0,Harber,A.,Harper,,b04,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150625-TEXSAN-TEXSHR-0,Harber,A.,Harper,,b04,rf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150626-TEXSAN-TEXSHR-0,Harber,A.,Harper,,b10,ph
+Texas League,TEXSAN,San Antonio,1915-DMN,19150628-TEXDAL-TEXSAN-0,Harber,A.,Harper,,b10,ph
+Texas League,TEXSAN,San Antonio,1915-DMN,19150629-TEXDAL-TEXSAN-0,Harber,A.,Harper,,b10,ph
+Texas League,TEXSAN,San Antonio,1915-DMN,19150630-TEXDAL-TEXSAN-0,Harber,A.,Harper,,b03,cf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150701-TEXDAL-TEXSAN-0,Harber,A.,Harper,,b03,cf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150702-TEXFTW-TEXSAN-0,Harber,A.,Harper,H.,b03,cf
+Texas League,TEXSAN,San Antonio,1915-DMN,19150428-TEXSAN-TEXSHR-2,Hauenstein,,Hauen'n,,a07,c
+Texas League,TEXSAN,San Antonio,1915-DMN,19150430-TEXSAN-TEXWAC-0,Hauenstein,,Hauens'n,,a07,c
 Texas League,TEXSAN,San Antonio,1915-DMN,19150415-TEXBEA-TEXSAN-2,,,Hauenstein,,b07,c
 Texas League,TEXSAN,San Antonio,1915-DMN,19150421-TEXGAL-TEXSAN-0,,,Hauenstein,,a09,c
 Texas League,TEXSAN,San Antonio,1915-DMN,19150423-TEXBEA-TEXSAN-0,,,Hauenstein,,a07,c
@@ -4862,89 +4862,89 @@ Texas League,TEXSAN,San Antonio,1915-DMN,19150615-TEXDAL-TEXSAN-0,,,O'Dell,,a01,
 Texas League,TEXSAN,San Antonio,1915-DMN,19150616-TEXDAL-TEXSAN-0,,,O'Dell,,a01,3b
 Texas League,TEXSAN,San Antonio,1915-DMN,19150617-TEXDAL-TEXSAN-0,,,O'Dell,,a01,3b
 Texas League,TEXSAN,San Antonio,1915-DMN,19150618-TEXFTW-TEXSAN-0,,,O'Dell,,a01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150408-TEXGAL-TEXSAN-0,,,Odell,,b05,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150409-TEXGAL-TEXSAN-0,,,Odell,,b05,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150411-TEXHOU-TEXSAN-0,,,Odell,,b05,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150412-TEXHOU-TEXSAN-0,,,Odell,,b05,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150413-TEXHOU-TEXSAN-0,,,Odell,,b05,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150415-TEXBEA-TEXSAN-1,,,Odell,,b05,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150415-TEXBEA-TEXSAN-2,,,Odell,,b05,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150416-TEXBEA-TEXSAN-0,,,Odell,,b05,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150417-TEXHOU-TEXSAN-0,,,Odell,,a06,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150418-TEXHOU-TEXSAN-0,,,Odell,,a06,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150419-TEXHOU-TEXSAN-0,,,Odell,,a06,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150420-TEXGAL-TEXSAN-0,,,Odell,,a06,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150421-TEXGAL-TEXSAN-0,,,Odell,,a05,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150423-TEXBEA-TEXSAN-0,,,Odell,,a06,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150424-TEXBEA-TEXSAN-0,,,Odell,,a06,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150425-TEXBEA-TEXSAN-0,,,Odell,,a06,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150427-TEXSAN-TEXSHR-0,,,Odell,,a06,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150428-TEXSAN-TEXSHR-1,,,Odell,,a08,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150428-TEXSAN-TEXSHR-2,,,Odell,,a06,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150429-TEXSAN-TEXWAC-0,,,Odell,,a06,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150430-TEXSAN-TEXWAC-0,,,Odell,,a06,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150501-TEXSAN-TEXWAC-0,,,Odell,,a06,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150507-TEXFTW-TEXSAN-1,,,Odell,,a01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150507-TEXFTW-TEXSAN-2,,,Odell,,a01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150508-TEXBEA-TEXSAN-0,,,Odell,,b06,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150509-TEXBEA-TEXSAN-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150510-TEXBEA-TEXSAN-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150511-TEXFTW-TEXSAN-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150512-TEXFTW-TEXSAN-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150513-TEXFTW-TEXSAN-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150514-TEXSAN-TEXSHR-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150515-TEXSAN-TEXSHR-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150516-TEXSAN-TEXSHR-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150517-TEXDAL-TEXSAN-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150518-TEXDAL-TEXSAN-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150519-TEXDAL-TEXSAN-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150520-TEXSAN-TEXWAC-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150521-TEXSAN-TEXWAC-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150522-TEXSAN-TEXWAC-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150523-TEXGAL-TEXSAN-1,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150523-TEXGAL-TEXSAN-2,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150524-TEXGAL-TEXSAN-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150525-TEXGAL-TEXSAN-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150526-TEXHOU-TEXSAN-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150527-TEXHOU-TEXSAN-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150528-TEXHOU-TEXSAN-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150529-TEXBEA-TEXSAN-0,,,Odell,,a01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150530-TEXBEA-TEXSAN-0,,,Odell,,a01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150601-TEXHOU-TEXSAN-0,,,Odell,,a01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150602-TEXHOU-TEXSAN-0,,,Odell,,a01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150603-TEXHOU-TEXSAN-0,,,Odell,,a01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150604-TEXGAL-TEXSAN-0,,,Odell,,a01,1b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150605-TEXGAL-TEXSAN-0,,,Odell,,a01,1b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150606-TEXGAL-TEXSAN-1,,,Odell,,a01,1b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150606-TEXGAL-TEXSAN-2,,,Odell,,a01,1b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150607-TEXSAN-TEXWAC-0,,,Odell,,a07,1b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150608-TEXSAN-TEXWAC-0,,,Odell,,a06,1b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150609-TEXSAN-TEXWAC-0,,,Odell,,a06,ss
-Texas League,TEXSAN,San Antonio,1915-DMN,19150610-TEXSAN-TEXWAC-0,,,Odell,,a01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150612-TEXSAN-TEXSHR-0,,,Odell,,a01,1b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150613-TEXSAN-TEXSHR-1,,,Odell,,a01,1b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150613-TEXSAN-TEXSHR-2,,,Odell,,a01,1b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150614-TEXDAL-TEXSAN-0,,,Odell,,a01,1b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150619-TEXFTW-TEXSAN-0,,,Odell,,a01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150620-TEXFTW-TEXSAN-1,,,Odell,,a01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150620-TEXFTW-TEXSAN-2,,,Odell,,a01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150621-TEXSAN-TEXWAC-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150622-TEXSAN-TEXWAC-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150623-TEXSAN-TEXWAC-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150624-TEXSAN-TEXWAC-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150625-TEXSAN-TEXSHR-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150626-TEXSAN-TEXSHR-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150627-TEXSAN-TEXSHR-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150628-TEXDAL-TEXSAN-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150629-TEXDAL-TEXSAN-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150630-TEXDAL-TEXSAN-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150701-TEXDAL-TEXSAN-0,,,Odell,,b01,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150702-TEXFTW-TEXSAN-0,,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150408-TEXGAL-TEXSAN-0,O'Dell,,Odell,,b05,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150409-TEXGAL-TEXSAN-0,O'Dell,,Odell,,b05,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150411-TEXHOU-TEXSAN-0,O'Dell,,Odell,,b05,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150412-TEXHOU-TEXSAN-0,O'Dell,,Odell,,b05,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150413-TEXHOU-TEXSAN-0,O'Dell,,Odell,,b05,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150415-TEXBEA-TEXSAN-1,O'Dell,,Odell,,b05,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150415-TEXBEA-TEXSAN-2,O'Dell,,Odell,,b05,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150416-TEXBEA-TEXSAN-0,O'Dell,,Odell,,b05,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150417-TEXHOU-TEXSAN-0,O'Dell,,Odell,,a06,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150418-TEXHOU-TEXSAN-0,O'Dell,,Odell,,a06,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150419-TEXHOU-TEXSAN-0,O'Dell,,Odell,,a06,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150420-TEXGAL-TEXSAN-0,O'Dell,,Odell,,a06,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150421-TEXGAL-TEXSAN-0,O'Dell,,Odell,,a05,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150423-TEXBEA-TEXSAN-0,O'Dell,,Odell,,a06,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150424-TEXBEA-TEXSAN-0,O'Dell,,Odell,,a06,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150425-TEXBEA-TEXSAN-0,O'Dell,,Odell,,a06,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150427-TEXSAN-TEXSHR-0,O'Dell,,Odell,,a06,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150428-TEXSAN-TEXSHR-1,O'Dell,,Odell,,a08,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150428-TEXSAN-TEXSHR-2,O'Dell,,Odell,,a06,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150429-TEXSAN-TEXWAC-0,O'Dell,,Odell,,a06,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150430-TEXSAN-TEXWAC-0,O'Dell,,Odell,,a06,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150501-TEXSAN-TEXWAC-0,O'Dell,,Odell,,a06,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150507-TEXFTW-TEXSAN-1,O'Dell,,Odell,,a01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150507-TEXFTW-TEXSAN-2,O'Dell,,Odell,,a01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150508-TEXBEA-TEXSAN-0,O'Dell,,Odell,,b06,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150509-TEXBEA-TEXSAN-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150510-TEXBEA-TEXSAN-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150511-TEXFTW-TEXSAN-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150512-TEXFTW-TEXSAN-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150513-TEXFTW-TEXSAN-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150514-TEXSAN-TEXSHR-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150515-TEXSAN-TEXSHR-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150516-TEXSAN-TEXSHR-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150517-TEXDAL-TEXSAN-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150518-TEXDAL-TEXSAN-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150519-TEXDAL-TEXSAN-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150520-TEXSAN-TEXWAC-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150521-TEXSAN-TEXWAC-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150522-TEXSAN-TEXWAC-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150523-TEXGAL-TEXSAN-1,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150523-TEXGAL-TEXSAN-2,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150524-TEXGAL-TEXSAN-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150525-TEXGAL-TEXSAN-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150526-TEXHOU-TEXSAN-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150527-TEXHOU-TEXSAN-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150528-TEXHOU-TEXSAN-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150529-TEXBEA-TEXSAN-0,O'Dell,,Odell,,a01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150530-TEXBEA-TEXSAN-0,O'Dell,,Odell,,a01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150601-TEXHOU-TEXSAN-0,O'Dell,,Odell,,a01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150602-TEXHOU-TEXSAN-0,O'Dell,,Odell,,a01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150603-TEXHOU-TEXSAN-0,O'Dell,,Odell,,a01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150604-TEXGAL-TEXSAN-0,O'Dell,,Odell,,a01,1b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150605-TEXGAL-TEXSAN-0,O'Dell,,Odell,,a01,1b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150606-TEXGAL-TEXSAN-1,O'Dell,,Odell,,a01,1b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150606-TEXGAL-TEXSAN-2,O'Dell,,Odell,,a01,1b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150607-TEXSAN-TEXWAC-0,O'Dell,,Odell,,a07,1b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150608-TEXSAN-TEXWAC-0,O'Dell,,Odell,,a06,1b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150609-TEXSAN-TEXWAC-0,O'Dell,,Odell,,a06,ss
+Texas League,TEXSAN,San Antonio,1915-DMN,19150610-TEXSAN-TEXWAC-0,O'Dell,,Odell,,a01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150612-TEXSAN-TEXSHR-0,O'Dell,,Odell,,a01,1b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150613-TEXSAN-TEXSHR-1,O'Dell,,Odell,,a01,1b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150613-TEXSAN-TEXSHR-2,O'Dell,,Odell,,a01,1b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150614-TEXDAL-TEXSAN-0,O'Dell,,Odell,,a01,1b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150619-TEXFTW-TEXSAN-0,O'Dell,,Odell,,a01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150620-TEXFTW-TEXSAN-1,O'Dell,,Odell,,a01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150620-TEXFTW-TEXSAN-2,O'Dell,,Odell,,a01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150621-TEXSAN-TEXWAC-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150622-TEXSAN-TEXWAC-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150623-TEXSAN-TEXWAC-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150624-TEXSAN-TEXWAC-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150625-TEXSAN-TEXSHR-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150626-TEXSAN-TEXSHR-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150627-TEXSAN-TEXSHR-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150628-TEXDAL-TEXSAN-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150629-TEXDAL-TEXSAN-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150630-TEXDAL-TEXSAN-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150701-TEXDAL-TEXSAN-0,O'Dell,,Odell,,b01,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150702-TEXFTW-TEXSAN-0,O'Dell,,Odell,,b01,3b
 Texas League,TEXSAN,San Antonio,1915-DMN,19150619-TEXFTW-TEXSAN-0,,,Ponder,,a08,p
 Texas League,TEXSAN,San Antonio,1915-DMN,19150623-TEXSAN-TEXWAC-0,,,Ponder,,b08,p
 Texas League,TEXSAN,San Antonio,1915-DMN,19150626-TEXSAN-TEXSHR-0,,,Ponder,,b09,p
 Texas League,TEXSAN,San Antonio,1915-DMN,19150630-TEXDAL-TEXSAN-0,,,Ponder,,b08,p
-Texas League,TEXSAN,San Antonio,1915-DMN,19150611-TEXSAN-TEXSHR-0,,,Sewall,,a08,p
+Texas League,TEXSAN,San Antonio,1915-DMN,19150611-TEXSAN-TEXSHR-0,Sewell,,Sewall,,a08,p
 Texas League,TEXSAN,San Antonio,1915-DMN,19150507-TEXFTW-TEXSAN-2,,,Sewell,,a08,p
 Texas League,TEXSAN,San Antonio,1915-DMN,19150510-TEXBEA-TEXSAN-0,,,Sewell,,b09,p
 Texas League,TEXSAN,San Antonio,1915-DMN,19150511-TEXFTW-TEXSAN-0,,,Sewell,,b09,p
@@ -4956,8 +4956,8 @@ Texas League,TEXSAN,San Antonio,1915-DMN,19150530-TEXBEA-TEXSAN-0,,,Sewell,,a08,
 Texas League,TEXSAN,San Antonio,1915-DMN,19150602-TEXHOU-TEXSAN-0,,,Sewell,,a11,p
 Texas League,TEXSAN,San Antonio,1915-DMN,19150606-TEXGAL-TEXSAN-1,,,Sewell,,a09,p
 Texas League,TEXSAN,San Antonio,1915-DMN,19150615-TEXDAL-TEXSAN-0,,,Sewell,,a09,p
-Texas League,TEXSAN,San Antonio,1915-DMN,19150428-TEXSAN-TEXSHR-1,,,Snedecar,,a07,1b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150428-TEXSAN-TEXSHR-2,,,Snedecar,,a05,1b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150428-TEXSAN-TEXSHR-1,Snedecor,,Snedecar,,a07,1b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150428-TEXSAN-TEXSHR-2,Snedecor,,Snedecar,,a05,1b
 Texas League,TEXSAN,San Antonio,1915-DMN,19150408-TEXGAL-TEXSAN-0,,,Snedecor,,b03,1b
 Texas League,TEXSAN,San Antonio,1915-DMN,19150409-TEXGAL-TEXSAN-0,,,Snedecor,,b03,1b
 Texas League,TEXSAN,San Antonio,1915-DMN,19150411-TEXHOU-TEXSAN-0,,,Snedecor,,b03,1b
@@ -5050,9 +5050,9 @@ Texas League,TEXSAN,San Antonio,1915-DMN,19150621-TEXSAN-TEXWAC-0,,,Tullos,,b05,
 Texas League,TEXSAN,San Antonio,1915-DMN,19150622-TEXSAN-TEXWAC-0,,,Tullos,,b05,2b
 Texas League,TEXSAN,San Antonio,1915-DMN,19150623-TEXSAN-TEXWAC-0,,,Tullos,,b05,2b
 Texas League,TEXSAN,San Antonio,1915-DMN,19150629-TEXDAL-TEXSAN-0,,,Tullos,,b06,2b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150612-TEXSAN-TEXSHR-0,,,Tullus,,a02,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150613-TEXSAN-TEXSHR-1,,,Tullus,,a02,3b
-Texas League,TEXSAN,San Antonio,1915-DMN,19150613-TEXSAN-TEXSHR-2,,,Tullus,,a02,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150612-TEXSAN-TEXSHR-0,Tullos,,Tullus,,a02,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150613-TEXSAN-TEXSHR-1,Tullos,,Tullus,,a02,3b
+Texas League,TEXSAN,San Antonio,1915-DMN,19150613-TEXSAN-TEXSHR-2,Tullos,,Tullus,,a02,3b
 Texas League,TEXSHR,Shreveport,1915-DMN,19150608-TEXBEA-TEXSHR-0,,,Andrews,,b10,p
 Texas League,TEXSHR,Shreveport,1915-DMN,19150506-TEXGAL-TEXSHR-0,,,Barr,,b06,lf
 Texas League,TEXSHR,Shreveport,1915-DMN,19150507-TEXGAL-TEXSHR-0,,,Barr,,b06,lf
@@ -5205,14 +5205,14 @@ Texas League,TEXSHR,Shreveport,1915-DMN,19150503-TEXBEA-TEXSHR-0,,,Chelette,,b10
 Texas League,TEXSHR,Shreveport,1915-DMN,19150515-TEXSAN-TEXSHR-0,,,Chelette,,a08,p
 Texas League,TEXSHR,Shreveport,1915-DMN,19150604-TEXFTW-TEXSHR-0,,,Chelette,,b08,p
 Texas League,TEXSHR,Shreveport,1915-DMN,19150609-TEXBEA-TEXSHR-0,,,Chelette,,b09,p
-Texas League,TEXSHR,Shreveport,1915-DMN,19150420-TEXDAL-TEXSHR-0,,,Chellette,,a08,p
-Texas League,TEXSHR,Shreveport,1915-DMN,19150428-TEXSAN-TEXSHR-1,,,Chellette,,b08,p
-Texas League,TEXSHR,Shreveport,1915-DMN,19150430-TEXHOU-TEXSHR-0,,,Chellette,,b09,p
-Texas League,TEXSHR,Shreveport,1915-DMN,19150506-TEXGAL-TEXSHR-0,,,Chellette,,b08,p
-Texas League,TEXSHR,Shreveport,1915-DMN,19150508-TEXDAL-TEXSHR-0,,,Chellette,,b08,p
-Texas League,TEXSHR,Shreveport,1915-DMN,19150518-TEXGAL-TEXSHR-0,,,Chellette,,a08,p
-Texas League,TEXSHR,Shreveport,1915-DMN,19150607-TEXBEA-TEXSHR-0,,,Chellette,,b09,p
-Texas League,TEXSHR,Shreveport,1915-DMN,19150613-TEXSAN-TEXSHR-1,,,Chellette,,b09,p
+Texas League,TEXSHR,Shreveport,1915-DMN,19150420-TEXDAL-TEXSHR-0,Chelette,,Chellette,,a08,p
+Texas League,TEXSHR,Shreveport,1915-DMN,19150428-TEXSAN-TEXSHR-1,Chelette,,Chellette,,b08,p
+Texas League,TEXSHR,Shreveport,1915-DMN,19150430-TEXHOU-TEXSHR-0,Chelette,,Chellette,,b09,p
+Texas League,TEXSHR,Shreveport,1915-DMN,19150506-TEXGAL-TEXSHR-0,Chelette,,Chellette,,b08,p
+Texas League,TEXSHR,Shreveport,1915-DMN,19150508-TEXDAL-TEXSHR-0,Chelette,,Chellette,,b08,p
+Texas League,TEXSHR,Shreveport,1915-DMN,19150518-TEXGAL-TEXSHR-0,Chelette,,Chellette,,a08,p
+Texas League,TEXSHR,Shreveport,1915-DMN,19150607-TEXBEA-TEXSHR-0,Chelette,,Chellette,,b09,p
+Texas League,TEXSHR,Shreveport,1915-DMN,19150613-TEXSAN-TEXSHR-1,Chelette,,Chellette,,b09,p
 Texas League,TEXSHR,Shreveport,1915-DMN,19150408-TEXDAL-TEXSHR-0,,,Clapp,,b06,cf
 Texas League,TEXSHR,Shreveport,1915-DMN,19150409-TEXDAL-TEXSHR-0,,,Clapp,,b06,cf
 Texas League,TEXSHR,Shreveport,1915-DMN,19150410-TEXDAL-TEXSHR-0,,,Clapp,,b06,cf
@@ -5382,9 +5382,9 @@ Texas League,TEXSHR,Shreveport,1915-DMN,19150619-TEXHOU-TEXSHR-0,,,Hendricks,,b0
 Texas League,TEXSHR,Shreveport,1915-DMN,19150621-TEXBEA-TEXSHR-0,,,Hendricks,,a10,p
 Texas League,TEXSHR,Shreveport,1915-DMN,19150626-TEXSAN-TEXSHR-0,,,Hendricks,,a08,p
 Texas League,TEXSHR,Shreveport,1915-DMN,19150701-TEXHOU-TEXSHR-0,,,Hendricks,,a08,p
-Texas League,TEXSHR,Shreveport,1915-DMN,19150414-TEXSHR-TEXWAC-0,,,Hendrix,,a08,p
-Texas League,TEXSHR,Shreveport,1915-DMN,19150418-TEXFTW-TEXSHR-0,,,Hendrix,,a08,p
-Texas League,TEXSHR,Shreveport,1915-DMN,19150525-TEXSHR-TEXWAC-0,,,Hendrix,,a08,p
+Texas League,TEXSHR,Shreveport,1915-DMN,19150414-TEXSHR-TEXWAC-0,Hendricks,,Hendrix,,a08,p
+Texas League,TEXSHR,Shreveport,1915-DMN,19150418-TEXFTW-TEXSHR-0,Hendricks,,Hendrix,,a08,p
+Texas League,TEXSHR,Shreveport,1915-DMN,19150525-TEXSHR-TEXWAC-0,Hendricks,,Hendrix,,a08,p
 Texas League,TEXSHR,Shreveport,1915-DMN,19150408-TEXDAL-TEXSHR-0,,,Hornsby,,b08,p
 Texas League,TEXSHR,Shreveport,1915-DMN,19150412-TEXFTW-TEXSHR-0,,,Hornsby,,b08,p
 Texas League,TEXSHR,Shreveport,1915-DMN,19150417-TEXFTW-TEXSHR-0,,,Hornsby,,a08,p
@@ -5449,11 +5449,11 @@ Texas League,TEXSHR,Shreveport,1915-DMN,19150510-TEXDAL-TEXSHR-0,,,Laval,,b05,rf
 Texas League,TEXSHR,Shreveport,1915-DMN,19150512-TEXBEA-TEXSHR-0,,,Laval,,a02,rf
 Texas League,TEXSHR,Shreveport,1915-DMN,19150513-TEXBEA-TEXSHR-0,,,Laval,,a02,rf
 Texas League,TEXSHR,Shreveport,1915-DMN,19150514-TEXSAN-TEXSHR-0,,,Laval,,a05,rf
-Texas League,TEXSHR,Shreveport,1915-DMN,19150530-TEXDAL-TEXSHR-2,,,Leverett,,a08,p
-Texas League,TEXSHR,Shreveport,1915-DMN,19150602-TEXSHR-TEXWAC-1,,,Leverett,,b08,p
-Texas League,TEXSHR,Shreveport,1915-DMN,19150610-TEXBEA-TEXSHR-0,,,Leverett,,b06,cf
-Texas League,TEXSHR,Shreveport,1915-DMN,19150611-TEXSAN-TEXSHR-0,,,Leverett,,b09,p
-Texas League,TEXSHR,Shreveport,1915-DMN,19150620-TEXHOU-TEXSHR-0,,,Leverett,,b08,p
+Texas League,TEXSHR,Shreveport,1915-DMN,19150530-TEXDAL-TEXSHR-2,Leverette,,Leverett,,a08,p
+Texas League,TEXSHR,Shreveport,1915-DMN,19150602-TEXSHR-TEXWAC-1,Leverette,,Leverett,,b08,p
+Texas League,TEXSHR,Shreveport,1915-DMN,19150610-TEXBEA-TEXSHR-0,Leverette,,Leverett,,b06,cf
+Texas League,TEXSHR,Shreveport,1915-DMN,19150611-TEXSAN-TEXSHR-0,Leverette,,Leverett,,b09,p
+Texas League,TEXSHR,Shreveport,1915-DMN,19150620-TEXHOU-TEXSHR-0,Leverette,,Leverett,,b08,p
 Texas League,TEXSHR,Shreveport,1915-DMN,19150603-TEXSHR-TEXWAC-0,,,Leverette,,b03,rf
 Texas League,TEXSHR,Shreveport,1915-DMN,19150606-TEXFTW-TEXSHR-0,,,Leverette,,b09,p
 Texas League,TEXSHR,Shreveport,1915-DMN,19150615-TEXGAL-TEXSHR-2,,,Leverette,,b08,p
@@ -5547,8 +5547,8 @@ Texas League,TEXSHR,Shreveport,1915-DMN,19150629-TEXHOU-TEXSHR-0,,,McElveen,,a03
 Texas League,TEXSHR,Shreveport,1915-DMN,19150630-TEXHOU-TEXSHR-0,,,McElveen,,a03,2b
 Texas League,TEXSHR,Shreveport,1915-DMN,19150701-TEXHOU-TEXSHR-0,,,McElveen,,a03,2b
 Texas League,TEXSHR,Shreveport,1915-DMN,19150702-TEXGAL-TEXSHR-0,,,McElveen,,a03,2b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150506-TEXGAL-TEXSHR-0,,,McElven,,b02,3b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150423-TEXSHR-TEXWAC-0,,,McElvin,,b02,3b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150506-TEXGAL-TEXSHR-0,McElveen,,McElven,,b02,3b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150423-TEXSHR-TEXWAC-0,McElveen,,McElvin,,b02,3b
 Texas League,TEXSHR,Shreveport,1915-DMN,19150613-TEXSAN-TEXSHR-2,,,McLeod,,b09,p
 Texas League,TEXSHR,Shreveport,1915-DMN,19150618-TEXHOU-TEXSHR-0,,,McLeod,,b08,p
 Texas League,TEXSHR,Shreveport,1915-DMN,19150623-TEXBEA-TEXSHR-0,,,McLeod,,a08,p
@@ -5706,10 +5706,10 @@ Texas League,TEXSHR,Shreveport,1915-DMN,19150515-TEXSAN-TEXSHR-0,,,Rollings,,a01
 Texas League,TEXSHR,Shreveport,1915-DMN,19150516-TEXSAN-TEXSHR-0,,,Rollings,,a01,2b
 Texas League,TEXSHR,Shreveport,1915-DMN,19150517-TEXGAL-TEXSHR-0,,,Rollings,,a01,2b
 Texas League,TEXSHR,Shreveport,1915-DMN,19150518-TEXGAL-TEXSHR-0,,,Rollings,,a01,2b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150505-TEXGAL-TEXSHR-0,,,Schader,,b03,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150505-TEXGAL-TEXSHR-0,Schrader,,Schader,,b03,1b
 Texas League,TEXSHR,Shreveport,1915-DMN,19150529-TEXDAL-TEXSHR-0,,,Schilling,,a09,p
 Texas League,TEXSHR,Shreveport,1915-DMN,19150601-TEXSHR-TEXWAC-0,,,Schilling,,b09,p
-Texas League,TEXSHR,Shreveport,1915-DMN,19150418-TEXFTW-TEXSHR-0,,,Schneider,,a03,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150418-TEXFTW-TEXSHR-0,Schrader,,Schneider,,a03,1b
 Texas League,TEXSHR,Shreveport,1915-DMN,19150408-TEXDAL-TEXSHR-0,,,Schrader,,b03,1b
 Texas League,TEXSHR,Shreveport,1915-DMN,19150409-TEXDAL-TEXSHR-0,,,Schrader,,b03,1b
 Texas League,TEXSHR,Shreveport,1915-DMN,19150411-TEXFTW-TEXSHR-0,,,Schrader,,b03,1b
@@ -5768,60 +5768,60 @@ Texas League,TEXSHR,Shreveport,1915-DMN,19150629-TEXHOU-TEXSHR-0,,,Schrader,,a02
 Texas League,TEXSHR,Shreveport,1915-DMN,19150630-TEXHOU-TEXSHR-0,,,Schrader,,a02,1b
 Texas League,TEXSHR,Shreveport,1915-DMN,19150701-TEXHOU-TEXSHR-0,,,Schrader,,a02,1b
 Texas League,TEXSHR,Shreveport,1915-DMN,19150702-TEXGAL-TEXSHR-0,,,Schrader,,a02,1b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150410-TEXDAL-TEXSHR-0,,,Schraeder,,b03,1b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150417-TEXFTW-TEXSHR-0,,,Schraeder,,a03,1b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150425-TEXSHR-TEXWAC-0,,,Schraeder,,b03,1b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150428-TEXSAN-TEXSHR-1,,,Schraeder,,b03,1b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150429-TEXHOU-TEXSHR-0,,,Schraeder,,b03,1b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150508-TEXDAL-TEXSHR-0,,,Schraeder,,b03,1b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150511-TEXBEA-TEXSHR-0,,,Schraeder,,a03,1b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150512-TEXBEA-TEXSHR-0,,,Schraeder,,a03,1b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150513-TEXBEA-TEXSHR-0,,,Schraeder,,a03,1b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150514-TEXSAN-TEXSHR-0,,,Schraeder,,a03,1b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150516-TEXSAN-TEXSHR-0,,,Schraeder,,a03,1b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150518-TEXGAL-TEXSHR-0,,,Schraeder,,a05,1b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150519-TEXGAL-TEXSHR-0,,,Schraeder,,a03,1b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150521-TEXHOU-TEXSHR-0,,,Schraeder,,a03,1b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150523-TEXSHR-TEXWAC-0,,,Schraeder,,a03,1b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150524-TEXSHR-TEXWAC-0,,,Schraeder,,a03,1b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150525-TEXSHR-TEXWAC-0,,,Schraeder,,a03,1b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150527-TEXFTW-TEXSHR-1,,,Schraeder,,a03,1b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150528-TEXFTW-TEXSHR-0,,,Schraeder,,a03,1b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150529-TEXDAL-TEXSHR-0,,,Schraeder,,a03,1b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150420-TEXDAL-TEXSHR-0,,,Schroeder,,a03,3b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150421-TEXDAL-TEXSHR-0,,,Schroeder,,a03,1b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150522-TEXHOU-TEXSHR-0,,,Schroeder,,a03,1b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150520-TEXHOU-TEXSHR-0,,,Shrader,,a03,1b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150607-TEXBEA-TEXSHR-0,,,Smith,,b10,p
-Texas League,TEXSHR,Shreveport,1915-DMN,19150611-TEXSAN-TEXSHR-0,,,Smith,,b07,2b
-Texas League,TEXSHR,Shreveport,1915-DMN,19150612-TEXSAN-TEXSHR-0,,,Smith,,b05,c
-Texas League,TEXSHR,Shreveport,1915-DMN,19150613-TEXSAN-TEXSHR-1,,,Smith,,b06,c
-Texas League,TEXSHR,Shreveport,1915-DMN,19150613-TEXSAN-TEXSHR-2,,,Smith,,b06,c
-Texas League,TEXSHR,Shreveport,1915-DMN,19150619-TEXHOU-TEXSHR-0,,,Smith,,b04,c
-Texas League,TEXSHR,Shreveport,1915-DMN,19150620-TEXHOU-TEXSHR-0,,,Smith,,b04,c
-Texas League,TEXSHR,Shreveport,1915-DMN,19150621-TEXBEA-TEXSHR-0,,,Smith,,a06,c
-Texas League,TEXSHR,Shreveport,1915-DMN,19150622-TEXBEA-TEXSHR-0,,,Smith,,a06,c
-Texas League,TEXSHR,Shreveport,1915-DMN,19150623-TEXBEA-TEXSHR-0,,,Smith,,a06,c
-Texas League,TEXSHR,Shreveport,1915-DMN,19150624-TEXBEA-TEXSHR-0,,,Smith,,a05,c
-Texas League,TEXSHR,Shreveport,1915-DMN,19150625-TEXSAN-TEXSHR-0,,,Smith,,a06,c
-Texas League,TEXSHR,Shreveport,1915-DMN,19150626-TEXSAN-TEXSHR-0,,,Smith,,a06,c
-Texas League,TEXSHR,Shreveport,1915-DMN,19150627-TEXSAN-TEXSHR-0,,,Smith,,a06,c
-Texas League,TEXSHR,Shreveport,1915-DMN,19150628-TEXHOU-TEXSHR-0,,,Smith,,a09,ph
-Texas League,TEXSHR,Shreveport,1915-DMN,19150629-TEXHOU-TEXSHR-0,,,Smith,,a06,c
-Texas League,TEXSHR,Shreveport,1915-DMN,19150630-TEXHOU-TEXSHR-0,,,Smith,,a06,c
-Texas League,TEXSHR,Shreveport,1915-DMN,19150701-TEXHOU-TEXSHR-0,,,Smith,,a06,c
+Texas League,TEXSHR,Shreveport,1915-DMN,19150410-TEXDAL-TEXSHR-0,Schrader,,Schraeder,,b03,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150417-TEXFTW-TEXSHR-0,Schrader,,Schraeder,,a03,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150425-TEXSHR-TEXWAC-0,Schrader,,Schraeder,,b03,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150428-TEXSAN-TEXSHR-1,Schrader,,Schraeder,,b03,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150429-TEXHOU-TEXSHR-0,Schrader,,Schraeder,,b03,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150508-TEXDAL-TEXSHR-0,Schrader,,Schraeder,,b03,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150511-TEXBEA-TEXSHR-0,Schrader,,Schraeder,,a03,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150512-TEXBEA-TEXSHR-0,Schrader,,Schraeder,,a03,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150513-TEXBEA-TEXSHR-0,Schrader,,Schraeder,,a03,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150514-TEXSAN-TEXSHR-0,Schrader,,Schraeder,,a03,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150516-TEXSAN-TEXSHR-0,Schrader,,Schraeder,,a03,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150518-TEXGAL-TEXSHR-0,Schrader,,Schraeder,,a05,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150519-TEXGAL-TEXSHR-0,Schrader,,Schraeder,,a03,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150521-TEXHOU-TEXSHR-0,Schrader,,Schraeder,,a03,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150523-TEXSHR-TEXWAC-0,Schrader,,Schraeder,,a03,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150524-TEXSHR-TEXWAC-0,Schrader,,Schraeder,,a03,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150525-TEXSHR-TEXWAC-0,Schrader,,Schraeder,,a03,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150527-TEXFTW-TEXSHR-1,Schrader,,Schraeder,,a03,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150528-TEXFTW-TEXSHR-0,Schrader,,Schraeder,,a03,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150529-TEXDAL-TEXSHR-0,Schrader,,Schraeder,,a03,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150420-TEXDAL-TEXSHR-0,Schrader,,Schroeder,,a03,3b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150421-TEXDAL-TEXSHR-0,Schrader,,Schroeder,,a03,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150522-TEXHOU-TEXSHR-0,Schrader,,Schroeder,,a03,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150520-TEXHOU-TEXSHR-0,Schrader,,Shrader,,a03,1b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150607-TEXBEA-TEXSHR-0,Smith,S.,Smith,,b10,p
+Texas League,TEXSHR,Shreveport,1915-DMN,19150611-TEXSAN-TEXSHR-0,Smith,S.,Smith,,b07,2b
+Texas League,TEXSHR,Shreveport,1915-DMN,19150612-TEXSAN-TEXSHR-0,Smith,S.,Smith,,b05,c
+Texas League,TEXSHR,Shreveport,1915-DMN,19150613-TEXSAN-TEXSHR-1,Smith,S.,Smith,,b06,c
+Texas League,TEXSHR,Shreveport,1915-DMN,19150613-TEXSAN-TEXSHR-2,Smith,S.,Smith,,b06,c
+Texas League,TEXSHR,Shreveport,1915-DMN,19150619-TEXHOU-TEXSHR-0,Smith,S.,Smith,,b04,c
+Texas League,TEXSHR,Shreveport,1915-DMN,19150620-TEXHOU-TEXSHR-0,Smith,S.,Smith,,b04,c
+Texas League,TEXSHR,Shreveport,1915-DMN,19150621-TEXBEA-TEXSHR-0,Smith,S.,Smith,,a06,c
+Texas League,TEXSHR,Shreveport,1915-DMN,19150622-TEXBEA-TEXSHR-0,Smith,S.,Smith,,a06,c
+Texas League,TEXSHR,Shreveport,1915-DMN,19150623-TEXBEA-TEXSHR-0,Smith,S.,Smith,,a06,c
+Texas League,TEXSHR,Shreveport,1915-DMN,19150624-TEXBEA-TEXSHR-0,Smith,S.,Smith,,a05,c
+Texas League,TEXSHR,Shreveport,1915-DMN,19150625-TEXSAN-TEXSHR-0,Smith,S.,Smith,,a06,c
+Texas League,TEXSHR,Shreveport,1915-DMN,19150626-TEXSAN-TEXSHR-0,Smith,S.,Smith,,a06,c
+Texas League,TEXSHR,Shreveport,1915-DMN,19150627-TEXSAN-TEXSHR-0,Smith,S.,Smith,,a06,c
+Texas League,TEXSHR,Shreveport,1915-DMN,19150628-TEXHOU-TEXSHR-0,Smith,S.,Smith,,a09,ph
+Texas League,TEXSHR,Shreveport,1915-DMN,19150629-TEXHOU-TEXSHR-0,Smith,S.,Smith,,a06,c
+Texas League,TEXSHR,Shreveport,1915-DMN,19150630-TEXHOU-TEXSHR-0,Smith,S.,Smith,,a06,c
+Texas League,TEXSHR,Shreveport,1915-DMN,19150701-TEXHOU-TEXSHR-0,Smith,S.,Smith,,a06,c
 Texas League,TEXSHR,Shreveport,1915-DMN,19150615-TEXGAL-TEXSHR-1,,,Smith,S.,b06,c
 Texas League,TEXSHR,Shreveport,1915-DMN,19150615-TEXGAL-TEXSHR-2,,,Smith,S.,b06,c
 Texas League,TEXSHR,Shreveport,1915-DMN,19150616-TEXGAL-TEXSHR-0,,,Smith,S.,b05,c
 Texas League,TEXSHR,Shreveport,1915-DMN,19150617-TEXGAL-TEXSHR-0,,,Smith,S.,b05,c
 Texas League,TEXSHR,Shreveport,1915-DMN,19150618-TEXHOU-TEXSHR-0,,,Smith,S.,b04,c
 Texas League,TEXSHR,Shreveport,1915-DMN,19150702-TEXGAL-TEXSHR-0,,,Smith,S.,a06,c
-Texas League,TEXSHR,Shreveport,1915-DMN,19150606-TEXFTW-TEXSHR-0,,,Spear,,b08,p
-Texas League,TEXSHR,Shreveport,1915-DMN,19150609-TEXBEA-TEXSHR-0,,,Spear,,b08,p
-Texas League,TEXSHR,Shreveport,1915-DMN,19150613-TEXSAN-TEXSHR-1,,,Spear,,b10,p
-Texas League,TEXSHR,Shreveport,1915-DMN,19150616-TEXGAL-TEXSHR-0,,,Spear,,b09,pr
-Texas League,TEXSHR,Shreveport,1915-DMN,19150617-TEXGAL-TEXSHR-0,,,Spear,,b08,p
-Texas League,TEXSHR,Shreveport,1915-DMN,19150619-TEXHOU-TEXSHR-0,,,Spear,,b09,p
+Texas League,TEXSHR,Shreveport,1915-DMN,19150606-TEXFTW-TEXSHR-0,Speer,,Spear,,b08,p
+Texas League,TEXSHR,Shreveport,1915-DMN,19150609-TEXBEA-TEXSHR-0,Speer,,Spear,,b08,p
+Texas League,TEXSHR,Shreveport,1915-DMN,19150613-TEXSAN-TEXSHR-1,Speer,,Spear,,b10,p
+Texas League,TEXSHR,Shreveport,1915-DMN,19150616-TEXGAL-TEXSHR-0,Speer,,Spear,,b09,pr
+Texas League,TEXSHR,Shreveport,1915-DMN,19150617-TEXGAL-TEXSHR-0,Speer,,Spear,,b08,p
+Texas League,TEXSHR,Shreveport,1915-DMN,19150619-TEXHOU-TEXSHR-0,Speer,,Spear,,b09,p
 Texas League,TEXSHR,Shreveport,1915-DMN,19150621-TEXBEA-TEXSHR-0,,,Speer,,a09,p
 Texas League,TEXSHR,Shreveport,1915-DMN,19150622-TEXBEA-TEXSHR-0,,,Speer,,a08,p
 Texas League,TEXSHR,Shreveport,1915-DMN,19150630-TEXHOU-TEXSHR-0,,,Speer,,a09,p
@@ -6202,7 +6202,7 @@ Texas League,TEXWAC,Waco,1915-DMN,19150629-TEXGAL-TEXWAC-0,,,Grubb,,a07,ss
 Texas League,TEXWAC,Waco,1915-DMN,19150630-TEXGAL-TEXWAC-0,,,Grubb,,a07,ss
 Texas League,TEXWAC,Waco,1915-DMN,19150701-TEXGAL-TEXWAC-0,,,Grubb,,a07,ss
 Texas League,TEXWAC,Waco,1915-DMN,19150702-TEXHOU-TEXWAC-0,,,Grubb,,a07,3b
-Texas League,TEXWAC,Waco,1915-DMN,19150530-TEXFTW-TEXWAC-1,,,Grubbs,,a10,ph
+Texas League,TEXWAC,Waco,1915-DMN,19150530-TEXFTW-TEXWAC-1,Grubb,,Grubbs,,a10,ph
 Texas League,TEXWAC,Waco,1915-DMN,19150408-TEXFTW-TEXWAC-0,,,Hickey,,b00,lf
 Texas League,TEXWAC,Waco,1915-DMN,19150409-TEXFTW-TEXWAC-0,,,Hickey,,b00,lf
 Texas League,TEXWAC,Waco,1915-DMN,19150410-TEXFTW-TEXWAC-0,,,Hickey,,b00,lf
@@ -6460,9 +6460,9 @@ Texas League,TEXWAC,Waco,1915-DMN,19150616-TEXHOU-TEXWAC-0,,,Ogle,,b08,p
 Texas League,TEXWAC,Waco,1915-DMN,19150620-TEXGAL-TEXWAC-0,,,Ogle,,b09,p
 Texas League,TEXWAC,Waco,1915-DMN,19150623-TEXSAN-TEXWAC-0,,,Ogle,,a09,p
 Texas League,TEXWAC,Waco,1915-DMN,19150628-TEXGAL-TEXWAC-0,,,Ogle,,a08,p
-Texas League,TEXWAC,Waco,1915-DMN,19150425-TEXSHR-TEXWAC-0,,,Ogles,,a08,p
-Texas League,TEXWAC,Waco,1915-DMN,19150527-TEXDAL-TEXWAC-2,,,Ogles,,a08,p
-Texas League,TEXWAC,Waco,1915-DMN,19150530-TEXFTW-TEXWAC-2,,,Ogles,,a08,p
+Texas League,TEXWAC,Waco,1915-DMN,19150425-TEXSHR-TEXWAC-0,Ogle,,Ogles,,a08,p
+Texas League,TEXWAC,Waco,1915-DMN,19150527-TEXDAL-TEXWAC-2,Ogle,,Ogles,,a08,p
+Texas League,TEXWAC,Waco,1915-DMN,19150530-TEXFTW-TEXWAC-2,Ogle,,Ogles,,a08,p
 Texas League,TEXWAC,Waco,1915-DMN,19150408-TEXFTW-TEXWAC-0,,,Pursell,,b09,p
 Texas League,TEXWAC,Waco,1915-DMN,19150414-TEXSHR-TEXWAC-0,,,Pursell,,b08,p
 Texas League,TEXWAC,Waco,1915-DMN,19150408-TEXFTW-TEXWAC-0,,,Reilly,,b07,c
@@ -6618,7 +6618,7 @@ Texas League,TEXWAC,Waco,1915-DMN,19150627-TEXBEA-TEXWAC-0,,,Tanner,,a00,ss
 Texas League,TEXWAC,Waco,1915-DMN,19150630-TEXGAL-TEXWAC-0,,,Tanner,,a09,ph
 Texas League,TEXWAC,Waco,1915-DMN,19150701-TEXGAL-TEXWAC-0,,,Tanner,,a09,ph
 Texas League,TEXWAC,Waco,1915-DMN,19150702-TEXHOU-TEXWAC-0,,,Tanner,,a00,ss
-Texas League,TEXWAC,Waco,1915-DMN,19150423-TEXSHR-TEXWAC-0,,,Tannery,,a01,ss
+Texas League,TEXWAC,Waco,1915-DMN,19150423-TEXSHR-TEXWAC-0,Tanner,,Tannery,,a01,ss
 Texas League,TEXWAC,Waco,1915-DMN,19150409-TEXFTW-TEXWAC-0,,,Walters,,b07,c
 Texas League,TEXWAC,Waco,1915-DMN,19150411-TEXDAL-TEXWAC-0,,,Walters,,b08,c
 Texas League,TEXWAC,Waco,1915-DMN,19150412-TEXDAL-TEXWAC-0,,,Walters,,b07,c
@@ -6661,84 +6661,84 @@ Texas League,TEXWAC,Waco,1915-DMN,19150628-TEXGAL-TEXWAC-0,,,Walters,,a00,c
 Texas League,TEXWAC,Waco,1915-DMN,19150629-TEXGAL-TEXWAC-0,,,Walters,,a00,c
 Texas League,TEXWAC,Waco,1915-DMN,19150630-TEXGAL-TEXWAC-0,,,Walters,,a00,c
 Texas League,TEXWAC,Waco,1915-DMN,19150702-TEXHOU-TEXWAC-0,,,Walters,,a04,c
-Texas League,TEXWAC,Waco,1915-DMN,19150529-TEXFTW-TEXWAC-0,,,Wohleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150408-TEXFTW-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150409-TEXFTW-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150412-TEXDAL-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150416-TEXSHR-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150417-TEXDAL-TEXWAC-0,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150418-TEXDAL-TEXWAC-0,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150420-TEXFTW-TEXWAC-0,,,Wohlleben,,a07,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150421-TEXFTW-TEXWAC-0,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150423-TEXSHR-TEXWAC-0,,,Wohlleben,,a06,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150425-TEXSHR-TEXWAC-0,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150426-TEXHOU-TEXWAC-0,,,Wohlleben,,b06,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150427-TEXHOU-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150428-TEXHOU-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150429-TEXSAN-TEXWAC-0,,,Wohlleben,,b06,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150430-TEXSAN-TEXWAC-0,,,Wohlleben,,b06,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150501-TEXSAN-TEXWAC-0,,,Wohlleben,,b06,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150502-TEXGAL-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150503-TEXGAL-TEXWAC-0,,,Wohlleben,,b04,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150504-TEXGAL-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150505-TEXBEA-TEXWAC-0,,,Wohlleben,,b04,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150507-TEXBEA-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150508-TEXFTW-TEXWAC-0,,,Wohlleben,,b04,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150509-TEXFTW-TEXWAC-0,,,Wohlleben,,b04,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150510-TEXFTW-TEXWAC-0,,,Wohlleben,,b04,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150511-TEXGAL-TEXWAC-0,,,Wohlleben,,a04,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150512-TEXGAL-TEXWAC-0,,,Wohlleben,,a04,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150513-TEXGAL-TEXWAC-0,,,Wohlleben,,a04,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150514-TEXHOU-TEXWAC-0,,,Wohlleben,,a04,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150515-TEXHOU-TEXWAC-0,,,Wohlleben,,a04,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150516-TEXHOU-TEXWAC-0,,,Wohlleben,,a04,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150519-TEXBEA-TEXWAC-0,,,Wohlleben,,a11,ph
-Texas League,TEXWAC,Waco,1915-DMN,19150520-TEXSAN-TEXWAC-0,,,Wohlleben,,a10,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150521-TEXSAN-TEXWAC-0,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150522-TEXSAN-TEXWAC-0,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150523-TEXSHR-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150524-TEXSHR-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150525-TEXSHR-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150527-TEXDAL-TEXWAC-1,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150527-TEXDAL-TEXWAC-2,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150528-TEXDAL-TEXWAC-0,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150530-TEXFTW-TEXWAC-1,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150530-TEXFTW-TEXWAC-2,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150531-TEXFTW-TEXWAC-0,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150601-TEXSHR-TEXWAC-0,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150602-TEXSHR-TEXWAC-1,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150602-TEXSHR-TEXWAC-2,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150603-TEXSHR-TEXWAC-0,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150604-TEXDAL-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150605-TEXDAL-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150606-TEXDAL-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150607-TEXSAN-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150608-TEXSAN-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150609-TEXSAN-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150610-TEXSAN-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150611-TEXBEA-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150612-TEXBEA-TEXWAC-1,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150612-TEXBEA-TEXWAC-2,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150613-TEXBEA-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150614-TEXHOU-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150615-TEXHOU-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150616-TEXHOU-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150617-TEXHOU-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150618-TEXGAL-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150619-TEXGAL-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150620-TEXGAL-TEXWAC-0,,,Wohlleben,,b05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150621-TEXSAN-TEXWAC-0,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150622-TEXSAN-TEXWAC-0,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150623-TEXSAN-TEXWAC-0,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150624-TEXSAN-TEXWAC-0,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150625-TEXBEA-TEXWAC-0,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150626-TEXBEA-TEXWAC-0,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150627-TEXBEA-TEXWAC-0,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150628-TEXGAL-TEXWAC-0,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150629-TEXGAL-TEXWAC-0,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150630-TEXGAL-TEXWAC-0,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150701-TEXGAL-TEXWAC-0,,,Wohlleben,,a05,1b
-Texas League,TEXWAC,Waco,1915-DMN,19150702-TEXHOU-TEXWAC-0,,,Wohlleben,,a06,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150529-TEXFTW-TEXWAC-0,Wohllenben,,Wohleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150408-TEXFTW-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150409-TEXFTW-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150412-TEXDAL-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150416-TEXSHR-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150417-TEXDAL-TEXWAC-0,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150418-TEXDAL-TEXWAC-0,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150420-TEXFTW-TEXWAC-0,Wohllenben,,Wohlleben,,a07,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150421-TEXFTW-TEXWAC-0,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150423-TEXSHR-TEXWAC-0,Wohllenben,,Wohlleben,,a06,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150425-TEXSHR-TEXWAC-0,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150426-TEXHOU-TEXWAC-0,Wohllenben,,Wohlleben,,b06,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150427-TEXHOU-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150428-TEXHOU-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150429-TEXSAN-TEXWAC-0,Wohllenben,,Wohlleben,,b06,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150430-TEXSAN-TEXWAC-0,Wohllenben,,Wohlleben,,b06,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150501-TEXSAN-TEXWAC-0,Wohllenben,,Wohlleben,,b06,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150502-TEXGAL-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150503-TEXGAL-TEXWAC-0,Wohllenben,,Wohlleben,,b04,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150504-TEXGAL-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150505-TEXBEA-TEXWAC-0,Wohllenben,,Wohlleben,,b04,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150507-TEXBEA-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150508-TEXFTW-TEXWAC-0,Wohllenben,,Wohlleben,,b04,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150509-TEXFTW-TEXWAC-0,Wohllenben,,Wohlleben,,b04,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150510-TEXFTW-TEXWAC-0,Wohllenben,,Wohlleben,,b04,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150511-TEXGAL-TEXWAC-0,Wohllenben,,Wohlleben,,a04,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150512-TEXGAL-TEXWAC-0,Wohllenben,,Wohlleben,,a04,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150513-TEXGAL-TEXWAC-0,Wohllenben,,Wohlleben,,a04,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150514-TEXHOU-TEXWAC-0,Wohllenben,,Wohlleben,,a04,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150515-TEXHOU-TEXWAC-0,Wohllenben,,Wohlleben,,a04,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150516-TEXHOU-TEXWAC-0,Wohllenben,,Wohlleben,,a04,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150519-TEXBEA-TEXWAC-0,Wohllenben,,Wohlleben,,a11,ph
+Texas League,TEXWAC,Waco,1915-DMN,19150520-TEXSAN-TEXWAC-0,Wohllenben,,Wohlleben,,a10,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150521-TEXSAN-TEXWAC-0,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150522-TEXSAN-TEXWAC-0,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150523-TEXSHR-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150524-TEXSHR-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150525-TEXSHR-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150527-TEXDAL-TEXWAC-1,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150527-TEXDAL-TEXWAC-2,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150528-TEXDAL-TEXWAC-0,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150530-TEXFTW-TEXWAC-1,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150530-TEXFTW-TEXWAC-2,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150531-TEXFTW-TEXWAC-0,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150601-TEXSHR-TEXWAC-0,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150602-TEXSHR-TEXWAC-1,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150602-TEXSHR-TEXWAC-2,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150603-TEXSHR-TEXWAC-0,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150604-TEXDAL-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150605-TEXDAL-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150606-TEXDAL-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150607-TEXSAN-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150608-TEXSAN-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150609-TEXSAN-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150610-TEXSAN-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150611-TEXBEA-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150612-TEXBEA-TEXWAC-1,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150612-TEXBEA-TEXWAC-2,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150613-TEXBEA-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150614-TEXHOU-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150615-TEXHOU-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150616-TEXHOU-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150617-TEXHOU-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150618-TEXGAL-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150619-TEXGAL-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150620-TEXGAL-TEXWAC-0,Wohllenben,,Wohlleben,,b05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150621-TEXSAN-TEXWAC-0,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150622-TEXSAN-TEXWAC-0,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150623-TEXSAN-TEXWAC-0,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150624-TEXSAN-TEXWAC-0,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150625-TEXBEA-TEXWAC-0,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150626-TEXBEA-TEXWAC-0,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150627-TEXBEA-TEXWAC-0,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150628-TEXGAL-TEXWAC-0,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150629-TEXGAL-TEXWAC-0,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150630-TEXGAL-TEXWAC-0,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150701-TEXGAL-TEXWAC-0,Wohllenben,,Wohlleben,,a05,1b
+Texas League,TEXWAC,Waco,1915-DMN,19150702-TEXHOU-TEXWAC-0,Wohllenben,,Wohlleben,,a06,1b
 Texas League,TEXWAC,Waco,1915-DMN,19150410-TEXFTW-TEXWAC-0,,,Wohllenben,,b05,1b
 Texas League,TEXWAC,Waco,1915-DMN,19150411-TEXDAL-TEXWAC-0,,,Wohllenben,,b05,1b
 Texas League,TEXWAC,Waco,1915-DMN,19150413-TEXDAL-TEXWAC-0,,,Wohllenben,,b05,1b
