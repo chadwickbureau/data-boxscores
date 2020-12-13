@@ -2,6 +2,7 @@
 import pathlib
 
 import pandas as pd
+import tabulate
 
 
 def aggregate_players(df: pd.DataFrame) -> pd.DataFrame:
@@ -55,7 +56,59 @@ def aggregate_players(df: pd.DataFrame) -> pd.DataFrame:
             F_RF_G=pd.NamedAgg(column='F_RF_G', aggfunc=sum),
         )
         .reset_index()
+        .sort_values(['team.league', 'team.name', 'last', 'given'],
+                     key=lambda x: x.str.lower())
     )
+
+
+def generate_report_playing(df: pd.DataFrame, year: int) -> pd.DataFrame:
+    outpath = pathlib.Path(f"data/report/{year}")
+    outpath.mkdir(exist_ok=True, parents=True)
+    df = (
+        df.assign(**{
+            'player': lambda x: x['last'] + ", " + x['given']
+        })
+        .rename(columns={
+            'team.league': 'league',
+            'team.name': 'team',
+            'S_FIRST': 'start',
+            'S_LAST': 'end',
+            'B_G': 'G',
+            'F_P_G': 'P',
+            'F_C_G': 'C',
+            'F_1B_G': '1B',
+            'F_2B_G': '2B',
+            'F_3B_G': '3B',
+            'F_SS_G': 'SS',
+            'F_LF_G': 'LF',
+            'F_CF_G': 'CF',
+            'F_RF_G': 'RF'
+        })
+        .replace({0: None})
+        .reindex(columns=['league', 'team', 'player', 'start', 'end', 'G',
+                          'P', 'C', '1B', '2B', 'SS', '3B',
+                          'LF', 'CF', 'RF'])
+    )
+    with open(outpath/"playing_byclub.txt", "w") as f:
+        for ((_league, _team), data) in df.groupby(['league', 'team']):
+            print(
+                tabulate.tabulate(
+                    data,
+                    showindex=False, headers='keys'
+                ),
+                file=f
+            )
+            print(file=f)
+    with open(outpath/"playing_byname.txt", "w") as f:
+        print(
+            tabulate.tabulate(
+                df.sort_values(['player', 'start'],
+                               key=lambda x: x.str.lower()),
+                showindex=False, headers='keys'
+            ),
+            file=f
+        )
+    return df
 
 
 def main(year: int):
@@ -69,5 +122,6 @@ def main(year: int):
             ignore_index=True, sort=False
         )
         .sort_values(['team.league', 'team.name', 'last', 'given'])
+        .pipe(generate_report_playing, year)
         .to_csv(outpath/"playing.csv", index=False, float_format='%d')
     )

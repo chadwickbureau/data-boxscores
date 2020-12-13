@@ -1,0 +1,1139 @@
+date: 1915-06-19
+number: 0
+league: Texas
+away: Beaumont
+home: Dallas
+source: Dallas Morning News, June 20, 1915
+A: 
+
+Beaumont:	ab r h po a e
+(~1.1)Nixon @ cf:	4 0 2 1 0 0
+Schwind @ ss:	3 0 2 3 6 0
+Cooke @ 1b:	4 0 0 8 0 1
+Dodd @ 2b:	4 0 2 1 2 0
+Howard @ rf-cf:	4 0 0 2 1 0
+McMahon @ 3b:	4 1 1 3 0 1
+Clarke @ lf:	3 0 2 1 0 0
+Bobo @ c:	4 0 0 4 2 1
+(~9.1)Swan @ p:	3 1 1 0 2 0
+(~1.2)Robinson @ rf:	1 0 0 1 0 0
+(~9.2)*Frantz @ ph:	1 0 0 0 0 0
+TOTALS:		35 2 10 24 13 3
+
+Dallas:		ab r h po a e
+Harrison @ rf:	4 1 2 2 0 0
+Kellerman @ 2b:	4 1 1 1 2 0
+Crouch @ lf:	4 0 2 1 0 0
+Storch @ cf:	4 0 2 7 0 0
+Ens @ ss:	4 0 1 2 2 0
+Brownlow @ 3b:	4 2 1 0 4 1
+Snedecor @ 1b:	4 1 1 11 1 0
+Dunn @ c:	4 0 1 2 0 0
+Brady @ p:	3 1 1 1 3 0
+TOTALS:		35 6 12 27 12 1
+
+*: batted for Swan in 9th
+
+line: Beaumont: 0 0 1 0 0 1 0 0 0 - 2
+line: Dallas:   2 1 1 0 0 2 0 0 x - 6
+
+B_LOB: Beaumont #8; Dallas #5
+B_ROE: Beaumont #1
+B_ER:  
+B_2B: Clarke #2; Nixon; Kellerman; Ens; Snedecor; Brady
+B_3B: Harrison
+B_HR: 
+B_SB: Schwind
+B_SH: Schwind
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Brady #1
+P_SO: Swan #4; Brady #2
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Ens, Kellerman; Kellerman, Ens, Snedecor
+F_PB: Brady
+outsatend: 
+T: 1:35
+U: McCafferty
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+P_R: 
+
+---
+
+date: 1915-06-19
+number: 0
+league: Texas
+away: Houston
+home: Shreveport
+source: Dallas Morning News, June 20, 1915
+
+Houston:	ab r h po a e
+Mowry @ lf:	4 0 2 0 0 0
+Seitz @ 2b:	4 2 3 4 1 0
+Frierson @ cf:	4 0 2 3 0 0
+McDonald @ 3b:	5 1 1 2 2 0
+Shaw @ rf:	4 0 1 5 1 0
+(~6.1)Dodd @ 1b:	0 0 0 3 0 0	
+(~6.2)Newnam @ 1b:	3 0 1 6 0 1
+Summers @ ss:	5 0 0 2 1 0
+Clark @ c:	3 0 1 7 3 0
+Napier @ p:	4 0 0 0 3 1
+(~6.3)*Davis @ ph:	1 1 0 0 0 0	
+TOTALS:		37 4 11 32 11 2
+
+Shreveport:	ab r h po a e
+Becker @ rf:	5 0 2 2 0 0
+Kneaves @ ss:	3 1 1 5 3 0
+Schrader @ 1b:	5 1 1 11 0 0
+McElveen @ 2b:	5 0 2 3 5 0
+Smith @ c:	5 1 2 3 7 0
+Barr @ cf:	4 0 0 2 0 0
+Rickert @ lf:	5 0 1 5 0 0
+Durkin @ 3b:	5 1 2 2 3 0
+(~9.1)Hendricks @ p:	2 1 1 0 3 1
+(~9.3)Spear @ p:	0 0 0 0 0 0	
+(~9.2)+Toland @ ph:	1 0 0 0 0 0	
+TOTALS:		40 5 12 33 21 1
+
+*: batted for Newnam in 9th
++: bated for Hendricks in 9th
+
+line: Houston:    1 0 0 0 0 1 0 0 2 0 0 - 4
+line: Shreveport: 1 0 1 0 0 0 0 1 1 0 1 - 5
+
+B_LOB: Houston #6; Shreveport #7
+B_ROE: 
+B_ER:  
+B_2B: Seitz; Schrader; McElveen; Rickert; McDonald; Kneaves
+B_3B: Frierson; Becker; McElveen
+B_HR: Hendricks
+B_SB: Mowry
+B_SH: Shaw; Kneaves; Barr
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Napier #2; Hendricks #2; Spear #3
+P_SO: Napier #6; Hendricks #1
+P_H: Hendricks #10; Spear #1
+P_IP: Hendricks #9; Spear #2
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Smith, McElveen; Smith, Schrader; Kneaves, McElveen, Schrader
+F_PB: 
+outsatend: #2
+T: 2:25
+U: Wright
+
+P_GS: ~Hendricks
+P_GF: ~Spear
+P_W: ~Spear
+P_L: ~
+P_SV: ~
+P_R: ~Hendricks #4
+
+---
+
+date: 1915-06-19
+number: 0
+league: Texas
+away: Galveston
+home: Waco
+source: Dallas Morning News, June 20, 1915
+
+Galveston:	ab r h po a e
+Madden @ rf:	3 0 0 0 0 0
+Smith @ ss:	4 0 0 1 4 0
+Johnson @ cf:	3 0 0 2 0 0
+(~4.1)Baerwald @ lf:	2 0 1 1 0 1
+(~4.2)Watson @ lf:	1 0 0 5 0 0
+Sentell @ 2b:	4 0 2 1 6 0
+Tarleton @ 1b:	4 0 0 12 0 1
+Hille @ 3b:	2 0 0 1 3 0
+Dilger @ c:	3 0 1 1 1 0
+Harben @ p:	3 0 0 0 2 0	
+TOTALS:		29 0 4 24 16 2
+
+Waco:		ab r h po a e
+Tanner @ ss:	4 1 2 1 2 0
+Coyle @ cf:	3 1 0 3 0 0
+Crichlow @ lf:	4 0 1 2 1 0
+James @ rf:	3 0 0 1 0 0
+Malmquist @ 2b:	3 0 1 3 2 0
+Wohlleben @ 1b:	3 0 0 8 1 0
+Conwell @ 3b:	3 0 0 1 2 0
+Walters @ c:	3 0 0 7 0 0	
+Hill @ p:	3 0 0 1 2 0
+TOTALS:		29 2 4 27 10 0
+
+*: batted for Barfoot in 8th
++: batted for Tarleton in 9th
+
+line: Galveston: 0 0 0 0 0 0 0 0 0 - 0
+line: Waco:      0 0 1 0 0 1 0 0 x - 2
+
+B_LOB: Galveston #6; Waco #4
+B_ROE: Waco #2
+B_ER:  
+B_2B: Malmquist
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Hill #3; Harben #1
+P_SO: Hill #7; Harben #1
+P_H: 
+P_IP: 
+P_HP: Hill
+P_WP: 
+P_BK: 
+F_DP: Conwell, Malmquist, Wohlleben
+F_PB: 
+outsatend: 
+T: 1:28
+U: Miller
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+P_R: 
+
+---
+
+date: 1915-06-19
+number: 0
+league: Texas
+away: San Antonio
+home: Fort Worth
+source: Dallas Morning News, June 20, 1915
+
+San Antonio:	ab r h po a e
+Baggan @ lf:	4 0 0 2 0 0
+Odell @ 3b:	4 0 1 0 3 0
+Balenti @ ss:	4 0 0 3 3 0
+Burch @ 1b:	3 0 2 12 3 0
+Tullos @ 2b:	2 0 0 1 3 0
+Love @ cf:	3 0 1 0 0 0
+Harber @ rf:	3 0 0 2 0 0
+Hauenstein @ c:	3 0 1 3 0 0
+(~9.1)Ponder @ p:	2 0 0 1 1 0
+(~9.3)Crum @ p:	0 0 0 0 1 0
+(~9.2)+Munsell @ ph:	1 0 0 0 0 0	
+TOTALS:		29 0 5 24 14 0
+
+Fort Worth:	ab r h po a e
+Harper @ cf:	3 1 1 4 0 0
+Atz @ 2b:	3 0 1 2 1 0
+McIver @ rf:	4 0 0 4 0 0
+Hunter @ 1b:	3 0 0 7 1 0
+Lee @ 3b:	2 1 0 3 0 0
+McChesney @ lf: 3 0 1 2 2 0
+McMurray @ c:	2 0 0 3 0 0
+Stow @ ss:	4 0 1 0 2 0
+Kerr @ p:	3 1 1 2 2 0
+TOTALS:		27 3 5 27 8 0
+
+*: batted for Ponder in 8th
+
+line: San Antonio: 0 0 0 0 0 0 0 0 0 - 0
+line: Fort Worth:  0 0 1 0 1 1 0 0 x - 3
+
+B_LOB: 
+B_ROE: 
+B_ER:  
+B_2B: Burch
+B_3B: 
+B_HR: 
+B_SB: McIver; Hunter #2; McMurray; Stow #2
+B_SH: Tullos; McChesney; Lee
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Ponder #4; Crum #2; Kerr #1
+P_SO: Kerr #2; Ponder #3
+P_H: Ponder #5
+P_IP: Ponder #7; Crum #1
+P_HP: 
+P_WP: Ponder #2
+P_BK: 
+F_DP: McChesney, Hunter
+F_PB: 
+outsatend: 
+T: 1:40
+U: Hayes
+
+P_GS: ~Ponder
+P_GF: ~Crum
+P_W: 
+P_L: ~Ponder
+P_SV: 
+P_R: ~Ponder #3
+
+---
+
+date: 1915-06-19
+number: 0
+league: Middle Texas
+away: Brenham [II]
+home: Bartlett
+source: Austin American, June 20, 1915
+
+Brenham [II]:	ab r h po a e
+Steitler @ ss-p:	4 0 0 0 1 1
+Edmonds @ 1b-2b-p-c:	4 0 1 6 3 3
+Jordan @ 1b-p-3b-rf:	2 0 0 5 3 0
+Alexander @ rf:	1 0 0 0 0 0	
+Erwin @ lf-2b:	2 0 0 0 3 1
+Fagan @ 2b:	1 0 0 0 0 0
+Wessley @ cf:	3 0 1 2 0 0
+Roach @ 3b-1b:	3 0 0 4 2 1
+Gambrell @ p-lf:	2 0 1 2 1 0
+Montague @ c-ss:	3 0 0 2 2 1
+Sellman @ rf-3b:	3 0 2 3 3 1
+TOTALS:		28 0 5 24 18 8
+
+Bartlett:	ab r h po a e
+Davis @ 3b-p:	3 0 0 0 1 1
+Gober @ p-ss-1b:	4 0 0 5 3 0
+Young, R. @ 2b-c:	5 2 5 3 6 0
+Bailey @ lf:	4 1 2 1 1 0
+Young, B. @ 1b-c:	3 1 1 8 1 0
+Brown @ cf:	3 2 1 2 1 0
+Countryman @ rf:	3 2 1 3 0 0 
+Slaughter @ c-ss:	3 2 2 2 2 0
+Naylor @ p-1b-3b:	4 1 3 3 0 0
+TOTALS:		32 11 15 27 15 1
+
+line: Brenham [II]: 0 0 0 0 0 0 0 0 0 - 0
+line: Bartlett:     1 2 0 0 0 3 3 2 x - 11
+
+B_LOB: Bartlett #4; Brenham [II] #4
+B_ROE: Bartlett #3 
+B_ER: Bartlett #4
+B_2B: R. Young #2; Bailey; Countryman; Slaughter; Naylor
+B_3B: Young
+B_HR: 
+B_SB: Edmonds; Davis; Gober; B. Young; Brown; Countryman #2; Slaughter
+B_SH: Slaughter
+B_SF: 
+B_HP: Brown; Davis
+B_XO: 
+P_BB: Gambrell #1; Jordan #1; Steitler #1; Naylor #2
+P_SO: Jordan #1; Naylor #2; Gober #1
+P_H: Gambrell #1; Jordan #5; Edmonds #5; Steitler #4; Naylor #1; Gober #2
+P_IP: Gambrell #.2; Jordan #3.2; Edmonds #2; Steilter #1.1; Naylor #6; Gober #2; Davis #1
+P_HP: Jordan #2
+P_WP: Steitler
+P_BK: 
+F_DP: Jordan, Edmonds; Sellman, Roach; Brown, R. Young, B. Young; Gober, R. Young, B. Young
+F_PB: 
+outsatend: 
+T: 1:35
+U: Utzman; Reid
+
+P_GS: ~Gambrell; ~Naylor
+P_GF: ~Steitler; ~Davis
+P_W: ~Naylor
+P_L: ~Gambrell
+P_SV: 
+P_R: Gambrell #1; Jordan #2; Edmonds #5; Steitler #2
+
+---
+
+date: 1915-06-19
+number: 0
+league: Middle Texas
+away: Belton 
+home: Temple
+source: Austin American, June 20, 1915
+
+Belton:		ab r h po a e
+Hovel @ ss:	5 1 1 2 4 0
+Carey @ 3b:	5 1 2 1 2 1
+Lawson @ 2b:	5 2 2 3 4 0
+Williamson @ rf:	3 1 1 0 1 0
+Kizziar @ 1b:	5 0 0 9 0 0
+Fenner, J. @ cf:	4 2 2 0 0 0
+Fenner, C. @ lf:	4 1 2 2 0 0
+Naylor @ c:	5 1 2 13 0 0
+Gaines @ p:	5 1 2 0 1 0
+TOTALS:		41 10 13 27 12 1
+
+Temple:		ab r h po a e
+Darnaby @ cf:	5 0 3 2 0 1
+Albus @ 2b:	5 0 1 4 1 0
+Showers @ ss:	4 1 1 2 0 1
+Trammell @ 1b:	3 1 2 7 1 0
+Allison @ lf:	4 0 1 2 0 1
+(~6.1)Gordon @ 3b:	4 0 0 1 2 1
+Osborne @ rf:	4 1 0 3 0 1
+Shaffer @ c:	2 2 1 6 1 0
+Graboske @ p:	3 0 0 0 3 0  	
+Angel @ p:	1 0 0 0 0 0
+(~6.2)*Wicks @ ph:	1 1 0 0 0 0	
+TOTALS:		37 6 9 27 14 5
+
+*: batted for Gordon in 9th
+
+line: Belton: 0 2 1 0 0 0 0 0 7 - 10
+line: Temple: 0 0 0 0 0 1 0 0 5 - 6
+
+B_LOB: Temple #4; Belton #4
+B_ROE: Temple #1; Belton #3
+B_ER: Temple #4; Belton #2
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: Carey
+B_SH: C. Fenner
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Graboske #2; Angel #1; Gaines #2
+P_SO: Graboske #2; Angel #2; Gaines #9
+P_H: Graboske #13
+P_IP: Graboske #8.2; Angel #.1
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Naylor, Lawson, Naylor; Trammell, Albus
+F_PB: 
+outsatend: 
+T: 1:50
+U: Reed; Lewis; Wicks
+
+P_GS: ~Graboske
+P_GF: ~Angel
+P_W: 
+P_L: ~Graboske
+P_SV: 
+P_R: Graboske #7; Angel #3
+
+---
+
+date: 1915-06-19
+number: 1
+league: Western Association
+away: Sherman
+home: Fort Smith
+source: Dallas Morning News, June 20, 1915
+
+Sherman:	ab r h po a e
+Weber @ 2b:	4 1 1 3 4 0
+Mathis @ 1b:	3 0 1 12 0 0
+Jansen @ 3b:	2 0 0 2 3 0
+O'Neal @ p:	4 0 0 0 4 1
+Milan @ cf:	3 1 0 1 1 0
+Sorey @ ss:	4 0 0 3 4 0
+Coe @ c:	4 1 3 6 2 0
+(~8.1)Corzine @ lf:	3 0 1 0 0 0
+(~8.2)Sheffield @ lf:	1 0 0 0 0 0
+(~9.1)Ray @ rf:	2 0 1 0 0 0 
+(~9.2)Weeks @ rf:	0 1 0 0 0 0 
+TOTALS:		30 4 7 27 18 1
+
+Fort Smith:	ab r h po a e
+McCarty @ 2b:	3 0 1 4 5 1
+Leininger @ ss:	2 0 0 1 0 0
+Abington @ cf:	4 0 1 1 0 0
+Mosley @ 1b:	2 0 1 13 0 0 
+Jackson @ rf:	3 0 1 1 0 0
+Corgan @ 3b:	4 0 0 0 2 0
+Robison @ lf:	3 0 0 1 0 0
+Felt @ c:	4 0 1 6 1 0
+Zinn @ p:	3 0 0 0 4 0
+TOTALS:		28 0 5 27 12 1
+
+line: Sherman:    0 0 0 0 0 0 0 3 1 - 4
+line: Fort Smith: 0 0 0 0 0 0 0 0 0 - 0
+
+
+B_LOB: Fort Smith #8; Sherman #4
+B_ROE: 
+B_ER:  
+B_2B: Coe; Abington
+B_3B: 
+B_HR: 
+B_SB: Weber; Mathis; Milan; Felt; McCarty
+B_SH: Jansen; Leininger; Jackson; Robison
+B_SF: 
+B_HP: Ray; Milan; Corgan
+B_XO: 
+P_BB: O'Neal #4; Zinn #1
+P_SO: O'Neal #3; Zinn #3
+P_H: 
+P_IP: 
+P_HP: Zinn #2; O'Neal
+P_WP: 
+P_BK: 
+F_DP: Mosley
+F_PB: 
+outsatend: 
+T: 1:34
+U: Pontius
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+P_R: 
+
+---
+
+date: 1915-06-19
+number: 2
+league: Western Association
+away: Sherman
+home: Fort Smith
+source: Dallas Morning News, June 20, 1915
+status: completed early
+
+Sherman:	ab r h po a e
+Weber @ 2b:	2 1 1 3 2 0
+Mathis @ 1b:	2 2 1 7 0 0
+Jansen @ 3b:	2 0 0 0 1 0
+O'Neal @ p:	3 0 0 0 0 0
+Milan @ cf:	4 1 0 3 0 0
+Sorey @ ss:	3 0 2 1 2 0
+Ritter @ c:	3 0 2 5 1 0
+Corzine @ lf:	2 0 1 1 0 0
+Weeks @ rf:	2 0 0 1 0 0
+TOTALS:		23 4 7 21 6 0
+
+Fort Smith:	ab r h po a e
+McCarty @ 2b:	2 1 0 1 3 0
+Leininger @ ss:	2 0 1 2 3 2
+Abington @ cf:	3 0 1 3 0 0
+Mosley @ 1b:	1 0 0 13 0 0
+Jackson @ rf:	3 0 1 1 0 0
+Corgan @ 3b:	3 0 0 0 3 0
+(~8.2)*Hornsby @ ph:	1 0 0 0 0 0	
+(~8.1)Robison @ lf:	2 0 1 1 0 0
+Felt @ c:	3 0 0 0 0 1
+Gorham @ p:	2 0 0 0 6 0
++Herring @ ph:	1 0 0 0 0 0
+TOTALS:		23 1 4 21 15 3
+
+*: batted for Robison in 9th
++: batte for Gorham in 9th
+
+line: Sherman:    0 0 0 0 0 0 0 3 1 - 4
+line: Fort Smith: 0 0 0 0 0 0 0 0 0 - 0
+
+
+B_LOB: Fort Smith #3; Sherman #7
+B_ROE: 
+B_ER:  
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: Milan
+B_SH: Jansen #2; Corzine; Weeks; Mathis; Leininger; Mosley
+B_SF: 
+B_HP: Mathis
+B_XO: 
+P_BB: Gorham #3; O'Neal #2
+P_SO: O'Neal #4
+P_H: 
+P_IP: 
+P_HP: Gorham
+P_WP: Gorham
+P_BK: 
+F_DP: Mosley
+F_PB: 
+outsatend: 
+T: 1:20
+U: Pontius
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+P_R: 
+
+---
+
+date: 1915-06-19
+number: 0
+league: Western Association
+away: McAlester
+home: Tulsa
+source: Dallas Morning News, June 20, 1915
+
+McAlester:	ab r h po a e
+(~1.1)Lawrence @ 3b:	4 0 0 0 1 0
+Reynolds @ 2b:	5 1 1 1 3 0
+Heatley @ lf:	4 0 2 0 0 0
+Besse @ rf:	3 1 1 2 1 0
+Yardley @ cf:	4 0 0 2 0 0 
+McGee @ ss:	4 1 1 3 3 0
+Grady @ 1b:	4 0 0 8 0 0
+(~8.1)Fowler @ c:	3 0 0 7 0 0
+Mickey @ p:	4 1 1 1 0 0
+(~8.2)*Ketter @ ph:	1 0 1 0 0 0	
+(~1.2)+Long @ ph:	1 0 1 0 0 0	
+TOTALS:		37 4 8 24 8 0
+
+Tulsa:		ab r h po a e
+Morris @ 3b:	4 1 2 0 2 1
+Burke @ cf:	4 2 2 0 0 0
+Kelsey @ rf:	4 0 1 2 1 1
+Price @ 1b:	3 0 2 12 1 0
+Moore @ c:	3 1 0 5 1 0
+Hopper @ lf:	3 0 0 4 0 0
+Brady @ ss:	4 1 0 2 1 1
+Payne @ 2b:	3 0 2 1 5 2
+Clements @ p:	4 1 1 1 1 0
+TOTALS:		32 6 10 27 12 5
+
+*: batted for Fowler
++: batted for Lawrence
+
+line: McAlester: 0 1 0 0 0 1 1 1 0 - 4
+line: Tulsa:     0 0 3 1 1 0 1 0 x - 6
+
+B_LOB: McAlester #7; Tulsa #3
+B_ROE: 
+B_ER:  
+B_2B: Price #2; Burke; McGee
+B_3B: 
+B_HR: Mickey; Besse
+B_SB: Morris; Burke; Brady #2
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Mickey #4; Clements #1
+P_SO: Mickey #4; Clements #4
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: Mickey 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:45
+U: Hendley
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+P_R: 
+
+---
+
+date: 1915-06-19
+number: 0
+league: Western Association
+away: Denison
+home: Oklahoma City
+source: Dallas Morning News, June 20, 1915
+A: 
+
+Denison:	ab r h po a e
+Harper @ 2b:	3 2 1 1 1 0
+Brooks @ 3b:	4 1 0 0 2 0
+Merrit @ c:	3 0 0 5 2 0
+Campbell, W. @ lf:	5 0 0 2 0 0 
+Hornsby @ ss:	5 0 2 4 4 1
+Nicholson @ cf:	3 1 3 1 0 0
+Hellman @ 1b:	4 0 0 12 0 0
+Peebles @ rf:	4 0 0 2 0 0
+Campbell, J. @ p:	4 1 2 0 4 0
+TOTALS:		35 5 8 27 13 1
+
+Oklahoma City:	ab r h po a e
+Thompson @ 3b:	3 2 0 1 1 1
+King @ lf:	2 0 2 2 0 0
+Dameron @ 1b:	4 0 2 11 0 0
+Hall @ cf:	2 0 0 0 0 0
+Allen @ rf:	4 0 0 1 0 0
+Kilduff @ ss:	4 0 1 2 4 0	
+Maag @ 2b:	4 0 0 4 4 2
+(~8.1)Sommers @ c:	3 0 0 5 1 0
+Verrett @ p:	4 0 1 1 3 0 
+(~8.2)*Laflambois @ ph:		0 0 0 0 0 0
+TOTALS:		30 2 6 27 13 3
+
+*: batted for Sommers in 9th
+
+line: Denison:       2 0 0 0 0 3 0 0 0 - 5
+line: Oklahoma City: 1 0 1 0 0 0 0 0 0 - 2
+
+B_LOB: Oklahoma City #8; Denison #9
+B_ROE: 
+B_ER: 
+B_2B: Hornsby; Nicholson #2; J. Campbell; Kilduff
+B_3B: 
+B_HR: 
+B_SB: Harper; Brooks; Merrit; King
+B_SH: Harper; Merrit; Nicholson; King
+B_SF: Hall #2
+B_HP: 
+B_XO: 
+P_BB: Verrett #3; J. Campbell #4
+P_SO: Verrett #4; J. Campbell #4
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:50
+U: Womack; Nelson
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+P_R: 
+
+---
+
+date: 1915-06-19
+number: 0
+league: Western Association
+away: Paris
+home: Muskogee
+source: Dallas Morning News, June 20, 1915
+A: 
+
+Paris:		ab r h po a e
+Snapp @ 3b:	5 0 2 1 5 0
+Ellis @ rf:	4 0 1 1 0 0
+Workman @ lf:	3 1 1 2 0 0
+Thomson @ 2b:	4 1 1 2 5 0
+Clark @ cf:	4 0 0 1 0 0
+Crittenden @ c:	4 2 2 3 2 0	
+Hays @ 1b:	4 1 2 13 1 0
+Gross @ ss:	4 0 0 0 0 1
+Phillips @ p:	3 0 0 1 2 1
+Younkman @ p:	1 0 0 0 0 0
+TOTALS:		36 5 9 24 15 2
+
+Muskogee:	ab r h po a e
+(~1.1)Henderson @ cf:	2 0 0 1 0 0
+(~1.2)Herman @ rf:	1 0 0 0 0 0
+Tacke @ 1b:	4 0 0 11 0 0	
+Robison, T. @ lf:	4 0 1 0 0 0
+Palmer @ ss:	4 1 2 4 4 0
+Lipps @ rf-cf:	4 2 2 0 0 0
+Eunick @ 2b:	3 2 2 2 0 1
+Robison, J. @ 3b:	4 1 3 1 3 0	
+Gearhardt @ c:	3 0 1 6 3 0
+Salisbury @ p:	4 0 0 2 2 0
+TOTALS:		33 6 11 27 12 1
+
+line: Paris:    0 1 0 0 0 2 0 2 0 - 5
+line: Muskogee: 0 2 0 3 0 0 0 1 x - 6
+
+B_LOB: Muskogee #8; Paris #6
+B_ROE: 
+B_ER: 
+B_2B: Workman; Snapp; Lipps; Thomson
+B_3B: 
+B_HR: Palmer; Hays; Crittenden #2
+B_SB: J. Robison; Gearhardt
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Salisbury #2
+P_SO: Phillips #3; Salisbury #7
+P_H: Phillips #10; Younkman #1
+P_IP: Phillips #7.1; Younkman #.2
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:36
+U: Spencer
+
+P_GS: ~Phillips
+P_GF: ~Younkman
+P_W: 
+P_L: ~Phillips
+P_SV: 
+P_R: ~Phillips #6
+
+---
+
+date: 1915-06-19
+number: 0
+league: Central Texas
+away: Waxahachie
+home: Terrell
+source: Dallas Morning News, June 20, 1915
+A: 
+
+Waxahachie:	ab r h po a e
+Lester @ rf:	4 0 0 0 0 0 
+Cole @ 2b:	4 0 0 2 1 0
+Gordon @ 3b:	4 2 2 4 2 0
+Crockett @ 1b:	4 0 1 4 0 0
+White, F. @ c:	4 0 0 13 0 1
+Scoggins @ cf:	4 0 1 0 0 0
+Wren @ lf:	4 0 0 0 1 0
+Green @ ss:	3 0 0 1 1 1
+Flowers @ p:	3 1 2 0 1 0
+TOTALS:		34 3 6 24 6 2
+
+Terrell:	ab r h po a e
+Cox @ cf:	2 0 0 2 0 0 
+Griggs @ ss:	3 1 0 0 5 1
+Meason @ 3b:	4 1 1 0 1 0
+(~4.1)White, W. @ rf:	2 1 0 0 0 0
+McMahan @ 1b:	2 0 1 13 0 0
+Palmer @ c:	4 0 1 9 0 0
+McCullum @ lf:	2 0 0 1 0 0	
+Tanner @ 2b:	3 1 1 1 1 0 
+Wilkins @ p:	4 0 0 1 3 0
+(~4.2)*Gilmore @ pr:	0 0 0 0 0 0
+TOTALS:		26 4 4 27 10 1
+
+*: ran for W. White in 3rd
+
+line: Waxahachie: 0 0 0 1 0 1 1 0 0 - 3
+line: Terrell:    3 0 0 1 0 0 0 0 x - 4
+
+B_LOB: Waxahachie #3; Terrell #9
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: McMahan
+B_HR: Gordon #2; Flowers
+B_SB: Crockett; Meason; McCullum #4; Cox; Tanner
+B_SH: McMahan
+B_SF: 
+B_HP: W. White; McCullum
+B_XO: 
+P_BB: Flowers #6
+P_SO: Wilkins #9; Flowers #11
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: Flowers
+P_BK: 
+F_DP: 
+F_PB: Palmer; F. White #3
+outsatend:  
+T: 1:52
+U: Proctor
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+P_R: 
+
+---
+
+date: 1915-06-19
+number: 0
+league: Central Texas
+away: Ennis
+home: Corsicana 
+source: Dallas Morning News, June 20, 1915
+A: 
+
+Ennis:		ab r h po a e
+Tucker @ cf:	4 0 0 0 0 1		
+Barrett @ ss:	3 0 0 2 2 0
+Disharoon @ 2b:	3 0 0 2 1 0
+Wende @ c:	4 0 0 8 0 0 
+Mack @ rf:	3 1 0 2 0 0
+Powell @ lf:	3 0 0 2 0 0
+Leslie @ 1b:	3 0 0 7 1 0
+McKowan @ 3b:	3 0 0 0 1 0
+Harldson @ p:	3 0 0 1 2 1
+TOTALS:		29 1 0 24 7 2
+
+Corsicana:	ab r h po a e
+Shelton @ ss:	3 0 1 1 2 1
+Kerr @ 2b:	3 0 0 2 5 2
+Wakefield @ cf:	3 0 0 1 0 0
+Salm @ lf:	3 0 0 1 0 0
+Edens @ 1b:	3 0 0 12 0 0
+Enlow @ 3b:	3 0 0 2 1 0
+Bradley @ rf:	3 0 2 2 1 0
+Bettison @ c:	3 1 0 5 2 1
+Page @ p:	3 1 1 1 4 2
+TOTALS:		27 2 4 27 15 6
+
+line: Ennis:     0 0 0 0 1 0 0 0 0 - 1
+line: Corsicana: 0 0 0 0 2 0 0 0 x - 2
+
+B_LOB: Corsicana #6; Ennis #3 
+B_ROE: Corsicana #1; Ennis #5 
+B_ER: Corsicana #1
+B_2B: Shelton; Bradley
+B_3B: 
+B_HR: 
+B_SB: Edens #2; Page; McKowan
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Page #1; Harldson #3
+P_SO: Page #5; Harldson #8
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Bradley, Shelton
+F_PB: Bettison
+outsatend: 
+T: 1:35
+U: Estell
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+P_R: 
+
+---
+
+date: 1915-06-19
+number: 0
+league: Central Texas
+away: Mexia 
+home: Kaufman
+source: Dallas Morning News, June 20, 1915
+A: 
+
+Mexia:		ab r h po a e
+Fuller @ 2b:	5 0 1 1 3 1
+White @ 3b:	5 0 1 1 2 0
+Huber @ ss:	4 1 0 3 4 0
+Brown @ rf:	4 0 0 2 0 0
+Hill @ cf:	4 1 3 0 0 1
+Warner @ lf:	4 2 1 1 0 0
+Gober @ 1b:	4 2 1 13 0 0
+Scott @ c:	2 0 0 6 1 0
+Horton @ p:	4 0 2 0 1 1
+TOTALS:		36 6 9 27 11 3
+
+Kaufman:	ab r h po a e
+Myers @ cf:	3 1 0 2 0 1	
+Hooper @ 3b:	3 0 0 0 1 1
+Bourland @ 2b:	2 0 0 1 3 0
+Mullins @ c:	4 0 0 6 1 1
+Wingo @ 1b:	4 0 0 12 0 0
+Gilpin @ rf:	4 0 0 1 1 0
+Densmore @ lf-ss:	2 0 0 2 1 1
+(~8.1)Couch @ ss:	2 0 0 2 3 1
+Darnell @ p:	3 0 1 1 1 0
+(~8.2)Chapman @ lf:	1 0 0 0 0 0	
+TOTALS:		28 1 27 11 5
+
+line: Mexia:   0 0 0 0 2 1 0 0 3 - 6
+line: Kaufman: 1 0 0 0 0 0 0 0 0 - 1
+
+B_LOB: Kaufman #5; Mexia #4
+B_ROE: 
+B_ER: Kaufman #1; Mexia #2
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: Scott
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Darnell #2; Horton #4
+P_SO: Darnell #4; Horton #6
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: Horton
+P_BK: 
+F_DP: Huber, Gober
+F_PB: 
+outsatend:  
+T: 1:45
+U: Phillips
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+P_R: 
+
+---
+
+date: 1915-06-19
+number: 0
+league: Dallas City
+away: Texas Drug
+home: Western Union
+source: Dallas Morning News, June 20, 1915
+
+Texas Drug:	ab r h po a e
+Staaden @ 1b:	5 1 0 14 0 1
+Wisdom @ cf:	4 1 0 1 0 0
+Self @ 2b:	4 0 1 0 3 1
+Cade @ ss: 	4 1 3 0 2 0
+Mayes @ 3b:	4 0 1 1 1 0
+Strong @ c:	4 1 0 3 1 0
+(~7.1)Glass @ lf:	2 0 0 1 0 2
+Harris @ rf:	4 1 1 4 0 0
+Butler @ p:	4 0 0 0 6 0
+(~7.2)Dowd @ lf:	1 0 0 0 0 0		
+TOTALS:		36 5 6 24 13 4
+
+Western Union:	ab r h po a e
+Rayfield @ 2b:	5 0 1 3 2 0	
+Anderson @ ss-lf:	5 0 0 0 3 2	
+Mansnerius @ 3b:	5 1 1 1 1 1
+Irvin @ lf-ss:	4 1 1 1 0 0
+Strawbridge @ c:	4 1 1 12 0 1
+Byrum @ p:	4 1 1 1 4 0
+Steerman @ 1b:	3 1 1 7 0 2	
+(~8.1)Pritchard @ cf:	3 1 2 1 1 0
+Emerson @ rf:	4 2 3 0 0 0
+(~8.2)Welch @ cf:	1 0 0 1 0 0
+TOTALS:		33 8 11 27 11 6
+
+line: Texas Drug:    0 0 3 0 0 2 0 0 0 - 5
+line: Western Union: 0 2 0 3 2 0 0 1 x - 8
+
+B_LOB: Western Union #6; Texas Drug #5
+B_ROE: Western Union #4; Texas Drug #3
+B_ER: 
+B_2B: Rayfield; Irvin; Emerson; Self; Mayes
+B_3B: Emerson
+B_HR: 
+B_SB: Steerman; Pritchard; Emerson; Cade; Mayes; Strong; Harris; Butler
+B_SH: Steerman
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: 
+P_SO: Byrum #10; Butler #2
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Anderson, Rayfield, Steerman
+F_PB: Strawbridge
+outsatend: 
+T: 2:20
+U: Rucker
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+P_R: 
+
+---
+
+date: 1915-06-19
+number: 0
+league: Dallas City
+away: Home Interurban
+home: Texas Company
+source: Dallas Morning News, June 20, 1915
+status: completed early
+
+Home Interurban:	ab r h po a e
+Bedford @ ss:	4 0 1 2 1 1 
+Bailey @ lf:	4 0 0 1 0 0
+McDonald @ 3b:	3 1 1 3 2 1
+McKay @ 1b:	4 1 1 6 0 0
+Harrison @ 2b:	1 1 0 2 3 0
+Jeffries @ p:	3 1 2 0 1 0
+English @ c:	3 0 1 5 2 0 	
+Allison @ cf:	2 0 0 1 0 0
+Martin @ rf:	2 1 1 1 0 0
+TOTALS:		26 5 7 21 9 2
+
+Texas Company:	ab r h po a e
+Atwell @ ss:	4 0 0 0 1 0
+Nichols @ 2b:	1 1 0 1 3 0
+Byrd @ lf:	2 1 1 0 0 0
+McDaniel @ 1b:	3 0 2 6 1 0
+Karnes @ 3b:	3 0 0 1 1 1
+Wood @ p-cf:	3 0 0 1 0 0
+Walker @ rf:	3 2 1 1 0 0
+Alexander @ c:	2 0 0 11 1 0
+Waggoner @ p-cf:	3 0 1 0 0 0
+TOTALS:		24 4 5 21 7 1
+
+line: Home Interurban: 0 2 2 1 0 0 0 - 5
+line: Texas Company:   1 1 1 0 0 0 1 - 4
+
+B_LOB: Home Interurban #4; Texas Company #3
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: 
+B_HR: 
+B_SB: Bedford; McDonald #3; McKay #2; Harrison #2; Jeffries; English; Martin #2 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Jeffries #2; Waggoner #4
+P_SO: Jeffries #5; Waggoner #8; Wood #2
+P_H: 
+P_IP: Waggoner #5; Wood #2
+P_HP: Waggoner
+P_WP: 
+P_BK: 
+F_DP: Atwell, Nichols, McDaniel
+F_PB: 
+outsatend: 
+T: 1:25
+U: Martin
+
+P_GS: ~Waggoner
+P_GF: ~Wood
+P_W: 
+P_L: ~Waggoner
+P_SV: 
+P_R: ~Waggoner #5
+
+---
+
+date: 1915-06-19
+number: 0
+league: Dallas City
+away: Brown Cracker
+home: Farm & Ranch
+status: postponed
+status-reason: Farm & Ranch did not have enough players
+source: Dallas Morning News, June 20, 1915
+

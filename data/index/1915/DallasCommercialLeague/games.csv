@@ -17,3 +17,6 @@ key,league,date,number,source,team1.name,team1.align,team1.score,team2.name,team
 19150529-DCMTPL-DCMTXP-0,Dallas Commercial League,1915-05-29,0,1915-DMN,Texas & Pacific,a,4,Texas Power & Light,h,10,final,
 19150605-DCMPOS-DCMSGE-0,Dallas Commercial League,1915-06-05,0,1915-DMN,Southwest General Electric,a,11,Post Office,h,7,completed early,due to darkness and windstorm
 19150605-DCMTPL-DCMTXP-0,Dallas Commercial League,1915-06-05,0,1915-DMN,Texas & Pacific,a,12,Texas Power & Light,h,10,final,
+19150612-DCMMAG-DCMTPL-0,Dallas Commercial League,1915-06-12,0,1915-DMN,Texas Power & Light,a,1,Magnolia,h,3,final,
+19150612-DCMMKT-DCMPOS-0,Dallas Commercial League,1915-06-12,0,1915-DMN,Post Office,a,15,M K & T Railroad,h,5,completed early,darkness
+19150612-DCMSGE-DCMTXP-0,Dallas Commercial League,1915-06-12,0,1915-DMN,Texas & Pacific,a,0,Southwest General Electric,h,1,final,

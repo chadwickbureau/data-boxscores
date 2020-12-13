@@ -92,6 +92,15 @@ def parse_league(game: dict, value: str):
         team['league'] = value
 
 
+def parse_status(game: dict, value: str):
+    if "," in value:
+        game['data']['status_code'], game['data']['status_reason'] = (
+            (x.strip() for x in value.split(","))
+        )
+    else:
+        game['data']['status_code'] = value
+
+
 def parse_team(game: dict, align: int, value: str):
     game['teams'][align]['name'] = value
 
@@ -124,7 +133,7 @@ def extract_pairs(text: str):
 
 def parse_game(text: str) -> dict:
     game = {
-        "data": {},
+        "data": {'date': None, 'number': None, 'status_code': "final"},
         "teams": [
             {'alignment': "away", 'name': None, 'league': None,
              'players': []},
@@ -137,6 +146,7 @@ def parse_game(text: str) -> dict:
         'date': parse_date,
         'number': parse_number,
         'league': parse_league,
+        'status': parse_status,
         'T': parse_duration,
         'U': parse_umpires,
         'away': lambda g, val: parse_team(g, 0, val),
@@ -157,9 +167,8 @@ def parse_game(text: str) -> dict:
             fn(game, v)
     except StopIteration:
         pass
-    if game['teams'][0]['name'] is None or game['teams'][1]['name'] is None:
-        print(f"WARNING: Missing team")
-        print(f"{game['data']['date']} {game['teams'][0]['name']} at {game['teams'][1]['name']}")
+    print(f"{game['data']['date']}#{game['data']['number']} "
+          f"{game['teams'][0]['name']} at {game['teams'][1]['name']}")
     return game
 
 
@@ -199,7 +208,9 @@ def index_games(games: list, source: str) -> pd.DataFrame:
           'season': game['data']['season'],
           'date': game['data']['date'],
           'number': game['data']['number'],
-          'league': game['data']['league']}
+          'league': game['data']['league'],
+          'status_code': game['data']['status_code'],
+          'status_reason': game['data'].get('status_reason', None)}
          for (i, game) in enumerate(games)]
     )
     return df
@@ -275,6 +286,32 @@ def identify_games(df: pd.DataFrame, teams: pd.DataFrame) -> pd.DataFrame:
     )
 
 
+def update_game_index(path: pathlib.Path,
+                      source: str, league: str,
+                      df: pd.DataFrame) -> pd.DataFrame:
+    """Update the game index for league with data from source."""
+    league = league.replace(" ", "").replace("-", "")
+    (path/league).mkdir(exist_ok=True, parents=True)
+    dfcols = ['key', 'league', 'date', 'number', 'source',
+              'team1.name', 'team1.align', 'team1.score',
+              'team2.name', 'team2.align', 'team2.score',
+              'status_code', 'status_reason']
+
+    try:
+        index = pd.read_csv(path/league/"games.csv", usecols=dfcols).fillna("")
+    except FileNotFoundError:
+        index = pd.DataFrame(columns=dfcols)
+    index = (
+        pd.concat([index.query(f"source != '{source}'"), df],
+                  ignore_index=True, sort=False)
+        .reindex(columns=dfcols)
+        .fillna("")
+        .sort_values(['league', 'key'])
+    )
+    index.to_csv(path/league/"games.csv", index=False, float_format='%d')
+    return index
+
+
 def update_player_index(path: pathlib.Path,
                         source: str, league: str,
                         df: pd.DataFrame) -> pd.DataFrame:
@@ -335,7 +372,9 @@ def main(source: str):
     games_teams = index_teams(data).pipe(identify_teams, year)
     # games_teams.to_csv("games_teams.csv", index=False, float_format='%d')
     games = index_games(data, source).pipe(identify_games, games_teams)
-    # games.to_csv("games.csv", index=False, float_format='%d')
+    for (league, group) in games.groupby('league'):
+        print(f"Writing {len(group):5d} games for {league}")
+        update_game_index(outpath, source, league, group)
     players = (
         index_players(data).pipe(identify_teams, year)
         .merge(games[['game.id', 'source', 'key']], how='left', on='game.id')

@@ -18,3 +18,8 @@ key,league,date,number,source,team1.name,team1.align,team1.score,team2.name,team
 19150605-DCTBRN-DCTINT-0,Dallas City League,1915-06-05,0,1915-DMN,Brown Cracker,a,3,Home Interurban,h,2,completed early,
 19150605-DCTDRG-DCTTXC-0,Dallas City League,1915-06-05,0,1915-DMN,Texas Drug,a,7,Texas Company,h,5,completed early,
 19150605-DCTFRM-DCTINT-0,Dallas City League,1915-06-05,0,1915-DMN,Farm & Ranch,a,1,Home Interurban,h,7,completed early,
+19150612-DCTBRN-DCTWUN-0,Dallas City League,1915-06-12,0,1915-DMN,Western Union,a,3,Brown Cracker,h,7,final,
+19150612-DCTDRG-DCTINT-0,Dallas City League,1915-06-12,0,1915-DMN,Home Interurban,a,4,Texas Drug,h,1,final,
+19150619-DCTBRN-DCTFRM-0,Dallas City League,1915-06-19,0,1915-DMN,Brown Cracker,a,,Farm & Ranch,h,,postponed,
+19150619-DCTDRG-DCTWUN-0,Dallas City League,1915-06-19,0,1915-DMN,Texas Drug,a,5,Western Union,h,8,final,
+19150619-DCTINT-DCTTXC-0,Dallas City League,1915-06-19,0,1915-DMN,Home Interurban,a,5,Texas Company,h,4,completed early,
