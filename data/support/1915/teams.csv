@@ -1,0 +1,162 @@
+﻿team.league,team.name,team.key
+American Association,Cleveland,AMSCLE
+American Association,Columbus,AMSCOL
+American Association,Indianapolis,AMSIND
+American Association,Kansas City,AMSKAN
+American Association,Louisville,AMSLOU
+American Association,Milwaukee,AMSMIL
+American Association,Minneapolis,AMSMIN
+American Association,St. Paul,AMSSTP
+Blue Ridge League,Chambersburg,BLRCHA
+Blue Ridge League,Frederick,BLRFRE
+Blue Ridge League,Gettysburg,BLRGET
+Blue Ridge League,Hagerstown,BLRHAG
+Blue Ridge League,Hanover,BLRHAN
+Blue Ridge League,Martinsburg,BLRMAR
+Buckeye League,Akron,BUCAKR
+Buckeye League,Canton,BUCCAN
+Buckeye League,Findlay,BUCFIN
+Buckeye League,Lima,BUCLIM
+Buckeye League,Marion,BUCMAR
+Buckeye League,Newark,BUCNEW
+California Winter League,Chicago,CWLCHI
+California Winter League,Cline-Cline,CWLCCL
+California Winter League,Reach All Stars,CWLREA
+California Winter League,San Bernardino,CWLSBR
+California Winter League,San Diego,CWLSDG
+Central Texas League,Corsicana,CTXCOR
+Central Texas League,Ennis,CTXENN
+Central Texas League,Kaufman,CTXKAU
+Central Texas League,Mexia,CTXMEX
+Central Texas League,Terrell,CTXTER
+Central Texas League,Waxahachie,CTXWAX
+Colonial League,Brockton,COLBRO
+Colonial League,Fall River,COLFAL
+Colonial League,Hartford,COLHAR
+Colonial League,New Bedford,COLNBD
+Colonial League,New Haven,COLNHV
+Colonial League,Pawtucket,COLPAW
+Colonial League,Springfield,COLSPR
+Colonial League,Taunton,COLTAU
+Dallas Bankers League,American Exchange,DBLAMX
+Dallas Bankers League,City Nationals,DBLCNA
+Dallas Bankers League,First State,DBLFIR
+Dallas Bankers League,Security,DBLSEC
+Dallas City League,Brown Cracker,DCTBRN
+Dallas City League,Farm & Ranch,DCTFRM
+Dallas City League,Home Interurban,DCTINT
+Dallas City League,Texas Company,DCTTXC
+Dallas City League,Texas Drug,DCTDRG
+Dallas City League,Western Union,DCTWUN
+Dallas Commercial League,M K & T Railroad,DCMMKT
+Dallas Commercial League,Magnolia,DCMMAG
+Dallas Commercial League,Post Office,DCMPOS
+Dallas Commercial League,Southwest General Electric,DCMSGE
+Dallas Commercial League,Texas & Pacific,DCMTXP
+Dallas Commercial League,Texas Power & Light,DCMTPL
+Eastern North Carolina League,Albemarle,ENCALB
+Eastern North Carolina League,Lumberton,ENCLUM
+Eastern North Carolina League,Red Springs,ENCRED
+Florida-Alabama-Georgia League,Americus,FLGAME
+Florida-Alabama-Georgia League,Brunswick,FLGBRU
+Florida-Alabama-Georgia League,Dothan,FLGDOT
+Florida-Alabama-Georgia League,Gainesville,FLGGAI
+Florida-Alabama-Georgia League,Orphans,FLGORP
+Florida-Alabama-Georgia League,Thomasville,FLGTHO
+Florida-Alabama-Georgia League,Valdosta,FLGVAL
+Florida-Alabama-Georgia League,Waycross,FLGWAY
+International League,Buffalo,INTBUF
+International League,Jersey City,INTJER
+International League,Montreal,INTMON
+International League,Newark,INTNEW
+International League,Providence,INTPRO
+International League,Richmond,INTRIC
+International League,Rochester,INTROC
+International League,Toronto,INTTOR
+Middle Texas League,Austin,MTXAUS
+Middle Texas League,Bartlett,MTXBAR
+Middle Texas League,Belton,MTXBEL
+Middle Texas League,Brenham [I],MTXBR1
+Middle Texas League,Brenham [II],MTXBR2
+Middle Texas League,Schulenburg,MTXSCH
+Middle Texas League,Taylor,MTXTAY
+Middle Texas League,Temple,MTXTEM
+New York State League,Albany,NYSALB
+New York State League,Binghamton,NYSBIN
+New York State League,Elmira,NYSELM
+New York State League,Scranton,NYSSCR
+New York State League,Syracuse,NYSSYR
+New York State League,Troy,NYSTRO
+New York State League,Utica,NYSUTI
+New York State League,Wilkes-Barre,NYSWLB
+North Carolina State League,Asheville,NCSASH
+North Carolina State League,Charlotte,NCSCLT
+North Carolina State League,Durham,NCSDUR
+North Carolina State League,Greensboro,NCSGBO
+North Carolina State League,Raleigh,NCSRAL
+North Carolina State League,Winston-Salem,NCSWNS
+Northern League,Duluth,NORDUL
+Northern League,Fargo-Moorhead,NORFAR
+Northern League,Fort William-Port Arthur,NORFTW
+Northern League,Grand Forks,NORGRF
+Northern League,St. Boniface,NORSTB
+Northern League,Superior,NORSUP
+Northern League,Virginia,NORVIR
+Northern League,Winnipeg,NORWPG
+Rio Grande Association,Albuquerque,RIOALB
+Rio Grande Association,Douglas,RIODOU
+Rio Grande Association,El Paso,RIOELP
+Rio Grande Association,Las Cruces,RIOLAC
+Rio Grande Association,Phoenix,RIOPHX
+Rio Grande Association,Tucson,RIOTUC
+South Atlantic League,Albany,SALALB
+South Atlantic League,Augusta,SALAUG
+South Atlantic League,Charleston,SALCHA
+South Atlantic League,Columbia,SALCBA
+South Atlantic League,Columbus,SALCBS
+South Atlantic League,Jacksonville,SALJAX
+South Atlantic League,Macon,SALMAC
+South Atlantic League,Savannah,SALSAV
+Southern Association,Atlanta,SOAATL
+Southern Association,Birmingham,SOABIR
+Southern Association,Chattanooga,SOACNG
+Southern Association,Little Rock,SOALRK
+Southern Association,Memphis,SOAMEM
+Southern Association,Mobile,SOAMOB
+Southern Association,Nashville,SOANVL
+Southern Association,New Orleans,SOANOR
+Texas League,Beaumont,TEXBEA
+Texas League,Dallas,TEXDAL
+Texas League,Fort Worth,TEXFTW
+Texas League,Galveston,TEXGAL
+Texas League,Houston,TEXHOU
+Texas League,San Antonio,TEXSAN
+Texas League,Shreveport,TEXSHR
+Texas League,Waco,TEXWAC
+Virginia League,Newport News,VIRNEW
+Virginia League,Norfolk,VIRNOR
+Virginia League,Orphans,VIRORP
+Virginia League,Petersburg,VIRPET
+Virginia League,Portsmouth,VIRPOR
+Virginia League,Rocky Mount,VIRRMT
+Virginia League,Suffolk,VIRSUF
+Western Association,Denison,WSADEN
+Western Association,Fort Smith,WSAFTS
+Western Association,McAlester,WSAMCA
+Western Association,Muskogee,WSAMUS
+Western Association,Oklahoma City,WSAOKC
+Western Association,Paris,WSAPAR
+Western Association,Sherman,WSASHE
+Western Association,Tulsa,WSATUL
+Western League,Denver,WESDEN
+Western League,Des Moines,WESDMN
+Western League,Lincoln,WESLIN
+Western League,Omaha,WESOMA
+Western League,Sioux City,WESSXC
+Western League,St. Joseph,WESSTJ
+Western League,Topeka,WESTOP
+Western League,Wichita,WESWIC
+Western North Carolina League,Gastonia,WNCGAS
+Western North Carolina League,Lenoir,WNCLEN
+Western North Carolina League,Morganton,WNCMOR
+Western North Carolina League,Statesville,WNCSTA

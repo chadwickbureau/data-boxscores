@@ -1,0 +1,27 @@
+key,league,date,number,source,team1.name,team1.align,team1.score,team2.name,team2.align,team2.score,status_code,status_reason
+19151106-CWLCCL-CWLSBR-0,California Winter League,1915-11-06,0,1915-SBN,Cline-Cline,a,,San Bernardino,h,,postponed,rain
+19151106-CWLCHI-CWLSDG-0,California Winter League,1915-11-06,0,1915-SDU,Chicago,a,4,San Diego,h,7,final,
+19151107-CWLCCL-CWLSBR-0,California Winter League,1915-11-07,0,1915-SBN,Cline-Cline,a,,San Bernardino,h,,postponed,rain
+19151107-CWLCHI-CWLSDG-0,California Winter League,1915-11-07,0,1915-SDU,Chicago,a,2,San Diego,h,6,final,
+19151113-CWLCCL-CWLCHI-0,California Winter League,1915-11-13,0,1915-SDU,Cline-Cline,a,0,Chicago,h,4,final,
+19151113-CWLSBR-CWLSDG-0,California Winter League,1915-11-13,0,1915-SBN,San Diego,a,9.0,San Bernardino,h,3.0,final,
+19151114-CWLCCL-CWLCHI-0,California Winter League,1915-11-14,0,1915-SDU,Cline-Cline,a,6,Chicago,h,0,final,
+19151114-CWLSBR-CWLSDG-0,California Winter League,1915-11-14,0,1915-SBN,San Diego,a,3.0,San Bernardino,h,5.0,final,
+19151120-CWLCCL-CWLSDG-0,California Winter League,1915-11-20,0,1915-SDU,Cline-Cline,a,5,San Diego,h,6,final,
+19151120-CWLCHI-CWLSBR-0,California Winter League,1915-11-20,0,1915-SBN,Chicago,a,6.0,San Bernardino,h,3.0,final,
+19151121-CWLCCL-CWLSDG-0,California Winter League,1915-11-21,0,1915-SDU,Cline-Cline,a,0,San Diego,h,9,final,
+19151121-CWLCHI-CWLSBR-0,California Winter League,1915-11-21,0,1915-SBN,Chicago,a,1.0,San Bernardino,h,6.0,final,
+19151125-CWLCHI-CWLSDG-0,California Winter League,1915-11-25,0,1915-SDU,Chicago,a,4,San Diego,h,0,final,
+19151127-CWLCHI-CWLSDG-0,California Winter League,1915-11-27,0,1915-SDU,Chicago,a,3,San Diego,h,2,final,
+19151128-CWLCCL-CWLSBR-0,California Winter League,1915-11-28,0,1915-SBN,Cline-Cline,a,1.0,San Bernardino,h,6.0,final,
+19151128-CWLCHI-CWLSDG-0,California Winter League,1915-11-28,0,1915-SDU,Chicago,a,7,San Diego,h,3,final,
+19151205-CWLCCL-CWLCHI-0,California Winter League,1915-12-05,0,1915-SBN,Chicago,a,17.0,Cline-Cline,h,5.0,completed early,darkness
+19151205-CWLSBR-CWLSDG-0,California Winter League,1915-12-05,0,1915-SBN,San Bernardino,a,6.0,San Diego,h,0.0,final,
+19151211-CWLCCL-CWLSDG-0,California Winter League,1915-12-11,0,1915-SDU,Cline-Cline,a,2,San Diego,h,5,final,
+19151211-CWLREA-CWLSBR-0,California Winter League,1915-12-11,0,1915-SBN,Reach All Stars,a,3.0,San Bernardino,h,1.0,final,
+19151212-CWLCCL-CWLSDG-0,California Winter League,1915-12-12,0,1915-SDU,Cline-Cline,a,2,San Diego,h,7,final,
+19151212-CWLCHI-CWLSBR-0,California Winter League,1915-12-12,0,1915-SBN,Chicago,a,3.0,San Bernardino,h,8.0,final,
+19151218-CWLCHI-CWLSDG-0,California Winter League,1915-12-18,0,1915-SDU,Chicago,a,7,San Diego,h,6,final,
+19151219-CWLCHI-CWLSDG-0,California Winter League,1915-12-19,0,1915-SDU,Chicago,a,7,San Diego,h,3,final,
+19151225-CWLCHI-CWLSDG-0,California Winter League,1915-12-25,0,1915-SDU,Chicago,a,4,San Diego,h,3,final,
+19151226-CWLCHI-CWLSDG-0,California Winter League,1915-12-26,0,1915-SDU,Chicago,a,3,San Diego,h,2,final,

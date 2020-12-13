@@ -1,0 +1,837 @@
+team.league,team.key,team.name,source,key,gloss.name.last,gloss.name.first,person.name.last,person.name.first,person.seq,pos
+Southern Association,SOAATL,Atlanta,1915-SL,19150415-SOAATL-SOANOR-0,,,Allen,,b08,p
+Southern Association,SOAATL,Atlanta,1915-SL,19150419-SOAATL-SOAMOB-0,,,Allen,,a08,p
+Southern Association,SOAATL,Atlanta,1915-SL,19150413-SOAATL-SOAMOB-0,,,Bisland,,a01,ss
+Southern Association,SOAATL,Atlanta,1915-SL,19150414-SOAATL-SOANOR-0,,,Bisland,,b01,ss
+Southern Association,SOAATL,Atlanta,1915-SL,19150415-SOAATL-SOANOR-0,,,Bisland,,b01,ss
+Southern Association,SOAATL,Atlanta,1915-SL,19150416-SOAATL-SOANOR-0,,,Bisland,,b03,ss
+Southern Association,SOAATL,Atlanta,1915-SL,19150417-SOAATL-SOANOR-0,,,Bisland,,b03,ss
+Southern Association,SOAATL,Atlanta,1915-SL,19150418-SOAATL-SOAMOB-0,,,Bisland,,a04,ss
+Southern Association,SOAATL,Atlanta,1915-SL,19150419-SOAATL-SOAMOB-0,,,Bisland,,a04,ss
+Southern Association,SOAATL,Atlanta,1915-SL,19150420-SOAATL-SOAMOB-0,,,Bisland,,a04,ss
+Southern Association,SOAATL,Atlanta,1915-SL,19150421-SOAATL-SOABIR-0,,,Bisland,,a04,ss
+Southern Association,SOAATL,Atlanta,1915-SL,19150422-SOAATL-SOABIR-0,,,Bisland,,a04,ss
+Southern Association,SOAATL,Atlanta,1915-SL,19150423-SOAATL-SOABIR-0,,,Bisland,,a04,ss
+Southern Association,SOAATL,Atlanta,1915-SL,19150413-SOAATL-SOAMOB-0,,,Bowden,,a00,lf
+Southern Association,SOAATL,Atlanta,1915-SL,19150414-SOAATL-SOANOR-0,,,Bowden,,b00,lf
+Southern Association,SOAATL,Atlanta,1915-SL,19150415-SOAATL-SOANOR-0,,,Bowden,,b00,lf
+Southern Association,SOAATL,Atlanta,1915-SL,19150416-SOAATL-SOANOR-0,,,Bowden,,b06,lf
+Southern Association,SOAATL,Atlanta,1915-SL,19150417-SOAATL-SOANOR-0,,,Bowden,,b06,lf
+Southern Association,SOAATL,Atlanta,1915-SL,19150418-SOAATL-SOAMOB-0,,,Bowden,,a00,lf
+Southern Association,SOAATL,Atlanta,1915-SL,19150419-SOAATL-SOAMOB-0,,,Bowden,,a00,lf
+Southern Association,SOAATL,Atlanta,1915-SL,19150420-SOAATL-SOAMOB-0,,,Bowden,,a00,lf
+Southern Association,SOAATL,Atlanta,1915-SL,19150421-SOAATL-SOABIR-0,,,Bowden,,a00,lf
+Southern Association,SOAATL,Atlanta,1915-SL,19150422-SOAATL-SOABIR-0,,,Bowden,,a00,lf
+Southern Association,SOAATL,Atlanta,1915-SL,19150423-SOAATL-SOABIR-0,,,Bowden,,a00,lf
+Southern Association,SOAATL,Atlanta,1915-SL,19150415-SOAATL-SOANOR-0,,,Browning,,b10,p
+Southern Association,SOAATL,Atlanta,1915-SL,19150423-SOAATL-SOABIR-0,,,Browning,,a08,p
+Southern Association,SOAATL,Atlanta,1915-SL,19150416-SOAATL-SOANOR-0,,,Dent,,b08,p
+Southern Association,SOAATL,Atlanta,1915-SL,19150422-SOAATL-SOABIR-0,,,Dent,,a08,p
+Southern Association,SOAATL,Atlanta,1915-SL,19150413-SOAATL-SOAMOB-0,,,Eibel,,a02,1b
+Southern Association,SOAATL,Atlanta,1915-SL,19150414-SOAATL-SOANOR-0,,,Eibel,,b02,1b
+Southern Association,SOAATL,Atlanta,1915-SL,19150415-SOAATL-SOANOR-0,,,Eibel,,b02,1b
+Southern Association,SOAATL,Atlanta,1915-SL,19150416-SOAATL-SOANOR-0,,,Eibel,,b02,1b
+Southern Association,SOAATL,Atlanta,1915-SL,19150417-SOAATL-SOANOR-0,,,Eibel,,b02,1b
+Southern Association,SOAATL,Atlanta,1915-SL,19150418-SOAATL-SOAMOB-0,,,Eibel,,a02,1b
+Southern Association,SOAATL,Atlanta,1915-SL,19150419-SOAATL-SOAMOB-0,,,Eibel,,a02,1b
+Southern Association,SOAATL,Atlanta,1915-SL,19150420-SOAATL-SOAMOB-0,,,Eibel,,a02,1b
+Southern Association,SOAATL,Atlanta,1915-SL,19150421-SOAATL-SOABIR-0,,,Eibel,,a02,1b
+Southern Association,SOAATL,Atlanta,1915-SL,19150422-SOAATL-SOABIR-0,,,Eibel,,a05,1b
+Southern Association,SOAATL,Atlanta,1915-SL,19150423-SOAATL-SOABIR-0,,,Eibel,,a05,1b
+Southern Association,SOAATL,Atlanta,1915-SL,19150413-SOAATL-SOAMOB-0,,,Hiett,,a08,p
+Southern Association,SOAATL,Atlanta,1915-SL,19150417-SOAATL-SOANOR-0,,,Hiett,,b08,p
+Southern Association,SOAATL,Atlanta,1915-SL,19150420-SOAATL-SOAMOB-0,,,Hiett,,a08,p
+Southern Association,SOAATL,Atlanta,1915-SL,19150414-SOAATL-SOANOR-0,,,Jenkins,,b07,c
+Southern Association,SOAATL,Atlanta,1915-SL,19150415-SOAATL-SOANOR-0,,,Jenkins,,b09,c
+Southern Association,SOAATL,Atlanta,1915-SL,19150418-SOAATL-SOAMOB-0,,,Jenkins,,a07,c
+Southern Association,SOAATL,Atlanta,1915-SL,19150419-SOAATL-SOAMOB-0,,,Jenkins,,a07,c
+Southern Association,SOAATL,Atlanta,1915-SL,19150420-SOAATL-SOAMOB-0,,,Jenkins,,a07,c
+Southern Association,SOAATL,Atlanta,1915-SL,19150421-SOAATL-SOABIR-0,,,Jenkins,,a07,c
+Southern Association,SOAATL,Atlanta,1915-SL,19150422-SOAATL-SOABIR-0,,,Lee,,a07,rf
+Southern Association,SOAATL,Atlanta,1915-SL,19150423-SOAATL-SOABIR-0,,,Lee,,a07,rf
+Southern Association,SOAATL,Atlanta,1915-SL,19150413-SOAATL-SOAMOB-0,,,Manning,,a04,rf
+Southern Association,SOAATL,Atlanta,1915-SL,19150414-SOAATL-SOANOR-0,,,Manning,,b04,rf
+Southern Association,SOAATL,Atlanta,1915-SL,19150415-SOAATL-SOANOR-0,,,Manning,,b04,rf
+Southern Association,SOAATL,Atlanta,1915-SL,19150416-SOAATL-SOANOR-0,,,Manning,,b04,rf
+Southern Association,SOAATL,Atlanta,1915-SL,19150417-SOAATL-SOANOR-0,,,Manning,,b04,rf
+Southern Association,SOAATL,Atlanta,1915-SL,19150418-SOAATL-SOAMOB-0,,,Manning,,a10,p
+Southern Association,SOAATL,Atlanta,1915-SL,19150421-SOAATL-SOABIR-0,,,Manning,,a09,p
+Southern Association,SOAATL,Atlanta,1915-SL,19150423-SOAATL-SOABIR-0,,,Manning,,a09,ph
+Southern Association,SOAATL,Atlanta,1915-SL,19150413-SOAATL-SOAMOB-0,,,Moran,,a03,cf
+Southern Association,SOAATL,Atlanta,1915-SL,19150414-SOAATL-SOANOR-0,,,Moran,,b03,cf
+Southern Association,SOAATL,Atlanta,1915-SL,19150415-SOAATL-SOANOR-0,,,Moran,,b03,cf
+Southern Association,SOAATL,Atlanta,1915-SL,19150416-SOAATL-SOANOR-0,,,Moran,,b00,cf
+Southern Association,SOAATL,Atlanta,1915-SL,19150417-SOAATL-SOANOR-0,,,Moran,,b00,cf
+Southern Association,SOAATL,Atlanta,1915-SL,19150418-SOAATL-SOAMOB-0,,,Moran,,a03,cf
+Southern Association,SOAATL,Atlanta,1915-SL,19150419-SOAATL-SOAMOB-0,,,Moran,,a03,cf
+Southern Association,SOAATL,Atlanta,1915-SL,19150420-SOAATL-SOAMOB-0,,,Moran,,a03,cf
+Southern Association,SOAATL,Atlanta,1915-SL,19150421-SOAATL-SOABIR-0,,,Moran,,a03,cf
+Southern Association,SOAATL,Atlanta,1915-SL,19150422-SOAATL-SOABIR-0,,,Moran,,a02,cf
+Southern Association,SOAATL,Atlanta,1915-SL,19150423-SOAATL-SOABIR-0,,,Moran,,a02,cf
+Southern Association,SOAATL,Atlanta,1915-SL,19150416-SOAATL-SOANOR-0,,,Niederkorn,,b07,c
+Southern Association,SOAATL,Atlanta,1915-SL,19150417-SOAATL-SOANOR-0,,,Niederkorn,,b10,ph
+Southern Association,SOAATL,Atlanta,1915-SL,19150418-SOAATL-SOAMOB-0,,,Niederkorn,,a09,ph
+Southern Association,SOAATL,Atlanta,1915-SL,19150414-SOAATL-SOANOR-0,,,Pearson,,b08,p
+Southern Association,SOAATL,Atlanta,1915-SL,19150420-SOAATL-SOAMOB-0,,,Pearson,,a09,p
+Southern Association,SOAATL,Atlanta,1915-SL,19150413-SOAATL-SOAMOB-0,,,Potts,,a06,2b
+Southern Association,SOAATL,Atlanta,1915-SL,19150414-SOAATL-SOANOR-0,,,Potts,,b06,2b
+Southern Association,SOAATL,Atlanta,1915-SL,19150415-SOAATL-SOANOR-0,,,Potts,,b06,2b
+Southern Association,SOAATL,Atlanta,1915-SL,19150413-SOAATL-SOAMOB-0,,,Rumler,,a07,c
+Southern Association,SOAATL,Atlanta,1915-SL,19150415-SOAATL-SOANOR-0,,,Rumler,,b07,c
+Southern Association,SOAATL,Atlanta,1915-SL,19150417-SOAATL-SOANOR-0,,,Rumler,,b07,c
+Southern Association,SOAATL,Atlanta,1915-SL,19150418-SOAATL-SOAMOB-0,,,Rumler,,a05,rf
+Southern Association,SOAATL,Atlanta,1915-SL,19150419-SOAATL-SOAMOB-0,,,Rumler,,a05,rf
+Southern Association,SOAATL,Atlanta,1915-SL,19150420-SOAATL-SOAMOB-0,,,Rumler,,a05,rf
+Southern Association,SOAATL,Atlanta,1915-SL,19150421-SOAATL-SOABIR-0,,,Rumler,,a05,rf
+Southern Association,SOAATL,Atlanta,1915-SL,19150422-SOAATL-SOABIR-0,,,Rumler,,a03,c
+Southern Association,SOAATL,Atlanta,1915-SL,19150423-SOAATL-SOABIR-0,,,Rumler,,a03,c
+Southern Association,SOAATL,Atlanta,1915-SL,19150416-SOAATL-SOANOR-0,,,Thompson,,b09,p
+Southern Association,SOAATL,Atlanta,1915-SL,19150417-SOAATL-SOANOR-0,,,Thompson,,b09,p
+Southern Association,SOAATL,Atlanta,1915-SL,19150421-SOAATL-SOABIR-0,,,Thompson,,a08,p
+Southern Association,SOAATL,Atlanta,1915-SL,19150423-SOAATL-SOABIR-0,,,Thompson,,a10,p
+Southern Association,SOAATL,Atlanta,1915-SL,19150413-SOAATL-SOAMOB-0,,,Tullos,,a05,3b
+Southern Association,SOAATL,Atlanta,1915-SL,19150414-SOAATL-SOANOR-0,,,Tullos,,b05,3b
+Southern Association,SOAATL,Atlanta,1915-SL,19150415-SOAATL-SOANOR-0,,,Tullos,,b05,3b
+Southern Association,SOAATL,Atlanta,1915-SL,19150416-SOAATL-SOANOR-0,,,Tullos,,b05,3b
+Southern Association,SOAATL,Atlanta,1915-SL,19150417-SOAATL-SOANOR-0,,,Tullos,,b05,3b
+Southern Association,SOAATL,Atlanta,1915-SL,19150418-SOAATL-SOAMOB-0,,,Tullos,,a06,3b
+Southern Association,SOAATL,Atlanta,1915-SL,19150419-SOAATL-SOAMOB-0,,,Tullos,,a06,3b
+Southern Association,SOAATL,Atlanta,1915-SL,19150420-SOAATL-SOAMOB-0,,,Tullos,,a06,3b
+Southern Association,SOAATL,Atlanta,1915-SL,19150421-SOAATL-SOABIR-0,,,Tullos,,a06,3b
+Southern Association,SOAATL,Atlanta,1915-SL,19150422-SOAATL-SOABIR-0,,,Tullos,,a06,3b
+Southern Association,SOAATL,Atlanta,1915-SL,19150423-SOAATL-SOABIR-0,,,Tullos,,a06,3b
+Southern Association,SOAATL,Atlanta,1915-SL,19150414-SOAATL-SOANOR-0,,,Waldron,,b09,ph
+Southern Association,SOAATL,Atlanta,1915-SL,19150418-SOAATL-SOAMOB-0,,,Williams,C.,a08,p
+Southern Association,SOAATL,Atlanta,1915-SL,19150418-SOAATL-SOAMOB-0,,,Williams,O.,a01,2b
+Southern Association,SOAATL,Atlanta,1915-SL,19150416-SOAATL-SOANOR-0,,,Williams [2b],,b01,2b
+Southern Association,SOAATL,Atlanta,1915-SL,19150417-SOAATL-SOANOR-0,,,Williams [2b],,b01,2b
+Southern Association,SOAATL,Atlanta,1915-SL,19150419-SOAATL-SOAMOB-0,,,Williams [2b],,a01,2b
+Southern Association,SOAATL,Atlanta,1915-SL,19150420-SOAATL-SOAMOB-0,,,Williams [2b],,a01,2b
+Southern Association,SOAATL,Atlanta,1915-SL,19150421-SOAATL-SOABIR-0,,,Williams [2b],,a01,2b
+Southern Association,SOAATL,Atlanta,1915-SL,19150422-SOAATL-SOABIR-0,,,Williams [2b],,a01,2b
+Southern Association,SOAATL,Atlanta,1915-SL,19150423-SOAATL-SOABIR-0,,,Williams [2b],,a01,2b
+Southern Association,SOAATL,Atlanta,1915-SL,19150414-SOAATL-SOANOR-0,,,Williams [p],,b10,p
+Southern Association,SOABIR,Birmingham,1915-SL,19150416-SOABIR-SOAMOB-0,,,Black,,b09,p
+Southern Association,SOABIR,Birmingham,1915-SL,19150420-SOABIR-SOANOR-0,,,Black,,a08,p
+Southern Association,SOABIR,Birmingham,1915-SL,19150421-SOAATL-SOABIR-0,,,Black,,b09,p
+Southern Association,SOABIR,Birmingham,1915-SL,19150413-SOABIR-SOANOR-0,,,Carroll,,a00,1b
+Southern Association,SOABIR,Birmingham,1915-SL,19150414-SOABIR-SOAMOB-0,,,Carroll,,b00,1b
+Southern Association,SOABIR,Birmingham,1915-SL,19150415-SOABIR-SOAMOB-0,,,Carroll,,b00,1b
+Southern Association,SOABIR,Birmingham,1915-SL,19150416-SOABIR-SOAMOB-0,,,Carroll,,b00,1b
+Southern Association,SOABIR,Birmingham,1915-SL,19150417-SOABIR-SOAMOB-0,,,Carroll,,b00,1b
+Southern Association,SOABIR,Birmingham,1915-SL,19150418-SOABIR-SOANOR-0,,,Carroll,,a00,1b
+Southern Association,SOABIR,Birmingham,1915-SL,19150419-SOABIR-SOANOR-0,,,Carroll,,a00,1b
+Southern Association,SOABIR,Birmingham,1915-SL,19150416-SOABIR-SOAMOB-0,,,Clark,,b02,2b
+Southern Association,SOABIR,Birmingham,1915-SL,19150417-SOABIR-SOAMOB-0,,,Clark,,b02,2b
+Southern Association,SOABIR,Birmingham,1915-SL,19150418-SOABIR-SOANOR-0,,,Clark,,a02,2b
+Southern Association,SOABIR,Birmingham,1915-SL,19150419-SOABIR-SOANOR-0,,,Clark,,a03,2b
+Southern Association,SOABIR,Birmingham,1915-SL,19150420-SOABIR-SOANOR-0,,,Clark,,a02,2b
+Southern Association,SOABIR,Birmingham,1915-SL,19150421-SOAATL-SOABIR-0,,,Clark,,b02,2b
+Southern Association,SOABIR,Birmingham,1915-SL,19150422-SOAATL-SOABIR-0,,,Clark,,b02,2b
+Southern Association,SOABIR,Birmingham,1915-SL,19150423-SOAATL-SOABIR-0,,,Clark,,b02,2b
+Southern Association,SOABIR,Birmingham,1915-SL,19150413-SOABIR-SOANOR-0,,,Coombs,,a04,2b
+Southern Association,SOABIR,Birmingham,1915-SL,19150414-SOABIR-SOAMOB-0,,,Coombs,,b02,2b
+Southern Association,SOABIR,Birmingham,1915-SL,19150415-SOABIR-SOAMOB-0,,,Coombs,,b02,2b
+Southern Association,SOABIR,Birmingham,1915-SL,19150420-SOABIR-SOANOR-0,,,Coombs,,a00,1b
+Southern Association,SOABIR,Birmingham,1915-SL,19150421-SOAATL-SOABIR-0,,,Coombs,,b00,1b
+Southern Association,SOABIR,Birmingham,1915-SL,19150422-SOAATL-SOABIR-0,,,Coombs,,b00,1b
+Southern Association,SOABIR,Birmingham,1915-SL,19150423-SOAATL-SOABIR-0,,,Coombs,,b00,1b
+Southern Association,SOABIR,Birmingham,1915-SL,19150413-SOABIR-SOANOR-0,,,Ellam,,a06,ss
+Southern Association,SOABIR,Birmingham,1915-SL,19150414-SOABIR-SOAMOB-0,,,Ellam,,b06,ss
+Southern Association,SOABIR,Birmingham,1915-SL,19150415-SOABIR-SOAMOB-0,,,Ellam,,b06,ss
+Southern Association,SOABIR,Birmingham,1915-SL,19150416-SOABIR-SOAMOB-0,,,Ellam,,b06,ss
+Southern Association,SOABIR,Birmingham,1915-SL,19150417-SOABIR-SOAMOB-0,,,Ellam,,b06,ss
+Southern Association,SOABIR,Birmingham,1915-SL,19150418-SOABIR-SOANOR-0,,,Ellam,,a06,ss
+Southern Association,SOABIR,Birmingham,1915-SL,19150419-SOABIR-SOANOR-0,,,Ellam,,a07,ss
+Southern Association,SOABIR,Birmingham,1915-SL,19150420-SOABIR-SOANOR-0,,,Ellam,,a06,ss
+Southern Association,SOABIR,Birmingham,1915-SL,19150421-SOAATL-SOABIR-0,,,Ellam,,b06,ss
+Southern Association,SOABIR,Birmingham,1915-SL,19150422-SOAATL-SOABIR-0,,,Ellam,,b06,ss
+Southern Association,SOABIR,Birmingham,1915-SL,19150423-SOAATL-SOABIR-0,,,Ellam,,b06,ss
+Southern Association,SOABIR,Birmingham,1915-SL,19150414-SOABIR-SOAMOB-0,,,Grimes,,b09,p
+Southern Association,SOABIR,Birmingham,1915-SL,19150418-SOABIR-SOANOR-0,,,Grimes,,a08,p
+Southern Association,SOABIR,Birmingham,1915-SL,19150422-SOAATL-SOABIR-0,,,Grimes,,b08,p
+Southern Association,SOABIR,Birmingham,1915-SL,19150414-SOABIR-SOAMOB-0,,,Hale,,b07,c
+Southern Association,SOABIR,Birmingham,1915-SL,19150417-SOABIR-SOAMOB-0,,,Hale,,b07,c
+Southern Association,SOABIR,Birmingham,1915-SL,19150419-SOABIR-SOANOR-0,,,Hale,,a01,c
+Southern Association,SOABIR,Birmingham,1915-SL,19150420-SOABIR-SOANOR-0,,,Hale,,a07,c
+Southern Association,SOABIR,Birmingham,1915-SL,19150423-SOAATL-SOABIR-0,,,Hale,,b07,c
+Southern Association,SOABIR,Birmingham,1915-SL,19150413-SOABIR-SOANOR-0,,,Hardgrove,,a08,p
+Southern Association,SOABIR,Birmingham,1915-SL,19150417-SOABIR-SOAMOB-0,,,Hardgrove,,b08,p
+Southern Association,SOABIR,Birmingham,1915-SL,19150421-SOAATL-SOABIR-0,,,Hardgrove,,b08,p
+Southern Association,SOABIR,Birmingham,1915-SL,19150416-SOABIR-SOAMOB-0,,,Hemin'y,,b05,3b
+Southern Association,SOABIR,Birmingham,1915-SL,19150423-SOAATL-SOABIR-0,,,Hemin'y,,b05,3b
+Southern Association,SOABIR,Birmingham,1915-SL,19150413-SOABIR-SOANOR-0,,,Heming'y,,a02,2b
+Southern Association,SOABIR,Birmingham,1915-SL,19150414-SOABIR-SOAMOB-0,,,Hemingway,,b05,3b
+Southern Association,SOABIR,Birmingham,1915-SL,19150415-SOABIR-SOAMOB-0,,,Hemingway,,b05,3b
+Southern Association,SOABIR,Birmingham,1915-SL,19150417-SOABIR-SOAMOB-0,,,Hemingway,,b05,3b
+Southern Association,SOABIR,Birmingham,1915-SL,19150418-SOABIR-SOANOR-0,,,Hemingway,,a05,3b
+Southern Association,SOABIR,Birmingham,1915-SL,19150419-SOABIR-SOANOR-0,,,Hemingway,,a06,3b
+Southern Association,SOABIR,Birmingham,1915-SL,19150420-SOABIR-SOANOR-0,,,Hemingway,,a05,3b
+Southern Association,SOABIR,Birmingham,1915-SL,19150421-SOAATL-SOABIR-0,,,Hemingway,,b05,3b
+Southern Association,SOABIR,Birmingham,1915-SL,19150422-SOAATL-SOABIR-0,,,Hemingway,,b05,3b
+Southern Association,SOABIR,Birmingham,1915-SL,19150414-SOABIR-SOAMOB-0,,,Johnson,,b08,p
+Southern Association,SOABIR,Birmingham,1915-SL,19150420-SOABIR-SOANOR-0,,,Johnson,,a09,p
+Southern Association,SOABIR,Birmingham,1915-SL,19150413-SOABIR-SOANOR-0,,,Magee,,a01,cf
+Southern Association,SOABIR,Birmingham,1915-SL,19150414-SOABIR-SOAMOB-0,,,Magee,,b01,cf
+Southern Association,SOABIR,Birmingham,1915-SL,19150415-SOABIR-SOAMOB-0,,,Magee,,b01,cf
+Southern Association,SOABIR,Birmingham,1915-SL,19150416-SOABIR-SOAMOB-0,,,Magee,,b01,cf
+Southern Association,SOABIR,Birmingham,1915-SL,19150417-SOABIR-SOAMOB-0,,,Magee,,b01,cf
+Southern Association,SOABIR,Birmingham,1915-SL,19150420-SOABIR-SOANOR-0,,,Magee,,a11,ph
+Southern Association,SOABIR,Birmingham,1915-SL,19150421-SOAATL-SOABIR-0,,,Magee,,b01,cf
+Southern Association,SOABIR,Birmingham,1915-SL,19150422-SOAATL-SOABIR-0,,,Magee,,b01,cf
+Southern Association,SOABIR,Birmingham,1915-SL,19150423-SOAATL-SOABIR-0,,,Magee,,b01,cf
+Southern Association,SOABIR,Birmingham,1915-SL,19150413-SOABIR-SOANOR-0,,,McBride,,a05,lf
+Southern Association,SOABIR,Birmingham,1915-SL,19150414-SOABIR-SOAMOB-0,,,McBride,,b04,lf
+Southern Association,SOABIR,Birmingham,1915-SL,19150415-SOABIR-SOAMOB-0,,,McBride,,b04,lf
+Southern Association,SOABIR,Birmingham,1915-SL,19150416-SOABIR-SOAMOB-0,,,McBride,,b04,lf
+Southern Association,SOABIR,Birmingham,1915-SL,19150417-SOABIR-SOAMOB-0,,,McBride,,b04,lf
+Southern Association,SOABIR,Birmingham,1915-SL,19150418-SOABIR-SOANOR-0,,,McBride,,a04,lf
+Southern Association,SOABIR,Birmingham,1915-SL,19150419-SOABIR-SOANOR-0,,,McBride,,a05,lf
+Southern Association,SOABIR,Birmingham,1915-SL,19150420-SOABIR-SOANOR-0,,,McBride,,a04,lf
+Southern Association,SOABIR,Birmingham,1915-SL,19150421-SOAATL-SOABIR-0,,,McBride,,b04,lf
+Southern Association,SOABIR,Birmingham,1915-SL,19150422-SOAATL-SOABIR-0,,,McBride,,b04,lf
+Southern Association,SOABIR,Birmingham,1915-SL,19150423-SOAATL-SOABIR-0,,,McBride,,b04,lf
+Southern Association,SOABIR,Birmingham,1915-SL,19150415-SOABIR-SOAMOB-0,,,Robertson,,b08,p
+Southern Association,SOABIR,Birmingham,1915-SL,19150419-SOABIR-SOANOR-0,,,Robertson,,a09,p
+Southern Association,SOABIR,Birmingham,1915-SL,19150423-SOAATL-SOABIR-0,,,Robertson,,b08,p
+Southern Association,SOABIR,Birmingham,1915-SL,19150413-SOABIR-SOANOR-0,,,Roth,,a09,p
+Southern Association,SOABIR,Birmingham,1915-SL,19150416-SOABIR-SOAMOB-0,,,Roth,,b08,p
+Southern Association,SOABIR,Birmingham,1915-SL,19150420-SOABIR-SOANOR-0,,,Roth,,a10,p
+Southern Association,SOABIR,Birmingham,1915-SL,19150413-SOABIR-SOANOR-0,,,Sloan,,a03,rf
+Southern Association,SOABIR,Birmingham,1915-SL,19150414-SOABIR-SOAMOB-0,,,Sloan,,b03,rf
+Southern Association,SOABIR,Birmingham,1915-SL,19150415-SOABIR-SOAMOB-0,,,Sloan,,b03,rf
+Southern Association,SOABIR,Birmingham,1915-SL,19150416-SOABIR-SOAMOB-0,,,Sloan,,b03,rf
+Southern Association,SOABIR,Birmingham,1915-SL,19150417-SOABIR-SOAMOB-0,,,Sloan,,b03,rf
+Southern Association,SOABIR,Birmingham,1915-SL,19150418-SOABIR-SOANOR-0,,,Sloan,,a03,rf
+Southern Association,SOABIR,Birmingham,1915-SL,19150419-SOABIR-SOANOR-0,,,Sloan,,a04,rf
+Southern Association,SOABIR,Birmingham,1915-SL,19150420-SOABIR-SOANOR-0,,,Sloan,,a03,rf
+Southern Association,SOABIR,Birmingham,1915-SL,19150421-SOAATL-SOABIR-0,,,Sloan,,b03,rf
+Southern Association,SOABIR,Birmingham,1915-SL,19150422-SOAATL-SOABIR-0,,,Sloan,,b03,rf
+Southern Association,SOABIR,Birmingham,1915-SL,19150423-SOAATL-SOABIR-0,,,Sloan,,b03,rf
+Southern Association,SOABIR,Birmingham,1915-SL,19150414-SOABIR-SOAMOB-0,,,Stewart,,b10,ph
+Southern Association,SOABIR,Birmingham,1915-SL,19150416-SOABIR-SOAMOB-0,,,Stewart,,b10,ph
+Southern Association,SOABIR,Birmingham,1915-SL,19150418-SOABIR-SOANOR-0,,,Stewart,,a01,cf
+Southern Association,SOABIR,Birmingham,1915-SL,19150419-SOABIR-SOANOR-0,,,Stewart,,a02,cf
+Southern Association,SOABIR,Birmingham,1915-SL,19150420-SOABIR-SOANOR-0,,,Stewart,,a01,cf
+Southern Association,SOABIR,Birmingham,1915-SL,19150422-SOAATL-SOABIR-0,,,Stewart,,b09,ph
+Southern Association,SOABIR,Birmingham,1915-SL,19150413-SOABIR-SOANOR-0,,,Wallace,,a07,c
+Southern Association,SOABIR,Birmingham,1915-SL,19150415-SOABIR-SOAMOB-0,,,Wallace,,b07,c
+Southern Association,SOABIR,Birmingham,1915-SL,19150416-SOABIR-SOAMOB-0,,,Wallace,,b07,c
+Southern Association,SOABIR,Birmingham,1915-SL,19150418-SOABIR-SOANOR-0,,,Wallace,,a07,c
+Southern Association,SOABIR,Birmingham,1915-SL,19150419-SOABIR-SOANOR-0,,,Wallace,,a08,c-1b
+Southern Association,SOABIR,Birmingham,1915-SL,19150421-SOAATL-SOABIR-0,,,Wallace,,b07,c
+Southern Association,SOABIR,Birmingham,1915-SL,19150422-SOAATL-SOABIR-0,,,Wallace,,b07,c
+Southern Association,SOACNG,Chattanooga,1915-SL,19150417-SOACNG-SOAMEM-0,,,Bernhard,,b09,p
+Southern Association,SOACNG,Chattanooga,1915-SL,19150422-SOACNG-SOALRK-0,,,Bernhard,,a09,p
+Southern Association,SOACNG,Chattanooga,1915-SL,19150416-SOACNG-SOAMEM-0,,,Betts,,b07,c
+Southern Association,SOACNG,Chattanooga,1915-SL,19150418-SOACNG-SOANVL-0,,,Betts,,a10,ph
+Southern Association,SOACNG,Chattanooga,1915-SL,19150422-SOACNG-SOALRK-0,,,Betts,,a07,c
+Southern Association,SOACNG,Chattanooga,1915-SL,19150413-SOACNG-SOANVL-0,,,Caveny,,a06,ss
+Southern Association,SOACNG,Chattanooga,1915-SL,19150414-SOACNG-SOAMEM-0,,,Caveny,,b06,ss
+Southern Association,SOACNG,Chattanooga,1915-SL,19150415-SOACNG-SOAMEM-0,,,Caveny,,b06,ss
+Southern Association,SOACNG,Chattanooga,1915-SL,19150416-SOACNG-SOAMEM-0,,,Caveny,,b06,ss
+Southern Association,SOACNG,Chattanooga,1915-SL,19150417-SOACNG-SOAMEM-0,,,Caveny,,b06,ss
+Southern Association,SOACNG,Chattanooga,1915-SL,19150418-SOACNG-SOANVL-0,,,Caveny,,a06,ss
+Southern Association,SOACNG,Chattanooga,1915-SL,19150419-SOACNG-SOANVL-0,,,Caveny,,a07,ss
+Southern Association,SOACNG,Chattanooga,1915-SL,19150420-SOACNG-SOANVL-0,,,Caveny,,a06,ss
+Southern Association,SOACNG,Chattanooga,1915-SL,19150422-SOACNG-SOALRK-0,,,Caveny,,a06,ss
+Southern Association,SOACNG,Chattanooga,1915-SL,19150423-SOACNG-SOALRK-0,,,Caveny,,a06,ss
+Southern Association,SOACNG,Chattanooga,1915-SL,19150413-SOACNG-SOANVL-0,,,Cunningham,,a09,p
+Southern Association,SOACNG,Chattanooga,1915-SL,19150416-SOACNG-SOAMEM-0,,,Cunningham,,b08,p
+Southern Association,SOACNG,Chattanooga,1915-SL,19150420-SOACNG-SOANVL-0,,,Cunningham,,a08,p
+Southern Association,SOACNG,Chattanooga,1915-SL,19150415-SOACNG-SOAMEM-0,,,Currie,,b08,p
+Southern Association,SOACNG,Chattanooga,1915-SL,19150416-SOACNG-SOAMEM-0,,,Currie,,b12,pr
+Southern Association,SOACNG,Chattanooga,1915-SL,19150422-SOACNG-SOALRK-0,,,Elberfeld,,a11,ph
+Southern Association,SOACNG,Chattanooga,1915-SL,19150413-SOACNG-SOANVL-0,,,Graff,,a04,3b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150414-SOACNG-SOAMEM-0,,,Graff,,b04,3b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150415-SOACNG-SOAMEM-0,,,Graff,,b04,3b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150416-SOACNG-SOAMEM-0,,,Graff,,b04,3b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150417-SOACNG-SOAMEM-0,,,Graff,,b04,3b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150418-SOACNG-SOANVL-0,,,Graff,,a04,3b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150419-SOACNG-SOANVL-0,,,Graff,,a06,3b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150420-SOACNG-SOANVL-0,,,Graff,,a05,3b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150422-SOACNG-SOALRK-0,,,Graff,,a05,3b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150423-SOACNG-SOALRK-0,,,Graff,,a05,3b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150414-SOACNG-SOAMEM-0,,,Harding,,b08,p
+Southern Association,SOACNG,Chattanooga,1915-SL,19150418-SOACNG-SOANVL-0,,,Harding,,a08,p
+Southern Association,SOACNG,Chattanooga,1915-SL,19150420-SOACNG-SOANVL-0,,,Harding,,a09,p
+Southern Association,SOACNG,Chattanooga,1915-SL,19150413-SOACNG-SOANVL-0,,,Harris,,a02,1b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150414-SOACNG-SOAMEM-0,,,Harris,,b02,1b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150415-SOACNG-SOAMEM-0,,,Harris,,b02,1b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150416-SOACNG-SOAMEM-0,,,Harris,,b02,1b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150417-SOACNG-SOAMEM-0,,,Harris,,b02,1b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150418-SOACNG-SOANVL-0,,,Harris,,a02,1b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150419-SOACNG-SOANVL-0,,,Harris,,a03,1b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150420-SOACNG-SOANVL-0,,,Harris,,a03,1b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150422-SOACNG-SOALRK-0,,,Harris,,a03,1b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150423-SOACNG-SOALRK-0,,,Harris,,a03,1b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150413-SOACNG-SOANVL-0,,,Hickman,,a05,cf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150414-SOACNG-SOAMEM-0,,,Hickman,,b05,cf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150415-SOACNG-SOAMEM-0,,,Hickman,,b05,cf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150416-SOACNG-SOAMEM-0,,,Hickman,,b05,cf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150417-SOACNG-SOAMEM-0,,,Hickman,,b05,cf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150418-SOACNG-SOANVL-0,,,Hickman,,a05,cf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150419-SOACNG-SOANVL-0,,,Hickman,,a05,rf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150420-SOACNG-SOANVL-0,,,Hickman,,a00,cf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150413-SOACNG-SOANVL-0,,,Hill,,a08,p
+Southern Association,SOACNG,Chattanooga,1915-SL,19150417-SOACNG-SOAMEM-0,,,Hill,,b08,p
+Southern Association,SOACNG,Chattanooga,1915-SL,19150422-SOACNG-SOALRK-0,,,Hill,,a08,p
+Southern Association,SOACNG,Chattanooga,1915-SL,19150413-SOACNG-SOANVL-0,,,Johnston,,a00,lf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150414-SOACNG-SOAMEM-0,,,Johnston,,b00,lf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150415-SOACNG-SOAMEM-0,,,Johnston,,b00,lf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150416-SOACNG-SOAMEM-0,,,Johnston,,b00,lf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150417-SOACNG-SOAMEM-0,,,Johnston,,b00,lf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150418-SOACNG-SOANVL-0,,,Johnston,,a00,lf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150419-SOACNG-SOANVL-0,,,Johnston,,a02,lf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150420-SOACNG-SOANVL-0,,,Johnston,,a02,lf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150422-SOACNG-SOALRK-0,,,Johnston,,a02,lf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150423-SOACNG-SOALRK-0,,,Johnston,,a02,lf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150413-SOACNG-SOANVL-0,,,Kitchens,,a07,c
+Southern Association,SOACNG,Chattanooga,1915-SL,19150414-SOACNG-SOAMEM-0,,,Kitchens,,b07,c
+Southern Association,SOACNG,Chattanooga,1915-SL,19150415-SOACNG-SOAMEM-0,,,Kitchens,,b07,c
+Southern Association,SOACNG,Chattanooga,1915-SL,19150416-SOACNG-SOAMEM-0,,,Kitchens,,b11,ph
+Southern Association,SOACNG,Chattanooga,1915-SL,19150417-SOACNG-SOAMEM-0,,,Kitchens,,b07,c
+Southern Association,SOACNG,Chattanooga,1915-SL,19150418-SOACNG-SOANVL-0,,,Kitchens,,a07,c
+Southern Association,SOACNG,Chattanooga,1915-SL,19150419-SOACNG-SOANVL-0,,,Kitchens,,a08,c
+Southern Association,SOACNG,Chattanooga,1915-SL,19150420-SOACNG-SOANVL-0,,,Kitchens,,a07,c
+Southern Association,SOACNG,Chattanooga,1915-SL,19150422-SOACNG-SOALRK-0,,,Kitchens,,a10,ph
+Southern Association,SOACNG,Chattanooga,1915-SL,19150423-SOACNG-SOALRK-0,,,Kitchens,,a07,c
+Southern Association,SOACNG,Chattanooga,1915-SL,19150415-SOACNG-SOAMEM-0,,,McCor'k,,b03,rf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150418-SOACNG-SOANVL-0,,,McCor'k,,a03,rf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150419-SOACNG-SOANVL-0,,,McCor'k,,a04,rf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150413-SOACNG-SOANVL-0,,,McCorm'k,,a03,rf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150414-SOACNG-SOAMEM-0,,,McCormick,,b03,rf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150416-SOACNG-SOAMEM-0,,,McCormick,,b03,rf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150417-SOACNG-SOAMEM-0,,,McCormick,,b03,rf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150420-SOACNG-SOANVL-0,,,McCormick,,a04,lf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150422-SOACNG-SOALRK-0,,,McCormick,,a04,cf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150423-SOACNG-SOALRK-0,,,McCormick,,a04,rf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150416-SOACNG-SOAMEM-0,,,Melter,,b10,p
+Southern Association,SOACNG,Chattanooga,1915-SL,19150419-SOACNG-SOANVL-0,,,Melter,,a09,p
+Southern Association,SOACNG,Chattanooga,1915-SL,19150418-SOACNG-SOANVL-0,,,Roberts,,a09,ph
+Southern Association,SOACNG,Chattanooga,1915-SL,19150419-SOACNG-SOANVL-0,,,Roberts,,a00,cf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150422-SOACNG-SOALRK-0,,,Roberts,,a00,cf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150423-SOACNG-SOALRK-0,,,Roberts,,a00,cf
+Southern Association,SOACNG,Chattanooga,1915-SL,19150415-SOACNG-SOAMEM-0,,,Ross,,b09,p
+Southern Association,SOACNG,Chattanooga,1915-SL,19150416-SOACNG-SOAMEM-0,,,Ross,,b09,ph
+Southern Association,SOACNG,Chattanooga,1915-SL,19150419-SOACNG-SOANVL-0,,,Ross,,a10,p
+Southern Association,SOACNG,Chattanooga,1915-SL,19150423-SOACNG-SOALRK-0,,,Ross,,a08,p
+Southern Association,SOACNG,Chattanooga,1915-SL,19150413-SOACNG-SOANVL-0,,,Starr,,a01,2b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150414-SOACNG-SOAMEM-0,,,Starr,,b01,2b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150415-SOACNG-SOAMEM-0,,,Starr,,b01,2b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150416-SOACNG-SOAMEM-0,,,Starr,,b01,2b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150417-SOACNG-SOAMEM-0,,,Starr,,b01,2b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150418-SOACNG-SOANVL-0,,,Starr,,a01,2b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150419-SOACNG-SOANVL-0,,,Starr,,a01,2b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150420-SOACNG-SOANVL-0,,,Starr,,a01,2b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150422-SOACNG-SOALRK-0,,,Starr,,a01,2b
+Southern Association,SOACNG,Chattanooga,1915-SL,19150423-SOACNG-SOALRK-0,,,Starr,,a01,2b
+Southern Association,SOALRK,Little Rock,1915-SL,19150413-SOALRK-SOAMEM-0,,,Brantigan,,a00,ss
+Southern Association,SOALRK,Little Rock,1915-SL,19150414-SOALRK-SOANVL-0,,,Brauti'n,,b00,3b
+Southern Association,SOALRK,Little Rock,1915-SL,19150423-SOACNG-SOALRK-0,,,Brauti'n,,b04,3b
+Southern Association,SOALRK,Little Rock,1915-SL,19150415-SOALRK-SOANVL-0,,,Brautigan,,b00,3b-ss
+Southern Association,SOALRK,Little Rock,1915-SL,19150416-SOALRK-SOANVL-0,,,Brautigan,,b00,ss
+Southern Association,SOALRK,Little Rock,1915-SL,19150417-SOALRK-SOANVL-0,,,Brautigan,,b00,ss
+Southern Association,SOALRK,Little Rock,1915-SL,19150418-SOALRK-SOAMEM-0,,,Brautigan,,a00,ss
+Southern Association,SOALRK,Little Rock,1915-SL,19150419-SOALRK-SOAMEM-0,,,Brautigan,,a00,ss
+Southern Association,SOALRK,Little Rock,1915-SL,19150420-SOALRK-SOAMEM-0,,,Brautigan,,a00,ss
+Southern Association,SOALRK,Little Rock,1915-SL,19150422-SOACNG-SOALRK-0,,,Brautigan,,b04,3b
+Southern Association,SOALRK,Little Rock,1915-SL,19150413-SOALRK-SOAMEM-0,,,Daly,,a03,lf
+Southern Association,SOALRK,Little Rock,1915-SL,19150414-SOALRK-SOANVL-0,,,Daly,,b03,lf
+Southern Association,SOALRK,Little Rock,1915-SL,19150415-SOALRK-SOANVL-0,,,Daly,,b03,lf
+Southern Association,SOALRK,Little Rock,1915-SL,19150416-SOALRK-SOANVL-0,,,Daly,,b03,lf
+Southern Association,SOALRK,Little Rock,1915-SL,19150417-SOALRK-SOANVL-0,,,Daly,,b03,lf
+Southern Association,SOALRK,Little Rock,1915-SL,19150418-SOALRK-SOAMEM-0,,,Daly,,a03,lf
+Southern Association,SOALRK,Little Rock,1915-SL,19150419-SOALRK-SOAMEM-0,,,Daly,,a03,lf
+Southern Association,SOALRK,Little Rock,1915-SL,19150420-SOALRK-SOAMEM-0,,,Daly,,a03,lf
+Southern Association,SOALRK,Little Rock,1915-SL,19150422-SOACNG-SOALRK-0,,,Daly,,b03,lf
+Southern Association,SOALRK,Little Rock,1915-SL,19150423-SOACNG-SOALRK-0,,,Daly,,b03,lf
+Southern Association,SOALRK,Little Rock,1915-SL,19150414-SOALRK-SOANVL-0,,,Day,,b08,p
+Southern Association,SOALRK,Little Rock,1915-SL,19150419-SOALRK-SOAMEM-0,,,Day,,a08,p
+Southern Association,SOALRK,Little Rock,1915-SL,19150422-SOACNG-SOALRK-0,,,Downey,,b01,2b
+Southern Association,SOALRK,Little Rock,1915-SL,19150423-SOACNG-SOALRK-0,,,Downey,,b01,2b
+Southern Association,SOALRK,Little Rock,1915-SL,19150413-SOALRK-SOAMEM-0,,,East,,a08,p
+Southern Association,SOALRK,Little Rock,1915-SL,19150417-SOALRK-SOANVL-0,,,East,,b08,p
+Southern Association,SOALRK,Little Rock,1915-SL,19150422-SOACNG-SOALRK-0,,,East,,b08,p
+Southern Association,SOALRK,Little Rock,1915-SL,19150413-SOALRK-SOAMEM-0,,,Elwert,,a04,3b
+Southern Association,SOALRK,Little Rock,1915-SL,19150418-SOALRK-SOAMEM-0,,,Elwert,,a04,3b
+Southern Association,SOALRK,Little Rock,1915-SL,19150419-SOALRK-SOAMEM-0,,,Elwert,,a04,3b
+Southern Association,SOALRK,Little Rock,1915-SL,19150420-SOALRK-SOAMEM-0,,,Elwert,,a04,3b
+Southern Association,SOALRK,Little Rock,1915-SL,19150413-SOALRK-SOAMEM-0,,,Farrell,,a06,1b
+Southern Association,SOALRK,Little Rock,1915-SL,19150414-SOALRK-SOANVL-0,,,Farrell,,b06,1b
+Southern Association,SOALRK,Little Rock,1915-SL,19150415-SOALRK-SOANVL-0,,,Farrell,,b07,1b
+Southern Association,SOALRK,Little Rock,1915-SL,19150416-SOALRK-SOANVL-0,,,Farrell,,b01,1b
+Southern Association,SOALRK,Little Rock,1915-SL,19150417-SOALRK-SOANVL-0,,,Farrell,,b01,1b
+Southern Association,SOALRK,Little Rock,1915-SL,19150418-SOALRK-SOAMEM-0,,,Farrell,,a01,1b
+Southern Association,SOALRK,Little Rock,1915-SL,19150419-SOALRK-SOAMEM-0,,,Farrell,,a01,1b
+Southern Association,SOALRK,Little Rock,1915-SL,19150420-SOALRK-SOAMEM-0,,,Farrell,,a01,1b
+Southern Association,SOALRK,Little Rock,1915-SL,19150416-SOALRK-SOANVL-0,,,Fincher,,b08,p
+Southern Association,SOALRK,Little Rock,1915-SL,19150420-SOALRK-SOAMEM-0,,,Fincher,,a08,p
+Southern Association,SOALRK,Little Rock,1915-SL,19150413-SOALRK-SOAMEM-0,,,Gibson,,a07,c
+Southern Association,SOALRK,Little Rock,1915-SL,19150414-SOALRK-SOANVL-0,,,Gibson,,b07,c
+Southern Association,SOALRK,Little Rock,1915-SL,19150415-SOALRK-SOANVL-0,,,Gibson,,b08,c
+Southern Association,SOALRK,Little Rock,1915-SL,19150416-SOALRK-SOANVL-0,,,Gibson,,b04,3b
+Southern Association,SOALRK,Little Rock,1915-SL,19150417-SOALRK-SOANVL-0,,,Gibson,,b07,c
+Southern Association,SOALRK,Little Rock,1915-SL,19150418-SOALRK-SOAMEM-0,,,Gibson,,a07,c
+Southern Association,SOALRK,Little Rock,1915-SL,19150419-SOALRK-SOAMEM-0,,,Gibson,,a07,c
+Southern Association,SOALRK,Little Rock,1915-SL,19150420-SOALRK-SOAMEM-0,,,Gibson,,a07,c
+Southern Association,SOALRK,Little Rock,1915-SL,19150422-SOACNG-SOALRK-0,,,Gibson,,b05,c
+Southern Association,SOALRK,Little Rock,1915-SL,19150423-SOACNG-SOALRK-0,,,Gibson,,b05,c
+Southern Association,SOALRK,Little Rock,1915-SL,19150414-SOALRK-SOANVL-0,,,Gribben,,b05,ss
+Southern Association,SOALRK,Little Rock,1915-SL,19150413-SOALRK-SOAMEM-0,,,Gribbens,,a05,2b
+Southern Association,SOALRK,Little Rock,1915-SL,19150415-SOALRK-SOANVL-0,,,Gribbens,,b06,ss
+Southern Association,SOALRK,Little Rock,1915-SL,19150417-SOALRK-SOANVL-0,,,Gribbens,,b04,3b
+Southern Association,SOALRK,Little Rock,1915-SL,19150415-SOALRK-SOANVL-0,,,Harper,,b09,p
+Southern Association,SOALRK,Little Rock,1915-SL,19150415-SOALRK-SOANVL-0,,,Hayes,,b05,c
+Southern Association,SOALRK,Little Rock,1915-SL,19150416-SOALRK-SOANVL-0,,,Hayes,,b07,c
+Southern Association,SOALRK,Little Rock,1915-SL,19150414-SOALRK-SOANVL-0,,,Hays,,b09,ph
+Southern Association,SOALRK,Little Rock,1915-SL,19150413-SOALRK-SOAMEM-0,,,Jantzen,,a02,cf
+Southern Association,SOALRK,Little Rock,1915-SL,19150414-SOALRK-SOANVL-0,,,Jantzen,,b02,cf
+Southern Association,SOALRK,Little Rock,1915-SL,19150415-SOALRK-SOANVL-0,,,Jantzen,,b02,cf
+Southern Association,SOALRK,Little Rock,1915-SL,19150416-SOALRK-SOANVL-0,,,Jantzen,,b02,rf
+Southern Association,SOALRK,Little Rock,1915-SL,19150417-SOALRK-SOANVL-0,,,Jantzen,,b02,cf
+Southern Association,SOALRK,Little Rock,1915-SL,19150418-SOALRK-SOAMEM-0,,,Jantzen,,a02,cf
+Southern Association,SOALRK,Little Rock,1915-SL,19150419-SOALRK-SOAMEM-0,,,Jantzen,,a02,cf
+Southern Association,SOALRK,Little Rock,1915-SL,19150420-SOALRK-SOAMEM-0,,,Jantzen,,a02,cf
+Southern Association,SOALRK,Little Rock,1915-SL,19150422-SOACNG-SOALRK-0,,,Jantzen,,b02,cf
+Southern Association,SOALRK,Little Rock,1915-SL,19150423-SOACNG-SOALRK-0,,,Jantzen,,b02,cf
+Southern Association,SOALRK,Little Rock,1915-SL,19150416-SOALRK-SOANVL-0,,,Lively,,b09,p
+Southern Association,SOALRK,Little Rock,1915-SL,19150415-SOALRK-SOANVL-0,,,Luhrsen,,b11,p
+Southern Association,SOALRK,Little Rock,1915-SL,19150423-SOACNG-SOALRK-0,,,Luhrzen,,b08,p
+Southern Association,SOALRK,Little Rock,1915-SL,19150414-SOALRK-SOANVL-0,,,Manes,,b04,2b
+Southern Association,SOALRK,Little Rock,1915-SL,19150415-SOALRK-SOANVL-0,,,Manes,,b04,2b
+Southern Association,SOALRK,Little Rock,1915-SL,19150416-SOALRK-SOANVL-0,,,Manes,,b06,2b
+Southern Association,SOALRK,Little Rock,1915-SL,19150417-SOALRK-SOANVL-0,,,Manes,,b05,2b
+Southern Association,SOALRK,Little Rock,1915-SL,19150418-SOALRK-SOAMEM-0,,,Manes,,a06,2b
+Southern Association,SOALRK,Little Rock,1915-SL,19150419-SOALRK-SOAMEM-0,,,Manes,,a06,2b
+Southern Association,SOALRK,Little Rock,1915-SL,19150420-SOALRK-SOAMEM-0,,,Manes,,a06,2b
+Southern Association,SOALRK,Little Rock,1915-SL,19150422-SOACNG-SOALRK-0,,,Manes,,b06,1b
+Southern Association,SOALRK,Little Rock,1915-SL,19150423-SOACNG-SOALRK-0,,,Manes,,b06,1b
+Southern Association,SOALRK,Little Rock,1915-SL,19150413-SOALRK-SOAMEM-0,,,Moran,,a09,p
+Southern Association,SOALRK,Little Rock,1915-SL,19150418-SOALRK-SOAMEM-0,,,Moran,,a08,p
+Southern Association,SOALRK,Little Rock,1915-SL,19150415-SOALRK-SOANVL-0,,,Roth,,b10,p
+Southern Association,SOALRK,Little Rock,1915-SL,19150413-SOALRK-SOAMEM-0,,,Shaw,,a01,rf
+Southern Association,SOALRK,Little Rock,1915-SL,19150414-SOALRK-SOANVL-0,,,Shaw,,b01,rf
+Southern Association,SOALRK,Little Rock,1915-SL,19150415-SOALRK-SOANVL-0,,,Shaw,,b01,rf
+Southern Association,SOALRK,Little Rock,1915-SL,19150416-SOALRK-SOANVL-0,,,Shaw,,b05,rf
+Southern Association,SOALRK,Little Rock,1915-SL,19150417-SOALRK-SOANVL-0,,,Shaw,,b06,rf
+Southern Association,SOALRK,Little Rock,1915-SL,19150418-SOALRK-SOAMEM-0,,,Shaw,,a05,rf
+Southern Association,SOALRK,Little Rock,1915-SL,19150419-SOALRK-SOAMEM-0,,,Shaw,,a05,rf
+Southern Association,SOALRK,Little Rock,1915-SL,19150420-SOALRK-SOAMEM-0,,,Shaw,,a05,rf
+Southern Association,SOALRK,Little Rock,1915-SL,19150422-SOACNG-SOALRK-0,,,Shaw,,b00,rf
+Southern Association,SOALRK,Little Rock,1915-SL,19150423-SOACNG-SOALRK-0,,,Shaw,,b00,rf
+Southern Association,SOALRK,Little Rock,1915-SL,19150422-SOACNG-SOALRK-0,,,Tesch,,b07,ss
+Southern Association,SOALRK,Little Rock,1915-SL,19150423-SOACNG-SOALRK-0,,,Tesch,,b07,ss
+Southern Association,SOAMEM,Memphis,1915-SL,19150413-SOALRK-SOAMEM-0,,,Allison,,b00,cf
+Southern Association,SOAMEM,Memphis,1915-SL,19150414-SOACNG-SOAMEM-0,,,Allison,,a00,cf
+Southern Association,SOAMEM,Memphis,1915-SL,19150417-SOACNG-SOAMEM-0,,,Allison,,a00,cf
+Southern Association,SOAMEM,Memphis,1915-SL,19150418-SOALRK-SOAMEM-0,,,Allison,,b00,cf
+Southern Association,SOAMEM,Memphis,1915-SL,19150419-SOALRK-SOAMEM-0,,,Allison,,b00,cf
+Southern Association,SOAMEM,Memphis,1915-SL,19150420-SOALRK-SOAMEM-0,,,Allison,,b00,cf
+Southern Association,SOAMEM,Memphis,1915-SL,19150421-SOAMEM-SOANVL-0,,,Allison,,a00,cf
+Southern Association,SOAMEM,Memphis,1915-SL,19150422-SOAMEM-SOANVL-0,,,Allison,,a00,cf
+Southern Association,SOAMEM,Memphis,1915-SL,19150423-SOAMEM-SOANVL-0,,,Allison,,a00,cf
+Southern Association,SOAMEM,Memphis,1915-SL,19150413-SOALRK-SOAMEM-0,,,Andreen,,b07,c
+Southern Association,SOAMEM,Memphis,1915-SL,19150414-SOACNG-SOAMEM-0,,,Andreen,,a07,c
+Southern Association,SOAMEM,Memphis,1915-SL,19150415-SOACNG-SOAMEM-0,,,Andreen,,a07,c
+Southern Association,SOAMEM,Memphis,1915-SL,19150416-SOACNG-SOAMEM-0,,,Andreen,,a07,c
+Southern Association,SOAMEM,Memphis,1915-SL,19150417-SOACNG-SOAMEM-0,,,Andreen,,a07,c
+Southern Association,SOAMEM,Memphis,1915-SL,19150419-SOALRK-SOAMEM-0,,,Andreen,,b08,c
+Southern Association,SOAMEM,Memphis,1915-SL,19150420-SOALRK-SOAMEM-0,,,Andreen,,b09,ph
+Southern Association,SOAMEM,Memphis,1915-SL,19150421-SOAMEM-SOANVL-0,,,Andreen,,a07,c
+Southern Association,SOAMEM,Memphis,1915-SL,19150422-SOAMEM-SOANVL-0,,,Andreen,,a07,c
+Southern Association,SOAMEM,Memphis,1915-SL,19150423-SOAMEM-SOANVL-0,,,Andreen,,a08,c
+Southern Association,SOAMEM,Memphis,1915-SL,19150415-SOACNG-SOAMEM-0,,,Buckels,,a09,p
+Southern Association,SOAMEM,Memphis,1915-SL,19150419-SOALRK-SOAMEM-0,,,Buckles,,b09,p
+Southern Association,SOAMEM,Memphis,1915-SL,19150423-SOAMEM-SOANVL-0,,,Buckles,,a10,p
+Southern Association,SOAMEM,Memphis,1915-SL,19150413-SOALRK-SOAMEM-0,,,Coyle,,b01,rf
+Southern Association,SOAMEM,Memphis,1915-SL,19150414-SOACNG-SOAMEM-0,,,Coyle,,a01,rf
+Southern Association,SOAMEM,Memphis,1915-SL,19150415-SOACNG-SOAMEM-0,,,Coyle,,a01,rf
+Southern Association,SOAMEM,Memphis,1915-SL,19150416-SOACNG-SOAMEM-0,,,Coyle,,a01,rf
+Southern Association,SOAMEM,Memphis,1915-SL,19150417-SOACNG-SOAMEM-0,,,Coyle,,a01,rf
+Southern Association,SOAMEM,Memphis,1915-SL,19150418-SOALRK-SOAMEM-0,,,Coyle,,b01,rf
+Southern Association,SOAMEM,Memphis,1915-SL,19150419-SOALRK-SOAMEM-0,,,Coyle,,b01,rf
+Southern Association,SOAMEM,Memphis,1915-SL,19150420-SOALRK-SOAMEM-0,,,Coyle,,b01,rf
+Southern Association,SOAMEM,Memphis,1915-SL,19150421-SOAMEM-SOANVL-0,,,Coyle,,a01,rf
+Southern Association,SOAMEM,Memphis,1915-SL,19150422-SOAMEM-SOANVL-0,,,Coyle,,a01,rf
+Southern Association,SOAMEM,Memphis,1915-SL,19150423-SOAMEM-SOANVL-0,,,Coyle,,a01,rf
+Southern Association,SOAMEM,Memphis,1915-SL,19150413-SOALRK-SOAMEM-0,,,Cruthers,,b05,2b
+Southern Association,SOAMEM,Memphis,1915-SL,19150414-SOACNG-SOAMEM-0,,,Cruthers,,a05,2b
+Southern Association,SOAMEM,Memphis,1915-SL,19150415-SOACNG-SOAMEM-0,,,Cruthers,,a05,2b
+Southern Association,SOAMEM,Memphis,1915-SL,19150416-SOACNG-SOAMEM-0,,,Cruthers,,a05,2b
+Southern Association,SOAMEM,Memphis,1915-SL,19150417-SOACNG-SOAMEM-0,,,Cruthers,,a05,2b
+Southern Association,SOAMEM,Memphis,1915-SL,19150418-SOALRK-SOAMEM-0,,,Cruthers,,b05,2b
+Southern Association,SOAMEM,Memphis,1915-SL,19150419-SOALRK-SOAMEM-0,,,Cruthers,,b05,2b
+Southern Association,SOAMEM,Memphis,1915-SL,19150420-SOALRK-SOAMEM-0,,,Cruthers,,b05,2b
+Southern Association,SOAMEM,Memphis,1915-SL,19150421-SOAMEM-SOANVL-0,,,Cruthers,,a05,2b
+Southern Association,SOAMEM,Memphis,1915-SL,19150422-SOAMEM-SOANVL-0,,,Cruthers,,a05,2b
+Southern Association,SOAMEM,Memphis,1915-SL,19150423-SOAMEM-SOANVL-0,,,Cruthers,,a06,2b
+Southern Association,SOAMEM,Memphis,1915-SL,19150413-SOALRK-SOAMEM-0,,,Dunckel,,b04,1b
+Southern Association,SOAMEM,Memphis,1915-SL,19150414-SOACNG-SOAMEM-0,,,Dunckel,,a04,1b
+Southern Association,SOAMEM,Memphis,1915-SL,19150415-SOACNG-SOAMEM-0,,,Dunckel,,a04,1b
+Southern Association,SOAMEM,Memphis,1915-SL,19150416-SOACNG-SOAMEM-0,,,Dunckel,,a04,1b
+Southern Association,SOAMEM,Memphis,1915-SL,19150417-SOACNG-SOAMEM-0,,,Dunckel,,a04,1b
+Southern Association,SOAMEM,Memphis,1915-SL,19150418-SOALRK-SOAMEM-0,,,Dunckel,,b04,1b
+Southern Association,SOAMEM,Memphis,1915-SL,19150419-SOALRK-SOAMEM-0,,,Dunckel,,b04,1b
+Southern Association,SOAMEM,Memphis,1915-SL,19150420-SOALRK-SOAMEM-0,,,Dunckel,,b04,1b
+Southern Association,SOAMEM,Memphis,1915-SL,19150421-SOAMEM-SOANVL-0,,,Dunckel,,a04,1b
+Southern Association,SOAMEM,Memphis,1915-SL,19150422-SOAMEM-SOANVL-0,,,Dunckel,,a04,1b
+Southern Association,SOAMEM,Memphis,1915-SL,19150423-SOAMEM-SOANVL-0,,,Dunckel,,a05,1b
+Southern Association,SOAMEM,Memphis,1915-SL,19150415-SOACNG-SOAMEM-0,,,Goulait,,a08,p
+Southern Association,SOAMEM,Memphis,1915-SL,19150418-SOALRK-SOAMEM-0,,,Goulait,,b08,p
+Southern Association,SOAMEM,Memphis,1915-SL,19150422-SOAMEM-SOANVL-0,,,Goulait,,a08,p
+Southern Association,SOAMEM,Memphis,1915-SL,19150423-SOAMEM-SOANVL-0,,,Goulait,,a11,ph
+Southern Association,SOAMEM,Memphis,1915-SL,19150413-SOALRK-SOAMEM-0,,,Keeley,,b08,p
+Southern Association,SOAMEM,Memphis,1915-SL,19150423-SOAMEM-SOANVL-0,,,Keeley,,a09,p
+Southern Association,SOAMEM,Memphis,1915-SL,19150413-SOALRK-SOAMEM-0,,,Lindsay,,b06,ss
+Southern Association,SOAMEM,Memphis,1915-SL,19150414-SOACNG-SOAMEM-0,,,Lindsay,,a06,ss
+Southern Association,SOAMEM,Memphis,1915-SL,19150415-SOACNG-SOAMEM-0,,,Lindsay,,a06,ss
+Southern Association,SOAMEM,Memphis,1915-SL,19150416-SOACNG-SOAMEM-0,,,Lindsay,,a06,ss
+Southern Association,SOAMEM,Memphis,1915-SL,19150417-SOACNG-SOAMEM-0,,,Lindsay,,a06,ss
+Southern Association,SOAMEM,Memphis,1915-SL,19150418-SOALRK-SOAMEM-0,,,Lindsay,,b06,ss
+Southern Association,SOAMEM,Memphis,1915-SL,19150419-SOALRK-SOAMEM-0,,,Lindsay,,b06,ss
+Southern Association,SOAMEM,Memphis,1915-SL,19150420-SOALRK-SOAMEM-0,,,Lindsay,,b06,ss
+Southern Association,SOAMEM,Memphis,1915-SL,19150421-SOAMEM-SOANVL-0,,,Lindsay,,a06,ss
+Southern Association,SOAMEM,Memphis,1915-SL,19150422-SOAMEM-SOANVL-0,,,Lindsay,,a06,ss
+Southern Association,SOAMEM,Memphis,1915-SL,19150423-SOAMEM-SOANVL-0,,,Lindsay,,a07,ss
+Southern Association,SOAMEM,Memphis,1915-SL,19150413-SOALRK-SOAMEM-0,,,Lord,,b03,lf
+Southern Association,SOAMEM,Memphis,1915-SL,19150414-SOACNG-SOAMEM-0,,,Lord,,a03,lf
+Southern Association,SOAMEM,Memphis,1915-SL,19150415-SOACNG-SOAMEM-0,,,Lord,,a03,lf
+Southern Association,SOAMEM,Memphis,1915-SL,19150416-SOACNG-SOAMEM-0,,,Lord,,a03,lf
+Southern Association,SOAMEM,Memphis,1915-SL,19150417-SOACNG-SOAMEM-0,,,Lord,,a03,lf
+Southern Association,SOAMEM,Memphis,1915-SL,19150418-SOALRK-SOAMEM-0,,,Lord,,b03,lf
+Southern Association,SOAMEM,Memphis,1915-SL,19150419-SOALRK-SOAMEM-0,,,Lord,,b03,lf
+Southern Association,SOAMEM,Memphis,1915-SL,19150420-SOALRK-SOAMEM-0,,,Lord,,b10,ph
+Southern Association,SOAMEM,Memphis,1915-SL,19150421-SOAMEM-SOANVL-0,,,Lord,,a03,lf
+Southern Association,SOAMEM,Memphis,1915-SL,19150422-SOAMEM-SOANVL-0,,,Lord,,a03,lf
+Southern Association,SOAMEM,Memphis,1915-SL,19150423-SOAMEM-SOANVL-0,,,Lord,,a04,lf
+Southern Association,SOAMEM,Memphis,1915-SL,19150415-SOACNG-SOAMEM-0,,,Marshall,,a10,ph
+Southern Association,SOAMEM,Memphis,1915-SL,19150417-SOACNG-SOAMEM-0,,,Marshall,,a08,c
+Southern Association,SOAMEM,Memphis,1915-SL,19150418-SOALRK-SOAMEM-0,,,Marshall,,b07,c
+Southern Association,SOAMEM,Memphis,1915-SL,19150419-SOALRK-SOAMEM-0,,,Marshall,,b07,c
+Southern Association,SOAMEM,Memphis,1915-SL,19150414-SOACNG-SOAMEM-0,,,McDer't,,a02,3b
+Southern Association,SOAMEM,Memphis,1915-SL,19150416-SOACNG-SOAMEM-0,,,McDer't,,a02,3b
+Southern Association,SOAMEM,Memphis,1915-SL,19150417-SOACNG-SOAMEM-0,,,McDer't,,a02,3b
+Southern Association,SOAMEM,Memphis,1915-SL,19150413-SOALRK-SOAMEM-0,,,McDermott,,b02,3b
+Southern Association,SOAMEM,Memphis,1915-SL,19150415-SOACNG-SOAMEM-0,,,McDermott,,a02,3b
+Southern Association,SOAMEM,Memphis,1915-SL,19150418-SOALRK-SOAMEM-0,,,McDermott,,b02,3b
+Southern Association,SOAMEM,Memphis,1915-SL,19150419-SOALRK-SOAMEM-0,,,McDermott,,b02,3b
+Southern Association,SOAMEM,Memphis,1915-SL,19150420-SOALRK-SOAMEM-0,,,McDermott,,b02,3b
+Southern Association,SOAMEM,Memphis,1915-SL,19150421-SOAMEM-SOANVL-0,,,McDermott,,a02,3b
+Southern Association,SOAMEM,Memphis,1915-SL,19150422-SOAMEM-SOANVL-0,,,McDermott,,a02,3b
+Southern Association,SOAMEM,Memphis,1915-SL,19150423-SOAMEM-SOANVL-0,,,McDermott,,a02,3b
+Southern Association,SOAMEM,Memphis,1915-SL,19150414-SOACNG-SOAMEM-0,,,Merritt,,a08,p
+Southern Association,SOAMEM,Memphis,1915-SL,19150415-SOACNG-SOAMEM-0,,,Merritt,,a11,p
+Southern Association,SOAMEM,Memphis,1915-SL,19150416-SOACNG-SOAMEM-0,,,Merritt,,a10,p
+Southern Association,SOAMEM,Memphis,1915-SL,19150421-SOAMEM-SOANVL-0,,,Merritt,,a08,p
+Southern Association,SOAMEM,Memphis,1915-SL,19150416-SOACNG-SOAMEM-0,,,Morrison,,a09,p
+Southern Association,SOAMEM,Memphis,1915-SL,19150420-SOALRK-SOAMEM-0,,,Morrison,,b08,p
+Southern Association,SOAMEM,Memphis,1915-SL,19150417-SOACNG-SOAMEM-0,,,Robertson,,a09,p
+Southern Association,SOAMEM,Memphis,1915-SL,19150420-SOALRK-SOAMEM-0,,,Schlei,,b07,c
+Southern Association,SOAMEM,Memphis,1915-SL,19150416-SOACNG-SOAMEM-0,,,Shirley,,a08,p
+Southern Association,SOAMEM,Memphis,1915-SL,19150423-SOAMEM-SOANVL-0,,,Woodr'ff,,a03,3b
+Southern Association,SOAMEM,Memphis,1915-SL,19150415-SOACNG-SOAMEM-0,,,Woodruff,,a00,cf
+Southern Association,SOAMEM,Memphis,1915-SL,19150416-SOACNG-SOAMEM-0,,,Woodruff,,a00,cf
+Southern Association,SOAMEM,Memphis,1915-SL,19150420-SOALRK-SOAMEM-0,,,Woodruff,,b03,lf
+Southern Association,SOAMOB,Mobile,1915-SL,19150413-SOAATL-SOAMOB-0,,,Baumg'r,,b06,3b
+Southern Association,SOAMOB,Mobile,1915-SL,19150415-SOABIR-SOAMOB-0,,,Baumg'r,,a06,3b
+Southern Association,SOAMOB,Mobile,1915-SL,19150416-SOABIR-SOAMOB-0,,,Baumg'r,,a08,ss
+Southern Association,SOAMOB,Mobile,1915-SL,19150417-SOABIR-SOAMOB-0,,,Baumg'r,,a07,3b
+Southern Association,SOAMOB,Mobile,1915-SL,19150418-SOAATL-SOAMOB-0,,,Baumg'r,,b07,3b
+Southern Association,SOAMOB,Mobile,1915-SL,19150419-SOAATL-SOAMOB-0,,,Baumg'r,,b07,3b
+Southern Association,SOAMOB,Mobile,1915-SL,19150421-SOAMOB-SOANOR-0,,,Baumga'r,,a06,3b
+Southern Association,SOAMOB,Mobile,1915-SL,19150414-SOABIR-SOAMOB-0,,,Baumgardner,,a06,3b
+Southern Association,SOAMOB,Mobile,1915-SL,19150420-SOAATL-SOAMOB-0,,,Baumgardner,,b06,3b
+Southern Association,SOAMOB,Mobile,1915-SL,19150422-SOAMOB-SOANOR-0,,,Baumgardner,,a09,3b
+Southern Association,SOAMOB,Mobile,1915-SL,19150415-SOABIR-SOAMOB-0,,,Burke,,a10,ph
+Southern Association,SOAMOB,Mobile,1915-SL,19150413-SOAATL-SOAMOB-0,,,Calhoun,,b01,1b
+Southern Association,SOAMOB,Mobile,1915-SL,19150414-SOABIR-SOAMOB-0,,,Calhoun,,a01,1b
+Southern Association,SOAMOB,Mobile,1915-SL,19150415-SOABIR-SOAMOB-0,,,Calhoun,,a01,1b
+Southern Association,SOAMOB,Mobile,1915-SL,19150416-SOABIR-SOAMOB-0,,,Calhoun,,a02,1b
+Southern Association,SOAMOB,Mobile,1915-SL,19150420-SOAATL-SOAMOB-0,,,Calhoun,,b01,1b
+Southern Association,SOAMOB,Mobile,1915-SL,19150421-SOAMOB-SOANOR-0,,,Calhoun,,a01,1b
+Southern Association,SOAMOB,Mobile,1915-SL,19150422-SOAMOB-SOANOR-0,,,Calhoun,,a05,1b
+Southern Association,SOAMOB,Mobile,1915-SL,19150416-SOABIR-SOAMOB-0,,,Covington,,a10,p
+Southern Association,SOAMOB,Mobile,1915-SL,19150421-SOAMOB-SOANOR-0,,,Covington,,a08,p
+Southern Association,SOAMOB,Mobile,1915-SL,19150416-SOABIR-SOAMOB-0,,,Cowan,,a06,3b-1b
+Southern Association,SOAMOB,Mobile,1915-SL,19150417-SOABIR-SOAMOB-0,,,Cowan,,a06,rf
+Southern Association,SOAMOB,Mobile,1915-SL,19150418-SOAATL-SOAMOB-0,,,Cowan,,b06,rf
+Southern Association,SOAMOB,Mobile,1915-SL,19150419-SOAATL-SOAMOB-0,,,Cowan,,b06,rf
+Southern Association,SOAMOB,Mobile,1915-SL,19150422-SOAMOB-SOANOR-0,,,Cowan,,a01,lf
+Southern Association,SOAMOB,Mobile,1915-SL,19150415-SOABIR-SOAMOB-0,,,Cunningham,,a09,p
+Southern Association,SOAMOB,Mobile,1915-SL,19150421-SOAMOB-SOANOR-0,,,Cunningham,,a09,p
+Southern Association,SOAMOB,Mobile,1915-SL,19150422-SOAMOB-SOANOR-0,,,Cunningham,,a12,p
+Southern Association,SOAMOB,Mobile,1915-SL,19150413-SOAATL-SOAMOB-0,,,Dobard,,b04,ss
+Southern Association,SOAMOB,Mobile,1915-SL,19150414-SOABIR-SOAMOB-0,,,Dobard,,a04,ss
+Southern Association,SOAMOB,Mobile,1915-SL,19150415-SOABIR-SOAMOB-0,,,Dobard,,a04,ss
+Southern Association,SOAMOB,Mobile,1915-SL,19150416-SOABIR-SOAMOB-0,,,Dobard,,a01,ss
+Southern Association,SOAMOB,Mobile,1915-SL,19150417-SOABIR-SOAMOB-0,,,Dobard,,a01,ss
+Southern Association,SOAMOB,Mobile,1915-SL,19150418-SOAATL-SOAMOB-0,,,Dobard,,b01,ss
+Southern Association,SOAMOB,Mobile,1915-SL,19150419-SOAATL-SOAMOB-0,,,Dobard,,b01,ss
+Southern Association,SOAMOB,Mobile,1915-SL,19150420-SOAATL-SOAMOB-0,,,Dobard,,b05,ss
+Southern Association,SOAMOB,Mobile,1915-SL,19150421-SOAMOB-SOANOR-0,,,Dobard,,a05,ss
+Southern Association,SOAMOB,Mobile,1915-SL,19150422-SOAMOB-SOANOR-0,,,Dobard,,a08,ss
+Southern Association,SOAMOB,Mobile,1915-SL,19150414-SOABIR-SOAMOB-0,,,Gudger,,a08,p
+Southern Association,SOAMOB,Mobile,1915-SL,19150419-SOAATL-SOAMOB-0,,,Gudger,,b08,p
+Southern Association,SOAMOB,Mobile,1915-SL,19150420-SOAATL-SOAMOB-0,,,Harkins,,b08,p
+Southern Association,SOAMOB,Mobile,1915-SL,19150422-SOAMOB-SOANOR-0,,,Harkins,,a11,p
+Southern Association,SOAMOB,Mobile,1915-SL,19150413-SOAATL-SOAMOB-0,,,Hogg,,b08,p
+Southern Association,SOAMOB,Mobile,1915-SL,19150416-SOABIR-SOAMOB-0,,,Hogg,,a04,rf
+Southern Association,SOAMOB,Mobile,1915-SL,19150417-SOABIR-SOAMOB-0,,,Hogg,,a08,p
+Southern Association,SOAMOB,Mobile,1915-SL,19150422-SOAMOB-SOANOR-0,,,Hogg,,a10,p
+Southern Association,SOAMOB,Mobile,1915-SL,19150413-SOAATL-SOAMOB-0,,,Miller,,b02,cf
+Southern Association,SOAMOB,Mobile,1915-SL,19150414-SOABIR-SOAMOB-0,,,Miller,,a02,cf
+Southern Association,SOAMOB,Mobile,1915-SL,19150415-SOABIR-SOAMOB-0,,,Miller,,a02,cf
+Southern Association,SOAMOB,Mobile,1915-SL,19150416-SOABIR-SOAMOB-0,,,Miller,,a03,cf
+Southern Association,SOAMOB,Mobile,1915-SL,19150417-SOABIR-SOAMOB-0,,,Miller,,a02,cf
+Southern Association,SOAMOB,Mobile,1915-SL,19150418-SOAATL-SOAMOB-0,,,Miller,,b02,cf
+Southern Association,SOAMOB,Mobile,1915-SL,19150419-SOAATL-SOAMOB-0,,,Miller,,b02,cf
+Southern Association,SOAMOB,Mobile,1915-SL,19150420-SOAATL-SOAMOB-0,,,Miller,,b02,cf
+Southern Association,SOAMOB,Mobile,1915-SL,19150421-SOAMOB-SOANOR-0,,,Miller,,a02,cf
+Southern Association,SOAMOB,Mobile,1915-SL,19150422-SOAMOB-SOANOR-0,,,Miller,,a02,cf
+Southern Association,SOAMOB,Mobile,1915-SL,19150413-SOAATL-SOAMOB-0,,,Northen,,b03,rf
+Southern Association,SOAMOB,Mobile,1915-SL,19150414-SOABIR-SOAMOB-0,,,Northen,,a03,rf
+Southern Association,SOAMOB,Mobile,1915-SL,19150415-SOABIR-SOAMOB-0,,,Northen,,a03,rf
+Southern Association,SOAMOB,Mobile,1915-SL,19150416-SOABIR-SOAMOB-0,,,Northen,,a05,rf
+Southern Association,SOAMOB,Mobile,1915-SL,19150417-SOABIR-SOAMOB-0,,,Northen,,a03,1b
+Southern Association,SOAMOB,Mobile,1915-SL,19150418-SOAATL-SOAMOB-0,,,Northen,,b03,1b
+Southern Association,SOAMOB,Mobile,1915-SL,19150419-SOAATL-SOAMOB-0,,,Northen,,b03,1b
+Southern Association,SOAMOB,Mobile,1915-SL,19150420-SOAATL-SOAMOB-0,,,Northen,,b03,rf
+Southern Association,SOAMOB,Mobile,1915-SL,19150421-SOAMOB-SOANOR-0,,,Northen,,a03,rf
+Southern Association,SOAMOB,Mobile,1915-SL,19150422-SOAMOB-SOANOR-0,,,Northen,,a03,rf
+Southern Association,SOAMOB,Mobile,1915-SL,19150422-SOAMOB-SOANOR-0,,,Olson,,a07,c
+Southern Association,SOAMOB,Mobile,1915-SL,19150413-SOAATL-SOAMOB-0,,,Perry,,b05,2b
+Southern Association,SOAMOB,Mobile,1915-SL,19150414-SOABIR-SOAMOB-0,,,Perry,,a05,2b
+Southern Association,SOAMOB,Mobile,1915-SL,19150415-SOABIR-SOAMOB-0,,,Perry,,a05,2b
+Southern Association,SOAMOB,Mobile,1915-SL,19150416-SOABIR-SOAMOB-0,,,Perry,,a07,2b
+Southern Association,SOAMOB,Mobile,1915-SL,19150417-SOABIR-SOAMOB-0,,,Perry,,a04,2b
+Southern Association,SOAMOB,Mobile,1915-SL,19150418-SOAATL-SOAMOB-0,,,Perry,,b04,2b
+Southern Association,SOAMOB,Mobile,1915-SL,19150419-SOAATL-SOAMOB-0,,,Perry,,b04,2b
+Southern Association,SOAMOB,Mobile,1915-SL,19150420-SOAATL-SOAMOB-0,,,Perry,,b04,2b
+Southern Association,SOAMOB,Mobile,1915-SL,19150421-SOAMOB-SOANOR-0,,,Perry,,a04,2b
+Southern Association,SOAMOB,Mobile,1915-SL,19150422-SOAMOB-SOANOR-0,,,Perry,,a04,2b
+Southern Association,SOAMOB,Mobile,1915-SL,19150413-SOAATL-SOAMOB-0,,,Powell,,b00,lf
+Southern Association,SOAMOB,Mobile,1915-SL,19150414-SOABIR-SOAMOB-0,,,Powell,,a00,lf
+Southern Association,SOAMOB,Mobile,1915-SL,19150415-SOABIR-SOAMOB-0,,,Powell,,a00,lf
+Southern Association,SOAMOB,Mobile,1915-SL,19150416-SOABIR-SOAMOB-0,,,Powell,,a00,lf
+Southern Association,SOAMOB,Mobile,1915-SL,19150417-SOABIR-SOAMOB-0,,,Powell,,a00,lf
+Southern Association,SOAMOB,Mobile,1915-SL,19150418-SOAATL-SOAMOB-0,,,Powell,,b00,lf
+Southern Association,SOAMOB,Mobile,1915-SL,19150419-SOAATL-SOAMOB-0,,,Powell,,b00,lf
+Southern Association,SOAMOB,Mobile,1915-SL,19150420-SOAATL-SOAMOB-0,,,Powell,,b00,lf
+Southern Association,SOAMOB,Mobile,1915-SL,19150421-SOAMOB-SOANOR-0,,,Powell,,a00,lf
+Southern Association,SOAMOB,Mobile,1915-SL,19150422-SOAMOB-SOANOR-0,,,Powell,,a00,lf
+Southern Association,SOAMOB,Mobile,1915-SL,19150413-SOAATL-SOAMOB-0,,,Schmidt,,b07,c
+Southern Association,SOAMOB,Mobile,1915-SL,19150414-SOABIR-SOAMOB-0,,,Schmidt,,a07,c
+Southern Association,SOAMOB,Mobile,1915-SL,19150415-SOABIR-SOAMOB-0,,,Schmidt,,a07,c
+Southern Association,SOAMOB,Mobile,1915-SL,19150416-SOABIR-SOAMOB-0,,,Schmidt,,a09,c
+Southern Association,SOAMOB,Mobile,1915-SL,19150417-SOABIR-SOAMOB-0,,,Schmidt,,a05,c
+Southern Association,SOAMOB,Mobile,1915-SL,19150418-SOAATL-SOAMOB-0,,,Schmidt,,b05,c
+Southern Association,SOAMOB,Mobile,1915-SL,19150419-SOAATL-SOAMOB-0,,,Schmidt,,b05,c
+Southern Association,SOAMOB,Mobile,1915-SL,19150420-SOAATL-SOAMOB-0,,,Schmidt,,b07,c
+Southern Association,SOAMOB,Mobile,1915-SL,19150421-SOAMOB-SOANOR-0,,,Schmidt,,a07,c
+Southern Association,SOAMOB,Mobile,1915-SL,19150422-SOAMOB-SOANOR-0,,,Schmidt,,a06,c
+Southern Association,SOAMOB,Mobile,1915-SL,19150415-SOABIR-SOAMOB-0,,,Townsend,,a08,p
+Southern Association,SOAMOB,Mobile,1915-SL,19150418-SOAATL-SOAMOB-0,,,Townsend,,b08,p
+Southern Association,SOANVL,Nashville,1915-SL,19150413-SOACNG-SOANVL-0,,,Baker,,b02,2b
+Southern Association,SOANVL,Nashville,1915-SL,19150414-SOALRK-SOANVL-0,,,Baker,,a02,2b
+Southern Association,SOANVL,Nashville,1915-SL,19150415-SOALRK-SOANVL-0,,,Baker,,a02,2b
+Southern Association,SOANVL,Nashville,1915-SL,19150416-SOALRK-SOANVL-0,,,Baker,,a02,2b
+Southern Association,SOANVL,Nashville,1915-SL,19150417-SOALRK-SOANVL-0,,,Baker,,a02,2b
+Southern Association,SOANVL,Nashville,1915-SL,19150418-SOACNG-SOANVL-0,,,Baker,,b02,2b
+Southern Association,SOANVL,Nashville,1915-SL,19150419-SOACNG-SOANVL-0,,,Baker,,b02,2b
+Southern Association,SOANVL,Nashville,1915-SL,19150420-SOACNG-SOANVL-0,,,Baker,,b02,2b
+Southern Association,SOANVL,Nashville,1915-SL,19150421-SOAMEM-SOANVL-0,,,Baker,,b02,2b
+Southern Association,SOANVL,Nashville,1915-SL,19150422-SOAMEM-SOANVL-0,,,Baker,,b02,2b
+Southern Association,SOANVL,Nashville,1915-SL,19150423-SOAMEM-SOANVL-0,,,Baker,,b02,2b
+Southern Association,SOANVL,Nashville,1915-SL,19150413-SOACNG-SOANVL-0,,,Berger,,b09,p
+Southern Association,SOANVL,Nashville,1915-SL,19150419-SOACNG-SOANVL-0,,,Berger,,b08,p
+Southern Association,SOANVL,Nashville,1915-SL,19150417-SOALRK-SOANVL-0,,,Clarke,,a08,p
+Southern Association,SOANVL,Nashville,1915-SL,19150420-SOACNG-SOANVL-0,,,Clarke,,b09,p
+Southern Association,SOANVL,Nashville,1915-SL,19150423-SOAMEM-SOANVL-0,,,Diamond,,b06,3b
+Southern Association,SOANVL,Nashville,1915-SL,19150413-SOACNG-SOANVL-0,,,Dodge,,b05,3b
+Southern Association,SOANVL,Nashville,1915-SL,19150414-SOALRK-SOANVL-0,,,Dodge,,a05,3b
+Southern Association,SOANVL,Nashville,1915-SL,19150415-SOALRK-SOANVL-0,,,Dodge,,a05,3b
+Southern Association,SOANVL,Nashville,1915-SL,19150416-SOALRK-SOANVL-0,,,Dodge,,a05,3b
+Southern Association,SOANVL,Nashville,1915-SL,19150417-SOALRK-SOANVL-0,,,Dodge,,a05,3b
+Southern Association,SOANVL,Nashville,1915-SL,19150418-SOACNG-SOANVL-0,,,Dodge,,b05,3b
+Southern Association,SOANVL,Nashville,1915-SL,19150419-SOACNG-SOANVL-0,,,Dodge,,b05,3b
+Southern Association,SOANVL,Nashville,1915-SL,19150420-SOACNG-SOANVL-0,,,Dodge,,b05,3b
+Southern Association,SOANVL,Nashville,1915-SL,19150421-SOAMEM-SOANVL-0,,,Dodge,,b05,3b
+Southern Association,SOANVL,Nashville,1915-SL,19150422-SOAMEM-SOANVL-0,,,Dodge,,b05,3b
+Southern Association,SOANVL,Nashville,1915-SL,19150423-SOAMEM-SOANVL-0,,,Dodge,,b05,3b
+Southern Association,SOANVL,Nashville,1915-SL,19150413-SOACNG-SOANVL-0,,,Farmer,,b04,rf
+Southern Association,SOANVL,Nashville,1915-SL,19150414-SOALRK-SOANVL-0,,,Farmer,,a04,rf
+Southern Association,SOANVL,Nashville,1915-SL,19150415-SOALRK-SOANVL-0,,,Farmer,,a04,rf
+Southern Association,SOANVL,Nashville,1915-SL,19150416-SOALRK-SOANVL-0,,,Farmer,,a04,rf
+Southern Association,SOANVL,Nashville,1915-SL,19150417-SOALRK-SOANVL-0,,,Farmer,,a04,rf
+Southern Association,SOANVL,Nashville,1915-SL,19150418-SOACNG-SOANVL-0,,,Farmer,,b04,rf
+Southern Association,SOANVL,Nashville,1915-SL,19150419-SOACNG-SOANVL-0,,,Farmer,,b04,rf
+Southern Association,SOANVL,Nashville,1915-SL,19150420-SOACNG-SOANVL-0,,,Farmer,,b04,rf
+Southern Association,SOANVL,Nashville,1915-SL,19150421-SOAMEM-SOANVL-0,,,Farmer,,b04,rf
+Southern Association,SOANVL,Nashville,1915-SL,19150422-SOAMEM-SOANVL-0,,,Farmer,,b04,rf
+Southern Association,SOANVL,Nashville,1915-SL,19150423-SOAMEM-SOANVL-0,,,Farmer,,b04,rf
+Southern Association,SOANVL,Nashville,1915-SL,19150413-SOACNG-SOANVL-0,,,King,,b00,cf
+Southern Association,SOANVL,Nashville,1915-SL,19150414-SOALRK-SOANVL-0,,,King,,a00,cf
+Southern Association,SOANVL,Nashville,1915-SL,19150415-SOALRK-SOANVL-0,,,King,,a00,cf
+Southern Association,SOANVL,Nashville,1915-SL,19150416-SOALRK-SOANVL-0,,,King,,a00,cf
+Southern Association,SOANVL,Nashville,1915-SL,19150417-SOALRK-SOANVL-0,,,King,,a00,cf
+Southern Association,SOANVL,Nashville,1915-SL,19150418-SOACNG-SOANVL-0,,,King,,b00,cf
+Southern Association,SOANVL,Nashville,1915-SL,19150419-SOACNG-SOANVL-0,,,King,,b00,cf
+Southern Association,SOANVL,Nashville,1915-SL,19150420-SOACNG-SOANVL-0,,,King,,b00,cf
+Southern Association,SOANVL,Nashville,1915-SL,19150421-SOAMEM-SOANVL-0,,,King,,b00,cf
+Southern Association,SOANVL,Nashville,1915-SL,19150422-SOAMEM-SOANVL-0,,,King,,b00,cf
+Southern Association,SOANVL,Nashville,1915-SL,19150423-SOAMEM-SOANVL-0,,,King,,b00,cf
+Southern Association,SOANVL,Nashville,1915-SL,19150414-SOALRK-SOANVL-0,,,Kroh,,a08,p
+Southern Association,SOANVL,Nashville,1915-SL,19150420-SOACNG-SOANVL-0,,,Kroh,,b08,p
+Southern Association,SOANVL,Nashville,1915-SL,19150416-SOALRK-SOANVL-0,,,Leverett,,a08,p
+Southern Association,SOANVL,Nashville,1915-SL,19150422-SOAMEM-SOANVL-0,,,Leverette,,b08,p
+Southern Association,SOANVL,Nashville,1915-SL,19150413-SOACNG-SOANVL-0,,,McCabe,,b06,lf
+Southern Association,SOANVL,Nashville,1915-SL,19150414-SOALRK-SOANVL-0,,,McCabe,,a06,lf
+Southern Association,SOANVL,Nashville,1915-SL,19150415-SOALRK-SOANVL-0,,,McCabe,,a06,lf
+Southern Association,SOANVL,Nashville,1915-SL,19150416-SOALRK-SOANVL-0,,,McCabe,,a06,lf
+Southern Association,SOANVL,Nashville,1915-SL,19150417-SOALRK-SOANVL-0,,,McCabe,,a06,lf
+Southern Association,SOANVL,Nashville,1915-SL,19150418-SOACNG-SOANVL-0,,,McCabe,,b06,lf
+Southern Association,SOANVL,Nashville,1915-SL,19150419-SOACNG-SOANVL-0,,,McCabe,,b06,lf
+Southern Association,SOANVL,Nashville,1915-SL,19150420-SOACNG-SOANVL-0,,,McCabe,,b06,lf
+Southern Association,SOANVL,Nashville,1915-SL,19150421-SOAMEM-SOANVL-0,,,McCabe,,b06,lf
+Southern Association,SOANVL,Nashville,1915-SL,19150422-SOAMEM-SOANVL-0,,,McCabe,,b06,lf
+Southern Association,SOANVL,Nashville,1915-SL,19150423-SOAMEM-SOANVL-0,,,McCabe,,b07,lf
+Southern Association,SOANVL,Nashville,1915-SL,19150418-SOACNG-SOANVL-0,,,McLeod,,b08,p
+Southern Association,SOANVL,Nashville,1915-SL,19150423-SOAMEM-SOANVL-0,,,McLeod,,b09,p
+Southern Association,SOANVL,Nashville,1915-SL,19150415-SOALRK-SOANVL-0,,,Paulet,,a03,1b
+Southern Association,SOANVL,Nashville,1915-SL,19150416-SOALRK-SOANVL-0,,,Paulet,,a03,1b
+Southern Association,SOANVL,Nashville,1915-SL,19150418-SOACNG-SOANVL-0,,,Paulet,,b03,1b
+Southern Association,SOANVL,Nashville,1915-SL,19150419-SOACNG-SOANVL-0,,,Paulet,,b03,1b
+Southern Association,SOANVL,Nashville,1915-SL,19150420-SOACNG-SOANVL-0,,,Paulet,,b03,1b
+Southern Association,SOANVL,Nashville,1915-SL,19150421-SOAMEM-SOANVL-0,,,Paulet,,b03,1b
+Southern Association,SOANVL,Nashville,1915-SL,19150422-SOAMEM-SOANVL-0,,,Paulet,,b03,1b
+Southern Association,SOANVL,Nashville,1915-SL,19150423-SOAMEM-SOANVL-0,,,Paulet,,b03,1b
+Southern Association,SOANVL,Nashville,1915-SL,19150413-SOACNG-SOANVL-0,,,Paulette,,b03,1b
+Southern Association,SOANVL,Nashville,1915-SL,19150414-SOALRK-SOANVL-0,,,Paulette,,a03,1b
+Southern Association,SOANVL,Nashville,1915-SL,19150417-SOALRK-SOANVL-0,,,Paulette,,a03,1b
+Southern Association,SOANVL,Nashville,1915-SL,19150415-SOALRK-SOANVL-0,,,Rogers,,a08,p
+Southern Association,SOANVL,Nashville,1915-SL,19150421-SOAMEM-SOANVL-0,,,Rogers,,b08,p
+Southern Association,SOANVL,Nashville,1915-SL,19150413-SOACNG-SOANVL-0,,,Smith,,b08,c
+Southern Association,SOANVL,Nashville,1915-SL,19150418-SOACNG-SOANVL-0,,,Smith,,b07,c
+Southern Association,SOANVL,Nashville,1915-SL,19150419-SOACNG-SOANVL-0,,,Smith,,b07,c
+Southern Association,SOANVL,Nashville,1915-SL,19150420-SOACNG-SOANVL-0,,,Smith,,b10,ph
+Southern Association,SOANVL,Nashville,1915-SL,19150421-SOAMEM-SOANVL-0,,,Smith,,b07,c
+Southern Association,SOANVL,Nashville,1915-SL,19150422-SOAMEM-SOANVL-0,,,Smith,,b07,c
+Southern Association,SOANVL,Nashville,1915-SL,19150423-SOAMEM-SOANVL-0,,,Smith,,b08,c
+Southern Association,SOANVL,Nashville,1915-SL,19150413-SOACNG-SOANVL-0,,,Stark,,b01,ss
+Southern Association,SOANVL,Nashville,1915-SL,19150414-SOALRK-SOANVL-0,,,Stark,,a01,ss
+Southern Association,SOANVL,Nashville,1915-SL,19150415-SOALRK-SOANVL-0,,,Stark,,a01,ss
+Southern Association,SOANVL,Nashville,1915-SL,19150416-SOALRK-SOANVL-0,,,Stark,,a01,ss
+Southern Association,SOANVL,Nashville,1915-SL,19150417-SOALRK-SOANVL-0,,,Stark,,a01,ss
+Southern Association,SOANVL,Nashville,1915-SL,19150418-SOACNG-SOANVL-0,,,Stark,,b01,ss
+Southern Association,SOANVL,Nashville,1915-SL,19150419-SOACNG-SOANVL-0,,,Stark,,b01,ss
+Southern Association,SOANVL,Nashville,1915-SL,19150420-SOACNG-SOANVL-0,,,Stark,,b01,ss
+Southern Association,SOANVL,Nashville,1915-SL,19150421-SOAMEM-SOANVL-0,,,Stark,,b01,ss
+Southern Association,SOANVL,Nashville,1915-SL,19150422-SOAMEM-SOANVL-0,,,Stark,,b01,ss
+Southern Association,SOANVL,Nashville,1915-SL,19150423-SOAMEM-SOANVL-0,,,Stark,,b01,ss
+Southern Association,SOANVL,Nashville,1915-SL,19150413-SOACNG-SOANVL-0,,,Street,,b07,c
+Southern Association,SOANVL,Nashville,1915-SL,19150414-SOALRK-SOANVL-0,,,Street,,a07,c
+Southern Association,SOANVL,Nashville,1915-SL,19150415-SOALRK-SOANVL-0,,,Street,,a07,c
+Southern Association,SOANVL,Nashville,1915-SL,19150416-SOALRK-SOANVL-0,,,Street,,a07,c
+Southern Association,SOANVL,Nashville,1915-SL,19150417-SOALRK-SOANVL-0,,,Street,,a07,c
+Southern Association,SOANVL,Nashville,1915-SL,19150420-SOACNG-SOANVL-0,,,Street,,b07,c
+Southern Association,SOANOR,New Orleans,1915-SL,19150414-SOAATL-SOANOR-0,,,Bagby,,a08,p
+Southern Association,SOANOR,New Orleans,1915-SL,19150419-SOABIR-SOANOR-0,,,Bagby,,b09,p
+Southern Association,SOANOR,New Orleans,1915-SL,19150413-SOABIR-SOANOR-0,,,Beck,,b09,p
+Southern Association,SOANOR,New Orleans,1915-SL,19150416-SOAATL-SOANOR-0,,,Beck,,a09,p
+Southern Association,SOANOR,New Orleans,1915-SL,19150422-SOAMOB-SOANOR-0,,,Beck,,b09,p
+Southern Association,SOANOR,New Orleans,1915-SL,19150413-SOABIR-SOANOR-0,,,Bluhm,,b06,1b
+Southern Association,SOANOR,New Orleans,1915-SL,19150414-SOAATL-SOANOR-0,,,Bluhm,,a06,1b
+Southern Association,SOANOR,New Orleans,1915-SL,19150415-SOAATL-SOANOR-0,,,Bluhm,,a06,1b
+Southern Association,SOANOR,New Orleans,1915-SL,19150416-SOAATL-SOANOR-0,,,Bluhm,,a06,1b
+Southern Association,SOANOR,New Orleans,1915-SL,19150417-SOAATL-SOANOR-0,,,Bluhm,,a06,1b
+Southern Association,SOANOR,New Orleans,1915-SL,19150418-SOABIR-SOANOR-0,,,Bluhm,,b06,1b
+Southern Association,SOANOR,New Orleans,1915-SL,19150419-SOABIR-SOANOR-0,,,Bluhm,,b07,1b
+Southern Association,SOANOR,New Orleans,1915-SL,19150420-SOABIR-SOANOR-0,,,Bluhm,,b06,1b
+Southern Association,SOANOR,New Orleans,1915-SL,19150421-SOAMOB-SOANOR-0,,,Bluhm,,b06,1b
+Southern Association,SOANOR,New Orleans,1915-SL,19150422-SOAMOB-SOANOR-0,,,Bluhm,,b06,1b
+Southern Association,SOANOR,New Orleans,1915-SL,19150417-SOAATL-SOANOR-0,,,Coyle,,a09,lf
+Southern Association,SOANOR,New Orleans,1915-SL,19150420-SOABIR-SOANOR-0,,,Coyle,,b04,rf
+Southern Association,SOANOR,New Orleans,1915-SL,19150421-SOAMOB-SOANOR-0,,,Coyle,,b04,rf
+Southern Association,SOANOR,New Orleans,1915-SL,19150422-SOAMOB-SOANOR-0,,,Coyle,,b04,rf
+Southern Association,SOANOR,New Orleans,1915-SL,19150417-SOAATL-SOANOR-0,,,Edmon'n,,a04,rf
+Southern Association,SOANOR,New Orleans,1915-SL,19150418-SOABIR-SOANOR-0,,,Edmon'n,,b04,rf
+Southern Association,SOANOR,New Orleans,1915-SL,19150419-SOABIR-SOANOR-0,,,Edmon'n,,b04,rf
+Southern Association,SOANOR,New Orleans,1915-SL,19150413-SOABIR-SOANOR-0,,,Edmondson,,b04,rf
+Southern Association,SOANOR,New Orleans,1915-SL,19150414-SOAATL-SOANOR-0,,,Edmondson,,a04,rf
+Southern Association,SOANOR,New Orleans,1915-SL,19150415-SOAATL-SOANOR-0,,,Edmondson,,a04,rf
+Southern Association,SOANOR,New Orleans,1915-SL,19150416-SOAATL-SOANOR-0,,,Edmondson,,a04,rf
+Southern Association,SOANOR,New Orleans,1915-SL,19150419-SOABIR-SOANOR-0,,,Flick,,b06,2b
+Southern Association,SOANOR,New Orleans,1915-SL,19150421-SOAMOB-SOANOR-0,,,Flick,,b05,2b
+Southern Association,SOANOR,New Orleans,1915-SL,19150422-SOAMOB-SOANOR-0,,,Flick,,b05,2b
+Southern Association,SOANOR,New Orleans,1915-SL,19150415-SOAATL-SOANOR-0,,,Frost,,a08,p
+Southern Association,SOANOR,New Orleans,1915-SL,19150420-SOABIR-SOANOR-0,,,Frost,,b08,p
+Southern Association,SOANOR,New Orleans,1915-SL,19150413-SOABIR-SOANOR-0,,,Hendryx,,b00,cf
+Southern Association,SOANOR,New Orleans,1915-SL,19150414-SOAATL-SOANOR-0,,,Hendryx,,a00,cf
+Southern Association,SOANOR,New Orleans,1915-SL,19150415-SOAATL-SOANOR-0,,,Hendryx,,a00,cf
+Southern Association,SOANOR,New Orleans,1915-SL,19150416-SOAATL-SOANOR-0,,,Hendryx,,a00,cf
+Southern Association,SOANOR,New Orleans,1915-SL,19150417-SOAATL-SOANOR-0,,,Hendryx,,a00,cf
+Southern Association,SOANOR,New Orleans,1915-SL,19150418-SOABIR-SOANOR-0,,,Hendryx,,b00,cf
+Southern Association,SOANOR,New Orleans,1915-SL,19150419-SOABIR-SOANOR-0,,,Hendryx,,b00,cf
+Southern Association,SOANOR,New Orleans,1915-SL,19150420-SOABIR-SOANOR-0,,,Hendryx,,b00,cf
+Southern Association,SOANOR,New Orleans,1915-SL,19150421-SOAMOB-SOANOR-0,,,Hendryx,,b00,cf
+Southern Association,SOANOR,New Orleans,1915-SL,19150422-SOAMOB-SOANOR-0,,,Hendryx,,b00,cf
+Southern Association,SOANOR,New Orleans,1915-SL,19150413-SOABIR-SOANOR-0,,,Higgins,,b07,c
+Southern Association,SOANOR,New Orleans,1915-SL,19150414-SOAATL-SOANOR-0,,,Higgins,,a07,c
+Southern Association,SOANOR,New Orleans,1915-SL,19150415-SOAATL-SOANOR-0,,,Higgins,,a07,c
+Southern Association,SOANOR,New Orleans,1915-SL,19150416-SOAATL-SOANOR-0,,,Higgins,,a07,c
+Southern Association,SOANOR,New Orleans,1915-SL,19150417-SOAATL-SOANOR-0,,,Higgins,,a07,c
+Southern Association,SOANOR,New Orleans,1915-SL,19150418-SOABIR-SOANOR-0,,,Higgins,,b07,c
+Southern Association,SOANOR,New Orleans,1915-SL,19150419-SOABIR-SOANOR-0,,,Higgins,,b08,c
+Southern Association,SOANOR,New Orleans,1915-SL,19150420-SOABIR-SOANOR-0,,,Higgins,,b07,c
+Southern Association,SOANOR,New Orleans,1915-SL,19150421-SOAMOB-SOANOR-0,,,Higgins,,b07,c
+Southern Association,SOANOR,New Orleans,1915-SL,19150422-SOAMOB-SOANOR-0,,,Higgins,,b07,c
+Southern Association,SOANOR,New Orleans,1915-SL,19150422-SOAMOB-SOANOR-0,,,Hovlik,,b11,p
+Southern Association,SOANOR,New Orleans,1915-SL,19150413-SOABIR-SOANOR-0,,,Knaupp,,b05,ss
+Southern Association,SOANOR,New Orleans,1915-SL,19150414-SOAATL-SOANOR-0,,,Knaupp,,a05,ss
+Southern Association,SOANOR,New Orleans,1915-SL,19150415-SOAATL-SOANOR-0,,,Knaupp,,a05,ss
+Southern Association,SOANOR,New Orleans,1915-SL,19150416-SOAATL-SOANOR-0,,,Knaupp,,a05,ss
+Southern Association,SOANOR,New Orleans,1915-SL,19150417-SOAATL-SOANOR-0,,,Knaupp,,a05,ss
+Southern Association,SOANOR,New Orleans,1915-SL,19150418-SOABIR-SOANOR-0,,,Knaupp,,b05,ss
+Southern Association,SOANOR,New Orleans,1915-SL,19150419-SOABIR-SOANOR-0,,,Knaupp,,b05,ss
+Southern Association,SOANOR,New Orleans,1915-SL,19150420-SOABIR-SOANOR-0,,,Knaupp,,b05,ss
+Southern Association,SOANOR,New Orleans,1915-SL,19150422-SOAMOB-SOANOR-0,,,Knaupp,,b08,c
+Southern Association,SOANOR,New Orleans,1915-SL,19150413-SOABIR-SOANOR-0,,,Morgan,,b08,p
+Southern Association,SOANOR,New Orleans,1915-SL,19150418-SOABIR-SOANOR-0,,,Morgan,,b08,p
+Southern Association,SOANOR,New Orleans,1915-SL,19150422-SOAMOB-SOANOR-0,,,Morgan,,b10,p
+Southern Association,SOANOR,New Orleans,1915-SL,19150413-SOABIR-SOANOR-0,,,Reilly,,b01,2b
+Southern Association,SOANOR,New Orleans,1915-SL,19150414-SOAATL-SOANOR-0,,,Reilly,,a01,2b
+Southern Association,SOANOR,New Orleans,1915-SL,19150415-SOAATL-SOANOR-0,,,Reilly,,a01,2b
+Southern Association,SOANOR,New Orleans,1915-SL,19150416-SOAATL-SOANOR-0,,,Reilly,,a01,2b
+Southern Association,SOANOR,New Orleans,1915-SL,19150417-SOAATL-SOANOR-0,,,Reilly,,a01,2b
+Southern Association,SOANOR,New Orleans,1915-SL,19150418-SOABIR-SOANOR-0,,,Reilly,,b01,2b
+Southern Association,SOANOR,New Orleans,1915-SL,19150419-SOABIR-SOANOR-0,,,Reilly,,b01,2b-ss
+Southern Association,SOANOR,New Orleans,1915-SL,19150420-SOABIR-SOANOR-0,,,Reilly,,b01,2b
+Southern Association,SOANOR,New Orleans,1915-SL,19150421-SOAMOB-SOANOR-0,,,Reilly,,b01,ss
+Southern Association,SOANOR,New Orleans,1915-SL,19150422-SOAMOB-SOANOR-0,,,Reilly,,b01,ss
+Southern Association,SOANOR,New Orleans,1915-SL,19150413-SOABIR-SOANOR-0,,,Smith,,b10,p
+Southern Association,SOANOR,New Orleans,1915-SL,19150415-SOAATL-SOANOR-0,,,Smith,,a09,p
+Southern Association,SOANOR,New Orleans,1915-SL,19150417-SOAATL-SOANOR-0,,,Smith,,a08,p
+Southern Association,SOANOR,New Orleans,1915-SL,19150421-SOAMOB-SOANOR-0,,,Smith,,b08,p
+Southern Association,SOANOR,New Orleans,1915-SL,19150413-SOABIR-SOANOR-0,,,Sylvester,,b02,lf
+Southern Association,SOANOR,New Orleans,1915-SL,19150414-SOAATL-SOANOR-0,,,Sylvester,,a02,lf
+Southern Association,SOANOR,New Orleans,1915-SL,19150415-SOAATL-SOANOR-0,,,Sylvester,,a02,lf
+Southern Association,SOANOR,New Orleans,1915-SL,19150416-SOAATL-SOANOR-0,,,Sylvester,,a02,lf
+Southern Association,SOANOR,New Orleans,1915-SL,19150417-SOAATL-SOANOR-0,,,Sylvester,,a02,lf
+Southern Association,SOANOR,New Orleans,1915-SL,19150418-SOABIR-SOANOR-0,,,Sylvester,,b02,lf
+Southern Association,SOANOR,New Orleans,1915-SL,19150419-SOABIR-SOANOR-0,,,Sylvester,,b02,lf
+Southern Association,SOANOR,New Orleans,1915-SL,19150420-SOABIR-SOANOR-0,,,Sylvester,,b02,lf
+Southern Association,SOANOR,New Orleans,1915-SL,19150421-SOAMOB-SOANOR-0,,,Sylvester,,b02,lf
+Southern Association,SOANOR,New Orleans,1915-SL,19150422-SOAMOB-SOANOR-0,,,Sylvester,,b02,lf
+Southern Association,SOANOR,New Orleans,1915-SL,19150413-SOABIR-SOANOR-0,,,Thomas,,b03,3b
+Southern Association,SOANOR,New Orleans,1915-SL,19150414-SOAATL-SOANOR-0,,,Thomas,,a03,3b
+Southern Association,SOANOR,New Orleans,1915-SL,19150415-SOAATL-SOANOR-0,,,Thomas,,a03,3b
+Southern Association,SOANOR,New Orleans,1915-SL,19150416-SOAATL-SOANOR-0,,,Thomas,,a03,3b
+Southern Association,SOANOR,New Orleans,1915-SL,19150417-SOAATL-SOANOR-0,,,Thomas,,a03,3b
+Southern Association,SOANOR,New Orleans,1915-SL,19150418-SOABIR-SOANOR-0,,,Thomas,,b03,3b
+Southern Association,SOANOR,New Orleans,1915-SL,19150419-SOABIR-SOANOR-0,,,Thomas,,b03,3b
+Southern Association,SOANOR,New Orleans,1915-SL,19150420-SOABIR-SOANOR-0,,,Thomas,,b03,3b
+Southern Association,SOANOR,New Orleans,1915-SL,19150421-SOAMOB-SOANOR-0,,,Thomas,,b03,3b
+Southern Association,SOANOR,New Orleans,1915-SL,19150422-SOAMOB-SOANOR-0,,,Thomas,,b03,3b
+Southern Association,SOANOR,New Orleans,1915-SL,19150416-SOAATL-SOANOR-0,,,Weaver,,a08,p
+Southern Association,SOANOR,New Orleans,1915-SL,19150418-SOABIR-SOANOR-0,,,Weaver,,b09,p

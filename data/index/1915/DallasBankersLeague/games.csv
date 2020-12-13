@@ -1,0 +1,6 @@
+key,league,date,number,source,team1.name,team1.align,team1.score,team2.name,team2.align,team2.score,status_code,status_reason
+19150410-DBLAMX-DBLSEC-0,Dallas Bankers League,1915-04-10,0,1915-DMN,American Exchange,a,11,Security,h,12,final,
+19150410-DBLCNA-DBLFIR-0,Dallas Bankers League,1915-04-10,0,1915-DMN,First State,a,0,City Nationals,h,15,final,
+19150417-DBLCNA-DBLSEC-0,Dallas Bankers League,1915-04-17,0,1915-DMN,Security,a,1,City Nationals,h,5,final,
+19150508-DBLAMX-DBLFIR-0,Dallas Bankers League,1915-05-08,0,1915-DMN,American Exchange,a,,First State,h,,final,
+19150508-DBLCNA-DBLSEC-0,Dallas Bankers League,1915-05-08,0,1915-DMN,City Nationals,a,6,Security,h,0,final,
