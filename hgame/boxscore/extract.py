@@ -111,7 +111,10 @@ def parse_duration(game: dict, value: str):
 
 def parse_player_table(team: dict, data):
     while True:
-        k, v = next(data)
+        try:
+            k, v = next(data)
+        except ValueError:
+            print(f"WARNING: Ill-formed player line after '{k}'")
         if k == "TOTALS":
             break
         name, pos = (x.strip() for x in k.split("@"))
