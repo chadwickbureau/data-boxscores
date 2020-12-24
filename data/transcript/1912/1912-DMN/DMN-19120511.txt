@@ -1,0 +1,385 @@
+date: 1912-05-10
+number: 0
+league: Texas
+away: Dallas
+home: San Antonio
+
+note: Meehan broke bone in right leg sliding into second in the 4th
+
+San Antonio:	ab r h po a e
+Seitz @ rf-cf:	1 2 0 3 1 0
+Leidy @ cf-rf:	2 0 0 3 0 0
+Wallace @ ss:	4 0 2 4 0 1
+Metz @ 1b:		2 0 1 7 3 0
+Smith @ c:		4 0 0 7 1 0
+Meehan, Eddie @ lf:	2 0 0 0 0 0
+Browning @ p:	3 1 0 1 2 0
+Doringer @ 2b:	4 0 0 1 4 2
+Midkiff @ 3b:	4 0 1 1 3 1
+Betts @ rf:		2 0 0 0 0 0
+TOTALS:		28 3 4 27 14 4
+
+Dallas:		ab r h po a e
+Forsythe @ 1b:	5 0 1 6 0 0
+Ens @ 2b:		5 0 2 2 2 0
+Gibson @ c:		4 0 2 8 1 1 
+Duncan @ rf:	4 0 0 2 0 0
+Wilson @ lf:	4 0 1 1 0 0
+Kellerman @ ss:	3 1 2 4 2 0
+Tullos @ 3b:	4 0 0 1 1 2
+Schuman @ cf:	2 0 0 0 0 0
+Pate @ p:		1 0 0 0 0 0
+Sewell @ p:		2 0 0 0 5 0
+*Evans @ ph:	1 0 0 0 0 0
+Tierney @ cf:	0 0 0 0 0 0
+TOTALS:		35 1 8 24 11 3
+
+*: Batted for Schuman in 8th
+
+line: San Antonio: 1 2 0 0 0 0 0 0 x - 3
+line: Dallas: 0 1 0 0 0 0 0 0 0 - 1
+
+P_R: Pate #3
+P_H: Pate #2; Sewell #2
+B_SB: Wallace #2; Metz; Meehan
+B_SH: Seitz; Gibson
+P_SO: Browning #6; Pate #3
+P_BB: Pate #5; Browning #3; Sewell #1
+P_HP: Pate #2; Sewell #1
+B_LOB: San Antonio #11; Dallas #10
+F_DP: Kellerman
+T: 1:50
+U: Van Syckle
+
+---
+
+date: 1912-05-10
+number: 0
+league: Texas
+away: Waco
+home: Houston
+
+note: Fillman broke knuckle in left hand
+note: Tanner homered over the LF fence, supposedly the first there since 1908
+
+Houston:	ab r h po a e
+Fillman @ 2b:	1 0 0 0 0 0
+Britton @ 3b:	4 2 1 0 4 0
+Davis @ cf-lf:	4 2 1 3 0 0
+Newnam @ 1b:	3 2 1 1 0 0
+Whiteman @ lf:	4 1 2 1 1 0
+Knaupp @ ss:	4 1 1 1 2 0
+Allen @ rf:		4 1 3 0 0 0
+Reynolds @ c:	4 0 1 10 2 0
+Ray @ p:		3 1 1 1 2 0
+Foster @ cf:	4 0 0 0 0 1
+Watson @ p:		1 0 0 0 0 0
+TOTALS:			36 10 11 27 11 1
+
+Waco:		ab r h po a e
+Tanner @ ss:	5 1 2 0 7 1
+Aiken @ 3b:		5 0 1 0 0 0
+Stewart @ cf:	5 1 1 2 0 0
+Rennard @ rf:	4 1 1 2 0 0
+Wohleben @ 1b:	5 2 2 11 0 0
+Crichlow @ lf:	3 1 2 1 1 1 
+Dugey @ 2b:		4 0 1 0 0 1
+Carson @ c:		4 0 1 8 0 0
+Taff @ p:		3 0 0 0 3 0
+Lohman @ p:		0 0 0 0 1 0
+Jost @ p:		1 0 0 0 0 0
+TOTALS:			39 6 11 24 12 3
+
+line: Houston: 4 0 0 0 0 6 0 0 x - 10
+line: Waco: 1 0 3 0 2 0 0 0 0 - 6
+
+B_HR: Tanner
+B_3B: Whiteman
+B_2B: Newnam; Stewart; Wohleben #2; Allen; Crichlow; Carson; Whiteman; Rennard
+P_H: Taff #9; Lohman #2; Ray #10; Watson #1
+P_R: Taff #4; Lohman #6; Ray #6
+P_BB: Ray #2; Taff #1; Watson #2
+P_SO: Ray #5; Taff #2; Watson #4; Jost #3
+P_HP: Lohman #2
+B_SB: Knaupp; Crichlow
+P_WP: Ray
+B_LOB: Houston #5; Waco #10
+T: 2:10
+U: Salm, Walter
+
+---
+
+date: 1912-05-10
+number: 0
+league: Texas
+away: Fort Worth
+home: Galveston
+status: postponed, wet grounds
+
+---
+
+date: 1912-05-10
+number: 0
+league: Texas
+away: Austin
+home: Beaumont
+status: postponed, rain
+
+---
+
+date: 1912-05-10
+number: 0
+league: South Central
+away: Cleburne
+home: Longview
+
+Cleburne:		ab r h po a e
+Weber @ 2b:		4 0 0 1 1 0
+Gardner @ 3b:	3 0 1 6 0 0
+Kerr @ rf:		4 0 0 2 0 1
+Jutzie @ 1b:	2 0 0 8 0 0
+Sorry @ ss:		4 1 0 2 1 0
+Adams @ lf:		1 0 0 1 0 0
+White @ cf:		4 0 0 1 0 0
+Ritter @ c:		1 0 0 2 0 0
+Hiatt @ p:		2 0 0 1 4 0
+Merrill @ p:	2 0 0 0 1 0
+TOTALS:			28 2 0 24 7 1
+
+Longview:		ab r h po a e
+Halliday @ rf:	4 0 0 0 0 0
+Daley @ 2b:		3 2 2 1 3 0
+Sheffield @ lf:	3 0 1 2 0 0
+Johns @ 3b:		3 0 2 2 0 2
+Merrett @ c:	3 0 0 9 1 0
+Crosby @ 1b:	4 0 0 9 0 1
+White @ ss:		2 0 0 0 1 1
+Hoffman @ cf:	4 0 0 3 0 0
+Trammell @ p:	4 1 2 0 5 0
+TOTALS:			30 3 7 26 10 4
+
+line: Cleburne: 0 0 0 0 0 0 2 0 0 - 2
+line: Longview: 0 0 1 0 0 0 1 0 1 - 3
+
+B_HR: Trammell
+B_ER: Longview #2
+P_BB: Hiatt #3; Merrill #3; Trammell #2
+P_SO: Hiatt #3; Merrill #4; Trammell #9
+B_LOB: Cleburne #5; Longview #9
+B_ROE: Cleburne #3; Longview #1
+B_HP: Adams; Johns; Jutzie; Daley
+T: 2:02
+U: Allen
+
+---
+
+date: 1912-05-10
+number: 0
+league: South Central
+away: Tyler
+home: Marshall
+
+Tyler:		ab r h po a e
+Johnson @ cf:	5 1 0 2 0 0
+Poindexter @ lf:	5 1 2 2 0 0
+O'Neil @ rf:	4 1 1 0 0 1
+Buster @ c:		4 0 2 8 0 2
+Campbell @ 1b:	3 0 0 10 2 0
+Hewitt @ 3b:	3 1 1 0 1 0
+Stribbel @ 2b:	4 1 1 3 4 0
+Fruth @ ss:		3 0 0 2 2 0
+Brown @ p:		4 0 0 0 8 0
+TOTALS:			35 5 7 27 17 3
+
+Marshall:	ab r h po a e
+Gowan @ cf:		3 0 0 1 0 0
+Stapleton @ 3b:	2 0 0 2 1 0
+Pappe @ ss:		3 0 0 4 3 1
+Blanchette @ 1b:	4 0 1 6 1 0
+Nagle @ rf:		4 2 3 1 0 0
+Prudhomme @ 2b:	3 1 1 0 1 3
+Keifer @ lf:	1 0 0 2 0 0
+Kane @ lf:		2 0 0 0 0 0
+Rowland @ p:	4 0 1 0 13 0
+TOTALS:			29 4 8 27 21 6
+
+line: Tyler: 0 5 0 0 0 0 0 0 0 - 5
+line: Marshall: 0 2 0 2 0 0 0 0 0 - 4
+
+P_SO: Brown #7; Rowland #10
+P_BB: Rowland #1; Brown #2
+B_SB: Stapleton
+B_SH: Campbell; Prudhomme; Short; Keifer
+B_HR: Stribbel
+B_2B: Hewitt; Prudhomme
+B_HP: Stapleton; Hewitt
+P_HP: Brown; Rowland
+B_LOB: Tyler #6; Marshall #7
+T: 2:05
+U: Wright
+
+---
+
+date: 1912-05-10
+number: 0
+league: South Central
+away: Texarkana
+home: Paris
+status: postponed, rain
+
+---
+
+date: 1912-05-10
+number: 0
+league: Texas-Oklahoma
+away: Bonham
+home: McKinney
+
+McKinney:	ab r h po a e
+Kerr @ 3b:	4 3 3 1 1 0
+White @ rf:	2 1 1 1 0 0
+McGee @ 1b:	4 0 3 12 1 0
+Worsham @ 2b:	4 0 1 2 4 0
+Moulden @ lf:	4 1 2 2 0 0
+Parrish @ cf:	4 0 1 0 0 0
+Spence @ ss:	4 1 3 2 2 0
+Brally @ c:		4 0 1 7 2 0
+Duffy @ p:		3 1 0 0 5 0
+TOTALS:		33 7 15 27 15 0
+
+Bonham:		ab r h po a e
+Baker @ lf:		5 1 1 0 0 0
+Sporn @ 3b:		3 0 0 1 1 0
+Lambert @ rf:	4 0 1 1 1 0
+Yost @ 1b:		4 0 2 10 0 1
+Welch @ cf:		5 0 0 0 0 0
+Landry @ ss:	3 0 0 2 1 1
+Leslie @ 2b:	3 2 1 2 8 0
+Scott @ c:		4 1 2 8 1 0
+Corzine @ p:	4 0 1 0 2 0
+TOTALS:		35 4 8 24 14 2
+
+line: McKinney: 1 0 1 0 0 0 4 1 x - 7
+line: Bonham: 1 0 0 1 0 2 0 0 0 - 4
+
+B_3B: Yost
+B_2B: Leslie; Scott; White; McGee; Spence #2
+B_SH: Baker; Sporn; White
+B_SB: Baker; Lambert; Duffy
+F_DP: Lambert, Leslie, Yost
+P_BB: Corzine #1; Duffy #4
+P_HP: Duffy #2; Corzine #1
+P_SO: Duffy #6; Corzine #4
+F_PB: Brally #1
+T: 1:35
+U: Miller
+
+---
+
+date: 1912-05-10
+number: 0
+league: Texas-Oklahoma
+away: Sherman
+home: Greenville
+
+Sherman:	ab r h po a e
+Reed @ 2b:		5 1 1 2 2 0
+Dooley @ lf:	3 1 1 2 1 1
+Williamson @ cf:	4 2 2 1 0 0
+Humphries @ ss:	4 1 0 2 5 0
+Witt @ 3b:		3 0 0 0 2 1
+Rayburn @ 1b:	4 1 1 11 0 1
+Townsend @ c:	4 0 0 11 2 1
+Lamanica @ rf:	4 1 1 0 0 0
+Grimes @ p:		2 0 0 1 1 0
+Roark @ p:		1 0 0 0 2 1
+TOTALS:			34 7 6 30 15 5
+
+Greenville:		ab r h po a e
+Harper @ lf-3b:	4 1 0 3 1 0
+Wakefield @ cf:	4 2 2 3 0 0
+Disharoon @ 2b:	5 1 0 2 1 0
+Kizzar @ rf:	4 2 3 0 0 0
+Robertson @ c:	5 0 1 7 4 0
+Haislip @ 1b:	5 0 1 10 2 1
+Pickens @ ss:	5 0 0 1 2 4
+Atkins @ 3b:	2 0 0 3 1 0
+Miller @ p:		4 0 1 0 5 0
+Flynn, D. @ rf:	1 0 0 0 0 0
+TOTALS:			39 6 8 29 16 5
+
+B_XO: Williamson, interference
+
+line: Sherman: 1 0 3 0 0 0 2 0 0 0 1 - 7
+line: Greenville: 1 0 1 1 0 0 0 3 0 0 - 6
+
+B_SB: Williamson; Humphries; Rayburn #2; Lamanica; Harper; Wakefield; Kizzar
+B_2B: Reed; Dooley; Miller
+B_HR: Kizzar; Lamanica; Williamson
+P_SO: Grimes #5; Roark #3; Miller #8
+P_BB: Miller #5; Grimes #1; Roark #1
+P_WP: Miller #2
+B_HP: Atkins
+F_PB: Townsend #2; Robertson #1
+B_SH: Dooley; Humphries; Witt
+T: 2:20
+U: Folsom
+
+---
+
+date: 1912-05-10
+number: 0
+league: Texas-Oklahoma
+away: Denison
+home: Ardmore
+status: postponed, rain
+
+---
+
+date: 1912-05-10
+number: 0
+league: Oklahoma State
+away: Okmulgee
+home: Oklahoma City
+status: postponed, rain
+
+---
+
+date: 1912-05-10
+number: 0
+league: Oklahoma State
+away: Holdenville
+home: Tulsa
+status: postponed, rain
+
+---
+
+date: 1912-05-10
+number: 0
+league: Oklahoma State
+away: McAlester
+home: Guthrie
+status: postponed, rain
+
+---
+
+date: 1912-05-10
+number: 0
+league: Oklahoma State
+away: Anadarko
+home: Muskogee
+status: completed early, rain
+
+Muskogee: r h e
+Lynn @ p: x x x
+Wilson @ c: x x x
+TOTALS: 3 4 2
+
+Anadarko: r h e
+Jasper @ p: x x x
+Gallagher @ c: x x x
+TOTALS: 3 6 2
+
+line: Muskogee: 3 1 0 0 0 0 0 - 3
+line: Anadarko: 0 0 2 0 0 1 0- 3
+
