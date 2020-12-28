@@ -1,0 +1,273 @@
+date: 1915-09-07
+number: 0
+league: Western North Carolina
+away: Morganton 
+home: Gastonia 
+source: Charlotte News, September 8, 1915
+A: 2,750
+phase: final
+
+Morganton:	ab r h po a e
+Christenbury @ lf:	4 0 1 1 0 0	
+Laval @ rf:	4 0 2 0 0 1
+Correll @ cf:	4 1 1 3 0 0
+Winston @ c:	4 0 3 4 2 1
+Lake @ ss:	3 0 1 3 4 0
+Emery @ 2b:	4 0 0 2 2 0
+Newman @ 3b:	3 0 0 0 1 0
+(~8.1)Williams @ 1b:	3 0 0 11 1 0
+Yount @ p:	3 0 0 0 3 0
+Watson @ p:	1 0 0 0 2 0
+(~8.2)*Osteen @ ph:	1 0 0 0 0 0	
+TOTALS:		36 1 9 24 15 2
+
+Gastonia:	ab r h po a e
+Boyd @ cf:	4 0 0 1 1 1
+Burgess @ 3b:	4 3 4 2 2 0
+Waldron @ ss:	4 0 3 1 5 0
+Gust @ 1b:	4 0 0 9 0 0
+Whitted @ rf:	4 0 2 3 0 1
+Welcher @ c:	4 1 1 2 1 0
+Mackie @ 2b:	3 2 1 6 5 0
+Walker @ lf:	4 0 2 2 0 0
+Bender @ p:	4 0 2 1 3 0
+TOTALS:		35 6 15 27 17 2
+
+*: batted for Williams in 9th
+
+line: Morganton: 0 0 0 0 0 0 0 1 0 - 1
+line: Gastonia:  1 0 1 1 2 0 0 1 x - 6
+
+B_LOB: Morganton #8; Gastonia #9
+B_ROE: Morganton #2
+B_2B: Christenbury; Laval; Winston
+B_HR: Burgess #2
+B_SB: Correll
+B_SH: Correll; Waldron
+B_HP: Mackie
+P_BB: Yount #1; Watson #1; Bender #2
+P_SO: Watson #2; Bender #1
+P_HP: Watson
+F_DP: Waldron, Mackie, Gust #2
+F_PB: Winston
+T: 1:40
+U: Welch; Henderson
+
+---
+
+date: 1915-09-08
+number: 0
+league: Western North Carolina
+away: Morganton 
+home: Gastonia 
+source: Charlotte News, September 9, 1915
+A: 1,800
+phase: final
+note: game played in Charlotte, NC
+note: Osteen listed as pitcher in batting boxscore; Humphries listed as pitcher in totals; replaced Osteen with Humphries in batting boxscore
+
+Morganton:	ab r h po a e
+Christenbury @ lf:	4 0 0 0 0 0	
+Laval @ rf:	2 0 0 0 0 0
+Correll @ cf:	3 1 1 6 1 0
+Winston @ c:	3 1 1 5 1 0
+Lake @ ss:	4 0 1 0 4 1
+Emery @ 2b:	3 0 0 5 1 1 
+Newman @ 3b:	3 0 0 0 3 0
+Williams @ 1b:	3 0 0 8 1 1
+Humphries @ p:	1 0 0 0 0 0	
+TOTALS:		29 2 3 24 11 3
+
+Gastonia:	ab r h po a e
+Boyd @ cf:	4 1 0 3 1 0
+Burgess @ 3b:	3 2 1 1 0 0
+Waldron @ ss:	3 1 2 2 6 1
+Gust @ 1b:	4 0 3 10 1 1
+Whitted @ rf:	3 0 0 0 0 0
+Welcher @ c:	3 0 0 8 2 0
+Mackie @ 2b:	3 0 0 2 3 0
+Walker @ lf:	4 1 1 0 0 0
+Whitney @ p:	2 0 0 1 0 0
+Bender @ p:	0 0 0 0 1 0
+TOTALS:		29 5 7 27 14 2
+
+line: Morganton: 0 0 0 0 0 0 2 0 0 - 2
+line: Gastonia:  2 0 1 0 0 1 1 0 x - 5
+
+B_LOB: Morganton #5; Gastonia #5
+B_ROE: Morganton #1; Gastonia #2
+B_2B: Waldron; Burgess; Gust
+B_HR: Winston; Walker
+B_SB: Burgess #2
+B_SF: Waldron; Whitted
+B_HP: Mackie
+P_BB: Whitney #4; Humphries #1
+P_SO: Whitney #5; Humphries #3; Bender #3
+P_H: Whitney #2; Bender #1
+P_IP: Whitney #6; Bender #3
+P_HP: Humphries
+F_DP: Waldron, Mackie, Gust
+T: 1:45
+U: Henderson; Welch
+
+P_GS: ~Whitney
+P_GF: ~Bender
+P_W: ~Whitney
+P_SV: ~Bender
+P_R: ~Whitney #2
+
+---
+
+date: 1915-09-09
+number: 0
+league: North Carolina Championship
+away: Red Springs 
+home: Gastonia 
+source: Charlotte News, September 10, 1915
+A: 1,600
+note: game played in Charlotte, NC
+
+Red Springs:	ab r h po a e
+Gaston @ 2b:	5 0 1 2 2 0
+Rowe, W. @ cf:	4 1 0 3 0 0
+Rowe, B. @ 3b:	4 0 0 0 1 0	
+Correll @ lf:	3 1 2 1 0 0
+Winston @ rf:	3 0 2 3 0 0
+Marshall @ c:	4 1 1 4 4 0
+Utley @ 1b:	3 0 0 11 2 0
+Cain @ ss:	3 0 0 2 5 0
+Efird @ p:	4 0 2 1 2 0
+TOTALS:		33 3 8 27 16 0
+
+Gastonia:	ab r h po a e
+(~1.1)Boyd @ cf:	2 0 1 1 0 0
+(~2.1)Walker @ lf:	3 1 0 0 0 0
+Waldron @ ss:	4 0 1 0 4 1
+Gust @ 1b:	3 0 0 11 1 0
+Bitting @ 3b:	3 0 1 1 1 0
+Whitted @ rf:	2 0 0 1 0 0
+Welcher @ c:	2 0 0 11 1 1
+Mackey @ 2b:	3 0 0 2 4 0
+Osteen @ p:	3 0 0 0 3 0
+(~1.2)*Breaux @ ph:	1 0 0 0 0 0
+(~2.2)+Burgess @ ph:	1 0 0 0 0 0
+TOTALS:		27 1 3 27 14 2
+
+*: batted for Boyd in 9th
++: batted for Walker in 9th
+
+line: Red Springs: 0 0 0 0 1 0 0 2 0 - 3
+line: Gastonia:    1 0 0 0 0 0 0 0 0 - 1
+
+B_LOB: Red Springs #8; Gastonia #2
+B_ROE: Red Springs #1 
+B_ER:  Red Springs #2
+B_3B: Waldron
+B_SB: Gaston; Winston; Gust
+B_SH: Winston; Utley; Welcher
+P_BB: Efird #2; Osteen #3
+P_SO: Efird #3; Osteen #9
+T: 2:00
+U: Henderson; Gentle
+
+---
+
+date: 1915-09-10
+number: 0
+league: North Carolina Championship
+away:  Gastonia 
+home: Red Springs 
+source: Charlotte News, September 11, 1915
+A: 2,500
+note: game played in Charlotte, NC
+
+Gastonia:	ab r h po a e
+Booe @ rf:	4 2 1 1 0 0
+Boyd @ cf:	4 1 2 3 0 1
+Bitting @ 3b:	4 2 1 1 1 1
+Gust @ 1b:	5 0 1 11 0 0
+Harbison @ ss:	4 1 1 3 4 1
+Miller @ lf:	4 1 1 2 0 0
+Waldron @ 2b:	3 1 0 1 3 0
+Welcher @ c:	4 0 0 5 1 0
+Bender @ p:	3 2 1 0 3 0
+TOTALS:		35 10 8 27 12 3
+
+Red Springs:	ab r h po a e
+Gaston @ 2b:	4 1 1 2 1 1
+Rowe, Red @ cf:	4 0 2 3 0 0
+Rowe, B. @ 3b:	3 0 1 3 1 1	
+Correll @ lf:	4 0 0 3 0 0
+Winston @ rf:	4 1 1 1 0 0 
+Marshall @ c:	4 1 1 4 3 1
+Utley @ 1b:	3 0 0 7 2 0
+Cain @ ss:	4 0 1 3 3 2
+Poole @ p:	0 0 0 0 0 0
+Burg @ p:	3 0 0 1 3 1
+TOTALS:		34 3 7 27 13 6
+
+line: Gastonia:    1 7 0 0 0 2 0 0 0 - 10
+line: Red Springs: 0 0 0 0 0 0 2 1 0 - 3
+
+B_LOB: Red Springs #5; Gastonia #4
+B_ROE: Red Springs #3; Gastonia #4
+B_2B: B. Rowe; Harbison
+B_HR: Bitting
+B_SH: Boyd
+B_SF: Utley
+P_BB: Poole #3; Burg #3; Bender #1
+P_SO: Burg #2; Bender #6
+T: 1:45
+U: Henderson; Gentle
+
+P_GS: ~Poole
+P_GF: ~Burg
+P_L: ~Poole
+P_R: ~Poole #7; Burg #3
+
+---
+
+date: 1915-09-11
+number: 0
+league: North Carolina Championship
+away: Red Springs 
+home: Gastonia 
+source: Charlotte News, September 12, 1915
+A: 2,500
+note: game played in Charlotte, NC
+
+Red Springs:	ab r h po a e
+Gaston @ 2b:	4 0 1 3 0 0
+Rowe, B. @ 3b:	4 0 0 2 1 0
+Laval @ 1b:	4 0 1 11 1 0	
+Correll @ lf:	4 0 1 4 0 0
+Winston @ rf:	4 0 2 0 0 0
+Emery @ 2b:	2 0 1 1 3 0
+Marshall @ c:	3 0 0 3 0 0
+Cain @ ss:	3 1 2 2 5 0
+Efird @ p:	3 0 2 1 3 0
+TOTALS:		31 1 10 27 12 0
+
+Gastonia:	ab r h po a e
+Booe @ rf:	4 0 1 2 0 0
+Boyd @ cf:	4 0 0 3 0 0
+Bitting @ 3b:	4 0 0 1 6 0
+Gust @ 1b:	3 0 0 10 0 0
+Harbison @ ss:	3 0 0 1 2 0
+Miller @ lf:	3 0 1 3 1 0
+Waldron @ 2b:	3 0 1 2 3 0
+Welcher @ c:	3 0 0 5 3 0
+Evans @ p:	3 0 0 0 4 0
+TOTALS:		30 0 3 27 19 0
+
+line: Red Springs: 0 0 0 0 0 0 0 1 0 - 1
+line: Gastonia:    0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Red Springs #4; Gastonia #3
+B_ER: Red Springs #1
+B_2B: Miller; Waldron; Efird
+B_SH: Emery
+P_SO: Efird #2; Evans #2
+T: 1:40
+U: Henderson; Gentle
+
