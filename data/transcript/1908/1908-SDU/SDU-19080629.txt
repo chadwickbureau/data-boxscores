@@ -1,6 +1,6 @@
 date: 1908-06-29
 number: 0
-league: Central Kansas
+league: Eastern Kansas
 away: Salina
 home: Newton
 source: The Salina Daily Union
@@ -24,7 +24,7 @@ Becker @ 1b:	3 0 1 13 0 0
 Pankey @ 2b:	2 1 1 1 2 0
 Sarver @ ss:	3 0 0 0 2 0
 Connell @ cf:	0 0 0 0 0 0
-Meade @ cf:		2 0 0 1 0 0
+Meade:			2 0 0 1 0 0
 Brumley @ c:	3 0 0 6 0 0
 Watkins @ 3b:	2 0 0 2 3 0
 Cole @ rf:		3 0 0 2 0 0
@@ -68,14 +68,14 @@ P_SV:
 
 date: 1908-06-29
 number: 0
-league: Central Kansas
+league: Eastern Kansas
 away: Ellsworth
 home: McPherson
 source: The Salina Daily Union Jun 30, 1908
 
 Ellsworth:		ab r h po a e
-Thompson [Ell] @ 2b:	5 0 0 3 4 0
-Taylor [Ell] @ lf:	5 0 0 2 0 1
+Thompson @ 2b:	5 0 0 3 4 0
+Taylor @ lf:	5 0 0 2 0 1
 Headon @ 3b:	4 0 0 1 3 1
 Watson @ cf:	5 0 0 1 0 0
 Stanley @ rf:	4 1 1 1 2 0
@@ -88,9 +88,9 @@ TOTALS:			40 1 4 36 19 3
 McPherson:		ab r h po a e
 Jones @ 3b:		5 0 0 3 3 1
 White @ ss:		5 0 3 1 3 0
-Taylor [McP] @ cf:	4 0 0 1 0 0
+Taylor @ cf:	4 0 0 1 0 0
 Long @ 1b:		5 0 1 15 0 0
-Thompson [McP] @ lf:	5 0 0 1 0 0
+Thompson @ lf:	5 0 0 1 0 0
 Hoggatt @ c:	5 1 0 12 4 0
 Burgess @ rf:	5 0 1 0 0 1
 Putnam @ 2b:	4 0 1 2 0 0
@@ -134,10 +134,18 @@ P_SV:
 
 date: 1908-06-29
 number: 0
-league: Central Kansas
+league: Eastern Kansas
 away: Minneapolis
 home: Little River
-source: The Salina Daily Union
+source: The Salina Daily Union Jun 30, 1908
+
+Minneapolis:	ab r h po a e
+McElroy @ p:	x x x x x x
+Speer @ c:		x x x x x x
+
+Little River:	ab r h po a e
+Reed @ p:		x x x x x x
+Phillips @ c:	x x x x x x
 
 line: Minneapolis: 0 0 0 0 0 0 0 2 0 - 2
 line: Little River: 0 0 0 0 0 0 0 0 x - 0
@@ -146,10 +154,10 @@ line: Little River: 0 0 0 0 0 0 0 0 x - 0
 
 date: 1908-06-30
 number: 0
-league: Central Kansas
+league: Eastern Kansas
 away: Salina
 home: Newton
-source: The Salina Daily Union
+source: The Salina Daily Union Jul 1, 1908
 
 Salina:			ab r h po a e
 Krepps @ 2b:	5 1 1 1 3 1
@@ -196,7 +204,7 @@ P_IP: Cole #3; Heshley #6
 P_HP: 
 P_WP: 
 P_BK: 
-F_DP: Heshley, Pankey, Becker
+F_DP: Heshly, Pankey, Becker
 F_PB: 
 outsatend: 
 T: 1:35
@@ -212,7 +220,7 @@ P_SV:
 
 date: 1908-07-01
 number: 0
-league: Central Kansas
+league: Eastern Kansas
 away: Salina
 home: Newton
 source: The Salina Daily Union Jul 2, 1908
@@ -262,7 +270,7 @@ P_IP:
 P_HP: 
 P_WP: 
 P_BK: 
-F_DP: Cassell, B. McGrew, Misse
+F_DP: Cassell, McGrew, Misse
 F_PB: 
 outsatend: 
 T: 1:20
@@ -278,7 +286,7 @@ P_SV:
 
 date: 1908-07-01
 number: 0
-league: Central Kansas
+league: Eastern Kansas
 away: Minneapolis
 home: Little River
 source: The Salina Saily Union Jul 2, 1908
@@ -344,7 +352,7 @@ P_SV:
 
 date: 1908-07-02
 number: 0
-league: Central Kansas
+league: Eastern Kansas
 away: Salina
 home: McPherson
 source: The Salina Daily Union Jul 3, 1908
@@ -410,9 +418,9 @@ P_SV:
 
 date: 1908-07-02
 number: 0
-league: Central Kansas
+league: Eastern Kansas
 away: Minneapolis
-home: Newton
+home: newton
 source: The Salina Daily Union Jul 3, 1908
 
 Minneapolis:	ab r h po a e
@@ -476,7 +484,7 @@ P_SV:
 
 date: 1908-07-03
 number: 0
-league: Central Kansas
+league: Eastern Kansas
 away: Ellsworth
 home: Little River
 source: The Salina Daily Union Jul 4, 1908
@@ -520,7 +528,7 @@ B_SF:
 B_HP: F. Stanley
 B_XO: 
 P_BB: Schmidt #2
-P_SO: Schmidt #7; O'Neil #5
+P_SO: Schmidt #7; O'Neiol #5
 P_H: 
 P_IP: 
 P_HP: 
@@ -542,7 +550,7 @@ P_SV:
 
 date: 1908-07-03
 number: 0
-league: Central Kansas
+league: Eastern Kansas
 away: Salina
 home: McPherson
 source: The Salina Daily Union Jul 4, 1908
@@ -586,7 +594,7 @@ B_SF:
 B_HP: 
 B_XO: 
 P_BB: 
-P_SO: Johnson #3; K. McGrew #3
+P_SO: Johnson #3; McGrew #3
 P_H: 
 P_IP: 
 P_HP: 
@@ -608,7 +616,7 @@ P_SV:
 
 date: 1908-07-04
 number: 1
-league: Central Kansas
+league: Eastern Kansas
 away: Ellsworth
 home: Newton
 source: The Salina Daily Union Jul 6, 1908
@@ -675,7 +683,7 @@ P_SV:
 
 date: 1908-07-04
 number: 2
-league: Central Kansas
+league: Eastern Kansas
 away: Ellsworth
 home: Newton
 source: The Salina Daily Union Jul 6, 1908
@@ -684,7 +692,7 @@ A: 1500
 Ellsworth:			ab r h po a e
 Bond @ 3b:			5 0 1 1 2 0
 Triplett @ cf:		3 1 0 2 0 0
-Watson @ 1b:		5 0 1 12 1 1
+Watkins @ 1b:		5 0 1 12 1 1
 Stanley,P. @ lf:	5 0 2 3 1 1
 Hayden @ 2b:		5 0 0 3 2 0
 Thompson @ rf:		5 0 0 2 0 0
@@ -699,7 +707,7 @@ Heshley @ 1b:	4 1 2 21 0 0
 Sarver @ ss:	5 0 0 1 1 2
 Pankey @ lf:	5 1 2 0 0 0
 Wagner @ 2b:	3 0 0 1 0 1
-Watkins@ 3b:	4 0 1 1 6 0
+Watkins @ 3b:	4 0 1 1 6 0
 Burgess @ rf:	4 0 0 0 1 0
 Golthwaite @ c:	4 0 2 11 4 0
 Salter @ p:		4 0 0 0 9 0
@@ -742,14 +750,14 @@ P_SV:
 
 date: 1908-07-04
 number: 1
-league: Central Kansas
+league: Eastern Kansas
 away: Minneapolis
 home: Salina
 source: The Salina Daily Union Jul 6, 1908
 A: 2000
 
 Minneapolis:	ab r h po a e
-Garrison, H. @ cf:	4 1 2 1 0 0
+Garrison @ cf:	4 1 2 1 0 0
 Young @ 1b:		1 0 0 6 0 0
 Jennings @ ss:	2 1 1 4 2 0
 Lewis @ 2b:		3 1 0 2 1 0
@@ -812,7 +820,7 @@ P_SV:
 
 date: 1908-07-04
 number: 2
-league: Central Kansas
+league: Eastern Kansas
 away: Minneapolis
 home: Salina
 source: The Salina Daily Union Jul 6, 1908
@@ -879,7 +887,7 @@ P_SV:
 
 date: 1908-07-04
 number: 1
-league: Central Kansas
+league: Eastern Kansas
 away: Little River
 home: McPherson
 source: The Salina Dail Union Jul 6, 1908
@@ -947,7 +955,7 @@ P_SV:
 
 date: 1908-07-04
 number: 2
-league: Central Kansas
+league: Eastern Kansas
 away: Little River
 home: McPherson
 source: The Salina Daily Union Jul 6, 1908
@@ -961,14 +969,14 @@ Harkins @ 3b:	2 0 0 1 0 3
 Freeland @ c:	3 0 1 5 2 0
 Schmidt @ lf-p:	3 1 1 0 0 0
 Darling @ rf:	2 1 0 1 0 0
-Reed [LR] @ p:		1 0 0 0 1 1
+Reed @ p:		1 0 0 0 1 1
 Hassler @ p:	1 0 0 0 0 0
 Bowen @ lf:		1 0 0 0 0 0
 TOTALS:			34 2 3 21 6 4
 
 McPherson:			ab r h po a e
 Johnson @ rf:		3 0 1 2 0 0
-Reed [McP] @ 3b:			3 0 2 2 5 0
+Reed @ 3b:			3 0 2 2 5 0
 Sparks @ ss:		3 0 0 1 1 1
 Hennessey @ lf:		3 0 0 0 1 0
 Taylor @ 1b:		3 1 0 5 0 1
@@ -1010,4 +1018,6 @@ P_GF:
 P_W: 
 P_L: 
 P_SV: 
+
+---
 

@@ -7,7 +7,7 @@ source: The Salina Evening Journal Jul 10, 1908
 
 Salina:				ab r h po a e
 Krepps @ 2b:		4 1 1 4 1 1
-Strong,Al @ cf:		4 1 1 6 0 0
+Strong,A. @ cf:		4 1 1 6 0 0
 Mack @ c:			1 0 0 1 0 0
 Baird @ rf:			3 1 2 1 0 0
 Strong,H. @ lf:		4 0 1 1 0 0
@@ -40,12 +40,12 @@ B_2B: Baird; Sommers
 B_3B: 
 B_HR: Al Strong
 B_SB: Watson; Sommers; Krepps
-B_SH: Abbott; Misse; ??Stanley; Watson
+B_SH: Abbott; Misse; Stanley; Watson
 B_SF: 
 B_HP: Sommers
 B_XO: 
-P_BB: Stoffer #3; P. Stanley #2
-P_SO: Stoffer #5; P. Stanley #4
+P_BB: Stoffer #3; Stanley #2
+P_SO: Stoffer #5; Stanley #4
 P_H: 
 P_IP: 
 P_HP: 
@@ -177,8 +177,8 @@ B_SH:
 B_SF: 
 B_HP: Watson
 B_XO: 
-P_BB: K. McGrew #1; Trippett #3
-P_SO: K. McGrew #3; Trippett #4
+P_BB: McGrew #1; Trippett #3
+P_SO: McGrew #3; Trippett #4
 P_H: 
 P_IP: 
 P_HP: 
@@ -202,7 +202,7 @@ date: 1908-07-10
 number: 0
 league: Central Kansas
 away: Newton
-home: Little River
+home: Little Rover
 source: The Salina Evening Journal Jul 11, 1908
 
 Newton:			ab r h po a e
@@ -305,13 +305,13 @@ B_ER:
 B_2B: Krepps; Misse
 B_3B: Thompson
 B_HR: 
-B_SB: Watson #2; Stoffer; B. McGrew
+B_SB: Watson #2; Stoffer; McGrew
 B_SH: A. Strong; Misse; Baird #2
 B_SF: 
 B_HP: 
 B_XO: 
 P_BB: Baird #3; Taylor #1
-P_SO: Baird #7; F. Stanley #2
+P_SO: Baird #7; Stanley #2
 P_H: 
 P_IP: 
 P_HP: 
@@ -338,5 +338,18 @@ away: Newton
 home: Little River
 source: The Salina Evening Journal Jul 13, 1908
 
+Newton:			ab r h po a e
+Solter @ p:		x x x x x x
+Burgess @ p:	x x x x x x
+Golthwaite @ c:	x x x x x x
+
+Little River:	ab r h po a e
+Schmidt @ p:	x x x x x x
+Freeland @ c:	x x x x x x
+
+
 line: Newton: 3 0 0 0 1 0 0 0 0 - 4
 line: Little River: 0 0 0 4 0 2 1 1 0 - 8
+
+---
+

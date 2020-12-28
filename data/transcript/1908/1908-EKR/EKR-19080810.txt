@@ -20,7 +20,7 @@ TOTALS:			32 0 3 24 10 0
 Newton:			ab r h po a e
 Wing @ lf:		2 1 0 2 0 0
 Pokorney @ ss:	4 0 1 1 3 1
-Pankey @ p: 	3 0 1 0 4 0
+Pankey @ ?: 		3 0 1 0 4 0
 Golthwaite @ c:	2 1 1 5 0 0
 Connell @ cf:	3 0 0 4 1 0
 Morgan @ 2b:	3 0 1 3 1 1
@@ -139,3 +139,6 @@ P_GF:
 P_W: 
 P_L: 
 P_SV: 
+
+---
+

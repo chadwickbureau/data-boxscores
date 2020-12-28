@@ -5,15 +5,13 @@ away: Ellsworth
 home: Minneapolis
 source: Minneapolis Better Way Aug 13, 1908
 
-Ellsworth:	r
-Taylor @ p:	x
-Frick @ ?:	x
-TOTALS:		4
+Ellsworth:		ab r h po a e
+Taylor @ p:		x x x x x x
+Frick @ ?:		x x x x x x
 
-Minneapolis:	r
-McCandless @ p:	x
-Garrison, [S.] @ ?:	x
-TOTALS:		2
+Minnapolis:		ab r h po a e
+Garrison @ ?:	x x x x x x
+McCandless @ p:	x x x x x x
 
 line: Ellsworth: 0 0 0 3 0 1 0 0 0 - 4
 line: Minneapolis: 0 1 0 0 1 0 0 0 0 - 2
@@ -21,7 +19,7 @@ line: Minneapolis: 0 1 0 0 1 0 0 0 0 - 2
 B_LOB: 
 B_ROE: Ellsworth #2; Minneapolis #1
 B_ER: Ellsworth #1; Minneapolis #1
-B_2B: [S.] Garrison; Taylor
+B_2B: Garrison; Taylor
 B_3B: 
 B_HR: 
 B_SB: 
@@ -48,3 +46,25 @@ P_W:
 P_L: 
 P_SV: 
 
+---
+
+date: 1908-08-14
+number: 0
+league: Central Kansas
+away: Minneapolis
+home: Ellsworth
+source: Minneapolis Better Way Aug 15, 1908
+
+Minneapolis:	ab r h po a e
+Mason @ p:		x x x x x x
+Clifton,J. @ c:	x x x x x x
+
+Ellsworth:		ab r h po a e
+Taylor @ p:		x x x x x x
+Stanley @ p:	x x x x x x
+Watson @ c:		x x x x x x
+
+line: Minneapolis: 0 0 1 0 1 0 0 3 0 - 5
+line: Ellsworth: 0 0 0 0 0 0 0 0 0 - 0
+
+---

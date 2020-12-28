@@ -152,15 +152,15 @@ TOTALS:			34 1 6 26 18 1
 
 Salina:			ab r h po a e
 Krepps @ 2b:	4 0 0 0 0 1
-Strong,Al @ cf:	2 0 1 3 0 0
+Strong,A. @ cf:	2 0 1 3 0 0
 Misse @ ss:		3 0 0 1 3 1
-Strong,Heb @ lf:	3 0 1 3 1 0
+Strong,H. @ lf:	3 0 1 3 1 0
 Abbott @ c:		4 0 0 8 1 0
 McGrew,B. @ 1b:	3 0 0 10 0 0
 Cassell @ 3b:	4 0 1 2 5 0
 Baird @ rf:		3 0 1 0 0 1
 McGrew,K. @ p:	3 0 1 0 2 0
-*Stoffer @ ph:	1 0 0 0 0 0
+~*Stoffer @ ph:	1 0 0 0 0 0
 TOTALS:			29 0 5 27 12 3
 
 *: batted for Baird in 9th
@@ -174,13 +174,13 @@ B_ER:
 B_2B: 
 B_3B: 
 B_HR: 
-B_SB: Al Strong; B. Jones; Reed
-B_SH: Al Strong
+B_SB: A. Strong; B. Jones; Reed
+B_SH: A. Strong
 B_SF: 
 B_HP: Heb Strong; Al Strong
 B_XO: Abbott, hit by batted ball
 P_BB: Mize #3
-P_SO: Mize #5; K. McGrew #4
+P_SO: Mize #5; McGrew #4
 P_H: 
 P_IP: 
 P_HP: 
@@ -221,7 +221,7 @@ Osborne @ p:		3 0 1 0 3 0
 TOTALS:				27 1 3 24 15 2
 
 Ellsworth:			ab r h po a e
-Sommers @ c:		4 0 1 6 1 0
+~Sommers @ c:		4 0 1 6 1 0
 Burton @ ss:		4 0 0 2 2 0
 Watson @ cf:		3 0 0 2 0 0
 Stanley,P. @ lf:	2 1 0 1 0 0
@@ -253,7 +253,7 @@ P_IP:
 P_HP: 
 P_WP: 
 P_BK: 
-F_DP: Trippett, Williams
+F_DP: Tippett, Williams
 F_PB: 
 outsatend: 
 T: 
@@ -273,14 +273,6 @@ league: Central Kansas
 away: Little River
 home: Newton
 source: The Salina Evening Journal Jul 15, 1908
-
-Little River: r
-Schmidt @ p: x
-TOTALS:		 0
-
-Newton:		r
-Solter @ p:	x
-TOTALS:		5
 
 line: Little River: 0 0 0 0 0 0 0 0 0 - 0
 line: Newton: 1 0 0 2 1 1 0 0 x - 5
@@ -328,7 +320,7 @@ A: 500
 McPherson:		ab r h po a e
 Jones,B. @ cf:	4 0 1 1 0 0
 Cloherty @ 3b:	4 0 0 0 2 0
-Sparks @ ss:	4 0 0 1 0 1
+~Sparks @ ss:	4 0 0 1 0 1
 Hennesy @ lf:	3 0 1 1 0 0
 Taylor @ 1b:	4 0 0 10 0 0
 Hoggatt @ c:	4 0 0 11 3 0
@@ -525,6 +517,14 @@ away: Little River
 home: Ellsworth
 source: The Salina Evening Journal Jul 17, 1908
 
+Little River:	ab r h po a e
+Hassler @ p:	x x x x x x
+Hayes @ c:		x x x x x x
+
+Ellsworth:		ab r h po a e
+Stateley @ p:	x x x x x x
+Sommers @ c:	x x x x x x
+
 line: Little River: 0 1 3 0 1 0 2 1 0 - 8
 line: Ellsworth: 1 0 0 0 0 0 1 0 0 - 2
 
@@ -590,10 +590,10 @@ B_HR:
 B_SB: Jennings; Garrison; Penquite; A. Strong #2; Horrill; H. Strong
 B_SH: Garrison #2; Misse; Horrill
 B_SF: 
-B_HP: A. Strong; Misse; Horrill
+B_HP: Strong; Misse; Horrill
 B_XO: 
-P_BB: K. McGrew #4
-P_SO: Osborne #9; K. McGrew #6
+P_BB: McGrew #4
+P_SO: Osborne #9; McGrew #6
 P_H: 
 P_IP: 
 P_HP: 
@@ -619,7 +619,7 @@ league: Central Kansas
 away: Little River
 home: Ellsworth
 source: The Salina Evening Journal Jul 18, 1908
-A: 472
+A; 472
 
 Little River:	ab r h po a e
 Henmon @ 3b:	4 0 1 1 1 1
@@ -697,7 +697,7 @@ Clifton,R. @ rf:	3 0 0 2 0 0
 Citizen @ 3b:		3 0 1 0 0 1
 Clifton,J. @ c:		2 0 0 8 0 0
 McElroy @ p:		3 0 0 1 3 2
-*Osborne @ ph:		x x x x x x
+*Osborne @ ph
 TOTALS:				31 0 2 24 9 4
 
 Salina:			ab r h po a e
@@ -736,7 +736,7 @@ P_HP:
 P_WP: Baird
 P_BK: 
 F_DP: R. Clifton, Lewis
-F_PB: J. Clifton #2
+F_PB: Clifton #2
 outsatend: 
 T: 1:40
 U: Aston
@@ -814,3 +814,6 @@ P_GF:
 P_W: 
 P_L: 
 P_SV: 
+
+---
+

@@ -41,7 +41,7 @@ B_2B: Stanley; Smith
 B_3B: Anderson
 B_HR: 
 B_SB: Farrell; Watson; Parks
-B_SH: Frick; Watson; Stanley; Hunt; Hamlin; Davis; Hark
+B_SH: Frick; Watson; Stanley; Hunt; Hamlin; Davis; Harkins
 B_SF: 
 B_HP: 
 B_XO: 
@@ -139,6 +139,14 @@ away: Newton
 home: Minneapolis
 source: The Salina Daily Union Aug 11, 1908
 
+Newton:			ab r h po a e
+Lancaster @ p:	x x x x x x
+Golthwaite @ c:	x x x x x x
+
+Minneapolis:	ab r h po a e
+Osborne @ p:	x x x x x x
+Clifton @ c:	x x x x x x
+
 line: Newton: 0 0 0 0 0 0 0 0 0 - 0
 line: Minneapolis: 0 1 0 0 0 0 1 0 x - 2
 
@@ -152,5 +160,8 @@ home: Salina
 source: The Salina Daily Union Aog 12, 1908
 status: forfeited to Salina
 
-line: McPherson: - 9
-line: Salina: - 0
+McPherson: - 9
+Salina: - 0
+
+---
+

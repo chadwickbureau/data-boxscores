@@ -26,7 +26,6 @@ Heshley @ lf:	6 0 0 1 0 0
 Wagner @ 2b:	6 0 1 2 3 0
 Watkins @ 3b:	6 0 1 8 3 0
 Golthwaite @ c:	5 0 2 0 6 0
-Solter @ p:		x x x x x x
 TOTALS:			55 1 12 44 16 3
 
 line: McPherson: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 - 0
@@ -35,7 +34,7 @@ line: Newton: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 - 1
 B_LOB: McPherson #5; Newton #13
 B_ROE: 
 B_ER: 
-B_2B: Solter
+B_2B: Salter
 B_3B: 
 B_HR: 
 B_SB: Sparks; Sarver; Pankey; Heshley; Golthwaite; Solter
@@ -71,5 +70,17 @@ away: Ellsworth
 home: Minneapolis
 source: The Evening Kansan-Republican Jul 9, 1908
 
+Ellsworth:		ab r h po a e
+Taylor @ p:		x x x x x x 
+Sommers @ c:	x x x x x x 
+
+Minneapolis:	ab r h po a e
+Osborne @ p:	x x x x x x
+Clifton @ c:	x x x x x x
+Nye @ c:		x x x x x x
+
 line: Ellsworth: 0 0 0 0 0 0 0 0 0 0 - 0
 line: Minneapolis: 0 0 0 0 0 0 0 0 0 1 - 1
+
+---
+

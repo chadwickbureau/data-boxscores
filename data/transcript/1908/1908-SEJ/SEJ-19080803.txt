@@ -44,7 +44,7 @@ B_SH: Ludes; A. Strong; Abbott; Myers
 B_SF: 
 B_HP: Horrill; Parks
 B_XO: 
-P_BB: Baird #4; Taylor #2; F. Stanley #1
+P_BB: Baird #4; Taylor #2; Stanley #1
 P_SO: Baird #3; Taylor #4
 P_H: 
 P_IP: 
@@ -247,8 +247,8 @@ B_SH:
 B_SF: 
 B_HP: Mershon; Lowe
 B_XO: Sommers, running inside baseline
-P_BB: P. Stanley #2
-P_SO: Mershon #5; Lowe #2; P. Stanley #6
+P_BB: Stanley #2
+P_SO: Mershon #5; Lowe #2; Stanley #6
 P_H: 
 P_IP: 
 P_HP: 
@@ -347,13 +347,13 @@ home: Ellsworth
 source: The Salina Evening Journal Aug 7, 1908
 A: 332
 
-McPherson:	r
-Willis @ p:	x
-TOTALS:		0
+McPherson:		ab r h po a e
+Willis @ p:		x x x x x x
+Cloherty @ c:	x x x x x x
 
-Ellsworth:	r
-Taylor @ p:	x
-TOTALS:		4
+Ellsworth:		ab r h po a e
+Taylor @ p:		x x x x x x
+Watson @ c:		x x x x x x
 
 line: McPherson: 0 0 0 0 0 0 0 0 0 - 0
 line: Ellsworth: 0 0 0 0 1 1 2 0 x - 4
@@ -397,14 +397,14 @@ away: Newton
 home: Little River
 source: The Salina Evening Journal Aug 8, 1908
 
-Newton:	r
-Lancaster @ p:	x
-Pankey @ p:		x
-TOTALS:		2
+Newton:			ab r h po a e
+Lancaster @ p:	x x x x x x
+Pankey @ p:		x x x x x x
+Golthwaite @ c:	x x x x x x
 
-Little River:	r
-Hassler @ p:	x
-TOTALS:		10
+Little River:	ab r h po a e
+Hassler @ p:	x x x x x x
+Hayes @ c:		x x x x x x
 
 line: Newton: 2 0 0 0 0 0 0 0 0 - 2
 line: Little River: 3 2 1 3 0 0 0 1 x - 10
@@ -438,4 +438,6 @@ P_GF:
 P_W: 
 P_L: 
 P_SV: 
+
+---
 

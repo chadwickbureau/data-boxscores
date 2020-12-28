@@ -11,7 +11,7 @@ Hennessey @ lf:	4 0 1 2 0 1
 Jewell @ ss:	4 0 2 1 2 2
 Sarver @ 3b:	3 0 0 0 3 0
 Jones @ 2b:		4 0 2 4 1 0
-Taylor [McP] @ cf:	4 0 1 0 0 0
+Taylor @ cf:	4 0 1 0 0 0
 Reed @ rf:		1 0 0 1 0 0
 Cloherty @ c:	3 0 0 7 5 0
 Sparks @ 1b:	3 0 0 7 0 0
@@ -27,7 +27,7 @@ Parks @ lf:		3 0 0 1 0 0
 Bond @ 2b:		3 2 2 2 1 0
 Williams @ 1b:	3 1 1 13 0 0
 Burton @ ss:	3 0 2 3 6 0
-Taylor [Ell] @ p:		3 0 1 1 2 0
+Taylor @ p:		3 0 1 1 2 0
 TOTALS:			29 4 8 27 15 0
 
 line: McPherson: 0 0 0 0 0 0 0 0 0 - 0
@@ -44,12 +44,12 @@ B_SH: Farrell; Somers
 B_SF: 
 B_HP: 
 B_XO: 
-P_BB: Willis #1; Taylor [Ell] #2
-P_SO: Willis #8; Taylor [Ell] #3
+P_BB: Willis #1; Taylor #2
+P_SO: Willis #8; Taylor #3
 P_H: 
 P_IP: 
 P_HP: 
-P_WP: Taylor [Ell]
+P_WP: Taylor
 P_BK: 
 F_DP: 
 F_PB: 
@@ -92,7 +92,7 @@ Citizen @ 3b:	4 2 1 0 1 0
 Jennings @ ss:	5 2 3 3 3 1
 Lewis,W. @ lf:	5 2 2 2 0 0
 Young @ 1b:		3 2 1 9 0 0
-Lewis,F. @ 2b:	5 0 2 0 2 0
+Lewis,F. @ 2b:	5 0 2 0 20
 Penquite @ rf:	5 1 1 4 0 0
 Clifton,J. @ c:	4 2 2 8 0 0
 Osborne @ p:	3 0 0 0 2 0
@@ -352,8 +352,19 @@ away: Ellsworth
 home: Newton
 source: The Salina Daily Union Aug 10, 1908
 
+Ellsworth:	ab r h po a e
+Taylor @ p:	x x x x x x
+Watson @ c:	x x x x x x
+
+Newton:			ab r h po a e
+Burgess @ p:	x x x x x x
+Golthwaite @ c:	x x x x x x
+
 line: Ellsworth: 0 0 1 0 0 1 2 - 4
 line: Newton: 1 0 0 2 0 0 1 - 4
 
 status: called after 7 innings
 status-reason: allow Ellsworth to catch a train
+
+---
+
