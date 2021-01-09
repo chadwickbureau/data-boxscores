@@ -1,0 +1,491 @@
+date: 1915-07-04
+number: 0
+league: Texas
+away: Dallas
+home: Beaumont
+source: Dallas Morning News, July 5, 1915
+status: game ended due to darkness
+
+Dallas:		ab r h po a e
+Storch @ cf:	3 1 0 0 0 0
+Kellerman @ ss:	3 1 1 1 4 0
+Harrison @ rf:	3 0 0 4 0 0
+Tullos @ 2b:	4 0 0 2 5 1
+Crouch @ lf:	3 0 0 2 0 0
+Snedecor @ 1b:	3 0 1 12 1 0
+Brownlow @ 3b:	4 0 0 3 3 0
+Dunn @ c:	4 0 0 5 1 0
+Renfer @ p:	4 0 2 1 4 0
+TOTALS:		31 2 4 20 18 1
+
+Beaumont:	ab r h po a e
+Nixon @ cf:	5 1 1 2 0 0
+Schwind @ ss:	5 1 2 0 3 0
+McMahon @ 3b:	3 0 1 2 3 0
+Dodd @ 2b:	4 0 1 1 6 0
+Clark @ lf:	4 0 1 0 0 0
+Frantz @ 1b:	4 0 1 18 0 0
+Howard @ rf:	4 0 1 0 0 0
+Bobo @ c:	4 0 0 6 1 0 
+Martina @ p:	3 0 0 1 5 0
+TOTALS:		36 2 8 30 18 0
+
+line: Dallas:   2 0 0 0 0 0 0 0 0 0 0 - 2
+line: Beaumont: 1 0 0 0 0 1 0 0 0 0 0 - 2
+
+B_LOB: Beaumont #6; Dallas #7
+B_ROE: Beaumont #1
+B_2B: Nixon; Schwind
+B_SH: Harrison; Storch; McMahon
+B_HP: Martina
+P_BB: Martina #6
+P_SO: Renfer #4; Martina #5
+P_HP: Renfer
+F_DP: McMahon, Dodd, Frantz; Brownlow, Snedecor
+T: 1:55
+U: Hays
+
+---
+
+date: 1915-07-04
+number: 1
+league: Texas
+away: Waco
+home: Houston
+source: Dallas Morning News, July 5, 1915
+
+Waco:		ab r h po a e
+Tanner @ ss:	5 1 2 3 1 0
+Coyle @ cf:	5 0 1 1 0 0
+Crichlow @ lf:	5 3 4 3 0 0
+James @ rf:	3 2 1 1 0 0
+Reilly @ c:	4 2 2 1 1 0
+Conwell @ 2b:	4 1 2 4 1 0
+Wohlleben @ 1b:	4 1 1 12 0 0
+Grubb @ 3b:	5 1 2 1 3 0
+Ogle @ p:	4 0 0 1 4 0
+TOTALS:		39 11 15 27 10 0
+
+Houston:	ab r h po a e
+Mowry @ lf:	5 0 2 4 0 0
+Seitz @ 2b:	5 0 1 4 2 1
+Dodd @ rf:	5 0 0 4 0 1
+McDonald @ 3b:	5 0 1 1 0 0
+Shaw @ cf:	4 1 2 0 0 0
+Newnam @ 1b:	4 0 2 11 0 1
+Summers @ ss:	3 1 0 0 4 2
+Clarke @ c:	4 2 2 3 2 0
+Naylor @ p:	0 0 0 0 0 0
+Ware @ p:	4 0 2 0 7 0
+TOTALS:		39 4 12 27 15 5
+
+line: Waco:    5 2 0 2 0 0 2 0 0 - 11
+line: Houston: 0 0 0 0 1 3 0 0 0 - 4
+
+B_LOB: Houston #7; Waco #5
+B_2B: James; Crichlow; Tanner; Mowry
+B_SH: James #2
+B_SF: Wohlleben; Conwell
+P_BB: Ware #1; Ogle #1
+P_SO: Ware #3; Ogle #1
+P_H: Naylor #5; Ware #10
+P_IP: Naylor #.1; Ware #8.2
+P_WP: Naylor
+F_PB: Reilly
+T: 1:54
+U: Miller
+
+P_GS: ~Naylor
+P_GF: ~Ware
+P_L: ~Naylor
+P_R: Naylor #3; Ware #8
+
+---
+
+date: 1915-07-04
+number: 2
+league: Texas
+away: Waco
+home: Houston
+source: Dallas Morning News, July 5, 1915
+
+Waco:		ab r h po a e
+Tanner @ ss:	3 0 1 4 4 0
+Coyle @ cf:	2 0 1 3 0 0
+Crichlow @ lf:	4 0 0 2 0 0
+James @ rf:	4 0 0 1 0 0
+Walters @ c:	4 1 1 7 3 0
+Conwell @ 2b:	2 1 0 1 1 0
+Wohlleben @ 1b: 3 0 1 7 0 0
+Grubb @ 3b:	3 0 0 2 1 0
+Donalds @ p:	2 0 1 0 2 0
+TOTALS:		27 2 5 27 11 0
+
+Houston:	ab r h po a e
+Mowry @ lf:	4 0 2 5 0 0
+Seitz @ 2b:	4 0 2 3 2 0
+(~3.1)Dodd @ rf:	2 0 0 0 0 0
+McDonald @ 3b:	4 0 1 1 1 0
+Shaw @ cf:	4 0 0 0 0 0
+Newnam @ 1b:	3 0 1 9 0 0
+Summers @ ss:	3 0 0 0 2 0
+Allen @ c:	3 0 0 9 3 1
+(~9.1)Naylor @ p:	2 0 0 0 3 0
+(~9.3)Rose @ p:	0 0 0 0 0 0
+(~9.2)*Criss @ ph:	1 0 0 0 0 0	
+(~3.2)+Clarke @ ph:	1 0 1 0 0 0	
+TOTALS:		31 0 7 27 11 1
+
+*: batted for Naylor in 8th
++: batted for Dodd in 9th
+
+line: Waco:    0 1 0 1 0 0 0 0 0 - 2
+line: Houston: 0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Houston #5; Waco #3
+B_SB: Tanner
+B_SH: Tanner; Coyle; Conwell
+P_BB: Naylor #2; Donalds #1
+P_SO: Naylor #5; Donalds #7; Rose #1
+P_H: Naylor #5
+P_IP: Naylor #8; Rose #1
+T: 1:38
+U: Miller
+
+P_GS: ~Naylor
+P_GF: ~Rose
+P_L: ~Naylor
+P_R: Naylor #2
+
+---
+
+date: 1915-07-04
+number: 0
+league: Texas
+away: Fort Worth
+home: San Antonio
+source: Dallas Morning News, July 5, 1915
+
+Fort Worth:	ab r h po a e
+Stow @ ss:	4 1 1 2 1 0
+Atz @ 2b:	4 0 3 1 4 0
+McIver @ rf:	4 0 0 1 0 1
+Harper, G. @ cf:	2 0 0 3 0 0
+Hunter @ 1b:	3 0 0 9 1 0
+Lee @ 3b:	4 0 0 0 2 0
+McChesney @ lf: 4 0 0 2 0 0
+Betts @ c:	4 0 2 5 0 0
+Redford @ p:	3 1 1 0 0 1
+Kerr @ p:	1 0 1 1 0 1 
+TOTALS:		33 2 8 24 8 3
+
+San Antonio:	ab r h po a e
+Baggan @ lf:	2 2 1 2 0 0
+Odell @ 3b:	3 1 1 0 1 0
+Balenti @ ss:	4 0 0 1 3 0
+Harper, H. @ cf:	4 0 1 2 0 0
+(~5.1)Burch @ c:	4 0 2 9 0 0
+Love @ 2b:	3 0 0 5 1 0
+Dunckel @ 1b:	4 0 1 5 1 0
+Harber @ rf:	2 0 0 2 0 0
+Ponder @ p:	4 0 0 1 1 1
+(~5.2)*Harding @ pr:	0 1 0 0 0 0
+Munsell @ p:	0 0 0 0 0 0
+TOTALS:		30 4 6 27 7 1
+
+*: ran for Burch in 8th
+
+line: Fort Worth:  0 0 0 0 2 0 0 0 0 - 2
+line: San Antonio: 1 0 0 0 0 0 0 3 x - 4
+
+B_LOB: San Antonio #8; Fort Worth #9
+B_2B: Odell; Kerr
+B_3B: H. Harper
+B_SB: Love; Atz
+B_SH: Odell; Hunter; G. Harper
+P_BB: Ponder #4; Redford #4
+P_SO: Ponder #9; Redford #1; Kerr #1
+P_H: Redford #4; Kerr #2; Ponder #8
+P_IP: Redford #7.2; Kerr #.1; Ponder #8.1; Munsell #.2
+P_HP: Kerr
+F_DP: Balenti, Love, Dunckel
+T: 2:00
+U: McCafferty
+
+P_GS: ~Redford; ~Ponder
+P_GF: ~Kerr; ~Munsell
+P_W: ~Ponder
+P_L: ~Kerr
+P_SV: ~Munsell
+P_R: Redford #1; Kerr #3; Ponder #2
+
+---
+
+date: 1915-07-04
+number: 0
+league: Texas
+away: Shreveport
+home: Galveston
+status: postponed
+status-reason: rain
+source: Dallas Morning News, July 5, 1915
+
+---
+
+date: 1915-07-04
+number: 1
+league: Western Association
+away: Fort Smith
+home: Tulsa
+source: Dallas Morning News, July 5, 1915
+
+Fort Smith:	ab r h po a e
+Webber @ 2b:	4 0 0 2 0 0
+Moseley @ 1b:	3 0 0 8 0 1
+McCarty @ lf-rf:	3 0 1 1 0 1
+Abington @ cf:	4 0 0 3 0 0
+Adams @ rf-c:	3 0 0 3 1 0
+Leininger @ ss:	3 0 0 3 3 1
+Corgan @ 3b:	3 0 2 1 2 0
+(~8.1)Schultz @ c:	1 0 0 1 0 0
+(~8.2)Robison @ lf:	2 0 0 1 0 0
+Herring @ p:	3 0 0 1 4 0
+*Felt @ pr:	0 0 0 0 0 0
+TOTALS:		29 0 3 24 10 3
+
+Tulsa:		ab r h po a e
+Franklin @ rf:	4 1 1 4 0 0
+Morris @ 3b:	4 1 1 0 1 0
+Newton @ ss:	4 0 0 4 4 1
+Moore @ c:	4 0 0 5 2 0
+Burke @ cf:	3 0 0 2 0 0
+Price @ 1b:	3 0 0 8 2 0
+Brady, C. @ 2b:	3 1 2 4 2 1
+Payne @ lf:	3 1 1 0 0 0
+Jones @ p:	3 1 2 0 4 0
+TOTALS:		31 5 7 27 15 2
+
+*: ran for Moseley in 1st
+
+line: Fort Smith: 0 0 0 0 0 0 0 0 0 - 0
+line: Tulsa:      0 0 4 0 0 1 0 0 x - 5
+
+B_LOB: Tulsa #2; Fort Smith #3
+B_2B: C. Brady
+B_HR: Morris
+B_SB: Felt; Burke
+P_SO: Herring #2; Jones #6
+F_DP: Newton, Price
+T: 1:30
+U: Pontius
+
+---
+
+date: 1915-07-04
+number: 2
+league: Western Association
+away: Fort Smith
+home: Tulsa
+source: Dallas Morning News, July 5, 1915
+
+Fort Smith:	ab r h po a e
+Webber @ 2b:	4 1 3 2 2 0
+Moseley @ 1b:	3 0 1 13 1 0
+McCarty @ rf:	4 0 1 1 0 0
+Adams @ c:	5 1 1 6 2 0
+Abington @ cf:	4 0 0 1 0 0
+Leininger @ ss:	4 0 1 2 6 3
+Corgan @ 3b:	4 0 1 0 2 1
+Robison @ lf:	3 1 2 1 1 0
+Herring @ p:	3 0 0 1 3 0
+TOTALS:		34 3 10 27 17 4
+
+Tulsa:		ab r h po a e
+Franklin @ rf:	5 1 1 1 0 0
+Morris @ 3b:	4 0 1 4 2 2
+Newton @ ss:	4 0 0 1 3 1
+Moore @ c:	3 0 0 3 3 1
+Burke @ cf:	4 0 2 2 0 0
+Price @ 1b:	4 0 0 12 1 0
+Brady, C. @ 2b:	4 0 0 2 1 0
+Payne @ lf:	4 0 2 2 0 0
+Brady, K. @ p:	3 0 0 0 6 1
+*Clements @ ph:	1 0 0 0 0 0
+TOTALS:		36 1 6 27 16 5
+
+*: batted for King Brady in 9th
+
+line: Fort Smith: 0 0 0 0 0 0 1 1 1 - 3
+line: Tulsa:      0 0 1 0 0 0 0 0 0 - 1
+
+B_LOB: Tulsa #6; Fort Smith #10
+B_SB: Abington; Corgan; Morris; Burke #2; Price
+B_SH: Webber; Moseley; McCarty; Herring
+B_HP: Moseley
+P_BB: Herring #1; K. Brady #2
+P_SO: Herring #3; K. Brady #1
+P_HP: K. Brady
+F_DP: Moore, Price
+T: 1:40
+U: Pontius
+
+---
+
+date: 1915-07-04
+number: 0
+league: Western Association
+away: McAlester
+home: Muskogee
+source: Dallas Morning News, July 5, 1915
+
+McAlester:	ab r h po a e
+Heatley @ lf:	6 1 2 2 0 0
+Yardley @ cf:	3 0 0 5 0 0
+Ketter @ c:	5 0 1 3 3 0
+Humphrey @ 2b:	5 0 1 7 1 1
+Young @ 1b:	5 0 0 10 0 0
+Besse @ rf:	4 0 0 0 0 0
+McGee @ ss:	4 1 2 4 3 0
+Thompson @ 3b:	5 0 2 4 5 0
+Long @ p:	5 0 1 0 6 0
+TOTALS:		42 2 9 35 18 1
+
+Muskogee:	ab r h po a e
+Henderson @ cf:	5 0 2 6 0 0 
+Tacke @ 1b:	4 0 0 14 0 1	
+Robison [lf] @ lf:	5 0 2 1 0 0
+Palmer @ ss:	6 0 0 6 5 0
+Lipps @ rf:	3 1 1 0 0 0
+Synek @ 2b:	4 0 0 2 3 0
+Robinson [3b] @ 3b:	4 0 2 1 3 1	
+Herman @ c:	6 1 2 5 2 0
+Masters @ p:	5 1 1 0 5 0
+TOTALS:		42 3 10 35 18 2
+
+line: McAlester: 0 0 1 0 0 1 0 0 0 0 0 0 - 2
+line: Muskogee:  0 0 0 0 0 1 0 1 0 0 0 1 - 3
+
+B_LOB: Muskogee #7; McAlester #16
+B_2B: Robinson [3b] #2; Lipps; Henderson; Robison [lf]
+B_HR: McGee
+B_SB: Lipps; Robinson [3b]; Synek
+B_SH: Yardley #2; Tacke
+B_XO: McGee, running out of line
+P_BB: Long #12; Masters #2
+P_SO: Long #3; Masters #6
+P_WP: Long
+F_DP: Synek, Palmer, Tacke
+F_PB: Ketter
+outsatend: #2
+T: 2:15
+U: Settley
+
+---
+
+date: 1915-07-04
+number: 0
+league: Western Association
+away: Paris
+home: Oklahoma City
+source: Dallas Morning News, July 5, 1915
+A: 
+
+Paris:		ab r h po a e
+Snapp @ 2b:	4 0 1 3 4 0	
+Hayes @ 1b:	3 0 0 8 0 0
+Nagle @ rf:	4 0 1 2 0 0
+Workman @ lf:	4 0 1 1 0 0
+Clark @ cf:	3 0 2 1 0 0
+Gross @ ss:	3 0 0 0 2 0
+Gardner @ 3b:	3 0 0 2 1 0
+(~8.1)Crittenden @ c:	3 0 0 7 2 0
+Daniels @ p:	2 0 1 0 1 0
+(~8.2)*Kimball @ ph:	1 0 0 0 0 0
+TOTALS:		30 0 6 24 10 0
+
+Oklahoma City:	ab r h po a e
+Maag @ 2b:	4 0 1 2 2 0
+Allen @ rf:	3 0 2 3 0 0
+Laflambois @ lf:	3 0 0 1 1 0	
+Hall @ cf:	3 0 0 0 0 1
+King @ 1b:	3 0 0 9 0 1
+Kilduff @ ss:	3 1 1 2 2 0	
+Showers @ 3b:	3 0 0 1 1 0 
+Dowie @ c:	3 0 2 8 1 0
+Herbert @ p:	2 0 0 1 1 0
+TOTALS:		27 1 6 27 8 2
+
+*: batted for Crittenden in 9th
+
+line: Paris:         0 0 0 0 0 0 0 0 0 - 0
+line: Oklahoma City: 0 1 0 0 0 0 0 0 x - 1
+
+B_LOB: Paris #8; Oklahoma City #3
+B_2B: Allen; Dowie
+B_HR: Kilduff
+B_SB: Workman
+B_SH: Gross; Gardner
+P_BB: Herbert #3; Daniels #1
+P_SO: Herbert #7; Daniels #7
+F_DP: Maag, Kilduff; Gross, Snapp, Hayes
+T: 1:30
+U: Spencer
+
+---
+
+date: 1915-07-04
+number: 0
+league: Western Association
+away: Sherman
+home: Denison
+source: Dallas Morning News, July 5, 1915
+
+Sherman:	ab r h po a e
+Williamson @ lf:	5 1 1 1 0 0	
+Mathis @ 1b:	4 0 1 10 0 0
+O'Neal @ rf: 	5 1 0 0 1 0
+Sorey @ ss:	5 0 5 2 4 1
+Sheffield @ cf:	4 0 2 4 1 0
+Carey @ 2b: 	3 0 0 2 3 0
+Jansen @ 3b:	4 0 0 2 2 1
+Ritter @ c:	2 2 1 3 1 0
+Corzine @ p:	1 0 0 0 0 1
+Gillam @ p:	0 0 0 0 0 0
+Weeks @ p:	3 0 2 0 2 1
+TOTALS:		36 4 12 24 14 4
+
+Denison:	ab r h po a e
+Harper @ 2b:	5 1 2 3 7 1
+Hellman @ 1b:	4 0 0 9 1 0
+Nicholson @ cf:	4 0 1 1 1 0
+Campbell @ lf:	2 2 0 0 0 0
+Hornsby @ ss:	3 1 2 3 3 0
+Query @ c:	4 2 3 9 2 0
+Brooks @ 3b:	2 0 0 1 1 0
+Peebles @ rf:	3 2 2 1 1 0
+Glenn @ p:	3 0 0 0 2 1
+TOTALS:		30 8 10 27 18 2
+
+line: Sherman: 0 0 1 1 1 1 0 0 0 - 4
+line: Denison: 2 2 4 0 0 0 0 0 x - 8
+
+B_LOB: Denison #5; Sherman #10
+B_2B: Sorey; Harper; Hornsby
+B_SB: Hellman; Peebles
+B_SH: Sheffield; Brooks; Glenn
+B_SF: Brooks; Glenn
+B_HP: Ritter; Mathis
+P_BB: Corzine #1; Gillam #1; Weeks #2; Glenn #2
+P_SO: Weeks #2; Glenn #7
+P_H: Corzine #4; Gillam #3; Weeks #4
+P_IP: Corzine #1.2; Gillam #1; Weeks #6
+P_HP: Glenn #2
+P_WP: Weeks; Glenn
+F_DP: Sorey, Mathis; Hornsby, Harper, Hellman #2
+T: 1:55
+U: Womack
+
+P_GS: ~Corzine
+P_GF: ~Weeks
+P_L: ~Corzine
+P_R: ~Corzine #4; ~Weeks #4
