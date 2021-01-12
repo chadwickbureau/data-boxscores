@@ -587,8 +587,8 @@ Crockett @ 1b:	4 0 0 8 1 0
 Flowers @ p:	4 1 0 0 3 1
 TOTALS:		32 7 7 27 11 5
 
-line: Mexia:      0 1 0 0 0 0 0 0 0 - 1
-line: Waxahachie: 2 0 0 0 0 0 0 0 x - 2
+line: Mexia:      0 2 0 0 2 4 0 0 0 - 8
+line: Waxahachie: 0 0 0 2 2 0 3 0 0 - 7
 
 B_LOB: Mexia #4; Waxahachie #5
 B_ROE: Waxahachie #2; Mexia #2
