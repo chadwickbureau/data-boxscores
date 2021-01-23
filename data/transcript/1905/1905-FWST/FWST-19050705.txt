@@ -1,0 +1,77 @@
+date: 1905-07-06
+number: 0
+league: Texas
+away: Fort Worth
+home: Temple
+source: Fort Worth Star-Telegram, Jul 7, 1905
+
+Temple:			ab h po a e
+Coyle @ 2b:		3 1 1 1 0
+McIver @ cf:	4 1 4 0 0
+Shelton @ 1b:	4 1 8 0 0
+Clayton @ 3b:	4 0 1 1 0
+Cavanaugh @ ss:	4 0 1 1 0
+Mulkey @ lf:	3 1 0 0 0
+Burke @ rf:		2 0 2 1 0
+Block @ c:		2 0 10 1 1
+Lewis @ p:		3 3 0 2 0
+TOTALS:			29 7 27 7 1
+
+Fort Worth:		ab h po a e
+Moran @ 3b:		3 0 0 0 1
+Wilson @ lf:	5 3 3 1 0
+Butler @ cf:	4 1 1 0 0
+Boles @ ss:		4 2 4 2 0
+Mauch @ c:		4 0 8 0 0
+Burleson @ 3b:	4 2 1 0 0
+Hubbard @ 2b:	4 0 0 2 0
+Wills @ 1b:		4 3 7 0 1
+Walsh @ p:		3 0 0 3 0
+Wicker @ ph:	1 0 0 0 0
+TOTALS:			36 11 24 8 2
+
+line: Temple: 0 0 3 0 0 0 2 0 x - 5
+line: Fort Worth: 0 0 1 0 2 0 0 0 0 - 3
+
+B_LOB: 
+B_ROE: 
+B_ER: Fort Worth #2; Temple #1
+B_2B: Boles
+B_3B: 
+B_HR: 
+B_SB: Boles #2; Wills #2; Burleson; Lewis
+B_SH: Butler; Coyle; Block
+B_SF: 
+B_HP: Moran; Mulkey
+B_XO: 
+P_BB: Walsh #2; Lewis #1
+P_SO: Walsh #5; Lewis #9
+P_H: 
+P_IP: 
+P_HP: Walsh; Lewis
+P_WP: Lewis
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:30
+U: Sheehan
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1905-07-07
+number: 0
+league: Texas
+away: Fort Worth
+home: Dallas
+source: Fort Worth Star-Telegram, Jul 8, 1905
+status: postponed, rain
+
+---
+
