@@ -1,0 +1,879 @@
+date: 1905-08-02
+number: 0
+league: Texas
+away: Fort Worth
+home: Waco
+source: The Fort Worth Record and Register, Aug 3, 1905
+
+Fort Worth:		ab h po a e
+Sullivan @ lf:	4 1 1 0 0
+Wilson @ rf:	4 0 1 1 0
+Erwin @ c:		4 0 10 3 0
+Butler @ cf:	4 1 3 0 0
+Boles @ ss:		4 1 4 2 1
+Wills @ 1b:		4 1 5 0 0
+Hubbard @ 2b:	4 1 3 0 1
+Ford @ 3b:		4 0 1 1 1
+Wicker @ p:		2 0 0 2 1
+Huddleston @ p:	0 0 0 0 0
+TOTALS:			34 5 27 9 4
+
+Waco:			ab h po a e
+Sapp @ 2b:		2 2 2 2 0
+Bigbie @ ss:	3 0 1 1 0
+Stovall @ cf:	5 3 1 0 0
+Ragsdale @ c:	5 2 13 0 0
+Williams @ lf:	4 1 1 0 0
+Whiteman @ rf:	5 1 0 0 0
+Metz @ 1b:		3 1 8 0 0
+McDermott @ 3b:	4 0 0 2 0
+Pruitt @ p:		3 1 1 2 2
+TOTALS:			34 11 27 7 2
+
+line: Fort Worth: 0 1 0 0 0 0 0 1 0 - 2
+line: Waco: 2 0 0 0 0 4 1 0 1 - 8
+
+B_LOB: 
+B_ROE: 
+B_ER: Waco #1
+B_2B: Whiteman; Butler
+B_3B: Stovall
+B_HR: 
+B_SB: Sapp; Wilson; Hubbard
+B_SH: Sapp; Bigbie #2; Williams
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Wicker #2
+P_SO: Pruitt #12; Wicker #9
+P_H: Wicker #8; Huddleston #3
+P_IP: Wicker #8; Huddleston #1
+P_HP: Pruitt #1; Wicker #1
+P_WP: 
+P_BK: 
+F_DP: Erwin, Hubbard
+F_PB: Ragsdale
+outsatend: 
+T: 1:45
+U: Burland
+
+P_GS: ~Wicker
+P_GF: ~Huddleston
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1905-08-02
+number: 0
+league: Texas
+away: Dallas
+home: Temple
+source: The Fort Worth Record and Register, Aug 3, 1905
+status: postponed, rain
+
+---
+
+date: 1905-08-03
+number: 0
+league: Texas
+away: Fort Worth
+home: Temple
+source: The Fort Worth Record and Register, Aub 4, 1905
+
+Fort Worth:		ab r h po a e
+Sullivan @ lf:	4 0 0 2 0 0
+Wilson @ rf:	3 0 1 1 0 0
+Erwin @ c:		4 0 1 2 0 1
+Butler @ cf:	4 1 3 2 0 0
+Boles @ ss:		4 0 0 2 6 0
+Wills @ 1b:		4 0 1 15 1 1
+Hubbard @ 2b:	4 0 1 2 3 0
+Ford @ 3b:		3 0 0 1 1 0
+Walsh @ p:		3 0 0 0 4 0
+Wicker @ ?:		1 0 0 0 0 0
+Huddleston @ ?:	1 0 0 0 0 0
+TOTALS:			35 1 7 27 17 2
+
+Temple:				ab r h po a e
+Coyle @ 2b:			3 0 0 1 1 0
+McIver @ cf:		5 0 2 5 0 0
+Shelton @ 1b:		4 0 2 11 2 0
+Clayton @ 3b:		4 0 1 0 4 0
+Aiken @ ss:			5 0 0 2 5 1
+Powell @ c:			3 1 1 5 0 0
+Deskin @ lf:		5 1 0 3 0 0
+Poindexter @ rf:	3 1 2 0 0 0
+Thomas @ p:			4 0 0 0 1 0
+TOTALS:				36 3 8 27 13 1
+
+line: Fort Worth: 0 0 0 0 0 0 0 0 1 - 1
+line: Temple: 0 1 0 2 0 0 0 0 0 - 3
+
+B_LOB: Temple #12; Fort Worth #8
+B_ROE: 
+B_ER: Temple #1
+B_2B: Poindexter; Wilson; Shelton
+B_3B: Powell
+B_HR: 
+B_SB: Powell #2; Aiken; Poindexter #2; Coyle; McIver; Hubbard
+B_SH: 
+B_SF: 
+B_HP: Shelton
+B_XO: 
+P_BB: Walsh #6; Thomas #1
+P_SO: Walsh #2; Thomas #4
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: Walsh
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:40
+U: Sheehan
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1905-08-03
+number: 0
+league: Texas
+away: Dallas
+home: Waco
+source: The Fort Worth Record and Register, Aug 4, 1905
+
+Dallas:			ab h po a e
+Andres @ 2b:	4 1 2 5 0
+Ury @ 1b:		4 2 9 0 0
+Maloney @ cf:	4 2 3 0 0
+Fink @ 3b:		4 0 1 1 0
+Doyle @ lf:		3 0 0 0 0
+Myers @ rf:		4 0 1 0 1
+Bero @ ss:		3 2 1 1 1
+Rickey @ c:		4 0 10 1 0
+Ables @ p:		4 0 0 4 0
+TOTALS:			34 7 27 12 2
+
+Waco:			ab h po a e
+Sapp @ 2b:		5 0 0 2 0
+Bigbie @ ss:	4 2 3 2 1
+Stovall @ cf:	5 0 1 0 0
+Ragsdale @ c:	4 1 11 1 0
+Williams @ lf:	4 1 1 0 0
+Whiteman @ rf:	3 2 2 1 0
+Metz @ 1b:		3 1 0 0 0
+McDermott @ 3b:	3 0 0 0 1
+White @ p:		3 0 0 3 0
+TOTALS:			34 7 27 9 2
+
+line: Dallas: 0 0 0 0 0 0 0 0 0 - 0
+line: Waco: 0 0 1 0 0 0 0 0 1 - 2
+
+B_LOB: Waco #12; Dallas #8
+B_ROE: 
+B_ER: 
+B_2B: Bero
+B_3B: 
+B_HR: 
+B_SB: Ragsdale; Whiteman; Metz
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: White #2; Ables #3
+P_SO: White #5; Ables #9
+P_H: 
+P_IP: 
+P_HP: Ables #3
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:45
+U: Tackaberry
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1905-08-04
+number: 0
+league: Texas
+away: Fort Worth
+home: Temple
+source: The Fort Worth Record and Register, Aug 5, 1905
+
+Fort Worth:		ab r h po a e
+Sullivan @ lf:	4 0 1 0 0 0
+Wilson @ rf:	4 0 1 1 0 0
+Erwin @ c:		4 0 2 2 0 0
+Butler @ cf:	3 1 0 0 0 0
+Boles @ ss:		4 0 1 4 4 0
+Wills @ 1b:		3 0 0 18 2 0
+Hubbard @ 2b:	3 0 0 1 6 1
+Ford @ 3b:		4 0 1 0 4 0
+Christman @ p:	3 0 0 1 3 0
+Wicker @ ph:	1 0 0 0 0 0
+TOTALS:			33 1 6 27 19 1
+
+Temple:				ab r h po a e
+Coyle @ 2b:			4 0 0 4 6 1
+McIver @ cf:		4 0 0 2 0 0
+Shelton @ 1b:		4 1 2 12 2 0
+Clayton @ 3b:		4 1 2 2 1 0
+Aiken @ ss:			4 0 1 4 5 1
+Powell @ c:			3 0 1 2 1 0
+Deskin @ lf:		4 0 0 0 0 0
+Poindexter @ rf:	3 0 1 0 0 0
+Lewis @ p:			3 0 1 1 2 0
+TOTALS:				33 2 8 27 17 2
+
+line: Fort Worth: 0 0 0 1 0 0 0 0 0 - 1
+line: Temple: 1 0 0 1 0 0 0 0 0 - 2
+
+B_LOB: Temple #6; Fort Worth #8
+B_ROE: 
+B_ER: Temple #2
+B_2B: Shelton; Clayton
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Lewis #3; Christman #1
+P_SO: Lewis #2; Christman #2
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: Lewis
+P_BK: 
+F_DP: Boles, Hubbard, Wills
+F_PB: Erwin
+outsatend: 
+T: 1:30
+U: Spencer
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1905-08-04
+number: 0
+league: Texas
+away: Dallas
+home: Waco
+source: The Fort Worth Record and Register, Aug 5, 1905
+
+Dallas:			ab h po a e
+Andres @ 2b:	3 0 6 1 0
+Ury @ 1b:		5 2 11 6 0
+Maloney @ cf:	5 2 2 1 0
+Fink @ 3b:		3 1 1 0 0
+Bero @ ss:		3 0 0 2 0
+Doyle @ lf:		3 0 2 0 0
+Myers @ rf:		4 2 1 0 0
+Rickey @ c:		2 1 3 1 0
+Blumling @ p:	4 1 1 6 1
+TOTALS:			32 9 27 11 1
+
+Waco:			ab h po a e
+Sapp @ 2b:		4 2 3 2 1
+Bigbie @ ss:	3 1 1 2 0
+Stovall @ cf:	4 1 3 0 0
+Ragsdale @ c:	4 1 3 1 2
+Williams @ lf:	4 0 4 1 0
+Whiteman @ rf:	3 0 2 0 0
+Metz @ 1b:		3 1 6 1 1
+McDermott @ 2b:	2 0 0 3 1
+Lower @ p:		2 0 0 3 1
+TOTALS:			29 6 23 13 5
+
+line: Dallas: 1 0 1 0 1 2 0 1 x - 6
+line: Waco: 0 0 3 0 0 0 0 0 0 - 3
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Sapp; Stovall; Maloney
+B_3B: 
+B_HR: 
+B_SB: Andres #2
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Lower #5; Blumling #3
+P_SO: Lower #1; Blumling #1
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: Lower
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:50
+U: Tackaberry
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1905-08-05
+number: 0
+league: Texas
+away: Fort Worth
+home: Temple
+source: The Fort Worth Record and Register, Aug 6, 1905
+
+Fort Worth:		ab r h po a e
+Sullivan @ lf:	5 5 4 3 0 0
+Wilson @ 1b:	4 2 2 14 1 0
+Erwin @ c:		4 0 2 6 1 0
+Butler @ cf:	5 0 1 1 0 0
+Boles @ ss:		5 1 2 3 4 1
+Wills @ 2b:		5 0 0 2 4 1
+Wicker @ rf:	4 1 2 1 0 0
+Ford @ 2b:		4 0 1 0 4 0
+Huddleston @ p:	2 0 0 0 1 0
+Christman @p:	3 0 0 0 3 0
+TOTALS:			41 9 14 30 18 2
+
+Temple:				ab r h po a e
+Coyle @ 2b:			4 0 1 1 4 0
+McIver @ cf:		4 1 1 4 0 0
+Shelton @ 1b:		4 0 0 14 1 1
+Clayton @ 3b:		5 1 1 0 2 0
+Aiken @ ss:			4 0 1 1 4 1
+Powell @ c:			5 0 0 6 0 0
+Deskins @ lf:		4 1 2 1 0 0
+Poindexter @ rf:	4 2 2 2 1 0
+Hise @ p:			3 2 1 0 3 0
+Lewis @ p:			1 0 0 0 1 0
+TOTALS:				38 7 9 29 16 2
+
+line: Fort Worth: 2 0 1 0 0 1 1 0 2 2 - 9
+line: Temple: 0 0 4 3 0 0 0 0 0 0 - 7
+
+B_LOB: 
+B_ROE: 
+B_ER: Temple #4; Fort Worth #8
+B_2B: Sullivan #3; Aiken; Deskins
+B_3B: Boles
+B_HR: Sullivan; Boles
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Hise #2; Huddleston #3; Lewis #1; Christman #1
+P_SO: Hise #4; Huddleston #2; Christman #1
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Wills; Aiken, Shelton
+F_PB: Erwin; Powell
+outsatend: 
+T: 1:40
+U: Spencer
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1905-08-05
+number: 0
+league: Texas
+away: Dallas
+home: Waco
+source: The Fort Worth Record and Register, Aug 6, 1905
+
+Dallas:			ab h po a e
+Andres @ 2b:	3 1 1 3 0
+Ury @ 1b:		4 1 12 0 0
+Maloney @ cf:	4 1 1 0 0
+Fink @ 3b:		4 1 1 2 0
+Bero @ ss:		4 1 2 3 0
+Doyle @ 1b:		4 1 0 0 0
+Myers @ rf:		4 2 1 0 0
+Rickey @ c:		2 1 9 1 0
+Ables @ p:		4 0 0 3 0
+TOTALS:			33 9 27 12 0
+
+Waco:			ab h po a e
+Sapp @ 2b:		4 0 1 3 1
+Bigbie @ ss:	2 0 2 4 0
+Stovall @ cf:	4 0 1 1 1
+Ragsdale @ c:	4 3 4 1 0
+Williams @ lf:	3 0 2 0 0
+Whiteman @ rf:	4 1 0 1 0
+Metz @ 1b:		4 1 11 0 2
+McDermott @ 3b:	3 0 0 2 2
+Pruitt @ p:		3 1 3 2 0
+TOTALS:			31 6 24 14 6
+
+line: Dallas: 0 0 0 0 2 0 2 0 0 - 4
+line: Waco: 1 0 0 0 1 0 0 0 0 - 2
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: 
+B_3B: 
+B_HR: Pruitt
+B_SB: Rickey; Bigbie
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Ables #2
+P_SO: Pruitt #2; Ables #1
+P_H: 
+P_IP: 
+P_HP: Pruitt
+P_WP: 
+P_BK: 
+F_DP: Bigbie, Metz; Andres, Ury
+F_PB: 
+outsatend: 
+T: 1:50
+U: Tackaberry
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1905-08-06
+number: 0
+league: Texas
+away: Waco
+home: Fort Worth
+source: The Fort Worth Record and Register, Aug 7, 1905
+
+Waco:			ab r h po a e
+Sapp @ 2b:		3 0 0 1 7 0
+Bigbie @ ss:	4 0 2 2 1 0
+Stovall @ cf:	3 0 1 2 0 0
+Ragsdale @ c:	4 0 1 5 2 1
+Williams @ lf:	4 0 0 0 0 0
+Whiteman @ rf:	4 0 0 4 1 0
+Metz @ 1b:		4 0 2 9 0 0
+McDermott @ 3b:	3 0 1 1 4 0
+White @ p:		4 0 0 0 0 0
+TOTALS:			33 0 7 24 15 1
+
+Fort Worth:		ab r h po a e
+Gfrorer @ cf:	3 0 2 0 0 0
+Cavender @ lf:	3 0 2 4 0 0
+Wilson @ rf:	3 0 1 0 0 0
+Boles @ ss:		4 0 1 3 1 2
+Hubbard @ 2b:	3 0 0 0 3 0
+Erwin @ c:		2 1 0 5 2 0
+Merkley @ 3b:	3 0 1 1 1 0
+Wills @ 1b:		3 0 2 13 1 0
+Schwenk @ p:	0 0 0 1 2 0
+Wicker @ p:		3 0 0 1 3 0
+TOTALS:			29 1 9 27 13 2
+
+line: Waco: 0 0 0 0 0 0 0 0 0 - 0
+line: Fort Worth: 0 0 0 0 1 0 0 0 0 - 1
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Wilson; Cavender
+B_3B: 
+B_HR: 
+B_SB: Boles; Stovall; Williams
+B_SH: Wilson; Cavender
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Schwenk #1; Wicker #1; White #1
+P_SO: Wicker #4; White #4
+P_H: Schwenk #1; Wicker #6; White #9
+P_IP: Schwenk #2; Wicker #7; White #9
+P_HP: Wicker
+P_WP: 
+P_BK: 
+F_DP: Wills, Boles; Schwenk, Wills
+F_PB: Ragsdale
+outsatend: 
+T: 1:40
+U: Spencer
+
+P_GS: ~Schwenk
+P_GF: ~Wicker
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1905-08-06
+number: 0
+league: Texas
+away: Temple
+home: Dallas
+source: The Fort Worth Record and Register, Aug 7, 1905
+
+Temple:				ab r h po a e
+Coyle @ 2b:			5 0 2 2 4 0
+Salm @ cf:			4 0 1 3 0 0
+Shelton @ 1b:		4 0 2 14 0 0
+Clayton @ 3b:		2 0 0 0 5 0
+Aiken @ ss:			3 0 1 3 1 0
+Powell @ c:			3 0 0 5 0 0
+Deskin @ lf:		4 1 1 0 0 0
+Poindexter @ rf:	3 1 1 0 1 0
+Mitchell @ p:		3 0 1 0 5 0
+TOTALS:				31 2 7 27 16 0
+
+Dallas:			ab r h po a e
+Andres @ 2b:	4 0 1 7 1 0
+Ury @ 1b:		4 1 2 7 2 0
+Maloney @ cf:	3 0 1 2 0 0
+Fink @ 3b:		3 0 0 3 2 1
+Bero @ ss:		4 0 1 3 3 0
+Doyle @ lf:		4 0 1 0 0 0
+Myers @ rf:		3 0 1 3 0 1
+Ragsdale @ c:	3 0 1 1 0 0
+Bridges @ p:	3 0 0 1 2 0
+TOTALS:			31 1 8 27 10 2
+
+line: Temple: 0 0 0 0 0 0 2 0 0 - 2
+line: Dallas: 0 0 0 1 0 0 0 0 0 - 1
+
+B_LOB: Dallas #6; Temple #8
+B_ROE: 
+B_ER: Dallas #1; Temple #1
+B_2B: Poindexter; Mitchell
+B_3B: 
+B_HR: 
+B_SB: Poindexter; Ury
+B_SH: Clayton #2; Powell; Maloney; Fink; Myers
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Bridges #3; Mitchell #0
+P_SO: Bridges #1; Mitchell #4
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:35
+U: Tackaberry
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1905-08-07
+number: 0
+league: Texas
+away: Waco
+home: Fort Worth
+source: The Fort Worth Record and Register, Aug 8, 1905
+
+Waco:			ab r h po a e
+Sapp @ 2b:		3 0 0 0 3 0
+Bigbee @ ss:	4 0 0 1 3 0
+Stovall @ cf:	4 1 0 2 0 0
+Ragsdale @ c:	4 0 0 4 3 0
+Williams @ lf:	4 0 0 0 0 0
+Whiteman @ rf:	3 0 2 3 0 0
+Metz @ 1b:		3 0 1 16 0 1
+McDermott @ 3b:	2 0 0 1 3 0
+Lower @ p:		3 0 0 0 3 0
+TOTALS:			30 2 3 27 14 1
+
+Fort Worth:		ab r h po a e
+Gfrorer @ cf:	3 0 1 2 0 0 
+Cavender @ lf:	3 0 1 2 0 0
+Wilson @ rf:	4 0 1 1 0 0
+Erwin @ c:		4 0 0 3 1 0
+Boles @ ss:		4 0 1 1 5 0
+Markley @ 3b:	3 0 0 1 5 0
+Wills @ 1b:		4 0 1 16 0 1
+Hubbard @ 2b:	4 1 2 1 1 1
+Walsh @ p:		3 0 0 0 3 0
+TOTALS:			32 1 7 27 15 2
+
+line: Waco: 0 0 1 0 0 0 0 0 1 - 2
+line: Fort Worth: 0 0 0 0 1 0 0 0 0 - 1
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Lower
+B_3B: 
+B_HR: 
+B_SB: Wilson; Hubbard; Whiteman #2
+B_SH: 
+B_SF: 
+B_HP: Sapp; Metz
+B_XO: 
+P_BB: Lower #1; Walsh #1
+P_SO: Walsh #2; Lower #3
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:40
+U: Spencer
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1905-08-07
+number: 0
+league: Texas
+away: Temple
+home: Dallas
+source: The Fort Worth Record and Register, Aug 8, 1905
+
+Temple:				ab r h po a e
+Coyle @ 2b:			5 1 2 3 2 2
+Salm @ cf-1b:		3 3 1 4 0 0
+Shelton @ 1b-p:		4 1 1 8 2 0
+Clayton @ 3b:		5 1 2 3 2 1
+Aiken @ ss:			3 0 0 1 4 2
+Kalkhoff @ c:		4 1 4 3 1 0
+Deskin @ lf:		3 1 0 1 0 0
+Poindexter @ rf:	5 1 2 3 0 0
+Lewis @ p:			4 1 1 1 1 0
+Powell @ p-cf:		1 0 1 0 0 0
+TOTALS:				37 10 14 27 12 5
+
+Dallas:			ab r h po a e
+Andres @ 2b:	5 1 2 1 7 0
+Ury @ 1b:		4 0 2 15 0 0
+Maloney @ cf:	5 1 0 1 0 0
+Fink @ 3b:		6 0 0 1 3 0
+Bero @ ss:		6 1 1 1 2 1
+Doyle @ lf:		3 0 1 1 0 1
+Myers @ rf:		4 1 1 1 1 0
+Rickey @ c:		4 2 3 5 0 1
+Porter @ p:		1 0 0 0 1 2
+Bridges @ p:	3 1 2 1 2 0
+TOTALS:			41 7 12 27 16 5
+
+line: Temple: 4 1 5 0 0 0 0 0 0 - 10
+line: Dallas: 0 1 0 1 0 4 0 0 1 - 7
+
+B_LOB: Dallas #18; Temple #9
+B_ROE: 
+B_ER: Dallas #1; Temple #5
+B_2B: Rickey
+B_3B: Bero
+B_HR: 
+B_SB: Salm; Andres
+B_SH: Coyle; Salm; Deskin
+B_SF: 
+B_HP: Kalkhoff; Ury; Doyle
+B_XO: 
+P_BB: Porter #2; Bridges #3; Lewis #2; Powell #4; Shelton #3
+P_SO: Porter #1; Bridges #3; Lewis #1
+P_H: 
+P_IP: Porter #2; Bridges #7; Lewis #6; Powell #1; Shelton #2
+P_HP: 
+P_WP: Lewis; Shelton
+P_BK: 
+F_DP: Coyle; Fink, Andres, Ury; Myers, Ury
+F_PB: 
+outsatend: 
+T: 1:55
+U: Tackaberry
+
+P_GS: ~Porter; ~Lewis
+P_GF: ~Bridges; ~Shelton
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1905-08-08
+number: 0
+league: Texas
+away: Temple
+home: Dallas
+source: The Fort Worth Record and Register, Aug 9, 1905
+
+Temple:				ab r h po a e
+Coyle @ 2b:			3 2 0 1 2 1
+Salm @ cf:			3 0 1 4 0 0
+Shelton @ 1b:		4 1 1 13 0 0
+Clayton @ 3b:		4 0 1 1 2 0
+Aiken @ ss:			3 0 1 0 6 2
+Kalkhoff @ c:		4 0 2 4 2 0
+McIver @ rf:		4 0 0 3 0 0
+Deskin @ lf:		4 0 1 0 0 0
+Dixon @ p:			3 0 2 1 4 1
+TOTALS:				33 3 9 27 16 4
+
+Dallas:			ab r h po a e
+Andres @ 3b:	3 1 3 3 1 1
+Ury @ 1b:		4 0 1 10 0 0
+Maloney @ cf:	4 0 0 1 0 1
+Fink @ 1b:		4 0 0 2 3 0
+Bero @ ss:		4 0 0 1 8 0
+Doyle @ lf:		4 0 1 0 0 0
+Myers @ rf:		4 0 4 1 1 0
+Rickey @ c:		4 0 0 6 1 0
+Porter @ p:		4 1 0 0 0 1
+Ragsdale @ c:	0 0 0 0 0 0
+Blumling @ p:	1 0 0 0 0 0
+TOTALS:			36 2 9 24 14 3
+
+line: Temple: 1 0 2 0 0 0 0 0 x - 3
+line: Dallas: 0 0 1 0 0 0 1 0 0 - 2
+
+B_LOB: Dallas #10; Temple #8
+B_ROE: 
+B_ER: Dallas #1; Temple #1
+B_2B: Myers #2
+B_3B: 
+B_HR: Shelton; Andres
+B_SB: 
+B_SH: Salm; Andres; Ury; Maloney
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Porter #2; Dixon #1
+P_SO: Porter #4; Dixon #2
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: Dixon
+P_BK: 
+F_DP: Rickey, Ury; Fink, Andres; Myers, Rickey, Porter
+F_PB: 
+outsatend: 
+T: 1:45
+U: Tackaberry
+
+P_GS: ~Porter
+P_GF: ~Blumling
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1905-08-08
+number: 0
+league: Texas
+away: Waco
+home: Fort Worth
+source: The Fort Worth Record and Register, Aug 9, 1905
+
+Waco:			ab r h po a e
+Sapp @ 2b:		2 1 0 4 1 1
+Bigbee @ ss:	3 1 1 1 1 1
+Stovall @ cf-p:	4 1 0 3 1 0
+Ragsdale @ c:	4 0 0 8 1 0
+Williams @ lf:	4 0 0 0 0 0
+Whiteman @ rf:	4 0 0 0 0 1
+Metz @ 1b:		3 0 1 7 0 0
+McDermott @ 3b:	3 0 0 1 5 0
+Pruitt @ p-cf:	2 0 0 0 0 0
+TOTALS:			29 3 2 24 9 3
+
+Fort Worth:		ab r h po a e
+Gfrorer @ cf:	3 0 1 4 0 0
+Cavender @ lf:	4 0 0 2 0 0
+Wilson @ rf:	5 1 1 2 0 0
+Erwin @ c:		3 1 1 7 1 0
+Boles @ ss:		3 1 2 1 1 0
+Markley @ 3b:	4 0 0 1 2 0
+Vitter @ 2b:	3 2 2 7 0 1
+Wills @ 1b:		3 1 2 3 4 1
+Hanlon @ p:		4 0 1 0 1 0
+TOTALS:			32 6 10 27 10 2
+
+line: Waco: 1 0 0 0 0 0 0 0 0 - 1
+line: Fort Worth: 0 2 0 2 0 0 2 0 0 - 6
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Erwin; Boles; Wills #2
+B_3B: 
+B_HR: 
+B_SB: Vitter; Metz
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Hanlon #2; Pruitt #2; Stovall #2
+P_SO: Hanlon #6; Pruitt #5; Stovall #3
+P_H: Hanlon #2; Pruitt #6; Stovall #4
+P_IP: Hanlon #9; Pruitt #4; Stovall #5
+P_HP: Hanlon
+P_WP: Hanlon
+P_BK: 
+F_DP: 
+F_PB: Erwin
+outsatend: 
+T: 1:35
+U: Spencer
+
+P_GS: ~Pruitt
+P_GF: ~Stovall
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
