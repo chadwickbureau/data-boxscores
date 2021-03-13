@@ -1,0 +1,112 @@
+date: 1909-05-06
+number: 0
+league: Atlantic
+away: Pottsville
+home: Reading
+source: Pottsville Republican, May 7, 1909
+
+Pottsville:		ab r h po a e
+Miller, W. @ cf:	x 0 1 1 0 0
+Eustace @ 3b:	x 0 0 2 0 0
+Sweeney @ 2b:	x 1 0 1 3 0
+(~4.1)Evans @ rf:	x 0 0 0 0 0
+(~4.2)Bisland @ rf:	x 0 1 3 0 1
+Miller @ c:	x 0 1 4 2 0
+Reilly @ ss:	x 1 2 0 5 0
+Dugan @ lf:	x 1 0 1 0 0
+Miller, E. @ 1b:	x 0 0 12 0 0	
+Brennan @ p:	x 0 1 0 3 1	
+TOTALS:		x 3 6 24 13 2
+
+Reading:	ab r h po a e
+Kane @ cf:	x 2 1 0 0 0
+O'Holloran @ 2b:	x 1 0 2 3 0
+Bertwhistle @ lf:	x 0 2 1 0 0
+Wall @ 1b:	x 1 1 18 1 0
+Hartman @ c:	x 0 1 1 3 0
+Deckard @ 3b:	x 0 1 1 2 2
+Wagner @ ss:	x 0 0 1 0 0
+Pickel @ rf:	x 0 1 1 1 0
+Nopps @ p:	x 1 1 2 1 0
+Covaleskie @ p:	x 0 0 0 2 0
+TOTALS:		x 5 8 27 18 2
+
+line: Pottsville: 0 0 1 1 0 0 0 1 0 - 3
+line: Reading:    0 0 0 0 0 0 3 0 2 - 5
+
+B_LOB: Reading #4; Pottsville #9
+B_2B: Wall; Hartman
+B_SB: Reilly; Sweeney
+B_SH: O'Holloran; Nopps; Evans; E. Miller
+P_BB: Nopps #5; Covaleskie #2
+P_SO: Nopps #1; Breen #4
+P_BK: Covaleskie
+F_DP: Nopps, Wall
+T: 2:00
+
+---
+
+date: 1909-05-06
+number: 0
+league: Atlantic
+away: Allentown
+home: Easton
+source: Pottsville Republican, May 7, 1909
+
+Allentown:	r h e
+Edmunds @ p:	x x x
+Davis @ c:	x x x
+TOTALS:		0 2 2
+
+Easton:		r h e
+Biehl @ p: 	x x x
+Ross @ c:	x x x
+TOTALS:		1 3 0
+
+line: Allentown: 0 0 0 0 0 0 0 0 0 - 0
+line: Easton:    0 0 0 0 1 0 0 0 0 - 1
+
+---
+
+date: 1909-05-06
+number: 0
+league: Atlantic
+away: Shamokin
+home: Mount Carmel
+source: Pottsville Republican, May 7, 1909
+
+Shamokin:	r h e
+Cranmer @ p:	x x x
+Irving @ c:	x x x
+TOTALS:		2 6 4
+
+Mount Carmel:	r h e
+Brennan @ p: 	x x x
+Hopkins @ c:	x x x
+TOTALS:		6 10 3
+
+line: Shamokin:     0 1 0 0 0 0 1 0 0 - 2
+line: Mount Carmel: 0 0 0 4 0 1 1 0 x - 6
+
+---
+
+date: 1909-05-06
+number: 0
+league: Atlantic
+away: Wilmington
+home: Elizabeth
+source: Pottsville Republican, May 7, 1909
+
+Wilmington:	r h e
+Nichol @ p:	x x x
+Murray @ c:	x x x
+TOTALS:		2 3 3
+
+Elizabeth:	r h e
+Luyster @ p: 	x x x
+Gallon @ c:	x x x
+TOTALS:		3 6 4
+
+line: Wilmington: 0 0 0 0 1 0 0 0 1 0 - 2
+line: Elizabeth:  1 1 0 0 0 0 0 0 0 1 - 3
+

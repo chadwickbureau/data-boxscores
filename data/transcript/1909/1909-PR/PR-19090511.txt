@@ -1,0 +1,117 @@
+date: 1909-05-11
+number: 0
+league: Atlantic
+away: Elizabeth
+home: Pottsville 
+source: Pottsville Republican, May 12, 1909
+
+Elizabeth:	ab r h po a e
+Shields @ lf:	x 0 2 3 0 0
+Murphy @ ss:	x 0 1 1 4 0
+Mackey @ 1b:	x 0 0 11 1 1
+Meany @ rf:	x 0 1 0 0 0
+Luyster @ cf:	x 1 0 0 0 0
+Lambrecht @ 3b:	x 0 2 1 3 1
+Phaler @ 2b:	x 0 2 2 2 0 
+Henderson @ c:	x 0 2 5 0 0
+Wolf @ p:	x 0 0 0 0 1
+Hayes @ p:	x 1 1 1 4 1
+TOTALS:		x 2 11 24 14 4
+
+Pottsville:		ab r h po a e
+Miller, W. @ cf:	x 1 1 3 1 0
+Eustace @ 3b:	x 1 0 2 4 0
+Sweeney @ 2b:	x 1 1 3 2 0
+Evans @ rf:	x 1 0 0 1 0
+Bisland @ lf:	x 2 0 1 0 0
+Reilly @ ss:	x 0 1 3 5 0
+Miller, A. @ c:	x 0 0 1 0 0
+Miller, E. @ 1b:	x 1 2 14 1 0	
+Hipfel @ p:	x 0 1 0 4 0	
+TOTALS:		x 7 6 27 18 0
+
+line: Elizabeth:  0 0 0 1 1 0 0 0 0  - 2
+line: Pottsville: 5 0 0 1 1 0 0 0 x - 7
+
+B_LOB: Elizabeth #6; Pottsville #6
+B_2B: Reilly; Phaler; Shields
+B_SB: W. Miller #2; E. Miller; Hayes
+B_SH: Murphy; Sweeney; Hipfel; Reilly
+B_HP: Eustace; Lambrecht
+P_WP: Wolf
+F_DP: Reilly, E. Miller; Murphy, Mackey, Henderson; Reilly, Sweeney, E. Miller
+
+P_GS: ~Wolf
+P_GF: ~Hayes
+P_L: ~Wolf
+
+---
+
+date: 1909-05-11
+number: 0
+league: Atlantic
+away: Easton
+home: Shamokin
+source: Pottsville Republican, May 12, 1909
+status: ended early to allow Easton to catch train
+
+Easton:		r h e
+Biehl @ p:	x x x
+Ross @ c:	x x x
+TOTALS:		3 4 3
+
+Shamokin:	r h e
+Cramer @ p:	x x x
+Francisco @ c:	x x x
+TOTALS:		8 8 4
+
+line: Easton:   0 0 2 0 0 0 0 1 - 3
+line: Shamokin: 0 1 2 1 0 0 4 x - 8
+
+---
+
+date: 1909-05-11
+number: 0
+league: Atlantic
+away: Allentown
+home: Mount Carmel 
+source: Pottsville Republican, May 12, 1909
+
+Allentown:	r h e
+Hench @ c:	x x x
+Moore @ p:	x x x
+Davis @ c:	x x x
+TOTALS:		0 0 3
+
+Mount Carmel:	r h e
+Bush @ p: 	x x x
+Hopkins @ c:	x x x
+TOTALS:		8 15 1
+
+line: Allentown:    0 0 0 0 0 0 0 0 0 - 0
+line: Mount Carmel: 0 0 2 0 2 2 2 0 x - 8
+
+---
+
+date: 1909-05-11
+number: 0
+league: Atlantic
+away: Wilmington 
+home: Reading 
+source: Pottsville Republican, May 12, 1909
+
+Wilmington:	r h e
+Yerkes @ p:	x x x
+Berry @ c:	x x x
+TOTALS:		4 7 1
+
+Reading:	r h e
+Craig @ p: 	x x x
+Irvine @ c:	x x x
+TOTALS:		0 7 2
+
+line: Wilmington: 0 2 0 2 0 0 0 0 0 - 4
+line: Reading:    0 0 0 0 0 0 0 0 0 - 0
+
+U: Baker
+

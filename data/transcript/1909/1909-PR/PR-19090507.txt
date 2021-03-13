@@ -1,0 +1,118 @@
+date: 1909-05-07
+number: 0
+league: Atlantic
+away: Reading
+home: Pottsville 
+source: Pottsville Republican, May 8, 1909
+
+Reading:	ab r h po a e
+Kane @ cf:	x 0 1 2 1 0
+O'Halloran @ 2b:	x 0 0 4 6 0
+Bertwhistle @ lf:	x 0 0 4 0 1
+Wall @ 1b:	x 0 0 8 2 1
+Irvin @ c:	x 1 2 5 0 0
+Deckard @ 3b:	x 0 0 2 2 1
+Wagner @ ss:	x 1 0 2 2 2
+Pickel @ rf:	x 0 0 2 1 0
+Craig @ p:	x 0 2 0 0 0
+TOTALS:		x 2 5 29 14 5
+
+Pottsville:		ab r h po a e
+Miller, W. @ cf:	x 1 1 3 0 0
+Eustace @ 3b:	x 0 2 3 3 0
+Sweeney @ 2b:	x 0 2 1 2 0
+Evans @ rf:	x 0 0 0 0 0
+Bisland @ lf:	x 1 1 0 1 0
+Reilly @ ss:	x 1 1 1 1 2
+Miller, A. @ c:	x 0 1 10 1 0
+Miller, E. @ 1b:	x 0 0 11 1 0	
+Sponagle @ p:	x 0 2 1 4 0	
+TOTALS:		x 3 10 30 15 3
+
+line: Reading:    0 2 0 0 0 0 0 0 0 0 - 2
+line: Pottsville: 0 0 0 0 2 0 0 0 0 1 - 3
+
+B_LOB: Reading #4; Pottsville #7
+B_ER: Reading #1; Pottsville #2
+B_2B: Eustace; Bisland
+B_SB: Reilly; Eustace
+B_SH: O'Halloran; Eustace
+B_HP: Kane; Wagner; Pickel
+P_BB: Sponagle #2
+P_SO: Sponagle #7; Craig #3
+P_HP: Sponagle #3
+P_WP: Sponagle
+F_DP: O'Halloran, Wall; Pickel, O'Halloran
+F_PB: A. Miller
+T: 2:00
+U: Forred
+
+---
+
+date: 1909-05-07
+number: 0
+league: Atlantic
+away: Easton
+home: Allentown 
+source: Pottsville Republican, May 8, 1909
+status: ended early, rain
+
+Easton:		r h e
+Rodgers @ p: 	x x x
+Gogh @ p:	x x x
+McGreary @ p:	x x x
+Ross @ c:	x x x
+TOTALS:		2 7 0
+
+Allentown:	r h e
+Hensch @ p:	x x x
+Davis @ c:	x x x
+TOTALS:		4 7 1
+
+line: Easton:    0 0 0 0 0 0 0 2 - 2
+line: Allentown: 2 0 0 0 2 0 0 x - 4
+
+---
+
+date: 1909-05-07
+number: 0
+league: Atlantic
+away: Mount Carmel
+home: Shamokin 
+source: Pottsville Republican, May 8, 1909
+
+Mount Carmel:	r h e
+Bush @ p: 	x x x
+Hopkins @ c:	x x x
+TOTALS:		8 4 2
+
+Shamokin:	r h e
+Peterson @ p:	x x x
+Irving @ c:	x x x
+TOTALS:		1 8 6
+
+line: Mount Carmel: 4 0 0 0 2 0 0 2 0 - 8
+line: Shamokin:     0 0 0 0 1 0 0 0 0 - 1
+
+---
+
+date: 1909-05-07
+number: 0
+league: Atlantic
+away: Elizabeth
+home: Wilmington 
+source: Pottsville Republican, May 8, 1909
+
+Elizabeth:	r h e
+McIntyre @ p: 	x x x
+Henderson @ c:	x x x
+TOTALS:		9 12 4
+
+Wilmington:	r h e
+Duncan @ p:	x x x
+Kane @ p:	x x x
+Berry @ c:	x x x
+TOTALS:		2 5 3
+
+line: Elizabeth:  2 0 3 0 0 4 0 0 0 - 9
+line: Wilmington: 0 1 0 0 0 0 0 0 1 - 2

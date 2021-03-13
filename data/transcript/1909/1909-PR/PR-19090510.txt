@@ -1,0 +1,55 @@
+date: 1909-05-10
+number: 0
+league: Atlantic
+away: Easton
+home: Mount Carmel
+source: Pottsville Republican, May 11, 1909
+status: ended early, rain
+
+Easton:		r h e
+Rogers @ p:	x x x
+Ross @ c:	x x x
+TOTALS:		7 6 3
+
+Mount Carmel:	r h e
+Bates @ p: 	x x x
+Hopkins @ c:	x x x
+TOTALS:		5 3 3 
+
+line: Easton:       0 5 0 1 1 0 - 7
+line: Mount Carmel: 0 1 1 2 0 0 - 5
+
+---
+
+date: 1909-05-10
+number: 0
+league: Atlantic
+away: Wilmington
+home: Reading
+status: postponed
+status-reason: rain
+source: Pottsville Republican, May 11, 1909
+
+---
+
+date: 1909-05-10
+number: 0
+league: Atlantic
+away: Elizabeth
+home: Pottsville
+status: postponed
+status-reason: rain
+source: Pottsville Republican, May 11, 1909
+
+---
+
+date: 1909-05-10
+number: 0
+league: Atlantic
+away: Allentown
+home: Shamokin
+status: postponed
+status-reason: rain
+source: Pottsville Republican, May 11, 1909
+
+---
