@@ -1,0 +1,114 @@
+date: 1909-06-11
+number: 0
+league: Atlantic
+away: Pottsville  
+home: Sunbury
+source: Pottsville Republican, June 12, 1909
+
+Pottsville:		ab r h po a e
+Miller, W. @ cf:	x 1 3 1 0 0	
+Eustace @ 3b:	x 0 1 4 3 2
+Sweeney @ 2b:	x 0 1 2 1 0
+Bisland @ lf:	x 2 2 3 1 0
+Evans @ rf:	x 3 1 0 0 0  
+Miller, A. @ c:	x 1 0 9 1 0
+Dondero @ ss:	x 2 2 0 1 1
+Weeden @ 1b:	x 1 0 8 0 1	
+Hartman @ p:	x 1 1 0 2 0
+TOTALS:		x 11 11 27 9 4
+
+Sunbury:	ab r h po a e
+O'Neil @ 2b:	x 1 1 2 1 1
+Wagner @ lf:	x 1 0 1 0 0
+Hoover @ rf:	x 0 1 2 0 0
+Nippel @ 1b:	x 1 1 11 0 1
+Williams @ cf:	x 1 1 1 0 0
+McDowell @ 3b:	x 1 0 1 4 1
+Berry @ c:	x 0 0 6 3 0 
+(~8.1)Johnson @ ss:	x 0 0 1 0 1
+(~9.1)Musser @ p:	x 0 0 0 0 0
+(~8.2)Clark @ ss:	x 0 0 2 1 3
+(~9.2)Yerkes @ p:	x 0 1 0 3 0
+TOTALS:		x 5 5 27 12 7
+
+line: Pottsville: 0 3 4 0 0 0 3 1 0 - 11
+line: Sunbury:    0 0 0 1 2 0 0 0 2 - 5
+
+B_2B: Williams; Bisland; W. Miller; Evans
+B_HR: W. Miller
+P_BB: Hartman #5; Musser #3; Yerkes #1
+P_SO: Hartman #5; Musser #3; Yerkes #1
+F_DP: Evans, A. Miller, Eustace; Sweeney, Weeden; Eustace, Weeden
+U: Moorehead
+
+P_GS: ~Musser
+P_GF: ~Yerkes
+P_L: ~Musser
+
+---
+
+date: 1909-06-11
+number: 0
+league: Atlantic
+away: Shamokin
+home: Mount Carmel
+source: Pottsville Republican, June 12, 1909
+
+Shamokin:	r h e
+Peterson @ p:	x x x
+Taxis @ c:	x x x
+TOTALS:		3 2 1
+
+Mount Carmel:	r h e
+Bush @ p:	x x x
+Hopkins @ c:	x x x
+TOTALS:		2 4 2
+
+line: Shamokin:     0 0 0 0 1 1 0 0 1 - 3
+line: Mount Carmel: 0 0 0 2 0 0 0 0 0 - 2
+
+---
+
+date: 1909-06-11
+number: 0
+league: Atlantic
+away: Allentown
+home: Easton
+source: Pottsville Republican, June 12, 1909
+
+Allentown:	r h e
+Bennett @ p:	x x x
+Porte @ c:	x x x
+TOTALS:		5 6 2 
+
+Easton:		r h e
+Rogers @ p:	x x x
+Purdy @ c:	x x x
+TOTALS:		4 13 2
+
+line: Allentown: 2 0 0 1 0 1 0 0 1 - 5
+line: Easton:    0 0 0 1 1 2 0 0 0 - 4
+
+---
+
+date: 1909-06-11
+number: 0
+league: Atlantic
+away: Elizabeth
+home: Reading
+source: Pottsville Republican, June 12, 1909
+
+Elizabeth:	r h e
+Hayes @ p:	x x x
+Langheld @ c:	x x x
+TOTALS:		2 10 2
+
+Reading:	r h e
+Cobean @ p: 	x x x
+Kennedy @ c:	x x x
+TOTALS:		5 8 0
+
+line: Elizabeth: 0 0 0 0 0 0 0 2 0 - 2
+line: Reading:   1 0 3 0 0 0 1 0 x - 5
+
+U: Quigley

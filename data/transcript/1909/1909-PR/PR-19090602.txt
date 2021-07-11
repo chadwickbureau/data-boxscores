@@ -1,0 +1,86 @@
+date: 1909-06-02
+number: 0
+league: Atlantic
+away: Pottsville  
+home: Mount Carmel 
+source: Pottsville Republican, June 3, 1909
+note: game forfeited to Mount Carmel when Pottsville refused to return to field after rain delay
+status: game ended early, rain/forfeit
+
+Pottsville:	ab r h po a e
+Bisland @ lf:	x 0 1 2 0 0
+Eustace @ 3b:	x 0 0 0 1 0
+Miller, W. @ cf:	x 1 1 0 0 0
+Sweeney @ 2b:	x 2 1 1 1 0 
+Evans @ rf:	x 2 1 1 0 0
+Dondero @ ss:	x 0 0 1 2 0
+(~7.1)Beadman @ c:	x 1 1 1 2 0
+Miller, E. @ 1b:	x 1 1 11 1 1
+Hartman @ p:	x 0 2 1 2 0
+(~7.2)Miller, A. @ c:	x 1 1 2 1 1
+TOTALS:		x 8 9 20 10 2
+
+Mount Carmel:	ab r h po a e
+Moore @ lf:	x 1 1 1 0 0 
+Edmunds @ ss:	x 1 0 2 3 0
+Flory @ 2b:	x 1 1 2 0 0
+Foster @ 1b:	x 1 1 6 2 1
+Cotter @ rf:	x 2 1 2 0 1
+Shea @ cf:	x 1 0 2 1 0
+Walsh @ 3b:	x 0 1 2 2 0
+Hopkins @ c:	x 1 1 4 0 1
+Busch @ p:	x 1 0 0 0 0
+TOTALS:		x 9 6 21 8 3
+
+line: Pottsville:   0 0 1 0 1 4 2 - 8
+line: Mount Carmel: 0 0 0 2 0 3 4 - 9
+
+B_ER: Pottsville #2; Mount Carmel #2
+B_2B: Hartman; E. Miller; Foster; Walsh; Flory; Cotter
+B_3B: Sweeney
+B_HR: A. Miller
+B_SB: Bisland; Evans
+B_SH: Evans; Dondero; E. Miller; Edmunds; Shea; Walsh
+B_HP: Cotter #2; Edmunds; Moore
+P_BB: Hartman #3; Busch #7
+P_SO: Hartman #3; Busch #2
+P_HP: Hartman #4
+P_WP: Hartman; Busch
+F_DP: Edmunds; Shea, Hopkins
+F_PB: Beadman #2
+U: Quigley
+
+---
+
+date: 1909-06-02
+number: 0
+league: Atlantic
+away: Reading
+home: Easton
+source: Pottsville Republican, June 3, 1909
+
+Reading:	r h e
+Cobean @ p: 	x x x
+Sponagle @ p:	x x x
+Kennedy @ c:	x x x
+TOTALS:		4 9 8 
+
+Easton:		r h e
+Rogers @ p:	x x x
+Allen @ c:	x x x
+TOTALS:		10 14 1
+
+line: Reading: 1 0 0 1 0 0 1 1 0 - 4
+line: Easton:  0 0 0 6 2 0 0 2 x - 10
+
+---
+
+date: 1909-06-02
+number: 0
+league: Atlantic
+away: Shamokin
+home: Elizabeth
+status: postponed
+status-reason: rain
+source: Pottsville Republican, June 3, 1909
+

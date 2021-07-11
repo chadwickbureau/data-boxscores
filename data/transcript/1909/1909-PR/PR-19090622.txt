@@ -1,0 +1,100 @@
+date: 1909-06-22
+number: 0
+league: Atlantic
+away: Elizabeth
+home: Pottsville 
+source: Pottsville Republican, June 23, 1909
+
+Elizabeth:	ab r h po a e
+Shields @ lf:	x 0 1 2 0 0
+Gastmeyer @ 2b:	x 0 0 3 3 0
+Wolf @ cf:	x 0 1 2 0 1
+Lambrecht @ 3b:	x 1 0 3 0 0
+Meaney @ rf:	x 0 1 1 0 0
+Mackey @ 1b:	x 0 0 12 0 1
+Pfahler @ ss:	x 0 1 0 2 1
+Johnson @ p:	x 0 0 0 6 1
+Langheld @ c:	x 1 1 1 2 0
+TOTALS:		x 2 5 24 13 4
+
+Pottsville:	ab r h po a e
+Miller, W. @ cf:	x 1 1 2 0 0 	
+Eustace @ 3b:	x 1 0 0 1 0 
+Sweeney @ 2b:	x 1 1 2 3 0
+Bisland @ rf:	x 1 2 3 0 0 
+Miller, A. @ 1b:	x 1 0 11 2 0
+Dondero @ ss:	x 1 0 7 3 3
+Glaze @ lf:	x 2 1 0 0 0 
+Weeden @ c:	x 0 0 1 1 0
+Kull @ p:	x 1 1 1 0 0
+TOTALS:		x 9 6 27 10 3
+
+line: Elizabeth:  0 0 1 0 0 0 0 0 1 - 2
+line: Pottsville: 4 0 0 2 1 2 0 0 x - 9
+
+B_LOB: Pottsville #3; Elizabeth #6
+B_ER: Pottsville #3
+B_2B: W. Miller
+B_SB: A. Miller #4; Bisland; Dondero; Gastmeyer; Eustace; Lambrecht
+B_SH: Eustace; Weeden #2; Sweeney
+P_BB: Johnson #5; Kull #3
+P_SO: Kull #4
+P_WP: Kull
+F_DP: A. Miller, Dondero
+T: 1:25
+U: Fertsch
+
+---
+
+date: 1909-06-22
+number: 0
+league: Atlantic
+away: Allentown
+home: Sunbury 
+source: Allentown Morning Call, June 23, 1909
+
+Allentown:	r h e
+Edmonds @ p:	x x x
+Port @ c:	x x x
+TOTALS:		6 8 1
+
+Sunbury:	r h e
+Nicholas @ p:	x x x
+Duprey @ c:	x x x
+TOTALS:		4 8 3
+
+line: Allentown: 0 0 0 3 0 1 0 0 0 2 - 6
+line: Sunbury:   3 0 0 0 0 0 0 0 1 0 - 4
+
+---
+
+date: 1909-06-22
+number: 0
+league: Atlantic
+away:  Mount Carmel
+home:  Shamokin
+source: Allentown Morning Call, June 23, 1909
+
+Mount Carmel:	r h e
+Busch @ p:	x x x
+Hopkins @ c:	x x x
+TOTALS:		4 4 1
+
+Shamokin:	r h e
+Barry @ p:	x x x
+Taxis @ c:	x x x
+TOTALS:		1 5 4
+
+line: Mount Carmel: 0 1 0 0 0 0 0 1 2 - 4
+line: Shamokin:     1 0 0 0 0 0 0 0 0 - 1
+
+---
+
+date: 1909-06-22
+number: 0
+league: Atlantic
+away: Easton
+home: Reading
+status: postponed
+status-reason: no game
+source: Pottsville Republican, June 23, 1909

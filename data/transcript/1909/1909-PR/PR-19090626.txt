@@ -1,0 +1,164 @@
+date: 1909-06-26
+number: 1
+league: Atlantic
+away: Pottsville 
+home: Easton 
+source: Pottsville Republican, June 28, 1909
+
+Pottsville:	ab r h po a e
+Miller, W. @ cf:	x 1 3 5 0 0	
+Eustace @ 3b:	x 1 1 1 2 0
+Sweeney @ 2b:	x 0 3 1 1 0
+Bisland @ lf:	x 2 2 3 0 0 
+Evans @ rf:	x 2 3 1 1 0
+Miller, A. @ 1b:	x 0 0 10 0 0
+Dondero @ ss:	x 0 0 2 1 0
+Weeden @ c:	x 0 1 4 0 1
+Madara @ p:	x 0 0 0 2 0
+Glaze @ p:	x 0 0 0 3 1
+TOTALS:		x 6 13 27 10 1
+
+Easton:		ab r h po a e
+Williams @ cf:	x 3 4 2 0 0
+Wilson @ 3b:	x 0 1 3 5 0
+Dietz @ ss:	x 0 1 1 4 1
+Rudolph @ lf:	x 0 2 2 2 1 
+Middleton @ rf:	x 1 0 1 0 0
+Sutton @ 1b:	x 0 2 11 0 0
+Whalen @ 2b:	x 0 1 1 1 2
+Edgar @ c:	x 1 1 5 0 1 
+Deegan @ p:	x 0 0 1 2 0
+TOTALS:		x 5 12 27 14 5
+
+line: Pottsville: 0 2 2 0 0 0 1 1 0 - 6
+line: Easton:     1 0 1 2 0 0 0 0 1 - 5
+
+
+B_ER: Easton #3; Pottsville #3
+B_2B: Evans; Dietz; Sweeney
+B_3B: Sutton; Evans; Rudolph
+B_SB: W. Miller; A. Miller; Dondero
+P_BB: Madara #1; Glaze #1
+P_SO: Deegan #2; Madara #1; Glaze #1
+F_DP: Wilson
+U: Fallon
+
+P_GS: ~Madara
+P_GF: ~Glaze
+P_W: ~Glaze
+
+---
+
+date: 1909-06-26
+number: 2
+league: Atlantic
+away: Pottsville 
+home: Easton 
+source: Pottsville Republican, June 28, 1909
+status: game ended early, by agreement
+
+Pottsville:	ab r h po a e
+Miller, W. @ cf:	x 0 0 0 0 0	
+Eustace @ 3b:	x 1 1 1 3 0
+Sweeney @ 2b:	x 0 0 0 2 0
+Bisland @ lf:	x 0 1 2 0 0 
+Evans @ rf:	x 0 0 1 0 0
+Miller, A. @ c:	x 0 0 8 0 0
+Dondero @ ss:	x 0 0 1 2 0
+Weeden @ 1b:	x 0 1 6 0 0
+Kull @ p:	x 0 0 0 3 0
+TOTALS:		x 1 3 20 9 0
+
+Easton:		ab r h po a e
+Williams @ cf:	x 0 1 1 0 0
+Wilson @ 3b:	x 0 1 0 3 0
+Dietz @ ss:	x 0 1 0 3 0
+Rudolph @ lf:	x 0 1 0 0 0 
+Middleton @ rf:	x 0 0 2 0 0
+Sutton @ 1b:	x 0 1 10 0 0
+Whalen @ 2b:	x 0 0 4 1 0
+Edgar @ c:	x 0 0 4 1 0 
+Kane @ p:	x 0 0 0 3 1
+TOTALS:		x 1 3 21 9 1
+
+line: Pottsville: 0 0 0 0 0 0 1 - 1
+line: Easton:     0 0 0 0 0 0 0 - 0
+
+B_ER: Pottsville #1
+B_SB: Williams; Dietz
+B_XO: Dietz, bunted third strike
+P_BB: Kull #2
+P_SO: Kane #2; Kull #5
+U: Fallon
+
+---
+
+date: 1909-06-26
+number: 0
+league: Atlantic
+away:  Shamokin 
+home:  Sunbury
+source: Pottsville Republican, June 28, 1909
+
+Shamokin:	r h e
+Byron @ p:	x x x
+Taxis @ c:	x x x
+TOTALS:		0 5 0
+
+Sunbury:	r h e
+Nichols @ p:	x x x
+Duprea @ c:	x x x
+TOTALS:		1 5 2
+
+line: Shamokin: 0 0 0 0 0 0 0 0 0 - 0
+line: Sunbury:  0 1 0 0 0 0 0 0 0 - 1
+
+U: Fertsch
+
+---
+
+date: 1909-06-26
+number: 0
+league: Atlantic
+away: Mount Carmel
+home: Allentown 
+source: Pottsville Republican, June 28, 1909
+
+Mount Carmel:	r h e
+Florey @ p:	x x x
+Hopkins @ c:	x x x
+TOTALS:		2 5 4
+
+Allentown:	r h e
+Strauss @ p:	x x x
+Deiper @ c:	x x x
+TOTALS:		8 11 2
+
+line: Mount Carmel: 0 2 0 0 0 0 0 0 0 - 2
+line: Allentown:    1 3 0 0 0 0 4 0 x - 8
+
+U: Campbell
+
+---
+
+date: 1909-06-26
+number: 0
+league: Atlantic
+away:  Elizabeth
+home:  Reading
+source: Pottsville Republican, June 28, 1909
+
+Elizabeth:	r h e
+Luyster @ p:	x x x
+Langheld @ c:	x x x
+TOTALS:		3 5 3
+
+Reading:	r h e
+Biehl @ p 	x x x
+Durlin @ c:	x x x
+TOTALS:		1 7 1
+
+line: Elizabeth: 2 0 0 0 0 0 0 1 0 - 3
+line: Reading:   0 0 0 0 1 0 0 0 0 - 1
+
+U: Goodhart

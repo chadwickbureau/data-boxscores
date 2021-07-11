@@ -1,0 +1,162 @@
+date: 1909-06-12
+number: 0
+league: Atlantic
+away: Pottsville  
+home: Sunbury
+source: Pottsville Republican, June 14, 1909
+
+Pottsville:	ab r h po a e
+Miller, W. @ cf:	x 0 1 2 0 0	
+Eustace @ 3b:	x 0 0 1 3 0
+Sweeney @ 2b:	x 1 1 0 3 1
+Bisland @ lf:	x 2 1 0 0 0
+Evans @ rf:	x 1 1 1 0 0 
+Miller, A. @ c:	x 1 1 7 0 1
+Dondero @ ss:	x 0 2 3 2 0
+Weeden @ 1b:	x 1 0 12 0 0	
+Kull @ p:	x 0 0 1 0 1
+TOTALS:		x 6 7 27 8 3
+
+Sunbury:	ab r h po a e
+Duprey @ lf:	x 1 1 4 0 0
+O'Neil @ 2b:	x 0 0 2 4 1
+Hoover @ rf:	x 0 0 1 0 1
+Nippel @ 1b:	x 0 0 13 1 1
+Woodward @ cf:	x 0 1 4 1 0
+McDowell @ 3b:	x 0 0 0 3 1
+Clark @ ss:	x 0 0 0 2 0
+Roberts @ c:	x 0 1 3 1 0
+Ferry @ p:	x 1 1 0 3 0
+TOTALS:		x 2 4 27 15 4
+
+line: Pottsville: 0 1 0 1 1 0 0 3 0 - 6
+line: Sunbury:    0 0 0 0 0 0 0 2 0 - 2
+
+B_2B: Ferry; Bisland; Dondero
+P_BB: Ferry #3; Kull #1
+P_SO: Ferry #1; Kull #7
+F_TP: Woodward, Roberts, O'Neil
+U: Watts
+
+---
+
+date: 1909-06-12
+number: 1
+league: Atlantic
+away: Mount Carmel
+home: Allentown
+source: Pottsville Republican, June 14, 1909
+
+Mount Carmel:	r h e
+Brennan @ p:	x x x
+Hopkins @ c:	x x x
+TOTALS:		5 6 4
+
+Allentown:	r h e
+Pelequin @ p:	x x x
+Porte @ c:	x x x
+TOTALS:		6 8 4
+
+line: Mount Carmel: 0 0 2 0 2 1 0 0 0 0 - 5
+line: Allentown:    0 0 0 0 2 3 0 0 0 1 - 6
+
+U: Beck; Baker
+
+---
+
+date: 1909-06-12
+number: 2
+league: Atlantic
+away: Mount Carmel
+home: Allentown
+source: Pottsville Republican, June 14, 1909
+status:  game ended early by agreement
+
+Mount Carmel:	r h e
+Charles @ p:	x x x
+Foster @ c:	x x x
+TOTALS:		2 6 1
+
+Allentown:	r h e
+Doescher @ p:	x x x
+Porte @ c:	x x x
+TOTALS:		3 4 3
+
+line: Mount Carmel: 0 0 0 2 0 0 0 - 2
+line: Allentown:    0 1 0 2 0 0 x - 3
+
+U: Beck; Baker
+
+---
+
+date: 1909-06-12
+number: 0
+league: Atlantic
+away: Shamokin
+home: Easton
+source: Pottsville Republican, June 14, 1909
+
+Shamokin:	r h e
+Duvie @ p:	x x x
+Taxis @ c:	x x x
+TOTALS:		9 14 3
+
+Easton:		r h e
+Fertsch @ p:	x x x
+Ross @ c:	x x x
+TOTALS:		5 7 5
+
+line: Shamokin: 0 3 0 0 4 0 1 0 1 - 9
+line: Easton:   0 2 3 0 0 0 0 0 0 - 5
+
+U: Gallagher
+
+---
+
+date: 1909-06-12
+number: 1
+league: Atlantic
+away: Elizabeth
+home: Reading
+source: Pottsville Republican, June 14, 1909
+
+Elizabeth:	r h e
+McIntyre @ p:	x x x
+Randall @ c:	x x x
+TOTALS:		2 10 5
+
+Reading:	r h e
+Brennan @ p: 	x x x
+Darlin @ c:	x x x
+TOTALS:		7 7 2
+
+line: Elizabeth: 0 0 0 0 0 0 0 2 0 - 2
+line: Reading:   1 0 3 0 1 1 1 0 x - 7
+
+U: Quigley
+
+---
+
+date: 1909-06-12
+number: 2
+league: Atlantic
+away: Elizabeth
+home: Reading
+source: Pottsville Republican, June 14, 1909
+status: ended early, by agreement
+
+Elizabeth:	r h e
+Luyster @ p:	x x x
+Randall @ c:	x x x
+TOTALS:		0 4 1
+
+Reading:	r h e
+Craig @ p: 	x x x
+Darlin @ c:	x x x
+TOTALS:		7 6 1
+
+line: Elizabeth: 0 0 0 0 0 0 0 - 0
+line: Reading:   1 2 3 0 1 0 x - 7
+
+U: Quigley
+

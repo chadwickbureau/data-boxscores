@@ -1,0 +1,160 @@
+date: 1909-06-23
+number: 1
+league: Atlantic
+away: Elizabeth
+home: Pottsville 
+source: Pottsville Republican, June 24, 1909
+
+Elizabeth:	ab r h po a e
+Shields @ lf:	x 1 3 1 0 0
+Gastmeyer @ 2b:	x 0 1 3 3 0
+Wolf @ cf:	x 0 0 2 0 0
+Lambrecht @ 3b:	x 0 0 1 3 0
+Meaney @ rf:	x 1 0 0 0 0
+Mackey @ 1b:	x 1 1 15 0 0
+Phaler @ ss:	x 1 1 3 4 1
+Langheld @ c:	x 0 0 6 0 0
+Hayes @ p:	x 0 1 0 7 0
+TOTALS:		x 4 7 31 17 1
+
+Pottsville:	ab r h po a e
+Miller, W. @ cf:	x 1 3 4 0 0	
+Eustace @ 3b:	x 0 0 2 3 0 
+Sweeney @ 2b:	x 0 1 3 0 1
+Bisland @ rf:	x 1 1 3 1 0 
+Miller, A. @ 1b:	x 2 2 12 0 2
+Dondero @ ss:	x 1 2 0 3 0
+Hartman @ lf:	x 0 3 1 0 0 
+Weeden @ c:	x 0 0 7 3 0
+Glaze @ p:	x 0 0 1 3 0
+TOTALS:		x 5 13 33 13 3
+
+line: Elizabeth:  1 0 0 0 0 0 0 0 0 3 0 - 4
+line: Pottsville: 0 0 0 1 0 0 0 0 0 3 1 - 5
+
+B_ER: Pottsville #3
+B_2B: Hartman; W. Miller
+B_3B: A. Miller
+B_SB: Shields; Hartman; A. Miller; Weeden
+B_SH: Sweeney; Eustace #2; Hartman #2; Weeden; Mackey; Phaler; Langheld; Lambrecht
+P_BB: Hayes #5; Glaze #2
+P_SO: Hayes #4; Glaze #6
+P_WP: Hayes
+F_DP: Lambrecht, Gastmeyer
+F_PB: Weeden
+T: 2:35
+U: Fertsch
+
+---
+
+date: 1909-06-23
+number: 2
+league: Atlantic
+away: Elizabeth
+home: Pottsville 
+source: Pottsville Republican, June 24, 1909
+status: game ended early, by agreement
+
+Elizabeth:	ab r h po a e
+Shields @ lf:	x 1 0 2 0 0
+Gastmeyer @ 2b:	x 0 1 1 1 0
+Luyster @ cf:	x 0 1 1 0 0
+Lambrecht @ 3b:	x 0 0 0 1 1 
+Meaney @ rf:	x 0 1 1 0 0
+Mackey @ 1b:	x 0 0 6 0 1
+Phaler @ ss:	x 0 1 2 1 3
+Langheld @ c:	x 0 0 5 1 0
+Wolf @ p:	x 1 0 0 5 0
+TOTALS:		x 2 4 18 9 5
+
+Pottsville:	ab r h po a e
+Miller, W. @ cf:	x 0 0 3 0 0	
+Eustace @ 3b:	x 3 1 1 3 1
+Sweeney @ 2b:	x 0 1 2 5 1
+Bisland @ rf:	x 0 0 1 0 0 
+Miller, A. @ 1b:	x 0 0 3 1 0
+Dondero @ ss:	x 0 0 0 1 0
+Hartman @ lf:	x 0 2 0 0 0 
+Weeden @ c:	x 0 1 11 1 0
+Madara @ p:	x 0 0 0 2 1
+TOTALS:		x 3 5 21 13 3
+
+line: Elizabeth:  0 0 1 0 1 0 0 - 2
+line: Pottsville: 1 0 1 0 1 0 x - 3
+
+B_LOB: Pottsville #6; Elizabeth #6
+B_ER: Elizabeth
+B_2B: Hartman; Meaney
+B_SB: Luyster #2; Bisland #2; Dondero; Hartman; Gastmeyer; Shields
+B_SH: Bisland #2; Mackey #2; Gastmeyer
+P_BB: Wolf #1; Madara #3
+P_SO: Wolf #3; Madara #2
+T: 1:15
+U: Fertsch
+
+---
+
+date: 1909-06-23
+number: 0
+league: Atlantic
+away: Allentown
+home: Easton 
+source: Pottsville Republican, June 24, 1909
+
+Allentown:	r h e
+Strauss @ p:	x x x
+Porte @ c:	x x x
+TOTALS:		6 11 1
+
+Easton:		r h e
+Kane @ p:	x x x
+Edgar @ c:	x x x
+TOTALS:		1 4 3
+
+line: Allentown: 2 1 2 0 0 0 0 0 1 - 6
+line: Easton:    0 0 0 0 0 0 1 0 0 - 1
+
+---
+
+date: 1909-06-23
+number: 0
+league: Atlantic
+away:  Sunbury
+home:  Shamokin
+source: Pottsville Republican, June 24, 1909
+
+Sunbury:	r h e
+Yerkes @ p:	x x x
+Ferry @ p:	x x x
+Duprey @ c:	x x x
+TOTALS:		3 7 2
+
+Shamokin:	r h e
+Welt @ p:	x x x
+Francisco @ c:	x x x
+TOTALS:		5 9 0
+
+line: Sunbury:  0 2 1 0 0 0 0 0 0 - 3
+line: Shamokin: 0 0 1 0 3 0 1 0 x - 5
+
+---
+
+date: 1909-06-23
+number: 0
+league: Atlantic
+away: Reading
+home: Mount Carmel 
+source: Pottsville Republican, June 24, 1909
+
+Reading:	r h e
+Craig @ p: 	x x x
+Durlin @ c:	x x x
+TOTALS:		4 6 3
+
+Mount Carmel:	r h e
+Charles @ p:	x x x
+Hopkins @ c:	x x x
+TOTALS:		5 8 6
+
+line: Reading:      1 0 1 1 1 0 0 0 0 - 4
+line: Mount Carmel: 0 2 0 1 0 1 0 0 1 - 5

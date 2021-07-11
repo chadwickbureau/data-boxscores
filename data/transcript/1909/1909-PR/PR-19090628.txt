@@ -1,0 +1,101 @@
+date: 1909-06-28
+number: 0
+league: Atlantic
+away: Pottsville 
+home: Mount Carmel
+source: Pottsville Republican, June 29, 1909
+
+Pottsville:	ab r h po a e
+Miller, W. @ cf:	x 0 2 0 0 0	
+Eustace @ 3b:	x 0 0 1 3 0
+Sweeney @ 2b:	x 0 0 2 3 0
+Bisland @ lf:	x 0 0 0 0 0
+Evans @ rf:	x 0 0 1 0 0
+Miller, A. @ 1b:	x 0 0 16 0 2
+Dondero @ ss:	x 0 0 3 6 1
+Weeden @ c:	x 0 1 1 2 0
+Hartman @ p:	x 0 0 0 4 1
+TOTALS:		x 0 3 24 18 4
+
+Mount Carmel:	ab r h po a e
+Moore @ lf:	x 1 0 1 0 0
+Edmunds @ ss:	x 1 1 3 3 1
+Cotter @ rf:	x 0 1 1 0 0
+Flory @ 2b:	x 0 1 3 3 0
+Walsh @ 3b:	x 0 0 1 3 0
+Shea @ cf:	x 1 0 3 0 0  
+Connelly @ 1b:	x 0 0 11 0 1
+Hopkins @ c:	x 1 1 4 2 0
+Bush @ p:	x 1 1 0 0 0
+TOTALS:		x 5 5 27 11 2
+
+line: Pottsville:   0 0 0 0 0 0 0 0 0 - 0
+line: Mount Carmel: 0 0 4 0 0 1 0 0 x - 5
+
+B_LOB: Mount Carmel #6; Pottsville #6
+B_ER: Mount Carmel #1
+B_SB: Flory
+B_SH: Moore; Walsh; Shea; Connelly; Eustace
+B_HP: Hopkins
+P_BB: Bush #1; Hartman #3
+P_SO: Bush #3; Hartman #1
+P_HP: Hartman
+F_DP: Dondero, Sweeney, A. Miller
+F_PB: Weeden
+T: 2:00
+U: Fertsch
+
+---
+
+date: 1909-06-28
+number: 0
+league: Atlantic
+away: Reading
+home: Shamokin 
+source: Pottsville Republican, June 29, 1909
+
+Reading:	r h e
+Cobean @ p 	x x x
+Durlin @ c:	x x x
+TOTALS:		3 9 2
+
+Shamokin:	r h e
+Duvie @ p:	x x x
+Taxis @ c:	x x x
+TOTALS:		5 9 0
+
+line: Reading:  1 0 0 2 0 0 0 0 0 - 3
+line: Shamokin: 0 0 0 0 1 4 0 0 x - 5
+
+---
+
+date: 1909-06-28
+number: 0
+league: Atlantic
+away: Easton
+home: Sunbury
+source: Pottsville Republican, June 29, 1909
+
+Easton:		r h e
+Kane @ p:	x x x
+Edgar @ c:	x x x
+TOTALS:		3 6 3
+
+Sunbury:	r h e
+Bennett @ p:	x x x
+Wilson @ c:	x x x
+TOTALS:		4 7 4
+
+line: Easton:  1 0 0 0 1 0 0 0 1 - 3
+line: Sunbury: 0 0 1 0 2 0 0 1 x - 4
+
+---
+
+date: 1909-06-28
+number: 0
+league: Atlantic
+away: Allentown
+home: Elizabeth
+status: postponed
+status-reason: rain
+source: Pottsville Republican, June 29, 1909

@@ -1,0 +1,163 @@
+date: 1909-05-31
+number: 1
+league: Atlantic
+away: Reading 
+home: Pottsville  
+source: Philadelphia Inquirer, June 1, 1909
+
+Reading:	ab r h po a e
+Harley @ rf:	x 0 0 1 0 0
+O'Halloran @ 2b:	x 0 1 3 4 1
+Bertwistle @ lf:	x 0 0 1 0 0 
+Pickel @ 3b:	x 1 0 1 0 1
+Kane @ cf:	x 0 1 3 0 0
+Johnson @ ss:	x 0 1 0 2 0
+Dockerty @ 1b:	x 0 0 8 1 1
+Hartman, F. @ c:	x 0 1 7 0 0
+Ward @ p:	x 0 0 0 0 0
+Cobean @ p:	x 0 0 0 3 0
+TOTALS:		x 1 4 24 10 3
+
+Pottsville:		ab r h po a e
+Bisland @ lf:	x 1 0 2 0 0
+(~2.1)Eustace @ 3b:	x 0 0 0 1 0
+Miller, W. @ cf:	x 1 2 3 0 0
+Sweeney @ 2b:	x 1 1 3 1 1
+Evans @ rf:	x 0 0 3 0 0
+Miller, A. @ c:	x 2 2 5 0 0
+Dondero @ ss:	x 1 0 3 2 0 
+Miller, E. @ 1b:	x 0 0 7 0 0	
+Hartman @ p:	x 0 1 0 1 0
+(~2.2)Reilly @ 3b:	0 0 1 1 0	
+TOTALS:		x 6 6 27 6 1
+
+line: Reading:    0 0 0 1 0 0 0 0 0 - 1
+line: Pottsville: 0 2 3 1 0 0 0 0 0 - 6
+
+B_LOB: Pottsville #6; Reading #7
+B_ER: Pottsville #2
+B_2B: W. Miller #2; A. Miller
+B_SB: O'Halloran; A. Miller #2; Dondero #2; Sweeney; Johnson; Bisland #2
+B_SH: Evans
+B_HP: Pickel
+P_HP: Hartman
+P_WP: Cobean; Hartman
+T: 1:35
+U: Gallagher
+
+---
+
+date: 1909-05-31
+number: 2
+league: Atlantic
+away: Pottsville 
+home: Reading 
+source: Pottsville Republican, June 1, 1909
+
+Pottsville:		ab r h po a e
+Bisland @ lf:	x 0 1 2 0 0
+Eustace @ 3b:	x 1 1 0 0 0
+Miller, W. @ cf:	x 1 1 3 1 0
+Sweeney @ 2b:	x 0 1 4 0 0
+Evans @ rf:	x 0 0 1 0 0
+Miller, A. @ c:	x 0 1 4 0 0 
+Dondero @ ss:	x 0 1 2 7 1
+Miller, E. @ 1b:	x 0 1 8 1 0	
+Brennan @ p:	x 0 0 0 1 1
+TOTALS:		x 2 7 24 10 2
+
+Reading:	ab r h po a e
+Harley @ rf:	x 1 1 0 0 0
+O'Halleran @ 2b:	x 1 0 2 4 0
+Bertwistle @ lf:	x 1 1 4 0 0 
+Pickel @ 3b:	x 0 1 1 1 1
+Kane @ cf:	x 0 0 5 0 0
+Johnson @ ss:	x 0 0 2 5 1
+Kennedy @ 1b:	x 0 1 10 0 0
+Hartman, F. @ c:	x 0 1 3 2 1
+Craig @ p:	x 0 1 0 1 1
+TOTALS:		x 3 6 27 13 4
+
+line: Pottsville: 0 0 0 0 0 2 0 0 0 - 2
+line: Reading:    0 0 0 0 0 2 0 0 0 - 3
+
+B_LOB: Pottsville #5; Reading #6
+B_2B: Craig
+B_SB: Sweeney; Craig
+P_BB: Brennan #3
+P_SO: Craig #1; Brennan #3
+F_DP: Dondero, E. Miller; Johnson, O'Halleran, Kennedy
+T: 1:40
+U: Gallagher
+
+---
+
+date: 1909-05-31
+number: 1
+league: Atlantic
+away: Wilmington
+home: Elizabeth
+source: Pottsville Republican, June 1, 1909
+
+line: Wilmington: x x x x x x x x x - 2
+line: Elizabeth:  x x x x x x x x x - 6
+
+---
+
+date: 1909-05-31
+number: 2
+league: Atlantic
+away: Elizabeth
+home: Wilmington 
+source: Pottsville Republican, June 1, 1909
+
+line: Elizabeth:  x x x x x x x x x - 4
+line: Wilmington: x x x x x x x x x - 6
+
+---
+
+date: 1909-05-31
+number: 1
+league: Atlantic
+away: Shamokin
+home: Mount Carmel
+source: Pottsville Republican, June 1, 1909
+
+line: Shamokin:     x x x x x x x x x - 5
+line: Mount Carmel: x x x x x x x x x - 16
+
+---
+
+date: 1909-05-31
+number: 2
+league: Atlantic
+away: Mount Carmel
+home: Shamokin 
+source: Pottsville Republican, June 1, 1909
+
+line: Mount Carmel: x x x x x x x x x - 7
+line: Shamokin:     x x x x x x x x x - 3
+
+---
+
+date: 1909-05-31
+number: 1
+league: Atlantic
+away: Allentown
+home: Easton
+source: Pottsville Republican, June 1, 1909
+
+line: Allentown: x x x x x x x x x - 5
+line: Easton:    x x x x x x x x x - 6
+
+---
+
+date: 1909-05-31
+number: 2
+league: Atlantic
+away: Easton
+home: Allentown 
+source: Pottsville Republican, June 1, 1909
+
+line: Easton:    x x x x x x x x x - 5
+line: Allentown: x x x x x x x x x - 7

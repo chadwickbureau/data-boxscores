@@ -1,0 +1,116 @@
+date: 1909-06-18
+number: 0
+league: Atlantic
+away: Pottsville 
+home: Allentown
+source: Pottsville Republican, June 19, 1909
+
+Pottsville:	ab r h po a e
+Miller, W. @ cf:	x 0 0 1 0 0	
+Eustace @ 3b:	x 0 1 2 3 1
+Sweeney @ 2b:	x 0 1 2 1 0
+Bisland @ lf:	x 1 1 1 0 0
+Evans @ rf:	x 0 0 2 0 0
+Miller, A. @ 1b:	x 0 0 6 1 1 
+Dondero @ ss:	x 1 1 2 1 0
+Weeden @ c:	x 1 1 7 4 0	
+Hartman @ p:	x 0 1 0 1 0
+TOTALS:		x 3 6 23 11 2
+
+Allentown:	ab r h po a e
+Walsh @ 3b:	x 1 2 0 1 0
+Jacobs @ ss:	x 0 1 3 5 1
+McGeehan @ 2b:	x 0 0 3 6 0
+Brown @ cf:	x 0 0 3 0 0
+Smith @ 1b:	x 1 0 11 1 1
+Bonner @ rf:	x 1 0 0 0 0 
+Brady @ lf:	x 2 2 1 0 0
+Porte @ c:	x 2 0 6 0 0
+Bennett @ p:	x 0 0 0 0 0
+Pilequin @ p:	x 1 1 0 0 0
+TOTALS:		x 8 6 27 13 2
+
+line: Pottsville: 0 0 1 1 0 0 1 0 0 - 3
+line: Allentown:  0 0 0 0 3 0 4 1 x - 8
+
+B_ER: Pottsville #1; Allentown #1
+B_2B: Sweeney; Hartman; Walsh; Brady
+B_SB: A. Miller
+B_XO: Walsh, bunted third strike
+P_BB: Bennett #2; Hartman #6; Pilequin #1
+P_SO: Bennett #1; Hartman #5; Pilequin #3
+F_DP: Jacobs, McGeehan, Smith
+U: Baker
+
+P_GS: ~Bennett
+P_GF: ~Pilequin
+P_W: ~Pilequin
+P_R: ~Bennett #2; ~Pilequin #1
+
+---
+
+date: 1909-06-18
+number: 0
+league: Atlantic
+away: Reading
+home: Easton 
+source: Pottsville Republican, June 19, 1909
+
+Reading:	r h e
+Brennan @ p: 	x x x
+Durlin @ c:	x x x
+TOTALS:		3 4 3
+
+Easton:		r h e
+Biehl @ p:	x x x
+Purdy @ c:	x x x
+TOTALS:		4 5 4
+
+line: Reading: 0 0 2 0 0 0 0 1 0 0 - 3
+line: Easton:  0 0 0 0 0 0 0 1 2 1 - 4
+
+---
+
+date: 1909-06-18
+number: 0
+league: Atlantic
+away: Mount Carmel
+home: Sunbury
+source: Pottsville Republican, June 19, 1909
+
+Mount Carmel:	r h e
+Brennan @ p:	x x x
+Hopkins @ c:	x x x
+TOTALS:		4 8 0
+
+Sunbury:	r h e
+Musser @ p:	x x x
+Duprey @ c:	x x x
+TOTALS:		3 7 3
+
+line: Mount Carmel: 0 0 0 0 0 0 1 3 0 - 4
+line: Sunbury:      0 0 1 0 0 0 0 2 0 - 3
+
+---
+
+date: 1909-06-18
+number: 0
+league: Atlantic
+away: Shamokin
+home: Elizabeth
+source: Pottsville Republican, June 19, 1909
+
+Shamokin:	r h e
+Duvie @ p:	x x x
+Barrie @ p:	x x x
+Francisco @ c:	x x x
+TOTALS:		6 6 2
+
+Elizabeth:	r h e
+Irving @ p:	x x x
+Luyster @ p:	x x x
+Langheld @ c:	x x x
+TOTALS:		11 12 8
+
+line: Shamokin:  0 0 0 0 0 0 5 0 1 - 6
+line: Elizabeth: 2 5 0 2 0 2 0 0 x - 11

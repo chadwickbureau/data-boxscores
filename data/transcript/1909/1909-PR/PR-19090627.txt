@@ -1,0 +1,114 @@
+date: 1909-06-27
+number: 0
+league: Atlantic
+away: Reading
+home: Pottsville  
+source: Pottsville Republican, June 28, 1909
+
+Reading:	ab r h po a e
+O'Hollaran @ 2b:	x 0 2 3 2 1
+Kane @ cf:	x 0 1 2 0 0
+Bertwistle @ lf:	x 0 0 1 1 0
+Pickel @ 3b:	x 0 0 1 4 0
+Bowers @ 1b:	x 1 1 9 1 0
+Kleet @ rf:	x 0 3 1 0 1
+Durlin @ c:	x 1 2 8 0 0	
+Johnson @ ss:	x 0 1 2 2 0
+Craig @ p:	x 0 1 0 2 0
+TOTALS:		x 2 11 27 12 2
+
+Pottsville:	ab r h po a e
+Miller, W. @ cf:	x 0 2 3 0 0	
+Eustace @ 3b:	x 0 0 0 1 0
+Sweeney @ 2b:	x 0 1 4 2 0
+Bisland @ lf:	x 0 1 1 0 0 
+Evans @ rf:	x 0 1 0 2 0
+Miller, A. @ 1b:	x 0 0 10 1 0
+Dondero @ ss:	x 0 2 2 1 0
+Weeden @ c:	x 1 1 7 2 0
+Baldwin @ p:	x 0 2 0 2 0
+TOTALS:		x 1 10 27 11 0
+
+line: Reading:    0 2 0 0 0 0 0 0 0 - 2
+line: Pottsville: 0 0 0 0 1 0 0 0 0 - 1
+
+B_LOB: Pottsville #12; Reading #5
+B_ER: Reading #1
+B_2B: Kane
+B_3B: Craig; Kleet
+B_SB: Bisland
+B_SH: Kane; W. Miller #2; Eustace; A. Miller
+P_BB: Baldwin #1; Craig #2
+P_SO: Baldwin #4; Craig #6
+F_PB: Durlin #2
+T: 2:10
+U: Campbell
+
+---
+
+date: 1909-06-27
+number: 0
+league: Atlantic
+away: Allentown
+home: Elizabeth
+source: Pottsville Republican, June 28, 1909
+
+Allentown:	r h e
+Edmonds @ p:	x x x
+Diefer @ c:	x x x
+TOTALS:		3 7 1 
+
+Elizabeth:	r h e
+Wolf @ p:	x x x
+Langheld @ c:	x x x
+TOTALS:		2 6 8
+
+line: Allentown: 1 0 0 0 0 0 1 1 0 - 3
+line: Elizabeth: 0 0 2 0 0 0 0 0 0 - 2
+
+
+---
+
+date: 1909-06-27
+number: 0
+league: Atlantic
+away:   Sunbury
+home:  Shamokin 
+source: Pottsville Republican, June 28, 1909
+
+Sunbury:	r h e
+Ferry @ p:	x x x
+Wilson @ c:	x x x
+TOTALS:		0 1 4
+
+Shamokin:	r h e
+Emerson @ p:	x x x
+Francisco @ c:	x x x
+TOTALS:		6 8 3
+
+line: Sunbury:  0 0 0 0 0 0 0 0 0 - 0
+line: Shamokin: 0 0 1 3 0 0 0 2 x - 6
+
+---
+
+date: 1909-06-27
+number: 0
+league: Atlantic
+away: Easton
+home: Mount Carmel 
+source: Pottsville Republican, June 28, 1909
+note: Henderson listed as Mount Carmel pitcher, moved to Easton
+
+Easton:		r h e
+Mieran @ p:	x x x
+Henderson @ p:	x x x 
+Edgar @ c:	x x x
+TOTALS:		4 10 3
+
+Mount Carmel:	r h e
+Brennan @ p:	x x x
+Hopkins @ c:	x x x
+TOTALS:		5 9 1
+
+line: Easton:       0 0 1 0 0 0 2 0 1 - 4
+line: Mount Carmel: 0 0 0 0 2 1 0 1 1 - 5

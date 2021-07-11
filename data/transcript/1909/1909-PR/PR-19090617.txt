@@ -1,0 +1,64 @@
+date: 1909-06-17
+number: 0
+league: Atlantic
+away: Shamokin
+home: Elizabeth
+source: Pottsville Republican, June 18, 1909
+
+Shamokin:	r h e
+Francisco @ p:	x x x
+Peterson @ c:	x x x
+TOTALS:		1 5 1
+
+Elizabeth:	r h e
+Hoyes @ p:	x x x
+Langheld @ c:	x x x
+TOTALS:		2 6 4
+
+line: Shamokin:  0 0 0 0 0 0 1 0 0 - 1
+line: Elizabeth: 0 0 0 0 0 0 1 1 x - 2
+
+---
+
+date: 1909-06-17
+number: 0
+league: Atlantic
+away: Mount Carmel
+home: Sunbury
+source: Pottsville Republican, June 18, 1909
+status: ended early, rain
+
+Mount Carmel:	r h e
+Bush @ p:	x x x
+Hopkins @ c:	x x x
+TOTALS:		0 1 2
+
+Sunbury:	r h e
+Ferry @ p:	x x x
+Berry @ c:	x x x
+TOTALS:		0 3 1
+
+line: Mount Carmel: 0 0 0 0 0 - 0
+line: Sunbury:      0 0 0 0 0 - 0
+
+---
+
+date: 1909-06-17
+number: 0
+league: Atlantic
+away: Reading
+home: Easton
+status: postponed
+status-reason: rain
+source: Pottsville Republican, June 18, 1909
+
+---
+
+date: 1909-06-17
+number: 0
+league: Atlantic
+away: Pottsville
+home: Allentown
+status: postponed
+status-reason: rain
+source: Pottsville Republican, June 18, 1909

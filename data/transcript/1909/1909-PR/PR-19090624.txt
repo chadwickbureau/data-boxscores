@@ -1,0 +1,114 @@
+date: 1909-06-24
+number: 0
+league: Atlantic
+away: Sunbury
+home: Pottsville 
+source: Pottsville Republican, June 25, 1909
+
+Sunbury:	ab r h po a e
+Dustin  @ ss:	x 0 0 2 3 0
+Woodward @ lf:	x 1 2 0 0 0
+McDowell @ 3b:	x 0 1 2 0 0
+Nippel @ 1b:	x 0 1 6 1 0
+Fitzmaurice @ cf:	x 0 3 2 0 0	
+Sunday @ 2b:	x 0 1 2 2 0	
+Nichols @ rf:	x 0 0 0 0 0	
+Duprea @ c:	x 0 0 10 3 1
+Musser @ p:	x 0 0 0 0 0
+TOTALS:		x 1 8 24 9 1
+
+Pottsville:	ab r h po a e
+Miller, W. @ cf:	x 0 1 3 0 0	
+Eustace @ 3b:	x 0 0 3 2 0
+Sweeney @ 2b:	x 1 2 1 3 0
+Bisland @ rf:	x 0 1 0 0 0 
+Miller, A. @ c:	x 1 0 3 1 0
+Dondero @ ss:	x 0 1 4 6 0
+Hartman @ p:	x 0 0 0 4 0
+Weeden @ 1b:	x 0 0 14 0 0
+Glaze @ lf:	x 0 0 0 0 0
+TOTALS:		x 2 5 27 16 0
+
+line: Sunbury:    0 0 0 1 0 0 0 0 0 - 1
+line: Pottsville: 1 1 0 0 0 0 0 0 x - 2
+
+B_LOB: Pottsville #6; Sunbury #6
+B_ER: Pottsville #1; Sunbury #1
+B_2B: Dondero; Woodward
+B_SB: Eustace; Sweeney; A. Miller; W. Miller
+B_SH: McDowell; A. Miller
+B_HP: Eustace
+P_BB: Musser #2; Hartman #1
+P_SO: Musser #9; Hartman #1
+P_HP: Musser
+F_DP: Dondero, Sweeney, Weeden
+T: 1:40
+U: Fertsch
+
+---
+
+date: 1909-06-24
+number: 0
+league: Atlantic
+away:  Elizabeth
+home:  Shamokin
+source: Pottsville Republican, June 25, 1909
+
+Elizabeth:	r h e
+Luyster @ p:	x x x
+Langheld @ c:	x x x
+TOTALS:		2 7 3
+
+Shamokin:	r h e
+Duvie @ p:	x x x
+Taxis @ c:	x x x
+TOTALS:		6 11 3
+
+line: Elizabeth: 0 0 0 1 0 0 1 0 0 - 2
+line: Shamokin:  0 1 0 0 1 1 0 3 x - 6
+
+---
+
+date: 1909-06-24
+number: 0
+league: Atlantic
+away: Easton 
+home: Allentown 
+source: Pottsville Republican, June 25, 1909
+
+Easton:		r h e
+Rogers @ p:	x x x
+Edgar @ c:	x x x
+TOTALS:		2 8 2
+
+Allentown:	r h e
+Sweeney @ p:	x x x
+Deifer @ c:	x x x
+TOTALS:		1 6 1
+
+line: Easton:    0 0 1 0 0 1 0 0 0 - 2
+line: Allentown: 0 0 0 0 0 0 0 1 0 - 1
+
+---
+
+date: 1909-06-24
+number: 0
+league: Atlantic
+away: Reading
+home: Mount Carmel 
+source: Pottsville Republican, June 25, 1909
+
+Reading:	r h e
+Cobean @ p 	x x x
+Craig @ p: 	x x x
+Kennedy @ c:	x x x
+TOTALS:		10 9 3
+
+Mount Carmel:	r h e
+Brennan @ p:	x x x
+Bush @ p:	x x x
+Hopkins @ c:	x x x
+TOTALS:		6 8 4
+
+line: Reading:      8 0 0 0 0 0 1 1 0 - 10
+line: Mount Carmel: 0 2 0 0 3 0 0 0 1 - 6

@@ -1,0 +1,94 @@
+date: 1909-06-03
+number: 0
+league: Atlantic
+away: Pottsville  
+home: Mount Carmel 
+source: Pottsville Republican, June 4, 1909
+
+Pottsville:		ab r h po a e
+Bisland @ lf:	x 0 1 3 1 0 
+Eustace @ 3b:	x 0 2 0 2 0
+Miller, W. @ cf:	x 0 0 1 0 0
+Sweeney @ 2b:	x 0 0 1 1 0 
+Evans @ rf:	x 1 2 1 0 0
+Miller, A. @ c:	x 1 1 3 1 1
+Dondero @ ss:	x 1 2 2 4 0
+Miller, E. @ 1b:	x 1 1 12 0 0
+Brennan, P. @ p:	x 1 1 0 3 0
+TOTALS:		x 5 10 23 12 1
+
+Mount Carmel:	ab r h po a e
+Moore @ lf:	x 2 2 0 1 0 
+Edmunds @ ss:	x 0 2 0 3 1
+Flory @ 2b:	x 1 1 0 4 0
+Foster @ 1b:	x 1 2 14 0 1
+Cotter @ rf:	x 1 2 0 0 0
+Shea @ cf:	x 0 0 6 0 0 
+Walsh @ 3b:	x 0 1 1 1 0
+Hopkins @ c:	x 0 0 4 1 0
+Brennan, W. @ p:	x 1 0 1 5 0
+TOTALS:		x 6 10 26 15 2
+
+line: Pottsville:   0 1 0 0 3 1 0 0 0 - 5
+line: Mount Carmel: 2 0 1 1 0 0 1 1 x - 6
+
+B_LOB: Pottsville #5; Mount Carmel #2 
+B_ER: Pottsville #3; Mount Carmel #3
+B_2B: Cotter #2; Edmunds; Foster
+B_3B: A. Miller
+B_SB: Edmunds
+B_SH: Edmunds; Flory; Shea; W. Miller #2; Sweeney #2; Cotter
+B_HP: E. Miller
+B_XO: Cotter, cutting second; A. Miller, hit by batted ball
+P_BB: W. Brennan #2; P. Brennan #2
+P_SO: W. Brennan #3; P. Brennan #2
+P_HP: W. Brennan
+F_PB: Hopkins
+T: 2:00
+U: Quigley
+
+---
+
+date: 1909-06-03
+number: 0
+league: Atlantic
+away: Allentown
+home: Reading
+source: Pottsville Republican, June 4, 1909
+
+Allentown:	r h e
+Sweeney @ p:	x x x
+Porte @ c:	x x x
+TOTALS:		2 10 2
+
+Reading:	r h e
+Coakley @ p: 	x x x
+Hartman @ c:	x x x
+TOTALS:		5 8 0
+
+line: Allentown: 0 0 0 0 0 0 0 2 0 - 2
+line: Reading:   1 0 3 0 0 0 1 0 x - 5
+
+U: Gallagher
+
+---
+
+date: 1909-06-03
+number: 0
+league: Atlantic
+away: Shamokin
+home: Elizabeth
+source: Pottsville Republican, June 4, 1909
+
+Shamokin:	r h e
+Wolf @ p:	x x x
+Francisco @ c:	x x x
+TOTALS:		1 8 1
+
+Elizabeth:	r h e
+Hayes @ p:	x x x
+Langheld @ c:	x x x
+TOTALS:		0 5 1
+
+line: Shamokin:  1 0 0 0 0 0 0 0 0 - 1
+line: Elizabeth: 0 0 0 0 0 0 0 0 0 - 0

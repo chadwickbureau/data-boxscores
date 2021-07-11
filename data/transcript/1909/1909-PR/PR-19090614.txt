@@ -1,0 +1,101 @@
+date: 1909-06-14
+number: 0
+league: Atlantic
+away: Mount Carmel
+home: Pottsville
+source: Pottsville Republican, June 15, 1909
+
+Mount Carmel:	ab r h po a e
+Moore @ lf-1b:	x 0 2 7 0 0
+Edmunds @ ss:	x 0 1 2 1 0
+Flory @ 2b:	x 0 0 2 6 0
+(~4.1)Foster @ 1b:	x 0 0 3 1 0
+Cotter @ rf-lf:	x 1 2 2 0 1
+Shea @ cf:	x 0 1 1 0 0 
+Brennan @ 3b:	x 0 0 1 2 1
+Hopkins @ c:	x 0 0 5 1 1
+Charles @ p:	x 0 0 1 0 0
+(~4.2)Walsh @ rf:	x 0 0 0 0 0	
+TOTALS:		x 1 6 24 11 3
+
+Pottsville:	ab r h po a e
+Miller, W. @ cf:	x 1 2 3 0 0 	
+Eustace @ 3b:	x 1 1 0 0 0
+Sweeney @ 2b:	x 1 2 1 6 0
+Bisland @ lf:	x 0 1 0 0 0 
+Evans @ rf:	x 0 1 1 0 0
+Miller, A. @ c:	x 0 0 6 0 0
+Dondero @ ss:	x 1 0 2 5 0
+Weeden @ 1b:	x 0 0 12 2 0	
+Glaze @ p:	x 0 0 2 1 0
+TOTALS:		x 4 7 27 14 0
+
+line: Mount Carmel: 0 1 0 0 0 0 0 0 0 - 1
+line: Pottsville:   0 0 4 0 0 0 0 0 x - 4
+
+B_LOB: Pottsville #3; Mount Carmel #7 
+B_ER: Pottsville #3; Mount Carmel #1
+B_2B: Cotter; Shea; Moore #2
+B_SB: W. Miller; Sweeney; A. Miller
+B_SH: Weeden
+P_BB: Glaze #3; Charles #3 
+P_WP: Glaze
+F_DP: Moore, Flory; Dondero; Edmunds, Flory, Moore
+T: 2:00
+U: Watts
+
+---
+
+date: 1909-06-14
+number: 0
+league: Atlantic
+away: Sunbury
+home: Allentown
+source: Pottsville Republican, June 15, 1909
+
+Sunbury:	r h e
+Musser @ p:	x x x
+Duprey @ c:	x x x
+TOTALS:		0 3 7
+
+Allentown:	r h e
+Sweeney @ p:	x x x
+Porte @ c:	x x x
+TOTALS:		5 4 1
+
+line: Sunbury:   0 0 0 0 0 0 0 0 0 - 0
+line: Allentown: 0 0 0 2 3 0 0 0 x - 5
+
+---
+
+date: 1909-06-14
+number: 0
+league: Atlantic
+away: Reading
+home: Shamokin 
+source: Pottsville Republican, June 15, 1909
+
+Reading:	r h e
+Cobean @ p: 	x x x
+Brennan @ p:	x x x
+Durbin @ c:	x x x
+TOTALS:		0 5 1
+
+Shamokin:	r h e
+Peterson @ p:	x x x
+Irvin @ c:	x x x
+TOTALS:		7 12 2
+
+line: Reading:  0 0 0 0 0 0 0 0 0 - 0
+line: Shamokin: 0 1 1 1 0 0 2 2 x - 7
+
+---
+
+date: 1909-06-14
+number: 0
+league: Atlantic
+away: Easton
+home: Elizabeth
+status: postponed
+status-reason: rain
+source: Pottsville Republican, June 15, 1909

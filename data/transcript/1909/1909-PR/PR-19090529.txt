@@ -1,0 +1,112 @@
+date: 1909-05-29
+number: 0
+league: Atlantic
+away: Pottsville
+home: Reading
+source: Pottsville Republican, May 31, 1909
+
+Pottsville:		ab r h po a e
+Miller, W. @ cf:	x 0 1 0 0 0
+Eustace @ 3b:	x 0 0 0 2 1
+Sweeney @ 2b:	x 0 0 2 5 0
+Dondero @ ss:	x 0 0 2 1 0
+Evans @ rf:	x 0 0 1 0 0
+Bisland @ lf:	x 0 2 2 0 0
+Miller, A. @ c:	x 0 1 4 1 0
+Miller, E. @ 1b:	x 0 1 13 0 0	
+Sponagle @ p:	x 0 0 0 4 0
+TOTALS:		x 0 5 24 13 1
+
+Reading:	ab r h po a e
+Harley @ rf:	x 1 0 1 1 0
+O'Haron @ 2b:	x 0 1 1 2 1
+Bertwhistle @ lf:	x 0 1 1 0 0
+Pickle @ 3b:	x 1 1 1 1 0
+Kane @ cf:	x 0 1 4 0 0
+Johnson @ ss:	x 0 1 3 3 0
+Heckert @ 1b:	x 2 1 14 0 0
+Hartman @ c:	x 0 1 2 0 0
+Craig @ p:	x 0 1 0 3 0
+TOTALS:		x 4 8 27 9 1
+
+line: Pottsville: 0 0 0 0 0 0 0 0 0 - 0
+line: Reading:    1 0 0 0 0 0 1 2 x - 4
+
+B_2B: Hartman
+B_SB: Pickle; Heckert
+P_BB: Craig #1; Sponagle #3
+P_SO: Craig #2; Sponagle #4
+F_DP: O'Haron, Heckert
+U: Goodhart
+
+---
+
+date: 1909-05-29
+number: 0
+league: Atlantic
+away: Elizabeth
+home: Wilmington
+source: Pottsville Republican, May 31, 1909
+
+Elizabeth:	r h e
+Wolfe @ p:	x x x
+Langhead @ c:	x x x
+TOTALS:		1 3 2
+
+Wilmington:	r h e
+Serry @ p: 	x x x
+Berry @ c:	x x x
+TOTALS:		4 5 2
+
+line: Elizabeth:  0 0 0 0 0 0 0 0 1 - 1
+line: Wilmington: 1 3 0 0 0 0 0 0 x - 4
+
+U: Baker
+
+---
+
+date: 1909-05-29
+number: 0
+league: Atlantic
+away: Shamokin
+home: Allentown 
+source: Pottsville Republican, May 31, 1909
+
+Shamokin:	r h e
+Daniel @ p:	x x x
+Francesco @ c:	x x x
+TOTALS:		2 6 0
+
+Allentown:	r h e
+Doscher @ p:	x x x
+Porte @ c:	x x x
+TOTALS:		3 5 3
+
+line: Shamokin:  0 0 0 0 1 0 0 0 1 - 2
+line: Allentown: 0 0 0 1 0 0 2 0 x - 3
+
+U: Gallagher
+
+---
+
+date: 1909-05-29
+number: 0
+league: Atlantic
+away: Mount Carmel
+home: Easton
+source: Pottsville Republican, May 31, 1909
+
+Mount Carmel:	r h e
+Brady @ p: 	x x x
+Hopkins @ c:	x x x
+TOTALS:		2 2 4
+
+Easton:		r h e
+Rogers @ p:	x x x
+Betz @ c:	x x x
+TOTALS:		3 6 3
+
+line: Mount Carmel: 0 0 1 0 0 0 0 0 1 - 2
+line: Easton:       0 0 0 0 1 0 0 1 1 - 3
+
+U: Hutchinson

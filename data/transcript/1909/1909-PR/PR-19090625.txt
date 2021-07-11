@@ -1,0 +1,112 @@
+date: 1909-06-25
+number: 0
+league: Atlantic
+away: Pottsville 
+home: Easton 
+source: Pottsville Republican, June 26, 1909
+
+Pottsville:	ab r h po a e
+Miller, W. @ cf:	x 1 1 0 0 0	
+Eustace @ 3b:	x 1 0 1 4 1
+Sweeney @ 2b:	x 0 1 4 1 0
+Bisland @ lf:	x 0 1 2 0 0
+Evans @ rf:	x 1 0 1 0 0
+Miller, A. @ c:	x 1 1 9 0 0
+Dondero @ ss:	x 0 1 5 1 0
+Weeden @ 1b:	x 0 1 4 3 0
+Kull @ p:	x 0 0 0 2 0
+TOTALS:		x 4 6 26 11 1
+
+Easton:		ab r h po a e
+Williams @ cf:	x 0 0 3 0 0
+Wilkie @ 3b:	x 0 0 1 3 0
+Dietz @ ss:	x 1 0 0 2 1
+Rudolph @ lf:	x 0 2 2 0 0
+Middleton @ rf:	x 0 0 0 0 0
+Sutton @ 1b:	x 0 1 14 0 0
+Whalen @ 2b:	x 0 1 2 3 0
+Edgar @ c:	x 0 0 5 2 0
+Henderson @ p:	x 0 0 0 3 1
+TOTALS:		x 1 4 27 13 2
+
+line: Pottsville: 0 0 0 0 0 1 1 1 1 - 4
+line: Easton:     1 0 0 0 0 0 0 0 0 - 1
+
+B_2B: Sweeney
+B_SB: Dietz; Henderson
+B_SH: Eustace; Dondero
+B_HP: Kull #2
+P_BB: Henderson #3
+P_SO: Henderson #4; Kull #4
+P_HP: Henderson; Williams
+T: 1:25
+U: Fallon
+
+---
+
+date: 1909-06-25
+number: 0
+league: Atlantic
+away:  Elizabeth
+home:  Reading
+source: Pottsville Republican, June 26, 1909
+
+Elizabeth:	r h e
+Hayes @ p:	x x x
+Wolfe @ p:	x x x
+Langheld @ c:	x x x
+TOTALS:		1 4 1
+
+Reading:	r h e
+Whitmyer @ p 	x x x
+Kennedy @ c:	x x x
+TOTALS:		4 12 0 
+
+line: Elizabeth: 0 0 0 0 0 0 0 0 1 - 1
+line: Reading:   0 0 0 1 0 0 1 2 x - 4
+
+U: Watts
+
+---
+
+date: 1909-06-25
+number: 0
+league: Atlantic
+away:  Shamokin 
+home:  Sunbury
+source: Pottsville Republican, June 26, 1909
+
+Shamokin:	r h e
+Patterson @ p:	x x x
+Francisco @ c:	x x x
+TOTALS:		5 8 4
+
+Sunbury:	r h e
+Musser @ p:	x x x
+Dooley @ c:	x x x
+TOTALS:		1 3 1
+
+line: Shamokin: 0 0 0 0 0 0 0 2 3 - 5
+line: Sunbury:  0 0 0 0 1 0 0 0 0 - 1
+
+---
+
+date: 1909-06-25
+number: 0
+league: Atlantic
+away: Mount Carmel
+home: Allentown 
+source: Pottsville Republican, June 26, 1909
+
+Mount Carmel:	r h e
+Charles @ p:	x x x
+Hopkins @ c:	x x x
+TOTALS:		5 4 5
+
+Allentown:	r h e
+Phillips @ p:	x x x
+Porte @ c:	x x x
+TOTALS:		0 3 7
+
+line: Mount Carmel: 1 0 0 2 0 0 0 2 0 - 5
+line: Allentown:    0 0 0 0 0 0 0 0 0 - 0

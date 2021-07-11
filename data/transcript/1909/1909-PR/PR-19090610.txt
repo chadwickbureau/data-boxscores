@@ -1,0 +1,52 @@
+date: 1909-06-10
+number: 0
+league: Atlantic
+away: Elizabeth
+home: Mount Carmel
+source: Pottsville Republican, June 11, 1909
+
+Elizabeth:	r h e
+Luyster @ p:	x x x
+Langheld @ c:	x x x
+TOTALS:		6 11 1
+
+Mount Carmel:	r h e
+Charles @ p:	x x x
+Hopkins @ c:	x x x
+TOTALS:		3 4 3
+
+line: Elizabeth:    0 0 0 0 0 1 2 2 1 - 6
+line: Mount Carmel: 0 0 0 1 2 0 0 0 0 - 3
+
+---
+
+date: 1909-06-10
+number: 0
+league: Atlantic
+away: Pottsville
+home: Shamokin
+status: postponed
+status-reason: rain
+source: Pottsville Republican, June 11, 1909
+
+---
+
+date: 1909-06-10
+number: 0
+league: Atlantic
+away: Sunbury
+home: Reading
+status: postponed
+status-reason: rain
+source: Pottsville Republican, June 11, 1909
+
+---
+
+date: 1909-06-10
+number: 0
+league: Atlantic
+away: Easton
+home: Allentown
+status: postponed
+status-reason: rain
+source: Pottsville Republican, June 11, 1909

@@ -1,0 +1,106 @@
+date: 1909-06-01
+number: 0
+league: Atlantic
+away: Mount Carmel
+home: Pottsville  
+source: Pottsville Republican, June 2, 1909
+
+Mount Carmel:	ab r h po a e
+Moore @ lf:	x 3 2 3 0 0
+Edmunds @ ss:	x 2 1 0 3 1
+Flory @ 2b:	x 2 2 4 2 1 
+Foster @ 1b:	x 1 4 10 0 0
+Cotter @ rf:	x 0 2 0 0 0
+Shea @ cf:	x 1 1 2 1 0
+Walsh @ 3b:	x 1 1 1 2 0
+Hopkins @ c:	x 1 1 6 3 0
+Brady @ p:	x 0 0 1 0 0
+TOTALS:		x 11 14 27 11 2
+
+Pottsville:		ab r h po a e
+(~1.1)Bisland @ lf:	x 0 2 1 0 0
+Eustace @ 3b:	x 0 0 1 4 1
+Miller, W. @ cf:	x 0 1 2 0 0
+Sweeney @ 2b:	x 1 0 3 2 0
+Evans @ rf:	x 1 1 0 0 0
+(~6.1)Miller, A. @ c:	x 0 0 3 0 1
+Dondero @ ss:	x 0 1 0 3 0
+Miller, E. @ 1b:	x 1 2 17 1 0
+Kull @ p:		x 0 1 0 3 3
+(~1.2)Hartman @ lf:	x 0 0 0 0 0 
+(~6.2)Beadman @ c:	x 0 1 0 1 0	
+TOTALS:		x 3 9 27 14 5
+
+line: Mount Carmel: 2 0 0 0 1 2 6 0 0 - 11
+line: Pottsville:   0 0 0 0 0 0 0 1 2 - 3
+
+B_LOB: Pottsville #5; Mount Carmel #9
+B_ER: Pottsville #1; Mount Carmel #2
+B_2B: Foster #3; Flory; W. Miller
+B_SB: Moore #3; Bisland; Eustace; Flory; Dondero; Foster; Walsh; E. Miller
+B_SH: Flory; Hopkins #2
+B_HP: Brady; Edmunds
+P_BB: Brady #4; Kull #3
+P_SO: Brady #4; Kull #2
+P_HP: Brady; Kull
+F_DP: Sweeney, E. Miller
+T: 2:10
+U: Quigley
+
+---
+
+date: 1909-06-01
+number: 0
+league: Atlantic
+away: Shamokin
+home: Reading
+source: Pottsville Republican, June 2, 1909
+
+Shamokin:	r h e
+Peterson @ p:	x x x
+Francisco @ c:	x x x
+TOTALS:		4 10 2
+
+Reading:	r h e
+Peifer @ p:	x x x
+Sponagle @ p:	x x x
+Hartman @ c:	x x x
+TOTALS:		3 7 1
+
+line: Shamokin: 0 0 0 0 0 0 2 0 2 - 4
+line: Reading:  0 1 0 0 2 0 0 0 0 - 3
+
+U: Gallagher
+
+---
+
+date: 1909-06-01
+number: 0
+league: Atlantic
+away: Allentown 
+home: Wilmington 
+source: Pottsville Republican, June 2, 1909
+
+Allentown:	r h e
+Bennett @ p:	x x x
+Porte @ c:	x x x
+TOTALS:		4 8 1 
+
+Wilmington:	r h e
+Nichols @ p:	x x x
+Berry @ c:	x x x
+TOTALS:		2 5 2
+
+line: Allentown:  0 0 0 0 0 2 0 2 0 - 4
+line: Wilmington: 0 0 0 0 1 0 0 1 0 - 2
+
+---
+
+date: 1909-06-01
+number: 0
+league: Atlantic
+away: Easton
+home: Elizabeth
+status: postponed
+status-reason: called off
+source: Pottsville Republican, June 2, 1909
