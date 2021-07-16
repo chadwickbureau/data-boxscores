@@ -1,0 +1,136 @@
+date: 1909-05-13
+number: 0
+league: Atlantic
+away: Allentown
+home: Pottsville 
+source: Pottsville Republican, May 14, 1909
+
+Allentown:	ab r h po a e
+Jacobs @ 3b:	x 1 0 3 5 2
+Jones @ cf:	x 0 2 1 0 0
+Brown @ rf:	x 1 1 2 0 0
+Davis @ 1b:	x 0 1 14 0 0
+McGeehan @ 2b:	x 1 0 0 4 1
+Bonner @ ss:	x 0 0 0 2 0
+Port @ c:	x 0 0 6 0 1
+Reifsnyder @ lf:	x 0 1 0 0 1
+Bennett @ p:	x 1 1 0 1 0
+Whit'r @ p:	x 0 0 0 3 0
+TOTALS:		x 4 6 26 15 5
+
+Pottsville:		ab r h po a e
+Miller, W. @ cf:	x 1 1 1 0 1
+Eustace @ 3b:	x 1 0 0 3 0
+Sweeney @ 2b:	x 0 3 3 4 1
+Evans @ rf:	x 0 0 0 0 0
+Bisland @ lf:	x 1 0 2 0 0
+Reilly @ ss:	x 0 0 2 3 1
+(~7.1)Miller, A. @ c:	x 0 3 3 1 0
+Miller, E. @ 1b:	x 0 0 15 0 1	
+Kull @ p:	x 0 1 1 7 2	
+Brennan @ p:	x 0 0 0 0 0
+(~7.2)Dugan @ c:	x 0 0 0 0 0	
+TOTALS:		x 3 7 27 17 6
+
+line: Allentown:  0 0 0 1 2 0 0 1 0 - 4
+line: Pottsville: 0 0 0 1 2 0 0 0 0 - 3
+
+B_LOB: Allentown #10; Pottsville #6
+B_ROE: 
+B_ER: Pottsville #1
+B_2B: A. Miller #2; Kull; Sweeney; McGeehan; Jacobs; Eustace; Bornner; Port
+B_3B: A. Miller
+B_HR: 
+B_SB: Eustace #2; E. Miller; Reilly; Port; Davis; W. Miller
+B_SH: 
+B_SF: 
+B_HP: Eustace; Davis
+B_XO: Kull, cutting first base
+P_BB: 
+P_SO: 
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: A. Miller
+outsatend: 
+T: 2:10
+U: Brown
+
+P_GS: ~Kull
+P_GF: ~Brennan
+P_W: ~
+P_L: ~Kull
+P_SV: ~
+P_R: ~
+
+---
+
+date: 1909-05-13
+number: 0
+league: Atlantic
+away: Wilmington
+home: Shamokin
+source: Pottsville Republican, May 14, 1909
+
+Wilmington:	r h e
+Whalen @ p:	x x x
+Willis @ c:	x x x
+Berry @ c:	x x x
+TOTALS:		2 6 3
+
+Shamokin:	r h e
+Wolf @ p:	x x x
+Francisco @ c:	x x x
+TOTALS:		5 7 2
+
+line: Wilmington: 0 0 0 0 1 1 0 0 0 - 2
+line: Shamokin:   0 1 0 0 2 1 0 0 x - 5
+
+---
+
+date: 1909-05-13
+number: 0
+league: Atlantic
+away: Reading
+home: Mount Carmel 
+source: Pottsville Republican, May 14, 1909
+
+Reading:	r h e
+Walker @ p: 	x x x
+Craig @ p:	x x x
+Hartman @ c:	x x x
+TOTALS:		4 10 0 
+
+Mount Carmel:	r h e
+Brennan @ p: 	x x x
+Hopkins @ c:	x x x
+TOTALS:		6 9 2
+
+line: Reading:      1 0 1 1 1 0 0 0 0 - 4
+line: Mount Carmel: 3 0 2 0 0 0 1 0 x - 6
+
+---
+
+date: 1909-05-13
+number: 0
+league: Atlantic
+away: Elizabeth
+home: Easton 
+source: Pottsville Republican, May 14, 1909
+
+Elizabeth:	r h e
+Luyster @ p:	x x x
+Henderson @ c:	x x x
+TOTALS:		3 8 2
+
+Easton:		r h e
+Kling @ p:	x x x
+Ross @ c:	x x x
+TOTALS:		2 5 0
+
+line: Elizabeth: 0 0 0 0 0 0 0 0 3 - 3
+line: Easton:    0 0 2 0 0 0 0 0 0 - 2
+

@@ -1,0 +1,131 @@
+date: 1909-05-23
+number: 0
+league: Atlantic
+away: Wilmington 
+home: Pottsville
+source: Pottsville Republican, May 24, 1909
+note: Brennan included in SBs, no Brennan in boxscore
+
+Wilmington:	ab r h po a e
+O'Neil @ 2b:	x 0 0 2 2 0
+Turner @ lf:	x 0 1 2 0 0
+Ferry @ cf:	x 0 1 1 0 2
+Hoover @ rf:	x 1 0 1 0 0
+Whalen @ 1b:	x 0 0 9 0 0
+Berry @ c:	x 0 0 5 1 1
+Watson @ ss:	x 0 0 2 3 0
+Johnson @ 3b:	x 0 0 1 2 0
+Guss @ p:	x 0 0 1 1 0
+TOTALS:		x 1 2 24 9 3
+
+Pottsville:		ab r h po a e
+Miller, W. @ cf:	x 1 1 1 0 1
+Eustace @ 3b:	x 1 1 2 4 0
+Sweeney @ 2b:	x 1 1 1 1 0
+Evans @ rf:	x 0 0 0 0 0
+Bisland @ lf:	x 0 1 2 0 0
+Miller, A. @ c:	x 0 1 5 0 1
+Reilly @ ss:	x 0 1 1 4 0
+Miller, E. @ 1b:	x 0 0 13 0 0	
+Kull @ p:	x 0 0 1 5 0
+TOTALS:		x 3 6 26 14 2
+
+line: Wilmington: 0 1 0 0 0 0 0 0 0 - 1
+line: Pottsville: 1 0 0 0 1 0 1 0 x - 3
+
+B_LOB: Wilmington #2; Pottsville #5
+B_ROE: 
+B_ER: Pottsville #1
+B_2B: Eustace; Reilly
+B_3B: W. Miller
+B_HR: 
+B_SB: Berry; Turner; Eustace
+B_SH: Reilly; Eustace; Evans
+B_SF: 
+B_HP: 
+B_XO: Turner, hit by batted ball
+P_BB: Kull #2; Guss #3
+P_SO: Kull #5; Guss #4
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: Kull
+P_BK: 
+F_DP: Watson, O'Neil; O'Neil, Watson, Whalen
+F_PB: A. Miller
+outsatend: 
+T: 1:25
+U: Gallagher
+
+P_GS: ~
+P_GF: ~
+P_W: ~
+P_L: ~
+P_SV: ~
+P_R: ~
+
+---
+
+date: 1909-05-23
+number: 0
+league: Atlantic
+away: Allentown
+home: Mount Carmel
+source: Pottsville Republican, May 24, 1909
+
+Allentown:	r h e
+Dorsher @ p:	x x x
+Davis @ c:	x x x
+TOTALS:		4 6 1
+
+Mount Carmel:	r h e
+Brennan @ p: 	x x x
+Hopkins @ c:	x x x
+TOTALS:		10 11 0
+
+line: Allentown:    3 1 0 0 0 0 0 0 0 - 4
+line: Mount Carmel: 6 0 0 0 2 0 0 2 x - 10
+
+---
+
+date: 1909-05-23
+number: 0
+league: Atlantic
+away: Easton
+home: Shamokin
+source: Pottsville Republican, May 24, 1909
+
+Easton:		r h e
+Retz @ p:	x x x
+Ross @ c:	x x x
+TOTALS:		2 8 1
+
+Shamokin:	r h e
+Cramer @ p:	x x x
+Francisco @ c:	x x x
+TOTALS:		5 5 0
+
+line: Easton:   1 1 0 0 0 0 0 0 0 - 2
+line: Shamokin: 0 0 2 0 1 0 0 2 x - 5
+
+---
+
+date: 1909-05-23
+number: 0
+league: Atlantic
+away: Reading
+home: Elizabeth
+source: Wilmington News Journal, May 24, 1909
+
+Reading:	r h e
+Ward @ p:	x x x
+Kennedy @ c:	x x x
+TOTALS:		3 9 3
+
+Elizabeth:	r h e
+McIntyre @ p:	x x x
+Henderson @ c:	x x x
+TOTALS:		6 8 1
+
+line: Reading:   1 0 0 0 0 0 0 0 2 - 3
+line: Elizabeth: 2 0 0 1 0 0 3 0 x - 6

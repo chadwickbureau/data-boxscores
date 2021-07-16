@@ -1,0 +1,134 @@
+date: 1909-05-14
+number: 0
+league: Atlantic
+away: Pottsville 
+home: Easton
+source: Pottsville Republican, May 15, 1909
+
+Pottsville:		ab r h po a e
+Miller, W. @ cf:	x 0 0 1 0 0
+Eustace @ 3b:	x 1 1 2 4 1
+Sweeney @ 2b:	x 0 0 1 2 2
+Evans @ rf:	x 0 1 0 0 0
+Bisland @ lf:	x 1 1 4 0 1
+Reilly @ ss:	x 0 1 1 2 0
+Miller, E. @ 1b:	x 0 1 9 0 0	
+Dugan @ c:	x 0 0 4 0 0	
+Brennan @ p:	x 0 0 2 0 0
+TOTALS:		x 2 5 24 8 4
+
+Easton:	ab r h po a e
+Williams @ cf:	x 0 0 1 0 0
+Wilson @ 3b:	x 1 1 1 1 0
+Pleiss @ lf:	x 1 1 2 0 0
+Rogers @ rf:	x 1 1 1 0 0
+Miller, K. @ 2b:	x 1 1 3 2 0
+Ross @ c:	x 0 0 3 1 0
+Howdell @ ss:	x 1 0 4 5 0
+Allen @ 1b:	x 0 1 12 0 0
+Betts @ p:	x 0 2 0 1 0
+TOTALS:		x 5 7 27 10 0
+
+line: Pottsville: 0 0 0 0 0 0 1 0 1 - 2
+line: Easton:     4 0 0 0 0 0 0 1 x - 5
+
+B_LOB: 
+B_ROE: 
+B_ER: Easton #2; Pottsville #2
+B_2B: Bisland; Evans
+B_3B: 
+B_HR: 
+B_SB: K. Miller #2; Pleiss; Ross; Evans
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Betts #4; Brennan #4
+P_SO: Betts #2; Brennan #2
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Howdell, Allen #2; Reilly, Sweeney, E. Miller
+F_PB: 
+outsatend: 
+T: 
+U: Fallon
+
+P_GS: ~
+P_GF: ~
+P_W: ~
+P_L: ~
+P_SV: ~
+P_R: ~
+
+---
+
+date: 1909-05-14
+number: 0
+league: Atlantic
+away: Shamokin
+home: Reading
+source: Pottsville Republican, May 15, 1909
+
+Shamokin:	r h e
+Cramer @ p:	x x x
+Davie @ p:	x x x
+Taxis @ c:	x x x
+TOTALS:		7 10 1
+
+Reading:	r h e
+Cobean @ p: 	x x x
+Pfeifer @ p:	x x x
+Hartman @ c:	x x x
+TOTALS:		4 5 4
+
+line: Shamokin: 3 2 0 0 0 0 1 1 0 - 7
+line: Reading:  0 0 0 0 2 0 0 2 0 - 4
+
+---
+
+date: 1909-05-14
+number: 0
+league: Atlantic
+away: Mount Carmel 
+home: Wilmington
+source: Pottsville Republican, May 15, 1909
+
+Mount Carmel:	r h e
+Birsh @ p: 	x x x
+Hopkins @ c:	x x x
+TOTALS:		5 12 2
+
+Wilmington:	r h e
+Yerkes @ p:	x x x
+Berry @ p:	x x x
+Whalen @ c:	x x x
+TOTALS:		2 5 3
+
+line: Mount Carmel: 3 1 0 0 0 0 0 1 0 - 5
+line: Wilmington:   2 0 0 0 0 0 0 0 0 - 2
+
+---
+
+date: 1909-05-14
+number: 0
+league: Atlantic
+away: Elizabeth
+home: Allentown
+source: Pottsville Republican, May 15, 1909
+
+Elizabeth:	r h e
+Luyster @ p:	x x x
+Henderson @ c:	x x x
+TOTALS:		5 10 2
+
+Allentown:	r h e
+Kling @ p:	x x x
+Ross @ c:	x x x
+TOTALS:		4 8 3
+
+line: Elizabeth: 0 1 0 0 1 0 2 0 1 - 5
+line: Allentown: 0 2 0 0 0 0 0 2 0 - 4
+

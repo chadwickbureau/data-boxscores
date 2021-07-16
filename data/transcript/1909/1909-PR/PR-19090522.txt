@@ -1,0 +1,55 @@
+date: 1909-05-22
+number: 0
+league: Atlantic
+away: Elizabeth
+home: Reading
+source: Pottsville Republican, May 24, 1909
+
+Elizabeth:	r h e
+Luyster @ p:	x x x
+Henderson @ c:	x x x
+TOTALS:		2 7 3
+
+Reading:	r h e
+Craig @ p:	x x x
+Kennedy @ c:	x x x
+TOTALS:		9 12 0
+
+line: Elizabeth: 1 0 0 0 1 0 0 0 0 - 2
+line: Reading:   0 6 1 0 0 0 0 2 x - 9
+
+U: Goodhart
+
+---
+
+date: 1909-05-22
+number: 0
+league: Atlantic
+away: Allentown
+home: Mount Carmel
+status: postponed
+status-reason: rain
+source: Pottsville Republican, May 24, 1909
+
+---
+
+date: 1909-05-22
+number: 0
+league: Atlantic
+away: Easton
+home: Shamokin
+status: postponed
+status-reason: rain
+source: Pottsville Republican, May 24, 1909
+
+---
+
+date: 1909-05-22
+number: 0
+league: Atlantic
+away: Wilmington
+home: Pottsville
+status: postponed
+status-reason: rain
+source: Pottsville Republican, May 24, 1909
+

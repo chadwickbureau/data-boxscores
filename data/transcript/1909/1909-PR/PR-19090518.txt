@@ -1,0 +1,131 @@
+date: 1909-05-18
+number: 0
+league: Atlantic
+away: Shamokin
+home: Pottsville 
+source: Pottsville Republican, May 19, 1909
+
+Shamokin:	ab r h po a e
+Willig @ cf:	x 1 0 1 1 0
+Garman @ 1b:	x 0 1 8 2 0
+Kelly @ 2b:	x 1 2 5 1 0
+Cross @ 3b:	x 0 2 0 2 1
+Irving @ rf:	x 0 0 1 1 0
+Corneal @ lf:	x 2 1 2 0 0
+Williams @ ss:	x 0 0 5 0 2
+Taxis @ c:	x 0 2 3 1 0
+Creamer @ p:	x 0 0 0 5 0
+TOTALS:		x 4 8 25 14 3
+
+Pottsville:		ab r h po a e
+Miller, W. @ cf:	x 2 2 2 0 0
+Eustace @ 3b:	x 2 0 3 0 0
+Sweeney @ 2b:	x 0 1 4 2 0
+Evans @ rf:	x 0 2 1 0 0
+Dondero @ lf:	x 0 1 3 0 0
+Miller, A. @ c:	x 0 1 5 0 1
+Reilly @ ss:	x 0 0 1 2 0
+Miller, E. @ 1b:	x 1 2 8 1 0	
+Kull @ p:	x 0 1 0 4 1
+TOTALS:		x 5 10 27 9 2
+
+line: Shamokin:   0 1 0 0 0 0 1 1 1 - 4
+line: Pottsville: 0 0 2 0 2 0 0 0 1 - 5
+
+B_LOB: Shamokin #12; Pottsville #7
+B_ROE: 
+B_ER: Shamokin #1; Pottsville #1
+B_2B: 
+B_3B: Corneal; Cross #2; W. Miller
+B_HR: 
+B_SB: Dondero; A. Miller 
+B_SH: Garman #2; Williams; Taxis; Sweeney #2; A. Miller; Kull; W. Miller; Eustace
+B_SF: 
+B_HP: E. Miller; Corneal
+B_XO: 
+P_BB: Kull #4; Creamer #3
+P_SO: Kull #6; Creamer #2
+P_H: 
+P_IP: 
+P_HP: Kull; Creamer
+P_WP: 
+P_BK: 
+F_DP: Irving, Williams
+F_PB: 
+outsatend: 
+T: 1:45
+U: Baker
+
+P_GS: ~
+P_GF: ~ 
+P_W: ~
+P_L: ~
+P_SV: ~
+P_R: ~
+
+---
+
+date: 1909-05-18
+number: 0
+league: Atlantic
+away: Mount Carmel
+home: Reading
+source: Mount Carmel Item, May 19, 1909
+
+Mount Carmel:	r h e
+Bush @ p: 	x x x
+Hopkins @ c:	x x x
+TOTALS:		5 10 1
+
+Reading:	r h e
+Cobean @ p:	x x x
+Hartman @ c:	x x x
+TOTALS:		2 7 4 
+
+line: Mount Carmel: 0 0 2 0 1 1 0 0 1 - 5
+line: Reading:      0 0 0 1 0 0 0 0 1 - 2
+
+---
+
+date: 1909-05-18
+number: 0
+league: Atlantic
+away: Wilmington
+home: Allentown
+source: Pottsville Republican, May 19, 1909
+
+Wilmington:	r h e
+Willis @ p:	x x x
+Nicolls @ p:	
+Whalen @ c:	x x x
+TOTALS:		8 12 1
+
+Allentown:	r h e
+Hensch @ p:	x x x
+Porte @ c:	x x x
+TOTALS:		6 9 2
+
+line: Wilmington: 2 0 2 1 0 0 2 0 1 - 8
+line: Allentown:  3 0 3 0 0 0 0 0 0 - 6
+
+---
+
+date: 1909-05-18
+number: 0
+league: Atlantic
+away: Easton
+home: Elizabeth 
+source: Pottsville Republican, May 19, 1909
+
+Easton:		r h e
+Betts @ p:	x x x
+Ross @ c:	x x x
+TOTALS:		2 4 2
+
+Elizabeth:	r h e
+Hayes @ p:	x x x
+Langheld @ c:	x x x
+TOTALS:		3 7 3
+
+line: Easton:    0 0 0 0 0 0 2 0 0 - 2
+line: Elizabeth: 0 0 1 0 0 0 1 0 1 - 3

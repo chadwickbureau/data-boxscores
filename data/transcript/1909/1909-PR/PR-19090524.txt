@@ -1,0 +1,131 @@
+date: 1909-05-24
+number: 0
+league: Atlantic
+away: Wilmington 
+home: Pottsville
+source: Pottsville Republican, May 25, 1909
+
+Wilmington:	ab r h po a e
+O'Neil @ 2b:	x 1 2 3 3 0
+Turner @ lf:	x 0 0 3 0 1
+Ferry @ 1b:	x 0 1 9 0 0
+Hoover @ cf:	x 0 0 2 0 0
+Berry @ c:	x 0 0 4 0 0
+Nichols @ rf:	x 0 0 0 0 1
+Watson @ ss:	x 1 2 2 1 3
+Johnson @ 3b:	x 1 1 1 0 0
+Whalen @ p:	x 1 0 0 3 0
+TOTALS:		x 4 7 24 7 5
+
+Pottsville:		ab r h po a e
+Miller, W. @ cf:	x 3 2 4 0 0
+Eustace @ 3b:	x 2 3 4 2 0
+Sweeney @ 2b:	x 0 2 3 1 2
+Evans @ rf:	x 0 1 0 0 0
+Dandero @ lf:	x 0 1 2 0 0
+Miller, A. @ c:	x 0 0 4 4 1
+Reilly @ ss:	x 0 0 4 4 2
+Miller, E. @ 1b:	x 0 1 6 1 0	
+Sponagle @ p:	x 0 0 0 2 0
+TOTALS:		x 5 10 27 14 5
+
+line: Wilmington: 1 1 0 1 0 1 0 0 0 - 4
+line: Pottsville: 1 0 0 0 0 0 3 0 1 - 5
+
+B_LOB: Wilmington #8; Pottsville #9
+B_ROE: 
+B_ER: Pottsville #4
+B_2B: Johnson; O'Neil; Eustace
+B_3B: W. Miller
+B_HR: 
+B_SB: Dandero; Turner; Evans; O'Neil; A. Miller; Hoover; Reilly
+B_SH: Johnson; Turner
+B_SF: 
+B_HP: O'Neil
+B_XO: 
+P_BB: Sponagle #4; Whalen #2
+P_SO: Sponagle #2; Whalen #4
+P_H: 
+P_IP: 
+P_HP: Sponagle
+P_WP: 
+P_BK: Whalen
+F_DP: Watson
+F_PB: 
+outsatend: 
+T: 2:05
+U: Gallagher
+
+P_GS: ~
+P_GF: ~
+P_W: ~
+P_L: ~
+P_SV: ~
+P_R: ~
+
+---
+
+date: 1909-05-24
+number: 0
+league: Atlantic
+away: Allentown
+home: Mount Carmel
+source: Pottsville Republican, May 25, 1909
+
+Allentown:	r h e
+Twitmeyer @ p:	x x x
+Port @ c:	x x x
+TOTALS:		10 14 4
+
+Mount Carmel:	r h e
+Bush @ p: 	x x x
+Hopkins @ c:	x x x
+TOTALS:		6 8 4
+
+line: Allentown:    1 6 0 0 1 0 0 2 0 - 10
+line: Mount Carmel: 2 0 2 0 0 0 0 1 1 - 6
+
+---
+
+date: 1909-05-24
+number: 0
+league: Atlantic
+away: Easton
+home: Shamokin
+source: Pottsville Republican, May 25, 1909
+
+Easton:		r h e
+Biehl @ p:	x x x
+Betts @ p:	x x x
+Ross @ c:	x x x
+TOTALS:		6 8 0
+
+Shamokin:	r h e
+Wolf @ p:	x x x
+Francisco @ c:	x x x
+TOTALS:		7 11 4
+
+line: Easton:   0 2 1 0 0 0 0 3 0 - 6
+line: Shamokin: 0 1 0 0 2 0 0 0 4 - 7
+
+---
+
+date: 1909-05-24
+number: 0
+league: Atlantic
+away: Reading
+home: Elizabeth
+source: Wilmington News Journal, May 25, 1909
+
+Reading:	r h e
+Pfeifel @ p:	x x x
+Kennedy @ c:	x x x
+TOTALS:		4 4 0
+
+Elizabeth:	r h e
+Hayes @ p:	x x x
+Langheld @ c:	x x x
+TOTALS:		2 5 7
+
+line: Reading:   1 0 0 1 0 0 2 0 0 - 4
+line: Elizabeth: 1 0 1 0 0 0 0 0 0 - 2

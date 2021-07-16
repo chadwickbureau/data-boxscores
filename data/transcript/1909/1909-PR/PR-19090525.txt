@@ -1,0 +1,132 @@
+date: 1909-05-25
+number: 0
+league: Atlantic
+away: Pottsville
+home: Elizabeth
+source: Pottsville Republican, May 26, 1909
+
+Pottsville:		ab r h po a e
+Miller, W. @ cf:	x 0 1 7 0 0
+Eustace @ 3b:	x 0 2 2 5 2
+Sweeney @ 2b:	x 0 0 1 0 1
+Evans @ rf:	x 0 0 0 1 0
+Bisland @ lf:	x 2 2 4 1 0
+Miller, A. @ c:	x 0 1 2 1 2
+Riley @ ss:	x 0 0 3 6 0
+Miller, E. @ 1b:	x 0 0 13 0 0	
+Hartman @ p:	x 0 0 0 3 0
+TOTALS:		x 2 6 32 17 5
+
+Elizabeth:	ab r h po a e
+Sheilds @ lf:	x 2 1 0 1 0
+Murphy @ ss:	x 0 1 2 7 1
+Wolf @ cf:	x 0 0 0 0 0
+Meaney @ rf:	x 0 2 3 0 0
+Lamb @ 3b:	x 1 0 2 1 0
+Phaler @ 2b:	x 0 1 3 7 1
+Mackey @ 1b:	x 0 2 18 1 0
+Henderson @ c:	x 0 0 4 0 0
+Luyster @ p:	x 0 0 1 5 0
+TOTALS:		x 3 7 33 22 2
+
+line: Pottsville: 0 0 0 0 1 0 1 0 0 0 0 - 2
+line: Elizabeth:  0 0 0 0 0 1 0 0 1 0 1 - 3
+
+B_LOB: 
+B_ROE: 
+B_ER: Pottsville #1
+B_2B: Eustace; Bisand
+B_3B: W. Miller; Bisland
+B_HR: 
+B_SB: Shields
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Luyster #1; Hartman #5
+P_SO: Luyster #3; Hartman #1
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Bisland, W. Miller
+F_PB: 
+outsatend: 
+T: 
+U: Baker
+
+P_GS: ~
+P_GF: ~
+P_W: ~
+P_L: ~
+P_SV: ~
+P_R: ~
+
+---
+
+date: 1909-05-25
+number: 0
+league: Atlantic
+away: Allentown
+home: Shamokin
+source: Pottsville Republican, May 26, 1909
+
+Allentown:	r h e
+Edmonds @ p:	x x x
+Porter @ c:	x x x
+TOTALS:		4 9 4
+
+Shamokin:	r h e
+Peterson @ p:	x x x
+Francisco @ c:	x x x
+TOTALS:		10 10 0
+
+line: Allentown: 0 0 0 0 0 2 0 2 0 - 4
+line: Shamokin:  0 0 0 0 0 10 0 0 x - 10
+
+---
+
+date: 1909-05-25
+number: 0
+league: Atlantic
+away: Easton
+home: Mount Carmel
+source: Pottsville Republican, May 26, 1909
+
+Easton:		r h e
+Kling @ p:	x x x
+Betts @ p:	x x x
+Ross @ c:	x x x
+TOTALS:		11 13 4
+
+Mount Carmel:	r h e
+Brady @ p: 	x x x
+Brennan @ p:	x x x
+Hopkins @ c:	x x x
+TOTALS:		12 14 5
+
+line: Easton:       6 2 1 0 0 0 2 0 0 0 - 11
+line: Mount Carmel: 2 0 4 0 3 1 0 1 0 1 - 12
+
+---
+
+date: 1909-05-25
+number: 0
+league: Atlantic
+away: Reading
+home: Wilmington
+source: Wilmington News Journal, May 26, 1909
+
+Reading:	r h e
+Craig @ p:	x x x
+Kennedy @ c:	x x x
+TOTALS:		2 5 0
+
+Wilmington:	r h e
+Nichols @ p:	x x x
+Berry @ c:	x x x
+TOTALS:		1 3 1
+
+line: Reading:    1 0 0 0 0 0 1 0 0 - 2
+line: Wilmington: 0 0 0 0 0 0 0 0 1 - 1

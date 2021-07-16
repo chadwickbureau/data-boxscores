@@ -1,0 +1,132 @@
+date: 1909-05-26
+number: 0
+league: Atlantic
+away: Pottsville
+home: Elizabeth
+source: Pottsville Republican, May 27, 1909
+
+Pottsville:		ab r h po a e
+Miller, W. @ cf:	x 0 1 2 0 0
+Eustace @ 3b:	x 0 1 1 3 1
+Sweeney @ 2b:	x 0 1 0 0 0
+Evans @ rf:	x 0 0 2 1 0
+Bisland @ lf:	x 0 1 1 0 0
+Miller, A. @ c:	x 0 0 5 0 0
+Dondero @ ss:	x 0 0 3 4 0
+Miller, E. @ 1b:	x 0 0 10 0 0	
+Brennan @ p:	x 0 2 0 2 0
+TOTALS:		x 0 6 24 10 1
+
+Elizabeth:	ab r h po a e
+Sheilds @ lf:	x 1 2 3 2 1
+Murphy @ ss:	x 0 1 3 6 1
+Luyster @ cf:	x 0 2 0 0 0
+Meaney @ rf:	x 0 1 1 0 0
+Lem't @ 3b:	x 0 0 2 4 0
+Phaler @ 2b:	x 0 0 3 3 1
+Mackey @ 1b:	x 1 2 14 0 0
+Langheld @ c:	x 0 0 1 0 0
+McIntyre @ p:	x 1 1 0 4 0
+TOTALS:		x 3 9 27 13 3
+
+line: Pottsville: 0 0 0 0 0 0 0 0 0 - 0
+line: Elizabeth:  1 0 0 0 0 0 2 0 x - 3
+
+B_LOB: Elzabeth #8; Pottsville #5
+B_ROE: 
+B_ER: Elizabeth #3
+B_2B: Meaney
+B_3B: Luyster
+B_HR: 
+B_SB: Shields; W. Miller
+B_SH: Murphy; Dondero; Langheld
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: McIntyre #2; Brennan #3
+P_SO: Brennan #3
+P_H: 
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Murphy, Phaler, Mackey; Eustace, E. Miller; Shields, Phaler
+F_PB: 
+outsatend: 
+T: 
+U: Hutchinson
+
+P_GS: ~
+P_GF: ~
+P_W: ~
+P_L: ~
+P_SV: ~
+P_R: ~
+
+---
+
+date: 1909-05-26
+number: 0
+league: Atlantic
+away: Allentown
+home: Shamokin
+source: Pottsville Republican, May 27, 1909
+
+Allentown:	r h e
+Henche @ p:	x x x
+Porter @ c:	x x x
+TOTALS:		6 8 0
+
+Shamokin:	r h e
+Cramer @ p:	x x x
+Duvie @ p:	x x x
+Francisco @ c:	x x x
+TOTALS:		1 6 2
+
+line: Allentown: 2 3 0 0 0 0 1 0 0 - 6
+line: Shamokin:  0 0 0 1 0 0 0 0 0 - 1
+
+---
+
+date: 1909-05-26
+number: 0
+league: Atlantic
+away: Easton
+home: Mount Carmel
+source: Pottsville Republican, May 27, 1909
+
+Easton:		r h e
+Rogers @ p:	x x x
+Ross @ c:	x x x
+TOTALS:		13 19 2
+
+Mount Carmel:	r h e
+Carmon @ p: 	x x x
+Rohe @ p:	x x x
+Hopkins @ c:	x x x
+TOTALS:		2 7 4
+
+line: Easton:       4 0 0 1 0 3 5 0 0 - 13
+line: Mount Carmel: 0 1 0 0 0 0 1 0 0 - 2
+
+---
+
+date: 1909-05-26
+number: 0
+league: Atlantic
+away: Reading
+home: Wilmington
+source: Wilmington News Journal, May 27, 1909
+
+Reading:	r h e
+Pfeifer @ p:	x x x
+Kennedy @ c:	x x x
+TOTALS:		0 5 2
+
+Wilmington:	r h e
+Yerkes @ p:	x x x
+Berry @ c:	x x x
+TOTALS:		3 6 1
+
+line: Reading:    0 0 0 0 0 0 0 0 0 - 0
+line: Wilmington: 1 2 0 0 0 0 0 0 0 - 3

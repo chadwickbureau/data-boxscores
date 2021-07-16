@@ -1,0 +1,132 @@
+date: 1909-05-17
+number: 0
+league: Atlantic
+away: Easton 
+home: Pottsville 
+source: Pottsville Republican, May 18, 1909
+
+Easton:	ab r h po a e
+Williams @ cf:	x 1 2 2 1 0
+Pleiss @ lf:	x 1 1 1 0 1
+Betts @ 1b:	x 2 1 8 0 1
+Rogers @ rf:	x 2 2 2 0 0
+Miller, K. @ 2b:	x 0 1 5 6 0
+Allen @ c:	x 1 0 4 1 1
+McGeary @ 3b:	x 0 1 3 2 1
+Howedel @ ss:	x 1 0 5 0 1
+Kling @ p:	x 1 1 0 1 0
+TOTALS:		x 9 9 30 17 5
+
+Pottsville:		ab r h po a e
+Miller, W. @ cf:	x 2 1 3 0 0
+Eustace @ 3b:	x 0 1 2 5 0
+Sweeney @ 2b:	x 3 2 3 5 0
+Evans @ rf:	x 1 3 0 0 1
+Miller, A. @ c:	x 0 1 8 1 0
+Reilly @ ss:	x 0 0 0 4 1
+Miller, E. @ 1b:	x 0 2 14 0 1	
+(~8.1)Dugan @ lf:	x 0 0 0 0 2
+(~9.1)Brennan @ p:	x 1 1 0 6 0
+(~8.2)Sponagle @ lf:	x 0 0 0 0 0
+(~9.2)Kull @ p:	x 0 0 0 1 0
+TOTALS:		x 7 11 30 22 5
+
+line: Easton:     2 0 2 0 2 1 0 0 0 2 - 9
+line: Pottsville: 0 0 2 0 0 0 0 1 4 0 - 7
+
+B_LOB: Easton #11; Pottsville #9
+B_ROE: 
+B_ER: Easton #1; Pottsville #1
+B_2B: Sweeney #2; Evans #2; W. Miller
+B_3B: Betts; A. Miller
+B_HR: 
+B_SB: K. Miller; Pleiss #2; Sweeney; Allen; Williams
+B_SH: Pleiss; Williams #2
+B_SF: 
+B_HP: Rogers; Howedel
+B_XO: 
+P_BB: 
+P_SO: 
+P_H: 
+P_IP: ~Brennan #9; ~Kull #1
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Howedel, K. Miller, Betts
+F_PB: Allen
+outsatend: 
+T: 2:10
+U: Quigley
+
+P_GS: ~Brennan
+P_GF: ~Kull
+P_W: ~
+P_L: ~Kull
+P_SV: ~
+P_R: ~Brennan #7; ~Kull #2
+
+---
+
+date: 1909-05-17
+number: 0
+league: Atlantic
+away: Reading
+home: Shamokin 
+source: Pottsville Republican, May 18, 1909
+
+Reading:	r h e
+Porter @ p:	x x x
+Irwin @ c:	x x x
+TOTALS:		2 3 3 
+
+Shamokin:	r h e
+Peterson @ p: 	x x x
+Francisco @ c:	x x x
+TOTALS:		8 8 3
+
+line: Reading:  2 0 0 0 0 0 0 0 0 - 2
+line: Shamokin: 4 2 0 0 0 0 1 1 x - 8
+
+---
+
+date: 1909-05-17
+number: 0
+league: Atlantic
+away: Wilmington
+home: Mount Carmel 
+source: Pottsville Republican, May 18, 1909
+
+Wilmington:	r h e
+Yerkes @ p:	x x x
+Whalen @ c:	x x x
+TOTALS:		10 12 2
+
+Mount Carmel:	r h e
+Rehe @ p: 	x x x
+Hopkins @ c:	x x x
+TOTALS:		8 10 3
+
+line: Wilmington:   0 0 1 0 4 0 1 4 0 - 10
+line: Mount Carmel: 1 2 0 0 0 0 2 0 3 - 8
+
+---
+
+date: 1909-05-17
+number: 0
+league: Atlantic
+away: Allentown
+home: Elizabeth 
+source: Pottsville Republican, May 18, 1909
+
+Allentown:	r h e
+Twitmeyer @ p:	x x x
+Port @ c:	x x x
+TOTALS:		3 7 4
+
+Elizabeth:	r h e
+Wolf @ p:	x x x
+Langheld @ c:	x x x
+TOTALS:		6 6 2
+
+line: Allentown: 1 0 0 0 0 2 0 0 0 - 3
+line: Elizabeth: 0 0 0 0 1 1 0 4 x - 6
