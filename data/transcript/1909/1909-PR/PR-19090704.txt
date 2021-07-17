@@ -1,0 +1,82 @@
+date: 1909-07-04
+number: 0
+league: Atlantic
+away: Allentown
+home: Pottsville 
+source: Pottsville Republican, July 6, 1909
+note: two 1Bs for Pottsville, move Bisland to LF
+
+Allentown:	ab r h po a e
+Walsh @ 3b:	x 1 2 1 4 0
+Jacobs @ ss:	x 2 2 2 3 0
+McGeehan @ 2b:	x 1 2 2 3 0
+Brown @ cf:	x 1 1 3 0 0
+Smith @ 1b:	x 1 1 11 0 2
+Bonner @ rf:	x 1 1 3 0 0
+Brady @ lf:	x 1 0 2 0 0
+Deifer @ c:	x 1 2 4 0 0
+Edmunds @ p:	x 2 1 0 4 0
+TOTALS:		x 10 11 27 14 2
+
+Pottsville:	ab r h po a e
+Miller, W. @ cf:	x 2 4 0 0 0
+Eustace @ 3b:	x 0 3 0 0 0
+Sweeney @ 2b:	x 0 0 2 2 0
+Bisland @ lf:	x 0 0 6 0 1
+Evans @ rf:	x 0 0 2 0 1
+Miller, A. @ c:	x 0 0 4 2 0 
+Dondero @ ss:	x 0 0 4 6 0
+Weeden @ 1b:	x 2 1 9 1 0	
+Kull @ p:	x 0 0 0 1 0 
+Hartman @ p:	x 0 0 0 0 0
+TOTALS:		x 4 8 27 12 2
+
+line: Allentown:  1 0 0 7 2 0 0 0 0 - 10
+line: Pottsville: 0 0 2 0 1 0 1 0 0 - 4
+
+B_2B: Eustace #2; McGeehan; W. Miller
+B_SB: W. Miller; Deifer; McGeehan
+P_BB: Kull #5; Hartman #1; Edmunds #2
+P_SO: Kull #3; Hartman #2; Edmunds #3
+F_DP: McGeehan, Jacobs, Smith
+U: Watts
+
+P_GS: ~Kull
+P_GF: ~Hartman
+P_L: ~Kull
+
+---
+
+date: 1909-07-04
+number: 0
+league: Atlantic
+away: Sunbury
+home: Mount Carmel 
+source: Pottsville Republican, July 6, 1909
+
+line: Sunbury:      x x x x x x x x x - 2
+line: Mount Carmel: x x x x x x x x x - 10
+
+---
+
+date: 1909-07-04
+number: 0
+league: Atlantic
+away: Easton
+home: Elizabeth
+source: Pottsville Republican, July 6, 1909
+
+line: Easton:    x x x x x x x x x - 8
+line: Elizabeth: x x x x x x x x x - 5
+
+---
+
+date: 1909-07-04
+number: 0
+league: Atlantic
+away: Shamokin
+home: Reading
+source: Pottsville Republican, July 6, 1909
+
+line: Shamokin: x x x x x x x x x - 10
+line: Reading:  x x x x x x x x x - 1

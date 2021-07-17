@@ -1,0 +1,90 @@
+date: 1909-07-03
+number: 0
+league: Atlantic
+away: Pottsville 
+home: Allentown
+source: Pottsville Republican, July 6, 1909
+note: no LF listed in Allentown box, added Brady
+
+Pottsville:	ab r h po a e
+Dondero @ ss:	x 1 1 1 4 0
+Eustace @ 3b:	x 0 0 0 3 0
+Sweeney @ 2b:	x 0 0 2 4 0
+Bisland @ 1b:	x 1 1 15 1 0
+Evans @ rf:	x 2 4 2 0 0
+Miller, A. @ cf:	x 2 0 1 0 0 
+Weeden @ c:	x 0 2 6 1 0	
+Glaze @ p:	x 0 0 0 2 0
+Kull @ lf:	x 0 0 0 0 0
+TOTALS:		x 6 8 27 15 0
+
+Allentown:	ab r h po a e
+Walsh @ 3b:	x 0 0 3 2 2 
+Jacobs @ ss:	x 0 0 3 2 0
+Moly @ 2b:	x 0 1 3 2 0
+Brown @ cf:	x 1 0 2 0 0
+Smith @ 1b:	x 1 1 7 1 2
+Bonner @ rf:	x 2 2 2 0 0
+Brady @ lf:	x 1 1 1 0 1
+Deifer @ c:	x 0 0 6 3 0
+Strauss @ p:	x 0 1 0 2 1
+TOTALS:		x 5 6 27 12 6
+
+line: Pottsville: 0 0 0 1 2 0 3 0 0 - 6
+line: Allentown:  0 0 0 0 0 0 4 1 0 - 5
+
+B_2B: Dondero; Brady; Bonner
+B_SB: Evans; Brady
+P_BB: Strauss #1; Glaze #2
+P_SO: Strauss #6; Glaze #4
+U: Twitmire
+
+---
+
+date: 1909-07-03
+number: 1
+league: Atlantic
+away: Easton
+home: Elizabeth
+source: Pottsville Republican, July 6, 1909
+
+line: Easton:    x x x x x x x x x - 1
+line: Elizabeth: x x x x x x x x x - 4
+
+---
+
+date: 1909-07-03
+number: 2
+league: Atlantic
+away: Easton
+home: Elizabeth
+source: Pottsville Republican, July 6, 1909
+
+
+line: Easton:    x x x x x x x x x - 6
+line: Elizabeth: x x x x x x x x x - 13
+
+---
+
+date: 1909-07-03
+number: 0
+league: Atlantic
+away: Mount Carmel
+home: Sunbury
+source: Pottsville Republican, July 6, 1909
+
+line: Mount Carmel: x x x x x x x x x - 7
+line: Sunbury:      x x x x x x x x x - 3
+
+---
+
+date: 1909-07-03
+number: 0
+league: Atlantic
+away: Shamokin
+home: Reading
+source: Pottsville Republican, July 6, 1909
+
+line: Shamokin: 0 0 0 0 0 0 0 0 0 - 0
+line: Reading:  x x x x x x x x x - 2
+

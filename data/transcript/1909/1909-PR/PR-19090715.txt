@@ -1,0 +1,94 @@
+date: 1909-07-15
+number: 0
+league: Atlantic
+away: Pottsville
+home: Allentown 
+source: Pottsville Republican, July 16, 1909
+status: game ended early
+note: game transferred from Allentown to Lansford, PA
+
+Pottsville:	ab r h po a e
+Dondero @ ss:	x 1 1 1 4 1
+Eustace @ 3b:	x 1 1 3 0 0 
+Sweeney @ 2b:	x 0 2 2 3 0
+Bisland @ 1b:	x 1 1 10 0 0
+Evans @ rf:	x 1 1 0 0 0
+Miller, A @ lf:	x 0 0 3 0 0
+Ross @ c:	x 0 1 3 0 0
+Glaze @ cf:	x 0 1 1 0 0
+Kull @ p:	x 0 1 1 1 0
+TOTALS:		x 4 9 24 8 1
+
+Allentown:	ab r h po a e
+Murphy @ ss:	x 1 0 3 3 1
+Brady @ lf:	x 0 1 1 0 0 
+McGeehan @ 2b:	x 0 2 5 2 1
+Brown @ cf:	x 0 0 1 0 0
+Smith @ 1b:	x 1 0 5 1 1 
+Bonner @ rf:	x 0 0 3 0 0
+Otto @ 3b:	x 0 2 1 1 1
+Diefer @ c:	x 0 0 4 1 1
+Strauss @ p:	x 0 0 0 1 0
+TOTALS:		x 2 5 23 9 5
+
+line: Pottsville: 0 2 0 2 0 0 0 0 - 4
+line: Allentown:  1 0 0 0 0 1 0 0 - 2
+
+B_LOB: Allentown #6; Pottsville #9
+B_ER: Pottsville #2
+B_2B: Evans
+B_3B: Glaze
+B_SB: Dondero; Bisland
+B_SH: Brown
+B_HP: Murphy; Eustace
+P_BB: Kull #2; Strauss #3
+P_SO: Kull #3; Strauss #2
+P_HP: Kull; Strauss
+P_WP: Strauss; Kull
+F_DP: Murphy, McGeehan, Smith
+T: 1:20
+U: Mackey
+
+---
+
+date: 1909-07-15
+number: 0
+league: Atlantic
+away: Shamokin
+home: Reading
+source: Pottsville Republican, July 16, 1909
+
+Shamokin:	r h e
+Devine @ p:	x x x
+Francisco @ c:	x x x
+TOTALS:		3 8 0
+
+Reading:	r h e
+Craig @ p:	x x x
+Kennedy @ c: 	x x x
+TOTALS:		0 3 4
+
+line: Shamokin: 0 3 0 0 0 0 0 0 0 - 3
+line: Reading:  0 0 0 0 0 0 0 0 0 - 0
+
+---
+
+date: 1909-07-15
+number: 0
+league: Atlantic
+away: Sunbury
+home: Mount Carmel
+source: Pottsville Republican, July 16, 1909
+
+Sunbury:	r h e
+Nichols @ p:	x x x
+Doran @ c:	x x x
+TOTALS:		3 8 4
+
+Mount Carmel:	r h e
+Rohe @ p:	x x x
+Hopkins @ c:	x x x
+TOTALS:		11 13 2
+
+line: Sunbury:      0 0 0 2 0 0 0 1 0 - 3
+line: Mount Carmel: 2 3 0 5 1 0 0 0 x - 11

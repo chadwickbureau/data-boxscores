@@ -1,0 +1,110 @@
+date: 1909-07-11
+number: 0
+league: Atlantic
+away: Reading  
+home: Pottsville
+source: Pottsville Republican, July 12, 1909
+
+Reading:	ab r h po a e
+Kane @ 2b:	x 0 0 4 3 0
+Klett @ rf:	x 0 0 0 0 0
+Bertwistle @ cf:	x 1 1 0 0 0
+Pickel @ 3b:	x 0 0 2 3 0
+Bowers @ 1b:	x 0 2 11 0 0
+Biehl @ lf:	x 0 1 2 1 0
+Durlin @ c:	x 0 0 4 2 2	
+Johnson @ ss:	x 0 0 1 0 0
+Whitmeyer @ p:	x 0 1 0 2 0
+TOTALS:		x 1 5 24 11 2
+
+Pottsville:		ab r h po a e
+Miller, W. @ cf:	x 0 1 2 0 0
+Eustace @ 3b:	x 1 2 1 1 0
+Sweeney @ 2b:	x 0 2 1 4 1
+Bisland @ 1b:	x 0 0 11 0 0
+Evans @ rf:	x 1 1 1 0 1
+Dondero @ ss:	x 0 0 2 6 0
+Hartman @ lf:	x 0 1 1 0 0
+Ross @ c:	x 0 1 8 0 0
+Baldwin @ p:	x 0 0 0 2 0
+TOTALS:		x 2 8 27 13 2
+
+line: Reading:    0 0 0 0 0 0 0 0 1 - 1
+line: Pottsville: 0 0 1 1 0 0 0 0 x - 2
+
+B_LOB: Reading #5; Pottsville #2
+B_ER: Reading #1
+B_2B: Bertwistle; Sweeney
+B_SB: Eustace #2; Pickel; Evans
+B_SH: Sweeney; Dondero
+P_BB: Whitmeyer #3
+P_SO: Whitmeyer #4; Baldwin #7
+U: Mackey
+
+---
+
+date: 1909-07-11
+number: 0
+league: Atlantic
+away: Easton
+home: Shamokin 
+source: Pottsville Republican, July 12, 1909
+
+Easton:		r h e
+Mehling @ p:	x x x
+Reitmeyer @ c:	x x x
+TOTALS:		2 5 3
+
+Shamokin:	r h e
+Duvie @ p:	x x x
+Francisco @ c:	x x x
+TOTALS:		4 9 1
+
+line: Easton:   0 0 0 1 0 0 1 0 0 - 2
+line: Shamokin: 1 3 0 0 0 0 0 0 x - 4
+
+---
+
+date: 1909-07-11
+number: 0
+league: Atlantic
+away: Allentown
+home: Mount Carmel
+source: Pottsville Republican, July 12, 1909
+
+Allentown:	r h e
+Philips @ p:	x x x
+Pelequin @ p:	x x x
+Porte @ c:	x x x
+TOTALS:		6 10 4
+
+Mount Carmel:	r h e
+Charles @ p:	x x x
+Hopkins @ c:	x x x
+TOTALS:		7 12 3
+
+line: Allentown:    0 0 0 1 1 1 0 2 1 - 6
+line: Mount Carmel: 3 0 1 0 0 1 0 2 x - 7
+
+---
+
+date: 1909-07-11
+number: 0
+league: Atlantic
+away: Sunbury
+home: Elizabeth
+source: Pottsville Republican, July 12, 1909
+
+Sunbury:	r h e
+Jackson @ p:	x x x
+Sheesley @ p:	x x x
+Duprey @ c:	x x x
+TOTALS:		1 5 1
+
+Elizabeth:	r h e
+Bennett @ p:	x x x
+Kelley @ c:	x x x
+TOTALS:		6 9 1
+
+line: Sunbury:   0 0 0 0 0 0 0 0 1 - 1
+line: Elizabeth: 2 1 1 0 0 2 0 0 x - 6

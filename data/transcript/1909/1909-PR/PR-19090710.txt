@@ -1,0 +1,113 @@
+date: 1909-07-10
+number: 0
+league: Atlantic
+away: Pottsville  
+home: Sunbury
+source: Pottsville Republican, July 12, 1909
+status: game ended early
+
+Pottsville:		ab r h po a e
+Miller, W. @ cf:	x 1 1 2 0 0
+Eustace @ 3b:	x 0 2 2 4 1
+Sweeney @ 2b:	x 0 1 2 1 0
+Bisland @ 1b:	x 0 0 4 0 0
+Miller, A. @ lf:	x 0 0 1 0 0
+Dondero @ ss:	x 0 1 3 0 1
+Ross @ lf:	x 0 0 5 1 0
+Glaze @ rf:	x 0 0 2 1 0
+Hartman @ p:	x 0 0 0 2 0
+TOTALS:		x 1 5 21 9 2
+
+Sunbury:	ab r h po a e
+Dustin @ ss:	x 1 2 1 4 0
+Jones @ 2b:	x 1 0 1 2 0
+McDowell @ cf:	x 1 1 4 0 0
+Nipple @ 1b:	x 0 0 9 0 0
+Coyle @ lf:	x 1 3 2 0 0
+Fitzmaurice @ rf:	x 2 1 1 0 0	
+Fulmer @ 3b:	x 1 1 3 2 0 	
+Duprey @ c:	x 0 2 2 1 0
+Sheesley @ p:	x 0 0 0 1 0
+TOTALS:		x 7 10 23 10 0
+
+line: Pottsville: 0 0 1 0 0 0 0 0 - 1
+line: Sunbury:    1 0 0 0 1 1 4 x - 7
+
+B_2B: Duprey; W. Miller
+P_BB: Sheesley #2; Hartman #4
+P_SO: Sheesley #2; Hartman #3
+U: Fertsch
+
+---
+
+date: 1909-07-10
+number: 0
+league: Atlantic
+away: Shamokin
+home: Easton
+source: Pottsville Republican, July 12, 1909
+
+Shamokin:	r h e
+Peterson @ p:	x x x
+Francisco @ c:	x x x
+TOTALS:		4 10 2
+
+Easton:		r h e
+Monroe @ p:	x x x
+Rutmyer @ c:	x x x
+TOTALS:		3 6 4
+
+line: Shamokin: 0 0 4 0 0 0 0 0 0 - 4
+line: Easton:   0 0 0 0 0 0 0 3 0 - 3
+
+U: Watts
+
+---
+
+date: 1909-07-10
+number: 0
+league: Atlantic
+away: Elizabeth
+home: Allentown
+source: Pottsville Republican, July 12, 1909
+
+Elizabeth:	r h e
+McIntyre @ p:	x x x
+Kelly @ c:	x x x
+TOTALS:		6 10 2
+
+Allentown:	r h e
+Strauss @ p:	x x x
+Philips @ p:	x x x
+Parce @ c:	x x x
+TOTALS:		4 7 3
+
+line: Elizabeth: 2 2 0 0 0 0 0 2 0 - 6
+line: Allentown: 3 0 0 0 0 0 1 0 0 - 4
+
+U: Mackey
+
+---
+
+date: 1909-07-10
+number: 0
+league: Atlantic
+away: Mount Carmel
+home: Reading
+source: Pottsville Republican, July 12, 1909
+
+Mount Carmel:	r h e
+Bush @ p:	x x x
+Hopkins @ c:	x x x
+TOTALS:		4 8 1
+
+Reading:	r h e
+Craig @ p:	x x x
+Kennedy @ c:	x x x
+TOTALS:		0 5 2
+
+line: Mount Carmel: 1 0 0 0 0 2 0 0 0 - 4
+line: Reading:      0 0 0 0 0 0 0 0 0 - 0
+
+U: Boyle
+

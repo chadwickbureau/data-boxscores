@@ -1,0 +1,109 @@
+date: 1909-07-09
+number: 0
+league: Atlantic
+away: Pottsville  
+home: Sunbury
+source: Pottsville Republican, July 10, 1909
+
+Pottsville:		ab r h po a e
+Miller, W. @ cf:	x 2 2 5 0 0
+Eustace @ 3b:	x 2 2 2 2 1
+Sweeney @ 2b:	x 0 0 1 2 1
+Bisland @ 1b:	x 1 2 8 0 2
+Evans @ rf:	x 1 1 1 0 0
+Miller, A. @ c:	x 1 1 5 2 2
+Dondero @ ss:	x 1 0 4 1 1
+Ross @ lf:	x 1 2 1 0 0
+Kull @ p:	x 0 1 0 5 0
+TOTALS:		x 9 11 27 12 7
+
+Sunbury:	ab r h po a e
+Dustin @ ss:	x 1 0 2 2 2
+Jones @ 2b:	x 1 1 0 0 0
+McDowell @ cf:	x 3 2 1 0 0
+Nipple @ 1b:	x 0 3 11 0 0
+Coyle @ lf:	x 0 1 1 0 1
+Fitzmaurice @ rf:	x 1 2 2 0 0	
+Fulmer @ 3b:	x 1 0 2 2 2 	
+Wilson @ c:	x 0 0 8 2 0
+Nichols @ p:	x 1 0 0 2 0
+TOTALS:		x 8 9 27 8 5
+
+line: Pottsville: 0 4 1 0 1 2 0 0 1 - 9
+line: Sunbury:    2 0 0 4 1 0 0 0 1 - 8
+
+B_2B: W. Miller; Ross; Coyle
+B_3B: Bisland
+P_BB: Nichols #2; Kull #3
+P_SO: Nichols #6; Kull #4
+F_DP: Dondero, Sweeney, Bisland
+U: Fertsch
+
+---
+
+date: 1909-07-09
+number: 0
+league: Atlantic
+away: Elizabeth
+home: Allentown
+source: Pottsville Republican, July 10, 1909
+
+Elizabeth:	r h e
+Lambrecht @ p:	x x x
+Meany @ p:	x x x
+Kelly @ c:	x x x
+TOTALS:		7 11 3
+
+Allentown:	r h e
+Twitmire @ p:	x x x
+Porte @ c:	x x x
+TOTALS:		9 10 2
+
+line: Elizabeth: 1 0 0 0 0 6 0 0 0 - 7
+line: Allentown: 0 2 4 0 3 0 0 0 x - 9
+
+---
+
+date: 1909-07-09
+number: 0
+league: Atlantic
+away: Shamokin
+home: Easton
+source: Pottsville Republican, July 10, 1909
+
+Shamokin:	r h e
+Welf @ p:	x x x
+Epler @ p:	x x x
+Francisco @ c:	x x x
+TOTALS:		6 10 2
+
+Easton:		r h e
+Deats @ p:	x x x
+Monroe @ p:	x x x
+Reitmeyer @ c:	x x x
+TOTALS:		12 13 3
+
+line: Shamokin: 0 0 2 0 0 0 1 3 0 - 6
+line: Easton:   5 1 2 3 0 0 0 1 x - 12
+
+---
+
+date: 1909-07-09
+number: 0
+league: Atlantic
+away: Mount Carmel
+home: Reading
+source: Pottsville Republican, July 10, 1909
+
+Mount Carmel:	r h e
+Rowe @ p:	x x x
+Hopkins @ c:	x x x
+TOTALS:		2 6 5
+
+Reading:	r h e
+Biehl @ p:	x x x
+Durlin @ c:	x x x
+TOTALS:		7 7 0
+
+line: Mount Carmel: 0 0 0 1 0 0 0 0 1 - 2
+line: Reading:      1 0 2 0 3 0 1 0 x - 7

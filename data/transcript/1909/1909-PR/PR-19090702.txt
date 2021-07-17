@@ -1,0 +1,115 @@
+date: 1909-07-02
+number: 0
+league: Atlantic
+away: Pottsville 
+home: Allentown
+source: Pottsville Republican, July 3, 1909
+
+Pottsville:	ab r h po a e
+Miller, W. @ cf:	x 0 1 3 0 0	
+Eustace @ 3b:	x 0 1 1 3 0
+Sweeney @ 2b:	x 2 2 4 1 0
+Bisland @ 1b:	x 1 2 15 1 0
+Evans @ rf:	x 0 0 0 0 0
+Miller, A. @ lf:	x 0 0 1 0 0 
+Dondero @ ss:	x 1 0 2 4 0
+Weeden @ c:	x 1 1 4 2 0	
+Hartman @ p:	x 0 0 0 4 2
+TOTALS:		x 5 7 30 15 2
+
+Allentown:	ab r h po a e
+Walsh @ 3b:	x 0 1 0 2 0
+Jacobs @ ss:	x 0 2 1 6 0
+McGeehan @ 2b:	x 1 1 4 6 1
+Brown @ cf:	x 2 2 2 0 1
+Smith @ 1b:	x 0 0 17 0 0
+Bonner @ rf:	x 1 0 0 0 0
+Brady @ lf:	x 1 2 3 1 0
+Deifer @ c:	x 1 0 5 0 0
+Strauss @ p:	x 0 0 0 0 0
+Phillips @ p:	x 0 1 0 0 0
+TOTALS:		x 6 9 32 15 2
+
+line: Pottsville: 1 0 0 0 0 0 1 2 1 0 0 - 5
+line: Allentown:  0 0 1 0 1 2 0 1 0 0 1 - 6
+
+B_2B: Bisland; W. Miller
+B_3B: Brady
+B_HR: Brady
+B_SB: Dondero; Weeden
+B_XO: Hartman, bunted third strike
+P_BB: Phillips #5; Hartman #2
+P_SO: Phillips #1; Hartman #4; Strauss #3
+F_DP: Jacobs, McGeehan
+U: Conger
+
+P_GS: ~Strauss
+P_GF: ~Phillips
+P_W: ~Phillips
+
+---
+
+date: 1909-07-02
+number: 0
+league: Atlantic
+away: Reading
+home: Mount Carmel
+source: Pottsville Republican, July 3, 1909
+
+Reading:	r h e
+Twitmeyer @ p:	x x x
+Cobean @ p:	x x x
+Durlin @ c:	x x x
+TOTALS:		6 12 4
+
+Mount Carmel:	r h e
+Charles @ p:	x x x
+Hopkins @ c:	x x x
+TOTALS:		7 8 7
+
+line: Reading:      1 0 1 0 3 0 0 0 1 - 6
+line: Mount Carmel: 1 0 0 2 0 0 3 0 1 - 7
+
+---
+
+date: 1909-07-02
+number: 0
+league: Atlantic
+away: Shamokin
+home: Sunbury
+source: Pottsville Republican, July 3, 1909
+
+Shamokin:	r h e
+Emerson @ p:	x x x
+Francisco @ c:	x x x
+TOTALS:		8 9 5
+
+Sunbury:	r h e
+Bennet @ p:	x x x
+Wilson @ c:	x x x
+TOTALS:		4 7 3
+
+line: Shamokin: 1 1 0 0 0 1 0 1 4 - 8
+line: Sunbury:  0 0 0 2 2 0 0 0 0 - 4
+
+---
+
+date: 1909-07-02
+number: 0
+league: Atlantic
+away: Easton
+home: Elizabeth
+source: Pottsville Republican, July 3, 1909
+
+Easton:		r h e
+Kane @ p:	x x x
+Reitmyer @ c:	x x x
+TOTALS:		4 6 0
+
+Elizabeth:	r h e
+Hayes @ p:	x x x
+Potter @ c:	x x x
+TOTALS:		5 11 4
+
+line: Easton:    0 0 0 0 2 0 0 1 1 0 0 - 4
+line: Elizabeth: 1 3 0 0 0 0 0 0 0 0 1 - 5

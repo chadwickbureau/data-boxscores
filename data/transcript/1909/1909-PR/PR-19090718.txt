@@ -1,0 +1,119 @@
+date: 1909-07-18
+number: 1
+league: Atlantic
+away: Allentown 
+home: Pottsville 
+source: Pottsville Republican, July 19, 1909
+
+Allentown:	ab r h po a e
+Murphy @ ss:	x 0 0 1 3 1
+Brady @ lf:	x 0 1 2 1 0 
+McGeehan @ 2b:	x 1 1 4 6 0
+Brown @ cf:	x 1 1 1 0 0
+Smith @ 1b:	x 1 1 11 0 0 
+Bonner @ rf:	x 1 3 2 0 1 
+Otto @ 3b:	x 1 1 1 1 1 
+Diefer @ c:	x 1 3 5 0 0
+Strauss @ p:	x 0 0 0 4 0
+TOTALS:		x 6 11 27 15 3
+
+Pottsville:	ab r h po a e
+Miller, W. @ cf:	x 1 2 3 0 1
+Eustace @ 3b:	x 0 1 0 3 0
+Sweeney @ 2b:	x 2 3 2 3 0
+Bisland @ 1b:	x 1 1 15 0 0
+Evans @ rf:	x 1 1 1 0 0 
+Miller, A @ c:	x 0 0 3 2 0
+Dondero @ ss:	x 0 1 1 5 1
+Hartman @ lf:	x 0 0 1 0 0
+Glaze @ p:	x 0 2 0 2 0
+TOTALS:		x 5 11 26 15 2
+
+line: Allentown:  0 0 0 2 0 4 0 0 0 - 6
+line: Pottsville: 3 0 0 0 0 0 0 2 0 - 5
+
+B_ER: Allentown #2; Pottsville #1
+B_2B: Smith; Strauss; A. Miller
+B_HR: Sweeney
+B_SB: Diefer; Bonner
+B_XO: Strauss, bunted third strike
+P_SO: Strauss #4; Glaze #4
+P_WP: Strauss
+T: 2:30
+U: Mackey
+
+---
+
+date: 1909-07-18
+number: 2
+league: Atlantic
+away: Allentown 
+home: Pottsville 
+source: Pottsville Republican, July 19, 1909
+status: game ended early, by agreement
+
+Allentown:	ab r h po a e
+Murphy @ ss:	x 0 0 2 2 1
+Brady @ lf:	x 0 0 0 0 0 
+McGeehan @ 2b:	x 0 0 3 0 0
+Brown @ cf:	x 0 0 1 0 0
+Smith @ 1b:	x 0 0 5 0 0 
+Bonner @ rf:	x 0 0 1 0 0 
+Otto @ 3b:	x 0 0 1 1 2
+Diefer @ c:	x 0 1 5 0 0
+Strauss @ p:	x 0 1 0 4 0
+TOTALS:		x 0 2 18 7 3
+
+Pottsville:	ab r h po a e
+Miller, W. @ cf:	x 0 2 0 0 0
+Eustace @ 3b:	x 0 0 0 1 0
+Sweeney @ 2b:	x 0 0 1 2 0
+Bisland @ 1b:	x 0 0 10 1 0
+Evans @ rf:	x 0 0 0 0 0 
+Miller, A @ c:	x 0 1 6 0 0
+Dondero @ ss:	x 0 2 3 0 1
+Hartman @ lf:	x 0 0 1 0 0
+Kull @ p:	x 1 2 0 4 0
+TOTALS:		x 1 7 21 8 1
+
+line: Allentown:  0 0 0 0 0 0 0 - 0
+line: Pottsville: 0 0 0 0 0 0 1 - 1
+
+B_LOB: Allentown #6; Pottsville #9
+B_2B: A. Miller; W. Miller
+B_SB: Otto; Diefer
+B_SH: Brady; Eustace; Smith; Strauss; W. Miller
+B_HP: Murphy
+P_BB: Strauss #5; Kull #6
+P_HP: Kull
+P_WP: Strauss
+F_PB: A. Miller
+T: 1:15
+U: Mackey
+
+---
+
+date: 1909-07-18
+number: 0
+league: Atlantic
+away: Sunbury 
+home: Shamokin
+source: Pottsville Republican, July 19, 1909
+
+Sunbury:	r h e
+Wilson @ p:	x x x
+Treese @ p:	x x x
+Garner @ c:	x x x
+TOTALS:		6 13 3
+
+Shamokin:	r h e
+Duvie @ p:	x x x
+Wolf @ p:	x x x
+Francisco @ c:	x x x
+Reitmeyer @ c:	x x x
+TOTALS:		3 10 2
+
+line: Sunbury:  0 0 0 0 0 0 0 0 3 3 - 6
+line: Shamokin: 0 0 1 1 0 0 1 0 0 0 - 3
+
+U: Fertsch
