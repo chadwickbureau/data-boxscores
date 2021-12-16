@@ -1,0 +1,481 @@
+date: 1915-08-08
+number: 1
+league: Texas
+away: Dallas
+home: Houston
+source: Dallas Morning News, August 9, 1915
+
+Dallas:		ab r h po a e
+Kellerman @ 2b:	3 2 1 6 3 0
+Snedecor @ 1b:	4 1 1 7 1 0
+Harrison @ lf:	4 0 0 0 0 0
+Tullos @ 3b:	4 1 3 3 1 0
+Crouch @ rf:	4 0 1 1 0 0
+Brownlow @ ss:	4 0 0 1 3 0
+Storch @ cf:	4 0 1 5 1 0
+Dunn @ c:	4 0 0 4 3 0
+Brady @ p:	2 0 0 0 1 0	
+TOTALS:		33 4 7 27 13 0
+
+Houston:	ab r h po a e
+Mowry @ lf:	2 0 1 3 0 1
+Seitz @ 2b:	4 0 1 1 2 0
+Frierson @ cf:	3 0 1 2 0 0
+McDonald @ 3b:	3 0 0 2 3 0
+Newnam @ 1b:	4 0 0 14 2 0
+Shaw @ rf:	4 1 1 0 0 0
+Durkin @ ss:	4 0 1 1 3 0
+Clarke @ c:	4 1 2 1 3 0
+Ware @ p:	3 0 1 3 4 0
+*Allen @ ph:	1 1 1 0 0 0
+TOTALS:		32 3 9 27 17 1
+
+*: batted for Ware in 9th
+
+line: Dallas:  2 0 2 0 0 0 0 0 0 - 4
+line: Houston: 0 0 0 2 0 0 0 0 1 - 3
+
+B_LOB: Houston #8; Dallas #4
+B_2B: Crouch; Shaw; Mowry
+B_3B: Tullos; Allen
+B_SB: Tullos
+B_SH: Seitz
+B_SF: Mowry
+P_BB: Ware #1; Brady #5
+P_SO: Ware #2; Brady #3
+P_HP: Brady; Ware
+F_DP: Ware, Newnam; Brady, Dunn, Snedecor
+T: 1:50
+U: Hayes
+
+---
+
+date: 1915-08-08
+number: 2
+league: Texas
+away: Dallas
+home: Houston
+source: Dallas Morning News, August 9, 1915
+note: no note in boxscore on who Clarke pinch hit for, assume Edmondson in 9th
+
+Dallas:		ab r h po a e
+Kellerman @ 2b:	4 0 1 1 2 0
+Snedecor @ 1b:	4 1 1 7 0 1
+Harrison @ lf:	4 0 1 2 0 0
+Tullos @ 3b:	4 0 1 2 1 0
+Crouch @ rf:	4 1 0 2 1 0
+Brownlow @ ss:	4 0 1 2 2 1
+Storch @ cf:	4 0 1 3 0 1
+Stephens @ c:	3 0 1 8 1 0
+Renfer @ p:	3 0 0 0 1 0	
+TOTALS:		34 2 7 27 8 3
+
+Houston:	ab r h po a e
+Mowry @ lf:	3 0 0 4 1 0
+Seitz @ 2b:	4 0 2 1 2 0
+Frierson @ cf:	4 0 0 2 0 1
+McDonald @ 3b:	3 0 1 1 2 0
+Newnam @ 1b:	2 0 0 6 0 0
+Shaw @ rf:	4 0 1 3 0 0
+Durkin @ ss:	3 0 0 2 1 2
+Allen @ c:	3 0 0 8 1 0
+Edmondson @ p:	3 1 0 0 3 0
+Clarke @ ph:	1 0 0 0 0 0
+TOTALS:		30 1 4 27 10 3
+
+line: Dallas:  1 0 0 0 0 0 0 0 1 - 2
+line: Houston: 0 0 1 0 0 0 0 0 0 - 1
+
+B_LOB: Houston #6; Dallas #5
+B_2B: McDonald
+B_3B: Harrison
+B_SB: Shaw; Storch
+B_SH: Newnam
+P_BB: Renfer #3; Edmondson #1
+P_SO: Renfer #6; Edmondson #7
+F_DP: Mowry, Allen; Brownlow, Snedecor
+T: 2:04
+U: Hayes
+
+---
+
+date: 1915-08-08
+number: 0
+league: Texas
+away: Fort Worth
+home: Galveston
+source: Dallas Morning News, August 9, 1915
+
+Fort Worth:	ab r h po a e
+Stow @ ss:	4 0 1 7 2 0
+Hille @ 3b:	4 0 1 0 2 0
+Harper @ cf:	4 1 1 2 0 0
+Hunter @ 1b:	4 0 0 10 0 0
+Atz @ 2b:	4 0 0 2 2 0
+Lee @ lf:	3 1 2 0 0 0		
+McIver @ rf:	3 0 1 0 0 0
+Jordan @ c:	3 0 0 6 4 0
+Kerr @ p:	3 0 0 0 1 0
+TOTALS:		32 2 6 27 11 0
+
+Galveston:	ab r h po a e
+Madden @ lf:	2 0 1 3 0 0
+Sentell @ 2b:	4 0 1 2 2 0
+Smith @ ss:	4 0 0 1 0 0
+Elwert @ 3b:	4 0 0 0 7 0	
+Baerwald @ rf:	2 1 0 2 0 0	
+Tarleton @ 1b:	3 0 0 12 1 0
+Johnson @ cf:	2 0 0 1 0 0
+Wilson @ c:	3 0 1 6 1 0
+Allen @ p:	3 0 0 0 2 0	
+TOTALS:		27 1 3 27 13 0
+
+line: Fort Worth: 0 1 0 0 0 0 0 0 1 - 2
+line: Galveston:  0 1 0 0 0 0 0 0 0 - 1
+
+B_LOB: Galveston #3; Fort Worth #3
+B_2B: Lee; McIver; Sentell
+B_HR: Harper
+B_HP: Baerwald; Johnson
+P_BB: Kerr #2
+P_SO: Allen #4; Kerr #6
+P_HP: Kerr #2
+T: 1:40
+U: McCafferty
+
+---
+
+date: 1915-08-08
+number: 0
+league: Texas
+away: Waco
+home: San Antonio
+source: Dallas Morning News, August 9, 1915
+
+Waco:		ab r h po a e
+(~1.1)Tanner @ ss:	2 0 1 0 1 0	
+Coyle @ cf:	5 2 2 3 0 0
+Crichlow @ lf:	3 0 0 0 0 0
+James @ rf:	4 1 2 0 1 0 
+Reilly @ c:	3 0 1 4 0 0
+Conwell @ 2b-ss:	3 0 0 1 3 0	
+Wohlleben @ 1b:	4 0 0 13 0 0
+Grubb @ 3b:	4 0 1 3 6 1
+Ogle @ p:	3 0 0 3 2 0
+(~1.2)Malmquist @ 2b:	3 0 1 0 3 0
+TOTALS:		34 3 8 27 16 1
+
+San Antonio:	ab r h po a e
+Baggan @ lf:	4 0 0 4 0 0
+Handiboe @ cf:	4 0 0 2 0 0
+Dunckel @ 1b:	4 1 1 12 0 0
+Love @ 2b:	4 1 1 0 4 0
+Odell @ 3b:	3 0 1 1 1 2
+(~6.1)Meek @ c:	4 0 2 6 0 0 	
+Balenti @ ss:	4 0 2 1 3 0
+Harber @ rf:	2 0 0 1 0 0
+(~9.1)Ponder @ p:	2 0 0 0 5 0
+(~9.2)*Burch @ ph:	1 0 0 0 0 0	
+(~6.2)+Mullins @ ph:	0 0 0 0 0 0	
+(~9.3)Harding @ p:	0 0 0 0 0 0	
+TOTALS:		32 2 7 27 13 2
+
+*: batted for Ponder in 8th
++: ran for Meek in 9th
+
+line: Waco:        1 0 0 0 0 0 0 2 0 - 3
+line: San Antonio: 0 0 0 1 0 0 0 0 1 - 2
+
+B_LOB: San Antonio #5; Waco #8
+B_2B: Tanner; Malmquist; Meek
+B_3B: Grubb; Love
+B_HR: Dunckel
+B_SB: Tanner; Coyle; Harber; Reilly #2
+B_SH: Ogle; Crichlow; Conwell
+B_HP: Odell
+P_BB: Ogle #1; Ponder #1
+P_SO: Ponder #5; Ogle #1; Harding #1
+P_H: Ponder #7; Harding #1
+P_IP: Ponder #8; Harding #1
+P_HP: Ogle
+F_DP: Malmquist, Conwell, Wohlleben; Ogle, Wohlleben
+T: 1:50
+U: Moran
+
+P_GS: ~Ponder
+P_GF: ~Harding
+P_L: ~Ponder
+P_R: Ponder #3
+
+---
+
+date: 1915-08-08
+number: 0
+league: Texas
+away: Shreveport
+home: Beaumont
+source: Dallas Morning News, August 9, 1915
+
+Shreveport:	ab r h po a e
+Murphy @ cf:	4 1 1 0 0 0
+Smith @ c:	5 1 1 2 0 0
+Schrader @ 1b:	5 2 2 16 1 0
+Barr @ lf:	3 2 1 3 0 0
+Knaupp @ 2b:	5 0 1 4 4 0
+Becker @ rf:	3 1 1 1 0 0
+Carroll @ 3b:	3 0 0 0 2 0
+Kneaves @ ss:	4 1 1 1 8 0
+McLeod @ p:	4 0 0 0 3 0
+TOTALS:		36 8 8 27 18 0
+
+Beaumont:	ab r h po a e
+Clark @ lf:	4 0 1 0 0 0
+Nixon @ cf:	4 0 0 1 0 1
+Howard @ rf:	4 0 0 0 0 0
+Dodd @ 2b:	4 0 0 4 4 2
+Cooke @ 1b:	3 0 3 11 0 0
+Schwind @ ss:	3 0 1 0 4 0
+McMahon @ 3b:	3 0 0 2 1 0
+Bobo @ c:	2 0 1 9 1 0
+Veasey @ p:	1 0 0 0 0 0
+Brant @ p:	0 0 0 0 0 0
+Swan @ p:	0 0 0 0 0 0
+Frantz @ p:	2 0 0 0 1 1
+TOTALS:		30 0 6 27 11 4
+
+line: Shreveport: 0 2 0 2 0 0 1 0 3 - 8
+line: Beaumont:   0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Beaumont #4; Shreveport #6
+B_ROE: Shreveport #3
+B_2B: Kneaves
+B_HR: Becker
+B_SB: Kneaves; Murphy; Schrader
+B_HP: Barr
+P_BB: Veasey #2; Brant #1; Swan #1; McLeod #1
+P_SO: Veasey #1; Swan #2; Frantz #2; McLeod #2
+P_H: Veasey #3; Swan #1; Frantz #4
+P_IP: Veasey #3; Swan #2; Frantz #4
+P_HP: Veasey
+F_DP: Dodd, Cooke; Kneaves, Knaupp, Schrader; Kneaves, Schrader
+T: 1:35
+U: Wright
+
+P_GS: ~Veasey
+P_GF: ~Frantz
+P_L: ~Veasey
+P_R: Veasey #2; Brant #1; Swan #1; Frantz #4
+
+---
+
+date: 1915-08-08
+number: 0
+league: Western Association
+away: Denison
+home: Oklahoma City
+source: Dallas Morning News, August 9, 1915
+
+Denison:	ab r h po a e
+Covington @ 2b:	3 0 0 1 7 0
+Harper @ ss:	4 0 1 4 1 1
+Nicholson @ cf:	3 1 1 0 0 0
+(~4.1)Campbell @ lf:	4 0 2 2 0 0
+(~5.1)Merritt @ c:	3 0 0 4 2 0	
+(~6.1)Sheffield @ rf:	3 0 0 1 0 0
+(~7.1)Edmondson @ 3b:	3 0 1 1 0 0
+Hellman @ 1b:	2 0 0 11 1 1
+Speer @ p:	4 0 0 0 4 0
+(~5.2)*Brooks @ ph:	1 0 0 0 0 0
+(~6.2)+Peebles @ ph:	1 0 0 0 0 0	
+(~7.2)&Query @ ph:	1 0 1 0 0 0
+(~4.2)^Higginbotham @ pr:	 0 0 0 0 0 0
+TOTALS:		32 1 6 24 15 2
+
+Oklahoma City:	ab r h po a e
+Allen @ rf:	3 2 2 3 0 0
+Maag @ 2b:	2 0 0 1 3 0
+Dameron @ 1b:	4 0 1 8 0 0
+Hall @ cf:	3 0 1 1 0 0	
+King @ lf:	4 0 0 0 0 0
+Kilduff @ ss:	2 0 0 2 1 0 
+Eunick @ 3b:	3 0 0 0 2 1
+Naylor @ c:	3 0 1 11 1 0
+Fagan @ p:	2 0 0 1 2 0
+Herbert @ p:	0 0 0 0 0 0
+TOTALS:		26 2 5 27 9 1
+
+*: batted for Merritt in 9th
++: batted for Sheffield in 9th
+&: batted for Edmondson in 9th
+^: ran for Campbell in 9th
+
+line: Denison:       0 0 0 0 0 1 0 0 0 - 1
+line: Oklahoma City: 1 0 0 0 0 1 0 0 x - 2
+
+B_LOB: Oklahoma City #5; Denison #8
+B_2B: Dameron
+B_HR: Allen #2; Nicholson
+B_SB: Speer
+B_SH: Dameron; Hellman
+P_BB: Speer #6; Fagan #2
+P_SO: Speer #4; Fagan #9
+P_IP: ~Fagan #8.2; ~Herbert #.1
+F_PB: Naylor
+T: 2:05
+U: Pontius
+
+P_GS: ~Fagan
+P_GF: ~Herbert
+P_W: ~Fagan
+P_SV: ~Herbert
+P_R: ~Fagan #1
+
+---
+
+date: 1915-08-08
+number: 0
+league: Western Association
+away: McAlester 
+home: Tulsa
+source: Dallas Morning News, August 9, 1915
+
+McAlester:	ab r h po a e
+Yardley @ cf:	6 2 3 1 0 0
+Humphries @ 2b:	6 1 1 5 3 0
+Herriott @ 1b:	4 2 1 13 0 0
+Besse @ rf:	4 1 0 1 0 0
+Milam @ lf:	4 1 2 2 0 0 
+Thompson, W. @ 3b:	4 1 1 0 3 1
+McGee @ ss:	5 1 2 1 5 0
+Fowler @ c:	4 1 1 2 0 0
+Mickey @ p:	5 2 1 2 4 0
+TOTALS:		41 12 12 27 15 1
+
+Tulsa:		ab r h po a e
+Burke @ cf:	4 0 0 1 0 0
+Price @ 1b:	4 0 1 13 1 1
+Brady @ 2b:	4 0 0 2 0 1
+Moore @ c:	3 0 0 7 0 0
+Hopper @ lf:	4 2 3 0 0 0
+Albus @ 3b:	4 1 1 2 4 0
+Morris @ ss:	4 0 1 1 5 2
+Franklin @ rf:	4 0 2 0 0 0
+Compere @ p:	1 0 1 0 5 1	
+Payne @ p:	3 0 0 0 1 0
+TOTALS:		35 3 9 27 16 5
+
+line: McAlester: 1 1 0 9 0 0 0 1 0 - 12
+line: Tulsa:     0 1 0 0 0 0 0 0 2 - 3
+
+B_LOB: Tulsa #8; McAlester #9
+B_2B: Herriott; Franklin; Morris
+B_HR: Milam
+B_SH: W. Thompson; Fowler
+B_HP: Milam
+P_BB: Mickey #2; Compere #4
+P_SO: Mickey #2; Compere #1; Payne #4 
+P_H: Compere #4; Payne #8
+P_HP: Compere
+F_DP: McGee, Humphries, Herriott; Brady, Morris, Price
+T: 2:00
+U: Womack
+
+P_GS: ~Compere
+P_GF: ~Payne
+P_L: ~Compere
+
+---
+
+date: 1915-08-08
+number: 0
+league: Western Association
+away: Paris
+home: Muskogee  
+source: Dallas Morning News, August 9, 1915
+
+Paris:		ab r h po a e
+Fillman @ 2b:	4 1 2 5 2 0
+Snapp @ 3b:	3 1 1 0 3 0	
+Workman @ lf:	4 1 1 5 0 0
+Clark @ cf:	5 0 1 3 0 0
+Nagle @ rf:	4 0 1 1 2 0
+Gardner @ 1b:	4 0 0 11 0 0
+Hovel @ ss:	4 0 0 2 2 1
+Crittenden @ c:	4 0 0 5 2 0
+Daniels @ p:	4 0 2 0 1 0
+TOTALS:		36 3 8 32 12 1
+
+Muskogee:	ab r h po a e
+Henderson @ cf: 4 0 1 4 0 0
+Wakefield @ lf:	5 0 1 2 0 1
+Robinson @ 3b:	5 0 0 0 2 1
+O'Neal @ rf:	5 0 1 0 1 0
+Syneck @ 2b:	4 1 1 5 3 0	
+Tacke @ 1b:	4 1 3 14 2 0
+Palmer @ ss:	4 0 0 3 7 0
+Gearhardt @ c:	4 0 2 5 3 1
+Salisbury @ p:	4 0 0 0 0 0
+TOTALS:		39 2 9 33 18 3
+
+line: Paris:    0 0 0 0 0 2 0 0 0 0 1 - 3
+line: Muskogee: 0 0 0 0 0 0 2 0 0 0 0 - 2
+
+B_LOB: Muskogee #8; Paris #4
+B_2B: Clark; Tacke
+B_SB: Wakefield
+B_XO: Henderson, hit by batted ball
+P_BB: Daniels #3; Salisbury #1
+P_SO: Daniels #4; Salisbury #2
+F_DP: Syneck, Tacke #2
+F_PB: Crittenden
+T: 2:00
+U: Cy Morgan
+
+---
+
+date: 1915-08-08
+number: 0
+league: Western Association
+away: Sherman
+home: Fort Smith 
+source: Dallas Morning News, August 9, 1915
+
+Sherman:	ab r h po a e
+Williamson @ lf:	3 1 0 3 0 0
+Sorey @ ss:	4 1 1 3 2 2
+(~3.1)Huelsman @ rf: 	2 0 1 0 0 0
+(~3.2)Younkman @ rf:	2 0 0 0 0 0	
+Jansen @ cf:	3 0 0 4 0 0
+Mathes @ 2b:	4 0 1 0 2 0
+Nokes @ 3b:	3 0 0 0 1 1
+Mathis @ 1b:	3 0 0 0 0 0
+Raedel @ c:	3 0 1 11 0 0
+Faircloth @ p:	3 0 0 0 2 0
+TOTALS:		30 2 4 24 7 3
+
+Fort Smith:	ab r h po a e
+Robison @ 1b:	4 0 1 10 0 0
+Leininger @ ss:	4 0 0 1 2 0
+McCarty @ lf:	4 1 1 2 0 0
+Thomson @ 2b:	4 1 1 1 3 0
+Adams @ rf:	3 0 1 4 0 0
+Abington @ cf:	3 0 0 1 0 0
+Corgan @ 3b:	3 0 0 0 2 0
+Schultz @ c:	3 0 0 8 1 0 
+Gorham @ p:	3 1 1 0 2 0
+TOTALS:		31 3 5 27 10 0
+
+line: Sherman:    0 0 2 0 0 0 0 0 0 - 2
+line: Fort Smith: 2 0 0 0 1 0 0 0 x - 3
+
+B_LOB: Sherman #4; Fort Smith #3
+B_ROE: Fort Smith #4
+B_2B: Sorey; Mathes
+B_HR: Gorham
+B_SB: McCarty
+P_BB: Gorham #7
+P_SO: Faircloth #7; Gorham #7
+F_DP: Gorham, Corgan, Thomson; Robison, Thomson
+F_PB: Raedel #2
+T: 1:20
+U: Watt

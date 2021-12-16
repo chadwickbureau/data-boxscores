@@ -1,0 +1,164 @@
+date: 1915-08-19
+number: 0
+league: Texas
+away: Fort Worth
+home: San Antonio
+source: Dallas Morning News, August 20, 1915
+
+Fort Worth:	ab r h po a e
+Stow @ ss:	5 0 0 1 1 0
+Hille @ 3b:	5 1 2 1 1 0
+Harper @ cf:	4 1 2 4 0 0
+Hunter @ 1b:	3 0 0 10 0 0
+Atz @ 2b:	5 1 1 1 5 0
+Lee @ lf:	3 1 2 4 0 0		
+McIver @ rf:	4 1 1 1 0 0
+Betts @ c:	4 0 2 5 0 0
+Kerr @ p:	4 0 0 0 4 0
+TOTALS:		37 5 10 27 11 0
+
+San Antonio:	ab r h po a e
+Baggan @ lf:	4 0 1 0 1 0
+Handiboe @ cf:	4 0 1 1 0 0
+Dunckel @ 1b:	4 0 1 13 0 1
+Love @ 2b:	4 0 1 3 4 1
+Balenti @ ss:	3 0 1 2 6 3
+Burch @ 3b:	4 0 1 3 2 0
+Meek @ c:	4 0 1 4 2 0
+Harber @ rf:	4 0 0 0 0 0
+Munsell @ p:	3 0 2 1 2 1
+TOTALS:		34 0 8 27 17 6
+
+line: Fort Worth:  0 2 1 0 0 1 1 0 0 - 5
+line: San Antonio: 0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: San Antonio #8; Fort Worth #8
+B_2B: Hille; Balenti
+B_SB: McIver; Hunter; Lee; Kerr
+B_SH: Lee
+P_BB: Kerr #1; Munsell #3
+P_SO: Kerr #5; Munsell #3
+P_WP: Munsell
+F_DP: Atz, Hunter; Balenti, Love, Dunckel
+T: 1:34
+U: Anderson; Wright
+
+---
+
+date: 1915-08-19
+number: 0
+league: Texas
+away: Waco
+home: Houston
+status: postponed
+status-reason: rain
+source: Dallas Morning News, August 20, 1915
+
+---
+
+date: 1915-08-19
+number: 0
+league: Texas
+away: Shreveport
+home: Galveston
+status: postponed
+status-reason: rain
+source: Dallas Morning News, August 20, 1915
+
+---
+
+date: 1915-08-19
+number: 0
+league: Texas
+away: Dallas
+home: Beaumont
+status: postponed
+status-reason: rain
+source: Dallas Morning News, August 20, 1915
+
+---
+
+date: 1915-08-19
+number: 0
+league: Western Association
+away: Sherman
+home: Denison 
+source: Dallas Morning News, August 20, 1915
+
+Sherman:	ab r h po a e
+Williamson @ cf:	6 0 1 3 0 1
+Sorey @ ss:	5 0 2 0 3 1
+Huelsman @ rf: 	4 2 2 3 0 0
+Jansen @ 3b:	4 1 3 0 2 0
+Mathes @ 2b:	4 1 1 5 3 0
+Mathis @ 1b:	4 1 0 7 0 0
+Raedel @ c:	3 0 0 5 0 0
+Griggs @ lf:	4 0 0 2 0 0
+Kimball @ p:	4 0 1 0 3 0
+TOTALS:		38 5 10 25 11 2
+
+Denison:	ab r h po a e
+Harper @ 2b:	4 1 1 4 2 1
+(~2.1)Sheffield @ rf:	1 0 0 0 0 0
+Nicholson @ cf:	5 2 3 4 0 0
+Campbell @ lf:	4 0 0 2 0 1
+Merritt @ c:	4 0 2 4 1 0
+Edmonds @ 3b:	4 0 0 3 2 2
+Hellman @ 1b:	3 0 0 8 1 0
+Hornsby @ ss:	3 1 1 2 3 0
+(~9.1)Glenn @ p:	3 0 0 0 3 2
+(~2.3)Peebles @ rf:	1 1 1 0 0 0	
+(~2.2)*Querry @ ph:	1 0 1 0 0 0	
+(~9.2)+Brooks @ ph:	1 1 1 0 0 0	
+TOTALS:		34 6 10 27 12 6
+
+*: batted for Sheffield in 7th
++: batted for Glenn in 9th
+
+line: Sherman: 1 1 0 0 2 0 0 1 0 - 5 
+line: Denison: 2 0 1 0 0 0 1 0 2 - 6
+
+B_LOB: Denison #8; Sherman #13
+B_2B: Sorey; Merritt; Querry
+B_3B: Nicholson
+B_SB: Hellman
+B_SH: Mathes; Raedel #2; Griggs; Sheffield
+P_BB: Kimball #3; Glenn #4
+P_SO: Kimball #4; Glenn #2
+F_DP: Sorey, Mathes, Mathis; Hornsby, Harper, Hellman
+outsatend: #1
+T: 1:45
+U: Pontius; Watt
+
+---
+
+date: 1915-08-19
+number: 0
+league: Western Association
+away: Muskogee
+home: Oklahoma City 
+status: postponed
+status-reason: rain
+source: Dallas Morning News, August 20, 1915
+
+---
+
+date: 1915-08-19
+number: 0
+league: Western Association
+away: Tulsa
+home: Fort Smith
+status: postponed
+status-reason: rain
+source: Dallas Morning News, August 20, 1915
+
+---
+
+date: 1915-08-19
+number: 0
+league: Western Association
+away: McAlester
+home: Paris 
+status: postponed
+status-reason: rain
+source: Dallas Morning News, August 20, 1915

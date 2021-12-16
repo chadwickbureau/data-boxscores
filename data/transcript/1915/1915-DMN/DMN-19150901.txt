@@ -1,0 +1,151 @@
+date: 1915-09-01
+number: 0
+league: Texas
+away: Dallas
+home: Fort Worth
+source: Dallas Morning News, September 2, 1915
+note: game called on account of darkness
+
+Dallas:		ab r h po a e
+Kellerman @ 2b:	4 0 1 6 1 0
+Snedecor @ 1b:	5 3 2 13 0 1
+Harrison @ rf:	3 2 1 2 0 0
+Tullos @ 3b:	4 0 0 0 6 0
+Crouch @ lf:	4 0 2 3 0 0
+Storch @ cf:	4 0 0 1 0 0
+Ens @ ss:	5 1 1 2 9 0
+Dunn @ c:	3 0 0 6 2 0
+Sloan @ p:	2 0 0 0 3 0	
+Bono @ p:	0 0 0 0 0 0
+Renfer @ p:	1 0 0 0 1 0
+TOTALS:		35 6 7 33 22 1
+
+Fort Worth:	ab r h po a e
+Stow @ ss:	6 0 2 3 7 0
+Hille @ 3b:	6 0 1 2 4 1
+Harper @ cf:	5 2 2 4 1 0
+Hunter @ 1b:	4 1 1 14 3 0
+Atz @ 2b:	5 1 4 2 0 0
+Lee @ lf:	5 1 2 2 0 0		
+McIver @ rf:	5 1 2 3 0 0
+(~8.1)Betts @ c:	4 0 0 1 1 1
+(~8.2)Jordan @ c:	0 0 0 1 0 0	
+(~9.1)Redford @ p:	3 0 0 0 2 1	
+(~9.3)Fentress @ p:	1 0 0 1 1 0		
+(~9.2)*Kerr @ ph:	1 0 0 0 0 0
+TOTALS:		45 6 14 33 19 3
+
+*: batted for Redford in 8th
+
+line: Dallas:     2 0 0 0 0 1 1 2 0 0 0 - 6
+line: Fort Worth: 0 0 0 0 0 0 0 5 1 0 0 - 6
+
+B_2B: Harper; Hunter; Crouch; Snedecor
+B_SB: Stow #2; McIver; Jordan; Snedecor
+B_SH: Hunter; Harrison; Tullos; Sloan; Bono
+B_SF: Storch
+P_BB: Redford #3; Fentress #2; Sloan #1; Bono #1; Renfer #1
+P_SO: Redford #1; Fentress #1; Sloan #2; Renfer #1
+P_H: Redford #7; Sloan #12; Bono #1 
+P_IP: Redford #8; Fentress #3; Sloan #7; Bono #1; Renfer #3
+P_WP: Redford #2
+F_DP: Ens, Kellerman
+T: 2:33
+U: Moran
+
+P_GS: ~Redford; ~Sloan
+P_GF: ~Fentress; ~Renfer
+P_R: Redford #6; Sloan #4; Bono #2 
+
+---
+
+date: 1915-09-01
+number: 0
+league: Texas
+away: Waco
+home: Shreveport
+source: Dallas Morning News, September 2, 1915
+
+Waco:		ab r h po a e
+Tanner @ ss:	3 1 2 3 6 0
+Coyle @ cf:	2 0 0 2 0 0
+Crichlow @ lf:  4 0 1 3 0 0
+Malmquist @ rf:	4 0 3 0 0 0
+Walters @ c:	4 0 0 5 0 0
+Conwell @ 2b:	4 0 0 1 3 0	
+Wohlleben @ 1b:	3 0 1 12 0 0
+Grubb @ 3b:	3 0 0 0 1 0
+Ogles @ p:	3 1 0 0 4 0
+TOTALS:		30 2 7 26 14 0
+
+Shreveport:	ab r h po a e
+Murphy @ cf:	4 0 1 6 0 0
+Smith @ c:	3 0 2 5 0 0
+Schrader @ 1b:	4 0 0 7 0 0
+Barr @ lf:	3 0 0 1 0 1
+Knaupp @ 2b:	4 1 0 1 2 0
+Becker @ rf:	3 1 1 3 0 0
+Carroll @ 3b:	4 0 1 2 1 1
+Kneaves @ ss:	4 0 1 2 5 0
+Duffy @ p:	3 1 1 0 2 0
+TOTALS:		32 3 7 27 10 2
+
+line: Waco:       0 0 1 0 0 0 0 0 1 - 2
+line: Shreveport: 0 0 0 0 0 1 0 0 2 - 3
+
+B_LOB: Shreveport #6; Waco #4
+B_2B: Duffy
+B_SH: Coyle #2; Smith
+B_SF: Tanner
+P_BB: Ogles #2
+P_SO: Ogles #5; Duffy #4
+F_DP: Knaupp, Kneaves, Schrader
+outsatend: #2
+T: 1:42
+U: Hayes
+
+---
+
+date: 1915-09-01
+number: 0
+league: Texas
+away: Beaumont
+home: Houston
+source: Dallas Morning News, September 2, 1915
+
+Beaumont:	ab r h po a e
+Clarke @ lf:	4 0 0 0 0 0
+Cooke @ rf:	4 0 0 1 0 0
+Howard @ cf:	4 0 2 6 0 0
+Dodd, O. @ 2b:	4 1 2 0 1 1	
+McMahon @ 3b:	4 2 2 0 6 0
+Schwind @ ss:	4 1 2 2 2 0
+Frantz @ 1b:	4 0 3 12 0 1
+Bilger @ c:	4 0 1 3 1 0
+Martina @ p:	4 0 0 0 2 0
+TOTALS:		36 4 12 24 12 2
+
+Houston:	ab r h po a e
+Mowry @ lf:	5 3 3 2 1 0
+Seitz @ 2b:	4 2 2 3 5 0
+Frierson @ cf:	4 2 2 2 0 0
+Dodd @ 1b:	4 0 2 11 0 0
+Shaw @ rf:	4 0 1 1 0 0
+Summers @ ss:	4 0 1 3 7 0
+Durkin @ 3b:	4 0 0 1 3 0
+Allen @ c:	4 0 0 4 0 0
+Rose @ p:	3 1 1 0 1 0
+TOTALS:		36 8 12 27 17 0
+
+line: Beaumont: 0 0 0 0 0 0 3 0 1 - 4
+line: Houston:  2 0 1 0 4 1 0 0 x - 8
+
+B_LOB: Houston #5; Beaumont #15
+B_2B: Frierson; O. Dodd; Frantz; Rose
+B_3B: O. Dodd
+B_SB: Mowry #3; Frierson #3; Summers
+P_BB: Martina #1
+P_SO: Rose #1; Martina #2
+F_DP: Rose, Seitz, Dodd; Seitz, Summers, Dodd; Summers, Seitz, Dodd
+T: 1:05
+U: Anderson

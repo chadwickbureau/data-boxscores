@@ -1,0 +1,149 @@
+date: 1915-09-04
+number: 0
+league: Texas
+away: Shreveport
+home: Dallas
+source: Dallas Morning News, September 5, 1915
+
+Shreveport:	ab r h po a e
+(~1.2)Murphy @ cf:	1 0 0 0 0 0
+Wells @ c:	5 0 1 3 1 0
+Schrader @ 1b:	5 0 1 12 0 1
+Barr @ lf:	4 1 3 1 0 0
+Knaupp @ 2b:	5 2 2 2 3 1
+Becker @ rf:	4 3 3 4 0 0
+Carroll @ 3b-cf:	5 2 2 3 0 0
+Kneaves @ ss:	5 1 1 0 5 2
+Hiett @ p:	5 2 3 0 2 0
+(~1.1)Smith @ 3b:	4 0 3 2 1 1	
+TOTALS:		43 11 19 27 12 5
+
+Dallas:		ab r h po a e
+Kellerman @ 2b:	5 0 0 1 6 0 
+Snedecor @ 1b:	5 1 0 14 1 0
+Harrison @ rf:	4 2 1 0 1 0
+Tullos @ 3b:	3 2 0 0 3 0
+Crouch @ lf:	4 0 1 2 2 0
+Storch @ cf:	4 0 0 2 0 0
+Ens @ ss:	4 0 1 4 3 1
+Dunn @ c:	4 0 0 3 1 2
+Sloan @ p:	1 0 1 0 2 0	
+Bono @ p:	2 0 0 1 1 1
+*Stephens @ ph:	1 0 0 0 0 0	
+TOTALS:		37 5 4 27 20 4
+
+*: batted for Bono in 9th
+
+line: Shreveport: 0 3 0 0 5 0 3 0 0 - 11
+line: Dallas:     2 0 0 0 0 0 0 3 0 - 5
+
+B_LOB: Dallas #6; Shreveport #6
+B_ROE: Dallas #5
+B_2B: Schrader; Knaupp; Kneaves; Hiett; Crouch
+P_SO: Sloan #1; Bono #2; Hiett #2
+P_H: Sloan #13; Bono #6
+P_IP: Sloan #4.2; Bono #4.1
+P_WP: Hiett; Sloan
+F_DP: Kellerman, Ens, Snedecor
+T: 1:40
+U: Hayes
+
+P_GS: ~Sloan
+P_GF: ~Bono
+P_L: ~Sloan
+P_R: Sloan #7; Bono #4
+
+---
+
+date: 1915-09-04
+number: 0
+league: Texas
+away: Beaumont
+home: San Antonio
+source: Dallas Morning News, September 5, 1915
+
+Beaumont:	ab r h po a e
+Clark @ lf:	3 0 2 4 0 0
+Cooke @ rf:	4 0 0 2 0 0
+Howard @ cf:	4 0 0 1 0 0
+Dodd @ 2b:	4 0 0 3 3 0	
+McMahon @ 3b:	4 0 1 2 3 0
+Schwind @ ss:	3 0 0 1 1 0
+Frantz @ 1b:	3 0 1 8 0 0
+Bobo @ c:	2 1 0 2 1 0
+Veasey @ p:	2 0 0 1 2 0
+TOTALS:		30 1 4 24 10 0
+
+San Antonio:	ab r h po a e
+Baggan @ lf:	4 0 0 1 0 0
+Handiboe @ cf:	4 0 1 3 0 0
+Dunckel @ 1b:	3 0 0 10 0 0
+Love @ 2b:	4 1 2 4 5 0
+Balenti @ ss:	4 1 2 2 1 2
+Burch @ c:	2 0 1 4 0 1
+Odell @ 3b:	2 0 0 0 1 0
+Harber @ rf:	1 0 0 3 1 0
+Munsell @ p:	1 0 0 0 3 0
+TOTALS:		26 2 6 27 12 2
+
+line: Beaumont:    0 0 0 0 0 0 0 1 0 - 1
+line: San Antonio: 0 1 0 0 0 1 0 0 x - 2
+
+B_LOB: San Antonio #6; Beaumont #5
+B_3B: Love
+B_SB: Clark; Baggan; Balenti
+B_SH: Burch; Munsell; Veasey
+P_BB: Munsell #2; Veasey #4
+P_SO: Munsell #4; Veasey #2
+F_DP: Dodd, Frantz; Harber, Dunckel; Odell, Love, Dunckel
+T: 1:30
+U: McCafferty
+
+---
+
+date: 1915-09-04
+number: 0
+league: Texas
+away: Waco
+home: Fort Worth
+source: Dallas Morning News, September 5, 1915
+
+Waco:		ab r h po a e
+Walters @ c:	4 0 0 1 4 0
+Coyle @ cf:	4 0 1 0 0 0
+Crichlow @ lf:  3 0 2 0 1 0
+Malmquist @ ss:	4 0 0 1 2 0
+Conwell @ 2b:	4 1 0 5 2 0	
+Wohlleben @ 1b:	4 1 1 13 1 0
+Hill @ rf:	2 0 0 2 0 0
+Grubb @ 3b:	3 0 2 2 4 0	
+Sage @ p:	2 0 0 0 4 0
+TOTALS:		30 2 6 24 18 0
+
+Fort Worth:	ab r h po a e
+Stow @ ss:	4 1 2 1 2 1
+Hille @ 3b:	2 0 0 1 2 0
+Harper @ cf:	4 1 2 1 0 0
+(~4.1)Hunter @ 1b:	3 1 2 11 0 0
+Atz @ 2b:	3 2 1 2 1 0
+Lee @ lf:	3 0 1 3 0 0	
+McIver @ rf:	2 0 2 2 0 0
+Betts @ c:	3 0 0 5 1 1
+Harben @ p:	3 0 0 1 4 0
+(~4.2)*Harrah @ pr:	0 0 0 0 0 0	
+TOTALS:		27 5 10 27 10 2
+
+*: ran for Hunter in 7th
+
+line: Waco:       0 2 0 0 0 0 0 0 0 - 2
+line: Fort Worth: 0 0 0 2 0 2 1 0 x - 5
+
+B_2B: Harper #2; Atz
+B_SB: Coyle
+B_SH: Hille #2; Hunter; Lee; Hill; Sage; Crichlow
+B_HP: Betts
+P_BB: Sage #3
+P_SO: Harben #5
+P_HP: Sage
+T: 1:30
+U: Moran

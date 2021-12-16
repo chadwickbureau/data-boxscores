@@ -1,0 +1,290 @@
+date: 1915-09-06
+number: 1
+league: Texas
+away: Shreveport
+home: Dallas
+source: Dallas Morning News, September 7, 1915
+
+Shreveport:	ab r h po a e
+Murphy @ cf:	5 2 2 4 0 0
+Wells @ c:	4 2 2 6 1 0
+Smith @ 1b:	5 2 2 11 0 0
+Barr @ lf:	5 2 2 2 0 0
+Knaupp @ 2b:	5 1 3 1 3 1
+Becker @ rf:	3 0 2 0 0 0
+Carroll @ 3b:	3 0 1 0 2 0
+Kneaves @ ss:	5 1 1 3 5 0
+Duffy @ p:	3 1 0 0 1 0
+TOTALS:		38 11 15 27 12 1
+
+Dallas:		ab r h po a e
+Kellerman @ 2b:	4 0 0 2 3 0
+Snedecor @ 1b:	4 0 2 14 1 0
+Harrison @ rf:	4 0 0 2 0 1
+Tullos @ 3b:	1 2 0 2 2 0
+Crouch @ lf:	4 1 2 1 0 1
+Storch @ cf:	4 0 1 2 0 0
+Ens @ ss:	4 0 0 2 4 0
+Stephens @ c:	4 0 1 2 1 0
+Renfer @ p:	0 0 0 0 0 0
+Sloan @ p:	2 0 0 0 2 0	
+Sewell @ p:	2 0 0 0 0 1
+TOTALS:		33 3 6 27 14 3
+
+line: Shreveport: 3 0 0 0 0 0 7 1 0 - 11
+line: Dallas:     0 0 0 2 0 0 0 0 1 - 3
+
+B_LOB: Dallas #6; Shreveport #6
+B_ROE: Dallas #1; Shreveport #1
+B_2B: Wells; Crouch
+B_HR: Barr
+B_SH: Carroll #2; Duffy; Becker
+P_BB: Sloan #1; Sewell #1; Duffy #3
+P_SO: Sloan #3; Duffy #3
+P_H: Renfer #5; Sloan #2; Sewell #8
+P_IP: Renfer #.1; Sloan #5.2; Sewell #3
+F_DP: Ens, Snedecor, Tullos
+T: 1:35
+U: Hayes
+
+P_GS: ~Renfer
+P_GF: ~Sewell
+P_L: ~Renfer
+P_R: Renfer #3; Sewell #8
+
+---
+
+date: 1915-09-06
+number: 2
+league: Texas
+away: Shreveport
+home: Dallas
+source: Dallas Morning News, September 7, 1915
+status: game ended early by agreement
+
+Shreveport:	ab r h po a e
+Murphy @ cf:	3 0 0 1 0 0
+Wells @ c:	3 0 0 4 0 0
+Smith @ 1b:	3 0 0 10 1 0
+Barr @ lf:	3 1 1 0 0 0
+Knaupp @ 2b:	3 0 2 2 2 0
+Becker @ rf:	1 0 0 2 1 0
+Carroll @ 3b:	3 0 0 1 1 0
+Kneaves @ ss:	2 0 0 1 3 0
+Nolly @ p:	2 0 1 0 2 0
+TOTALS:		23 1 4 21 10 0
+
+Dallas:		ab r h po a e
+Kellerman @ 2b:	2 0 0 1 3 0
+Snedecor @ 1b:	3 0 0 10 0 0
+Harrison @ rf:	2 0 0 0 0 0
+Tullos @ 3b:	2 0 1 0 2 0
+Crouch @ lf:	3 0 0 2 0 0
+Storch @ cf:	3 0 0 4 0 0
+Ens @ ss:	2 0 1 2 5 0
+Dunn @ c:	2 0 0 2 0 0
+Bono @ p:	2 0 0 0 1 0
+TOTALS:		21 0 2 21 11 0
+
+line: Shreveport: 0 0 0 0 0 0 1 - 1
+line: Dallas:     0 0 0 0 0 0 0 - 0
+
+B_LOB: Dallas #5; Shreveport #4
+B_2B: Knaupp; Barr
+B_SH: Becker #2; Tullos; Dunn
+P_BB: Bono #1; Nolly #1
+P_SO: Bono #1; Nolly #4
+P_HP: Nolly #2
+T: 1:00
+U: Hayes
+
+---
+
+date: 1915-09-06
+number: 1
+league: Texas
+away: Beaumont
+home: San Antonio
+source: Dallas Morning News, September 7, 1915
+
+Beaumont:	ab r h po a e
+Clark @ lf:	3 1 1 3 0 0
+Cooke @ rf:	4 0 0 0 1 0
+Howard @ cf:	4 0 0 1 1 0
+Dodd @ 2b:	4 0 0 4 1 0	
+McMahon @ 3b:	3 0 0 2 2 1
+Schwind @ ss:	3 0 0 2 7 1
+Frantz @ 1b:	2 0 0 8 0 0
+Dilger @ c:	3 0 1 3 2 0
+Jost @ p:	3 0 0 1 3 0
+TOTALS:		29 1 2 24 17 2
+
+San Antonio:	ab r h po a e
+Baggan @ lf:	3 0 0 1 0 0
+Handiboe @ cf:	4 0 2 4 0 0
+Dunckel @ 1b:	3 1 1 12 0 0
+Love @ 2b:	4 1 3 0 3 0
+Balenti @ ss:	3 1 0 0 1 0
+Burch @ c:	4 0 2 6 0 1
+Odell @ 3b:	1 0 0 1 5 0
+Harber @ rf:	3 0 0 2 0 0
+Mullins @ p:	3 0 1 1 2 0
+TOTALS:		28 3 9 27 11 1
+
+line: Beaumont:    0 0 0 0 0 0 0 0 1 - 1
+line: San Antonio: 0 1 0 1 0 1 0 0 x - 3
+
+B_LOB: San Antonio #3; Beaumont #3
+B_2B: Love
+B_HR: Clark
+B_SH: Odell; Balenti
+P_BB: Jost #3; Mullins #2
+P_SO: Mullins #3; Jost #2
+F_DP: Howard, Dilger
+T: 1:35
+U: McCafferty; Anderson
+
+---
+
+date: 1915-09-06
+number: 2
+league: Texas
+away: Beaumont
+home: San Antonio
+source: Dallas Morning News, September 7, 1915
+status: game ended early by agreement
+
+Beaumont:	ab r h po a e
+Clark @ lf:	4 0 0 2 0 0
+Cooke @ rf:	3 1 1 7 0 0
+Howard @ cf:	4 0 2 1 0 0
+Dodd @ 2b:	4 0 1 1 2 0	
+McMahon @ 3b:	2 1 1 2 3 0
+Schwind @ ss:	3 1 2 1 1 0
+Frantz @ p:	3 0 1 0 2 0
+Dilger @ c:	3 0 0 4 1 0
+Swan @ rf:	2 0 0 0 0 0
+Bobo @ rf:	0 0 0 0 0 0
+TOTALS:		28 3 8 21 9 0
+
+San Antonio:	ab r h po a e
+Baggan @ lf:	3 0 1 0 0 0
+Handiboe @ cf:	3 0 1 3 0 0
+Dunckel @ 1b:	3 0 0 8 0 0
+Love @ 2b:	2 0 1 0 1 1
+Balenti @ ss:	3 0 1 2 1 1
+Burch @ c:	3 0 0 7 2 0
+Odell @ 3b:	3 1 1 1 2 0
+Harber @ rf:	3 0 0 0 0 0
+Ponder @ p:	2 0 0 0 1 0
+TOTALS:		25 1 5 21 7 2
+
+line: Beaumont:    0 0 0 1 1 1 0 - 3
+line: San Antonio: 0 1 0 0 0 0 0 - 1
+
+B_LOB: San Antonio #3; Beaumont #7
+B_2B: Howard; Schwind; Balenti
+B_HR: Odell
+B_SB: Handiboe; Frantz #2; Dodd
+B_SH: Bobo
+P_BB: Ponder #2; Frantz #1
+P_SO: Ponder #6; Frantz #2
+T: 1:15
+U: McCafferty; Anderson
+
+---
+
+date: 1915-09-06
+number: 1
+league: Texas
+away: Waco
+home: Fort Worth
+source: Dallas Morning News, September 7, 1915
+
+Waco:		ab r h po a e
+Walters @ rf-ss:	5 1 1 2 3 1
+Coyle @ cf:	4 0 1 1 0 0
+Crichlow @ lf:  5 0 0 3 0 0
+(~4.1)Malmquist @ ss:	2 1 1 1 0 0 
+(~4.2)Hill @ rf:	3 0 0 1 0 0	
+Conwell @ 2b:	2 0 0 4 4 0	
+Wohlleben @ 1b:	3 0 0 6 1 0
+Reilly @ c:	3 0 2 7 0 0
+Grubb @ 3b:	3 2 2 2 3 1	
+Markle @ p:	3 0 0 0 0 0
+TOTALS:		33 4 7 27 11 2
+
+Fort Worth:	ab r h po a e
+Stow @ ss:	3 0 0 7 2 1
+Hille @ 3b:	3 0 0 1 1 0
+Harper @ cf:	4 0 1 5 0 0
+McIver @ 1b:	4 0 0 8 0 2
+Atz @ 2b:	3 0 1 1 3 0
+Lee @ lf:	4 0 2 1 0 0
+Jordan @ rf:	4 0 0 3 0 0
+Betts @ c:	4 0 0 1 1 0
+Kerr @ p:	4 0 0 0 4 0
+TOTALS:		33 0 4 27 11 3
+
+line: Waco:       1 1 1 0 0 1 0 0 0 - 4
+line: Fort Worth: 0 0 0 0 0 0 0 0 0 - 0
+
+B_2B: Malmquist
+B_SB: Jordan; Walters; Reilly; Grubb; Markle
+B_SH: Coyle; Conwell; Markle
+B_SF: Wohlleben
+P_BB: Kerr #3; Markle #3
+P_SO: Kerr #1; Markle #4
+P_WP: Markle
+T: 1:42
+U: Moran
+
+---
+
+date: 1915-09-06
+number: 2
+league: Texas
+away: Waco
+home: Fort Worth
+source: Dallas Morning News, September 7, 1915
+status: game ended early by agreement
+
+Waco:		ab r h po a e
+Walters @ ss:	4 0 2 0 2 0
+Coyle @ 3b:	4 1 1 1 1 0
+Crichlow @ lf:  4 0 0 1 0 0
+Reilly @ c:	3 0 0 4 1 0
+Conwell @ 2b:	3 1 1 3 3 0
+Wohlleben @ 1b:	3 0 2 9 1 0
+Hill @ cf:	3 0 0 1 0 0	
+Grubb @ rf:	3 0 1 1 2 0	
+Toland @ p:	3 0 0 0 0 0
+TOTALS:		29 2 7 20 10 0
+
+Fort Worth:	ab r h po a e
+(~1.1)Lee @ ss:	3 0 1 2 3 1
+(~1.2)Redford @ cf:	1 0 0 0 0 0	
+Hille @ 3b:	2 1 0 0 1 1
+Harper @ cf-ss:	3 0 0 4 2 0
+McIver @ 1b:	2 1 1 6 2 1
+Atz @ 2b:	3 0 0 3 1 0
+Betts @ rf:	2 1 2 3 0 0
+Fentress @ lf:	2 0 0 0 0 0
+Jordan @ c:	3 0 2 3 1 1
+Harben @ p:	2 0 0 0 2 0
+TOTALS:		23 3 6 21 11 4
+
+line: Waco:       0 1 0 0 1 0 0 - 2
+line: Fort Worth: 1 0 0 0 1 0 1 - 3
+
+B_SB: McIver; Harper; Hill; Coyle
+B_SH: Hille; Hill
+B_HP: McIver; Harper
+P_BB: Toland #5
+P_SO: Harben #3; Toland #1
+P_HP: Toland #2
+P_WP: Toland
+F_DP: Grubb, Reilly #2
+outsatend: #2
+T: 1:12
+U: Moran

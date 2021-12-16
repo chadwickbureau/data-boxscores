@@ -1,0 +1,158 @@
+date: 1915-08-30
+number: 0
+league: Texas
+away: Waco
+home: Dallas
+source: Dallas Morning News, August 31, 1915
+
+Waco:		ab r h po a e
+Tanner @ ss:	5 1 1 4 3 0
+Coyle @ cf:	4 2 2 2 0 0
+Crichlow @ lf:	5 3 2 2 0 0
+James @ rf:	5 2 3 1 0 0
+Walters @ c:	4 0 1 4 0 0
+Conwell @ 2b:	5 0 1 8 1 1	
+Wohlleben @ 1b:	3 1 1 6 0 0
+Grubb @ 3b:	1 0 0 0 2 0
+Donalds @ p:	5 1 1 0 3 0
+TOTALS:		37 10 12 27 9 1
+
+Dallas:		ab r h po a e
+Kellerman @ 2b:	4 2 3 5 4 0
+Snedecor @ 1b:	5 0 2 11 0 0
+Harrison @ rf:	5 1 1 2 0 0 
+Tullos @ 3b:	5 1 3 2 2 0
+Crouch @ lf:	5 1 1 1 0 0
+Storch @ cf:	4 0 0 1 0 0
+Ens @ ss:	4 0 2 1 4 1
+Dunn @ c:	4 0 0 4 2 0
+Bono @ p:	0 0 0 0 1 0	
+Renfer @ p:	4 1 1 0 3 0
+TOTALS:		40 6 13 27 16 1
+
+line: Waco:   3 0 1 2 0 0 3 1 0 - 10
+line: Dallas: 0 0 1 0 0 0 0 4 1 - 6
+
+B_LOB: Dallas #8; Waco #8
+B_ROE: Dallas #1; Waco #1
+B_2B: Wohlleben; Ens #2; Tullos; Crouch
+B_3B: Crichlow
+B_HR: Tanner; James
+B_SB: James
+B_SH: Walters
+P_BB: Donalds #1; Bono #2; Renfer #4
+P_SO: Donalds #4; Bono #1; Renfer #2
+P_H: Bono #4; Renfer #8
+P_IP: Bono #2; Renfer #7
+P_HP: Renfer
+P_WP: Donalds
+F_DP: Ens, Kellerman, Snedecor
+F_PB: Dunn
+T: 1:55
+U: Moran
+
+P_GS: ~Bono
+P_GF: ~Renfer
+P_L: ~Bono
+P_R: Bono #4; Renfer #6
+
+---
+
+date: 1915-08-30
+number: 0
+league: Texas
+away: San Antonio
+home: Houston
+source: Dallas Morning News, August 31, 1915
+
+San Antonio:	ab r h po a e
+Baggan @ lf:	4 0 1 1 0 0
+Handiboe @ cf:	3 0 0 0 0 0
+Dunckel @ 1b:	4 0 0 10 0 0
+Love @ 2b:	4 0 2 3 2 1
+Balenti @ ss:	4 0 1 1 2 0
+Meek @ c:	4 0 0 8 2 0
+Odell @ 3b:	3 0 0 2 1 0
+Harber @ rf:	3 0 1 1 0 0
+Munsell @ p:	3 1 1 1 7 0
+TOTALS:		32 1 6 27 14 1
+
+Houston:	ab r h po a e
+Mowry @ lf:	4 0 1 2 0 0
+Seitz @ 2b:	4 0 0 2 2 0
+Frierson @ cf:	4 0 1 1 0 0
+Newnam @ 1b:	4 0 1 10 0 0
+Shaw @ rf:	4 0 0 4 0 0
+Summers @ ss:	2 0 0 3 3 1
+Durkin @ 3b:	3 0 0 1 1 0
+Allen @ c:	3 0 2 4 2 0
+Edmondson @ p:	2 0 0 0 3 0	
+TOTALS:		30 0 5 27 11 1
+
+line: San Antonio: 0 0 1 0 0 0 0 0 0 - 1
+line: Houston:     0 0 0 0 0 0 0 0 0 - 0
+
+B_LOB: Houston #5; San Antonio #4
+B_2B: Harber; Newnam; Allen; Balenti
+B_3B: Baggan
+B_SB: Seitz; Summers
+B_SH: Edmondson
+P_BB: Munsell #1; Edmondson #1
+P_SO: Edmondson #3; Munsell #5
+F_DP: Odell, Love; Munsell, Meek, Odell
+T: 1:35
+U: Anderson
+
+---
+
+date: 1915-08-30
+number: 0
+league: Texas
+away: Shreveport
+home: Fort Worth
+source: Dallas Morning News, August 31, 1915
+
+Shreveport:	ab r h po a e
+Becker @ rf:	1 0 0 0 1 1
+Murphy @ cf:	3 0 2 2 0 0
+Schraeder @ 1b:	4 0 0 4 1 0
+Barr @ lf:	4 0 0 1 0 1
+Smith @ 2b:	4 0 1 4 2 0
+Carroll @ 3b:	4 0 0 2 1 0
+Wells @ c:	2 0 0 8 3 0
+Kneaves @ ss:	3 1 0 2 1 0
+McLeod @ p:	1 0 0 1 3 0
+Nolly @ p:	2 0 0 0 2 0
+TOTALS:		28 1 3 24 14 2
+
+Fort Worth:	ab r h po a e
+Stow @ ss:	3 1 0 0 1 0
+Hille @ 3b:	2 1 0 2 2 0
+Harper @ cf:	4 0 2 7 0 0
+Hunter @ 1b:	4 2 2 7 1 0
+Atz @ 2b:	2 1 0 1 1 0
+Lee @ lf:	3 0 1 1 0 0		
+McIver @ rf:	3 0 0 5 0 0
+Betts @ c:	3 0 1 3 1 0	
+Harben @ p:	3 0 3 1 2 0
+TOTALS:		27 5 9 27 8 0 
+
+line: Shreveport: 0 0 0 0 0 0 0 1 0 - 1
+line: Fort Worth: 3 0 2 0 0 0 0 0 x - 5
+
+B_SB: Hunter; Stow
+B_SH: Lee; Murphy
+B_SF: Atz
+B_HP: Betts
+P_BB: Harben #4; McLeod #5
+P_SO: Harben #3; Nolly #7
+P_H: McLeod #6; Nolly #3
+P_IP: McLeod #3; Nolly #5
+P_HP: McLeod
+T: 1:43
+U: Hayes
+
+P_GS: ~McLeod
+P_GF: ~Nolly
+P_L: ~McLeod
+P_R: McLeod #5

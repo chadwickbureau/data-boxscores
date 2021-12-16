@@ -1,0 +1,144 @@
+date: 1915-08-31
+number: 0
+league: Texas
+away: Waco
+home: Dallas
+source: Dallas Morning News, September 1, 1915
+
+Waco:		ab r h po a e
+Tanner @ ss:	5 1 1 3 7 1
+Coyle @ cf:	3 1 0 2 0 1
+Crichlow @ lf:  4 0 0 1 0 0
+James @ rf:	3 1 0 1 1 0
+Walters @ c:	3 0 1 3 1 0
+Conwell @ 2b:	3 1 1 1 6 0	
+Wohlleben @ 1b:	4 0 2 14 0 0
+Grubb @ 3b:	4 1 3 2 1 0
+Sage @ p:	1 0 0 0 2 0
+TOTALS:		30 5 8 27 18 2
+
+Dallas:		ab r h po a e
+Kellerman @ 2b:	4 0 2 3 4 0
+Snedecor @ 1b:	4 0 0 13 0 0
+Harrison @ rf:	4 0 0 2 1 0 
+Tullos @ 3b:	4 0 2 2 5 0
+Crouch @ lf:	4 1 2 0 0 1
+Storch @ cf:	4 0 1 1 0 0
+Brownlow @ ss:	2 0 0 1 1 1
+Dunn @ c:	4 0 1 3 3 0
+Barnes @ p:	3 0 1 1 2 0	
+TOTALS:		33 1 9 26 16 2
+
+line: Waco:   3 0 0 1 0 0 1 0 0 - 5
+line: Dallas: 0 0 0 0 0 0 0 0 1 - 1
+
+B_LOB: Dallas #7; Waco #5
+B_ROE: Dallas #2; Waco #1
+B_2B: Grubb; Tullos; Crouch
+B_3B: Wohlleben
+B_SH: Sage #3; Brownlow
+B_XO: Walters, hit by batted ball
+P_BB: Barnes #3; Sage #1
+P_SO: Barnes #3; Sage #3
+P_HP: Barnes
+P_WP: Barnes
+F_DP: Tanner, Wohlleben; James, Tanner, Walters, Grubb; Conwell, Tanner, Wohlleben; Harrison, Brownlow
+F_PB: Dunn #2
+T: 1:50
+U: Moran
+
+---
+
+date: 1915-08-31
+number: 0
+league: Texas
+away: Shreveport
+home: Fort Worth
+source: Dallas Morning News, September 1, 1915
+
+Shreveport:	ab r h po a e
+Becker @ rf:	4 0 2 3 0 0
+Murphy @ cf:	4 0 0 0 0 0 
+Schraeder @ 1b:	4 0 1 5 2 0
+Barr @ lf:	4 0 1 3 0 1
+Smith @ 2b:	4 1 0 3 0 0
+Carroll @ 3b:	3 0 1 2 0 0
+Wells @ c:	3 0 0 7 1 0
+Kneaves @ ss:	2 0 0 2 3 0
+Leverette @ p:	3 0 2 1 4 0
+TOTALS:		31 1 7 26 10 1
+
+Fort Worth:	ab r h po a e
+Stow @ ss:	4 0 0 4 4 0
+Hille @ 3b:	4 0 0 2 0 0
+Harper @ cf:	3 0 2 3 0 0
+Hunter @ 1b:	4 0 0 8 1 0
+Atz @ 2b:	3 2 1 2 3 0
+Lee @ lf:	3 0 1 2 1 0		
+McIver @ rf:	2 0 2 0 0 0
+(~8.1)Jordan @ c:	1 0 0 5 1 0	
+(~8.2)Betts @ c:	0 0 0 1 1 0	
+Harrah @ p:	3 0 0 0 1 0
+TOTALS:		27 2 6 27 12 0
+
+line: Shreveport: 0 1 0 0 0 0 0 0 0 - 1
+line: Fort Worth: 0 0 0 0 0 0 1 0 1 - 2
+
+B_2B: McIver #2; Atz
+B_SH: Jordan; Lee; Wells
+B_SF: McIver
+P_BB: Harrah #2; Leverette #4
+P_SO: Harrah #5; Leverette #7
+P_WP: Harrah
+outsatend: #2
+T: 1:40
+U: Hayes
+
+---
+
+date: 1915-08-31
+number: 0
+league: Texas
+away: San Antonio
+home: Houston
+source: Dallas Morning News, September 1, 1915
+status: game ended early, by darkness
+
+San Antonio:	ab r h po a e
+Baggan @ lf:	2 1 0 2 0 0
+Handiboe @ cf:	4 0 1 2 0 0
+Dunckel @ 1b:	5 1 2 8 0 0
+Love @ 2b:	4 0 1 0 2 0
+Balenti @ ss:	4 0 0 2 0 0
+Burch @ c:	4 0 1 6 1 0
+Odell @ 3b:	3 2 1 0 2 0
+Harber @ rf:	3 2 2 3 0 0
+Mullins @ p:	4 0 1 1 1 0
+TOTALS:		33 6 9 24 6 0
+
+Houston:	ab r h po a e
+Mowry @ lf:	4 0 1 3 0 0
+Seitz @ 2b:	4 1 2 4 3 1
+Frierson @ cf:	4 0 0 2 1 0
+Newnam @ 1b:	3 0 3 4 0 0
+(~5.1)Shaw @ rf:	2 0 0 1 0 0
+Summers @ ss:	4 0 0 4 1 2
+Durkin @ 3b:	3 0 1 1 0 1
+Allen @ c:	3 0 1 5 3 0
+Napier @ p:	3 0 0 0 3 1
+(~5.1)Edmondson @ rf:	2 0 0 0 0 0 	
+TOTALS:		32 1 8 24 11 5
+
+line: San Antonio: 1 0 0 0 0 0 3 2 - 6
+line: Houston:     0 0 0 0 0 1 0 0 - 1
+
+B_LOB: Houston #8; San Antonio #9
+B_2B: Seitz; Odell; Mullins; Newnam; Dunckel; Harber
+B_3B: Newnam
+B_SB: Newnam; Dunckel; Love; Balenti; Harber
+P_BB: Napier #5; Mullins #1
+P_SO: Mullins #6; Napier #3
+P_WP: Napier; Mullins
+F_DP: Frierson, Seitz
+T: 2:00
+U: Anderson
