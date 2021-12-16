@@ -65,12 +65,59 @@ file and compare it visually with the source.
 
 The best way to understand the file format rules is to look at existing files, as
 it is intended that transcription can be done without having to read long
-documentation first.  The source code of the parser can also be used to
-understand what the rules of the format are.
+documentation first.
 
-Here we also provide some selected documentation on some finer or less-common points.
+### Preliminary: Type what you see
 
-### Game metadata
+In preparing files in this format, the key principle is to type what is in the
+source.  In doing so, you will inevitably find information which is inconsistent:
+player names will be spelled in various ways, statistical totals will not balance,
+and so on.  Likewise, there are inferences that can be made from the data in a game.
+A common example is if a team uses two pitchers Smith and Jones in a nine-inning game,
+a boxscore may list Smith with 8 innings pitched and not mention Jones.  Obviously,
+it follows logically that Jones should be credited with one inning pitched.
+You should *not* transcribe Jones with one IP in such a case, *unless* the boxscore
+explicitly lists him as such.
+
+Keeping a clear distinction between the data-capture and editing stages of
+research has many benefits.
+It is beyond the scope of this note to list them all.
+In short, transcribing sources exactly - warts and all - helps to make every
+data value in your dataset traceable back to a source, and therefore makes
+the research process fully reproducible.
+
+### Organisation
+
+We collect games by source; one source may contain games from many leagues (especially if
+a paper had very extensive baseball coverage), and conversely a league may have games
+recorded in many sources.  Organising games by source makes it easier to track which
+sources have and have not been consulted and transcribed.
+
+For sources with a large number of games, we usually use one text file per day.
+For sources with thinner coverage, it is sometimes convenient to use one file
+per week, usually dated with the Monday of that week.
+
+Within a file, games are separated by a line consisting of three dashes, `---`, and nothing
+else.
+
+### Structure
+
+The structure of a game transcription is mainly line-oriented; each line in the text
+file corresponds to one type of information.
+Lines generally are of the form `label: value`.
+
+### Game data
+
+The game-level data fields `date:`, `number:`, `away:`, and `home:` are
+required, and have their standard meanings.  The field `source:` is not required,
+but encouraged to be included - although the overall source is implied by the file
+organisation, this can be used to mark, for example, the edition of the newspaper or
+page number.
+
+#### League
+
+The `league:` field indicates the league in which the game was played.
+This is omitted if the game was not part of a league regular season or playoff.
 
 #### Status
 
@@ -89,3 +136,83 @@ from the `status` attribute of games used by MLBAM.  A `status` record has the f
 
 Common values for the `reason` field are weather-related such as `rain` or `darkness`.
 More detailed reasons can be given where appropriate, such as `by agreement so Springfield could catch train`.
+
+
+### Lineups
+
+The lineup for a team is started by a line listing the team name (matching either the `away:` or
+`home:` record) as the label, and then a list of column headers matching the column headers in the boxscore.
+The most common list of headers is `ab r h po a e`, but some sources will have fewer (or more).
+
+Within a team, each line corresponds to one player.  The general format is `name @ pos: stats`.
+Where a player's initials or first name are given, `name` should be `surname, firstname`.
+The `stats` are separated by whitespace; they do not need to align visually with the column headers
+(but inputters are free to do so if they find it helpful).
+
+In the event a statistical value is missing or completely illegible, use an `x` for the value to indicate
+missing data.
+
+Where substitutions are indicated (by asterisks, daggers, and the like), the indicator is placed before
+the substituting player's name just as in the boxscore, e.g., `*Smith @ ph`.
+Acceptable values (so far) for indicators are `*`, `+`, `^`, `&`, and `$`.
+
+Optionally, lineups can be marked up to indicate batting order position.  For example, some boxscores
+list the starting nine first, and then substitutes below, while others list the substitutes immediately
+following the players they replaced.  Notation for this is placed at the start of the line.
+So if Smith pinch-hit for Jones, who was in the 8th spot in the order, you could write
+`(~8.1)Jones @ c:` and `(~8.2)Smith @ ph:`.
+This again is especially useful if Smith shows up a few lines later in the player list.
+Remember, to indicate this, transcribe the players in the order they appear on the page, and use this
+markup to connect the batting order slots.
+
+A team's lineup ends with a line with label `TOTALS`.  In the event a boxscore does not provide a totals
+line, the `TOTALS` line is still expected; fill the line with `x` for all stats categories to indicate
+the data are missing.
+
+### Linescores
+
+Runs by inning are indicated in `line:` records.  These have the format `line: team: scorebyinnings - total`.
+The score by innings is whitespace-delimited; if you find it useful to group innings by putting an extra
+space e.g. after each group of three innings (as is sometimes done) this is fine.
+If a team does not bat in an inning, indicate this with `x`.
+
+Where scores by innings are reported, list them in the order they appear in the source, noting that
+in historical sources it is not always the case that the home team (or the last-batting team) is listed last.
+
+
+### Credits
+
+Most boxscores list statistical credits beside the core stats in text format.  We capture these by
+providing a record with one line per type of statistical credit.
+
+The general format for these is `credit: Player1 #count; Player2 #count`.  For example,
+`B_2B: Jones #2; Smith` credits Jones with two doubles as a batter, and Smith with one double.
+Credits are separated with semicolons.  The `#` notation indicates counts; if the source does not
+list a count, it is assumed to be one (and the `#` should not be used; only use `#1` if the source
+has an explicit count of one printed).
+
+If a player is listed with an initial, the initial goes before the surname in the credits.
+That is, in the player list, you would write `Smith, J. @ cf`, but in the credits you write
+`B_2B: J. Smith`.
+
+The most common categories for credits are:
+* Batting: `B_LOB`, `B_ROE`, `B_2B`, `B_3B`, `B_HR`, `B_HP`, `B_SH`, `B_SB`
+* Pitching: `P_IP`, `P_R`, `P_H`, `P_BB`, `P_SO`, `P_WP`, `P_BK`
+* Fielding: `F_PB`, `F_DP`, `F_TP`
+* Game: `T`, `U`
+
+### Credits: Double and triple plays
+
+For double and triple plays, separate the names of players in the same play with commas, and
+separate different plays (or combinations of players) by semicolons.  So for example,
+`F_DP: Tinker, Evers, Chance #2; Russell, Lopes, Garvey` means 2 double plays for Tinker to
+Evers to Chance, and one for Russell to Lopes to Garvey.
+
+### Credits: Time of game
+
+The time-of-game credit `T` has the format `H:MM`, e.g. `T: 1:55`.
+
+### Credits: Umpires
+
+Umpires are credited as a semicolon-separated list.  Umpires are the one exception to the rule
+about ordering initials; umpire initials should *follow* the surname, e.g., `U: Smith, F.; Davis`.
