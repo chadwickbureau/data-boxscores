@@ -4,7 +4,7 @@ league: Atlantic
 away: Allentown 
 home: Pottsville 
 source: Pottsville Republican, July 17, 1909
-Status: game ended due to darkness
+status: completed early, darkness
 
 Allentown:	ab r h po a e
 Murphy @ ss:	x 2 2 6 6 1
