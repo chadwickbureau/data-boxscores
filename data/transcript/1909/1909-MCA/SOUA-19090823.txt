@@ -1155,7 +1155,7 @@ TOTALS:		19 1 6 16 11 3
 outsatend: 1
 
 line: Nashville: 0 5 0 0 0 1 - 6
-line: Little Rock: 1 0 0 0 0 * - 1
+line: Little Rock: 1 0 0 0 0 x - 1
 
 B_2B: Grady
 B_3B: Persons; Noyes

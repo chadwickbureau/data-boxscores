@@ -846,7 +846,7 @@ Thomas @ p:	3 0 0 0 3 0
 TOTALS:		33 10 6 27 8 0
 
 line: Atlanta: 0 1 0 0 0 0 1 0 0 - 2
-line: Montgomery: 2 0 0 0 7 1 0 0 * - 10
+line: Montgomery: 2 0 0 0 7 1 0 0 x - 10
 
 B_SH: Moran; Kerwin
 B_2B: Whiteman

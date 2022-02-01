@@ -29,7 +29,7 @@ def iterate_games(fn: pathlib.Path) -> Generator[str, None, None]:
         data = [y
                 for y in [x.strip() for x in f.readlines()]
                 if y != ""]
-    yield from "\n".join(data).rstrip("-").split("---\n")
+    yield from "\n".join(data).lstrip("-").rstrip("-").split("---\n")
 
 
 def data_pairs(text: str) -> Generator[tuple, None, None]:
@@ -122,7 +122,9 @@ def process_linescore(game: dict, key: str, value: str) -> dict:
     team['score'] = {'total': int(score)}
     if byinnings != "":
         team['score']['byinnings'] = [
-            int(x) if x.lower() != "x" else "x"
+            None if x == "?" else (
+                int(x) if x.lower() != "x" else "x"
+            )
             for x in byinnings.split()
         ]
     return game
@@ -133,6 +135,11 @@ def process_umpires(game: dict, key: str, value: str) -> dict:
         game['officials'].append({
             'name': name
         })
+    return game
+
+
+def process_substitute(game: dict, key: str, value: str) -> dict:
+    game['substitutes'][key] = value
     return game
 
 
@@ -166,6 +173,16 @@ def process_credits(game: dict, key: str, value: str) -> dict:
 
 def transform_team(team: dict, data: Generator[tuple, None, None],
                    key: str, value: str) -> dict:
+    def validate_positions(pos: str) -> str:
+        if pos == "?":
+            return None
+        poslist = pos.lower().split("-")
+        for pos in poslist:
+            if pos not in ["p", "c", "1b", "2b", "3b", "ss", "lf", "cf", "rf",
+                           "ph", "pr"]:
+                raise ValueError(pos)
+        return "-".join(poslist)
+                
     columns = [x.strip() for x in value.split()]
     while True:
         key, value = next(data)
@@ -185,11 +202,12 @@ def transform_team(team: dict, data: Generator[tuple, None, None],
         if ")" in name:
             # TODO: Extract sequence information
             name = name.split(")")[1]
-        if name.startswith("*"):
+        if name.startswith(("*", "+", "$")):
             note = name[0]
             name = name[1:]
         else:
             note = None
+        pos = validate_positions(pos)
         player = {
             'name': name,
             'positions': pos
@@ -219,6 +237,7 @@ def transform_game(source: str, text: str) -> dict:
                    'totals': {},
                    'players': []}
                    for t in [0, 1]],
+        'substitutes': {},
         'credits': {},
         'officials': []
     }
@@ -237,9 +256,12 @@ def transform_game(source: str, text: str) -> dict:
         "A": process_attendance,
         "T": process_duration,
         "outsatend": process_outsatend,
+        "*": process_substitute,
+        "+": process_substitute,
+        "$": process_substitute,
     }
     credits = [
-        "B_LOB", "B_ROE", "B_ER", "B_2B", "B_3B", "B_HR",
+        "B_LOB", "B_ROE", "B_R", "B_ER", "B_2B", "B_3B", "B_HR",
         "B_SB", "B_SH", "B_SF", "B_HP", "B_XO",
         "P_BB", "P_SO", "P_H", "P_R", "P_IP", "P_WP", "P_BK", "P_HP",
         "P_GS", "P_GF", "P_W", "P_L", "P_SV",

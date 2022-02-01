@@ -1167,7 +1167,7 @@ outsatend: 1
 note: appearance - per separate article at source, Sentz left the bench after coming from the field in the 5th inning, removed his uniform, showered and dressed - as Sentz was consequently not available when the 6th inning started, Rhodes was inserted into the game in CF - however, Rhodes' appearance is not recorded in the box
 
 line: Nashville: 0 5 0 0 0 1 - 6
-line: Little Rock: 1 0 0 0 0 * - 1
+line: Little Rock: 1 0 0 0 0 x - 1
 
 B_2B: Grady
 B_3B: Persons; Noyes

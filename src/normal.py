@@ -1,4 +1,5 @@
 import sys
+import pathlib
 
 import pandas as pd
 import yaml
@@ -48,8 +49,11 @@ def extract_players(source: str, games: list):
 
 
 def main(source: str):
-    with open(f"{source}.yml") as f:
-        games = list(yaml.safe_load_all(f))
+    games = []
+    for fn in sorted(pathlib.Path(".").glob("*.yml")):
+        print(fn)
+        with fn.open() as f:
+            games.extend(list(yaml.safe_load_all(f)))
     extract_games(source, games)
     extract_players(source, games)
 
