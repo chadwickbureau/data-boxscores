@@ -1,0 +1,152 @@
+date: 1923-05-16
+number: 1
+league: South Dakota
+away: Watertown
+home: Aberdeen
+source: Sioux Falls (SD) Argus-Leader, May 17 1923
+		
+
+Watertown: 	ab r h po a e
+Bowers @ ss: 	5 0 0 2 2 0
+Wick @ 2b: 	5 0 1 2 4 0
+Donlin @ cf: 	4 0 1 2 0 0
+Frank @ lf: 	4 1 0 0 0 0 
+Johnson @ 1b: 	4 1 1 10 0 0
+Shields @ rf: 	3 0 1 2 0 0
+Nelson @ 3b: 	4 0 2 0 2 0
+Gerner @ c: 	4 0 1 6 0 0
+Michaelson @ p: 2 0 0 0 4 0
+~Secora @ ph:	1 0 0 0 0 0
+Podinski @ p: 	1 0 0 0 0 0
+TOTALS: 	37 2 7 24 12 0
+		
+
+Aberdeen: 	ab r h po a e
+Nolt @ cf: 	1 1 1 1 0 0
+Carlson @ cf: 	2 0 0 1 0 0
+Wert @ 1b: 	3 1 1 7 0 0
+Gaffke @ 2b: 	3 1 1 2 3 2
+Clemons @ ss: 	4 1 1 1 2 2
+Bruski @ lf: 	4 0 0 0 0 0
+Novak @ c: 	4 1 2 9 0 0
+Zart @ rf: 	5 1 1 0 1 0
+Barr @ 3b: 	3 0 2 4 1 0
+Brindza @ p: 	2 0 1 2 1 0
+TOTALS: 	31 6 11 27 8 4
+		
+
+line: Watertown: 0 1 0 0 0 1 0 0 0 - 2
+line: Aberdeen: 2 2 1 0 0 1 0 0 x - 6
+		
+
+B_LOB: 
+B_ROE: 
+B_ER: 
+B_2B: Gaffke; Novak
+B_3B: Nolt
+B_HR: Clemons; Johnson
+B_SB: Novak
+B_SH: Wert; Gaffke; Brindza
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Michaelson #1; Podinski #2; Brindza #1
+P_SO: Michaelson #3; Podinski #2; Brindza #7
+P_H: Michaelson #10; Podinski #1; Brindza #7
+P_IP: Michaelson #6;
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Gaffke, Clemons, Wert; Wick, Bowers, Johnson  
+F_PB: 
+A: 1,250
+T: 1:52
+U: O'Brien
+		
+P_GS: 
+P_GF: 
+P_W: Brindza
+P_L: Michaelson
+P_SV: 
+
+---
+
+
+date: 1923-05-16
+number: 2
+league: South Dakota
+away: Sioux Falls
+home: Mitchell
+source: Sioux Falls (SD) Argus-Leader, May 17 1923
+		
+
+Sioux Falls: 	ab r h po a e
+Dempsey @ cf: 	5 0 1 0 0 0
+Cleve @ 2b: 	5 0 0 3 6 0
+Beatty @ 1b: 	4 1 1 10 2 0
+Stolz @ rf: 	5 0 1 1 0 0
+Naleway @ ss: 	4 1 1 0 2 0
+Bockskauf @ c: 	5 0 0 5 1 1
+O'Leary @ lf: 	4 1 1 2 0 0
+Louderman @ 3b: 4 1 2 1 1 0
+Ludolph @ p: 	4 0 2 2 3 1 
+TOTALS: 	39 4 9 24 15 2
+		
+
+Mitchell: 	ab r h po a e
+Lee @ lf: 	2 1 1 1 0 0 
+Stokke @ 2b: 	4 0 0 3 6 0
+Hart @ 1b: 	3 1 1 11 0 0
+Nason @ cf: 	4 1 1 4 1 0
+Peterson @ rf: 	4 0 0 0 0 0
+Shaunessy @ 3b: 2 1 2 1 5 4
+Askland @ c: 	3 1 1 3 1 1
+Callan @ ss: 	3 0 1 3 1 1
+Redenbaugh @ p: 3 0 0 1 2 0
+TOTALS: 	28 5 7 17 16 6
+		
+
+line: Sioux Falls: 0 2 0 0 0 0 2 0 0 - 4
+line: Mitchell: 1 0 0 0 2 2 0 0 x - 5
+		
+
+B_LOB: Sioux Falls #14; Mitchell #3
+B_ROE: 
+B_ER: Sioux Falls #3; Mitchell #1
+B_2B: Shaunessy; Dempsey; Lee; Nason
+B_3B: Loudeman
+B_HR: 
+B_SB: Naleway 
+B_SH: 
+B_SF: 
+B_HP: Stolz
+B_XO: 
+P_BB: Ludolph #4; Redenbaugh #3
+P_SO: Ludolph #4; Redenaugh #3
+P_H: 
+P_IP: 
+P_HP: Redenbaugh
+P_WP: Ludolph
+P_BK: 
+F_DP: Nason, Stokke
+F_PB: Bockskauf #1; Askland #1
+outsatend: 
+T: 1:40
+U: McGoon
+		
+
+P_GS: 
+P_GF: 
+P_W: Redenbaugh
+P_L: Ludolph
+P_SV: 
+
+
+
+
+
+
+
+
+
+
