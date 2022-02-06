@@ -1,0 +1,140 @@
+date: 1923-05-26
+number: 0
+league: South Dakota
+away: Aberdeen
+home: Mitchell
+source: Sioux Falls (SD) Argus-Leader, May 27 1923
+			
+Aberdeen: 	ab r h po a e
+Nolt @ cf:	3 3 0 0 0 0
+Wert @ 1b: 	3 1 1 12 1 1
+Gaffke @ 2b: 	6 2 1 3 3 3
+Benson @ ss: 	5 1 3 0 3 0
+Novak @ c: 	5 0 2 10 1 0
+Clemons @ 3b: 	0 0 0 1 0 0
+Barr @ 3b: 	3 0 0 0 2 0
+Carlson @ lf:	2 0 1 0 0 0
+Zart @ rf:	6 1 1 0 1 0
+Brindza @ p:	2 1 0 0 3 0
+Kutina @ p:	1 0 0 0 0 0
+$Brandt @ ph:	1 1 0 0 0 0 
+TOTALS: 	43 11 10 29 14 1 
+$: Batted for Brindza in 9th.
+
+Mitchell: 	ab r h po a e
+Lee @ lf: 	4 2 1 3 0 0
+Stokke @ 1b: 	5 2 2 8 0 0
+Hart @ rf: 	5 4 3 1 0 0
+Nason @ cf: 	6 1 3 3 1 0
+Shaunessy @ 3b: 4 1 3 1 5 1
+Morris @ 2b: 	5 0 1 1 3 1
+Callan @ ss: 	4 0 0 1 2 1
+Metzger @ c: 	4 0 1 11 1 0
+Flannigan @ p:	4 1 1 0 0 0
+Redenbaugh @ p:	0 0 0 0 0 0
+*Proffitt @ ph:1 1 1 0 0 0 
+TOTALS: 	42 12 16 29 12 3
+
+*: Batted for Redenbaugh in 10th.
+	
+line: Aberdeen: 0 0 2 0 2 0 0 3 3 1- 11
+line: Mitchell: 2 0 0 0 1 4 1 2 0 2 - 12
+	
+B_LOB: Mitchell #7; Aberdeen #13
+B_ROE: 
+B_ER: Mitchell #12; Aberdeen #9
+B_2B: Benson; Stokke
+B_3B: Barr; Hart; Shaunessy; Nason; Poffitt
+B_HR: 
+B_SB: Clemmons; Novak; Nason; Shaunessy #2
+B_SH: Metzger
+B_SF: 
+B_HP: 
+B_XO: Wert, hit by batted ball
+P_BB: Brindza #7; Kutina; Flannigan #6; Redenbaugh #4
+P_SO: Brindza #6; Kutina; Flannigan #5; Redenbaugh #2
+P_H: Brindza #13; Kutina #3; Flannigan #5; Redenbaugh #5
+P_IP: Brindza #9; Kutina; Flannigan #7.1; Redenbaugh #2.1
+P_HP: 
+P_WP: Flannigan; Redenbaugh
+P_BK: 
+F_DP: 
+F_PB: Metzger
+outsatend: 
+T: 3:00
+U: O'Brien
+		
+
+P_GS: ~Brindza; ~Flannigan
+P_GF: ~Kutina; ~Redenbaugh
+P_W: ~Redenbaugh
+P_L: ~Kutina
+P_SV: 
+
+---
+
+date: 1923-05-26
+number: 0
+league: South Dakota
+away: Watertown
+home: Sioux Falls
+source: Sioux Falls (SD) Argus-Leader, May 27 1923
+		
+Watertown: 	ab r h po a e
+Bowers @ ss: 	6 2 1 1 5 0
+Wick @ 2b: 	6 2 0 5 6 0
+Frank @ cf:	6 1 2 3 0 0
+Pederson @ lf: 	4 0 2 1 0 0
+Johnson @ 1b: 	5 0 0 12 0 0
+Shields @ rf: 	4 1 1 2 0 0
+Nelson @ 3b: 	5 1 0 0 2 1
+Gerner @ c: 	0 0 0 1 0 1
+Michaelson @ p: 4 2 0 0 2 0
+Smith @ c:	2 2 2 2 0 0
+TOTALS: 	42 11 8 27 15 1
+
+Sioux Falls: 	ab r h po a e
+Devoss @ rf:	4 0 0 1 0 0
+Dempsey @ cf: 	2 1 0 0 0 0
+Beatty @ 1b: 	2 0 0 11 1 0
+Stolz @ lf: 	4 0 0 1 0 0
+Naleway @ ss: 	4 0 1 5 3 0
+Cleve @ 2b: 	4 0 1 1 2 0 
+Ward @ 3b:	3 0 1 1 2 2
+Bockskopf @ c:  4 0 0 7 1 1  
+Hood @ p:	0 1 0 0 0 0 
+Bell @ p:	2 0 0 0 1 2 
+TOTALS: 	29 2 3 27 10 5
+	
+line: Watertown: 0 0 0 0 6 5 0 0 0 - 11
+line: Sioux Falls: 0 0 2 0 0 0 0 0 0  - 2		
+
+B_LOB: Watertown #10; Sioux Falls #6
+B_ROE: 
+B_ER: 
+B_2B: Frank; Cleve; Pederson
+B_3B: Frank
+B_HR: 
+B_SB: Dempsey; Bockskopf; Ward
+B_SH: DeVoss; Beatty
+B_SF: 
+B_HP: Beatty
+B_XO: 
+P_BB: Michaelson #4; Hood #4; Bell #2
+P_SO: Michaelson #2; Hood; Bell #3
+P_H: ~Michaelson #3
+P_IP: ~Michaelson #9
+P_HP: Michaelson
+P_WP: 
+P_BK: 
+F_DP: Naleway, Beatty; Nelson, Wick, Johnson
+F_PB: Bockskopf
+outsatend: 
+T: 1:50
+U: McGoon
+		
+P_GS: ~Michaelson; ~Hood
+P_GF: ~Michaelson; ~Bell
+P_W: ~Michaelson
+P_L: ~Hood
+P_SV: 

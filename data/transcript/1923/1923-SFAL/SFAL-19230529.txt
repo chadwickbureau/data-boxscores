@@ -1,0 +1,136 @@
+date: 1923-05-28
+number: 0
+league: South Dakota
+away: Mitchell
+home: Sioux Falls
+source: Sioux Falls (SD) Argus-Leader, May 29 1923
+			
+Mitchell: 	ab r h po a e
+Lee @ lf-ss: 	2 0 1 2 0 0
+Stokke @ 1b: 	4 0 1 12 1 0
+Hart @ rf: 	4 1 1 1 0 0
+Nason @ cf: 	3 1 1 1 0 1
+Shaunessy @ 3b: 3 0 2 0 2 1
+Morris @ 2b: 	4 0 1 4 2 0
+Callan @ ss: 	3 0 0 0 6 1
+Metzger @ c: 	4 0 0 4 0 3
+Redenbaugh @ p:	4 1 2 0 3 0
+*Proffitt @ ph-lf: 2 0 0 0 0 0
+TOTALS: 	33 3 9 24 14 6
+*: Batted for Callan in the eighth.
+
+Sioux Falls: 	ab r h po a e
+Naleway @ ss: 	5 1 1 2 6 1
+Cleve @ 2b: 	4 1 1 2 4 1
+Beatty @ 1b: 	4 0 1 14 3 0
+Stolz @ lf: 	4 1 3 1 0 0
+Louderman @ 3b:	3 0 0 2 0 0
+Devoss @ rf:	2 1 1 2 0 0
+Dempsey @ cf: 	2 0 0 3 0 0
+Bockskopf @ c:  3 1 0 1 0 0
+Nelson @ p:	3 0 0 0 5 0
+TOTALS: 	30 5 7 27 18 2
+	
+line: Mitchell: 2 0 0 0 0 0 1 0 0 - 3
+line: Sioux Falls: 0 0 2 1 1 1 0 0 x - 5
+	
+B_LOB: Mitchell #8; Sioux Falls #8
+B_ROE: 
+B_ER: 
+B_2B: Stolz; DeVoss; Hart
+B_3B: Stolz; Cleve; Redenbaugh
+B_HR: 
+B_SB: Shaunessy; Naleway #2
+B_SH: DeVoss; Nelson; Lee
+B_SF: 
+B_HP: Dempsey; Beatty
+B_XO: 
+P_BB: Nelson #2; Redenbaugh #5
+P_SO: Nelson #1; Redenbaugh #3
+P_H: ~Nelson #9; ~Redenbaugh #7
+P_IP: ~Nelson #9; ~Redenbaugh #8
+P_HP: Redenbaugh #2
+P_WP: 
+P_BK: 
+F_DP: Naleway, Beatty; Naleway, Beatty
+F_PB: Metzger
+outsatend: 
+T: 1:40
+U: O'Brien
+		
+
+P_GS: ~Nelson; ~Redenbaugh
+P_GF: ~Nelson; ~Redenbaugh
+P_W: ~Nelson
+P_L: ~Redenbaugh
+P_SV: 
+
+---
+
+date: 1923-05-28
+number: 0
+league: South Dakota
+away: Aberdeen
+home: Watertown
+source: Sioux Falls (SD) Argus-Leader, May 29 1923
+		
+Aberdeen: 	ab r h po a e
+Carlson @ 1b:	3 2 2 12 0 1
+Bruski @ cf:	5 1 2 3 0 0
+Gaffke @ 2b: 	4 1 2 4 4 1
+Benson @ ss: 	3 3 2 1 5 1
+Novak @ c: 	5 0 2 4 0 0
+Zart @ rf:	4 0 1 3 0 0
+Barr @ 3b: 	4 1 1 0 0 0
+Clemons @ lf: 	5 2 3 0 0 0
+Lowry @ p: 	4 1 1 0 4 0
+Kutina @ p:	1 0 0 0 0 0
+TOTALS: 	38 11 16 27 13 3
+
+Watertown: 	ab r h po a e
+Bowers @ ss: 	5 0 1 2 2 0
+Wick @ 2b: 	5 0 2 1 5 0
+Frank @ cf:	5 1 2 2 0 0
+Pederson @ lf-c:4 1 1 2 2 0
+Johnson @ 1b: 	5 0 2 11 1 0
+Shields @ rf: 	5 2 2 1 0 0
+LaPorte @ 3b: 	4 1 1 1 1 0
+Smith @ c: 	2 0 0 6 0 0 
+Prodinski @ p: 	4 1 0 1 2 0
+Desjardins @ p:	0 0 0 0 0 0
+TOTALS: 	40 7 11 27 13 0
+
+line: Aberdeen: 3 0 0 1 1 2 1 2 1 - 11	
+line: Watertown: 0 1 0 0 0 6 0 0 0 - 7
+		
+
+B_LOB: 
+B_ROE: 
+B_ER: Watertown #4; Aberdeen #11
+B_2B: Shields; Novak; Bruski
+B_3B: Shields; Gaffke
+B_HR: Benson; Clemmons; Barr
+B_SB: Carlson; Benson; Clemmons
+B_SH: Zart
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Lowry #3; Prodinski #6
+P_SO: Lowry #1; Prodinski #7; Kutina #2
+P_H: Prodinski #12; Desjardins #4; Lowry #11; 
+P_IP: Prodinski #7; Desjardins #2; Lowry #7.1; Kutina #1.2
+P_HP: 
+P_WP: Prodinski; Lowry
+P_BK: 
+F_DP: LaPort, Wick, Johnson
+F_TP: Bowers, Pederson, Johnson, Pederson
+F_PB: 
+outsatend: 
+T: 2:00
+U: McGoon
+		
+P_GS: ~Lowry; ~Prodinski
+P_GF: ~Kutina; ~Desjardins
+P_W: ~Lowry
+P_L: ~Prodinski
+P_SV:

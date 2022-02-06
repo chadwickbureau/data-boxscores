@@ -1,0 +1,142 @@
+date: 1923-05-18
+number: 0
+league: South Dakota
+away: Mitchell
+home: Sioux Falls
+source: Sioux Falls (SD) Argus-Leader, May 19 1923
+		
+
+Mitchell: 	ab r h po a e
+Lee @ lf: 	3 2 1 1 0 0 
+Stokke @ 1b: 	4 1 2 11 0 0 
+Hart @ rf: 	2 0 1 1 0 0
+Nason @ cf: 	3 0 2 1 0 1
+Pederson @ c: 	3 0 0 3 0 0
+Shaunessy @ 3b: 3 0 0 1 2 0
+Morris @ 2b: 	3 0 0 2 3 0
+Callan @ ss: 	1 1 1 1 2 3
+Bennett @ p: 	3 1 0 0 4 0
+TOTALS: 	25 5 7 21 11 4
+
+Sioux Falls: 	ab r h po a e
+Dempsey @ cf: 	4 1 0 0 0 0
+Cleve @ 2b: 	4 0 0 2 1 0
+Beatty @ 1b: 	3 1 0 9 1 0 
+Stolz @ rf: 	4 1 1 1 0 0
+Naleway @ ss: 	4 0 2 0 2 0
+Bischoff @ c: 	3 0 0 7 0 1
+Ludolph @ lf: 	2 0 1 1 1 0
+Louderman @ 3b: 2 0 1 1 2 0
+Bell @ p: 	2 0 0 0 6 0
+TOTALS: 	28 3 5 21 13 1
+			
+line: Mitchell: - 5
+line: Sioux Falls:  - 3
+
+		
+
+B_LOB: Mitchell #4; Sioux Falls #7
+B_ROE: 
+B_ER: Sioux Falls #1; Mitchell #4
+B_2B: Lee
+B_3B: Stokke
+B_HR: 
+B_SB: Laudeman
+B_SH: Nason
+B_SF: 
+B_HP: Hart
+B_XO: 
+P_BB: Bennett $5; Bell #3
+P_SO: Bennett #7; Bell #7
+P_H: ~Bennett #5; ~Bell #7
+P_IP: ~Bennett #7; ~Bell #7
+P_HP: 
+P_WP: Bennett
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 2:00
+U: McGoon
+		
+
+P_GS: ~Bennett; ~Bell
+P_GF: ~Bennett; ~Bell
+P_W: ~Bennett
+P_L: ~Bell
+P_SV: 
+
+---
+
+date: 1923-05-18
+number: 0
+league: South Dakota
+away: Watertown
+home: Aberdeen
+source: Aberdeen (SD) Daily News, May 19 1923
+		
+
+Watertown: 	ab r h po a e
+Bowers @ ss: 	3 0 1 4 0 0
+*Shultz @ ph:	1 0 0 0 0 0
+Wick @ 2b: 	4 0 1 1 8 0
+Donlin @ cf: 	4 0 1 0 0 0
+Frank @ lf: 	3 0 0 1 0 0
+$Secora @ ph:	1 0 0 0 0 0
+Johnson @ 1b: 	3 0 0 10 0 0
+Shields @ rf: 	3 0 0 3 0 0
+Nelson @ 3b: 	3 0 0 3 1 0
+Gerner @ c: 	3 0 0 5 1 0
+Besse @ p: 	3 0 0 0 5 0
+TOTALS: 	31 0 3 27 15 0
+*: Batted for Bowers in the 8th.
+$: Batted for Frank in ninth.		
+
+Aberdeen: 	ab r h po a e
+Wert @ 1b: 	5 0 0 11 0 1
+Bruski @ lf: 	5 0 1 0 0 0
+Gaffke @ 2b: 	2 1 1 4 5 0
+Benson @ ss: 	4 2 1 0 2 0
+Novak @ c: 	3 2 1 11 2 0 
+Zart @ rf: 	3 0 1 0 1 0 
+Carlson @ cf: 	3 1 0 1 0 0
+Barr @ 3b: 	3 1 0 0 2 0
+Brandt @ p: 	3 1 2 0 0 0
+TOTALS: 	35 8 7 27 12 1
+
+
+		
+
+line: Watertown: 0 0 0 0 0 0 0 0 0 - 0
+line: Aberdeen: 0 4 0 0 2 0 2 0 0 - 8
+		
+
+B_LOB: Aberdeen #5; Watertown #5
+B_ROE: 
+B_ER: Aberdeen #5
+B_2B: Brandt
+B_3B: 
+B_HR: Novak; Benson
+B_SB: Benson; Novak; Zart
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Besse #8; Brandt #2
+P_SO: Besse #4; Brandt #9
+P_H: ~Brandt #3; ~Besse #7
+P_IP: ~Brandt #9; ~Besse #9
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: Besse, Wick, Nelson
+F_PB: 
+outsatend: 
+T: 1:40
+U: O'Brien
+		
+P_GS: ~Brandt; ~Besse
+P_GF: ~Brandt; ~Besse
+P_W: ~Brandt
+P_L: ~Besse
+P_SV: 

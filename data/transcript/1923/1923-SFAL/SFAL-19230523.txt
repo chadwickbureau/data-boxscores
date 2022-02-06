@@ -1,0 +1,143 @@
+date: 1923-05-22
+number: 0
+league: South Dakota
+away: Aberdeen
+home: Sioux Falls
+source: Sioux Falls (SD) Argus-Leader, May 23 1923
+			
+Aberdeen: 	ab r h po a e
+Nolt @ cf:	4 0 0 0 0 0 
+Wert @ 1b: 	6 0 2 13 0 0
+Bruski @ lf: 	6 1 3 3 0 0
+Gaffke @ 2b: 	3 1 2 6 1 0
+Benson @ ss: 	5 1 0 1 3 0
+Novak @ c: 	5 1 2 8 0 0
+Zart @ rf: 	5 1 2 2 0 0 
+Barr @ 3b: 	5 0 2 1 2 0
+Brindza @ p: 	6 0 1 1 5 0
+TOTALS: 	45 5 13 35 11 0	
+
+Sioux Falls: 	ab r h po a e
+Devoss @ lf:	7 0 1 1 0 0
+Dempsey @ cf: 	6 0 1 1 0 0
+Beatty @ 1b: 	4 0 1 14 0 1  
+Stolz @ rf: 	5 0 1 2 0 0
+Naleway @ ss: 	6 1 1 4 4 0
+Cleve @ 2b: 	5 3 3 4 6 0
+Louderman @ 3b: 5 0 3 0 4 0
+Madsen @ c:	2 0 0 9 3 0
+Nelson @ p:	0 0 0 0 1 0
+Albertson @ p:	2 0 0 0 0 0
+*Ludolph @ ph: 	2 x 0 x x x
+Bockskopf @ c:  1 1 0 1 1 0
+$Delman @ pr:	0 0 0 0 0 0
+^Ward @ ph:	1 1 1 0 0 0
+TOTALS: 	45 6 12 36 19 1
+*: Batted for Madson in the eighth.
+$: Ran for Louderman in the sixth and tenth.
+			
+line: Aberdeen: 0 0 3 0 0 0 0 1 0 0 0 1- 5
+line: Sioux Falls: 0 0 0 2 0 1 0 1 0 0 0 2 - 6
+	
+B_LOB: Sioux Falls #11; Aberdeen #12
+B_ROE: 
+B_ER: Sioux Falls #6
+B_2B: Wert; Bruski; Naleway; Cleve; Ward; Zart
+B_3B: Cleve
+B_HR: Novak; Zart
+B_SB: Barr; Novak; Benson; Loudeman; Beatty #2
+B_SH: Gaffke; Benson; Beatty; Albertson
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Nelson #3; Albertson #5; Brindza #8
+P_SO: 
+P_H: ~Brindza #12
+P_IP: Nelson #3.2; Albertson #9.1; ~Brindza #12
+P_HP: 
+P_WP: 
+P_BK: Nelson
+F_DP: 
+F_PB: 
+outsatend: 2
+T: 2:50
+U: McGoon
+		
+
+P_GS: ~Nelson; ~Brindza
+P_GF: ~Albertson; ~Brindza
+P_W: ~Brindza
+P_L: ~Albertson
+P_SV: 
+
+---
+
+date: 1923-05-22
+number: 0
+league: South Dakota
+away: Watertown
+home: Mitchell
+source: Sioux Falls (SD) Argus-Leader, May 23 1923
+		
+
+Watertown: 	ab r h po a e
+Bowers @ ss: 	4 1 1 4 2 0
+Wick @ 2b: 	3 0 0 1 2 1
+Donlin @ cf: 	4 1 1 3 0 0
+Pederson @ lf: 	4 1 1 3 0 0
+Johnson @ 1b: 	3 0 0 9 0 0
+Shields @ rf: 	3 0 1 1 1 0
+*Podinski @ ph:	1 0 0 0 0 0
+Nelson @ 3b: 	3 0 0 0 0 1
+Gerner @ c: 	4 0 2 5 0 0
+Aschenach @ p: 	4 1 0 1 4 0
+TOTALS: 	32 4 6 27 9 2
+*: Batted for Shields in eighth.		
+
+Mitchell: 	ab r h po a e
+Lee @ lf: 	5 0 2 4 0 0
+Stokke @ 1b: 	5 0 1 9 0 0
+Hart @ rf: 	4 1 1 1 0 0
+Nason @ cf: 	2 0 1 1 0 0
+Shaunessy @ 3b: 4 0 0 1 1 0
+Morris @ 2b: 	4 0 1 0 1 0
+Callan @ ss: 	4 1 1 1 3 1
+Herther @ c: 	3 0 1 10 0 1
+*Scharnweber @ ph: 1 0 1 0 0 0 
+Proffitt @ p: 	4 0 1 0 4 2
+TOTALS: 	26 2 10 27 9 4 
+*: Batted for Herther in ninth.	
+
+line: Watertown: 0 0 0 1 0 0 0 2 1 - 4
+line: Mitchell: 1 0 0 0 0 0 0 0 1 - 2
+		
+
+B_LOB: Watertown #6; Mitchell #9
+B_ROE: 
+B_ER: Mitchell #2; Watertown #2
+B_2B: Bowers; Callan
+B_3B: 
+B_HR: 
+B_SB: Morris #2
+B_SH: Wick; Nelson
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Aschenbach #2; Proffitt #2
+P_SO: Aschenbach #5; Proffitt #10
+P_H: ~Aschenbach #10; ~Proffitt #6
+P_IP: ~Aschenbach #9; ~Proffitt #9
+P_HP: 
+P_WP: Proffitt #2
+P_BK: 
+F_DP: Shields, Johnson
+F_PB: Herther
+outsatend: 
+T: 2:05
+U: O'Brien
+		
+P_GS: ~Aschenbach; ~Proffitt
+P_GF: ~Aschenbach; ~Proffitt
+P_W: ~Aschenbach
+P_L: ~Proffitt
+P_SV: 

@@ -202,7 +202,7 @@ def transform_team(team: dict, data: Generator[tuple, None, None],
         if ")" in name:
             # TODO: Extract sequence information
             name = name.split(")")[1]
-        if name.startswith(("*", "+", "$")):
+        if name.startswith(("*", "+", "$", "^")):
             note = name[0]
             name = name[1:]
         else:
@@ -259,6 +259,7 @@ def transform_game(source: str, text: str) -> dict:
         "*": process_substitute,
         "+": process_substitute,
         "$": process_substitute,
+        "^": process_substitute,
     }
     credits = [
         "B_LOB", "B_ROE", "B_R", "B_ER", "B_2B", "B_3B", "B_HR",

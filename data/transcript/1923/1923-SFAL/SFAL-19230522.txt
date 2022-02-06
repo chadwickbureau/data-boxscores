@@ -1,0 +1,76 @@
+date: 1923-05-21
+number: 0
+league: South Dakota
+away: Watertown
+home: Aberdeen
+source: Aberdeen (SD) Daily News, May 22 1923
+		
+
+Watertown: 	ab r h po a e
+Bowers @ ss: 	2 1 1 0 4 0
+Wick @ 2b: 	4 1 1 2 4 0
+Donlin @ cf: 	2 0 0 1 0 0
+Frank @ cf:	1 1 0 0 0 0
+Pederson @ lf: 	2 2 1 4 0 1
+Shields @ rf: 	3 0 0 3 0 1
+Nelson @ 3b: 	4 0 0 0 2 1
+Turen @ 1b: 	3 0 1 11 1 1
+Gerner @ c: 	5 1 2 3 0 0
+Michaelson @ p:	3 0 0 1 5 0
+TOTALS: 	30 6 7 27 16 4
+
+Aberdeen: 	ab r h po a e
+Wert @ 1b: 	5 0 0 7 0 1
+Bruski @ lf: 	4 1 1 2 0 0
+Gaffke @ 2b: 	4 1 2 1 2 0
+Benson @ ss: 	4 0 0 0 1 1
+Novak @ c: 	3 2 2 11 1 0
+Zart @ rf: 	3 1 1 2 0 0
+Carlson @ cf: 	4 0 1 1 0 0
+Barr @ 3b: 	4 0 0 2 0 0
+Brusek @ p:	3 0 0 0 2 0
+Farnum @ p: 	0 0 0 0 0 0
+TOTALS: 	34 5 7 26 6 2		
+
+line: Watertown: 0 1 0 0 0 1 0 0 4 - 6
+line: Aberdeen: 0 1 1 0 0 3 0 0 0 - 5
+		
+
+B_LOB: Aberdeen #5; Watertown #11
+B_ROE: 
+B_ER: Aberdeen #3; Watertown #5
+B_2B: 
+B_3B: Zart; Gerner
+B_HR: 
+B_SB: 
+B_SH: Zart; Bowers; Shields; Johnson
+B_SF: 
+B_HP: Bowers
+B_XO: 
+P_BB: Michaelson; Brusek #10
+P_SO: Michaelson #2; Brusek #8; Farnum 
+P_H: Brusek #3; Farnum #4; ~Michaelson #7
+P_IP: Farnum #1; ~Michaelson #9
+P_HP: Brusek
+P_WP: 
+P_BK: 
+F_DP: Wert
+F_PB: Novak
+outsatend: 2
+T: 2:00
+U: O'Brien
+		
+P_GS: ~Michaelson; ~Brusek 
+P_GF: ~Michaelson, ~Farnum
+P_W: ~Michaelson
+P_L: Farnum
+P_SV: 
+
+---
+
+date: 1923-05-21
+number: 0
+away: Mitchell
+home: Sioux Falls
+status: postponed, rain
+

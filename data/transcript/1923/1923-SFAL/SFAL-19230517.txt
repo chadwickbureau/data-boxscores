@@ -16,17 +16,17 @@ Shields @ rf: 	3 0 1 2 0 0
 Nelson @ 3b: 	4 0 2 0 2 0
 Gerner @ c: 	4 0 1 6 0 0
 Michaelson @ p: 2 0 0 0 4 0
-~Secora @ ph:	1 0 0 0 0 0
+*Secora @ ph:	1 0 0 0 0 0
 Podinski @ p: 	1 0 0 0 0 0
 TOTALS: 	37 2 7 24 12 0
-		
+*: Batted for Michaelson in seventh.		
 
 Aberdeen: 	ab r h po a e
 Nolt @ cf: 	1 1 1 1 0 0
 Carlson @ cf: 	2 0 0 1 0 0
 Wert @ 1b: 	3 1 1 7 0 0
 Gaffke @ 2b: 	3 1 1 2 3 2
-Clemons @ ss: 	4 1 1 1 2 2
+Clemmons @ ss: 	4 1 1 1 2 2
 Bruski @ lf: 	4 0 0 0 0 0
 Novak @ c: 	4 1 2 9 0 0
 Zart @ rf: 	5 1 1 0 1 0
@@ -44,7 +44,7 @@ B_ROE:
 B_ER: 
 B_2B: Gaffke; Novak
 B_3B: Nolt
-B_HR: Clemons; Johnson
+B_HR: Clemmons; Johnson
 B_SB: Novak
 B_SH: Wert; Gaffke; Brindza
 B_SF: 
@@ -53,24 +53,23 @@ B_XO:
 P_BB: Michaelson #1; Podinski #2; Brindza #1
 P_SO: Michaelson #3; Podinski #2; Brindza #7
 P_H: Michaelson #10; Podinski #1; Brindza #7
-P_IP: Michaelson #6;
+P_IP: Michaelson #6; ~Brindza #9
 P_HP: 
 P_WP: 
 P_BK: 
-F_DP: Gaffke, Clemons, Wert; Wick, Bowers, Johnson  
+F_DP: Gaffke, Clemmons, Wert; Wick, Bowers, Johnson  
 F_PB: 
 A: 1,250
 T: 1:52
 U: O'Brien
 		
-P_GS: 
-P_GF: 
-P_W: Brindza
-P_L: Michaelson
+P_GS: ~Michaelson; ~Brindza 
+P_GF: ~Podinski; ~Brindza 
+P_W: ~Brindza
+P_L: ~Michaelson
 P_SV: 
 
 ---
-
 
 date: 1923-05-16
 number: 0
@@ -103,7 +102,7 @@ Shaunessy @ 3b: 2 1 2 1 5 4
 Askland @ c: 	3 1 1 3 1 1
 Callan @ ss: 	3 0 1 3 1 1
 Redenbaugh @ p: 3 0 0 1 2 0
-TOTALS: 	28 5 7 17 16 6
+TOTALS: 	28 5 7 27 16 6
 		
 
 line: Sioux Falls: 0 2 0 0 0 0 2 0 0 - 4
@@ -123,22 +122,22 @@ B_HP: Stolz
 B_XO: 
 P_BB: Ludolph #4; Redenbaugh #3
 P_SO: Ludolph #4; Redenaugh #3
-P_H: 
-P_IP: 
+P_H: ~Ludolph #7; ~Redenbaugh #9
+P_IP: ~Ludolph #8; ~Redenbaugh #9
 P_HP: Redenbaugh
 P_WP: Ludolph
 P_BK: 
 F_DP: Nason, Stokke
-F_PB: Bockskauf #1; Askland #1
+F_PB: Bockskauf; Askland
 outsatend: 
 T: 1:40
 U: McGoon
 		
 
-P_GS: 
-P_GF: 
-P_W: Redenbaugh
-P_L: Ludolph
+P_GS: ~Ludolph; ~Redenbaugh
+P_GF: ~Ludolph; ~Redenbaugh
+P_W: ~Redenbaugh
+P_L: ~Ludolph
 P_SV: 
 
 
