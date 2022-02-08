@@ -414,7 +414,7 @@ P_BB: Porray #3; Teague #2
 P_SO: Porray #4; Teague #5
 P_HP: Teague
 F_DP: Emery, Wratten, Edwards
-outsatend: #1
+outsatend: 1
 T: 1:40
 U: Leake 
 
@@ -668,7 +668,7 @@ P_H: Causey #7; Strain #2
 P_IP: Causey #8; Strain #2
 P_HP: Richmond
 F_DP: Donovan, Gust, Donovan; Donovan, Calder, Gust; Cueto, Crowell
-outsatend: #0
+outsatend: 0
 T: 2:00
 U: Hirsch; Gardin
 
@@ -958,7 +958,7 @@ P_BB: May #5; Strain #1
 P_SO: May #3; Strain #4
 P_WP: May #2
 F_PB: Francisco
-outsatend: #2
+outsatend: 2
 T: 1:50
 U: Vitter
 

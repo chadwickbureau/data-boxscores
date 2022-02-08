@@ -522,7 +522,7 @@ P_BB: Poole #1; Hirsch #3; May #3
 P_SO: Poole #7; Hirsch #2
 P_H: Poole #8
 P_IP: May #.1; Poole #7.2
-outsatend: #1
+outsatend: 1
 T: 1:25
 U: Vitter 
 
@@ -583,7 +583,7 @@ P_BB: Applegate #3
 P_SO: Garden #2; Green #1; Applegate #4
 P_H: Garden #9; Green #3
 P_IP: Garden #8.1; Green #1.1
-outsatend:  #2
+outsatend: 2
 T: 1:55
 U: McGowan
 
@@ -803,7 +803,7 @@ P_H: Leake #2; Teague #4
 P_IP: Leake #1; Applegate #1; Teague #7
 P_WP: Camnitz
 F_DP: Edwards, Wratten
-outsatend:  #1
+outsatend: 1
 T: 1:40
 U: McGowan
 
@@ -855,7 +855,7 @@ B_SH: Poh; Henry
 P_BB: Gaston #2
 P_SO: Gaston #4; Gardin #5
 F_DP: Hurley, Poh, Henry; Carnes
-outsatend: #2
+outsatend: 2
 T: 1:40
 U: Bussey; Mace
 

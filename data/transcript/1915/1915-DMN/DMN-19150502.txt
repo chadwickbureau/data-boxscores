@@ -46,7 +46,7 @@ P_BB: McCafferty #4; Davenport #2; Sloan #3
 P_SO: McCafferty #2; Sloan #3
 P_H: McCafferty #8; Sloan #4
 P_IP: McCafferty #7; Davenport #1.1; Sloan #8; Mullins #1
-outsatend: #1
+outsatend: 1
 T: 2:20
 U: Miller
 

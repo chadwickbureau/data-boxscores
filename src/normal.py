@@ -13,7 +13,8 @@ def extract_team(team):
         'score': team.get('score', {}).get('total', None)
     }
 
-def extract_games(source: str, games: list):
+
+def extract_games(year: int, games: list):
     df = pd.json_normalize([
         {
             'source': game['source'],
@@ -23,10 +24,10 @@ def extract_games(source: str, games: list):
         }
         for game in games
     ])
-    df.to_csv(f"{source}-games.csv", index=False)
+    df.to_csv(f"data/normal/{year}-games.csv", index=False)
 
 
-def extract_players(source: str, games: list):
+def extract_players(year: int, games: list):
     df = pd.json_normalize([
         {
             'source': {
@@ -37,7 +38,8 @@ def extract_players(source: str, games: list):
                 'number': game['game']['number']
             },
             'team': {
-                'name': team['name']
+                'name': team['name'],
+                'league': team['league']
             },
             'player': player
         }
@@ -45,20 +47,20 @@ def extract_players(source: str, games: list):
         for team in game['teams']
         for player in team['players']
     ])
-    df.to_csv(f"{source}-players.csv", index=False)
+    df.to_csv(f"data/normal/{year}-players.csv", index=False)
 
 
-def main(source: str):
+def main(year: int):
     games = []
-    for fn in sorted(pathlib.Path(".").glob("*.yml")):
+    for fn in sorted(pathlib.Path("data/parsed").glob(f"{year}*.yml")):
         print(fn)
         with fn.open() as f:
             games.extend(list(yaml.safe_load_all(f)))
-    extract_games(source, games)
-    extract_players(source, games)
+    extract_games(year, games)
+    extract_players(year, games)
 
 
 if __name__ == '__main__':
-    main(sys.argv[1])
+    main(int(sys.argv[1]))
 
     

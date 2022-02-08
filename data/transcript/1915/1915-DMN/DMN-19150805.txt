@@ -156,7 +156,7 @@ P_H: Munsell #6; Harding #3; Ponder #2
 P_IP: Munsell #3; Harding #5; Ponder #.1
 P_HP: Munsell
 F_DP: Balenti, Dunckle
-outsatend: #1
+outsatend: 1
 T: 2:17
 U: Hayes
 
@@ -276,7 +276,7 @@ P_BB: Faircloth #3; Sewell #1; Higginbotham #4
 P_SO: Faircloth #3; Sewell #7; Higginbotham #4
 P_H: Faircloth #4; Ray #2; Sewell #2
 P_IP: Faircloth #4.1; Sewell #4.2
-outsatend: #1
+outsatend: 1
 T: 2:10
 U: Pontius
 

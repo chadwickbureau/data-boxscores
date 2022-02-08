@@ -631,7 +631,7 @@ P_IP: Phillips #6.1; McGinley #4.2; Williams #6; Winters #4.1
 P_HP: Phillips
 P_WP: Phillips
 F_DP: Maisel, Slattery
-outsatend: #1
+outsatend: 1
 T: 2:00
 U: Pender; Kuhn
 

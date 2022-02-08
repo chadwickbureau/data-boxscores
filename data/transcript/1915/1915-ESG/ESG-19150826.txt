@@ -1535,7 +1535,7 @@ P_SO: Phillips #2; Duchesnil #3
 P_HP: Phillips
 P_WP: Duchesnil
 F_DP: Duchesnil, Hartman, Slattery
-outsatend: #2
+outsatend: 2
 T: 1:05
 U: Kuhn
 

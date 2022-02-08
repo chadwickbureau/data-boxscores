@@ -1217,7 +1217,7 @@ P_H: Hall #3; Winters #4
 P_IP: Hall #2.1; Winters #4.2
 P_WP: Hall
 F_DP: Meusel, Sullivan; Murray, Slattery
-outsatend: #2
+outsatend: 2
 T: 1:50
 U: Pender
 
@@ -1380,7 +1380,7 @@ P_SO: Harned #6; Sitton #1; Meyers #1
 P_H: Harned #11; Sitton #1
 P_IP: Harned #8; Sitton #3
 F_PB: Gido
-outsatend: #1
+outsatend: 1
 T: 2:40
 U: McBride; Johnson
 

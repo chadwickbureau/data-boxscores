@@ -498,7 +498,7 @@ P_R: Goulait #0; Buckels #9; Merritt #0; Currie #4; Ross #13
 P_IP: Goulait #1.1; Buckels #6.2; Merritt #1; Currie #1.1; Ross #7.2
 P_BB: Ross #5; Currie #3; Goulait #4; Buckels #4; Merritt #1
 P_HP: Ross #1
-P_SO: Goulait #1; Buckels #3; Ross #; Merritt #1
+P_SO: Goulait #1; Buckels #3; Ross #3; Merritt #1
 P_WP: Currie; Ross
 F_PB: Kitchens
 T: 2:32

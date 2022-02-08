@@ -380,7 +380,7 @@ league: Florida-Alabama-Georgia
 away: Thomasville
 home: Valdosta
 source: Macon Telegraph, July 15, 1915
-note: game called after the top of the 5th due to rain
+status: completed early, rain
 note: two players listed at ss on Thomasville; move Conley to 2b
 note: two players listed at lf on Valdosta; move Ery to lf
 
@@ -415,7 +415,7 @@ B_SB: Wicker; Parker
 B_SH: Wicker; Medlock; F. Schwartz; Jordan
 P_BB: Dickerson #2
 P_SO: Dickerson #8; Ostendorf #1
-T: :50
+T: 0:50
 U: La Racque
 
 ---

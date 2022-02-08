@@ -215,7 +215,7 @@ P_IP: Harrah #1.2; Redford #2.1; Wagner #6; Hendricks #9; Crum #.1
 P_HP: Redford
 P_BK: Hendricks
 F_DP: Wagner, Stow, Hunter; Hendricks, Knaupp, Schraeder; Kneaves, Schraeder; Kneaves, Knaupp, Schraeder
-outsatend: #1
+outsatend: 1
 T: 2:20
 U: McCafferty
 
@@ -1016,7 +1016,7 @@ B_SB: Wren
 B_SH: Allison; White; Wren; Crockett; Barrett; Disharoon; Wende
 P_BB: Raines #1; Gaines #1
 P_SO: Raines #3; Gaines #8
-outsatend: #1
+outsatend: 1
 T: 1:18
 U: Burleson
 

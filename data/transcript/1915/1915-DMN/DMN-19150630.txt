@@ -686,7 +686,7 @@ P_WP:
 P_BK: 
 F_DP: Young, Cole, Crockett
 F_PB: Glass
-outsatend:  #1
+outsatend: 1
 T: 1:50
 U: Burleson
 

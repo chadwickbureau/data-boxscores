@@ -382,7 +382,7 @@ P_IP: Kinney #8.2; Glenn #.2
 P_HP: Kinney
 P_WP: Kinney
 F_PB: Merritt #2
-outsatend: #1
+outsatend: 1
 T: 2:00
 U: Womack
 
@@ -454,7 +454,7 @@ B_SF: Edmonds
 B_XO: Davis, bunting on third strike
 P_BB: Darnell #1; Tinsley #2
 P_SO: Darnell #3; Raines #1; Tinsley #4
-outsatend: #2
+outsatend: 2
 
 P_GS: ~Raines
 P_GF: ~Tinsley

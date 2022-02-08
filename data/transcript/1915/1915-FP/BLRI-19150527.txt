@@ -197,7 +197,7 @@ line: Frederick:   0 0 2 0 0 0 2 0 0 - 4
 line: Martinsburg: 0 0 3 0 0 0 0 0 0 - 3
 
 
-B_ER: Frederick #; Martinsburg #2
+B_ER: Frederick #3; Martinsburg #2
 B_LOB: Frederick #10; Martinsburg #5
 B_ROE: Frederick #4
 B_2B: Kelly; Johnson; Davis; Whalen

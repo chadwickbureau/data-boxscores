@@ -47,7 +47,7 @@ P_BB: Caporel #7; Buck #5
 P_HP: Caporel
 P_WP: Caporel
 P_BK: Buck
-outsatend: #1
+outsatend: 1
 T: 1:50
 U: Kuhn; McBride
 
@@ -253,7 +253,7 @@ P_IP: Williams #9; Dessau #6; Taylor #13; Sherry #1.2
 P_HP: Dessau 
 P_WP: Taylor
 F_DP: Kroy, O'Neill
-outsatend: #2
+outsatend: 2
 T: 2:30
 U: McBride; Kuhn
 
@@ -354,7 +354,7 @@ P_HP: Brower
 P_WP: Brower
 F_DP: Hunter, Ritter, Creager
 F_PB: Ahles
-outsatend: #2
+: #2
 T: 2:00
 U: McBride; Kuhn
 

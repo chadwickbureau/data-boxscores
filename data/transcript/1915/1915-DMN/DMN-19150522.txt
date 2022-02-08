@@ -193,7 +193,7 @@ P_SO: Ogle #5; Stewart #1
 P_H: Ogle #6; Markle #1
 P_IP: Ogle #8.1
 F_DP: Tanner
-outsatend: #1
+outsatend: 1
 T: 1:40
 U: Miller
 
@@ -894,7 +894,7 @@ P_IP: Welch #7; Abell #3
 P_HP: Welch #4; Abell #1; Florance #2
 P_WP: Welch
 F_DP: Fleck, Wetsel
-outsatend: #2
+outsatend: 2
 T: 2:45
 U: Dawkins
 

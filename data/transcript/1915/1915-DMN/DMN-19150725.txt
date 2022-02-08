@@ -225,7 +225,7 @@ P_HP: Napier
 P_WP: Rose
 F_DP: Stow, Hunter; Summers, Newnam; Summers, Seitz, Newnam
 F_PB: Clarke
-outsatend: #1
+outsatend: 1
 T: 1:55
 U: Wright
 

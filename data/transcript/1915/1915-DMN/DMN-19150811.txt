@@ -372,7 +372,7 @@ B_HP: Weber
 P_BB: Hornsby #2
 P_SO: Glenn #4; Hornsby #5
 P_HP: Glenn
-outsatend: #2
+outsatend: 2
 T: 1:30
 U: Watt
 
@@ -710,6 +710,6 @@ P_HP: Williams
 P_WP: Daniels
 F_DP: Brady, Morris
 F_PB: Crittenden
-outsatend: #1
+outsatend: 1
 T: 2:10
 U: Womack

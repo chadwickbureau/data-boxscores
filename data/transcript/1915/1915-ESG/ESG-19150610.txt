@@ -100,7 +100,7 @@ P_BB: Bell #6; Harned #2; Rapp #1
 P_SO: Bell #5; Harned #3
 P_H: Harned #11
 P_IP: Harned #9.1
-outsatend: #1
+outsatend: 1
 T: 2:00
 U: O'Connor; Kuhn
 
@@ -619,7 +619,7 @@ Cook @ 2b:	3 0 1 1 4 0
 Reed @ 3b:	5 1 0 3 3 0
 Bruggy @ 1b:	5 0 1 14 1 1
 Meara @ lf:	3 1 2 1 0 0
-Breckenridge @ cf:	4 1 1 1 0 0+
+Breckenridge @ cf:	4 1 1 1 0 0
 Tamsett @ ss:	4 0 1 1 3 0
 Fitzgerald @ c:	3 1 2 6 1 0
 Buckles @ p:	1 0 1 0 3 0

@@ -50,7 +50,7 @@ P_IP: Gouilat #2.2; Sloan # 8.1; Harding #6; Munsell #4.2
 P_HP: Gouilat 
 F_DP: Baggan, Meek
 F_PB: Meek
-outsatend: #2
+outsatend: 2
 T: 2:15
 U: Hayes
 
@@ -373,7 +373,7 @@ P_SO: Faircloth #12; Compere #6
 P_HP: Compere #2; Faircloth #1
 P_WP: Compere
 F_DP: Mathis, Sorey; Compere, Payne, Burke
-outsatend: #2
+outsatend: 2
 T: 2:40
 U: Spencer
 

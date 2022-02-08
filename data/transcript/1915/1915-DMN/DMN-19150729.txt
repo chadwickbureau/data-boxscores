@@ -138,7 +138,7 @@ B_SH: Wohlleben
 P_BB: Hill #1; Martina #2
 P_SO: Hill #4; Martina #2
 F_DP: Martina, Cooke, Dodd, Dilger
-outsatend: #2
+outsatend: 2
 T: 1:27
 U: McCafferty; Moran
 
@@ -256,7 +256,7 @@ P_IP: Herbert #8.1; Gearheart #.1; Kinney #8; Covington #1
 F_DP: Harper, Hornsby, Hellman
 F_TP: Kinney, Merritt, Hellman, Merritt
 F_PB: Merritt
-outsatend: #2
+outsatend: 2
 T: 2:00
 U: Pontius
 

@@ -49,7 +49,7 @@ P_IP: Bono #5; Gouilat #4
 P_WP: Bono; Gouilat
 F_DP: Jost, Cooke, Dilger
 F_PB: Dunn
-outsatend: #2
+outsatend: 2
 T: 2:05
 U: Moran
 
@@ -355,7 +355,7 @@ P_BB: Long #3
 P_SO: Long #5; Jordon #3
 P_H: Jordon #9
 P_IP: Jordon #7.2; Mickey #1.1
-outsatend: #1
+outsatend: 1
 T: 1:50
 U: Womack
 

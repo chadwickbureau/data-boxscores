@@ -120,7 +120,7 @@ P_WP:
 P_BK: 
 F_DP: 
 F_PB: 
-outsatend: #1
+outsatend: 1
 T: 1:49
 U: Hayes
 
@@ -701,7 +701,7 @@ P_WP: Bowen
 P_BK: 
 F_DP: 
 F_PB: Wende
-outsatend: #2
+outsatend: 2
 T: 2:00
 U: Phillips
 

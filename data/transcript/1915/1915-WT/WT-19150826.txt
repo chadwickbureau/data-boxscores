@@ -258,7 +258,7 @@ TOTALS:		1 5 2
 Fargo-Moorhead:	r h e
 Dumont @ p:	x x x
 Smith @ c:	x x x
-TOTALS:		5 x8 0
+TOTALS:		5 8 0
 
 line: Virginia:       1 0 0 0 0 0 0 0 0 - 1
 line: Fargo-Moorhead: 0 0 1 0 1 0 2 1 x - 5
@@ -602,7 +602,8 @@ TOTALS:		30 9 6 27 10 1
 line: Fargo-Moorhead: 0 0 0 0 2 0 0 0 0 - 2
 line: Winnipeg:       2 0 0 3 1 1 2 0 x - 9
 
-B_LOB: Fargo-Moorhead #3; Winnipeg #x
+note: Winnipeg B_LOB unreadable
+B_LOB: Fargo-Moorhead #3
 B_2B: [Tony] Burgwald; Murphy
 B_3B: McGee; Berger
 B_HR: Flaherty

@@ -373,7 +373,7 @@ P_SO: Huey #1; Gorham #6
 P_HP: Huey; Gorham
 P_WP: Huey; Gorham
 F_PB: Coe; Schultz
-outsatend: #2
+outsatend: 2
 T: 2:00
 U: Setley
 

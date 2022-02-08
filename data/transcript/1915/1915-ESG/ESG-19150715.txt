@@ -190,7 +190,7 @@ P_BB: Turner #4
 P_SO: Frock #2; Turner #1
 P_HP: Frock
 F_DP: Pepe, Curry, Murphy
-T: :56
+T: 0:56
 U: O'Connor
 
 ---
@@ -360,7 +360,7 @@ league: New York State
 away: Troy
 home: Binghamton
 source: Elmira Star-Gazette, July 17, 1915
-note: game called due to rain after 5th
+status: completed early, rain
 
 Troy:		ab r h po a e
 Breckenridge @ cf:	2 0 0 1 0 0
@@ -398,7 +398,7 @@ B_SH: Miller
 P_BB: Parsons #6
 P_SO: Sitton #1
 F_DP: Gough, Reed
-T: :50
+T: 0:50
 U: O'Connor
 
 ---
@@ -409,7 +409,7 @@ league: New York State
 away: Troy
 home: Binghamton
 source: Elmira Star-Gazette, July 17, 1915
-note: game was 7 innings by agreement
+status: completed early, by agreement
 
 Troy:		ab r h po a e
 Breckenridge @ cf:	3 1 0 1 0 0

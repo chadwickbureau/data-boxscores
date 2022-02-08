@@ -40,7 +40,7 @@ B_XO: Crouch, hit by batted ball
 P_BB: Barfoot #5; Goulait #1
 P_SO: Barfoot #4; Goulait #4
 F_DP: Smith, Sentell, Tarleton; Tullos, Kellerman, Snedecor; Elwert, Sentell
-outsatend: #2
+outsatend: 2
 U: McCafferty; Hayes
 
 ---

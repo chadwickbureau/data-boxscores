@@ -44,7 +44,7 @@ B_SH: Ponder #2; Dunn; Burch
 P_BB: Ponder #3; Renfer #4
 P_SO: Ponder #2; Renfer #4
 F_DP: Kellerman, Snedecor
-outsatend: #2
+outsatend: 2
 T: 1:40
 U: Moran; Wright
 
@@ -275,7 +275,7 @@ P_H: Faircloth #7; Sewell #4; Compere #3; Payne #8
 P_IP: Faircloth #7.1; Sewell #1; Compere #.2; Payne #8.1
 P_HP: Payne #2
 F_DP: Mathis, Ritter; Brady, Albus
-outsatend: #1
+outsatend: 1
 T: 2:05
 U: Womack
 
@@ -332,7 +332,7 @@ P_BB: Fulwider #2; Gierhart #1
 P_SO: Fulwider #4; Gierhart #2
 P_HP: Fulwider #2
 F_PB: Felt
-outsatend: #2
+outsatend: 2
 T: 1:30
 U: Pontius
 

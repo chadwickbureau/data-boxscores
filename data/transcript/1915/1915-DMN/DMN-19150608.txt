@@ -402,7 +402,7 @@ P_WP:
 P_BK: 
 F_DP: 
 F_PB: 
-outsatend: #1
+outsatend: 1
 T: 2:00
 U: Reid
 

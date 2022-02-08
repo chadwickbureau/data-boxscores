@@ -146,7 +146,7 @@ B_SB: Evans
 P_BB: Sherry #2
 P_SO: Fullerton #3; Sherry #4
 F_DP: Tamsett, Cook, Foley
-outsatend: #1
+outsatend: 1
 T: 1:35
 U: O'Connor; Kuhn
 
@@ -414,7 +414,7 @@ B_SF: Hollander; McDonough
 P_BB: Frill #3; Buck #2
 P_SO: Buck #4
 P_BK: Buck
-outsatend: #1
+outsatend: 1
 T: 1:35
 U: O'Connor
 
@@ -464,7 +464,7 @@ P_BB: Kimball #2; Buckles #1
 P_SO: Kimball #4; Buckles #6
 P_WP: Kimball; Buckles
 F_DP: Prieste, Quinn; Jim O'Rourke, Quinn; Foley, Tamsett
-outsatend: #2
+outsatend: 2
 T: 1:45
 U: Kuhn; Dougherty
 

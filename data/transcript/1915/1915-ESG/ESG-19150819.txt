@@ -98,7 +98,7 @@ P_SO: Taylor #3; Brown #3
 P_H: Meyers #12; Brown #5
 P_IP: Meyers #5; Brown #4
 F_DP: Cranston, O'Neill, Walsh; F. O'Rourke, Gido; DeGroff, Briger; Briger, F. O'Rourke
-outsatend: #1
+outsatend: 1
 T: 1:45
 U: Johnson
 
@@ -158,7 +158,7 @@ P_IP: Prieste #6.2; Cornwell #3
 P_HP: Higgins; Prieste #2
 F_DP: Mullen, Murray; Prieste, Konnick, Quinn
 F_PB: Konnick
-outsatend: #2
+outsatend: 2
 T: 2:00
 U: Tom Philbin
 
@@ -265,7 +265,7 @@ P_BB: Dessau #5; Fullerton #3
 P_SO: Dessau #5; Fullerton #3
 P_HP: Dessau
 F_DP: Catiz, Bemis, Ward
-outsatend: #2
+outsatend: 2
 T: 2:14
 U: Kuhn; Pender
 
@@ -770,7 +770,7 @@ P_HP: Rapp
 P_WP: Rapp #2
 F_DP: Pepe, Calhoun
 F_PB: McDonough
-outsatend: #1
+outsatend: 1
 T: 1:37
 U: McBride; Johnson
 

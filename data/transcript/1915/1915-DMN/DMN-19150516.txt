@@ -47,7 +47,7 @@ P_SO: Moore #7; Brady #6
 P_HP: Moore
 P_BK: Brady
 F_DP: Johnson, Summers; Summers, Watson
-outsatend: #1
+outsatend: 1
 T: 1:46
 U: Hayes
 
@@ -164,7 +164,7 @@ P_IP: Redford #1.1; Fentress #7.1
 P_HP: Redford
 P_BK: Redford
 F_DP: Fentress, Lee, Hunter; Nixon, Kneaves
-outsatend: #2
+outsatend: 2
 T: 1:45
 U:  Miller
 

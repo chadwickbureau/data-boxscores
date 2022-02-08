@@ -38,7 +38,7 @@ B_SB: McMahon; Thrasher
 B_XO: Flynn, hit by batted ball
 P_BB: Mullin #2
 P_SO: Mullin #3; Cochran #5
-outsatend: #2
+outsatend: 2
 T: 1:55
 U: McGowan 
 
@@ -445,7 +445,7 @@ B_SH: Walters; Flynn
 P_BB: Hamilton #1
 P_SO: Hamilton #9; Nicks #5
 F_DP: Hamilton, Carnes; Steinbrenner, Foiles
-outsatend: #1
+outsatend: 1
 T: 1:50
 U: McGowan 
 
@@ -541,7 +541,7 @@ P_BB: O'Brien #2; Strain #2
 P_SO: O'Brien #5; Strain #1
 P_HP: Strain
 F_DP: Taguer, Crowell, Hurley
-outsatend: #1
+outsatend: 1
 T: 1:20
 U: Davern
 
@@ -863,7 +863,7 @@ P_HP: Hamilton #2
 P_WP: Applegate
 F_DP: Edwards, Parmalee; Walters, Crist, Laughlin
 F_PB: Ulrich #2
-outsatend: #2
+outsatend: 2
 T: 2:12
 U: Bussey
 

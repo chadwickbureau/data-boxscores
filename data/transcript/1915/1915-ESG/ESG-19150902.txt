@@ -153,7 +153,7 @@ B_SH: Bender; Mullen #2; Murray; Hartman; F. O'Rourke
 P_BB: Brown #4
 P_SO: Brown #3; Fox #3
 F_DP: Brown, F. O'Rourke, Noonan
-outsatend: #2
+outsatend: 2
 T: 1:55
 U: Kuhn
 
@@ -201,7 +201,7 @@ B_HP: Breckenridge; Herman
 P_SO: Jarmon #1; Jacobs #5
 P_HP: Jacobs; Jarmon
 F_DP: Durgin; Tamsett, Fitzgerald; Tamsett, Foley, Fitzgerald
-outsatend: #2
+outsatend: 2
 T: 1:22
 U: Pender; McBride
 
@@ -363,7 +363,7 @@ P_H: Shick #9; Gerner #1
 P_IP: Shick #6; Gerner #4
 P_WP: Fullerton
 F_DP: Oakes, Hollander; Meyer, Durgin
-outsatend: #1
+outsatend: 1
 T: 1:57
 U: Pender
 

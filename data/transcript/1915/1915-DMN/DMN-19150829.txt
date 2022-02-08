@@ -137,7 +137,7 @@ P_BB: Redford #2; Duffey #2
 P_SO: Redford #5; Duffey #1
 P_WP: Redford
 F_DP: Stow, Atz, Hunter; Kneaves, Schraeder; Carroll, Kneaves, Schraeder
-outsatend: #1
+outsatend: 1
 T: 1:48
 U: Hayes
 
@@ -149,7 +149,7 @@ league: Texas
 away: Shreveport
 home: Fort Worth
 source: Dallas Morning News, August 30, 1915
-status: game ended early due to darkness
+status: completed early, darkness
 
 Shreveport:	ab r h po a e
 Murphy @ cf:	3 0 0 0 0 0
@@ -254,7 +254,7 @@ number: 0
 league: Western Association
 away: Tulsa
 home: McAlester
-status: forfeit, McAlester declared winner, 9-0
+status: forfeit, McAlester declared winner 9-0
 source: Dallas Morning News, August 30, 1915
 note: Tulsa failed to go to McAlester
 

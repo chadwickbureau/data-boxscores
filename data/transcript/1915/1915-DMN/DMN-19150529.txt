@@ -528,7 +528,7 @@ P_SO: Gilmore #9; Hodges #1; LaHew #1
 P_H: Hodges #10; LaHew #4
 P_IP: Hodges #7; LaHew #4
 F_DP: Gilmore, McMahon, Meason; Barrett, Walker
-outsatend: #1
+outsatend: 1
 T: 2:15
 U: Estill
 
@@ -907,7 +907,7 @@ B_SH: Bedford; McDonald; Irwin #2; Stewart
 P_BB: Jeffries #2
 P_SO: Jeffries #9; Byrum #6
 F_DP: Nolan, Davis; Davis, Byrum
-outsatend: #2
+outsatend: 2
 T: 1:50
 U: Griffin
 

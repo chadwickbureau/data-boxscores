@@ -288,7 +288,7 @@ P_H: Graham #10; Efird #4
 P_IP: Graham #8; Efird #4
 P_HP: Graham
 F_DP: Irmscher, Goalby
-outsatend: #1
+outsatend: 1
 T: 2:05
 U: Poole; Teague
 
@@ -343,7 +343,7 @@ P_SO: Leake #7; Poole #4
 P_WP: Leake
 F_DP: Poh, Goalby, Henry
 F_PB: Ulrich
-outsatend: #1
+outsatend: 1
 T: 2:15
 U: Graham; O'Brien
 
@@ -449,7 +449,7 @@ P_BB: Green #8; McManus #1
 P_SO: Green #5; McManus #4
 P_HP: Green
 F_PB: Stewart; Eubanks
-outsatend: #1
+outsatend: 1
 T: 1:55
 U: Davern
 
@@ -641,7 +641,7 @@ B_HR: Donovan
 B_SB: Gust #2; St. Martin
 P_BB: Causey #3
 P_SO: Porray #3; Causey #4
-outsatend: #1
+outsatend: 1
 T: 1:40
 U: Bussey
 
@@ -799,7 +799,7 @@ P_SO: May #7; Green #7
 P_HP: May
 P_WP: May
 F_DP: Parmalee, Hartsell, Gust; Hartsell, Gust
-outsatend: #2
+outsatend: 2
 T: 2:15
 U: Bussey
 
@@ -848,7 +848,7 @@ B_HP: Wratten
 P_BB: Cochran #2; Applegate #2
 P_SO: Cochran #7; Applegate #3
 P_HP: Cochran
-outsatend: #2
+outsatend: 2
 T: 1:35
 U: McGowan
 
@@ -943,7 +943,7 @@ B_HR: Cueto
 B_SB: St. Martin; Short
 P_BB: Richmond #2; Gardin #1
 P_SO: Richmond #3; Gardin #5
-outsatend: #1
+outsatend: 1
 T: 1:25
 U: Bussey
 

@@ -186,7 +186,7 @@ P_BB: Hill #1; Martina #1
 P_SO: Hill #2; Martina #6
 P_WP: Martina
 F_PB: Carson
-outsatend: #1
+outsatend: 1
 T: 1:50
 U: Wright
 
@@ -590,7 +590,7 @@ B_SB: Erwin; Brown #2; Slaughter
 B_SH: Fuller; Wicks; Bailey
 P_BB: Tietze #2; Naylor #3
 P_SO: Tietze #9; Naylor #6
-outsatend: #2
+outsatend: 2
 T: 2:17
 U: Tom Reid
 
@@ -638,7 +638,7 @@ B_SB: Scott
 B_SH: Huber; Daley; Scott; Albus; Gordon; Utzman
 P_BB: Carter #7; Graboske #4
 P_SO: Carter #7; Graboske #5
-outsatend: #2
+outsatend: 2
 T: 1:40
 U: Reed
 

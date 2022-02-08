@@ -109,7 +109,7 @@ P_H: Brady #6; Mullins #2
 P_IP: Brady #9; Mullins #3
 P_HP: Brady
 F_PB: McMurray
-outsatend: #1
+outsatend: 1
 T: 2:00
 U: Hayes
 
@@ -338,7 +338,7 @@ P_SO: Crum #5; Criss #6
 P_H: Crum #8; Munsell #1; Sewell #1
 P_IP: Crum #8; Munsell #.1; Sewell #.1
 P_HP: Crum #2; Criss #2
-outsatend: #2
+outsatend: 2
 T: 2:20
 U: Wright
 

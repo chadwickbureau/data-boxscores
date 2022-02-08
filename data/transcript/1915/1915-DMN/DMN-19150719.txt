@@ -296,7 +296,7 @@ P_SO: Jones #8; Likowski #6; Campbell #1
 P_H: Likowski #7; Campbell #2
 P_IP: Likowksi #9; Campbell #1
 F_DP: Allen, Dameron; Kilduff, Dameron
-outsatend: #2
+outsatend: 2
 T: 1:40
 U: Pontius
 
@@ -504,4 +504,4 @@ P_SO: Meyers #4; Compere #5
 P_HP: Meyers
 F_DP: Davis, Young, Scoggins
 F_PB: Erwin #2; Shaffer
-outsatend: #2
+outsatend: 2

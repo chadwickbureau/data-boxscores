@@ -801,7 +801,7 @@ league: New York State
 away: Troy
 home: Elmira
 source: Elmira Star-Gazette, July 14, 1915
-note: one out when game was called due to rain in the 5th
+status: completed early, rain
 
 Troy:		ab r h po a e
 Breckenr'e @ cf:	1 0 1 1 0 0
@@ -840,8 +840,8 @@ P_H: Buckles #4; Parsons #8
 P_IP: Buckles #.1; Parsons #4
 P_WP: Dessau
 F_DP: Dessau, Johnson, Ward; Loudy, Johnson, Ward
-outsatend: #1
-T: :52
+outsatend: 1
+T: 0:52
 U: McBride; Johnson
 
 P_GS: ~Buckles
@@ -1237,7 +1237,7 @@ P_BB: Friel #1; Phillips #7
 P_SO: Friel #4; Phillips #7
 P_HP: Friel #2; Phillips 
 F_DP: Friel, Russell; Brown, Gido; Briger, Burke; Marhefka, McConnell, Russell; Konnick, McConnell, Russell
-outsatend: #1
+outsatend: 1
 T: 3:20
 U: Pender; Dougherty
 
@@ -1286,7 +1286,7 @@ B_3B: Briger; Brown
 B_SB: Konnick #2; Marhefka; Burke
 P_BB: Cornwall #1; Beretski #1
 P_SO: Cornwall #6; Beretski #1
-outsatend: #1
+outsatend: 1
 T: 1:15
 U: Dougherty; Pender
 

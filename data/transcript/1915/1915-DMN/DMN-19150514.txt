@@ -254,7 +254,7 @@ P_SO: Ray #4; Campbell #5; Kinney #3
 P_H: Ray #6; O'Neil #1; Campbell #3
 P_IP: Campbell #8; Kinney #2
 P_HP: Ray; Campbell
-outsatend: #1
+outsatend: 1
 T: 1:35
 U: Pontius
 

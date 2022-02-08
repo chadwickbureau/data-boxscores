@@ -361,7 +361,7 @@ P_H: Teague #5; Applegate #2
 P_IP: Teague #8.1; Applegate #.2
 P_HP: Teague
 F_PB: Ulrich #2
-outsatend: #2
+outsatend: 2
 T: 1:50
 U: McGowan
 
@@ -938,5 +938,5 @@ B_2B: Gray; Snyder
 P_BB: Pool #2; O'Brien #2
 P_SO: Pool #5; O'Brien #3
 F_DP: Henry, Hummel, Henry
-T: :45
+T: 0:45
 U: McGowan

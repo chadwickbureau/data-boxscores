@@ -163,7 +163,7 @@ B_SH: Markle
 P_BB: Markle #3
 P_SO: Markle #13; Jost #7
 F_DP: Grubb, Conwell, Wohlleben
-outsatend: #1
+outsatend: 1
 T: 1:55
 U: McCafferty
 
@@ -346,7 +346,7 @@ date: 1915-07-28
 number: 0
 league: Western Association
 away: Fort Smith  
-home: Sherman
+home: McAlester
 source: Dallas Morning News, July 29, 1915
 
 Fort Smith:	ab r h po a e

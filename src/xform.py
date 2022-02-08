@@ -96,6 +96,8 @@ def process_source(game: dict, key: str, value: str) -> dict:
 
 
 def process_attendance(game: dict, key: str, value: str) -> dict:
+    if value == "":
+        return game
     game['game']['attendance'] = int(value.replace(",", ""))
     return game
 
@@ -119,7 +121,10 @@ def process_linescore(game: dict, key: str, value: str) -> dict:
     name, data = (x.strip() for x in value.split(":"))
     team = {team['name']: team for team in game['teams']}[name]
     byinnings, score = (x.strip() for x in data.split("-"))
-    team['score'] = {'total': int(score)}
+    if score != "?":
+        team['score'] = {'total': int(score)}
+    else:
+        team['score'] = {'total': None}
     if byinnings != "":
         team['score']['byinnings'] = [
             None if x == "?" else (
@@ -202,7 +207,7 @@ def transform_team(team: dict, data: Generator[tuple, None, None],
         if ")" in name:
             # TODO: Extract sequence information
             name = name.split(")")[1]
-        if name.startswith(("*", "+", "$", "^")):
+        if name.startswith(("*", "+", "$", "^", "&", "%")):
             note = name[0]
             name = name[1:]
         else:
@@ -260,11 +265,13 @@ def transform_game(source: str, text: str) -> dict:
         "+": process_substitute,
         "$": process_substitute,
         "^": process_substitute,
+        "&": process_substitute,
+        "%": process_substitute,
     }
     credits = [
         "B_LOB", "B_ROE", "B_R", "B_ER", "B_2B", "B_3B", "B_HR",
         "B_SB", "B_SH", "B_SF", "B_HP", "B_XO",
-        "P_BB", "P_SO", "P_H", "P_R", "P_IP", "P_WP", "P_BK", "P_HP",
+        "P_BB", "P_SO", "P_H", "P_R", "P_ER", "P_IP", "P_WP", "P_BK", "P_HP",
         "P_GS", "P_GF", "P_W", "P_L", "P_SV",
         "F_DP", "F_TP", "F_PB",
     ]
@@ -295,11 +302,12 @@ def transform_game(source: str, text: str) -> dict:
 def find_files(inpath: pathlib.Path) -> list:
     return [
         fn for fn in sorted(inpath.glob("*.txt"))
-        if fn.stem != "README"
+        if fn.stem != "README" and fn.stem != "NOTES"
     ]
 
-def extract_files(inpath: pathlib.Path):
-    with open(f"{inpath.stem}.yml", "w") as f:
+
+def extract_files(inpath: pathlib.Path, outpath: pathlib.Path):
+    with (outpath/f"{inpath.stem}.yml").open("w") as f:
         f.write(
             yaml.dump_all(
                 (transform_game(inpath.parts[-1], text)
@@ -313,7 +321,9 @@ def extract_files(inpath: pathlib.Path):
 def main(source: str):
     year, paper = source.split("-")
     inpath = pathlib.Path(f"data/transcript/{year}/{source}")
-    data = extract_files(inpath)
+    outpath = pathlib.Path(f"data/parsed")
+    outpath.mkdir(exist_ok=True, parents=True)
+    extract_files(inpath, outpath)
 
 
 if __name__ == '__main__':

@@ -171,7 +171,6 @@ line: Martinsburg:0 0 0 0 0 0 0 0 0 - 0
 line: Hanover:    4 2 1 0 0 0 0 0 0 - 7
 
 B_ER: Hanover #5
-B_LOB: Hanover #; Martinsburg #
 B_2B: Rawlings; Morris
 B_3B: Mackert; Eline
 B_SB: Rawlings

@@ -46,7 +46,7 @@ P_HP: Brady
 P_WP: Brady
 F_DP: Allen, Smith, Tarlton
 F_PB: Dunn
-outsatend: #2
+outsatend: 2
 T: 2:30
 U: Hayes
 
@@ -98,7 +98,7 @@ B_SH: Reilly; Malmquist; Tanner; Snedecor #2; Odell
 P_BB: Markle #7; Munsell #2
 P_SO: Markle #3; Munsell #8
 F_DP: Malmquist, Tanner, Wohlleben
-outsatend: #2
+outsatend: 2
 T: 2:20
 U: Anderson
 

@@ -41,7 +41,7 @@ B_SH: Edwards; Biddle; Doyle; Taguer #2; Hurley
 P_BB: Teague #5; Strain #2
 P_SO: Teague #6; Strain #1
 F_DP: Strain, Hummel, Hurley
-outsatend: #2
+outsatend: 2
 T: 1:40
 U: Cullen
 
@@ -518,7 +518,7 @@ B_SB: Smith; Walters #2; Bunting; Bittle #2; Eisel
 B_SH: Bunting; Parmalee
 P_BB: Voltz #2; Teague #1
 P_SO: Voltz #8; Teague #9
-outsatend: #2
+outsatend: 2
 T: 2:20
 U: Bigbie; Bussey
 
@@ -974,7 +974,7 @@ P_BB: Craft #5; Poole #1
 P_SO: Craft #4; Poole #3
 P_HP: Craft
 F_DP: Damrau, Taguer, Hurley
-outsatend: #2
+outsatend: 2
 T: 1:50
 U: McGowan
 

@@ -368,7 +368,7 @@ P_SO: Barton #4; Gardinier #9
 P_HP: Gardinier
 P_WP: Barton; Gardinier
 P_BK: Gardinier
-outsatend: #2
+outsatend: 2
 T: 2:01
 U: Cullen
 
@@ -717,7 +717,7 @@ P_BB: Strain #4; Humphreys #1
 P_HP: Humphreys
 P_WP: Humphreys
 F_DP: Zeimer, Taguer, Hurley #4; Dempsey, Hurley, Dempsey; Cleveland, Foiles, Mace, Cleveland
-outsatend: #2
+outsatend: 2
 T: 1:45
 U: McGowan
 

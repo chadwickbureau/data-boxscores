@@ -479,7 +479,7 @@ P_BB: Doyle #2; Nicholson #3; Fullerton #4
 P_SO: Doyle #2; Nicholson #1; Fullerton #4
 P_HP: Nicholson
 F_PB: Roth
-outsatend: #1
+outsatend: 1
 T: 2:15
 U: O'Connor
 

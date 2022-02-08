@@ -5,3 +5,6 @@ __pycache__
 *.pyc
 .idea
 .python-version
+data/normal
+data/parsed
+data/summary

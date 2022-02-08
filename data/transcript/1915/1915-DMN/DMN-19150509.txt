@@ -106,7 +106,7 @@ P_SO: Stewart #4; Speer #5
 P_HP: Speer #2
 F_DP: Stewart, Balenti, Snedecor; Hauenstein, Knaupp
 F_PB: Carson
-outsatend: #2
+outsatend: 2
 T: 2:35
 U: Wright; McCafferty
 
@@ -318,7 +318,7 @@ P_H: Koehn #8
 P_IP: Koehn #7.1
 P_WP: Koehn
 F_DP: Dupuy
-outsatend: #1
+outsatend: 1
 T: 2:00
 U: Spencer
 

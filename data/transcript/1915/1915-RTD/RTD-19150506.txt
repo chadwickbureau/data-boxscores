@@ -52,7 +52,7 @@ P_SO: Rice #8; Mullin #3; Gardinier #1; Johnson #1
 P_H: Mullin #7; Gardinier #1
 P_IP: Mullin #7; Gardinier #1; Johnson #1 
 P_HP: Mullin; Rice #2
-outsatend: #2
+outsatend: 2
 T: 1:50
 U: Rossback
 
@@ -248,7 +248,7 @@ P_BB: Humphries #2; O'Brien #2
 P_SO: Humphries #6; O'Brien #4
 P_HP: O'Brien
 F_DP: Steinbrenner, Overton, Foiles
-outsatend: #2
+outsatend: 2
 T: 1:40
 U: Ryan
 
