@@ -1,0 +1,146 @@
+date: 1923-06-02
+number: 0
+league: South Dakota
+away: Mitchell
+home: Watertown
+source: Sioux Falls (SD) Argus-Leader, June 3 1923
+			
+Mitchell: 	ab r h po a e
+Lee @ lf: 	2 1 2 0 0 0
+Proffitt @ lf:	5 2 2 3 0 0
+Stokke @ 1b: 	6 2 2 13 0 1 
+Hart @ rf: 	7 2 2 3 1 0  
+Nason @ cf: 	6 4 3 3 0 0
+Shaunessy @ 3b: 4 3 3 1 1 2
+Morris @ 2b: 	7 1 3 5 3 1
+Callan @ ss:	5 1 2 4 4 1
+Metzger @ c: 	5 0 1 5 1 2
+Redenbaugh @ p: 5 1 1 0 3 0
+Venemon @ p: 	0 0 0 0 1 0
+Maple @ p:	2 0 0 0 0 0
+TOTALS: 	64 17 21 36 14 7
+
+Watertown: 	ab r h po a e
+Bowers @ ss: 	5 1 0 2 1 3
+Donlin @ cf:    6 3 1 5 1 0
+Pederson @ c:	5 2 2 3 1 0
+Frank @ lf:	7 2 3 1 0 0
+Johnson @ 1b:   7 2 2 17 0 0
+Wick @ 2b: 	5 3 2 4 8 1
+Houle @ ss:	7 2 4 3 4 2
+Shields @ rf:	6 1 2 1 0 0
+Desjardin @ p:	1 0 1 0 2 0
+Griffin @ p:	3 0 0 0 4 0 
+Michaelson @ p: 1 0 0 0 2 0
+*Smith @ ph:	1 0 0 0 0 0
+TOTALS: 	54 16 17 36 23 6
+*: Batted for Griffin in 8th.
+	
+line: Mitchell: 3 0 0 5 0 2 4 0 2 0 0 1 - 17
+line: Watertown: 2 1 2 0 2 0 2 4 3 0 0 0 - 16
+	
+B_LOB: Mitchell #11; Watertown #9
+B_ROE: 
+B_ER: Mitchell #11; Watertown #10
+B_2B: Redenbaugh; Nason; Wick; Shields
+B_3B: Lee; Nason; Morris; Frank; Pederson; Johnson
+B_HR: Hart; Shaunessy; Houle
+B_SB: Shaunessy; Metzger; Desjardin
+B_SH: Stokke; Shaunessy; Callan; Metzger
+B_SF: 
+B_HP: Callan; Bowers; Pederson
+B_XO: 
+P_BB: Desjardin #2; Griffin; Redenbaugh #4; Venemon; Maple
+P_SO: Desjardin; Michaelson #2; Redenbaugh; Venemon; Maple
+P_H: Desjardin #7; Griffin #10; Michaelson #4; Redenbaugh #13; Venemon #3; Maple
+P_IP: Desjardin #3.2; Griffin #4.1; Michaelson #4; Redenbaugh #7; Venemon #1.1; Maple #3.2
+P_HP: Griffin; Redenbaugh; Venemon
+P_WP: 
+P_BK: 
+F_DP: Houle, Wick, Johnson
+F_PB: Metzger #2; Pederson
+outsatend: 
+T: 3:10
+U: Magoon
+		
+
+P_GS: ~Redenbaugh; ~Desjardin
+P_GF: ~Michaelson; ~Maple
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1923-06-02
+number: 0
+league: South Dakota
+away: Sioux Falls
+home: Aberdeen
+source: Sioux Falls (SD) Argus-Leader, June 3 1923
+		
+Sioux Falls: 	ab r h po a e
+Naleway @ ss: 	5 0 1 3 4 0
+Cleve @ 2b: 	3 2 1 2 4 0
+Beatty @ 1b: 	2 0 1 9 1 0
+Stolz @ rf: 	4 1 1 3 0 0
+Loudeman @ 3b:	4 1 1 2 2 0
+Devoss @ lf:	4 0 1 0 0 0
+Dempsey @ cf:	4 0 1 5 0 0
+Maloney @ c:    3 0 1 2 0 0
+Albertson @ p:	4 0 1 1 3 0
+TOTALS: 	33 4 9 27 18 0
+
+Aberdeen: 	ab r h po a e
+Wert @ 1b:	3 0 0 16 0 1
+Bruski @ cf:	4 0 0 3 0 0
+Gaffke @ 2b: 	4 0 0 1 8 0
+Benson @ ss: 	3 0 2 3 2 3
+Guss @ lf:	2 1 0 1 0 0
+Zart @ rf:	2 0 0 0 0 0
+Clemmons @ c: 	3 0 1 2 1 0
+Barr @ 3b: 	3 0 0 1 3 0
+Farnum @ p:	3 0 1 0 3 0
+*Novak @ ph: 	1 0 1 0 0 0
++Brindza @ pr: 	0 1 0 0 0 0
+$Nolt @ ph:	1 0 1 0 0 0
+^Brandt @ ph:	1 0 0 0 0 0
+TOTALS: 	30 2 6 27 17 4
+*: Batted for Barr in 9th.
++: Ran for Novak in 9th.
+$: Batted for Farnum in 9th.
+^: Batted for Wert in 9th.
+
+line: Sioux Falls: 0 0 0 1 0 3 0 0 0 - 4	
+line: Aberdeen: 0 0 0 1 0 0 0 0 1- 3
+		
+
+B_LOB: Aberdeen #8; Sioux Falls #5
+B_ROE: 
+B_ER: Aberdeen #2; Sioux Falls
+B_2B: Naleway; Cleve
+B_3B: Nolt; Stolz
+B_HR: 
+B_SB: Bruski; Benson; Clemmons; Guss; Loudeman; Maloney
+B_SH: Beatty #2; Cleve; Guss
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Albertson #7; Farnum
+P_SO: Albertson #2; Farnum #2
+P_H:  
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: Albertson
+F_DP: Gaffke, Benson, Wert; Naleway, Cleve, Beatty
+F_PB: 
+outsatend: 
+T: 1:42
+U: O'Brien
+		
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV:

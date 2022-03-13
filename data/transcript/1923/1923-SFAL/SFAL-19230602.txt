@@ -1,0 +1,136 @@
+date: 1923-06-01
+number: 0
+league: South Dakota
+away: Mitchell
+home: Watertown
+source: Sioux Falls (SD) Argus-Leader, June 2 1923
+			
+Mitchell: 	ab r h po a e
+Lee @ lf: 	5 2 2 2 0 0
+Stokke @ 1b: 	5 1 1 10 0 0
+Hart @ rf: 	5 1 3 3 0 0
+Nason @ cf: 	5 1 1 0 0 0
+Shaunessy @ 3b: 3 1 0 1 1 0
+Morris @ 2b: 	5 0 1 3 5 1
+Proffitt @ p:   4 0 1 0 1 0
+Callan @ ss: 	3 1 1 2 2 0
+Metzger @ c: 	4 0 1 6 1 0
+TOTALS: 	39 7 11 27 10 1
+
+Watertown: 	ab r h po a e
+Bowers @ ss: 	4 0 1 1 1 2
+Wick @ 2b: 	4 0 1 4 2 0
+Pederson @ lf:	4 0 1 2 0 0
+Frank @ rf:	4 0 3 2 0 0
+Johnson @ 1b:   3 0 1 7 0 0
+Donlin @ cf:    4 0 0 3 1 0
+Nelson @ 3b: 	4 0 0 1 1 1
+Smith @ c:	3 0 1 6 1 0
+Prodinski @ p:	4 0 0 1 2 1
+TOTALS: 	34 0 8 27 8 4
+	
+line: Mitchell: 3 2 1 0 0 0 0 0 1 - 7
+line: Watertown: 0 0 0 0 0 0 0 0 x - 0
+	
+B_LOB: Mitchell #8; Watertown #7
+B_ROE: 
+B_ER: Mitchell #5
+B_2B: Frank; Wick; Proffitt
+B_3B: 
+B_HR: Hart; Lee
+B_SB: Lee; Nason; Shaunessy
+B_SH: 
+B_SF: 
+B_HP: Shaunessy
+B_XO: 
+P_BB: Prodinski #3; Proffitt #2
+P_SO: Prodinski #6; Proffitt #6
+P_H: 
+P_IP: 
+P_HP: Prodinski
+P_WP: Prodinski
+P_BK: 
+F_DP: Shaunessy, Morris, Stokke; Morris, Stokke
+F_PB: Smith
+outsatend: 
+T: 1:45
+U: Magoon
+		
+
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1923-06-01
+number: 0
+league: South Dakota
+away: Sioux Falls
+home: Aberdeen
+source: Sioux Falls (SD) Argus-Leader, June 2 1923
+		
+Sioux Falls: 	ab r h po a e
+Naleway @ ss: 	4 0 0 1 1 0
+Cleve @ 2b: 	4 0 0 0 0 0
+Beatty @ 1b: 	3 0 0 5 0 0
+Ludolph @ rf:	2 0 1 3 0 0
+Stolz @ rf: 	1 0 0 0 0 0
+Louderman @ 3b:	3 0 0 1 1 0
+Myers @ lf:	1 0 0 1 0 0
+Devoss @ lf:	2 0 0 1 0 1
+Dempsey @ cf: 	3 0 0 4 0 0
+Maloney @ c:    3 0 1 7 0 0
+Delman @ p:	3 0 0 1 1 0
+TOTALS: 	28 0 2 24 3 1
+
+Aberdeen: 	ab r h po a e
+Nolt @ cf:	3 1 2 1 0 0
+Bruski @ lf:	4 1 2 0 0 0
+Gaffke @ 2b: 	4 0 0 2 3 1
+Benson @ ss: 	4 0 1 3 4 0
+Novak @ c: 	3 0 1 9 3 0
+Zart @ rf:	4 0 0 2 0 0
+Barr @ 3b: 	4 0 0 1 0 0
+Wert @ 1b:	3 1 1 9 0 0
+Clemons @ lf: 	5 1 1 2 0 0
+Brandt @ p:	3 0 1 0 4 0
+*Brindza @ ph: 	0 0 0 0 0 0
+TOTALS: 	39 4 9 27 13 2
+*: Batted for Novak in 6th and 9th.
+
+line: Sioux Falls: 0 0 0 0 0 0 0 0 0 - 0	
+line: Aberdeen: 2 0 0 0 2 0 0 0 x- 4
+		
+
+B_LOB: Aberdeen #6; Sioux Falls #2
+B_ROE: 
+B_ER: Aberdeen #3
+B_2B: Bruski #2; Nolt; Ludolph
+B_3B: 
+B_HR: 
+B_SB: 
+B_SH: 
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Brandt; Delman #2
+P_SO: Brandt #8; Delman #6
+P_H:  
+P_IP: 
+P_HP: 
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 
+T: 1:45
+U: O'Brien
+		
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV:

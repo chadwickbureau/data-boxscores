@@ -1,0 +1,134 @@
+date: 1923-06-03
+number: 0
+league: South Dakota
+away: Mitchell
+home: Watertown
+status: completed early, rain
+source: Sioux Falls (SD) Argus-Leader, June 4 1923
+			
+Mitchell: 	ab r h po a e
+Morris @ 2b: 	4 0 1 3 2 1
+Stokke @ 1b: 	3 1 1 8 0 0
+Hart @ rf: 	4 1 1 0 0 0 
+Nason @ cf: 	4 1 3 3 0 0
+Shaunessy @ 3b: 3 1 3 0 1 0
+Proffitt @ lf:	4 0 1 0 0 0
+Standaert @ c: 	4 1 1 5 0 0
+Callan @ ss:	4 0 1 1 2 1
+Duffy @ p: 	2 0 0 0 1 0
+Hager @ p: 	0 0 0 0 0 0 
+TOTALS: 	32 5 12 20 6 2
+
+Watertown: 	ab r h po a e
+Bowers @ ss: 	4 1 2 1 1 0
+Donlin @ cf:    2 1 1 3 1 0
+Pederson @ c:	4 0 0 5 0 0 
+Frank @ lf:	3 1 1 1 0 0 
+Johnson @ p:    3 0 0 1 0 0
+Wick @ 2b: 	3 1 2 1 4 0
+Houle @ ss:	3 0 1 2 2 0
+Carlson @ 1b:	3 2 0 7 0 0
+Conway @ rf:	2 2 0 0 0 1
+TOTALS: 	37 8 7 21 7 1
+
+	
+line: Mitchell: 1 0 3 0 0 0 1 - 5
+line: Watertown: 0 5 3 0 0 0 0 - 8
+	
+B_LOB: Mitchell #8; Watertown #8
+B_ROE: 
+B_ER: Mitchell #4; Watertown #7
+B_2B: Stokke; Hart; Nason; Shaunessy
+B_3B: 
+B_HR: Frank; Standaert
+B_SB: Donlin; Wick
+B_SH: Houle
+B_SF: 
+B_HP: Shaunessy; Wick
+B_XO: 
+P_BB: Johnson #3; Duffy #3
+P_SO: 
+P_H: Duffy #3; Hager #4
+P_IP: Duffy #2; Hager #3.2 
+P_HP: Johnson; Hager
+P_WP: 
+P_BK: 
+F_DP: 
+F_PB: 
+outsatend: 2
+T: 3:10
+U: Magoon
+		
+
+P_GS: ~Duffy
+P_GF: ~Hager
+P_W: 
+P_L: 
+P_SV: 
+
+---
+
+date: 1923-06-03
+number: 0
+league: South Dakota
+away: Sioux Falls
+home: Aberdeen
+source: Sioux Falls (SD) Argus-Leader, June 4 1923
+		
+Sioux Falls: 	ab r h po a e
+Naleway @ ss: 	3 0 0 1 0 0
+Cleve @ 2b: 	3 1 1 3 2 1
+Beatty @ 1b: 	7 0 1 7 0 0
+Stolz @ rf: 	3 0 0 0 0 0
+Loudeman @ 3b:	4 0 1 0 0 0
+Devoss @ lf:	3 0 1 0 0 0
+Dempsey @ cf:	4 0 0 5 0 0
+Maloney @ c:    3 0 0 7 1 0
+Nelson @ p:	3 0 1 1 3 0
+TOTALS: 	30 1 5 24 6 1
+
+Aberdeen: 	ab r h po a e
+Nolt @ cf:	5 1 2 4 0 0
+Bruski @ lf:	4 0 0 0 0 0
+Gaffke @ 2b: 	4 0 0 2 5 0
+Benson @ ss: 	4 0 1 2 5 1
+Guss @ rf:	3 3 2 2 0 0
+Clemmons @ c: 	4 2 3 3 1 0
+Barr @ 3b: 	3 0 0 1 3 1
+Wert @ 1b:	3 0 2 13 0 0
+Lowry @ p:	4 0 1 0 3 0
+TOTALS: 	34 6 11 27 17 2
+
+line: Sioux Falls: 0 0 1 0 0 0 0 0 0 - 1	
+line: Aberdeen: 1 0 0 1 0 2 0 2 x- 6
+		
+
+B_LOB: Aberdeen #7; Sioux Falls #5
+B_ROE: 
+B_ER: Aberdeen #5
+B_2B: Guss
+B_3B: Clemmons; Cleve
+B_HR: 
+B_SB: Nolt; Wert; Cleve
+B_SH: Cleve
+B_SF: 
+B_HP: 
+B_XO: 
+P_BB: Nelson #3; Lowry #3
+P_SO: Nelson #5; Lowry
+P_H:  
+P_IP: 
+P_HP: 
+P_WP: Lowry; Nelson
+P_BK: 
+F_DP: Benson, Gaffke, Wert; Nelson, Maloney, Beatty
+F_PB: Maloney
+outsatend: 
+T: 1:52
+U: O'Brien
+		
+P_GS: 
+P_GF: 
+P_W: 
+P_L: 
+P_SV:
